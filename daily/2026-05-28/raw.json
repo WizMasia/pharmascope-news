@@ -1,0 +1,818 @@
+{
+  "collection_date": "2026-05-28",
+  "date_filter": "2026-05-27",
+  "collected_at": "2026-05-28T22:01:19.455770+00:00",
+  "data": {
+    "korean": {
+      "Pharmaceutical": [
+        {
+          "title": "입원실 남녀 구별 기준 폐지하고 의약품 확인 공백 막는다 - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0weE95WmlVeS1WT19Wc1FfZ0VhSU1IczJiUklkVVhyZ2dwQkNQeWRsS1YxejNJcXA0WllJZ1IySVB1ZFJ3WTZvc3Z0cGhGd2c?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 21:13:06 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE0weE95WmlVeS1WT19Wc1FfZ0VhSU1IczJiUklkVVhyZ2dwQkNQeWRsS1YxejNJcXA0WllJZ1IySVB1ZFJ3WTZvc3Z0cGhGd2c?oc=5\" target=\"_blank\">입원실 남녀 구별 기준 폐지하고 의약"
+        },
+        {
+          "title": "소아의약품 약가 가산 약속됐지만 현장 \"아쉽다\"…개념도 불명확 - 뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VN2VjWXhWVlZMbzlzUzVoZGxwWWtud3l2aVVna29CblBrSmJSZzhmVWk3Zm9UY1d2TDdWVUhlRWdTYm5VQTNSZWUxVUhrTEtNN2lKLXZyLVNqSklUOHAyRA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 21:20:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VN2VjWXhWVlZMbzlzUzVoZGxwWWtud3l2aVVna29CblBrSmJSZzhmVWk3Zm9UY1d2TDdWVUhlRWdTYm5VQTNSZWUxVUhrTEtNN2lKLXZyLVNqSklUOHAyRA?oc=5\" target=\"_blan"
+        },
+        {
+          "title": "\"물 없이 씹어 먹어요\" 국내 첫 '의약품 젤리' 나온다 - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYkVxekhybmJvdHRqbGVGQ21yaXIyVDZQUkUzR195UkduNmhVZ21WRUJKSFc0X09xc3hRdWRRLXBETmFNRVNHUDhLaUFReXl0SG04VUFpMC1OWmNVTWFfTXlvMmY2eXB3MHfSAW9BVV95cUxQMFRQWWtqTzVjNllnX2pVZ3J3aHc0UWI3ZC04aS1rSWdEVHd5eXA3VFlzeWlIQXN2eXNxNXN6NFdZaWZzX0J2ZlVXV19vVmlSSnZCV1FTS3ExeWVtTTg2UjlWelpFNzljYy1MS2ZBdm8?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 19:28:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0tYkVxekhybmJvdHRqbGVGQ21yaXIyVDZQUkUzR195UkduNmhVZ21WRUJKSFc0X09xc3hRdWRRLXBETmFNRVNHUDhLaUFReXl0SG04VUFpMC1OWmNVTWFfTXlvMmY2eXB3MHfSAW9BVV"
+        },
+        {
+          "title": "급여 의약품 6년새 17% 증발…강력한 제네릭 억제 정책 여파 - 데일리팜",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRk5GYndIdGl4NW9VZVV1c2FHaHZfVFd6VnMtcXAycGtwY28tSjJZcXFhaVJvQ2ZKZDU5Nm1KbS1zS3h4b3BtYWxielJ5NGdU?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 21:00:59 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRk5GYndIdGl4NW9VZVV1c2FHaHZfVFd6VnMtcXAycGtwY28tSjJZcXFhaVJvQ2ZKZDU5Nm1KbS1zS3h4b3BtYWxielJ5NGdU?oc=5\" target=\"_blank\">급여 의약품 6년새 17% 증발…강"
+        },
+        {
+          "title": "비만약 원정·중복 처방에…'오남용 우려 의약품' 초읽기 - 연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XUVNzSWNIZWlaQTlnVlZzRHVpeXowZlZsZVIyZXRYXy04cjVReVBRTmtLUkU2dHR6UzRtWmJETGR1eTcwMFNaUlAtN284QkxuLUdzVWlOT2NkenfSAWBBVV95cUxQM0hsR041WkpvS0xNLXVac3d1WTZKdko1cUNtTHhoYlFJeGdDeVNHRDRSbl9yejlxWVZQbDZPclNLQVFRSS1XQ1FMdDZUdk1fTjB3MFVUaENlWmFzc3dWTXM?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:11:17 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XUVNzSWNIZWlaQTlnVlZzRHVpeXowZlZsZVIyZXRYXy04cjVReVBRTmtLUkU2dHR6UzRtWmJETGR1eTcwMFNaUlAtN284QkxuLUdzVWlOT2NkenfSAWBBVV95cUxQM0hsR041WkpvS0"
+        },
+        {
+          "title": "홍종호 국전 대표 “원료의약품서 AI반도체 패키징 등 첨단소재 사업 확장 승부수” - 팜이데일리",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUXhiR0ZvRVF0YXplNkZBdGxXSjdmM1VzLXpOZEp4Q2x4OE9wQ0V1MDdoMWQ4UEZSZ1oxUWFybWFSZXZIT2NtZ0tHTlJLSjEwdVM1TnFscEM4TFVWdVZoUzhtV0p4cHlXbm16MkRn?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 23:30:05 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUXhiR0ZvRVF0YXplNkZBdGxXSjdmM1VzLXpOZEp4Q2x4OE9wQ0V1MDdoMWQ4UEZSZ1oxUWFybWFSZXZIT2NtZ0tHTlJLSjEwdVM1TnFscEM4TFVWdVZoUzhtV0p4cHlXbm16MkRn?o"
+        },
+        {
+          "title": "에머티바이오, MNB Thai와 손잡고 태국 'Ready to Use' 의약품 시장 진출 - 전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqTDN4WExCTlZPUWw0SzRGYmJyczFxMWpmZldzd1c0YWg4ZGR1b09rbldjS2lub1FET04xa1BxbWpwa1hnMkw5RVFoZVozdw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 05:37:14 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqTDN4WExCTlZPUWw0SzRGYmJyczFxMWpmZldzd1c0YWg4ZGR1b09rbldjS2lub1FET04xa1BxbWpwa1hnMkw5RVFoZVozdw?oc=5\" target=\"_blank\">에머티바이오, MNB Thai와 손잡고"
+        },
+        {
+          "title": "가장 위험한 영유아 손상은 기도 폐쇄…의약품 중독도 주의 필요 - news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95SmRKZ29OTXV5aW8xc2xEZ1JWZnNJRGhzTUd4Qkt0aG1MMFF0YmFGX0VPazlZb1lENXJ3b0M1WXRSS1R1ZEp6OGR2cHJBbHRIaTVVelhmT2RreElNUEI0cjk5aUowcFRpOXc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 04:59:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE95SmRKZ29OTXV5aW8xc2xEZ1JWZnNJRGhzTUd4Qkt0aG1MMFF0YmFGX0VPazlZb1lENXJ3b0M1WXRSS1R1ZEp6OGR2cHJBbHRIaTVVelhmT2RreElNUEI0cjk5aUowcFRpOXc?oc=5\" "
+        }
+      ],
+      "Herbal Medicine": [
+        {
+          "title": "[기업탐방] “전통 한약재를 현대 유통 시스템으로 연결하다” 으뜸생약(대표이사 최윤용), 한의약 원료·원외탕전 전문기업 - 재개발재건축매거진",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80Q3BEdXc0MVUwV1ZoNy1RMEpjcGxkdXdwaXd6Yk5IX3UzbkxkMzZIREc3ZEtrSWMyd0FUSGxXRTQ2RUZKQmVSbkFQMzBSQk5xZWpWb3RtblRpdE85aVRzN0poVkdoZlZBV2Jr?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 13:57:40 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE80Q3BEdXc0MVUwV1ZoNy1RMEpjcGxkdXdwaXd6Yk5IX3UzbkxkMzZIREc3ZEtrSWMyd0FUSGxXRTQ2RUZKQmVSbkFQMzBSQk5xZWpWb3RtblRpdE85aVRzN0poVkdoZlZBV2Jr?oc=5\""
+        },
+        {
+          "title": "자생한방병원, ′허리디스크′ 한약 병행치료 통증·기능개선 효과 입증 - KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVlI1a2xNNmE3cmVTVDgxMHZ4bHgxNmRkOHNzN0VrbDRjTWZSSEdsU1J6SGNNeUs4a0U4eDdydEMxRl8yT2dPeExkUGZ2OGRuRXVr0gFTQVVfeXFMUFdWUjVrbE02YTdyZVNUODEwdnhseDE2ZGQ4c3M3RWtsNGNNZlJIR2xTUnpIY015SzhrRTh4N3J0QzFGXzJPZ094TGRQZnY4ZG5FdWs?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 01:06:41 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXVlI1a2xNNmE3cmVTVDgxMHZ4bHgxNmRkOHNzN0VrbDRjTWZSSEdsU1J6SGNNeUs4a0U4eDdydEMxRl8yT2dPeExkUGZ2OGRuRXVr0gFTQVVfeXFMUFdWUjVrbE02YTdyZVNUODEwdn"
+        },
+        {
+          "title": "자생한방병원 \"허리디스크, 양·한방 병행치료가 효과적\"…국제학술지 논문 게재 - 컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GLWFWSS1BTzJoekw4Y3N3cEh3cEZzTWZJSjZ0b2xKalkzZTFsaHJaUjdmSXN3OS1nemx2S3otMFIwSmNWckxmSF8zMEZoUC16ZXZVbUx4NzE0RU5ZOG9KaGNxRThmc2dMVVE?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 19:29:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9GLWFWSS1BTzJoekw4Y3N3cEh3cEZzTWZJSjZ0b2xKalkzZTFsaHJaUjdmSXN3OS1nemx2S3otMFIwSmNWckxmSF8zMEZoUC16ZXZVbUx4NzE0RU5ZOG9KaGNxRThmc2dMVVE?oc=5\" "
+        },
+        {
+          "title": "자생한방병원 '허리디스크 한약 병행치료 효과 입증' - 데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTG92U0ltQTJ1NVk1QnprRVBDTm1ONlNCd2EyQVlFbjVGMFpiOC0yamxMQUg4TnpvR3M1aW1qaEtlbDh0MnpCRGdkUlNmSHdhcW80VVZwQUI1T2pJWk5JaTU0MWhTX0VCSU9KSjBrONIBc0FVX3lxTE5peDBJaTRqUEplYk4tSllvcU1jQ3lkdDIzMlYtempCNDZPeXRsNkdtdngycHA3NmN2UkRqZ1ZsY2NWNDRMc3VaWWU0NTlJVE5ab2VxZHpOMFA2ZVRGb0J1RFFzalMtTEx1OUFLVVZMR0thU1k?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 07:50:17 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTG92U0ltQTJ1NVk1QnprRVBDTm1ONlNCd2EyQVlFbjVGMFpiOC0yamxMQUg4TnpvR3M1aW1qaEtlbDh0MnpCRGdkUlNmSHdhcW80VVZwQUI1T2pJWk5JaTU0MWhTX0VCSU9KSjBrON"
+        },
+        {
+          "title": "허리디스크 한약 병행치료, 통증 완화와 기능 개선에 효과 입증 - 이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjJhMjBOV09fTGdMNDQwb1ZtTUJ5bFU1cFJuN1dfTjR3emt3THlPS1lOMWotUWY1X1hxSG00X0FpX19ZcEUzNVc0QmtWRUFETmxLUVJ3TUpXdjRCS2hHVy1VYnFZVW92dnQ2RW9lWWlHM0RsYzAyS3lYVkxnYWpZQQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 02:12:02 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjJhMjBOV09fTGdMNDQwb1ZtTUJ5bFU1cFJuN1dfTjR3emt3THlPS1lOMWotUWY1X1hxSG00X0FpX19ZcEUzNVc0QmtWRUFETmxLUVJ3TUpXdjRCS2hHVy1VYnFZVW92dnQ2RW9lWW"
+        }
+      ],
+      "MFDS GMP": [
+        {
+          "title": "식약처 \"신약 허가까지 240일…'완결성 있는 자료' 필수\" - v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdHhPRU1hRkY5T2VMY0gzR0g5Nl83VmV2Tm9iMkFnazBrbkc5ZTFqSzJKdGFadHhRMHRnLU03RHFtX3JXZTVQWkdQd3JtTjQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 06:36:03 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdHhPRU1hRkY5T2VMY0gzR0g5Nl83VmV2Tm9iMkFnazBrbkc5ZTFqSzJKdGFadHhRMHRnLU03RHFtX3JXZTVQWkdQd3JtTjQ?oc=5\" target=\"_blank\">식약처 \"신약 허가까지 240일…'완"
+        },
+        {
+          "title": "국산 원료의약품, ‘품질 신뢰’로 세계 공급망 중심으로 향하다 - PressReader",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjZvbVBtY1VnWmoyQzRMaUhObXRrUVdacGpoMTB4S2xIcWRsVEF6LWdRZWZRbEVOZGdtb1pvMU4wYjN1Rl9ZTFlxaE5EWlZMX0dScjlmeDVwNjI5SlAwcm92TGdJSjNmdGFxdHE1MzNBRVp5V1BILVVMU3lDV2M3WHpaMA?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 20:53:47 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjZvbVBtY1VnWmoyQzRMaUhObXRrUVdacGpoMTB4S2xIcWRsVEF6LWdRZWZRbEVOZGdtb1pvMU4wYjN1Rl9ZTFlxaE5EWlZMX0dScjlmeDVwNjI5SlAwcm92TGdJSjNmdGFxdHE1Mz"
+        },
+        {
+          "title": "오유경 \"식약처 병렬·동시 심사로 속도·소통 두 토끼 잡는다\" - 데일리팜",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6Y0dVanIwUnRsVUlGejExM2Q1R0JqTnJBNW9GYktvcEhfYTVPZTdSMzJackgzcG9sTDB4ZFZwTnFBVlRxdE94RFZmODNTaG02LWM3NWdlbnNJNmJscTR5bUxR?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 01:38:51 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6Y0dVanIwUnRsVUlGejExM2Q1R0JqTnJBNW9GYktvcEhfYTVPZTdSMzJackgzcG9sTDB4ZFZwTnFBVlRxdE94RFZmODNTaG02LWM3NWdlbnNJNmJscTR5bUxR?oc=5\" target=\"_bl"
+        },
+        {
+          "title": "신약 심사 240일로 단축…자료 부실하면 '신속 심사' 제외 - 아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyZGY4WXhWNjRlcjUtb0F3QldxU1k1aUZLRVlycXVuLWRqalpaa3d2SGVRZkNQMEszUmFSTl9MUzdPRHNmWm9iZ3lXMEc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:26:56 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyZGY4WXhWNjRlcjUtb0F3QldxU1k1aUZLRVlycXVuLWRqalpaa3d2SGVRZkNQMEszUmFSTl9MUzdPRHNmWm9iZ3lXMEc?oc=5\" target=\"_blank\">신약 심사 240일로 단축…자료 부실하면 '"
+        }
+      ],
+      "Pharma Bio": [
+        {
+          "title": "약가인하에 내실 강화…제약바이오, R&D 자회사 흡수합병 확산 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hQ2d5R0VvS3FqYUduWHRFWGRaLXFyaXRCaG41V01mbHRTZGM3cE9NLW1FSHJQTktMaXVLS2stSzVqZTNkMWJHLXVpTm9jdUNuWlF6dA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 20:00:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hQ2d5R0VvS3FqYUduWHRFWGRaLXFyaXRCaG41V01mbHRTZGM3cE9NLW1FSHJQTktMaXVLS2stSzVqZTNkMWJHLXVpTm9jdUNuWlF6dA?oc=5\" target=\"_blank\">약가인하에 내실 강화…제"
+        },
+        {
+          "title": "GC녹십자, 백신 투자 9년 만에 결실…\"K-제약바이오, 한 단계 진화\" - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRaFQzRXY0U0lEdTMxNENvbkRlMFpQUGgtRTBpdVhyWHJXNW9MM3dneFpUVmp0OFlDUVJJRlZnVGJpNlpOa1FsVTEwN3hua1BIdFQ2ZWU1TnZTM0xKNUo1SkQtcFJNRnN0eWfSAW9BVV95cUxPcjBTRE82YVpVWFQtdDFPUUdjZXl3U0tkTHlsYkZaQXMwdjlBMkstX0oxV011ckN4Z1BlNmpfTE1qN3l1S05qV1RybEtVekJXSUNiZjhERlVRbWpYTk5oVXU1VFBWSXFLT0xWTHI3V28?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 07:05:57 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBRaFQzRXY0U0lEdTMxNENvbkRlMFpQUGgtRTBpdVhyWHJXNW9MM3dneFpUVmp0OFlDUVJJRlZnVGJpNlpOa1FsVTEwN3hua1BIdFQ2ZWU1TnZTM0xKNUo1SkQtcFJNRnN0eWfSAW9BVV"
+        },
+        {
+          "title": "제약바이오업계 \"약가인하·CSO 규제 파고 넘자\"…활로 모색 - 데일리안",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZVdpWWZMbl9tb01keFY3MmhLajFNelM2UXA0VFU0eE1BYXZOUF82Wk85X1VzQmRHNlRXbDhTN0RIY2tOWFFHREFNLTAwZzhRSWN5U0IyYVc2aHRwWmZZTWVyQm1pSTR4bDUxX0ZPOGJ1aWlZdWVoT3NmemRJRFJTS195U3J6dFdueUg0WUhzX3QtUkxDa1h1bGpGX2oyMFVTQUdidkhWNUZoZUU3Wnlyb2NMa2VzZm1XZnZqS0FOQTd3T2NqQm1yWkJrWk1JRV9mem9uYU5WSndPMHVFZi1TUFFtYmptQk9aRFdtUTBzUHVEanM2eG9NQVl6dWMzUk5MNDhtQUlYNUQwek8xdVHSAZACQVVfeXFMTnVQRW81ZUF5dHBGWnctS3FheF9kWWhxNFVPbXd6MlYxV2N4cUl1ZjdqYVR6dmtlYWNlazk0WGZLT1RvZWI4ZF9DWjh2SWxhTDBLX05peUNvS0JYWEZoZ002LVNKRnhnVGtXSG5YUDZQUzFILURRc04xSU5DUHdKR3FJcEMxUHpYNGhQaDFBLTc1dENLcHUwd3doNHM5THdqZ1YyQVR1aXIzM2M2UlNfVy1tNkthTnVGcnRzTjV1Ri1vVDJ2WUJ1cU0yXy1XWTVFaDNNU2hSYXVLRl9zcVV2Z2ZoVUZJa1pySkVHcXgtX044c3Y1cGFycWpVWTlTWUMtYkJfaFJ6QVhlb1BkSFlfdm0?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 01:37:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOZVdpWWZMbl9tb01keFY3MmhLajFNelM2UXA0VFU0eE1BYXZOUF82Wk85X1VzQmRHNlRXbDhTN0RIY2tOWFFHREFNLTAwZzhRSWN5U0IyYVc2aHRwWmZZTWVyQm1pSTR4bDUxX0ZPOG"
+        },
+        {
+          "title": "약가인하에도 R&D는 늘렸다…제약바이오 미래 성장동력 투자 - ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NkZ3U3lWalBOdzJFY1BWZE9mLXppYjVpeFNLUVV5V1ZLSnVKNzFCYUdaN1VwSHFsaF8xc1VEaGhVQUxud0hlck9od195V0ZURC1fQk9EMHltUkQybmFLZVd0M3lQMnZYaE16RA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:47:42 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA3NkZ3U3lWalBOdzJFY1BWZE9mLXppYjVpeFNLUVV5V1ZLSnVKNzFCYUdaN1VwSHFsaF8xc1VEaGhVQUxud0hlck9od195V0ZURC1fQk9EMHltUkQybmFLZVd0M3lQMnZYaE16RA?oc="
+        },
+        {
+          "title": "상반기 최악 지나간 제약·바이오…'기술 성과'가 반등 열쇠 - 약사공론",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTDdOd3U1aXc0ejdqblFLU255dmNuSUxqRXEyTWdfel9xU2t1c1ozZlNnSnFZbW1LS3NSelNmRmVNNTRIQlpNUUM0N1FfcWFTYmRTQmNlWWxJY25YMGNzT0tBd0tKdDIzb1l5RQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 03:05:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE4xTDdOd3U1aXc0ejdqblFLU255dmNuSUxqRXEyTWdfel9xU2t1c1ozZlNnSnFZbW1LS3NSelNmRmVNNTRIQlpNUUM0N1FfcWFTYmRTQmNlWWxJY25YMGNzT0tBd0tKdDIzb1l5RQ?oc="
+        },
+        {
+          "title": "고령화가 바꾼 제약바이오 판도…'치료→관리' 사업 재편 가속 - ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43b2c0ZmVGRVpXZFM5NkJwZE00TkdpV09yV1dXVFBLQmJ5QVE4OW9LcDdRRWc2MVc4ZU9hVXlvVXJ2eW5SRXdYSF9GTjRnTmFRWkxndTRGSVlMcTZvbXBXLS11bFQtZVFK?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 21:05:54 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE43b2c0ZmVGRVpXZFM5NkJwZE00TkdpV09yV1dXVFBLQmJ5QVE4OW9LcDdRRWc2MVc4ZU9hVXlvVXJ2eW5SRXdYSF9GTjRnTmFRWkxndTRGSVlMcTZvbXBXLS11bFQtZVFK?oc=5\" tar"
+        },
+        {
+          "title": "한국제약바이오협회, 상반기 KPBMA 윤리경영 워크숍 개최 - 의약뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNV0xObkxmOGNtbWx4TmZod1gxYjlka2hRSUt5MXJnYk45VVNYb0Q4RGhyeFU5U1dUR0tVdmNodUdIWEpibjhqU19pVUtNY1BGLWhfZ2VyT1NXZWRyWDgwU1FEYzA5V28?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 18:16:05 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNV0xObkxmOGNtbWx4TmZod1gxYjlka2hRSUt5MXJnYk45VVNYb0Q4RGhyeFU5U1dUR0tVdmNodUdIWEpibjhqU19pVUtNY1BGLWhfZ2VyT1NXZWRyWDgwU1FEYzA5V28?oc=5\" targ"
+        },
+        {
+          "title": "제약바이오협회, 상반기 '윤리경영 워크숍' 개최 - SBSBiz",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oYXJIZFRUSU5CeU1xU20wYktNVVh5N0djN2lUdFhjamE5al9DYUItWGpacGkxUTd2QmFTcWoxcWNwZ2htcUlVTW9BU1ZEVkpaR24w?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:05:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oYXJIZFRUSU5CeU1xU20wYktNVVh5N0djN2lUdFhjamE5al9DYUItWGpacGkxUTd2QmFTcWoxcWNwZ2htcUlVTW9BU1ZEVkpaR24w?oc=5\" target=\"_blank\">제약바이오협회, 상반기 '윤"
+        }
+      ]
+    },
+    "english": {
+      "USA": [
+        {
+          "title": "The Evolving Biopharma Regulatory Landscape: Q&A with Harpreet Singh, MD - Pharmaceutical Executive",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmZDQVZWcTZaR0V2aEhuQVB2Y2ZYN1p3UEdVMks2OUNsdGo1UzBDSGkwWUV0VTFOQ0hGVlIzSDYxbUpNRkNGcUdRRDBhdThBdkF5a2t5WmNfcFdwT0NjRDZJcm80NVZWcWx5ZHZQd2NjazVGVlBzeXlYYjhHX3JSSFRZcVdTRkpvWUFmb2ViTzV1YVREcEE?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:03:26 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmZDQVZWcTZaR0V2aEhuQVB2Y2ZYN1p3UEdVMks2OUNsdGo1UzBDSGkwWUV0VTFOQ0hGVlIzSDYxbUpNRkNGcUdRRDBhdThBdkF5a2t5WmNfcFdwT0NjRDZJcm80NVZWcWx5ZHZQd2"
+        },
+        {
+          "title": "Day two in focus: navigating regulatory strategy at The Future of Bio/Pharmaceutical Analysis 2026 - European Pharmaceutical Review",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2d4Rm1FUmpYNWY4UkFsWEx6MUNCUDNlaWJ0bjBQWmZpTU5Wd1dMd2RtcUVRZmh3WTV4QjBjcGtlaUJsaE9iUE9kYlZGT2JkbUpLOS1BY0lCWmVRWnZuSzUxTHVwMEdUeXlxMHdaYUJFQWptTlVjUnplNXB6SndkQkd4SUlLQVhkeWJRRVJJWXAteEQ3OGFCU2pJdGJNTDg5d1dIOVU4eEI0X3I1UWNRc3pRTHpPYXRoa3YxMGNyOENrS2dvSlVkdHpIUHVnb2RMVUppS2hSaUU5Z2NJNTBnNndEOWxzVE9QR1pwcVFLbw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:55:12 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2d4Rm1FUmpYNWY4UkFsWEx6MUNCUDNlaWJ0bjBQWmZpTU5Wd1dMd2RtcUVRZmh3WTV4QjBjcGtlaUJsaE9iUE9kYlZGT2JkbUpLOS1BY0lCWmVRWnZuSzUxTHVwMEdUeXlxMHdaYU"
+        },
+        {
+          "title": "From Lab To Pharmacy US Drug Approvals Explained Ft. Asad Khan| Muhammad Abbas Queen Camilla Kate Middleton Tension (UCuccbfTdt) - Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xblNIY2xvdm1SemZRVXdEV0VRamk5SHJ3Q0V6dHYyVHBGMHVPUmpwLXMycDB0clhuNTZ6UGx1eHlKWEdFbm41blNnT3ozbFJlZUdkX2ltSWNLVWM?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 08:50:41 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xblNIY2xvdm1SemZRVXdEV0VRamk5SHJ3Q0V6dHYyVHBGMHVPUmpwLXMycDB0clhuNTZ6UGx1eHlKWEdFbm41blNnT3ozbFJlZUdkX2ltSWNLVWM?oc=5\" target=\"_blank\">From"
+        },
+        {
+          "title": "Formulation Development Outsourcing Market to Reach US$ 64.74 Billion by 2033 as Pharma Companies Accelerate Drug Innovation - vocal.media",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHdHVTBBRjA0V0g3WHRnNjJDZm9rQTVidGs3eTEzRmx2LWFSQjZtSl9oWUxJVUgtaG1JMGlaUFJieWx3OXE2UjhReXZCcUR5N1hIRmlHbVZyQ2M2MWpwbVRPcnFJa1JlMlRNU0ZIRV85cjRVV1RGTDFyTWFYVzlaV1BmZi1adGpyMEo3LVlBaEM5bW9ORHJ6djJnYzhXUTNvY2lMbmxfNTdsSHZpbHNObHlKY3dmVGtLNFgtZ2ExbHBwbG9Bei1HVVNoR25YMTd2MkN0U3FnUWxKMlZTQ3RYRXJmcFc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 12:40:23 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHdHVTBBRjA0V0g3WHRnNjJDZm9rQTVidGs3eTEzRmx2LWFSQjZtSl9oWUxJVUgtaG1JMGlaUFJieWx3OXE2UjhReXZCcUR5N1hIRmlHbVZyQ2M2MWpwbVRPcnFJa1JlMlRNU0ZIRV"
+        },
+        {
+          "title": "Would lowering ANDA costs boost domestic generic drug production? - Healthcare Brew",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlVMQzEtemIxLUthSlhvcU14SnZIbm85SXJNY0E0U1NpMXRYc0JxT1gtMGpKNmpWMlR5bXVnZ3Fad2NzbXQtVTRJVHVTeFNoUzRPaXc2Y2xoZWlhbVl1N2d3Qlp2WnFXdmktdHplQ3VOd21hTTl1VDZobm5pVDY4UHdvM2N5SGhFNXNDNlZNLW90ME1Mbnp6bkp4dEZDSTg?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 14:48:30 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNlVMQzEtemIxLUthSlhvcU14SnZIbm85SXJNY0E0U1NpMXRYc0JxT1gtMGpKNmpWMlR5bXVnZ3Fad2NzbXQtVTRJVHVTeFNoUzRPaXc2Y2xoZWlhbVl1N2d3Qlp2WnFXdmktdHplQ3"
+        }
+      ],
+      "USA - GMP": [
+        {
+          "title": "World Peptide Receptor Radionuclide Therapy Prrt - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVJVT2ZtVEJ0RnpKN1drUTBLeTFHRXQweWpRQkVJNjB2bHpmUE5YNzNTamxUZDZwZVlTc1Fha3hpTHNCeGwyUGhhd0MxeE5maFFaUTRxNzd1NUlEVkk0cUsyT1BFTTE0TXl6MTNIQzhWVVRRcGJUZE1wNk5TcUxjRXV1U2E5NUkzTExvSHNDV243dlNJdjNXWThVRnlqTV85aFJVZ3lrRlRTY3FaN092a0cwYWdra1pFS1BzUTNJVXJONXJ3dHdPd3hXak5RXzAzMTY3U3lkTmkxbUFkeW1QZEFQSjJvZw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 20:46:17 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVJVT2ZtVEJ0RnpKN1drUTBLeTFHRXQweWpRQkVJNjB2bHpmUE5YNzNTamxUZDZwZVlTc1Fha3hpTHNCeGwyUGhhd0MxeE5maFFaUTRxNzd1NUlEVkk0cUsyT1BFTTE0TXl6MTNIQz"
+        },
+        {
+          "title": "Are centralised and de-centralised approaches to CGT manufacturing really that different? - Cleanroom Technology",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUpnNDNYdWs0RVk1a1VqSmVIUVRUdDFRc0VpUUxIUG1fNUpXNEZ3U1FpMDJCQ1A4TWlUMDROVjExblR6ajB3aDNkemNBX0ViYk5Ka3FldXUzNVFGM0pjcjAtZ1BiV0NMcU0tYVViUEdxUUh2VFE5TmZ1T3A0bVhyc3FMWGp2WDBzM0lhTXZpMmVUQQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 17:09:02 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUpnNDNYdWs0RVk1a1VqSmVIUVRUdDFRc0VpUUxIUG1fNUpXNEZ3U1FpMDJCQ1A4TWlUMDROVjExblR6ajB3aDNkemNBX0ViYk5Ka3FldXUzNVFGM0pjcjAtZ1BiV0NMcU0tYVViUE"
+        },
+        {
+          "title": "LSL PHARMA GROUP SECURES NEW STERI-MED COMMERCIAL AGREEMENTS EXPECTED TO GENERATE OVER $4 MILLION IN RECURRING ANNUAL REVENUES AND APPOINTS ALAIN R. DUGAL AS NEW EVP & COO - BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPcGtidUc0WEZKVVB3LU1PTUYyRVdzTG1nck1uYmgwVnpOYnJmeXhraUh4WXRacEYwQkNrM3dpUEJacUx5OU1jZXdwa091SXpPNGRlMkhNbXlTamd1dFk0ZWsyZlI0RkRFTDUwNnF1WHhmd3dtTTN1YTY4dGNzV1VUVmtNZFRVcjNtanQ0eGNKMW9pcnVuN3g4NnotVUFsd1F5Z2RkVk1LYnoyLXdsSWN1TU1TdGt5dFVaSHBROG02UmNaUHVzV2RyZ0lOdFNSR0hjOFExbEphbVE3N2VJeXdKQjJYT3lRc3A1MUVmemhpZHB2dm42dlI0RDg5bWtCdFpfc1g0cWdSRmZUZXc0djVSYUR0MERmY055djFnLWtKSTlTV1l2Vld4UUFQTk9VeG9P?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 12:40:26 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxPcGtidUc0WEZKVVB3LU1PTUYyRVdzTG1nck1uYmgwVnpOYnJmeXhraUh4WXRacEYwQkNrM3dpUEJacUx5OU1jZXdwa091SXpPNGRlMkhNbXlTamd1dFk0ZWsyZlI0RkRFTDUwNnF1WH"
+        },
+        {
+          "title": "GM PHARMA Hosts GMP Inspection by the Azerbaijani Regulatory Authority - BM.GE",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVN6cTBwZTlYNU9hTFYwN2RkbDVHbkZGRnFGZngwdXZlanVBMlY3bkNSdjdrbVhBck5rU194aGNSOGFBblg0VDJLSEZ2V3dIanBhZ2hVOVlsdjVDTzBmOUlTaHhTWVRQRElvckdqVEN0M01PdFhNZjlGaHZLZEVFQXRuWFJlSUYtTFU1LXRfLU9CQnZnZXpN?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 13:18:16 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMVN6cTBwZTlYNU9hTFYwN2RkbDVHbkZGRnFGZngwdXZlanVBMlY3bkNSdjdrbVhBck5rU194aGNSOGFBblg0VDJLSEZ2V3dIanBhZ2hVOVlsdjVDTzBmOUlTaHhTWVRQRElvckdqVE"
+        },
+        {
+          "title": "Managing aseptic gowning within contamination control strategies - News-Medical",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjcxaVpWaWpHSWtnVjBvR1pHa2lZLWtpX1diMmdzVTA1UmUtZHRGVFNHNVVHcXlZX2JybEp1Zl83ZUJUT2FseDRNMGI5YzNqR2pjZmE0enU1Z0c5M2ktSU1BRmhDc0dycmExa29pdkR4NmJmR3RiSVlzNnV0bHNkRmNzMkt5NE0xOHBUX2puVm1LOHA0dzJqUjdYWW1SS2VDa1hBV00zNWdzcUlFRW16eFVFM1MyZGQtd3c?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:18:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjcxaVpWaWpHSWtnVjBvR1pHa2lZLWtpX1diMmdzVTA1UmUtZHRGVFNHNVVHcXlZX2JybEp1Zl83ZUJUT2FseDRNMGI5YzNqR2pjZmE0enU1Z0c5M2ktSU1BRmhDc0dycmExa29pdk"
+        }
+      ],
+      "FDA/UK/Europe": [
+        {
+          "title": "Day two in focus: navigating regulatory strategy at The Future of Bio/Pharmaceutical Analysis 2026 - European Pharmaceutical Review",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2d4Rm1FUmpYNWY4UkFsWEx6MUNCUDNlaWJ0bjBQWmZpTU5Wd1dMd2RtcUVRZmh3WTV4QjBjcGtlaUJsaE9iUE9kYlZGT2JkbUpLOS1BY0lCWmVRWnZuSzUxTHVwMEdUeXlxMHdaYUJFQWptTlVjUnplNXB6SndkQkd4SUlLQVhkeWJRRVJJWXAteEQ3OGFCU2pJdGJNTDg5d1dIOVU4eEI0X3I1UWNRc3pRTHpPYXRoa3YxMGNyOENrS2dvSlVkdHpIUHVnb2RMVUppS2hSaUU5Z2NJNTBnNndEOWxzVE9QR1pwcVFLbw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:55:12 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc2d4Rm1FUmpYNWY4UkFsWEx6MUNCUDNlaWJ0bjBQWmZpTU5Wd1dMd2RtcUVRZmh3WTV4QjBjcGtlaUJsaE9iUE9kYlZGT2JkbUpLOS1BY0lCWmVRWnZuSzUxTHVwMEdUeXlxMHdaYU"
+        },
+        {
+          "title": "The Evolving Biopharma Regulatory Landscape: Q&A with Harpreet Singh, MD - Pharmaceutical Executive",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmZDQVZWcTZaR0V2aEhuQVB2Y2ZYN1p3UEdVMks2OUNsdGo1UzBDSGkwWUV0VTFOQ0hGVlIzSDYxbUpNRkNGcUdRRDBhdThBdkF5a2t5WmNfcFdwT0NjRDZJcm80NVZWcWx5ZHZQd2NjazVGVlBzeXlYYjhHX3JSSFRZcVdTRkpvWUFmb2ViTzV1YVREcEE?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:03:26 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmZDQVZWcTZaR0V2aEhuQVB2Y2ZYN1p3UEdVMks2OUNsdGo1UzBDSGkwWUV0VTFOQ0hGVlIzSDYxbUpNRkNGcUdRRDBhdThBdkF5a2t5WmNfcFdwT0NjRDZJcm80NVZWcWx5ZHZQd2"
+        },
+        {
+          "title": "Pharmalittle: We're reading about an AstraZeneca breast cancer pill, an ADAP deal in Florida, and more - statnews.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUENuNV81b3BTZngzTjlkY0dBeXFwR2t1bmZWalFPN3V3MXgwRDlNSjh6aDRPSnVwTEljbGJ4SVY4c0hkRnRwamRuTzRfR0tDNXpMNjh3Vkg5QjY2NmExWGR3UVUyNU0wVEtKNDc3SVhSZHgxVDJNZmJDV2dibHczQnZtM2lYZnQzMXUwaVlmNWpsSlEyZTE3MkhTRnJSSzg?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 13:36:07 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUENuNV81b3BTZngzTjlkY0dBeXFwR2t1bmZWalFPN3V3MXgwRDlNSjh6aDRPSnVwTEljbGJ4SVY4c0hkRnRwamRuTzRfR0tDNXpMNjh3Vkg5QjY2NmExWGR3UVUyNU0wVEtKNDc3SV"
+        },
+        {
+          "title": "FDA postpones decision on AstraZeneca's breast cancer drug: requests additional data - medwatch.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JY195cnJLbEhQRDB3QU5Rc0RmTWF2bjVQUzRUT1dydklKUDJjX2tHbTR3eWl3WU9xaVQ5SzRGOEJId2xlb3V6LUk3c29wYUNpNmt3VjJEVnZLUi1NWE85aGN4S05JajRlVmcxMm9JYw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:36:35 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1JY195cnJLbEhQRDB3QU5Rc0RmTWF2bjVQUzRUT1dydklKUDJjX2tHbTR3eWl3WU9xaVQ5SzRGOEJId2xlb3V6LUk3c29wYUNpNmt3VjJEVnZLUi1NWE85aGN4S05JajRlVmcxMm9JYw"
+        },
+        {
+          "title": "Training: The Real Constraint in CGT Manufacturing - PharmTech.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUJRbUFzTEpqb3EycVZwd1NCVnYtWHpLRTlpT3U1TjVBZzN0dXVUbVBEYmJWUmhBdGpTYTRrUDdELWpiVEJYOTV2dmMtd0VKc3EzdzhWVExfZUtmR2pEa2VkZWVOTFpJQ3VjNUZ0cV8xbUlYNE5icHpNb3VBYzRTemtSelBCbWM?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 13:37:38 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdUJRbUFzTEpqb3EycVZwd1NCVnYtWHpLRTlpT3U1TjVBZzN0dXVUbVBEYmJWUmhBdGpTYTRrUDdELWpiVEJYOTV2dmMtd0VKc3EzdzhWVExfZUtmR2pEa2VkZWVOTFpJQ3VjNUZ0cV"
+        }
+      ],
+      "Herbal/Natural": [
+        {
+          "title": "How new health clinic plans to fix the rushed GP visit - The Cairns Post",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZVE3OTBmYl9JNGJiLWp6Rlo0c1BWeS1idjhfR2FLM0psRTI3QVhPRkxaNUdONm5fT0JmS1NZMy1UYU5abWhhMlVNb1h3LVJVVjNnSEQ2el9VaFY1YUdiVHJxQ0tNbVYyMmttV0VveDBYc2xrWmVxZG1YekN4UjNnLXo0WjhRcnltam1Dd3RzZ3dmQXVLVEdaWDIwSUdFNk5idVZBNy1fYUdjVDU4S1NlOWs3QkJvcWRMMjA2aFZ5UUdqWll4amdwUlozaUhMSzY0dGhyMEhIZ0owcUJCaUJvcXREYTVQQzhhUXhtZmNSUzQyQklnNFUxUFdJVHIySV9qT2xFNFVsem5VRGw2SEFRSQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 07:02:04 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQZVE3OTBmYl9JNGJiLWp6Rlo0c1BWeS1idjhfR2FLM0psRTI3QVhPRkxaNUdONm5fT0JmS1NZMy1UYU5abWhhMlVNb1h3LVJVVjNnSEQ2el9VaFY1YUdiVHJxQ0tNbVYyMmttV0VveD"
+        },
+        {
+          "title": "Menopause: A holistic, evidence-based approach to symptom management and long-term health - Pulse Today",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPemhhLTdyNHFpeXI3eHJPR0l3amhrbDlIOGc1RnhZQWlWYUdlOXpSZlhzN1dFUWM5MG54TXZfZjRnSUY4SWdoNV9HdHJ0eV9fNWFMbEE5WjJlUGVkLUFON3ZGRXVXSktzanRvRF9KcE4zbm1fOEZQTWVmOFc1R1NWV19leGpDb0gtRWVHeXBuNDVLdjVXTVVjLW9ORXphaXFRYjJZTjdud0tGckZnN2FLMHQ3d2JyQ09rbUVybUNNNHNGeWc5dlpMaWxZZGFWbEhmaWtFWVNzTnlVZ241Y200bXEtV2o4UmFaYmtGN01tLXZFMGxjZ1dLRVBaOA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:16:59 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPemhhLTdyNHFpeXI3eHJPR0l3amhrbDlIOGc1RnhZQWlWYUdlOXpSZlhzN1dFUWM5MG54TXZfZjRnSUY4SWdoNV9HdHJ0eV9fNWFMbEE5WjJlUGVkLUFON3ZGRXVXSktzanRvRF9KcE"
+        },
+        {
+          "title": "How effective is echinacea in helping prevent colds? - Juta MedicalBrief",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3hESVk5bHRzTmhKTVJLcXR0Zy13MC12RXIyaXMwT1dUVDNhd2VBSVpnT1pxZkdiQ1B3b1l4c2o4THN2b21wYWhCN3RYQWFES3BlWXZYUms0NDEyWVpMcjBfZ2JlUWFoYmRlWS1ERmwwUTg1ell1MWdKUWZwTXVIR3dES1EwNmdobFBV?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 15:00:42 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3hESVk5bHRzTmhKTVJLcXR0Zy13MC12RXIyaXMwT1dUVDNhd2VBSVpnT1pxZkdiQ1B3b1l4c2o4THN2b21wYWhCN3RYQWFES3BlWXZYUms0NDEyWVpMcjBfZ2JlUWFoYmRlWS1ERm"
+        },
+        {
+          "title": "DA NANG GLOBAL BUSINESS SUMMIT 2026 - SILVER GENERATION INNOVATION EDITION - Plataforma Media",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTdfRV9mMTlHMmxBMGFETmdlX01pQUpCakdpd1ptX2d5cC11clJmWkJ2R1lZMkhHNVhTNU9Ybzc3TkRyOTlGSDJ0akIwUjJ2eWNjMDlsVTZrNUFaNnFmWDY3b0NnWDVTWDY3RWIwUnM5czJ5R080TUlWZThPVnBBbFJ6S1NVcVBSckFRUGVlbWRKcV9fN0xJUHNOTkFjUlhTX05kT0hjZmVSWUcyU1l4Q3oyUzN2MkZxTjI0?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:48:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTdfRV9mMTlHMmxBMGFETmdlX01pQUpCakdpd1ptX2d5cC11clJmWkJ2R1lZMkhHNVhTNU9Ybzc3TkRyOTlGSDJ0akIwUjJ2eWNjMDlsVTZrNUFaNnFmWDY3b0NnWDVTWDY3RWIwUn"
+        },
+        {
+          "title": "Foundation Medicine to Launch Advanced Digital Solutions to Support Faster Cancer Treatment Decision Making - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSzhEbjRISkY1UmJKV1gyYVpmM09YR0Y5UTZXNXdxWkhkMk5yYWF2QlVHMENUODhuY1FhZWpEemh1Z1piblMzb2R6Nmc5WmJ6ZWMtYWJraGNDdTcxVlFmVGFacVFwcjFkbjR2WENGUkkwTzdLV0wwRkEzODlJb2hkY29MYTNKekJ3YWo2bUQtbGhmMHNtUzNXdXdvdDUzYWZRNWhidkd5dkxuckNNbkhGMkNEaDlwbzV0Z3RtNWFrR0xLYVBqcFBNcGJyNkRQdXhFOERXeFZvN1kxZVQ5UFZkeGJDY21jUW9EckR4cEFvNEdxbXhKc2FV?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 15:00:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSzhEbjRISkY1UmJKV1gyYVpmM09YR0Y5UTZXNXdxWkhkMk5yYWF2QlVHMENUODhuY1FhZWpEemh1Z1piblMzb2R6Nmc5WmJ6ZWMtYWJraGNDdTcxVlFmVGFacVFwcjFkbjR2WENGUk"
+        }
+      ],
+      "India/Clinical": [
+        {
+          "title": "Pharmaceutical Risks in the Strait of Hormuz - Pharmaceutical Executive",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBGSzREQUJnSmZzVnlMRERNVzZRSTk0OVE2V1Z4N0hUS21EVURGYm82ZDYxYVlpUVRyeWREeXB0bkhGMW13bUtlR0l3clVSN0NSX0U3eDFOcXBSVGlRZWpLei1sY0NmUlBpS2V1VW9EWEtSRXdWRF9DVEJESXA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:30:13 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBGSzREQUJnSmZzVnlMRERNVzZRSTk0OVE2V1Z4N0hUS21EVURGYm82ZDYxYVlpUVRyeWREeXB0bkhGMW13bUtlR0l3clVSN0NSX0U3eDFOcXBSVGlRZWpLei1sY0NmUlBpS2V1VW9EWE"
+        },
+        {
+          "title": "FAQ: What Causes Generic Drug Shortages? - Pharmaceutical Commerce",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVlJWS1hV01XT1Q2Y1FHWVA0Z3BCWlEtalpZVVFfYXR3N3JqUGhBVXJOWVRMc3hEYWxPRjJTWnk4YzQ3ZEc4enFvOFJyOG5nRUx1eVZ3SVlVUGVPTE1rcHd6UkNNVk9KVk5sUzlLX0ZiS1RXTm1ERzdzRTgzTGN4TTZXT3hwdw?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 12:08:22 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVlJWS1hV01XT1Q2Y1FHWVA0Z3BCWlEtalpZVVFfYXR3N3JqUGhBVXJOWVRMc3hEYWxPRjJTWnk4YzQ3ZEc4enFvOFJyOG5nRUx1eVZ3SVlVUGVPTE1rcHd6UkNNVk9KVk5sUzlLX0"
+        },
+        {
+          "title": "Formulation Development Outsourcing Market to Reach US$ 64.74 Billion by 2033 as Pharma Companies Accelerate Drug Innovation - vocal.media",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHdHVTBBRjA0V0g3WHRnNjJDZm9rQTVidGs3eTEzRmx2LWFSQjZtSl9oWUxJVUgtaG1JMGlaUFJieWx3OXE2UjhReXZCcUR5N1hIRmlHbVZyQ2M2MWpwbVRPcnFJa1JlMlRNU0ZIRV85cjRVV1RGTDFyTWFYVzlaV1BmZi1adGpyMEo3LVlBaEM5bW9ORHJ6djJnYzhXUTNvY2lMbmxfNTdsSHZpbHNObHlKY3dmVGtLNFgtZ2ExbHBwbG9Bei1HVVNoR25YMTd2MkN0U3FnUWxKMlZTQ3RYRXJmcFc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 12:40:23 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZHdHVTBBRjA0V0g3WHRnNjJDZm9rQTVidGs3eTEzRmx2LWFSQjZtSl9oWUxJVUgtaG1JMGlaUFJieWx3OXE2UjhReXZCcUR5N1hIRmlHbVZyQ2M2MWpwbVRPcnFJa1JlMlRNU0ZIRV"
+        },
+        {
+          "title": "India’s pharma rise driven by innovation push: Ex-US NIH Director - DD News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFdQRU9xN1BnM0JYaFpjZ1NGWjZJMlVLRjMxSnNzNXAtUGdrM2tSd2x3N25qQm5ZUUNJSmZQcXBzTEZVOU1Tc1hhV0EydnBENC1FaWhQX1JhR3VFdGhoZGpkTEhnZzJ4c1dBQnVJaVZEajVfUjNfa3RrbmVoeUszak8tZ2xlSGNkYVAxQTlVNnFTWlE?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 18:26:35 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFdQRU9xN1BnM0JYaFpjZ1NGWjZJMlVLRjMxSnNzNXAtUGdrM2tSd2x3N25qQm5ZUUNJSmZQcXBzTEZVOU1Tc1hhV0EydnBENC1FaWhQX1JhR3VFdGhoZGpkTEhnZzJ4c1dBQnVJaV"
+        },
+        {
+          "title": "Solstice Raises $21M to Modernize AI-Driven Pharma Commercialization Workflows - citybiz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWNLT1pKSnQ5dmVZUE40U0RzbFZwRnhXY0lMSTBCRlI0RUFBYzA1YnN3ZUJXSzRBcHhKT1NFbWZ0Mzg5Tm5vWU5ZZUVVMmhVS2NPUVdYNGM3QXRNNGhBWTFLT1BYcDg5TXZjcGliVzltbjVyN3A0M1M4WWh2M04zcjZYSjI5eFRDYndGRW9UYnlKNm9DZ0tTVkRPVFhodS1DbEhiWHNWWmtKTU1HQ0JaVEFKSTEzSnM?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 13:54:35 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWNLT1pKSnQ5dmVZUE40U0RzbFZwRnhXY0lMSTBCRlI0RUFBYzA1YnN3ZUJXSzRBcHhKT1NFbWZ0Mzg5Tm5vWU5ZZUVVMmhVS2NPUVdYNGM3QXRNNGhBWTFLT1BYcDg5TXZjcGliVz"
+        }
+      ]
+    },
+    "multilingual": {
+      "French / 프랑스어": [
+        {
+          "title": "Obésité : prise en charge de WEGOVY et MOUNJARO à partir du 15 juin 2026, sous conditions - vidal.fr",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzJBcElXLTRUXy1FbnpJWHNRZWxaalVvSVNsV2pmUlkweUl1dVRYamlHdTd3NDZnUk0wQkZiUnRjWW5yYkpRX0JMa2lxMDdaN3RQeFNoSWJGckExSl9CRHBQNGdLLXlwUHNQSjNKNElGdWF1UE9ITjJJdFd3elpYd0x4a0szMC1kS2VoVVc5U3AwZV9QQ0g4Njk5MEtQQ3dwMUwxSVRNbnBGVnRhYWljUmE2Y0ZXQkxNR2N5QzFqTWU1akpuZk1paw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:42:19 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzJBcElXLTRUXy1FbnpJWHNRZWxaalVvSVNsV2pmUlkweUl1dVRYamlHdTd3NDZnUk0wQkZiUnRjWW5yYkpRX0JMa2lxMDdaN3RQeFNoSWJGckExSl9CRHBQNGdLLXlwUHNQSjNKNE"
+        },
+        {
+          "title": "Wegovy, Mounjaro : comment fonctionnent ces médicaments anti-obésité et quels sont leurs effets secondaires - ici.fr",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZFRxcnF0ZTF3TXVwZjF2U0pkSmhSUEVrTE44YzZDM25fR3UwZXR6VTJOQmJFZUhXNGd3ZXE4X2s4ZGlYUWp4TzVmVnFsS1dHRXN1UGFrRTVEd0NGQWJsZVFoN2dlc2czV2E3dlNwMGdtazdLSWRjaURiYS13c1BFb2RlRWJ4bFVJMEF0MlRvTm9FRDBQS2trUHpSazlhTmhtMzJONndFOS0yR3BnY0RXS2F3S0dncnRWdTNEeUp6WGl1T1czMDk5WTJlUE9BNWlucjJqWDI0enVDaDBDV3Rha0NpVHpJUWs?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:00:02 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZFRxcnF0ZTF3TXVwZjF2U0pkSmhSUEVrTE44YzZDM25fR3UwZXR6VTJOQmJFZUhXNGd3ZXE4X2s4ZGlYUWp4TzVmVnFsS1dHRXN1UGFrRTVEd0NGQWJsZVFoN2dlc2czV2E3dlNwMG"
+        },
+        {
+          "title": "Médicaments anti-obésité : le Wegovy et le Mounjaro bientôt remboursés par la Sécurité sociale - L'Express",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdGlxYVNhU3VKSHhrR2dKelIzQU9vUU05ZkR5UkphZWp4RHZzOThiSDRQMnlvY3pUS1NCUkJva2ZhQjlFTmJmTmJHemJGRnRSTnlSd0lvVGphUGlDanFJa1NMN3YtYjRMTVdXMjdTUWxIU2FrUjZLeUxhY056bElodWt2ZjY4OXJKVG12Ml9oWlc3Z3FmOGY0elFJcXBWVjFnS2NmMXlrWXlib3pEZFlXVER4YVo3ZnRMdFhxRk5kUGhabjJDSFRqaGhBN1Rmd3d6NWpoYzIyUk80SE8xQ0M1eENzZGE3OG1IZmVlWV9nVVM4a21VSWJKZA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:34:07 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdGlxYVNhU3VKSHhrR2dKelIzQU9vUU05ZkR5UkphZWp4RHZzOThiSDRQMnlvY3pUS1NCUkJva2ZhQjlFTmJmTmJHemJGRnRSTnlSd0lvVGphUGlDanFJa1NMN3YtYjRMTVdXMjdTUW"
+        }
+      ],
+      "German / 독일어": [
+        {
+          "title": "Paracetamol kann das Risiko für Nierensteine erhöhen - deutsche-apotheker-zeitung.de",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnNGTGZEWkNMQU1NOUhpXy1GZC1YLU1oUVVzN0RscGE4bUM4WVExeFpGbEh0RG9aQUNNMVRRTVRlZG5BOXhKcDJsMUdDSWJrZTlDcGJIcmxrVDMtVWlzSWRkWE1mbmJZY3UzclRZelpuTWVoamlBTW5DZ0FPTFZVbUdfUjZGUW5EVFVfcS1WejNwbnJLaUpuY2FIVWJtX3dzOENaaXp2bl9hS3FaSzY2Y2VjakMyN25vYjkteg?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 05:00:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnNGTGZEWkNMQU1NOUhpXy1GZC1YLU1oUVVzN0RscGE4bUM4WVExeFpGbEh0RG9aQUNNMVRRTVRlZG5BOXhKcDJsMUdDSWJrZTlDcGJIcmxrVDMtVWlzSWRkWE1mbmJZY3UzclRZel"
+        },
+        {
+          "title": "Digitale Packungsbeilage: Pilotprojekt in Kliniken - Apotheke Adhoc",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2FLVGFzdFhvU1JMNW1FbWZWbUFNVUVSR2JFejU5WlJ5WmMtRHZwTVRDS2trZFlVeklwekxKMTc5dDBBR2hqU05tcU9BR1kxdU94SlFWT19saVJORE83RkI1dnRUQjBmTlF3UjBGS1hxbE1uODdSWldIeVppRzB0dzJuUGdlYV9SSTFRbnVVZE1hNVF6dGFMeE83VE5nc3hhMUctc0NmRndHWERI?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:31:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2FLVGFzdFhvU1JMNW1FbWZWbUFNVUVSR2JFejU5WlJ5WmMtRHZwTVRDS2trZFlVeklwekxKMTc5dDBBR2hqU05tcU9BR1kxdU94SlFWT19saVJORE83RkI1dnRUQjBmTlF3UjBGS1"
+        },
+        {
+          "title": "Pharma Deutschland : Appell an den Gesundheitsausschuss - Pharmazeutische Zeitung",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQi0xVmtrQXBqanhYRUpWMkRKdDVlVWZhM1kzY0RSYi0ybkpNaW5pazJFR1M1aTRERjFBT2ZVZzJUYllUYlg1ZEFjejlsd2thejVGbHZUNFdJdVRYNW4zRktNUG50VFpva2ZIR09DRHJlVkRucm54S2dMblF6R1VLS2M5cl8yejF1?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 08:15:08 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQi0xVmtrQXBqanhYRUpWMkRKdDVlVWZhM1kzY0RSYi0ybkpNaW5pazJFR1M1aTRERjFBT2ZVZzJUYllUYlg1ZEFjejlsd2thejVGbHZUNFdJdVRYNW4zRktNUG50VFpva2ZIR09DRH"
+        }
+      ],
+      "Spanish / 스페인어": [
+        {
+          "title": "Así queda el nuevo copago farmacéutico: cuánto pagará cada paciente por sus medicamentos - Demócrata",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWtuSnhqMjlxemU1cVhmXzVIbzVremZMVjVVVm9CUFY0dGtIVzk5MzhwbklQNlZESjhZQzIxZHh1eEhOSU9SLUR3dGVPMHFzenlQR3RLTVFvS1dReFFNVWR0a05qQVZyUGNrdm5STDlINjZLLXNwYTNCNTcwMXhEc0dOdFgyZ2FYRFgwa0xqTmZLeVV1dVlGek9xd0tjZVRkX1Y2eHBB0gGrAUFVX3lxTE52UU01SG40d2lVYWR3VThRNUE2blg1b3NTeTA5RS1US2t6SDVIbS1IeG9YY05VakYybDVlNmRmNVAzQmJjbmh1amlsNExKUmRVWURXQ2NmaFM1azVVT1RMZDJnYmpkQ1pVUU9NYnJWMHlNdEthMmdLUDRHVzdCbUpsejJtaXdxUHVvMHpCbkJvanV3MGpXc2I5YlFjQ2NTSlJ3ZEFDcGJTTTkxTQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:47:27 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORWtuSnhqMjlxemU1cVhmXzVIbzVremZMVjVVVm9CUFY0dGtIVzk5MzhwbklQNlZESjhZQzIxZHh1eEhOSU9SLUR3dGVPMHFzenlQR3RLTVFvS1dReFFNVWR0a05qQVZyUGNrdm5STD"
+        },
+        {
+          "title": "El Congreso aprueba el nuevo copago farmacéutico: medicamentos más baratos y un límite de gasto para los españoles - Infobae",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMDBqY2tBOUswd1ZSYzBlQmlBTS16MllMSGotQ2s2TVI5RGkwRE5qdkI0ZWtQLUFpaFZwbEw0NkNCWnNXSXg3MzdqVXpUSXo1QVV2d3RmbFd4Y29yRlgzUnhvNWM0NjJmcXJpTDRZUHhELWpvZVRaYW9aSTgyeFB1TlZVaXJhUTdrRFJlYVJPWUVYeHNiQ3hnM21iS1V0MTlIeDd2NkVYdzF0UWY0cDFrYWQ2ei1JemUwbkY4RTJCem9jMkwtWFV3cElSWTJwMWVvUXBrMVF0RWl6cXFkWF8xQjBpaDBORVRLR0xHWdIBhwJBVV95cUxPRVI4OEVlaklKQ05hQXk3NXBYWXZydndrNFR0ZmxudDh2U2ZoSUVrQi1Xa1FsT0NTWnBnWjd0XzhKWjFiTndKNlFkVl9ETVJzSWRmR1FrYlgzbUl5a01wSm1fdkVjenJORjl5ZUNENU9fU2RoMWFpU1JtN3JmbWdFdjRHcnVIYWtSTUJGWnJDd2FVQjR5cGxpSW1uZEpnSTV0UGdvREU3UmdkdHQzSHZYSHlkS0xsZFNoT0dsamkzWUh3N3lNYUdzNFMtZ1duajM0VDM1NVVWX3JBeGhmYUdlWXhkbnFGWnJ0aklaZlV6VG4zYmF2M2dROGlNRTZoYlQ3aGV1VlFPQQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 12:35:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMDBqY2tBOUswd1ZSYzBlQmlBTS16MllMSGotQ2s2TVI5RGkwRE5qdkI0ZWtQLUFpaFZwbEw0NkNCWnNXSXg3MzdqVXpUSXo1QVV2d3RmbFd4Y29yRlgzUnhvNWM0NjJmcXJpTDRZUH"
+        },
+        {
+          "title": "Guatemala por abrir 80 nuevas farmacias de precios justos en 2026 - Prensa Latina",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1Jqd1I0TzE5amhFT3FNeVRraDEzMFlXM19WTVE4UVdhaTFUU3hyek9iUFpWM3ZSV3ZtVUVnWjA3c3JNNUxfYXhSZHBnUzNjR21Od2dwR2kyVVZLcjBBN1RDLWswZWp4NmxBblFNaldFNFJlWmc2Ri13YkNNQU1GR2JDYkliNmxSYk1UYVJtY0xDbDRzLWJiNGk4eXR4UUcxSVBLQk0ydHNaUQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 17:20:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1Jqd1I0TzE5amhFT3FNeVRraDEzMFlXM19WTVE4UVdhaTFUU3hyek9iUFpWM3ZSV3ZtVUVnWjA3c3JNNUxfYXhSZHBnUzNjR21Od2dwR2kyVVZLcjBBN1RDLWswZWp4NmxBblFNal"
+        }
+      ],
+      "Italian / 이탈리아어": [
+        {
+          "title": "Da AIFA le indicazioni per il corretto utilizzo dei medicinali GLP-1 e GIP/GLP-1 • NCF - Notiziario Chimico Farmaceutico",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblBUN2RHV1p3bkNUaS02ZWgzcDNzZFR0c3RHWm5zNTk5bm9JeHBFak5UTG9ZMjE1WU95NE9QbWM5VTNiemtHa2l6TzZzbl9TbTBMQ3kya21tV3pBeTZrSnlRWkZBdHV1eEljT3FqQUNzaTZEWExLWFhfZ24xUjljMS1DdGhNMEV4QUc5blAtWGRBZzZqeDZBaHRLVWhEOEdJZUFULUFPdS1Ka0drclRZeDRDeXVoOW41ckREUHhaTE1NMHpNS0QyU0VPaTJKcmhFaE9j?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 15:00:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNblBUN2RHV1p3bkNUaS02ZWgzcDNzZFR0c3RHWm5zNTk5bm9JeHBFak5UTG9ZMjE1WU95NE9QbWM5VTNiemtHa2l6TzZzbl9TbTBMQ3kya21tV3pBeTZrSnlRWkZBdHV1eEljT3FqQU"
+        },
+        {
+          "title": "Farmaci scaduti e prezzi triplicati «Qui a Gaza non ci si cura più» - Avvenire",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVSNExnSHp2MmV5RURZTTIzeW9QSElZMGlHbGtCcnZ3SW1LOE1RaXFUNjVSN0lRTWhyLWhWSlVITkxFaDFCT3g0NHF0dlhwYlZtelAzb3BuYXk2MHhDZGdRWFlTZHRCTDhVMHlKWnVfY29XMUk2ZnFJTE9Ka1h4R3RFN1QyUGdVOFpHbXIyUkVRaXdON1J0V0VJV2k3dUt0VnIxeg?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:00:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHVSNExnSHp2MmV5RURZTTIzeW9QSElZMGlHbGtCcnZ3SW1LOE1RaXFUNjVSN0lRTWhyLWhWSlVITkxFaDFCT3g0NHF0dlhwYlZtelAzb3BuYXk2MHhDZGdRWFlTZHRCTDhVMHlKWn"
+        },
+        {
+          "title": "Medicinali, un italiano su due si rivolge alle farmacie digitali. “Il 52% dei malati cronici pronto ad acquistare con la ricetta online” - Quotidiano Nazionale",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHZMNDMzM19tRWgwWmZCOUxNR051RWdSQmRLRmc4N09FNWpyLUpzdEVCdmk4NGZ2cW45X2h5UnJHcWFWREtBcFo1V0ltWmUtQ0tNNGFOb01SWGlvcXpaUzExTVJ0NW9GdFZqcGdxc3RFLUpwXzJqT1N0TjRkVk9KWWZiRlpUNHpSelViMUZfV3RFLTVMczFj?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 19:10:58 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHZMNDMzM19tRWgwWmZCOUxNR051RWdSQmRLRmc4N09FNWpyLUpzdEVCdmk4NGZ2cW45X2h5UnJHcWFWREtBcFo1V0ltWmUtQ0tNNGFOb01SWGlvcXpaUzExTVJ0NW9GdFZqcGdxc3"
+        }
+      ],
+      "Portuguese / 포르투갈어": [
+        {
+          "title": "Prefeitura divulga semanalmente lista de medicamentos disponíveis nas farmácias básicas de Barra do Garças - Prefeitura Municipal de Barra do Garças",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTWJ3RGlud29hSG5WbVBEZ3ktT1dHdE0tMFFtdzI2OGlyZC04NnhRZ0lTRTZRWVlZMFR2MF9VakxpZWhfVHl5TzA2eUVYbERvUWFBNHhQeFZvdEtmS3NSSnNaTUplTzh3b3FvV1llczVOeHlNQXpETnBGWlBWdTd4d19CVEZnVU93aHUwMmRSSDdOcFVXY2JSdld3cGFvaFdkNmRVU1pRcjZ3OEh2UTJQN2Jkd2RXa2NiSHcyT0tsSXlqUlFodTU0eERTNXUyNmw3bWdHS0lFYlpvS3RLV3N0Y0FCdlBhU3I4S1VuVnFfWEZlbzJ3bDM1WG9n?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 17:53:44 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTWJ3RGlud29hSG5WbVBEZ3ktT1dHdE0tMFFtdzI2OGlyZC04NnhRZ0lTRTZRWVlZMFR2MF9VakxpZWhfVHl5TzA2eUVYbERvUWFBNHhQeFZvdEtmS3NSSnNaTUplTzh3b3FvV1llcz"
+        },
+        {
+          "title": "População enfrenta até sete horas de fila para pegar medicamentos em farmácia de alto custo de SP - R7",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdG1XVmNPcG9kaUUySDFwMzNaN3paa3RYTlpCUEp6eWRpRm5Kc2h0eFRXbXVQV0JWam9qQnV2MUJILS0wQ1BrNGhWOWJqS3ZMTHFKem1xWWcwcThBV1Q5aDJ4a1JqN2xFV0VVRnJ3U3Nsc2NuWHlYRjctYUlOa1R6NWJLV1JuU29Ga0tDMTM5STVYVks2bDByVHFvZEtWZ1hGRXFzY283c1psSXNOLTRENVRkT0p6U1dvOVJsWXN4R0FsOGtZTnR6ZWRkWnN1ZGhGcHYtRU43b1hZNFVHLW40VXBiVUZ4bDMzenZr?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:38:44 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdG1XVmNPcG9kaUUySDFwMzNaN3paa3RYTlpCUEp6eWRpRm5Kc2h0eFRXbXVQV0JWam9qQnV2MUJILS0wQ1BrNGhWOWJqS3ZMTHFKem1xWWcwcThBV1Q5aDJ4a1JqN2xFV0VVRnJ3U3"
+        },
+        {
+          "title": "Pesquisa do Idec compara teto de preços de medicamentos nas farmácias com os valores pagos pelo SUS - O Dia",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnpQYThnUndwb1ZxZ1RvQjRBRkpvZjZzcmFnbWx5TloyQVc5amFJRTdHQ2wyWjZEc3ZPMGl4WFFmMjVMSGJLa2h6WDhERUVrV0JaYmc1SUZ4WUNodm1CSlhDSDBRQTlnU0tWYkVRTDhtTm9XeXl0Z1NSY0pUZ1ItLVF5Qnd6R1ppaEdOcGNZUW9TUGVWSU0wY3kzWTBLdGZoa0s0ZFBpQTBacEU1YnZCSS1keEpGR1ZZRGtjak9WeGJoelJseXo5UkxNY05wa3paUzZxM29McTFqWC1jZ0dXc3hHOGbSAeoBQVVfeXFMT1NIMEdMb3JMUFdiYW5pazhYNHFDeTRYY2swU1lwWXdWSVBhX1FZM2NqUXVrTEdqX29XX0lsbjdmbmU1NkFBTmxvNGoweERSNldIRU9LVVgwR25CbXFuY2RxbDI5ejhYMldrZm1VV1BXakNHQzBwWVpzbnFIWl82ZXRWTW9RQWplMnh1R2RFeDRlbHYzbWdBaXdpRlZXaW9nMFV0aTZObWtWSDlPclVzWFlGTzlhVE9XQU1TV3BvR1ViU2JXQ3VEdDc1Z1RtbjdDMTAzM0kzQTE0cE9KQ2NlMFg4d0ZoWjFISW9B?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 20:10:31 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnpQYThnUndwb1ZxZ1RvQjRBRkpvZjZzcmFnbWx5TloyQVc5amFJRTdHQ2wyWjZEc3ZPMGl4WFFmMjVMSGJLa2h6WDhERUVrV0JaYmc1SUZ4WUNodm1CSlhDSDBRQTlnU0tWYkVRTD"
+        }
+      ],
+      "Dutch / 네덜란드어": [
+        {
+          "title": "VVD Nieuwegein wil actie na weigering medicatie door apotheek Vreeswijk - De Molenkruier",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDR0d3dVdmtVRU1nbGNpRWpxOXozb1ZSMXNDMjM0VWdfNVdxXzFKN3U3Ni1URzhYdDB5TGJOMFBLcFgzdmhGQ2dxYmZvUzBrTE5LbjdBSFJ0ZGFfNW5ubm8xdGo3d0wxY0JteDkyYmc0VXpuLUxDSHgzVjB4VkoxRERTeXJkb1dRVi1KMUxxcU5KYjVGQkkxQ3ctbFdNcTlKZUVkdkpSd0lYTlpNdHJQbjdUZ0FCQmZaLW1v?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 19:52:31 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDR0d3dVdmtVRU1nbGNpRWpxOXozb1ZSMXNDMjM0VWdfNVdxXzFKN3U3Ni1URzhYdDB5TGJOMFBLcFgzdmhGQ2dxYmZvUzBrTE5LbjdBSFJ0ZGFfNW5ubm8xdGo3d0wxY0JteDkyYm"
+        },
+        {
+          "title": "1 op 4 Belgen gooit vervallen medicijnen nog steeds in de vuilnisbak - Medi-Sfeer",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWFHOWRTdzV1QXhNNUtmLUptUjVPVlQtQnBqcUFSS05KUzQyc1JWZnVuMzVoZjZuTHVITVBLdVR2bTVidTlXYzZvRk5iY28wd0pfNnFIRnpBLS12eUdfdzZBZ0pfaGJGcGdjRUJMNmFzRkhna0ZST0JheGFFVS02NEpuNGl2N0dwVFNFdTUwZU5KYjAwZFA3dThUZUF0cWRTbTJkeS00aGJIX2VXQUE?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:36:08 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNYWFHOWRTdzV1QXhNNUtmLUptUjVPVlQtQnBqcUFSS05KUzQyc1JWZnVuMzVoZjZuTHVITVBLdVR2bTVidTlXYzZvRk5iY28wd0pfNnFIRnpBLS12eUdfdzZBZ0pfaGJGcGdjRUJMNm"
+        }
+      ],
+      "Swedish / 스웨덴어": [
+        {
+          "title": "”Skydda vår integritet och gör det otillåtet att filma på apotek” - Svensk Farmaci",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcndpeEZDYWd5V1ZmM2hEaXFTWW5tREtTdmFDS3g0TWxaSTk3T19oLU9QUFltcUpkWW1xdDZqLWgwdUhkZEYtd3h3RnRvajNzSjBTMnpSVVJadjRnbzlQc3hqbXp3Mnl1MU1YM3J3bGoydkNtcjhSUlBRNlFwajdzUW1vY2ZiTmliZnVhSVNrcmNFQmF5M0IxVUs2dmpCWUlzWUJCMldEOA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 06:53:31 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcndpeEZDYWd5V1ZmM2hEaXFTWW5tREtTdmFDS3g0TWxaSTk3T19oLU9QUFltcUpkWW1xdDZqLWgwdUhkZEYtd3h3RnRvajNzSjBTMnpSVVJadjRnbzlQc3hqbXp3Mnl1MU1YM3J3bG"
+        },
+        {
+          "title": "Ny målarbok om apotekare väcker barns nyfikenhet på farmaci - Uppsala universitet",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjJDYjY1VmJQX1NCMTJ6cVBLWjBmRTh6SmJBYnJJWndGMHVFdVdkUVFEdzhHdk9ScVJINGpyQUNIWm05N1dwN29lcFp5SEJpbDB0WVhyY05iM0pjdWlCWi1xR1BmcWxLUWtRYWRqUm9WMjAwb0YzRlNIeWFMVHZPMXlZZFA2QjZRYWQ0QW9oa0Y1bHRFdFpZYlF4TmhTbHhvUTJR?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 11:30:24 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMjJDYjY1VmJQX1NCMTJ6cVBLWjBmRTh6SmJBYnJJWndGMHVFdVdkUVFEdzhHdk9ScVJINGpyQUNIWm05N1dwN29lcFp5SEJpbDB0WVhyY05iM0pjdWlCWi1xR1BmcWxLUWtRYWRqUm"
+        },
+        {
+          "title": "Därför är det så svårt att få tag på östrogen som plåster, spray och gel - Via TT",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNURTR1RPVFZ5WHZVcDBEZlFfSlFfSWpJbWdmenpLaHVCd2VSQklwejlMVDR0d21iUDRiU0VMOFhvWVRZSVcyand5ZFBsSElYd21DcHY3RjFXU0k2V29WWEF0enlraTAycXYwM0U2b1lfcFNZemM3bGx0RTRGaHZqOUNUcTBfZkktWS1fXzZsajZvc3V5YXhQMV9Lam02WDg4blVfbXhmMHdoVWw5SmJmV3ZZU3lJbVhIRWJ4d0dablJ5WnEzMXBRX2NYR200RnVhX3RDVkh3TDA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 05:55:17 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNURTR1RPVFZ5WHZVcDBEZlFfSlFfSWpJbWdmenpLaHVCd2VSQklwejlMVDR0d21iUDRiU0VMOFhvWVRZSVcyand5ZFBsSElYd21DcHY3RjFXU0k2V29WWEF0enlraTAycXYwM0U2b1"
+        }
+      ],
+      "Polish / 폴란드어": [
+        {
+          "title": "NFZ przegrał w sądzie z apteką. Kto może wydawać leki z substancjami bardzo silnie działającymi - edgp.gazetaprawna.pl",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQV96YjJZZ29ZclplSmhiZjRZUzFhQVA2djhpMV9ONEpreDUtOE8zQnRpT05OWUhaZzQwZjhCSGN0eWtFcXNRREFGMmxpQTU2RU9KQkVCSG1QY09Jd2R5Wk8weEJFSTJDZExQNFFKN05VTGNCenNKNnY5aDZ5M2RxSExYQlJ1XzdVSDNINnN3Qmx0ZFJlYU4ySDRTaUJyb0RnZ1VCeGR5NTRmbHMwN1puemZ3Z2k4SVA0ZVRNb3BEZmYzYm9t?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 13:41:08 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQV96YjJZZ29ZclplSmhiZjRZUzFhQVA2djhpMV9ONEpreDUtOE8zQnRpT05OWUhaZzQwZjhCSGN0eWtFcXNRREFGMmxpQTU2RU9KQkVCSG1QY09Jd2R5Wk8weEJFSTJDZExQNFFKN0"
+        },
+        {
+          "title": "​Leki na receptę z dostawą do domu? Ustawa trafi do Sejmu jesienią - RMF24",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0Nqck50R21KWkM2d2R3QTgzbnB3RnZJUTRNeHltcHk5QXh2a0NkcXFWRnZ6Z1FFYXloNE5KaEhnWnpQV2Fta0g1Z1Y0WEw5aGNWWHpINDBNMFN1Uk81XzNabnBWejRyWXA3NjBoUlEwbk9UTHRSdlY1N1h0ME1Tc2hOYUtNRXh0VEkyOVZrbmZDcE1ZQmFqOUV5Y3FqaDNrSjN6TW9GU1VIRWhBbEk3ZA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:58:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0Nqck50R21KWkM2d2R3QTgzbnB3RnZJUTRNeHltcHk5QXh2a0NkcXFWRnZ6Z1FFYXloNE5KaEhnWnpQV2Fta0g1Z1Y0WEw5aGNWWHpINDBNMFN1Uk81XzNabnBWejRyWXA3NjBoUl"
+        },
+        {
+          "title": "Leki GLP-1 pomagają pacjentom po nieudanej operacji bariatrycznej. Nowe wyniki badania - Alert Medyczny",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWQtUHdNdmlBTFFJRDE0Yi1Yd1FIdWZkcVlidm0yZGU3ZWVTNmsteUhublFfc1RZY0EzaFo2NlZIR3piOUNlUjlFZzkydUNIZ1hQMzNrcF9TS2pXSVRCNHBUa3JPR2hDYlFaSTZtQkRtREo1MmhMdjJVRWlPQzBwb3d2dkM2WGtkZklHanZOMldCWDl3LXd6eXlRcVRpcFd0LVc0RkhLVzBwUzhyOGVQTw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 15:48:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWQtUHdNdmlBTFFJRDE0Yi1Yd1FIdWZkcVlidm0yZGU3ZWVTNmsteUhublFfc1RZY0EzaFo2NlZIR3piOUNlUjlFZzkydUNIZ1hQMzNrcF9TS2pXSVRCNHBUa3JPR2hDYlFaSTZtQk"
+        }
+      ],
+      "Turkish / 터키어": [
+        {
+          "title": "ECZANELER AÇIK MI, KAPALI MI? Eczaneler ne zaman açılacak? Nöbetçi eczane sorgulama nasıl yapılır? - Milliyet",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0Z1LUc1bjBvblhia3pFbGNfVF94ck41NFJNTmhfN0k4TWRUNWRWMV9ONHUwNmdDR0FLUl84bG1ReHowd0xXdUI1bUx6RHoxaGZrY1ZXdlg4NFAyQ0FGZlNydy04UjhjT013YkdGV1NhQlBHWFFISmdrUHlvd0ppZTVodW1xUnQ1R3NPelZFT1F4VTBLTlU4MDkwZnQ0RXhEUEJHckE1SzdRbTZubW1PQU5fdXFubkgxZXdXZ0JjRQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:09:59 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0Z1LUc1bjBvblhia3pFbGNfVF94ck41NFJNTmhfN0k4TWRUNWRWMV9ONHUwNmdDR0FLUl84bG1ReHowd0xXdUI1bUx6RHoxaGZrY1ZXdlg4NFAyQ0FGZlNydy04UjhjT013YkdGV1"
+        },
+        {
+          "title": "BUGÜN ECZANELER AÇIK MI, KAPALI MI? 28 Mayıs 2026 Perşembe günü Nöbetçi eczane sorgulama - Sabah",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVBwMWV5RVphZnJuM25RM1FnUEZQampMQWdTTllfRlNuUVhfSHB1aGEwaHE5TmNZWkpfUFU2aHY4Tm85QjNWMDJNaU00Yi1fcGNtbW13MzgzVVF4SUJrMjc3cGlvbEtQZVZwMFZNMjlWRnIwb0FPa25nX1FUTWZTLWhQY3JHRnYyaWp5dmF4UzJSV2pKODN5SVlWRy1Dc3ViMzNNak8zZHgxZ2o3Uk5oZ3NyYm53NXhMX1I0dTdBcGZlU3PSAcYBQVVfeXFMUDB3RGstaUh0OTNndUpNMnZscnF1eFRPUU5QSjJzaFozT0lHMFgwRVNWckZzS2hvclhBV3ZxS0xsRFRrQWdiQ2N4VXZyb2V3N1VlNXhveW9VLThzT21HSXBaY2I4OWhoZllNejZLNlhlVlV6blFBMFUzbl9Cd3RaZFQ1d2wybmtVSDlGQUJMNmdJWDlrWEVBU3JHUzl5a0tJTG1jNGJlc2F4RkJwaWowYWw1VExpeTFHN1pfREJDcmlKLUtNdWZB?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 06:07:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVBwMWV5RVphZnJuM25RM1FnUEZQampMQWdTTllfRlNuUVhfSHB1aGEwaHE5TmNZWkpfUFU2aHY4Tm85QjNWMDJNaU00Yi1fcGNtbW13MzgzVVF4SUJrMjc3cGlvbEtQZVZwMFZNMj"
+        },
+        {
+          "title": "Bugün Hangi Eczane Nöbetçi? Kocaeli Güncel Liste - Kocaeli Gündem",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTNKeDAwYjlDcXEyRDdwbllrNHVHWENyRENiOTRVU3dQSVhPT3QwQ1RuNjBTZF9vbDg0bDQ5TFhsR01HV3dkdjdrbDBMdGRrRGVDdDFEWEJlUERXZ0w3M3U3VTNTa3p3T3dmazdERDBxQ2RRbjhMcks0aTZyTHBoQVhPSnRwU1ZvQUdBa3loWkdJMkR1SkFJ0gGXAUFVX3lxTE9hM0p4MDBiOUNxcTJEN3BuWWs0dUdYQ3JEQ2I5NFVTd1BJWE9PdDBDVG42MFNkX29sODRsNDlMWGxHTUdXd2R2N2tsMEx0ZGtEZUN0MURYQmVQRFdnTDczdTdVM1NrendPd2ZrN0REMHFDZFFuOExySzRpNnJMcGhBWE9KdHBTVm9BR0FreWhaR0kyRHVKQUk?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 20:55:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTNKeDAwYjlDcXEyRDdwbllrNHVHWENyRENiOTRVU3dQSVhPT3QwQ1RuNjBTZF9vbDg0bDQ5TFhsR01HV3dkdjdrbDBMdGRrRGVDdDFEWEJlUERXZ0w3M3U3VTNTa3p3T3dmazdERD"
+        }
+      ],
+      "Russian / 러시아어": [
+        {
+          "title": "Минздрав хочет разрешить продажу рецептурных лекарств только по электронному рецепту - Интерфакс",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Xc3BkREdEWDRhU3ZoUEp5U1gtbmQzblVGV3ZPQ1hlZzY3ektFVlNhcFpJaWhKQXYtYmE0S1c2cE9NNjV5RTI4b1NnY01CckXSAUtBVV95cUxQSnN4QjhELVQ5V05uME9PSnBOS0x5ZUhHVTZEbVlKcnplcmUwc3RyaDZVczBRWndzREpUTm93Vmp1bS12bjRnZldFQnM?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 13:24:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Xc3BkREdEWDRhU3ZoUEp5U1gtbmQzblVGV3ZPQ1hlZzY3ektFVlNhcFpJaWhKQXYtYmE0S1c2cE9NNjV5RTI4b1NnY01CckXSAUtBVV95cUxQSnN4QjhELVQ5V05uME9PSnBOS0x5ZU"
+        },
+        {
+          "title": "​Льготники в Ярославской области в полном объеме обеспечены необходимыми лекарствами - Ярославский регион",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeURFdkpiSFpSOWJOWnNibEpVd0FSVnNKQ044UXlzYV9yZWtvYmthcTZ5ZGIxdUJ0ZE9XemV6bnZ1ZVBDU0dicmRlbnN5MGtjM0NrSHVGLTVLSkRsLTdpbnRFMkZXaGVEVGdJMzV3NUhWUFJ0ZHcxOWN2VDAwU0dRblVxX1NaRkNnMk9MZndjdGFjN25aM0ZVbW5aQUM0ZXM3YmtROENoVnpqVW1nQjAxNw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 11:00:05 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeURFdkpiSFpSOWJOWnNibEpVd0FSVnNKQ044UXlzYV9yZWtvYmthcTZ5ZGIxdUJ0ZE9XemV6bnZ1ZVBDU0dicmRlbnN5MGtjM0NrSHVGLTVLSkRsLTdpbnRFMkZXaGVEVGdJMzV3NU"
+        },
+        {
+          "title": "Минсельхоз переписывает правила отпуска и хранения препаратов в ветаптеках - Ветеринария и жизнь",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRjeVR4aV9VVEh2WlpqcThnSk96RWNqVmh0Y0FodEZYUUxDQm5sZXdRcTBrand2ODY2T1c4STJoV05RLWdWTjZtRkhqc1FMVVlZMjdkOXp0Q3dnV1RFYmtaSlpWYlMxLUpoYWFnN0FmR1lpMjVLOFJRSTVBbDA0YXU4Ym9HSGQ1SFJyRWZSV2FqTjBCeWZCOFhyT2Q4Y0gtZlhvMVZCTQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 11:40:39 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWRjeVR4aV9VVEh2WlpqcThnSk96RWNqVmh0Y0FodEZYUUxDQm5sZXdRcTBrand2ODY2T1c4STJoV05RLWdWTjZtRkhqc1FMVVlZMjdkOXp0Q3dnV1RFYmtaSlpWYlMxLUpoYWFnN0"
+        }
+      ],
+      "Japanese / 일본어": [
+        {
+          "title": "特許切れ薬、事業再編に拍車…杏林が後発品事業売却、帝人は「ベストオーナー探索」 - Answers（アンサーズ）",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRFp0LUNzME9GNzZHWlByLVNrbE9OTzdzRmM3bjZjLS01bjZiT0lSemNmcWwxa1R5TGkyZDRKb1VSeUJFODJwdFNlTEZIMjRBZkJVZDBYRQ?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 23:03:39 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uRFp0LUNzME9GNzZHWlByLVNrbE9OTzdzRmM3bjZjLS01bjZiT0lSemNmcWwxa1R5TGkyZDRKb1VSeUJFODJwdFNlTEZIMjRBZkJVZDBYRQ?oc=5\" target=\"_blank\">特許切れ薬、事業再"
+        },
+        {
+          "title": "危機対応医薬品確保に向けた取り組み - 日刊薬業",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KWnpsOXl1VmE1ZVRLUlZwRVQwYW54QjVwSThESDJxWDNSbXZHZEhJNFdsU3kxUkNTbzM5V2oxREtTUkJOREF2Wg?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 19:30:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KWnpsOXl1VmE1ZVRLUlZwRVQwYW54QjVwSThESDJxWDNSbXZHZEhJNFdsU3kxUkNTbzM5V2oxREtTUkJOREF2Wg?oc=5\" target=\"_blank\">危機対応医薬品確保に向けた取り組み</a>&nbsp;&n"
+        },
+        {
+          "title": "医療制度改革法案が可決、成立へ OTC類似薬追加負担に懸念も（共同通信） - Yahoo!ニュース",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVHdLc1M5WHFsMVVuakJiVURSUFVVTFZmQ2Q5MXQ3dE1MLU1PZUZyX3lsSXFlNk9FQllVQmRZY3l6Q0IwRl9QZ2tDUTYyN3F5cjZoRi1HT1phM1UxTThwXzRBemJickNNRE1PTVY2VmF0dUVvTVhRWXFvLTdHM3c?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 04:02:57 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVHdLc1M5WHFsMVVuakJiVURSUFVVTFZmQ2Q5MXQ3dE1MLU1PZUZyX3lsSXFlNk9FQllVQmRZY3l6Q0IwRl9QZ2tDUTYyN3F5cjZoRi1HT1phM1UxTThwXzRBemJickNNRE1PTVY2Vm"
+        }
+      ],
+      "Chinese (Simplified) / 중국어": [
+        {
+          "title": "复星医药与智翔金泰达成战略合作，子公司药友制药获纬利妥米单抗大中华区独占授权 - ByDrug",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GS3NhNlE1MU5SeFEzZkhjUDlidlBELTZ0Yk5TYTBVSVhXTHh0R1kzRWNBS2Q3cXA2bFRYRVFtYVFPa2phWHhCOHBrR0tOd3ZZU3BlNnFiMW1XOTBPZl9heDNvTDhYRU9FZmtxd3FWRWlPejFBVFZUN3hlMVFFQQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:50:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5GS3NhNlE1MU5SeFEzZkhjUDlidlBELTZ0Yk5TYTBVSVhXTHh0R1kzRWNBS2Q3cXA2bFRYRVFtYVFPa2phWHhCOHBrR0tOd3ZZU3BlNnFiMW1XOTBPZl9heDNvTDhYRU9FZmtxd3FWRW"
+        },
+        {
+          "title": "复星医药：控股子公司获抗体药品许可最高支付6亿元财经新闻Financial News - AASTOCKS.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM01KUENjZ0VrcW1OdTFYQi1YOUVCUXI4WWV1b1dQWlJyUmpMazRNejExSUNFZTBqbEY5STBycFVLamJSNC1rU1ZWU0l4M0hST1JzMlI2SmVTdlc4ZVdSeHBBYUdHUTlTWGtiemc5U0JFcW9wdWRhcTFTa3ZfbmF6UEpPYlc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:51:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOM01KUENjZ0VrcW1OdTFYQi1YOUVCUXI4WWV1b1dQWlJyUmpMazRNejExSUNFZTBqbEY5STBycFVLamJSNC1rU1ZWU0l4M0hST1JzMlI2SmVTdlc4ZVdSeHBBYUdHUTlTWGtiemc5U0"
+        },
+        {
+          "title": "科兴制药与宣泰医药达成合作 推动美国FDA获批品种——托法替布拓展海外市场 - ByDrug",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ld2cxRXNnMnNwNjM5Wkp0cENZS0ZSN0F3aHhia1Y0aWNjdUxreThPNWlRcTJMLVFQcV85R1NfU2hES2g0czY4aFpTdkxuSlAtSTd4ZnQ1ZUhYb3Q4OXJ2VVp1ajFMcUZYdVN5cEZEckotYUwzbExxVjJPWkU3dw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 06:01:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5ld2cxRXNnMnNwNjM5Wkp0cENZS0ZSN0F3aHhia1Y0aWNjdUxreThPNWlRcTJMLVFQcV85R1NfU2hES2g0czY4aFpTdkxuSlAtSTd4ZnQ1ZUhYb3Q4OXJ2VVp1ajFMcUZYdVN5cEZEck"
+        }
+      ],
+      "Chinese (Traditional) / 대만": [
+        {
+          "title": "關鍵藥品自主生產 強化國家藥物韌性 - 台灣民眾電子報",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsTFZoOGFNNmVDRm5DMU1jV1dWT3NPTUZRMUQtMWI3TVU3VUZIUzdwUzh4N09zZXNWWjdySjZaTUNMYWFrMEVLeA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:45:51 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsTFZoOGFNNmVDRm5DMU1jV1dWT3NPTUZRMUQtMWI3TVU3VUZIUzdwUzh4N09zZXNWWjdySjZaTUNMYWFrMEVLeA?oc=5\" target=\"_blank\">關鍵藥品自主生產 強化國家藥物韌性</a>&nbsp;&n"
+        },
+        {
+          "title": "戰爭、疫情損供藥韌性 生技中心將開發5項癌症、免疫疾病生物相似藥 - UDN",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2ZktuRFBKWUNhZUkzODNzeXQ3OHVlYmkzYVAwcVduS1A4b3hxYUpmSndBSXBHS1lBMUNhUlctUlVaRUZMSm1tNTFlSlVvLUVJTFZVdlh30gFWQVVfeXFMUHZmS25EUEpZQ2FlSTM4M3N5dDc4dWViaTNhUDBxV25LUDhveHFhSmZKd0FJcEdLWUExQ2FSVy1SVVpFRkxKbW01MWVKVW8tRUlMVlV2WHc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 06:09:11 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2ZktuRFBKWUNhZUkzODNzeXQ3OHVlYmkzYVAwcVduS1A4b3hxYUpmSndBSXBHS1lBMUNhUlctUlVaRUZMSm1tNTFlSlVvLUVJTFZVdlh30gFWQVVfeXFMUHZmS25EUEpZQ2FlSTM4M3"
+        },
+        {
+          "title": "DCB 打造台灣自主藥物供應鏈 布局下一個生醫黃金十年 - 報新聞",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZV9mRHIxOFBhSWtSeGNzWEpDN01GcVZsR0pSd3dCdVFQQTV0NmpjNEl6T1JZWFQxN3dDbG9IaVk4Q1RKT3pIYXdKQnk3a1ZoenhTTnYtQVltczJCbEhoWTd1T0l0MkNPZ0lwTld4MUhXV1JrYTU2eFpJcWdjR0xFX1VGQzRzZmNvN1dMYnhSR2xoY1ZPSktuOXJVSzdXSXRCZ2lEQUpZSENJd0huM1pZX3BhYmI2dUs2aDRPczVJVHRNZ2lpdHBWbDZDSlNlTS0xdnBKMWRBc292S2Zfay0zb21ral9ZMThycmpXSjd4cEhQV0kwQVZvS3N0R3U1d1g0YnR5Z2dROVFCQ3J6X2tWSDN1ZGxiTEJEcjduX1FFMV9HV1lDVDVLWXE4Z2RMel9CZDVjQ3oxUFVVNGpBOUgtZEVWMXB6bTcxNnZTSmE3TFF4Rnc4NG9saGxFcTNLOFlh?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:12:29 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZV9mRHIxOFBhSWtSeGNzWEpDN01GcVZsR0pSd3dCdVFQQTV0NmpjNEl6T1JZWFQxN3dDbG9IaVk4Q1RKT3pIYXdKQnk3a1ZoenhTTnYtQVltczJCbEhoWTd1T0l0MkNPZ0lwTld4MU"
+        }
+      ],
+      "Vietnamese / 베트남어": [
+        {
+          "title": "Dược phẩm SaVi bị phạt hơn 175 triệu đồng vì nhiều vi phạm trong hoạt động sản xuất thuốc - Tạp chí điện tử Thương Trường",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2dfUHV0dVNvTENBazQ2dHNrWVN1VzNLSzVsd1I2cmtNRmNod1c5RTlzOTZjaksyVlZ6M3dWT3lfUnYxZlg1b29hZ2xHbjVienY1U19lX0FobkVpazNUZ1dqY041YVRqNnFLWXdYMEZBWUR3eENtNk5weXFjTlBpeldQMEJvam5KeWFHTjh2NlQwUHp0c3JEZ0xxZGYwd0pKSDhIRGJjZFBZV0lReU9vc3doTms3M0djMW9wQ2Y3WklnVThVbktpOTBDeHRYU2s?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:42:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2dfUHV0dVNvTENBazQ2dHNrWVN1VzNLSzVsd1I2cmtNRmNod1c5RTlzOTZjaksyVlZ6M3dWT3lfUnYxZlg1b29hZ2xHbjVienY1U19lX0FobkVpazNUZ1dqY041YVRqNnFLWXdYME"
+        },
+        {
+          "title": "Dược phẩm SaVi bị phạt 175 triệu đồng - Tạp chí Tài chính Doanh nghiệp",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjN0M1RPYk5WQzd0QmVaNzVqcjJfVUxkUEVlWU1tN1VzMEk2Sjl2UmttcEtKaFJKWjZtbDZNbkUxeTktaGx5d254RkVnQWJ2aU1lam9nYUZsekM4c3MtWVRzTk5NR1JQcTFDcXEzT0xFbU1kUy1mQTFQMTFKRWdqdnY2Y2xwZlItNTFLWA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 13:34:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjN0M1RPYk5WQzd0QmVaNzVqcjJfVUxkUEVlWU1tN1VzMEk2Sjl2UmttcEtKaFJKWjZtbDZNbkUxeTktaGx5d254RkVnQWJ2aU1lam9nYUZsekM4c3MtWVRzTk5NR1JQcTFDcXEzT0"
+        },
+        {
+          "title": "Phạt Công ty Cổ phần Dược phẩm An Thiên do vi phạm quy định lưu hành thuốc - congly.vn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNURNaXdyWVk4SEkzNzM2SzlDMGE5UldvbnItY0pDRkRxemlTeHF4NVMzTnVrMmhPd3NJeTN0VXRhemYwR2VPMWZpMlozZDllS0U3RDZOdkxPbm5ZUHNiTGVDMzA1clBQTUtnYUcxczg2WVNuNm41Y2VMTWttdEF0cXJ2WkpQaHpSaWF5dTZIcUVoS2FDN2xzcDZORXRQeEF2alVMcnZiZw?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 09:01:01 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNNURNaXdyWVk4SEkzNzM2SzlDMGE5UldvbnItY0pDRkRxemlTeHF4NVMzTnVrMmhPd3NJeTN0VXRhemYwR2VPMWZpMlozZDllS0U3RDZOdkxPbm5ZUHNiTGVDMzA1clBQTUtnYUcxcz"
+        }
+      ],
+      "Thai / 태국어": [
+        {
+          "title": "เตรียมจัดใหญ่ ‘CPHI SEA 2026’ รุกตลาดยา 4.8 แสนล้าน. ดันไทยสู่ Medical Hub - thansettakij",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56S2tLV2lkWkhKc2Rfd3htWjNvOGJDaVRpeGtJdnNYek54U0dYcWpMU3llRl9MWTdPTDdkYWQ0VlRLU3Y4a04zLW5ldURud0NrelAyaFp4RVJoYlpTZWM3RXFQdmFhbXBXWVE?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 21:05:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE56S2tLV2lkWkhKc2Rfd3htWjNvOGJDaVRpeGtJdnNYek54U0dYcWpMU3llRl9MWTdPTDdkYWQ0VlRLU3Y4a04zLW5ldURud0NrelAyaFp4RVJoYlpTZWM3RXFQdmFhbXBXWVE?oc=5\" "
+        },
+        {
+          "title": "รัฐมนตรีว่าการกระทรวงสาธารณสุข ดาว หงหลาน ได้ให้การต้อนรับและประชุมหารือกับผู้บริหารระดับสูงของบริษัท เฮเทอโร แล็บส์ จำกัด ประเทศอินเดีย - Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjhBem4tc2xySkptcDNDSVNmNDhpbUcwY0RVNnFqdnlyZUN2SVJpMTRJbUZqWm5JZldaeE9pM3dKWWFuMzhQTE1QN0xObnZEMlA1VWpNamwxZEltSzExZTZfMEVpTWtJTWc3WDM0aHkyMVVseTVVbjBBTmNYX21UQmplQWhNejA1Z2ptS21mODFuYWVJelVNby1PV1Mya0xPUXNFYk5GY2ZsMFp3QXp5RTkwUHBxc29DMXZlUUJNTy1KVEpB?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 15:11:28 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjhBem4tc2xySkptcDNDSVNmNDhpbUcwY0RVNnFqdnlyZUN2SVJpMTRJbUZqWm5JZldaeE9pM3dKWWFuMzhQTE1QN0xObnZEMlA1VWpNamwxZEltSzExZTZfMEVpTWtJTWc3WDM0aH"
+        },
+        {
+          "title": "คนสู้โรค - Fact Check : กิน \"ขมิ้นชัน\" ร่วมกับยาต้านการแข็งตัวของเลือด เสี่ยงเลือดออกในกระเพาะอาหาร จริงหรือ ? | Thai PBS รายการไทยพีบีเอส - Thai PBS",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzWk9FUlBJMVV1cW84MFA5b1M5ck4tR1VsWXg0WXZOQzhfOVhvTWxVSkIxYTlWQ0U1bFdLaW9qZWNrZUVzQkhvNVZYN2hYaFQ5QzJIYzRvYVdVemdXWjdVVllyemxzYVpwdXlaZWdDVQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:05:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBzWk9FUlBJMVV1cW84MFA5b1M5ck4tR1VsWXg0WXZOQzhfOVhvTWxVSkIxYTlWQ0U1bFdLaW9qZWNrZUVzQkhvNVZYN2hYaFQ5QzJIYzRvYVdVemdXWjdVVllyemxzYVpwdXlaZWdDVQ"
+        }
+      ],
+      "Indonesian / 인도네시아어": [
+        {
+          "title": "Mendorong pemberian obat gratis kepada pasien yang memiliki kartu asuransi kesehatan namun masih menghadapi beban keuangan. - Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2R0ZmgyUEpTQUlZcENxN29pRnhKQmg4T2wzR2NNRVZxa3loVEZtaFdYWjNoQU9LTFdOY3hDcFBlczlCZFZvT0lxU2Q4RGFHaVVsNjRjVklTMFktVWVmaE8tQkdDbkV6VHgzWWFVMlNJRy11d1FuZHJOaXUxM1BqSEwzSDBhYmtDZm9ULW5sUjg4bUVQbGtVY0oxVm1iaDZ6VG1RYnpvdGtVams2N0ViUlVESXo3eWJlUlV1VTQ5MGI1QQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:32:01 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2R0ZmgyUEpTQUlZcENxN29pRnhKQmg4T2wzR2NNRVZxa3loVEZtaFdYWjNoQU9LTFdOY3hDcFBlczlCZFZvT0lxU2Q4RGFHaVVsNjRjVklTMFktVWVmaE8tQkdDbkV6VHgzWWFVMl"
+        },
+        {
+          "title": "Perang Iran, Obat Pun Langka dan Harga Melonjak - detikNews",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdVZzSkZaYjF3dnNoN3ZFSXJPWFpKSEV3eE43endIRjFFRFpEdlVQLW54bWVERHRZTWQ0Y2xtSDRwM3lIaEVMQjhoQ2xxV3lqZWk4XzN2MFhRNlhJX19WcGlUNlo1ajdObW1YS25RZXJ3Ukh2blFDNUFZdTBlc2IzZWVNankwYngzRmfSAY8BQVVfeXFMTV9yMkxpUnZXMmNrdVRtTnRfRG5veUhJWWF2WkxSWFdTNzhLSE5DN2RGejc3R3ppZ0FTblR6c3NQdEZDOEl3R2NHN3JvMl80TzNsbVNEeEZSYmpoQWItT0Q0eDhJNUh2Rjk2WWU1b01HRUhCWmxhRDBtUTM0amhlaWxtZXllcGxkWWlPX2MxR0k?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 07:21:58 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdVZzSkZaYjF3dnNoN3ZFSXJPWFpKSEV3eE43endIRjFFRFpEdlVQLW54bWVERHRZTWQ0Y2xtSDRwM3lIaEVMQjhoQ2xxV3lqZWk4XzN2MFhRNlhJX19WcGlUNlo1ajdObW1YS25RZX"
+        },
+        {
+          "title": "Perang Iran, Obat Langka dan Harga Melonjak - dw.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xenlESXdUS2w4TlA2aDB1clpTcHZ6ZzY0UUJPbDZRTVhiMnVXQmdwc3J6UXhNYXdValZIZ2RQMkJWeWxPUzI2dFRvNmstd29GUWhFMkxkQ3Vsc3N30gFcQVVfeXFMTXF6eURJd1RLbDhOUDZoMHVyWlNwdnpnNjRRQk9sNlFNWGIydVdCZ3BzcnpReE1hd1VqVkhnZFAyQlZ5bE9TMjZ0VG82ay13b0ZRaEUyTGRDdWxzc3c?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 12:08:10 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xenlESXdUS2w4TlA2aDB1clpTcHZ6ZzY0UUJPbDZRTVhiMnVXQmdwc3J6UXhNYXdValZIZ2RQMkJWeWxPUzI2dFRvNmstd29GUWhFMkxkQ3Vsc3N30gFcQVVfeXFMTXF6eURJd1RLbD"
+        }
+      ],
+      "Hindi / 힌디어": [
+        {
+          "title": "वैश्विक बदलावों के बीच भारतीय फार्मा उद्योग मजबूत स्थिति में: स्वास्थ्य मंत्री जगत प्रकाश नड्डा - News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjl6LUpXS0dONUNseXc3dExuVFR2UFp5UGJxZzk3aEd4QXRNVE8taWZsaTZSMm14SHo0YnQtWWV2UUlqZkRtRGtHTXVqTVRSTDRBQnBacTdIU1E4Z2hoZ0ZFMEUtUVhEQV9aQXp2amNOWTV2T21FYmJKYWhOY2sxT0FhVTEycG40VmVmemJGZDhQcE9tZlJmcTlTRlp5NG5wcXZoSWdjTVVpVlVtUWFmZ0YwMlVuQ2RINEFXdmwta290aHpOVVA0?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:39:46 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRjl6LUpXS0dONUNseXc3dExuVFR2UFp5UGJxZzk3aEd4QXRNVE8taWZsaTZSMm14SHo0YnQtWWV2UUlqZkRtRGtHTXVqTVRSTDRBQnBacTdIU1E4Z2hoZ0ZFMEUtUVhEQV9aQXp2am"
+        },
+        {
+          "title": "युद्ध के चलते ईरान में गहराई दवाइयों की किल्लत - dw.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWlJdFZYLVhEdUp3VVNJM2s0Y2NWUXhLaXhneWxBRU5QNjhBSThRUHAtWWcxRDhvbFFKWGtXUzRXeVVwWkZpbzRRelFzQ24xZVhyYmRuY0VTQnZpSDBtZGZyLU1SWGlYY3piNzNnYTJ0R0tfQTBvVlV2RDZDSUJabTYtLWdDSjRQZ0HSAYoBQVVfeXFMTmVpSXRWWC1YRHVKd1VTSTNrNGNjVlF4S2l4Z3lsQUVOUDY4QUk4UVBwLVlnMUQ4b2xRSlhrV1M0V3lVcFpGaW80UXpRc0NuMWVYcmJkbmNFU0J2aUgwbWRmci1NUlhpWGN6YjczZ2EydEdLX0Ewb1ZVdkQ2Q0lCWm02LS1nQ0o0UGdB?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 15:20:41 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOZWlJdFZYLVhEdUp3VVNJM2s0Y2NWUXhLaXhneWxBRU5QNjhBSThRUHAtWWcxRDhvbFFKWGtXUzRXeVVwWkZpbzRRelFzQ24xZVhyYmRuY0VTQnZpSDBtZGZyLU1SWGlYY3piNzNnYT"
+        },
+        {
+          "title": "तरैया और पचौड़र बाजार में दवा दुकानदारों की हड़ताल: ऑनलाइन दवा बिक्री के विरोध में मेडिकल स्टोर बंद, मरीज प... - Dainik Bhaskar",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnUwaWx0dE13Um9RSFJZODcwY0tKbnRaVnc5cUJjRlcwRjNtNFdFUk9SamtBRDRxcjM2TXpNaWR3SW1VTWw1endKRFFhLWh0SHVyNFdYQ2g2X3F2WHBZS29sRDA4c2FOVHE2V2UxXzR6ZEZ0ZDBhd0I4R2t3b3NBUVJOSXJqTE9UTG9FYUF4TmNOZzA2ZThFQlZyeGpfbFYtY05PSm8yYzZHN1BuYnJxRWxDTdIBuAFBVV95cUxOOC1JYThQaXpiYnNLYUM1Z3lPR0daRnhHcGxuaUROUlZHZGJ5NUFQd1dsQnhSUUJrdWpTMHlKX0NnR2xsWGswTmR0VkVYYUJnYTlUZDlKUFhsaWVZWDBDTEQxdlIzaFl6eWRqNC1vMEg2Y012VkM1MG9WMVZQbVR0cTJtTHdhQzA0LU1IaTRpZWlYemlmMXdtYXhuSlBDYWVaaHpYN2JycldmRWYwT1ZneF9LdFNXcThR?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 14:04:12 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnUwaWx0dE13Um9RSFJZODcwY0tKbnRaVnc5cUJjRlcwRjNtNFdFUk9SamtBRDRxcjM2TXpNaWR3SW1VTWw1endKRFFhLWh0SHVyNFdYQ2g2X3F2WHBZS29sRDA4c2FOVHE2V2UxXz"
+        }
+      ],
+      "Arabic / 아랍어": [
+        {
+          "title": "تستعيد CVS التغطية Japanbound، وتضيف حبوب السمنة الخاصة بـ Eli Lilly Foundaeo - al-bayader.com",
+          "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQU1RadmZxZU50aXU5bU1FQjlsN2RmZXpOY1VWMnE0ZUdodzVqaEEwY1Fwd3QxTXl2WHE0WnRPajlXelB3QTBwMW53eFdDTndVSU5Mald6cllPSnZiUFFzOXBpelk4VHBPUXNmRWZuRDJIdno5VlZRcmJfNFdvZnNoZXREcDZWaUxmMHdwVEEwYXo1Q0tNSDZPRElXY0lSSTk3SmJ3VWVPbFNVM0hCc2JpZ3N6UGloYXBONjZubzhldG1qWG1udUVISl9qTmYwSU9TMnJQUWtablc2SHNDaHl4Vk1hOHM2cjAtRlRLOGRPeGhSekx0NjZHUnZuR05YOXk5dG5mck5JQVFfdTd3MzhMTzdGUUw2c3BmVVJBWkVLUERNZTd1dFYzVk1rUXBWb2d5Rnk2Q0JiODFRWm9sQmNCa0pfVmtfazFmVGg2YVVhQlhTRGY1UTNCTGNBdGxUN3hNRzJlWlppUkFzNWVBaEhRSUt2eS0wRXByZzk3VDlYOA?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 11:19:14 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wJBVV95cUxQU1RadmZxZU50aXU5bU1FQjlsN2RmZXpOY1VWMnE0ZUdodzVqaEEwY1Fwd3QxTXl2WHE0WnRPajlXelB3QTBwMW53eFdDTndVSU5Mald6cllPSnZiUFFzOXBpelk4VHBPUXNmRWZuRD"
+        },
+        {
+          "title": "صيدليات الحراسة تؤمن استمرارية التزود بالأدوية خلال عيد الأضحى - mcg24.com",
+          "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxQQ25TN1RjVXdvcngySk1yazFPT0VjTFNqZ3I0QWw5Y056czZrS2l1a1oteGhfRmlnNVZJSGxWN3JvbTJORzVVZEdjZjRXSUFRTVVvZmsxdlMxSEdaX085WkJBeGZONXktejl2Rkp2Z2NYTzRKLU85QjdqZjh3MGF5Nmg1THhzN2xiY0syb1F2UWpQZkp0WDRNSGE4WXdZUDlSZU9mUzZnN3dUZFJsWE5BcFpoOFFpekNDYUlvWTdPY0tUMUY4Y2I0UjNwNlU1cGEyTWt4MzItY0JPb1JSaVJpQUlSQkRkS01YM21YYjlHRkVBaDhZZUlrOTFpRjRDOExGLV9JY1J3VzgyZjlpOUpFRnFrdk82YmVxQ1NtbXpJM2txNEZ4VUNPX0stWU82NUhmcElhMkhLUFVVMm1yUjBnOS1YNEszVVc5TDlheEZCeTNyWmU0cEQta1ZoeXdYQzBidGlsYTctLUxTM1F6cnZJLU45OXd4Tm10U0ZNejlCaEVQQkRMaFNZSFRrcW5maGQ0c0tGUlBqM1BMbnllcWxHUjRJVnBMSE9aWk14R09IQjdjd240NTVZTnBuWFlHWER5azhXNzFxZnlEZWVVcnZIQ3RhUEhzRmttcXVhWWZZdk9pcDVibnpEOUhfcjUzeUdOZFZfRmk5SzVkR1ItTVE?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 10:07:20 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gNBVV95cUxQQ25TN1RjVXdvcngySk1yazFPT0VjTFNqZ3I0QWw5Y056czZrS2l1a1oteGhfRmlnNVZJSGxWN3JvbTJORzVVZEdjZjRXSUFRTVVvZmsxdlMxSEdaX085WkJBeGZONXktejl2Rkp2Z2"
+        },
+        {
+          "title": "CVS Caremark تضيف Zepbound إلى قوائم الأدوية التجارية - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81c2Nib3hjNEJqbTFraG9rdkRmQ2taMXpKTVZheDFzbU02UkowQmY5WnU2aU5hLUhtUlFMUVVFejFvNGViMjNBVUx3MWxuWWtma3pfbm1ub2xneGFHeHJSdTdFblNIS2NZRnVmcjhRZkg?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 10:51:00 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE81c2Nib3hjNEJqbTFraG9rdkRmQ2taMXpKTVZheDFzbU02UkowQmY5WnU2aU5hLUhtUlFMUVVFejFvNGViMjNBVUx3MWxuWWtma3pfbm1ub2xneGFHeHJSdTdFblNIS2NZRnVmcjhRZk"
+        }
+      ],
+      "Hebrew / 히브리어": [
+        {
+          "title": "לעודד מתן תרופות חינם לחולים עם כרטיסי ביטוח בריאות שעדיין מתמודדים עם נטל כלכלי. - Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXJaRzI5dmZNdS1ndFBuaXFBNmlTb2ItcG5qLWpYTUFkRkFIdldxV001UFJXdmFHV0VhRjNLMUptdWZoeVBoWWJpb3ZfVlVYc2UyUC1TZ285aXRzZ2NleWhBMjVyakNsSWtRQ2J6b2xGaENFejltSGJqanlEMDZ3ekFkWmp2cWhhTWNVS0k3X0F4UFAteGMzSllGZ0FkS1pnUTVHMHItRUtxcktZVkdsRk1DVEVqS3RSZ3Jma0FpRWZ4UQ?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 11:40:26 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeXJaRzI5dmZNdS1ndFBuaXFBNmlTb2ItcG5qLWpYTUFkRkFIdldxV001UFJXdmFHV0VhRjNLMUptdWZoeVBoWWJpb3ZfVlVYc2UyUC1TZ285aXRzZ2NleWhBMjVyakNsSWtRQ2J6b2"
+        },
+        {
+          "title": "כדור שינה חדש בישראל - עד כמה הוא באמת עוזר? - ynet.co.il",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ySl9UdExLNGJNRFpfR3JGWjVJUUFsdFVmaF9JWWVhYldCVHlYSzZvSlB2UmNrenVpZWotNmNPM2ZPQUJwaUVDYkZvWkVYa0ZlcTRGX0RMd01QdHB0?oc=5",
+          "source": "",
+          "date": "Wed, 27 May 2026 07:21:46 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ySl9UdExLNGJNRFpfR3JGWjVJUUFsdFVmaF9JWWVhYldCVHlYSzZvSlB2UmNrenVpZWotNmNPM2ZPQUJwaUVDYkZvWkVYa0ZlcTRGX0RMd01QdHB0?oc=5\" target=\"_blank\">כדו"
+        },
+        {
+          "title": "זריקות הרזייה? יש דרך שיעילה פי 5 להורדה במשקל - וואלה בריאות",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZUNQX1lqdTk1VHktaWh5Uk8weHpOSU85WFd2b19RblhOeDNvVzBLdWs3cHFGZ1pISE5MWEhjaWNsRmpRZU4tVnUzM01ITmRkTmc?oc=5",
+          "source": "",
+          "date": "Thu, 28 May 2026 08:31:08 GMT",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qZUNQX1lqdTk1VHktaWh5Uk8weHpOSU85WFd2b19RblhOeDNvVzBLdWs3cHFGZ1pISE5MWEhjaWNsRmpRZU4tVnUzM01ITmRkTmc?oc=5\" target=\"_blank\">זריקות הרזייה? י"
+        }
+      ],
+      "Persian / 페르시아어": []
+    }
+  },
+  "stats": {
+    "korean": 25,
+    "english": 25,
+    "multilingual": 56,
+    "total_languages": 23
+  }
+}
