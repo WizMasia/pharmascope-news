@@ -454,11 +454,27 @@ for cat_name, items in en_data.items():
 # --- Multilingual ---
 lines.append("\n---")
 lines.append("## 🌏 다국어 뉴스 (20개 언어)")
-lines.append("| 언어 | 건수 | 주요 기사 |")
-lines.append("|------|------|----------|")
 for label, items in ml_data.items():
-    first_title = items[0]['title'][:55] if items else '-'
-    lines.append(f"| {label} | {len(items)}건 | {first_title} |")
+    if items:
+        lang_emoji = {'French / 프랑스어': '🇫🇷', 'German / 독일어': '🇩🇪', 'Spanish / 스페인어': '🇪🇸',
+                      'Italian / 이탈리아어': '🇮🇹', 'Portuguese / 포르투갈어': '🇵🇹',
+                      'Dutch / 네덜란드어': '🇳🇱', 'Swedish / 스웨덴어': '🇸🇪',
+                      'Polish / 폴란드어': '🇵🇱', 'Turkish / 터키어': '🇹🇷',
+                      'Russian / 러시아어': '🇷🇺', 'Japanese / 일본어': '🇯🇵',
+                      'Chinese Simplified / 중국어': '🇨🇳', 'Chinese Traditional / 대만': '🇹🇼',
+                      'Vietnamese / 베트남어': '🇻🇳', 'Thai / 태국어': '🇹🇭',
+                      'Indonesian / 인도네시아어': '🇮🇩', 'Hindi / 힌디어': '🇮🇳',
+                      'Arabic / 아랍어': '🇸🇦', 'Hebrew / 히브리어': '🇮🇱',
+                      'Persian / 페르시아어': '🇮🇷'}
+        emoji = lang_emoji.get(label, '🌏')
+        lines.append(f"\n### {emoji} {label} ({len(items)}건)")
+        for item in items[:3]:  # 최대 3개 기사
+            lines.append(f"- {item['title'][:100]}")
+            lines.append(f"  📰 {item.get('source','')} | 🕐 {item.get('date','')[:25]}")
+            lines.append(f"  🔗 {item['url']}")
+    else:
+        lines.append(f"\n### 🌏 {label}")
+        lines.append(f"- _(수집된 뉴스 없음)_")
 
 # --- Stats ---
 lines.append(f"\n---")
