@@ -174,10 +174,10 @@
    📰  | 🕐 Wed, 17 Jun 2026 07:09:03
    💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZTVBIbDhWa3czdi1IMGtXZ25PTzJHOGZXbDlhN3
    🔗 https://tinyurl.com/2atloj7t
-5. 2026대구세계마스터즈육상경기대회, 감염병 대비 이상 무(無)
-   📰  | 🕐 Wed, 17 Jun 2026 17:08:13
-   💬 <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYQWw3bFdmN3pQakZkRXJRM1hDeFlBR0lkRHJCUD
-   🔗 https://tinyurl.com/2c5f2hj5
+5. 광주 에스웰요양병원 "신체보호대 적용 엄격히 제한"
+   📰  | 🕐 Wed, 17 Jun 2026 23:16:08
+   💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBVbFptZGl1MC1WMkNVU0NFVVptaTZLVmpIVzdObF
+   🔗 https://tinyurl.com/29zpwywm
 
 ---
 ## 🌐 글로벌 (영어)
@@ -225,6 +225,9 @@
   🔗 https://tinyurl.com/25auncz9
 
 ### 🤝 Pharma Associations
+- Lawmakers at the end of session try to appease both sides in drug pricing controversy - Capitol News
+  📰  | 🕐 Mon, 08 Jun 2026 14:51:10
+  🔗 https://tinyurl.com/2y36rme2
 - After FDA sign-off, Colorado's drug import plan faces tough road ahead - Fierce Pharma
   📰  | 🕐 Wed, 17 Jun 2026 14:30:39
   🔗 https://tinyurl.com/2a2szdhj
@@ -234,20 +237,17 @@
 - ADCAN Pharma, Menarini partner to strengthen UAE’s pharmaceutical manufacturing industry - TradingVi
   📰  | 🕐 Wed, 17 Jun 2026 15:04:02
   🔗 https://tinyurl.com/22z79vsc
-- US Pharmaceutical Excipients Market Size to Hit USD 5.58 Billion by 2035 - Precedence Research
-  📰  | 🕐 Wed, 17 Jun 2026 13:35:49
-  🔗 https://tinyurl.com/28hewtx7
 
 ### 🏛️ Regulatory Agencies
-- FDA approves first generic version of Roche's flu drug - Reuters
-  📰  | 🕐 Wed, 17 Jun 2026 22:38:21
-  🔗 https://tinyurl.com/22gdqr3k
 - African Regulators Will Share Information, Could Rely On US FDA Decisions - Citeline News & Insights
   📰  | 🕐 Wed, 17 Jun 2026 19:01:38
   🔗 https://tinyurl.com/2744yecy
 - UniQure to file gene therapy for approval, reflecting major shifts at FDA - BioPharma Dive
   📰  | 🕐 Wed, 17 Jun 2026 16:22:08
   🔗 https://tinyurl.com/26y3mwya
+- UniQure to seek approval for Huntington's therapy after FDA U-turn, shares skyrocket - Reuters
+  📰  | 🕐 Wed, 17 Jun 2026 15:52:11
+  🔗 https://tinyurl.com/26c8h2wu
 - OTLK Stock Up 35% as FDA Accepts Resubmitted Eye Drug BLA for Review - TradingView
   📰  | 🕐 Wed, 17 Jun 2026 14:20:00
   🔗 https://tinyurl.com/2ao9tv9r
@@ -375,9 +375,9 @@
 - Hà Tĩnh: Kế hoạch phát triển ngành Dược đến năm 2030 và tầm nhìn đến năm 2045 - Cổng thông tin điện 
   📰  | 🕐 Wed, 17 Jun 2026 13:50:30
   🔗 https://tinyurl.com/2d8tzrwc
-- Thứ trưởng Thường trực Vũ Mạnh Hà: Chính sách về y dược cổ truyền phải vừa quản lý chặt chẽ, vừa tạo
-  📰  | 🕐 Wed, 17 Jun 2026 15:15:00
-  🔗 https://tinyurl.com/2bclbok8
+- Thứ trưởng Vũ Mạnh Hà: Chính sách về y dược cổ truyền phải vừa quản lý chặt chẽ, vừa tạo động lực ph
+  📰  | 🕐 Wed, 17 Jun 2026 15:37:24
+  🔗 https://tinyurl.com/24hqq4cz
 - TP.HCM: Phạt loạt cơ sở bán dược liệu kém chất lượng, thuốc hết hạn - Phụ nữ Mới
   📰  | 🕐 Wed, 17 Jun 2026 14:23:00
   🔗 https://tinyurl.com/27y4xfrl
@@ -416,15 +416,15 @@
   🔗 https://tinyurl.com/2bfo9ejf
 
 ### 🇸🇦 Arabic / 아랍어 (5건)
+- هيئة الدواء وشركة «GSK» توقعان مذكرة تفاهم لتعزيز التدريب وبناء القدرات وتوظيف الذكاء الاصطناعي القط
+  📰  | 🕐 Wed, 17 Jun 2026 17:22:00
+  🔗 https://tinyurl.com/24ecqndf
 - نائب الوزير فو مان ها: يجب أن تضمن السياسات المتعلقة بالطب التقليدي الإدارة الصارمة وأن تخلق حوافز ل
   📰  | 🕐 Wed, 17 Jun 2026 15:38:54
   🔗 https://tinyurl.com/26mw6bty
 - مصر ورواندا تبحثان التعاون التنظيمي والدوائي وتعزيز فرص التصدير إلى أفريقيا - مبتدا
   📰  | 🕐 Wed, 17 Jun 2026 08:58:23
   🔗 https://tinyurl.com/2avzs5pm
-- هيئة الدواء تواصل تطوير منظومتها الرقابية لتعزيز الالتزام بأحدث المعايير الدولية - جريدة آخر الأخبار
-  📰  | 🕐 Wed, 17 Jun 2026 09:15:58
-  🔗 https://tinyurl.com/254hxyyf
 
 ### 🇮🇱 Hebrew / 히브리어 (3건)
 - השב"כ יבדוק: איך הגיעו תרופות פסיכיאטריות למחית מזון לפעוטות - גלובס

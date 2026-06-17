@@ -599,8 +599,33 @@ def update_readme(stats, date_str):
 
 update_readme(stats, DATE_STR)
 
-# ===== GIT COMMIT =====
+# ===== GIT COMMIT (mywiki) =====
 git_commit(f"[PharmaScope] 일일 수집 {DATE_STR} — {total_all}건 (한국어 {kr_total} + 영어 {en_total} + 다국어 {ml_total})")
+
+# ===== GIT PUSH (pharmascope-news 저장소) =====
+def git_push_self():
+    """Commit and push to the pharmascope-news repository (current dir)."""
+    import subprocess as _sp
+    try:
+        _sp.run(['git', 'add', '-A'], capture_output=True, text=True, timeout=30)
+        diff = _sp.run(['git', 'diff', '--cached', '--quiet'], capture_output=True, timeout=30)
+        if diff.returncode != 0:
+            msg = f"[PharmaScope] 일일 수집 {DATE_STR} -- {total_all}건"
+            cm = _sp.run(['git', 'commit', '-m', msg], capture_output=True, text=True, timeout=30)
+            if cm.returncode == 0:
+                log(f"✅ pharmascope-news 커밋: {cm.stdout.strip()}")
+                ph = _sp.run(['git', 'push', 'origin', 'main'], capture_output=True, text=True, timeout=30)
+                log(f"✅ pharmascope-news 푸시 완료" if ph.returncode == 0 else f"⚠️ pharmascope-news 푸시 실패: {ph.stderr.strip()}")
+            else:
+                log(f"⚠️ pharmascope-news 커밋 실패: {cm.stderr.strip()}")
+        else:
+            log("📎 pharmascope-news: 변경사항 없음")
+    except Exception as e:
+        log(f"⚠️ pharmascope-news git 오류: {e}")
+
+
+
+git_push_self()
 
 # ===== Print summary for cron output =====
 print(f"\n{'='*60}")
