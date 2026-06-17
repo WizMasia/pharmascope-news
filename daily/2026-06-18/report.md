@@ -1,25 +1,29 @@
 # 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트
-**수집일:** 2026-06-18  |  **필터:** 24시간 이내  |  **10개 카테고리 × 23개 언어**  |  **총 139건**
+**수집일:** 2026-06-18  |  **필터:** 24시간 이내  |  **10개 카테고리 × 23개 언어**  |  **총 141건**
 
 ## 🇰🇷 국내 (한국어)
 
 ### 💊 의약품
-1. MSD, 美 프로틸리온과 AI 신약 개발 협력…최대 7700억원 규모
+1. 명인제약, 펠렛 생산능력 5배 확대…발안 신공장으로 CDMO 진출
+   📰  | 🕐 Wed, 17 Jun 2026 22:42:02
+   💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE1kaFRXNHEzWE1DQlpCNVRsSkpZZmItNktVYzZIem
+   🔗 https://tinyurl.com/22cwlxgo
+2. MSD, 美 프로틸리온과 AI 신약 개발 협력…최대 7700억원 규모
    📰  | 🕐 Wed, 17 Jun 2026 10:56:37
    💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5ScGVnaHBpQnc4WVBKV0xyaGhuamRZc3FUdWVicW
    🔗 https://tinyurl.com/2ybws3wx
-2. “바이오의약품 1만4000ℓ CMO 가능” 동아쏘시오그룹, 바이오USA 홍보전
+3. “바이오의약품 1만4000ℓ CMO 가능” 동아쏘시오그룹, 바이오USA 홍보전
    📰  | 🕐 Wed, 17 Jun 2026 08:01:40
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5zcTBtWTNZbnkxczVLWTV2aHpicTQzSWh0OVp6Mj
    🔗 https://tinyurl.com/26pbxy9n
-3. K-제약바이오, 반려동물 치료제 시장 확장 박차
+4. K-제약바이오, 반려동물 치료제 시장 확장 박차
    📰  | 🕐 Wed, 17 Jun 2026 07:57:56
    💬 <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tZDEzcG4yYVJtQXdDaTEyMlZhNFgxeVhHWkRrTk
    🔗 https://tinyurl.com/2y54ggp8
-4. 충남대·식품의약품안전평가원, ‘AI 시대 첨단바이오의약품 분석기술’ 워크숍 개최
-   📰  | 🕐 Wed, 17 Jun 2026 13:02:08
-   💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB6N2VzcUVOWEQ1dFpJaWd0ekNhTm9XNEdSTnJpbz
-   🔗 https://tinyurl.com/2xkwkfos
+5. 남경필 전 경기지사, 젬백스 회장 취임
+   📰  | 🕐 Wed, 17 Jun 2026 23:08:32
+   💬 <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xazdKd2FzRmoyVmJBaHU3WnBMaFpERUZpbjdrNj
+   🔗 https://tinyurl.com/24fj54za
 
 ### 🏭 의약산업
 1. 한국제약바이오산업에 살아 숨쉬는 유일한 정신
@@ -158,18 +162,18 @@
    📰  | 🕐 Wed, 17 Jun 2026 14:33:57
    💬 <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jdmZKbGFXdmxXdW90RThWc1phNVJRMGhLdjZHTk
    🔗 https://tinyurl.com/2acgsz7g
-2. 대구 모기 일본뇌염 바이러스 검출…"전국에 경보 발령"
+2. 성북구, 어르신 폐렴구균 예방접종 지원…건강한 노후 뒷받침
+   📰  | 🕐 Wed, 17 Jun 2026 21:53:57
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNllCMzBJUlFNVExqTnFvNEhnSkxuQ0poRTcxMV
+   🔗 https://tinyurl.com/2b9rhy82
+3. 대구 모기 일본뇌염 바이러스 검출…"전국에 경보 발령"
    📰  | 🕐 Wed, 17 Jun 2026 12:34:03
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBYRG81Vnh0ck9WZnUyZUEzT3d0eUxDT1I1T2Rldl
    🔗 https://tinyurl.com/2aznelh4
-3. 전국에 일본뇌염 경보 발령…"예방접종 맞으세요"
+4. 전국에 일본뇌염 경보 발령…"예방접종 맞으세요"
    📰  | 🕐 Wed, 17 Jun 2026 07:09:03
    💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZTVBIbDhWa3czdi1IMGtXZ25PTzJHOGZXbDlhN3
    🔗 https://tinyurl.com/2atloj7t
-4. 일본뇌염 바이러스 검출…질병관리청, 전국 경보 발령
-   📰  | 🕐 Wed, 17 Jun 2026 09:08:32
-   💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFAtd0QzWk9WYndBSFh0TjlIQ3VKSjhyUXZSWUhfVE
-   🔗 https://tinyurl.com/26apx3o7
 5. 2026대구세계마스터즈육상경기대회, 감염병 대비 이상 무(無)
    📰  | 🕐 Wed, 17 Jun 2026 17:08:13
    💬 <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYQWw3bFdmN3pQakZkRXJRM1hDeFlBR0lkRHJCUD
@@ -185,12 +189,12 @@
 - US FDA approves GSK's oral antibiotic for drug-resistant UTIs - Reuters
   📰  | 🕐 Wed, 17 Jun 2026 15:51:39
   🔗 https://tinyurl.com/24fmytx4
-- After Makary's exit, FDA is giving CRL recipients another chance - Endpoints News
-  📰  | 🕐 Wed, 17 Jun 2026 18:44:00
-  🔗 https://tinyurl.com/229lbvbm
 - UniQure to file gene therapy for approval, reflecting major shifts at FDA - BioPharma Dive
   📰  | 🕐 Wed, 17 Jun 2026 16:22:08
   🔗 https://tinyurl.com/26y3mwya
+- After Makary's exit, FDA is giving CRL recipients another chance - Endpoints News
+  📰  | 🕐 Wed, 17 Jun 2026 18:44:00
+  🔗 https://tinyurl.com/229lbvbm
 
 ### 🏭 Pharma Industry
 - A prominent VC explains why she’s against U.S. restrictions on investment in China’s drug industry -
@@ -221,29 +225,29 @@
   🔗 https://tinyurl.com/25auncz9
 
 ### 🤝 Pharma Associations
-- Lawmakers at the end of session try to appease both sides in drug pricing controversy - Capitol News
-  📰  | 🕐 Mon, 08 Jun 2026 14:51:10
-  🔗 https://tinyurl.com/2y36rme2
 - After FDA sign-off, Colorado's drug import plan faces tough road ahead - Fierce Pharma
   📰  | 🕐 Wed, 17 Jun 2026 14:30:39
   🔗 https://tinyurl.com/2a2szdhj
-- ADCAN Pharma, Menarini partner to strengthen UAE’s pharmaceutical manufacturing industry - TradingVi
-  📰  | 🕐 Wed, 17 Jun 2026 15:04:02
-  🔗 https://tinyurl.com/22z79vsc
 - With FDA backing, Colorado says state will save money by importing drugs from Canada - The Globe and
   📰  | 🕐 Wed, 17 Jun 2026 22:37:31
   🔗 https://tinyurl.com/22sudwv3
+- ADCAN Pharma, Menarini partner to strengthen UAE’s pharmaceutical manufacturing industry - TradingVi
+  📰  | 🕐 Wed, 17 Jun 2026 15:04:02
+  🔗 https://tinyurl.com/22z79vsc
+- US Pharmaceutical Excipients Market Size to Hit USD 5.58 Billion by 2035 - Precedence Research
+  📰  | 🕐 Wed, 17 Jun 2026 13:35:49
+  🔗 https://tinyurl.com/28hewtx7
 
 ### 🏛️ Regulatory Agencies
+- FDA approves first generic version of Roche's flu drug - Reuters
+  📰  | 🕐 Wed, 17 Jun 2026 22:38:21
+  🔗 https://tinyurl.com/22gdqr3k
 - African Regulators Will Share Information, Could Rely On US FDA Decisions - Citeline News & Insights
   📰  | 🕐 Wed, 17 Jun 2026 19:01:38
   🔗 https://tinyurl.com/2744yecy
 - UniQure to file gene therapy for approval, reflecting major shifts at FDA - BioPharma Dive
   📰  | 🕐 Wed, 17 Jun 2026 16:22:08
   🔗 https://tinyurl.com/26y3mwya
-- UniQure to seek approval for Huntington's therapy after FDA U-turn, shares skyrocket - Reuters
-  📰  | 🕐 Wed, 17 Jun 2026 15:52:11
-  🔗 https://tinyurl.com/26c8h2wu
 - OTLK Stock Up 35% as FDA Accepts Resubmitted Eye Drug BLA for Review - TradingView
   📰  | 🕐 Wed, 17 Jun 2026 14:20:00
   🔗 https://tinyurl.com/2ao9tv9r
@@ -357,9 +361,9 @@
   🔗 https://tinyurl.com/272rjt4j
 
 ### 🇹🇼 Chinese Traditional / 대만 (3건)
-- 政府推「國藥國造」，清單還在盤點卻先發補助...藥廠憂市場不買單，政策美意恐所託非人 - 經濟日報
+- 政府推「國藥國造」，清單還在盤點卻先發補助...藥廠憂市場不買單，政策美意恐所託非人| 熱門話題| 要聞 - 經濟日報
   📰  | 🕐 Wed, 17 Jun 2026 09:29:50
-  🔗 https://tinyurl.com/27vwygf5
+  🔗 https://tinyurl.com/29azt72w
 - 響應長照政策 中美醫藥結合慈濟與社區藥師 啟動全台67場健康知識講座 - 台灣民眾電子報
   📰  | 🕐 Wed, 17 Jun 2026 13:38:54
   🔗 https://tinyurl.com/24432twy
@@ -367,13 +371,13 @@
   📰  | 🕐 Wed, 17 Jun 2026 08:36:01
   🔗 https://tinyurl.com/2ykpszgv
 
-### 🇻🇳 Vietnamese / 베트남어 (4건)
+### 🇻🇳 Vietnamese / 베트남어 (5건)
 - Hà Tĩnh: Kế hoạch phát triển ngành Dược đến năm 2030 và tầm nhìn đến năm 2045 - Cổng thông tin điện 
   📰  | 🕐 Wed, 17 Jun 2026 13:50:30
   🔗 https://tinyurl.com/2d8tzrwc
-- Thứ trưởng Vũ Mạnh Hà: Chính sách về y dược cổ truyền phải vừa quản lý chặt chẽ, vừa tạo động lực ph
-  📰  | 🕐 Wed, 17 Jun 2026 15:37:24
-  🔗 https://tinyurl.com/24hqq4cz
+- Thứ trưởng Thường trực Vũ Mạnh Hà: Chính sách về y dược cổ truyền phải vừa quản lý chặt chẽ, vừa tạo
+  📰  | 🕐 Wed, 17 Jun 2026 15:15:00
+  🔗 https://tinyurl.com/2bclbok8
 - TP.HCM: Phạt loạt cơ sở bán dược liệu kém chất lượng, thuốc hết hạn - Phụ nữ Mới
   📰  | 🕐 Wed, 17 Jun 2026 14:23:00
   🔗 https://tinyurl.com/27y4xfrl
@@ -438,8 +442,8 @@
 
 ---
 ## 📊 수집 통계
-### 🇰🇷 한국어 (42건)
-- 의약품: 4건
+### 🇰🇷 한국어 (43건)
+- 의약품: 5건
 - 의약산업: 8건
 - 의약정책: 6건
 - 의약단체: 5건
@@ -456,7 +460,7 @@
 - Pharma Associations: 8건
 - Regulatory Agencies: 8건
 - Traditional & Complementary Medicine: 4건
-### 🌏 다국어 (53건 / 20개 언어)
+### 🌏 다국어 (54건 / 20개 언어)
 - French / 프랑스어: 3건
 - German / 독일어: 0건
 - Spanish / 스페인어: 3건
@@ -470,7 +474,7 @@
 - Japanese / 일본어: 0건
 - Chinese Simplified / 중국어: 6건
 - Chinese Traditional / 대만: 3건
-- Vietnamese / 베트남어: 4건
+- Vietnamese / 베트남어: 5건
 - Thai / 태국어: 5건
 - Indonesian / 인도네시아어: 6건
 - Hindi / 힌디어: 3건
@@ -478,5 +482,5 @@
 - Hebrew / 히브리어: 3건
 - Persian / 페르시아어: 0건
 
-**📊 총계: 139건 (한국어 42 + 영어 44 + 다국어 53)**
+**📊 총계: 141건 (한국어 43 + 영어 44 + 다국어 54)**
 **💾 저장 위치:** `/home/wizmasia/workspace/mywiki/news/pharmascope/daily/2026-06-18/`

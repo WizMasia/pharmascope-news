@@ -535,6 +535,70 @@ log(f"✅ 저장 완료: {DAILY_DIR}/")
 log(f"   - raw.json ({os.path.getsize(raw_path)} bytes)")
 log(f"   - report.md")
 
+# ===== UPDATE README =====
+def update_readme(stats, date_str):
+    """Update README.md with latest crawl summary."""
+    import glob
+    lines = []
+    lines.append("# 📰 PharmaScope News")
+    lines.append("")
+    lines.append("글로벌 의약업계 · 의료현장 · 전통의학 동향 뉴스 수집 파이프라인")
+    lines.append(f"**최종 수집일:** {date_str}  |  **총계:** {stats['total']}건  |  **언어:** 23개")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append(f"## 📄 오늘의 리포트")
+    lines.append(f"- [📊 {date_str} 일일 리포트](./daily/{date_str}/report.md)")
+    lines.append(f"- [💾 원시 데이터 (JSON)](./daily/{date_str}/raw.json)")
+    lines.append("")
+    lines.append("### 수집 통계")
+    lines.append("| 언어 | 건수 |")
+    lines.append("|------|------|")
+    lines.append(f"| 🇰🇷 한국어 | {stats['korean']['total']}건 (11개 카테고리) |")
+    for cat, cnt in stats['korean']['categories'].items():
+        lines.append(f"| &nbsp;&nbsp;{cat} | {cnt}건 |")
+    lines.append(f"| 🌐 영어 | {stats['english']['total']}건 (6개 카테고리) |")
+    for cat, cnt in stats['english']['categories'].items():
+        lines.append(f"| &nbsp;&nbsp;{cat} | {cnt}건 |")
+    lines.append(f"| 🌏 다국어 | {stats['multilingual']['total']}건 (20개 언어) |")
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## 📅 최근 수집 이력")
+    lines.append("| 날짜 | 총계 | 한국어 | 영어 | 다국어 |")
+    lines.append("|------|------|--------|------|--------|")
+    for d in sorted(glob.glob(os.path.join(BASE_DIR, 'daily', '2*')))[-14:]:
+        day = os.path.basename(d)
+        rp = os.path.join(d, 'report.md')
+        if os.path.exists(rp):
+            with open(rp, 'rb') as f2:
+                f2.seek(0, 2)  # end
+                size = f2.tell()
+                f2.seek(max(0, size - 1024))  # last 1KB
+                h = f2.read().decode('utf-8', errors='replace')
+            lines.append(
+                f"| {day} | {re.search(r'총\D*(\d+)', h).group(1) if re.search(r'총\D*(\d+)', h) else '-'}건 | "
+                f"{re.search(r'한국어 (\d+)', h).group(1) if re.search(r'한국어 (\d+)', h) else '-'}건 | "
+                f"{re.search(r'영어 (\d+)', h).group(1) if re.search(r'영어 (\d+)', h) else '-'}건 | "
+                f"{re.search(r'다국어 (\d+)', h).group(1) if re.search(r'다국어 (\d+)', h) else '-'}건 |"
+            )
+    lines.append("")
+    lines.append("---")
+    lines.append("")
+    lines.append("## 🛠️ 정보")
+    lines.append("- **수집 시간:** 매일 06:30 KST")
+    lines.append("- **카테고리:** 의약품 · 의약산업 · 의약정책 · 의약단체 · 규제기관 · 의료현장 · 약국 · 의료정책 · 전통의학 · 감염보건")
+    lines.append("- **언어:** 한국어 + 영어 + 21개 다국어")
+    lines.append("- **URL:** TinyURL 자동 단축")
+    lines.append("- **파이프라인:** Python 수집 → 멀티에이전트 포맷팅 → Telegram 전달")
+    lines.append("- **저장소:** [WizMasia/pharmascope-news](https://github.com/WizMasia/pharmascope-news)")
+    p = os.path.join(BASE_DIR, 'README.md')
+    with open(p, 'w') as f2:
+        f2.write('\n'.join(lines))
+    log(f"✅ README.md 업데이트 완료 ({os.path.getsize(p)} bytes)")
+
+update_readme(stats, DATE_STR)
+
 # ===== GIT COMMIT =====
 git_commit(f"[PharmaScope] 일일 수집 {DATE_STR} — {total_all}건 (한국어 {kr_total} + 영어 {en_total} + 다국어 {ml_total})")
 
