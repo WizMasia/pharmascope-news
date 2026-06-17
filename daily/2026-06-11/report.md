@@ -1,0 +1,479 @@
+# 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트
+**수집일:** 2026-06-11  |  **필터:** 24시간 이내  |  **10개 카테고리 × 23개 언어**  |  **총 145건**
+
+## 🇰🇷 국내 (한국어)
+
+### 💊 의약품
+1. FDA, 디지털 임상자료·생동지침 정비…신약 접근성·품질관리 강화
+   📰  | 🕐 Wed, 10 Jun 2026 21:00:00
+   💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTElxdFB0cWZDbFpQWExoWXZ1LXJaZEkwMVVkbE
+   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTElxdFB0cWZDbFpQWExoWXZ1LXJaZEkwMVVkbEVNWGdCTHNncUtBbk12cklZVUx6SFpEMkd6eTNUQkllWW1Ub1lEMU9sVFJfbHRiT1pGSDBhdFpBWDZoSnZFTjczV242Z1BfejZuTQ?oc=5
+2. 수조원 R&D 정책자금 공염불...임상장벽에 막혀 상용화 하세월
+   📰  | 🕐 Wed, 10 Jun 2026 21:00:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQ3BacTJtdzQtVmMzOVpJSGZKQ19DdDhZWVE4RF
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQ3BacTJtdzQtVmMzOVpJSGZKQ19DdDhZWVE4RFVLc0s3Y2F3NDlxeExXaHZRZEVOR3NNcl9ZdDdNUmtxMjZSdkF3LXRoZ3RENzRURlIwVWdFdEpFTHBaT0Y4RzQ0WDZ4aHE3Ug?oc=5
+3. '근감소증' 선점 나선다…HK이노엔·카인사이언스 시너지
+   📰  | 🕐 Wed, 10 Jun 2026 20:30:00
+   💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1XWkR4eG9mMGJHb29OY0tqcU5fVGtWMmhpQTBqcm
+   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1XWkR4eG9mMGJHb29OY0tqcU5fVGtWMmhpQTBqcmxNS3lfdEJCdFhxdGF3RjJwWjBuem5ZdHNhWEtaN2M2Wi1QRTBvS0xCNUZtMDJ3Mk5meWdpaDZjWG5MWjRLbjBnYzhLZXl1QmVjQjU?oc=5
+4. RNA 신약 '엔진' 작동 원리 풀었다…국내 연구진 세계 최초 규명
+   📰  | 🕐 Wed, 10 Jun 2026 15:12:00
+   💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUXQ4MWJaWG42alpfM0k3TEdWUFRLeldrRWRVNG
+   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1qUXQ4MWJaWG42alpfM0k3TEdWUFRLeldrRWRVNG0yd2VhaV93MjE5QnRDQ0x5Q0RiaHl0elpXWm1zRTJaRmpWYnRjaEZjNzR2eGRtb2ZuY1o1NGNSVHowYmtHcExVdnlPREphVF9fbw?oc=5
+5. [단독] 셀트리온 바이오시밀러 2종 사우디 허가 절차 돌입
+   📰  | 🕐 Wed, 10 Jun 2026 07:55:45
+   💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQmVoenhaa2taSVVCTzNYYnRmLWp6UXJsWFBCN1
+   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQmVoenhaa2taSVVCTzNYYnRmLWp6UXJsWFBCN1hualltZ1ltY1dBN1BYUDhxcHBBZjdTSWV0NEJaREc4ZTZkaTdlYkFEN1RLMGthMFJyYjhGUEF1QWdBelZ5dThrdkU?oc=5
+
+### 🏭 의약산업
+1. 제약바이오업계, 오픈이노베이션 글로벌 확장
+   📰  | 🕐 Wed, 10 Jun 2026 21:00:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE54RUtOVjk4QkFQeUtIZm96dVZVcHFPckIwWDlQTl
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE54RUtOVjk4QkFQeUtIZm96dVZVcHFPckIwWDlQTlpNTmJIaTJXTUpXUl9seThtX3hlOGVNWkpqdUo4Qmo4OFhSQWJkb3gwRTZDZjd4NGs2Tkl6S2pieXVGaFFiYjNNVXJkVlE?oc=5
+2. 서울시, 셀트리온·대원제약과 손잡고 '글로벌 바이오 스타트업' 키운다
+   📰  | 🕐 Wed, 10 Jun 2026 07:50:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YRWw0a3AteEtmNm52N2FuVlpBNzBJOWd4TTJaTT
+   🔗 https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YRWw0a3AteEtmNm52N2FuVlpBNzBJOWd4TTJaTThaT3dGTnk3cjRKOG5GVWlzLWV4dHh5WVMtZGxZRUk?oc=5
+3. 중기부, 유한양행·GC녹십자·종근당 손잡고 바이오 스타트업 발굴
+   📰  | 🕐 Wed, 10 Jun 2026 08:08:09
+   💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUJsb3RCMlR2YS14MV9LYTVuUGtXb3VsRVRzNm
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNUJsb3RCMlR2YS14MV9LYTVuUGtXb3VsRVRzNmRocEUySjB0RjBCeUYxalM5czBJR3ZTOTFlamFQcERFNmpsRVRwLWdZZUFWMlZac2JScUlKSG05MU9pRGM3cnRjaWppUHlN?oc=5
+4. 수조원 R&D 정책자금 공염불...임상장벽에 막혀 상용화 하세월
+   📰  | 🕐 Wed, 10 Jun 2026 21:00:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQ3BacTJtdzQtVmMzOVpJSGZKQ19DdDhZWVE4RF
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1QQ3BacTJtdzQtVmMzOVpJSGZKQ19DdDhZWVE4RFVLc0s3Y2F3NDlxeExXaHZRZEVOR3NNcl9ZdDdNUmtxMjZSdkF3LXRoZ3RENzRURlIwVWdFdEpFTHBaT0Y4RzQ0WDZ4aHE3Ug?oc=5
+5. [혁신형 제약기업 점검]③ 팜젠사이언스, 약가 방어로 체질전환 시간 확보
+   📰  | 🕐 Wed, 10 Jun 2026 09:18:30
+   💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LaUVUZjNwVV9YV3FRMnNoWnFCOEVMNGQ4WEdCQ2
+   🔗 https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LaUVUZjNwVV9YV3FRMnNoWnFCOEVMNGQ4WEdCQ29CUDJBVXlpZ3NSTTFiaHF6Zm9zNGNnUE93WGp4aVFLckE?oc=5
+
+### 📋 의약정책
+1. [혁신형 제약기업 점검]③ 팜젠사이언스, 약가 방어로 체질전환 시간 확보
+   📰  | 🕐 Wed, 10 Jun 2026 09:18:30
+   💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LaUVUZjNwVV9YV3FRMnNoWnFCOEVMNGQ4WEdCQ2
+   🔗 https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LaUVUZjNwVV9YV3FRMnNoWnFCOEVMNGQ4WEdCQ29CUDJBVXlpZ3NSTTFiaHF6Zm9zNGNnUE93WGp4aVFLckE?oc=5
+2. 신규 제형 '누칼라 오토인젝터', 약가협상만 남았다
+   📰  | 🕐 Wed, 10 Jun 2026 17:15:30
+   💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRFk0RG5Qa204a2NrNzVySFZPMW1hV1htSmtxVE
+   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yRFk0RG5Qa204a2NrNzVySFZPMW1hV1htSmtxVE5fc0tjbXFPTzktRnhBRHdNY2hlSnBYSW5KckJWcElQQ0w0dnRJZF9yeDFz?oc=5
+3. "환자에게 시간은 곧 생명"...탈라타맙 급여 청원 5만명 돌파
+   📰  | 🕐 Wed, 10 Jun 2026 21:12:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNHNfUmhKYWRFQ1N2U2pCRTl2bHlBazgwVzFDTE
+   🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9sNHNfUmhKYWRFQ1N2U2pCRTl2bHlBazgwVzFDTEFKYlFFa1ZqM1FNZG5jRnZHMGtRb0pLUERqQ3o0RnN4V0diLXdJY2xZSmd1LUxELTZ2VWFjeVVKOFcyX3JuQmh4bEpkX05XYW1n?oc=5
+4. 제일약품, ‘베오바’ 약가협상 곧 착수···타결시 300원대 초중반
+   📰  | 🕐 Wed, 10 Jun 2026 08:50:32
+   💬 <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9OOUV6Uko3VmE1VVJCWTNMSkZ6RDY1Z3RiTWJMb1
+   🔗 https://news.google.com/rss/articles/CBMidkFVX3lxTE9OOUV6Uko3VmE1VVJCWTNMSkZ6RDY1Z3RiTWJMb1A5cWQzVEpPMHlyeGEyRnF0djQ2dUlTOHBybVowUC1JYUIxRndYMG1zb3hYMThLRHB6ejc3SERZSWVvU2tOWnUtZlZuTTM5UnJuUGRpNU1uRHfSAXZBVV95cUxPTjlFelJKN1ZhNVVSQlkzTEpGekQ2NWd0Yk1iTG9QOXFkM1RKTzB5cnhhMkZxdHY0NnVJUzhwcm1aMFAtSWFCMUZ3WDBtc294WDE4S0Rweno3N0hEWUllb1NrTlp1LWZWbk0zOVJyblBkaTVNbkR3?oc=5
+5. ﻿정기석 이사장 “단순 수가 넘어 복합적 고려 필요”
+   📰  | 🕐 Wed, 10 Jun 2026 07:27:16
+   💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQMUlFTjJ2REJZQjVHSkJuR0dsRGFpMnpDVjA0WG
+   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQMUlFTjJ2REJZQjVHSkJuR0dsRGFpMnpDVjA0WG9VWVo3eFg3QTBWOHJ2R1BRZzU5c3h0bGx4bzV3cFFTLTFjX3RrUjU1STYtaGJqZll0amFobXJxdlB3Vi1nX1RTUXpY?oc=5
+
+### 🤝 의약단체
+1. KASBP "빅파마 M&A 경험 공유" 등 9人 '봄 심포지엄'
+   📰  | 🕐 Wed, 10 Jun 2026 11:26:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbGxLdDZVRVV2T3Ruc3FyU0dRNHB2a1k3eFMzZU
+   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbGxLdDZVRVV2T3Ruc3FyU0dRNHB2a1k3eFMzZUNBWDlNTG90ODl4MmhvYzFoWlBDUkJLeWN6TURHQ2h0SC01cGJzMzhuSXU0ZW5MdUdiQQ?oc=5
+2. [릴레이집회-266일차] 한여름에도 식지 않는 대정부촉구 열기
+   📰  | 🕐 Wed, 10 Jun 2026 20:49:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNzNiWURMZ18wekNDd05kWHFfQ0RvN1hZRkJma0
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNzNiWURMZ18wekNDd05kWHFfQ0RvN1hZRkJma0lkZUt1Slk5V3ZWY0J4dkpHSzk2aXUyOWQxcTBNTmlpYkYwbHRuR2lqY0RBMlZLSGNUSWlQUF9WQ0REaVUzcnZOdmt1MHVwbg?oc=5
+3. 서울시약, 자문위원 간담회 개최…주요 현안 논의
+   📰  | 🕐 Wed, 10 Jun 2026 09:36:34
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5LWFc2cUFaZjNIajlCZnB6eGVzUVNRUTFqdC1GSk
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE5LWFc2cUFaZjNIajlCZnB6eGVzUVNRUTFqdC1GSkw3VTVtQ0ZJd1MtN1EwczhNODlTVGNBOGVVT3ZpaDQ0elFLX2FyTlRIODFZSDFpSDhlYXFPTl96OTM0R2RWc1U5UDBTOEoxLQ?oc=5
+4. 통합약물관리 전문약사, 내년 12월 첫 시험…"조제 넘어 약물관리 서비스로"
+   📰  | 🕐 Wed, 10 Jun 2026 20:54:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUnBTR0xZNDhRMnVzaWxnUTZnVmxBcG5hdzNta2
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFBOUnBTR0xZNDhRMnVzaWxnUTZnVmxBcG5hdzNta2xLNEtVUTBzYUZjQ2lJQnhBQXhvNzdjQzMzT0sxQzJTXy1nWkh2a21wemRMY01vM1psNXk3cUVJU1dRVUtLQ0VTcFNfYkxqVg?oc=5
+5. [약사, 문학을 말하다] 바뀌어 가는 이웃
+   📰  | 🕐 Wed, 10 Jun 2026 20:50:00
+   💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1hNlhsRmFOR2lQWWRxQXduOTFfY1pKQ1RwTlNPYm
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE1hNlhsRmFOR2lQWWRxQXduOTFfY1pKQ1RwTlNPYmRuNHVqM3Y3TWJEdTNhN21JMHFiM0M5SFNqYlZ6S3hRdXUwOFJ5YWtBRHdTTFlKZVE4WlFaTjNkSjB4UkFXUkphaDlzMEVNNA?oc=5
+
+### 🏛️ 의약관련정부기관
+1. 식약처, 디지털의료기기 표시기재 가이드라인 개정
+   📰  | 🕐 Wed, 10 Jun 2026 08:20:12
+   💬 <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE83QnA0NXNUd3NxcFpUaHBpM2pBeVhLQm4xdTk3ek
+   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE83QnA0NXNUd3NxcFpUaHBpM2pBeVhLQm4xdTk3ekJHcnZyM0JLeC1YUzJFREtSbnVuM0FjZzgtSHB2NUFjZVJkVjhiek12UDV6NGhqWNIBVEFVX3lxTE83QnA0NXNUd3NxcFpUaHBpM2pBeVhLQm4xdTk3ekJHcnZyM0JLeC1YUzJFREtSbnVuM0FjZzgtSHB2NUFjZVJkVjhiek12UDV6NGhqWA?oc=5
+2. 식약처, 디지털의료기기 표시기재 가이드라인 개정
+   📰  | 🕐 Wed, 10 Jun 2026 08:44:50
+   💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNU1UQllMbHJMY1AzaWFzZkVsVUFJdUtDS2xidl
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNU1UQllMbHJMY1AzaWFzZkVsVUFJdUtDS2xidlNOMDA0VU9OTXlTdVdXYlpReUdpQTVxeXBjUFNHWlFjbUpqTUlCdUMtMFBvZXB2NjlZWkFxU2JRakJtcGZqcjdqMDloZ1Ew?oc=5
+3. 집에 남은 마약류 의약품, 참여 약국에 반납해 주세요 (2026년 가정 내 마약류 수거·폐기 사업 안내)
+   📰  | 🕐 Wed, 10 Jun 2026 07:18:45
+   💬 <a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE83bkRRTmg2cXd4TV9rMXZ4S3p2UE9QWmNMajBKdm
+   🔗 https://news.google.com/rss/articles/CBMifEFVX3lxTE83bkRRTmg2cXd4TV9rMXZ4S3p2UE9QWmNMajBKdm5XNUpkaVFDUHFjTFo3SnNUbnlyZUVHWjFfVzFYSVRjREFlSG5sa2R6eVlNeXc3TjNGXzl5T3dvbEk4TWVzQUpZYWJPS1hmcTBQcjgxN0VHckhoM0tiWUg?oc=5
+
+### 🏥 의료현장
+1. [발언대] 의료를 지키려면 신뢰부터 회복해야
+   📰  | 🕐 Wed, 10 Jun 2026 10:50:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBta3J4WmpRbkZxME9XdC1jUm9ydTBoRkVHZkNKSm
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFBta3J4WmpRbkZxME9XdC1jUm9ydTBoRkVHZkNKSmxGNHVyTEo0blJNYUZUN3dBdnZSQ2dabXg4QWFIaEhuLVdHUXl6VEpvd0ljV2daY0hGMDViMDRuQThXalV0UnpwOW1lbHc?oc=5
+2. ˝신생아 의료 붕괴 막아야˝…국회서 법적 안전망 논의:동아경제신문 & daenews.co.kr
+   📰  | 🕐 Wed, 10 Jun 2026 07:31:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1aGY3MmtNODJqMTJDTE9Eb3JtbVVjV09MZ013V3
+   🔗 https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1aGY3MmtNODJqMTJDTE9Eb3JtbVVjV09MZ013V3B4MWY2ZEVqR3dIWVlZcWtybHFuWmFJbVFQV0lCQ3F6QkHSAWJBVV95cUxPRDBpamhpR253M3RjUl9RMU4tenplSG1FWkV3RHlXM1hVS1dnRlRpaWV5YjZXV195WExIMTdTSFJjeXl0WVVNQWdkOGNWRnR2Wmx5WHp2WFZmNG1xcUZVOTlWQQ?oc=5
+
+### 💊 약국·약사
+1. 파마시티와 노바티스 베트남은 만성 질환에 대한 대중의 인식을 높이기 위해 협력합니다.
+   📰  | 🕐 Wed, 10 Jun 2026 11:13:01
+   💬 <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0VVcjM3Z3U2YzZXTEVVVllFV0hGVzh5a0lQVn
+   🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0VVcjM3Z3U2YzZXTEVVVllFV0hGVzh5a0lQVnFZbG9KZDJtSDJJYUItZUZ6dmdIVGdZZUJsVkhDQnU1TXVNTlU4d2tBcXh5Z2ItcE9vaTNQbDF2TTlCWVl3b05MX0FYZ3NOSG1ST0hpVUN2OXVUdE42R0ZWcGJjYkhSa2ZEVG5WdjE4RmFadzY2dV9qVF9zdWM2WndkdER3R2g4VjhyaFh0VUhLRnR5QU4zQnBZZzdGRUE?oc=5
+
+### 🩺 의료정책·인력
+1. 반복되는 `고위험 산모 뺑뺑이' 비극... 정부·지자체 공공보건의료 지원 필요
+   📰  | 🕐 Wed, 10 Jun 2026 11:44:03
+   💬 <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EQ1BIcjFJTjhXUGlKN000TXBLNXlWMnV0Z1VQeW
+   🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EQ1BIcjFJTjhXUGlKN000TXBLNXlWMnV0Z1VQeWlqRWhNNnd4SXdKWTc2VmJfOVpTYTAtQ0JxcUkyb0VZSWVET0loRTR2c2s?oc=5
+2. 복지부 장관 하마평 박주민·김윤·김연명…의료개혁 넘어 연금·복지 조율 시험대
+   📰  | 🕐 Wed, 10 Jun 2026 08:32:37
+   💬 <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1VuNUtIdFNFeTFrOG4yOS1GMmpqNVdUYjZCcD
+   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1VuNUtIdFNFeTFrOG4yOS1GMmpqNVdUYjZCcDBHTF9GOUVlZ1Q4cjJNOUJBTGo1NWJsUk14UWYwY3luS0NQZzJ0SjlLSXZPVXFzMHJBTkk0U0l3WkpPUHgwaWJnb05mR1pzWDhta04xZWhUUGJPS1Vfc2dMUUpuVg?oc=5
+3. [단독 인터뷰] “불필요한 부담 없애는 것이 '적정의료'···보라매병원이 공중보건 선도할 것”
+   📰  | 🕐 Wed, 10 Jun 2026 15:00:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFByck00aGRibjI2ellsVDZ5eEtXeGRKSUE2bzVMN1
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFByck00aGRibjI2ellsVDZ5eEtXeGRKSUE2bzVMN1QyNHdYOGt6RXplQjlTZV92c1ZIZ3ZPWk56Y1BDTE9mTlg3czBhUENocWFhS0JuZDRDcDMwN3EydTRrUUZNcy16Y0pwTXfSAW5BVV95cUxNSTUyTDQxc0JSX19BVERvd1NxQnFXdWZCc01feGdXZFRIVzZaNjBtRUljZVpLYVF4MkNFbWVzT3lOb3ktaVBXdC1lR3I1SUFONWNNdjZ6RWllT1QyMDl1RGx0b2ZjcXI3aXZ4Q0JLdw?oc=5
+4. 복수경 충남대병원장 취임 "AI 특화병원·지역 완결형 거점 완성"
+   📰  | 🕐 Wed, 10 Jun 2026 09:08:50
+   💬 <a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE43US1OMHdPRUJsSmo4ZlhzNzdKWWxmYzl0MlhlZG
+   🔗 https://news.google.com/rss/articles/CBMiS0FVX3lxTE43US1OMHdPRUJsSmo4ZlhzNzdKWWxmYzl0MlhlZGxpcnBjM1Z3YzNSekdfMDhyN1BRZTM4R2ZidUNJQzNwWTlXdE9jbw?oc=5
+
+### 전통의학
+- _(수집된 뉴스 없음)_
+
+### 🔬 감염·보건
+1. 슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다
+   📰  | 🕐 Wed, 10 Jun 2026 07:03:00
+   💬 <a href="https://news.google.com/rss/articles/CBMiREFVX3lxTE5JRVdIc2ZTbnhoYTdydUNGdjZ1X1puZHlDMTdIdn
+   🔗 https://news.google.com/rss/articles/CBMiREFVX3lxTE5JRVdIc2ZTbnhoYTdydUNGdjZ1X1puZHlDMTdIdndsb0FqdHhnMVhkc0FsbXFxT0FmTlJKVmwzdEpoQUxM?oc=5
+2. ‘제한적 전파형’ ‘팬데믹형’ 맞춤형 감염병 관리 나선다
+   📰  | 🕐 Wed, 10 Jun 2026 08:46:08
+   💬 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE5VYTdROVFoZEdabW8zcElhQzdZZmhiRVN4WUhFN3
+   🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5VYTdROVFoZEdabW8zcElhQzdZZmhiRVN4WUhFN3hUempJQXZDTGhkT1FIVm1tYVJ2cW1NZTNyUjlBRkVILW52NHN6S1JOcVB0Uzl3WWdlblBqc0t4eFNFazQ0MHFoOGZlSHBiS3R0NzFTM2RhZkk4Sw?oc=5
+3. 안산시 북중미 홍역 유행에 해외여행 전 예방접종 권고 > 뉴스
+   📰  | 🕐 Wed, 10 Jun 2026 09:28:00
+   💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRDYwbkRPOXNGOXFuNk0zMnlqS0dyQ0gwbmVNQ0
+   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9vRDYwbkRPOXNGOXFuNk0zMnlqS0dyQ0gwbmVNQ0w2VW1xWkx1bmlPSEhxWEVQVzhiSElzdmo5Q3NUS0J2RGlJTVNCWThtZTlLNFl5cXFMTkFEbGQ1bERaaWRscmJ0djkyVzNJMjJzY1o?oc=5
+4. 감염병 대응체계 대전환 ‘100일 백신’ 시대 연다
+   📰  | 🕐 Wed, 10 Jun 2026 07:13:52
+   💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5sdVMwakFoLWJLMzhScXVWVDdhYzBLaEl6QXUwQ0
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE5sdVMwakFoLWJLMzhScXVWVDdhYzBLaEl6QXUwQ0xKZDF3bzNFVm9mRTlnd0JrUmY0NWxtcnR5UHFwUU01MDFMQmlBcXhlVWRMd1BxWHJROFNrMk5TVWk5UGU3dUVIdE9PTmV3?oc=5
+5. [인터뷰]국가가 주도한 백신 정책…피해 책임까지 국민에게 떠넘겨선 안 돼
+   📰  | 🕐 Wed, 10 Jun 2026 08:35:44
+   💬 <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSktWQ2UzMTVRRWJtaXgwWUcyMVdDV0g5RmcxWF
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BSktWQ2UzMTVRRWJtaXgwWUcyMVdDV0g5RmcxWFVXZ3FOVFdfa3I3MjZ1TFdVcktEREtjRDNNSTVGdGZGRXNYTThpRzM3Zy1IU1E4YndkczRQeHhvdlpETDZOZ04?oc=5
+
+---
+## 🌐 글로벌 (영어)
+
+### 💊 Drugs & Therapies
+- FDA’s drug repurposing initiative signals renewed focus - Drug Discovery News
+  📰  | 🕐 Wed, 10 Jun 2026 18:26:28
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFdXbHFmOHNObm5pQTBLMW14WnJOTmtmTXJXNjBScHBZN1plcVdHTlZoelUzS3JzcTg5V0pVWDJSZlU2QjhmMjVSbXd5NFUxdmUwMHZrbW9wV2RUOUFfa3BPeEVZaDFSR1RCN1JCeTJlaTFKR1o5ZW9MQk10QjZQQUJESkt1bzE0Y0t3R055YWVublZIQnZkNXpCdw?oc=5
+- Lilly wins new FDA approval for eczema drug Ebglyss - pharmaphorum
+  📰  | 🕐 Wed, 10 Jun 2026 12:59:56
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3Q5bF8tSkJ0TWpNTjN0R21VYWFZZzR5WWd5YTU1c09nNkZpX0xRRklFSXQ2ZlRsMlNMSC1aR01kbXN4cEhvWDJxQzVCa3JUYzhmTGcxVDJxU1hiY3ZPTHhROFpuNDNvRjEwQlBDdDRqZDQtVFhZNkdydjRVSEp0dmFQdw?oc=5
+- Amid a flurry of biotech deals, China looks to keep innovation at home - Pharma Voice
+  📰  | 🕐 Wed, 10 Jun 2026 12:41:53
+  🔗 https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUxlUHZCSU9mb1VkNnNha2VVZS1vZmdmc1YtYmd5b2N6RVpNMUdkMUNNM3pxdi02V19lMXNmY213NUJnQ1l6ZVZFWG5HalhvcWR5R1JoSjZjT1hqb1NVd2pzajJ1d3dWNHpSZkhEZWJfODhhRml1VTVJVmM2RVRLR3EzR05jY3RUTi1pczNMNA?oc=5
+- Harbour BioMed Secures China IND Acceptance for Novel Bispecific Cancer Therapy HBM7004 - BioPharma 
+  📰  | 🕐 Wed, 10 Jun 2026 19:28:04
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzQ0N1ZOa01wTE5sVGZjM2hCTVBXNlF5cDBVM2xEMndIbXd6ZVdYMmFCc29pOWRERDJ3ellVZkRpZnA5azNHWDNpR1AxdmtfVkRRYmEwWS1pNjJBYVdFNGFrbnpiN2M1am45UXRzSkh0bk1uN1RSa0s1X3BDUW5tdURiN1pocXRCQnZhaGlxejdERG1OT29iU1FaRTJrclBjQVMzR2k0aTg1cHZsVlVtQXRxOHdOMmVaZTJoRVQ5cDltcjdVd3J4dW9aSQ?oc=5
+
+### 🏭 Pharma Industry
+- America Needs Its Mid-Sized Biotech Companies - RealClearHealth
+  📰  | 🕐 Wed, 10 Jun 2026 12:40:10
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDcya3Fmc05EZ0UtU2FsUWJwYTFZQzMzUnhBZElraEJjQTRnTEhYb3ZLdUZBRWU3X29KV2J2MGo1ZnJxOFRlckJ5ZGV3RzJfQmhhdDkzbm80c2J5Q0kyNk1rU056STdzcUdkRldsQU13UFVkZmRCbS1oeUJIMlRvbExQWFFXU2VJUFJDbm1oUlQ5ODUxUEFsM204WFZQY1gyclBoMkE2QV9WQmVKY09z?oc=5
+- Parabilis sets a record with a $670M biotech IPO - BioPharma Dive
+  📰  | 🕐 Wed, 10 Jun 2026 21:11:15
+  🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxNYk5rYjRDaFhwQnVuS2tWVlMyb0lUUnVZaHgxV1ZuUU9pVzhQeGxjZXdyek40QnAwM0lwMVNZS29EbXFlX240MlUtZkh6b3gyOE9MTldnOGNQbFlYZzhiRnNBVTFaV0Rqa1ZmU0dxVnluaFpFcnJwS1BNUGdaWmNXNGlOTmlCN2FVUTNWclFwb05vT0k0Qk41QThVUUlwdEZxeXNPQQ?oc=5
+- As the U.S. looks on, European countries feel growing pressure on drug prices - statnews.com
+  📰  | 🕐 Wed, 10 Jun 2026 19:04:01
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQeW4tTXdRcVlqM3AwVU9qQW9PS1RCY3NuZFdsX1d0OEpvRDltQTlmeTdJUDZqNlI1NFJiTXVNS3lnZHVSbFFrZ0xzczhWRWhCR2l2Z2hxdXl0cUR0YkxweDNpOVNkcVZWbnRGc2xzUXdpX29PSjZ0eXNIemdNMFdUcVk0NnlYTDlrMkp1MUp3?oc=5
+- Pentagon ruling hits China’s WuXi AppTec - C&EN
+  📰  | 🕐 Wed, 10 Jun 2026 12:28:21
+  🔗 https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVM3UHFyTEpiX3dIMkQ4bXFvV0ZyZnNDdUZRUzVfbHl1d1RKX1g3ek5tYTltSmswU0pyQ0V2SXFSQlMyX3lLTTVFS1UtU0liRFcxTGh6Z0NGT1YtV0pYSTVxNXpjWXhzVVhQWmNBQ3lfdktUQWxOUmk4ZmJ5WU5OdEdNeGhSQ3BaV092NWxab19ad00?oc=5
+
+### 📋 Pharma Policy
+- As the U.S. looks on, European countries feel growing pressure on drug prices - statnews.com
+  📰  | 🕐 Wed, 10 Jun 2026 19:04:01
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQeW4tTXdRcVlqM3AwVU9qQW9PS1RCY3NuZFdsX1d0OEpvRDltQTlmeTdJUDZqNlI1NFJiTXVNS3lnZHVSbFFrZ0xzczhWRWhCR2l2Z2hxdXl0cUR0YkxweDNpOVNkcVZWbnRGc2xzUXdpX29PSjZ0eXNIemdNMFdUcVk0NnlYTDlrMkp1MUp3?oc=5
+- Pfizer CEO Bourla reconsiders German investments as industry takes aim at healthcare reform plan: Re
+  📰  | 🕐 Wed, 10 Jun 2026 15:26:30
+  🔗 https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbnRrcFVVbW5qRGptR0l3TmNMQ3Fzc1QxaE9rRHBvM1dPQnBmM1BFNlJtRVdBX0Nlc0Q2cHBwMHQzd2dBSDJhOVhpdjB2d1U2V2ROMTA2ajBJQk9RQ2Z5UDdQTU9rNmFBMm1YQXdoZ0h1bm1jMzdNcmVnZjhIeWJSNlRUOWU2THA2RmxSODdrWXUycmwxcFQ3Qlc1TDgyVzBxWFd4N0hRMkhNMkh2aVg5bTdoNXYtTG9HaDUw?oc=5
+- German pharma backlash deepens as Pfizer rethinks its investment plans - FirstWord Pharma
+  📰  | 🕐 Wed, 10 Jun 2026 18:32:28
+  🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JZWR1VVRWQlc2WjU4MFFrX2J3MHY4d1IzM3NkdlB1R3Y3cWlGMVZxOU5yd0dBMXF1cWpyRzJqTXljRUFoQjBVbXBEMmNCS1l2LUsw?oc=5
+- Drug pricing policy in Japan, U.S. delays sales of new drugs - 朝日新聞
+  📰  | 🕐 Wed, 10 Jun 2026 08:56:00
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE83aTVmaDE1MGhSc3RJYXhNVDBHSFRfN0R2eUNXbXBkX2V0SC1VNF9vWVpjZUN2QjFZSU5manQzNjNmY3h0ZXZ4QmtvR3p5VkhPZmNMNzRR?oc=5
+
+### 🤝 Pharma Associations
+- As the U.S. looks on, European countries feel growing pressure on drug prices - statnews.com
+  📰  | 🕐 Wed, 10 Jun 2026 19:04:01
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQeW4tTXdRcVlqM3AwVU9qQW9PS1RCY3NuZFdsX1d0OEpvRDltQTlmeTdJUDZqNlI1NFJiTXVNS3lnZHVSbFFrZ0xzczhWRWhCR2l2Z2hxdXl0cUR0YkxweDNpOVNkcVZWbnRGc2xzUXdpX29PSjZ0eXNIemdNMFdUcVk0NnlYTDlrMkp1MUp3?oc=5
+- Lawmakers at the end of session try to appease both sides in drug pricing controversy - The Times We
+  📰  | 🕐 Wed, 10 Jun 2026 14:54:48
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjNya09hbloyMDc5aUt0RW04ZzdxaE5iQ25yUlEtNTRiZ2FDNU9mMGdjS0cwRTc4WXM3YUJWMmtKRXh4RXRGanJYTUptM3pEZ0dKZXBibHhNX2VkSXhVdlc0ZzdZZmJVMUNMSWJMQkhFZFMybnpfWmdvSHd6MFlZU0FRcWtBa0dQbUZudGlzdEpvTk1mYkh6TjhrV09JeHN3TDVxbHA4bzY3RXhGajZDdzdlUnNmcjNvM0FSN25n?oc=5
+- Pharma's Competitive Advantage at AUTOMA+ 2026 - healthcare-in-europe.com
+  📰  | 🕐 Wed, 10 Jun 2026 08:03:55
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE5ILWxUamREbnZLNXpQTlR6TWdBdTJWWm9TR2NsU09vMlRZdU1XMDh4RVVfU1ozbnhuVjF6dHZaVFVYQVhYc3VEWGhxQ3owWC14Zkg4OE84TWtzM2VkYloyR3dXam1TUVBFYjBHbi1maE9zVUdvZ3VCbQ?oc=5
+- TIAA Trust National Association Sells 237,843 Shares of Teva Pharmaceutical Industries Ltd. $TEVA - 
+  📰  | 🕐 Wed, 10 Jun 2026 11:37:19
+  🔗 https://news.google.com/rss/articles/CBMi6wFBVV95cUxONkJZeFp3SmRiZHBac1BrWVEwTEtGSnB0TUVadVlibERrRF9MdkdaXy1JMlRoUmIxWEJ4N1F5LTE4WGtXTmgyV3dOeW9YTEJNaUloSHpQY0xGOEFiNmNNR0pFYVFkV3ZkVFEyMkZ2bkVzN1hQUE51RHNFUFdwSm9ocmRvaGl4NmRYT1FVM19CNDlzaGJVOWdHOXlYeWhIbkRfcXJfaTdMQkgtczFQWGMyT1M4a3ZmQ0FkbWxrdzBKWWFGaG9HdTBtaUxaNnNXRkxKVzM4bk1Jd3dsUkR5Uk1GdWU4ZzFuZkxhRFA4?oc=5
+
+### 🏛️ Regulatory Agencies
+- Safer Solutions: What does the FDA approve? - R Street Institute
+  📰  | 🕐 Wed, 10 Jun 2026 10:03:08
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHdnQzYyRzFySjNYa0pObHpSX3pPS001c1dXMDFfTnFoYWFvUzk3aHF6S3o5RFRYZ2k3cTNrU1djX2Q1TndrVlJrRGI4OG5PT2lDQlkzMUhrQl8yTzZrVTE4MlEwa1FxY1hHSjlzdkthTVNTZjV2TGdjV3dfTGhKbGRCNA?oc=5
+- Opinion | A new sunscreen finally survives the glare of FDA bureaucracy - The Washington Post
+  📰  | 🕐 Wed, 10 Jun 2026 21:23:48
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTkUxbEQ2Zkdjb2s1SXNhOElNX1lHWWhjMjFMNWVva19jS0tsOS1CTk1hcWpjRWRmZUVyMGpiY0JZMlAwU0tieHZrR0RMVWxUMTZaUEM0dFF4TS02cGJqVGZRU29WTEVMUG45REtyVmdIZGxld0NUOW1MYThmbHZxVXR6Z0JUa3RabkJTd2FFc0RqaWtCWHc4SG02b1NpRW94cjJQVE9uY20?oc=5
+- FDA clears UV filter long used in Europe and Asia, first new one in 20 years - Premium Beauty News
+  📰  | 🕐 Wed, 10 Jun 2026 15:09:52
+  🔗 https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjJoSXpUYWF1R1c2Tlo5Qjh6ZTk0R2k0X1dfX2hMc1J0MXhiQ2wxUlBHMXJXbWVnQWhycUVxblZ5QWtvSG1xcmhQWGgtZXVCQlUxcjMxblo1YWpkdlgxV1NTZ0FIN2NGUDVaRjRZcW4ya3AzYlp0VnRMeklvNlpLeHd3?oc=5
+- US FDA approves first sunscreen ingredient in over two decades - Personal Care Insights
+  📰  | 🕐 Wed, 10 Jun 2026 09:24:35
+  🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxOMWRHS1REN1djVDRYeFI3SzNOc1N1cjVPMGlPd0dSeFZfdklSRm83NGQwNnc3RW9UUklSd0pKUTloNjI0WS1wTU5VUlFKSUVYUmFVNmJZZXpCNC1oVW5JbEFsaVllRXJXa1Y1ZVVJamJCQU1PT1JXcHcyT0xhMHhYc3pKSHZMdzJOZVE?oc=5
+
+### 🌿 Traditional & Complementary Medicine
+- CEO of Medi-Moses Clinic and Prostate Centre named among 100 Legendary African Dignitaries in Health
+  📰  | 🕐 Wed, 10 Jun 2026 10:45:09
+  🔗 https://news.google.com/rss/articles/CBMimwFBVV95cUxQdnJMTWdycFlySmxJeUN4eWlHRE5KdmZaeFYtOFRNUVl5dklpT2Rna0hLbzU5cXZ4T25hdDk3V2NHRVMzTjZHSTRCblNybjd0Z0xqRU1DY04weG1kYng1a05mLXdEYV9aTGI0U1BDbjFGVmZHT09RX016QlJkLWY3ZEdoVHFWelJscmRzdGVyNXRRbFNiZFltbUhRd9IBmwFBVV95cUxQdnJMTWdycFlySmxJeUN4eWlHRE5KdmZaeFYtOFRNUVl5dklpT2Rna0hLbzU5cXZ4T25hdDk3V2NHRVMzTjZHSTRCblNybjd0Z0xqRU1DY04weG1kYng1a05mLXdEYV9aTGI0U1BDbjFGVmZHT09RX016QlJkLWY3ZEdoVHFWelJscmRzdGVyNXRRbFNiZFltbUhRdw?oc=5
+- CEO of Medi-Moses Clinic Dr De-Gaulle Moses Dogbatsey recognised among Africa’s most influential hea
+  📰  | 🕐 Wed, 10 Jun 2026 08:51:38
+  🔗 https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlFrelk4R3RVeEhNb0ZSc1VULVc5QWxISjFEbTlobTVNcGU1MUYzVHBFdmZKS2pDOC1wNE5jbUI4dUZ5RDhvcy0wUU9xN0l5eUZzdmVYUEY2TXNjNlE5Y2xYLXZ6Q1ZHaEdNRDFJRFZpbVFFcUhsTDRnYUI1N2VVQ2FvbFVGYkJkN3k2cmdQWUNGYW45d2tmRTVPU1hENmFjbm1HWlM3MHB1UnVzR0lIdV9BWm05cGdkdkJINzlYaWNWXzdVTDM5ekZoaC00Mmg1QXJ0Sm5n?oc=5
+- Lotus Seeds Professional Market Analysis By Application, Type, - openPR.com
+  📰  | 🕐 Wed, 10 Jun 2026 17:21:24
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ21mVGpQWEdOcWdOUmdaSm1XeF9BU080N2U1UkpXNWx6WnltNGR4d05WWEpmOVVPVEE3dC1uUUlJdXJ3dWdaQmFfUk9fV2Z5WDliMmI5NmFlQy1nazhKY05YS016T2RlcjQyTnh3ZEthdTlGMTc2SmFQSUQxbjRlb2p2NEdhdDdGeVA2MTVHcmtSSGliM3NUbGdqcXU?oc=5
+- AIIMS Mangalagiri inaugurates AYUSH department - The Times of India
+  📰  | 🕐 Wed, 10 Jun 2026 17:17:00
+  🔗 https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYUJiZjJBaW50cDk2cThYaUJWTkNQaThmeFNTMGVtZFp6c0M4dzVsamoxQlJwcmp3UVV2R2FnNk5rbUNnWWUxQ2hpRHNobTU5OFhfV2NSZW1yckFrUnFmRHRueHhRYWJ0LVRIQTNydHRIakVDZWFQc2stbklTN3UyT2dzTi03d0YzSUEtVkNJQ0h4TXh3UXJKSDlhMEpWRndHS0tEa0dQUTI1SEVJTjNVMDJOYnlaRnZKVmVDU0VROXotd9IBxwFBVV95cUxNdEtySTdnTHhGREdrRU5IVXFiUDFBdFRZT3JhVkZaRkdEdjFqY0Q1eVlobF9FUTZZdk9YR2dibkF1T0ZjTVp0OWlYWTltQWtLTnJ4SU9NSXRCb3RHMGwzT1BWSmFYZ3k1VWFvdkdzclMtdE0tWktISlFUaW9IN3czMnVnR2NxSnpqMFhaZ1VuRkw1ZERXcDl0b3Q3SzhrTHVQYUJkb3NlMDdOZXJUMHVPZmVrd1NCdUI2ZFp1QWkxaTkwcnF1VHVN?oc=5
+
+---
+## 🌏 다국어 뉴스 (20개 언어)
+
+### 🇫🇷 French / 프랑스어 (3건)
+- Arrivée du paracétamol 100 % français en pharmacie : l’affirmation d’une souveraineté sanitaire dès 
+  📰  | 🕐 Wed, 10 Jun 2026 11:21:02
+  🔗 https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2NacVJfR2V2a2prenpuaVh4RWpKVXRJNi0yMUxvbHpGamp2WmpvNS1fYVhGUXJ4a2ptQ1ZqMktwSDRDaWViVUJZWkRPZ0oyT3c2a0xsUkFhU1VseS1yaWt2WVlnTVgzWE56OUM5Vmt2QjNTTU5zbTl6WFJUM0daNG80aXROcWYwbkVfWW9SUzBWUXo0bGNsNVFYdWJNY3Zub0pVYjYxX05ZLThwalFVeGFEc01yRW00RkJRUkYtZHhuUUNTSVBuNUYzLWdTUQ?oc=5
+- Novo Nordisk affronte un préparateur de médicaments amaigrissants sud-africain devant les tribunaux 
+  📰  | 🕐 Wed, 10 Jun 2026 10:16:33
+  🔗 https://news.google.com/rss/articles/CBMijgJBVV95cUxQaGdiU1MyLXZ6WWdVU3J1OVBUcnFhY2R5VDNaTjFCYldkUjdzd3FjWG82T3FTS1ZwVm1Wbk03RmhDS0VkeExqX3M0dmFHdnVsV3VXbTRpeExBQVVBVU1Nc0p3M2JBdDI4T3pfWTFZNUozZ1B0aEZ0UE5PQVB5Zzg3bmt5c3BHNlA1dzVUcUNhT1BveGZaNkF2aUdGdUk0VDAzX2tMLW9ZUS1SalI1ZHp6c3kyNldsQ1pYZ0FoUEduWGdja2Qtbm9NOWFtbzZ5eGk0RVY1UTViRXpUVU9ya0NhR095MHk3MnZTSnRqMDVndUh4THBXRWF1NTBPLUUxcUNwVTZBaUtjbUdHMlh5YVHSAY4CQVVfeXFMUGhnYlNTMi12ellnVVNydTlQVHJxYWNkeVQzWk4xQmJXZFI3c3dxY1hvNk9xU0tWcFZtVm5NN0ZoQ0tFZHhMal9zNHZhR3Z1bFd1V200aXhMQUFVQVVNTXNKdzNiQXQyOE96X1kxWTVKM2dQdGhGdFBOT0FQeWc4N25reXNwRzZQNXc1VHFDYU9Qb3hmWjZBdmlHRnVJNFQwM19rTC1vWVEtUmpSNWR6enN5MjZXbENaWGdBaFBHblhnY2tkLW5vTTlhbW82eXhpNEVWNVE1YkV6VFVPcmtDYUdPeTB5NzJ2U0p0ajA1Z3VIeExwV0VhdTUwTy1FMXFDcFU2QWlLY21HRzJYeWFR?oc=5
+- Pharmacity et Novartis Vietnam collaborent pour sensibiliser le public aux maladies chroniques. - Vi
+  📰  | 🕐 Wed, 10 Jun 2026 11:13:15
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPaG1HejdXNFhFdFg2WUNFenJ4cV90LXBkd1NDQ3VrcHdEbXl4MXVOdEVzMVlBVDlmcFVNSFlXUGM2VDQ5ZUswSEctVUxsNFFTX0VrdW52bTBRWTUwSGx3VnpBVFItX3RhYk9fNHV2UjFCbEdndEw1NWJ1OWdqS1pMTTRXVmp2X2F0YnM0ck1ZY01wUjd1ekh4eXpXTzgtTjIyNHZReTN1MUQwbGFkQzBiOG1qVmZBTm9RcHc?oc=5
+
+### 🌏 German / 독일어
+- _(수집된 뉴스 없음)_
+
+### 🇪🇸 Spanish / 스페인어 (3건)
+- Premios Fundamed: 25 años reconociendo "la excelencia y la innovación del sector farmacéutico" - El 
+  📰  | 🕐 Wed, 10 Jun 2026 19:06:23
+  🔗 https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ01SQUlCa3ZEaFg0V3Ffd1g1UnowX3haX2lNUmg1Q2FiX2lLTk9vUWR0NElqV0tTWThRNDcxeHBicG9kUjBpUmtSUmpMVTdtSHJqYWlHZmVJSGdIcXIxdF9fRjEzVGxxazBROU9Jc3BVT3hRRG5obWNFLWhxRC00dUpSSzVveEZiaTVkaGMybTUzcld0a21QREdZajBYM1pwVUNIX01EQ1UxemZNNFBxdg?oc=5
+- El gesto que desaparecerá de las farmacias extremeñas tras décadas de uso - El Periódico Extremadura
+  📰  | 🕐 Wed, 10 Jun 2026 10:58:38
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSnRlckRSWFhRS1Z4dFFTRU9JckZydzdCbk0wWXVtdEktbEUyYnJYRnFLNFpQMkpUd1FoaTFJTTNkUkdDR29zalZOamJHdUJsSE1KczhCdDJaM3drQnN3RWRlQkwzSWJDUFZyb0Fpc1pVYTFGdUlWei02QTZYdUFSSlB6VU43WEdPN19yQ1VIeW5VNVhhT3ZjaGtDeTNndzhRRWlCcnFzRDMyWXgtV1JEY2JQb3lidFJreVFwbS1XZVFBdzNXMDNhR0xrRHNQb1lB0gHQAUFVX3lxTE9KdGVyRFJYWFFLVnh0UVNFT0lyRnJ3N0JuTTBZdW10SS1sRTJiclhGcUs0WlAySlR3UWhpMUlNM2RSR0NHb3NqVk5qYkd1QmxITUpzOEJ0Mlozd2tCc3dFZGVCTDNJYkNQVnJvQWlzWlVhMUZ1SVZ6LTZBNlh1QVJKUHpVTjdYR083X3JDVUh5blU1WGFPdmNoa0N5M2d3OFFFaUJycXNEMzJZeC1XUkRjYlBveWJ0Umt5UXBtLVdlUUF3M1cwM2FHTGtEc1BvWUE?oc=5
+- Las oportunidades que ve la farmacia en el fin del cupón precinto: menos burocracia y más tiempo par
+  📰  | 🕐 Wed, 10 Jun 2026 08:44:30
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNM2lhNHcyYnpEWFI0RFpVM3g5eVM5N25SbjE4U0VpRG5OeVFwUXNpMGpBQXRxVzRmZ21hak5xaUdmVks3SVBiQVE1UW4xbndHUms3amotQ2xjSGlXUU5Lay1DbFlTb3lKLUNjaU1nbmo1S21UdjVXYjI0dzJFdXRvdVNYcTRMOWJhTGN4a3VyZkpHWnhlYTZaQ0lYMElrNms2WUtiYTVod1dQMmhYeUtZU1lvcjhvSzBVUmRHUA?oc=5
+
+### 🇮🇹 Italian / 이탈리아어 (3건)
+- La prossima sfida dell’IA in ambito farmaceutico: le sperimentazioni cliniche - SWI swissinfo.ch
+  📰  | 🕐 Wed, 10 Jun 2026 07:01:55
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcnAtajYzaEgxYUJWWnhnOVRxdHIzU19Od3A5LTVjSlluemNRRGpiRmhZY0xzLXBiLUhDSmt5TzFXUnNCTXZjdGJ1anlSQTR0LVV1UTZWbXFGeGkxWVlLeGZndUQ5TXM1Ukl1WHZXNW1ONHE5U2U5NF9qaUVLVVVpNlBEb1dmOGY1RDlYUm96ZWVkOG1ZQkZpU2JyLWNkb2htdlB4Sldpd1dWUXpjSWJibVNqWVFKWEJKWF9IZW9iMkZQUS1mdTdKWTVsUVlsRld3?oc=5
+- Il CEO di Pfizer avverte: investimenti in Germania a rischio a causa delle politiche sui prezzi dei 
+  📰  | 🕐 Wed, 10 Jun 2026 11:29:36
+  🔗 https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYmRuc05PQ0ZiMURFcURCSWFlV0lSd1c1dTFiSlM2MTlmZE9HeS0tbVQ0VWJzU1BlWVpaM2hXZnVWOENUUGU3dFhiMnFJVFZqeFVFYUhsZnZvVnA3SmJnS3kyQlh5dUVUbU1iOGdKMnhnbXJtWVVra3pPUXYweU1vb3RrOHdPN29ueHR3T3hSUjNMZjZVemdMSTRYT09leEtIem12WXFyMWVqUHZXNFdvcUlaaUpxdDZ1RXNnV1gyVjJCeWxWbnQ1RnliMllTTU5ySjUwSDhLMzhXRHV2U1IwclZsQVpnM1FSa3c?oc=5
+- Aggiornamento sulla carenza del farmaco Persantin® per cessata commercializzazione - Agenzia Italian
+  📰  | 🕐 Wed, 18 Dec 2019 11:50:24
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczJsa1gwaFA5UEYyOHN0eUlkdWxTeGY0M0xERkpsREg4MWpHblRKRzFWRTVSeTBmSHlHNVNRY2lINHp0NmREMGNLQVpNdFB6Yml5QkF3RldUQm9SN0s3YjNlWjJjMzRvM3ZLNzdLR0l2MXJ5RGJ0RVVaR0hJZFcyV2pGZUpMT3pHVW1EdUxQcE9BcFFicDMzV21Mbmg0T0U0T1NZUWFkc01PNVk?oc=5
+
+### 🇵🇹 Portuguese / 포르투갈어 (3건)
+- Novo Nordisk enfrenta em tribunal fabricante sul-africana de medicamentos manipulados para perda de 
+  📰  | 🕐 Wed, 10 Jun 2026 11:29:51
+  🔗 https://news.google.com/rss/articles/CBMigwJBVV95cUxNZGE2cFlDcUhIN1QxeGw1WEJWaEZER2xKWjRrRjB2WnZsSThXQVdUWjVpWms3RGVWR0FzaGtnOFpQcGZ4SHJlazh1YU1yVnpoeXhCMkNOanlFUVFpSmZzUml3V3E0NFVKVlRyd2NhZ0lyRi1sWlVKWVBQRGxoSVBfRDJpSV92Q1lpblFrOG96MEdFV2xFWDNTWENKVjhhVjhJSzNTQ3BUT0p5SmRha2J5Q0RJMjVwdlBvRjhMLW50MTBZZ1FVS0dJdnVpTnBqamJCeV9jbXhoZVdiSnZQQXg0U0wtRllZOVd3TFkzdFFkcGhIdUc0STFrZklQR05Sb0xUMy130gGDAkFVX3lxTE1kYTZwWUNxSEg3VDF4bDVYQlZoRkRHbEpaNGtGMHZadmxJOFdBV1RaNWlaazdEZVZHQXNoa2c4WlBwZnhIcmVrOHVhTXJWemh5eEIyQ05qeUVRUWlKZnNSaXdXcTQ0VUpWVHJ3Y2FnSXJGLWxaVUpZUFBEbGhJUF9EMmlJX3ZDWWluUWs4b3owR0VXbEVYM1NYQ0pWOGFWOElLM1NDcFRPSnlKZGFrYnlDREkyNXB2UG9GOEwtbnQxMFlnUVVLR0l2dWlOcGpqYkJ5X2NteGhlV2JKdlBBeDRTTC1GWVk5V3dMWTN0UWRwaEh1RzRJMWtmSVBHTlJvTFQzLXc?oc=5
+- Por que chegou a hora de investir em inteligência artificial? - Panorama Farmacêutico
+  📰  | 🕐 Wed, 10 Jun 2026 16:30:00
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNbUpzR2FRTjlGUDRiN2FTZl9KUE1idkNGYlVvUkN3TEw3bDEtSGZjTkRzd0FnVFZ6Q3lyNDVkdDRKUjF0V2FlRUpFOFJZR3pSc3F5WUw4YmxRN3pWalFGempMeWFmelJ1VmZmMENWd08xZzF6dkVzbXJSSW9YV0NqZXVJLWM5Y05FWTdtODBUbERIMmNodWtDRk4xZ3Q5UQ?oc=5
+- Farmácias registram alta procura e vendem mais de 60 mil medicamentos contra gripe - GZH
+  📰  | 🕐 Wed, 10 Jun 2026 13:32:16
+  🔗 https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNkViOFdoLWhpQm9rWTNzT2U3dVV6VjRuZklaUVUxY29KTDZiYzJuQ2JYR0RwcUpaYlA5d0JBMXZvOHFraHVjekM1dFFLUGpOSU5nMDUwOEdaSDBtdUZ1dWw5TzlVT0FCbVkwR1A5RmVDLXdYbVpYZWRnZW5GWlZTTFRxZEpGend1MW9YSnBfd3haVVFGcUFTSVM5S0NwMDFteG9LOW1jeWVKTzlZSm8zSlhMS3Bza0s5TTZidWRDLTQtcS0yZFduVEUzX1lYRFRONXNsWFhoVTBrZHFBd3R6bjBidzhPZVAzNHpfN3M0MWl1dGh5Wko4eFNFQU9rak9VRkppYldUdWRNT1U?oc=5
+
+### 🇳🇱 Dutch / 네덜란드어 (3건)
+- Waarom nieuwe medicijnen in Nederland vaak later beschikbaar zijn dan in andere Europese landen – ze
+  📰  | 🕐 Wed, 10 Jun 2026 11:59:15
+  🔗 https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeDdTVVIxR0VuNjg4eC1JTnd0eXJqbGVRZmU1ejk3TmFVZk5pbTVlOTl5NFJYdi1XQzgxTUotM0dqWmRkaWJhcTEwb1drUG5GSzh0Z2dKQ1hLS0lPUFJGVERjTTV2S1hVQzZWaFlYS2RVQWVBMXhSSW16SEc3VkdGWU1EaDNVQUJ6YzNJcmgwUU5zdlUwODJJMGZaMjU1aGlUWmhxeDN6SFg2Ul9LRWRYOE44STZ4aEpiVlQ2V1ZGTi1mU0tTTmcyV1JHM3R2ak5nUFJHWUt0N3N4SXFfb3JwZi1ucmk0NTcwMS00TU82ZnRFeWg4Zk9aNVBwZFd5Wk1XRUx5aTkwZFA?oc=5
+- AI maakt medicatie meer op maat, maar daarom niet goedkoper - De Tijd
+  📰  | 🕐 Wed, 10 Jun 2026 11:37:47
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQd29LelpXYXNDbFRRckxaZzZaNkJKLWJsQXlXTF9TakF6VHVKb0V3ZGxDTmZGS3ZWRXJTYjIxYVRoUnB0Y3lKWlBuZk5pNFZBR1dtYTlVcVUtc3NYUkN3b0ZLS1YwbTlxZE5NQlpxdlhJdHMtbGhYZHFKTmRoLVRkTlFCVEk3bkpORk44NTdHOEktdThBSDg2UXgwVTZNeExlMFM0aW9pRTdZQjVvNThPTkJKMVdQNms?oc=5
+- Pharmacity en Novartis Vietnam werken samen om het publiek bewust te maken van chronische ziekten. -
+  📰  | 🕐 Wed, 10 Jun 2026 11:12:57
+  🔗 https://news.google.com/rss/articles/CBMiugFBVV95cUxPdm1jUDRyak1manlFckpOYVZQcndvWXpyaW8wdUMzMlZ0Q3htMm50VS1uUzdUODBpZEY4NWNTYUNpVTlfZ1RXdU9lN2ZMZlpDUHA5cWUwYWdZTFdSdC1aYjE0aENkRFR6MmpjMEdwYnNYcmxBcm1JdHh0ekt1S3ZfeVNNd2JCMGlZa0JBZG0tbWwxMHlWOGFZNXdrZ2JWT281d3RleEtfdHhEbmxXVm9SdFJzWmRjY001VHc?oc=5
+
+### 🌏 Swedish / 스웨덴어
+- _(수집된 뉴스 없음)_
+
+### 🌏 Polish / 폴란드어
+- _(수집된 뉴스 없음)_
+
+### 🇹🇷 Turkish / 터키어 (3건)
+- Kamu sağlığının korunmasına katkıda bulunmak için ilaçlara yönelik İyi Üretim Uygulamaları Genelgesi
+  📰  | 🕐 Wed, 10 Jun 2026 15:54:27
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxOUXA0T3Q0QmVjQ0RzSzdNRDg1QWN6TE1CSWJTblRBLVh4bWNZUXFyRmRmajRpZWZYNUpNNkl2MFdiWnAxSGdZQTktMloxMGZ5Y0g4T0ZzclAzNEVnQVh3Mjg5T0ZfQTI2Q3dNUFg0SnhldDZpcXZManNsQkN1ZThldVhMUDJobjMtcmlDODhiTWxwejdrTFVRejhnb0c4LXdxM0Mza0Z1bFhId3dwUVpkMlk4bEI1Y0wxR2FsTEpZVUd3Qlo2LVpF?oc=5
+- Pekin'de 2 bin yıllık gelenek: Çocuklar kimyasal ilaç yerine Çin masajıyla iyileşiyor - Rudaw
+  📰  | 🕐 Wed, 10 Jun 2026 14:26:24
+  🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrQXB1N1VvZlVWZzFqRU54bF81Qm83T0lJaFZQcWo4ejZvQWVKSnJoa0NiWUt4NzFfZk82ZFFGOUtNRXZvem9wQTdSZFV2NDFEQzN2cGJXS1hxbm9IUEE?oc=5
+- Yerel yönetim mekanizması, 'hizmet odaklı yönetim' zihniyetinden 'kalkınma odaklı' bir zihniyete geç
+  📰  | 🕐 Wed, 10 Jun 2026 12:47:18
+  🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGlPN3ZwUTU3UnBpNmhldlpJYmJlOUtoZWJrTDBWVTUtQXI2d0RGWEM2bGg0VHhGY0lNMFNMaVhvUTRuR2NpWXZfRjlxTmd0RV9WUHFtVGphZV81emluMmwta2kycFZVY2VXXzdTVnlxTWJ0VXltekd4Um84QzViT0lyMDlnUVZ2dmszU1lLWEdXOTRnMG5FSVg1SDlqRml4cnJCR2pVOUhFTHhQMVU2MFVGeGp6VGRk?oc=5
+
+### 🇷🇺 Russian / 러시아어 (3건)
+- Лекарства Farmak меняют дизайн - NV Бизнес
+  📰  | 🕐 Wed, 10 Jun 2026 10:26:00
+  🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzh0SlpXTXJNNXNkaEptRjd6WFlxN19BWUotTlQwM0dQUjFfZnlKeVYwZ2xmSUp5ZEUwZGtvRWlBUFZVM0t6WU8tOFdranV2SFJWc3k0QktlRXlVYV9hdnV3YlgzdVE5bm5GWmdHWVcxaUhyVlFZUXFOc3h1UWVaN1lzTGxhZWQxTkNqOEJTSGxuazBxZTFHQTlKeTNDaXFjTzlCajZYYTN1QzFob1BDNXBfOUJLcDhHN1U5b2h4RFhraEZjU1pjcjZIRdIBywFBVV95cUxPQzh0SlpXTXJNNXNkaEptRjd6WFlxN19BWUotTlQwM0dQUjFfZnlKeVYwZ2xmSUp5ZEUwZGtvRWlBUFZVM0t6WU8tOFdranV2SFJWc3k0QktlRXlVYV9hdnV3YlgzdVE5bm5GWmdHWVcxaUhyVlFZUXFOc3h1UWVaN1lzTGxhZWQxTkNqOEJTSGxuazBxZTFHQTlKeTNDaXFjTzlCajZYYTN1QzFob1BDNXBfOUJLcDhHN1U5b2h4RFhraEZjU1pjcjZIRQ?oc=5
+- Минздрав сообщил о снижении цен на сотни лекарств в Казахстане - Inbusiness.kz
+  📰  | 🕐 Wed, 10 Jun 2026 19:30:07
+  🔗 https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGVuS01qT0R5Q1FBbnhVc08tbm1IZnY3NlF1Vzh3RmVSTXFrWVhBb3dReTJRTUItbjdqSEJwQnNEanp5bGhxbC1Ybi1FVkl4LXItRHlVM0REb0laSXljaHl5cHlfc1N5RDRWQ1lQZktxY2VNQWxkYjFjcHo2MWRzTkg4Rmt1RkNRLUhJeFVXRnR1Q0p4YkkxZXFB?oc=5
+- Новая формула здоровья: как госзакупки лекарств переходят на стратегический уровень - Ведомости
+  📰  | 🕐 Wed, 10 Jun 2026 15:27:44
+  🔗 https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeFU2YlJsMnRoUUdJUjhrTDQzem5HVmlaTmlERHh3dm5ZTnlEMG5mVllTRXd1R3FKN2xvNUlDTUs3bWRQcVl1M1ZhN1ZJNXJaRmt4TklhUXl2NXBlWlZoS1hyZ1c0ZlkxV1p0cDgwUkZpd1pPZ2xBV1FNYmt6U284ak5aaWJNSWVDRWcwRnJBZGtHWEVucEVzQ3c4cHZVT0dMRm04bEIzQWNYa0NncXI4YTNybXpCa3ZNcE9qakRXWDh5YUNrSEY3UnFBMWxjeVlj?oc=5
+
+### 🇯🇵 Japanese / 일본어 (1건)
+- マンジャロのSNSでの不正売買　監視強化の厚生労働省方針を日本医師会が支持 - ｄメニューニュース
+  📰  | 🕐 Wed, 10 Jun 2026 08:40:00
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxNaW1vNWlqVEh5RGJzTHFvZTJTSHJqTDd5OXJnV09adXRvY0NGLTdzYkNUZFlfMVhtWXBKeXVZYlZrRFoyNEJGNjYzY3NKOGRzWnMyUmM1SEFQLWVlTE84Zmx4TWdtZTl3STVVTW93VXYySWZickFtdzV3bDNQOUo0bUpONTFxMjhiXzdyUjZDb2pJSmV4bldrME5oS1Z6bmdkSkJR0gGjAUFVX3lxTE1pbW81aWpUSHlEYnNMcW9lMlNIcmpMN3k5cmdXT1p1dG9jQ0YtN3NiQ1RkWV8xWG1ZcEp5dVliVmtEWjI0QkY2NjNjc0o4ZHNaczJSYzVIQVAtZWVMTzhmbHhNZ21lOXdJNVVNb3dVdjJJZmJyQW13NXdsM1A5SjRtSk41MXEyOGJfN3JSNkNvaklKZXhuV2swTmhLVnpuZ2RKQlE?oc=5
+
+### 🇨🇳 Chinese Simplified / 중국어 (4건)
+- 十年前跨界医药的上市公司，现在怎样了？ - phirda.com
+  📰  | 🕐 Wed, 10 Jun 2026 20:55:17
+  🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTE1fRkNNeEc3T2hhc1g4bVBZcnFWOEVYSTItZkZWU3Nlc2pRWVlmZUlpa2RUYVAyV1lUUl9TUHBBLUF3Z1A0YW8xcEdDbWVfSTlGbllBYlFFUTVFNzNNUUdVUVdIVHB3Q1ctelB1NWpTaGFOeDc3YjVNYXh3?oc=5
+- 晚期前列腺癌治疗迎来新选择：齐鲁制药1类创新生物药QLF4113获批临床 - ByDrug
+  📰  | 🕐 Wed, 10 Jun 2026 09:31:00
+  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFBKdHBidWhJTTNkTi1iMEFjV2xITHNvdjZ3aXRkemVaX2FqQ2lQeWdVUWpjYThRRnJwQktYZmItQWExQmJrelpZeGN0TDBUNWJpWXBIeExpV2NYNVM2WG9CRUlfYUtvcTYtYVZVbWpUTlhZb2NBVFYtS1loM1p5dw?oc=5
+- 疫苗供应与全球南方医药行业发展 - TV BRICS
+  📰  | 🕐 Wed, 10 Jun 2026 16:03:36
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxQbXFqUjJUZTl3bzl1cFItaTZEdFl2SWVzYUg0Yjl6dElDN3NpYjE5V1lIVHN5Z1NhR2xJRjRZMDNoVnNzLWdlazJIYjc4aHdhSnBIQ29JQjJWa3VkZTZOMjhEQVBGancxeEZkNGE5elJHRzRKNjRKREJzSGFHSGlNOHRfZi1XQXVDOGpfMXlYVWtyeXZiUk5jaENybXpyUVgxSGhFNzRWeUNWUzdfS3hV?oc=5
+
+### 🇹🇼 Chinese Traditional / 대만 (2건)
+- 「好藥港用」更進一步促進藥物創科研發- 評論 - 香港文匯網 - 香港文匯網
+  📰  | 🕐 Wed, 10 Jun 2026 07:15:27
+  🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE83NU9tMENLUThMTndhcTFiVU5TSjlfYUlSdkszdlNMRV9pSFVxNUNlMlpjTGtFZ0lkMlpqOE1yVFpsYVlURmtudkpuZm0wWllTT0NaWmlLODRFWTZJQzYwU09uU1JTa3p4MkxBMHJGTTUteDNwMDJJ?oc=5
+- 港股創新藥概念逆勢收漲：三生製藥漲近7%，再鼎醫藥、康哲藥業漲超5% - AASTOCKS.com
+  📰  | 🕐 Wed, 10 Jun 2026 08:20:00
+  🔗 https://news.google.com/rss/articles/CBMigwFBVV95cUxOTU85UlFLNzNsc1RGclFNc2pCMGNIUXRwWlFIRVVjNVhHRTA5cGFXbGVFUlBvVlA2dUVmQUg1dDU3ejdzSFp2OW1PV3FUd2ExRldCUk9SZjJQbktiLS1qWEdPQlBPYnQwNUt1QWlyT2Ftai1haXE3U041RDNsLUJHQTc3UQ?oc=5
+
+### 🇻🇳 Vietnamese / 베트남어 (6건)
+- 5 sản phẩm thuốc vi phạm, Dược phẩm Nam Hà bị phạt 125 triệu đồng - Báo Quảng Ninh
+  📰  | 🕐 Wed, 10 Jun 2026 18:38:00
+  🔗 https://news.google.com/rss/articles/CBMiowFBVV95cUxOQTN3NVhIa1ZmVGhXcjQ4aWp3bWpJRFdlY3lQN1BfdWVYYVFyR1V1cnNIS0R1WkVNZ3JaWG1LVmIyUXBmMkRhVHhNMEkwSW1YNTh2cGluVjhoSUIxeEhYQUpOa05LTDUzSDljam5aWkNFb0ZGY0p3dG9OSE9CLXpIS1I1QmN0bFdpeld5NzFTU2xidGUwbktsZmROaV9OVzFQbHFR?oc=5
+- TP. HCM mạnh tay chấn chỉnh hoạt động nhà thuốc, nhiều cơ sở dược bị xử phạt - hangthat.thuonghieuco
+  📰  | 🕐 Wed, 10 Jun 2026 09:12:00
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEQxVVl0cXgyNzJJOFBIZElLa3NVQ0hZTkU3VUZ3UHczMFZ5SG9VYU55R0NGVUVwTGYwc2xWUGVrd3VHek9oNFhYRlhsSVdvZmNjdURuYkFfX0J5V1IzN1lvbExSTExyRHQ3YTYtSHd6TDNqOGlnLUpUSXViZEJ2TktObnJ5cXBhekY3dHpWWHMzWXAzRTRXNkdUaFlFMHpUNURlTnBJeDZRLUZ3RXhYVU9LMFlPWllIM1l2V3p1czhxQThHU1Y1WXRR?oc=5
+- Khánh thành Nhà thuốc thực hành mô phỏng theo tiêu chuẩn GPP tại Khoa Dược - Vietnam.vn
+  📰  | 🕐 Wed, 10 Jun 2026 10:33:59
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxObTRjRVdYRWlLc2tZbEpRc3IxQWV1bU5lbEJhMlR0M1BZUlk3XzNJMTg0dmR3RHRDTTY1OGJEMUg0emY3amo1NE56c2I5emMtQUV0aFFYRXptVmFoZVgyVEhrZWxraUZwM2hIcTBFVFluNF9wdEsxaTRkSWMzQTVOdHZXcy1pU09FVVBxV2F3VlRXUi1pVHp0T0hIRnE5QQ?oc=5
+
+### 🇹🇭 Thai / 태국어 (6건)
+- พิธีเปิดสถานฝึกปฏิบัติงานเภสัชกรรมตามมาตรฐาน GPP ณ คณะเภสัชศาสตร์ - Vietnam.vn
+  📰  | 🕐 Wed, 10 Jun 2026 10:16:32
+  🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlh6cU1lc0RDbzd6MVAxRG9obGItNzFZZVVXTkozY0RFVDZVcGkwZE0xRm11djhWSUt2RmpyOW0yWTB1U29TNllCRFdyTU5kOXNwcDJyWERBdHl6M2RSb3RBaGkxZFVBZUFVdnBpU1VtQ0hMenFsSUcwU2NyOG8zUDRvNWRLM2tOTWdJS19kMXllbFVWR3ZTeXBQMV9UOTBlNVE?oc=5
+- ‘ปักปากกา’ กันจนบริษัทยารวย ตลาดยา GLP-1 โตแรง คาดมูลค่าแตะ 6.2 ล้านล้านบาทปี 78 ไทยมีโอกาสรับประโยช
+  📰  | 🕐 Wed, 10 Jun 2026 09:23:00
+  🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MQWNkNlExNmhGN3RwVi1GazV1RWk0dm1xYkRFTnF5MkY2TklTRWRhTW52TWphLVFCOEo0ZkNOaE1MSzlpREFfcVNpUnE2TnVxU0V1aWx5TVc2R2dqblE?oc=5
+- JSP - ข้อมูลบริษัท - ตลาดหลักทรัพย์แห่งประเทศไทย - SET
+  📰  | 🕐 Sat, 24 Sep 2022 06:39:23
+  🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcUFJVVNHaVRhdGI0amdneTNuaXgtWFdzSlZXZGJ0THJTbm1FOFpLSklpX0dyV0tFbm1PMGZXSVVtZHEyTEtSdDRuYTBJSktIbDR1ZU0wZFFTZkFTd0RQdnZ2TjdBaDlXTng5ZkJiZ200M0VCZkpaekZod0lJWE81bk5acW5ESmFrSWh3?oc=5
+
+### 🇮🇩 Indonesian / 인도네시아어 (6건)
+- 80 Persen Bahan Baku Obat Impor, DPR Desak Kemandirian Farmasi - merahputih.com
+  📰  | 🕐 Wed, 10 Jun 2026 12:05:59
+  🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxNR0hpSHRpMXcwdW1lS0xmOXlpd3pISmFaRDJUVlBwcFpxcndrUkx1cEF2Ulo3WVVjQ0VaMWpjUGd1WXRoajhSZEpCYU1qcFdsaWI3SlNKcWNwY2dSUUFoN2MtOHNmZU1TdHNibHZTR29rN01relNpSUwzdGJSMGx0NkVURXhxWnA1TTNxLV9TZkZxQ09jTG1PZFVBX1Nyd9IBngFBVV95cUxNR0hpSHRpMXcwdW1lS0xmOXlpd3pISmFaRDJUVlBwcFpxcndrUkx1cEF2Ulo3WVVjQ0VaMWpjUGd1WXRoajhSZEpCYU1qcFdsaWI3SlNKcWNwY2dSUUFoN2MtOHNmZU1TdHNibHZTR29rN01relNpSUwzdGJSMGx0NkVURXhxWnA1TTNxLV9TZkZxQ09jTG1PZFVBX1Nydw?oc=5
+- BPOM Siapkan Relaksasi untuk Tekan Biaya Produksi Obat - TVRI News
+  📰  | 🕐 Wed, 10 Jun 2026 11:56:00
+  🔗 https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWlmbUNyZFpLLUc0MGRWUmpvX2s3RHZXdlI2eHR2dDMtc3dpRG91R0Ixd3dhOHRYbmFVVG5BU0ltWlNUaUFSWXh3MklSemt2VURFeXV3bHhHaXRnVnh2aFdyTHZOejZCeGRWMHlicXFPTGFrbWNGUzRVYUVNSm82cTlad2xvb0RLbV9OcTJnVUR2MUNDY01QOUR6REJaM2s?oc=5
+- Edy Wuryanto: Pelemahan Rupiah Ancam Harga Obat dan Keberlanjutan JKN - Lingkar TV
+  📰  | 🕐 Wed, 10 Jun 2026 15:05:34
+  🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE9WS19pZXU4azhtRDVyTDd2RzVKUTJKUHd6U1NlSFo4WDJWcFBmX2pCemVDVHlXYndhYlY2SEs2LXlqdm9rczZYS2FSVjAxcXppdF92WHEwV3FTdTRwaHVJX29FQzFZVzROcTlydmsxa2dVTXVaeno0Qg?oc=5
+
+### 🇮🇳 Hindi / 힌디어 (3건)
+- दवा इंडस्ट्री में भी अमेरिका पर भारी पड़ रहा चीन‎: अमेरिकी मरीजों पर कैंसर की दवा का परीक्षण कर रही च
+  📰  | 🕐 Wed, 10 Jun 2026 11:37:24
+  🔗 https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmw4Q1VfM1Q5OFVzYVZwRURES3liU2pmU3RtOEJKVzRFMEI5QmxIWG53OXlPVnhuTUhJYlhjNFBlZi1Wb09HU2xGaENuZUxGUHlVY1VsTDExQlJ1d1RuZEdOSW1lSjg3cGFDY2R2dmlENjZ1MWhQaE1rbm5TNFJqUHZyN3NmOGZRUGZsZ1ZWWGE5QWxNNTM0Wnd6cWpkZzZmYldMT1BnSzBycjFDWnItNllqeVcwRFdFckdxdVNHekhxZW0zNS1aSXM1clXSAdIBQVVfeXFMT0JvRHluYWlaLXZMU2p0NlNKTi1FaEhtQ042a0RsSG03dHltWG9OaWFmRlhvUWFyN0h3NFpPWEFwNzFrdUEzX0V3LVBvZjh1YktZSlc1ZUF3dkFLb01nd2ozc203U3E3NnE0WVJiaFRuZ2hqR1VZc1RhaFYyRHJOa3Z2ZmhyZjZESFFnWW91ekp5Nnkya21HWGJXZTFqMEhkcmlObmVranV3NDZHZWFsczVhUmFNQ3JOTVFSQkFDaVhJM2dkcUxYSS1vdGhKMFU1UHpB?oc=5
+- सार्वजनिक स्वास्थ्य की रक्षा में योगदान देने के लिए, दवाइयों के लिए अच्छी विनिर्माण प्रथाओं पर नए पर
+  📰  | 🕐 Wed, 10 Jun 2026 15:55:47
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWdHaGlreVV4bEllVWFKVm04WnFWdjE3Y2pBTlUxdFU1cmZKaWJ1a21OLTFwNUpPM2tMdVg3V2lKc0IwV20yWGtqVUh6MDlSVVgtQUt6eG5KQk9hbmlZbmhyWHV5dzEzaTUzd21xMGhDNVNJczVZNFBNSU8yM1Y1Y2FVSnhJOW5NNTJ4OE1ITFUzNE5rR0dibDFVX3NPZU4zaFNxQmxIX3BMejI2eHNWbXV0dV9zbllsSjJKUDJqZG9OQk1CcHVv?oc=5
+- आईपी 2026 मानकों पर फार्मा उद्योग को किया गया प्रशिक्षित, 1 जुलाई से लागू होंगे नए नियम - Hindustan 
+  📰  | 🕐 Wed, 10 Jun 2026 12:28:12
+  🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaGFMcVVoWkN3UWkzSURiYmhRVWF4SFc5TjBVaVhpY1JwYjlVNk9HLUNOS1BpcnItZ1BXNURaUldOVVppNERSRHJqSEZIZ245Y2lETUUwdnJpREZNbVRuNTJ0MEQ4NzVhTEZYS3BiN2lqckVyZlA5VXdpWWx1SE02UHk2MVliSklId1VJQmVoQ1FwLXRUMmdyckVIY21yMEVqQkxJRGYyT0pvQ2xNbVpQcFJQM3RSd1NyWDN6VEs3WnpUWTNub0tIcHNKeWpSTjhzMTFScUgyTEpJR1FvR0Y3Yl9xbkRROXIyWUsxZFM0MWxIcWtIOW840gH3AUFVX3lxTE9oYUxxVWhaQ3dRaTNJRGJiaFFVYXhIVzlOMFVpWGljUnBiOVU2T0ctQ05LUGlyci1nUFc1RFpSV05VWmk0RFJEcmpIRkhnbjljaURNRTB2cmlERk1tVG41MnQwRDg3NWFMRlhLcGI3aWpyRXJmUDlVd2lZbHVITTZQeTYxWWJKSUh3VUlCZWhDUXAtdFQyZ3JyRUhjbXIwRWpCTElEZjJPSm9DbE1tWlBwUlAzdFJ3U3JYM3pUSzdaelRZM25vS0hwc0p5alJOOHMxMVJxSDJMSklHUW9HRjdiX3FuRFE5cjJZSzFkUzQxbEhxa0g5bzg?oc=5
+
+### 🇸🇦 Arabic / 아랍어 (6건)
+- توفر اللقاحات وتطوير قطاع الصناعات الدوائية في دول الجنوب العالمي - TV BRICS
+  📰  | 🕐 Wed, 10 Jun 2026 16:15:43
+  🔗 https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHhScjFNTEluUUFtMTRES25pbDhCRFdjb25DZWNzUzE0QlR3S0hvSk5WTXR3OXdEQTdVNmhfcHFHZkp4YVA0VjduSW5QMlF4dHRnU2tyMG1DNkRWenM4VlR1dFA5Ym13N0hHcG9sN2R4RHdkVWdfeUVCTVYzTTdtclJrRlhnR1htRnJKd01lcFl1a2hsNGVVcGN1Y1pvbUZEV2tkSHhQOUZFTVEzaGZF?oc=5
+- شركة Cosmos Health تُبرم اتفاقية تصنيع لصالح إحدى شركاتها التابعة - Investing.com
+  📰  | 🕐 Wed, 10 Jun 2026 19:38:00
+  🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE1TOV9XdDcxZnFmVzc5cElVZ0NjVmMtc2ZCZy1OZ3F0NWNjaDJMdUpkS2dReWxOV0VSb1lrMm9TVGJRNGd2azN4X2w4Uy1kcU1mQk9RZUVhdUdLZmVwSzVIaFZ1NVJYZ1BISm1rZGxJX2Y?oc=5
+- يجب الانتهاء بشكل عاجل من وضع التعميم الجديد بشأن ممارسات التصنيع الجيدة للأدوية للمساهمة في حماية ا
+  📰  | 🕐 Wed, 10 Jun 2026 16:40:59
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxORE5sV3lHdm9IRk1UWHNCUkZtS3lrYi1PbDFFZlZqUEp6QXBhN0l2Z2plME5GOXBPV2V5QVl1VGY4V2dkTjAzYXF5X1prUTJ4VWJsRTlJb1VubE1iMldwNXN0RjJkcVd0MUs5TkNsbGNVU1hIT3VvczdWc3FoY1Y2NlQ5OWVhTnVwT25YS2J1cF84aG1xaXdYemJNOHpsOE4yYmlOTEdrMmdtU25ERl82WEJ5bngwaFRwQVJlWkJ3VlVMbXlTQlI4?oc=5
+
+### 🇮🇱 Hebrew / 히브리어 (4건)
+- השאיפה של טבע לאקזיט של 2 מיליארד דולר הפכה לפיטורי עוד 250 עובדים - calcalist
+  📰  | 🕐 Wed, 10 Jun 2026 19:00:00
+  🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zWThrcURqYTFvZE9UOC1zT2Z5WlZQS2VCT1JrVkNZdDg0RldCZi1Mcko0Q3BBVE1oTnBQcnBOTlpjLVVWbFZwcU5MZE96d3pwY19hM05tUkQyYkdYZENtZXNHQQ?oc=5
+- לסיים בדחיפות את החוזר החדש בנושא נוהלי ייצור נאותים עבור תרופות כדי לתרום להגנה על בריאות הציבור. -
+  📰  | 🕐 Wed, 10 Jun 2026 16:10:37
+  🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ0I3eVQ3RWltQ2NiSVNLcGRmamFIRjdCUVh4WE44b0R4d2VROXp2NHZLckJ1X1dwNWRId0JwYUhUSDZJOGx4Z0xZYW50T01kbDg1eGVFMTE1M2dPUDZIUlRZWHRKbHByNUNNLTNZZXRxMVd5THNJZk1FN1pkY3htRkpRYnNiYktzZ3AweV9fRVJpSjQ4WXZDR19LVFZ1ZFR1VG4xZXRrMkpMeGhiMllqZGpkc1RzbmpQWVh0V240Mld0dndrTEJJ?oc=5
+- מאכלים שראוי ואסור לאכול עם ביצי ברווז מופרות. - Vietnam.vn
+  📰  | 🕐 Wed, 10 Jun 2026 12:05:23
+  🔗 https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDdXdGNKOExKUVA1eU80OWpIQllsS0tBMXdObldzdDFDV0VvWWc2eXlxTTVZUnB4SzVyUzNHcG9scmpsUGQ2bjdfNzctNUd0NjM0UmJoa2hoZFJycGdZZ1lldzRoVjVwWlhDWGlMdjlVR1dPSUJSZC1TZlp5R1YzdWV6OHNpYlE?oc=5
+
+### 🌏 Persian / 페르시아어
+- _(수집된 뉴스 없음)_
+
+---
+## 📊 수집 통계
+### 🇰🇷 한국어 (41건)
+- 의약품: 7건
+- 의약산업: 6건
+- 의약정책: 5건
+- 의약단체: 6건
+- 의약관련정부기관: 3건
+- 의료현장: 2건
+- 약국·약사: 1건
+- 의료정책·인력: 4건
+- 전통의학: 0건
+- 감염·보건: 7건
+### 🌐 영어 (45건)
+- Drugs & Therapies: 8건
+- Pharma Industry: 8건
+- Pharma Policy: 8건
+- Pharma Associations: 7건
+- Regulatory Agencies: 8건
+- Traditional & Complementary Medicine: 6건
+### 🌏 다국어 (59건 / 20개 언어)
+- French / 프랑스어: 3건
+- German / 독일어: 0건
+- Spanish / 스페인어: 3건
+- Italian / 이탈리아어: 3건
+- Portuguese / 포르투갈어: 3건
+- Dutch / 네덜란드어: 3건
+- Swedish / 스웨덴어: 0건
+- Polish / 폴란드어: 0건
+- Turkish / 터키어: 3건
+- Russian / 러시아어: 3건
+- Japanese / 일본어: 1건
+- Chinese Simplified / 중국어: 4건
+- Chinese Traditional / 대만: 2건
+- Vietnamese / 베트남어: 6건
+- Thai / 태국어: 6건
+- Indonesian / 인도네시아어: 6건
+- Hindi / 힌디어: 3건
+- Arabic / 아랍어: 6건
+- Hebrew / 히브리어: 4건
+- Persian / 페르시아어: 0건
+
+**📊 총계: 145건 (한국어 41 + 영어 45 + 다국어 59)**
+**💾 저장 위치:** `/home/wizmasia/workspace/mywiki/news/pharmascope/daily/2026-06-11/`

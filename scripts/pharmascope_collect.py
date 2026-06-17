@@ -17,10 +17,43 @@ PharmaScope (의약스코프) — 글로벌 의약업계·의료현장 동향 �
   10. 감염·보건 (Infection & Public Health)
   + English: Traditional & Complementary Medicine
 """
-import urllib.parse, subprocess, json, re, os, sys
+import urllib.parse, urllib.request, subprocess, json, re, os, sys
 from html import unescape
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
+
+# ===== Import Hermes 공용 도구 =====
+_HERMES_SCRIPTS = os.path.expanduser("~/.hermes/scripts")
+if _HERMES_SCRIPTS not in sys.path:
+    sys.path.insert(0, _HERMES_SCRIPTS)
+try:
+    from shorten_url import shorten_one, set_enabled
+except ImportError:
+    # Fallback: standalone 함수 (모듈 없을 때)
+    import urllib.request as _ur
+    _FALLBACK_CACHE = {}
+    def shorten_one(url):
+        if url in _FALLBACK_CACHE:
+            return _FALLBACK_CACHE[url]
+        try:
+            p = urllib.parse.urlencode({"url": url})
+            req = urllib.request.Request(f"https://tinyurl.com/api-create.php?{p}",
+                headers={"User-Agent": "Mozilla/5.0 (pharmascope)"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                short = resp.read().decode().strip()
+                if short and short.startswith("http"):
+                    _FALLBACK_CACHE[url] = short
+                    return short
+        except Exception:
+            pass
+        _FALLBACK_CACHE[url] = url
+        return url
+    def set_enabled(state): pass
+
+# ===== URL SHORTENER CONFIG (via ~/.hermes/scripts/shorten_url.py) =====
+SHORTEN_URLS = True          # False = disable URL shortening
+if not SHORTEN_URLS:
+    set_enabled(False)
 
 # ===== GIT CONFIG =====
 MYWIKI_DIR = os.path.expanduser("~/workspace/mywiki")
@@ -83,6 +116,7 @@ def is_association_media(source):
         if name.lower() in source_lower:
             return True
     return False
+
 
 # ===== SEARCH FUNCTION =====
 def search_google_news_rss(query, gl='US', hl='en', max_items=4):
@@ -428,7 +462,7 @@ for cat_name, items in kr_data.items():
             lines.append(f"   📰 {item.get('source','')} | 🕐 {item.get('date','')[:25]}")
             if item.get('snippet'):
                 lines.append(f"   💬 {item['snippet'][:100]}")
-            lines.append(f"   🔗 {item['url']}")
+            lines.append(f"   🔗 {shorten_one(item['url'])}")
     else:
         lines.append(f"\n### {cat_name}")
         lines.append("- _(수집된 뉴스 없음)_")
@@ -446,7 +480,7 @@ for cat_name, items in en_data.items():
         for item in items[:4]:
             lines.append(f"- {item['title'][:100]}")
             lines.append(f"  📰 {item.get('source','')} | 🕐 {item.get('date','')[:25]}")
-            lines.append(f"  🔗 {item['url']}")
+            lines.append(f"  🔗 {shorten_one(item['url'])}")
     else:
         lines.append(f"\n### {cat_name}")
         lines.append("- _(No news collected)_")
@@ -471,7 +505,7 @@ for label, items in ml_data.items():
         for item in items[:3]:  # 최대 3개 기사
             lines.append(f"- {item['title'][:100]}")
             lines.append(f"  📰 {item.get('source','')} | 🕐 {item.get('date','')[:25]}")
-            lines.append(f"  🔗 {item['url']}")
+            lines.append(f"  🔗 {shorten_one(item['url'])}")
     else:
         lines.append(f"\n### 🌏 {label}")
         lines.append(f"- _(수집된 뉴스 없음)_")
