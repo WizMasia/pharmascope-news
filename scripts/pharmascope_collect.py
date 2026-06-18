@@ -13,34 +13,6 @@ from html import unescape
 from datetime import datetime, timedelta, timezone
 import json, subprocess, re
 
-# ===== Import Hermes 공용 도구 (TinyURL) =====
-_HERMES_SCRIPTS = os.path.expanduser("~/.hermes/scripts")
-if _HERMES_SCRIPTS not in sys.path:
-    sys.path.insert(0, _HERMES_SCRIPTS)
-try:
-    from shorten_url import shorten_one, set_enabled
-except ImportError:
-    import urllib.request as _ur
-    _FALLBACK_CACHE = {}
-    def shorten_one(url):
-        if url in _FALLBACK_CACHE: return _FALLBACK_CACHE[url]
-        try:
-            p = urllib.parse.urlencode({"url": url})
-            req = _ur.Request(f"https://tinyurl.com/api-create.php?{p}",
-                headers={"User-Agent": "Mozilla/5.0 (pharmascope)"})
-            with _ur.urlopen(req, timeout=10) as resp:
-                short = resp.read().decode().strip()
-                if short and short.startswith("http"):
-                    _FALLBACK_CACHE[url] = short
-                    return short
-        except: pass
-        _FALLBACK_CACHE[url] = url
-        return url
-    def set_enabled(state): pass
-
-SHORTEN_URLS = True
-set_enabled(SHORTEN_URLS)
-
 # ===== GIT CONFIG =====
 MYWIKI_DIR = os.path.expanduser("~/workspace/mywiki")
 BASE_DIR = os.path.expanduser("~/workspace/mywiki/news/pharmascope")
@@ -255,7 +227,7 @@ def write_section(data, emoji_map):
             L.append(f"   📊 {item.get('evidence','')}")
             if item.get('snippet'):
                 L.append(f"   💬 {item['snippet'][:100]}")
-            L.append(f"   🔗 {shorten_one(item['url'])}")
+            L.append(f"   🔗 {item['url']}")
 
 L.append("## 🇰🇷 국내 (한국어)")
 write_section(kr_data, kr_emoji)
@@ -283,7 +255,7 @@ for label, items in ml_data.items():
         stars = item.get('stars', '⭐⭐⭐')
         L.append(f"- {stars} **[{imp}점]** {item['title'][:80]}")
         L.append(f"  📰 {item.get('source','')} | 🕐 {item.get('time','')}")
-        L.append(f"  🔗 {shorten_one(item['url'])}")
+        L.append(f"  🔗 {item['url']}")
 
 L.append("\n---")
 L.append("## 📊 수집 통계")

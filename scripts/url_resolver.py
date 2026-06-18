@@ -24,15 +24,6 @@ DATE_STR = NOW.strftime('%Y-%m-%d')
 BASE_DIR = os.path.expanduser("~/workspace/mywiki/news/pharmascope")
 DAILY_DIR = os.path.join(BASE_DIR, 'daily', DATE_STR)
 
-# ===== IMPORT Hermes 공용 URL 단축 =====
-_HERMES_SCRIPTS = os.path.expanduser("~/.hermes/scripts")
-if _HERMES_SCRIPTS not in sys.path:
-    sys.path.insert(0, _HERMES_SCRIPTS)
-try:
-    from shorten_url import shorten_one
-except ImportError:
-    def shorten_one(url): return url
-
 
 def extract_urls_for_resolution():
     """
@@ -217,7 +208,7 @@ def regenerate_report(data):
                 L.append(f"   📊 {item.get('evidence','')}")
                 if item.get('snippet'):
                     L.append(f"   💬 {item['snippet'][:100]}")
-                L.append(f"   🔗 {shorten_one(item['url'])}")
+                L.append(f"   🔗 {item['url']}")
     
     L.append("## 🇰🇷 국내 (한국어)")
     write_section(data['category'].get('korean', {}), kr_emoji)
@@ -244,7 +235,7 @@ def regenerate_report(data):
             resolved_tag = ' 🔄' if item.get('url_resolved') else ''
             L.append(f"- {stars} **[{imp}점]** {item['title'][:80]}{resolved_tag}")
             L.append(f"  📰 {item.get('source','')} | 🕐 {item.get('time','')}")
-            L.append(f"  🔗 {shorten_one(item['url'])}")
+            L.append(f"  🔗 {item['url']}")
     
     L.append("\n---")
     L.append("## 📊 수집 통계")
