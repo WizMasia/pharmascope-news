@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-18",
+  "total_articles": 719,
+  "issues": [
+    {
+      "topic": "FDA 주요 의약품 승인 러시",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 9,
+      "avg_importance": 60,
+      "key_articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US FDA approves AbbVie's rare blood cancer drug",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-abbvies-rare-blood-cancer-drug/ar-AA24dFFK?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Robots improve drug tests for catching lurking cancer cells",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/robots-improve-drug-tests-for-catching-lurking-cancer-cells/ar-AA25S4mV?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+          "importance": 65,
+          "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+        }
+      ],
+      "summary_kr": "FDA가 GSK 항생제, Roche 독감약 제네릭, AbbVie 희귀혈액암약 등 9건 승인",
+      "summary_en": "FDA approvals: GSK antibiotic, Roche flu generic, AbbVie rare blood cancer drug"
+    },
+    {
+      "topic": "방사성의약품·항암제 시장 급변",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 56,
+      "key_articles": [
+        {
+          "title": "&quot;유력한 차세대 항암제&quot;…'방사성 의약품' 급부상",
+          "importance": 70,
+          "url": "https://www.newsis.com/view/NISX20260617_0003672816"
+        },
+        {
+          "title": "항암 신약 출시로 ‘필수 항암제’ 가격 내려도…원가 아래면 품절 반복 [건강한겨레]",
+          "importance": 51,
+          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1252467.html"
+        },
+        {
+          "title": "항암&#183;만성질환 너머 첨단치료제로…K바이오 신약 기술력 '레벨업'",
+          "importance": 47,
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1707661"
+        }
+      ],
+      "summary_kr": "방사성의약품이 차세대 항암 치료제로 급부상, 퓨쳐켐 전립선암 진단 신약 식약처 허가",
+      "summary_en": "Radiopharmaceuticals as next-gen cancer therapy; Futurechem prostate cancer diagnostic approved"
+    },
+    {
+      "topic": "국내 의약품 품목허가 동향",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "퓨쳐켐, 국내 최초 전립선암 진단 신약 식약처 품목허가 승인",
+          "importance": 51,
+          "url": "https://www.asiae.co.kr/article/2026050409482026912"
+        },
+        {
+          "title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득",
+          "importance": 51,
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
+        },
+        {
+          "title": "지난해 1397개 의약품 품목허가…AI 의료기기 42% 급증",
+          "importance": 51,
+          "url": "https://www.asiae.co.kr/article/2026043015460520009"
+        }
+      ],
+      "summary_kr": "비씨월드 P-CAB 위장약 허가, 작년 1397개 품목허가 중 AI 의료기기 42% 급증",
+      "summary_en": "Domestic approval trends: BC World P-CAB, AI medical devices up 42%"
+    },
+    {
+      "topic": "GMP 실사 및 제조품질 이슈",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 53,
+      "key_articles": [
+        {
+          "title": "&quot;무균 주사제 수준&quot;…자생한방, 식약처 'GMP' 실사 통과",
+          "importance": 56,
+          "url": "https://www.fnnews.com/news/202509291614093195"
+        },
+        {
+          "title": "자생한방병원 약침원외탕전실, 한방 유일 GMP 실사 통과",
+          "importance": 51,
+          "url": "https://www.fnnews.com/news/202509290914202470"
+        }
+      ],
+      "summary_kr": "GMP 실사 통과 및 제조 품질 관리 관련 동향",
+      "summary_en": "GMP inspection and manufacturing quality compliance"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 6,
+      "en_count": 3
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 6,
+      "en_count": 4
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 11,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 14,
+      "en_count": 9
+    }
+  ],
+  "notable_absences": [],
+  "generated_at": "2026-06-18T10:15:00+09:00"
+}

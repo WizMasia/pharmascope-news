@@ -1,0 +1,765 @@
+{
+  "date": "2026-06-18",
+  "total_articles": 719,
+  "language_breakdown": {
+    "korean": {
+      "total": 300,
+      "categories": {
+        "의약품": 30,
+        "의약산업": 30,
+        "의약정책": 30,
+        "의약단체": 30,
+        "의약관련정부기관": 30,
+        "의료현장": 30,
+        "약국·약사": 30,
+        "의료정책·인력": 30,
+        "전통의학": 30,
+        "감염·보건": 30
+      }
+    },
+    "english": {
+      "total": 180,
+      "categories": {
+        "Drugs & Therapies": 30,
+        "Pharma Industry": 30,
+        "Pharma Policy": 30,
+        "Pharma Associations": 30,
+        "Regulatory Agencies": 30,
+        "Traditional & Complementary Medicine": 30
+      }
+    },
+    "multilingual": {
+      "total": 239,
+      "languages": {
+        "French / 프랑스어": 15,
+        "German / 독일어": 15,
+        "Spanish / 스페인어": 15,
+        "Italian / 이탈리아어": 15,
+        "Portuguese / 포르투갈어": 15,
+        "Dutch / 네덜란드어": 15,
+        "Swedish / 스웨덴어": 11,
+        "Polish / 폴란드어": 15,
+        "Turkish / 터키어": 15,
+        "Russian / 러시아어": 15,
+        "Japanese / 일본어": 11,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 6,
+        "Vietnamese / 베트남어": 15,
+        "Thai / 태국어": 15,
+        "Indonesian / 인도네시아어": 15,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 11,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 2
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "식약처",
+      "count": 29
+    },
+    {
+      "keyword": "신약",
+      "count": 25
+    },
+    {
+      "keyword": "허가",
+      "count": 16
+    },
+    {
+      "keyword": "약가",
+      "count": 14
+    },
+    {
+      "keyword": "임상",
+      "count": 11
+    },
+    {
+      "keyword": "수출",
+      "count": 9
+    },
+    {
+      "keyword": "급여",
+      "count": 7
+    },
+    {
+      "keyword": "한약",
+      "count": 7
+    },
+    {
+      "keyword": "CDMO",
+      "count": 7
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 6
+    },
+    {
+      "keyword": "특허",
+      "count": 6
+    },
+    {
+      "keyword": "GMP",
+      "count": 5
+    },
+    {
+      "keyword": "제네릭",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 24
+    },
+    {
+      "keyword": "pricing",
+      "count": 9
+    },
+    {
+      "keyword": "GMP",
+      "count": 8
+    },
+    {
+      "keyword": "approval",
+      "count": 6
+    },
+    {
+      "keyword": "inspection",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "patent",
+      "count": 4
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 23
+    },
+    {
+      "source": "조선일보",
+      "count": 20
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "count": 20
+    },
+    {
+      "source": "아시아경제",
+      "count": 13
+    },
+    {
+      "source": "뉴시스",
+      "count": 12
+    },
+    {
+      "source": "약사공론",
+      "count": 9
+    },
+    {
+      "source": "Medical News",
+      "count": 9
+    },
+    {
+      "source": "EBN 산업경제신문",
+      "count": 8
+    },
+    {
+      "source": "이데일리",
+      "count": 8
+    },
+    {
+      "source": "헤럴드경제",
+      "count": 8
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FiercePharma",
+      "count": 8
+    },
+    {
+      "source": "RAPS",
+      "count": 8
+    },
+    {
+      "source": "MSN",
+      "count": 7
+    },
+    {
+      "source": "JD Supra",
+      "count": 7
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 6
+    },
+    {
+      "source": "Reuters on MSN",
+      "count": 5
+    },
+    {
+      "source": "The American Journal of Managed Care",
+      "count": 5
+    },
+    {
+      "source": "CNBC",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "News Medical",
+      "count": 4
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 9,
+      "keywords": [
+        "fda",
+        "FDA",
+        "drug",
+        "approves"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "June 17 (Reuters) - The U.S. Food and Drug Administration approved the first generic version of Roche's Xofluza, a ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US FDA approves AbbVie's rare blood cancer drug",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "(Corrects to clarify the total number of patients in the study in paragraph 10) May 27 (Reuters) - The U.S. Food and Drug Administration on Wednesday approved AbbVie's drug to treat blastic ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-abbvies-rare-blood-cancer-drug/ar-AA24dFFK?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Robots improve drug tests for catching lurking cancer cells",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "(This is an excerpt of the Health Rounds newsletter, where we present latest medical studies on Tuesdays and Thursdays) By Nancy Lapid June 17 (Reuters) - We also highlight some potentially good news ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/robots-improve-drug-tests-for-catching-lurking-cancer-cells/ar-AA25S4mV?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "5mon",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+        },
+        {
+          "title": "Responding to tougher FDA standards, Recipharm debuts new facility for beta-lactam drugs",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "With the FDA tightening its guidance around the production of nonbacterial beta-lactam drugs, Swedish CDMO Recipharm is touting new efforts to stay in compliance—and a new partnership. Juggling a mix ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "4mon",
+          "url": "https://www.fiercepharma.com/manufacturing/fda-winds-changing-recipharm-debuts-purpose-built-plant-beta-lactam-drugs"
+        },
+        {
+          "title": "유한양행, 고셔병 신약 후보 'YH35995' 美 FDA 희귀의약품 지정",
+          "source": "EBN 산업경제신문",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "유한양행은 고셔병 치료제로 개발 중인 신약 후보물질 'YH35995'가 미국 식품의약국(FDA)으로부터 고셔병 적응증에 대해 희귀의약품 지정(ODD)을 받았다고 13일 밝혔다. FDA 희귀의약품 지정은 환자 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "2개월",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1705191"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "항암",
+        "항암제",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "&quot;유력한 차세대 항암제&quot;…'방사성 의약품' 급부상",
+          "source": "Newsis",
+          "importance": 70,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "[서울=뉴시스]황재희 기자 = 방사성의약품이 최근 암 치료 분야에서 차세대 치료제로 주목받으면서 이를 기존 항암제나 호르몬 요법과 병용하는 치료법이 트렌드로 떠오르고 있다. 18일 관련 업계에 따르면, 방사성의약품 병용 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "4시간",
+          "url": "https://www.newsis.com/view/NISX20260617_0003672816"
+        },
+        {
+          "title": "항암 신약 출시로 ‘필수 항암제’ 가격 내려도…원가 아래면 품절 반복 [건강한겨레]",
+          "source": "한겨레",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "최근 혈액암 치료 현장에서 필수&#183;기초 항암제 품절 상황이 반복되면서 치료 기반이 흔들리고 있다는 우려가 제기됐다. 지난달 26일 ‘2026 대한혈액학회 국제학술대회’(ICKSH 2026) 기자 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "2개월",
+          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1252467.html"
+        },
+        {
+          "title": "항암&#183;만성질환 너머 첨단치료제로…K바이오 신약 기술력 '레벨업'",
+          "source": "EBN 산업경제신문",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "국내 제약바이오 산업이 잇따른 신약 허가로 활기를 띠고 있다. 불과 며칠 간격으로 국산 신약 42호와 43호가 승인된 데 이어 하반기에는 글로벌 시장의 화두인 비만치료제 등판도 예고돼 있어 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1개월",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1707661"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "innovation",
+        "industry",
+        "says",
+        "group",
+        "drug",
+        "proposed"
+      ],
+      "articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "A proposed restriction on the use of fluorinated substances in Europe would have an “irredeemable impact” on the continent’s life sciences sector, the European Federation of Pharmaceutical Industries ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        },
+        {
+          "title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Council of the European Union has delivered its newest set of proposals meant to shake up European pharma regulations and sharpen the region's competitive edge, but the plan isn't exactly what EU ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "1y",
+          "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "허가",
+        "품목허가"
+      ],
+      "articles": [
+        {
+          "title": "퓨쳐켐, 국내 최초 전립선암 진단 신약 식약처 품목허가 승인",
+          "source": "아시아경제",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "퓨쳐켐은 4일 공시를 통해 전립선암 진단 방사성의약품 프로스타뷰주사액(플로라스타민(18F)) 신약의 품목허가 승인 소식을 밝혔다. 이번 승인을 받은 플로라스타민(18F)은 국내 총 11개 기관에서 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1개월",
+          "url": "https://www.asiae.co.kr/article/2026050409482026912"
+        },
+        {
+          "title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득",
+          "source": "EBN",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "비씨월드제약이 P-CAB (칼륨 경쟁적 위산분비 억제제) 계열 위장질환 치료제 품목허가를 획득하며 소화기 치료제 시장 공략에 나선다. 의약품 연구개발 및 생산 전문기업 비씨월드제약은 P-CAB 계열 위장질환 치료제 '보노바정 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
+        },
+        {
+          "title": "지난해 1397개 의약품 품목허가…AI 의료기기 42% 급증",
+          "source": "아시아경제",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "지난해 국내에서 허가&#183;신고된 의약품은 총 1397개 품목, 이 가운데 신약은 26개 품목이었다. 인공지능(AI) 기반 의료기기의 허가&#183;인증이 일 년 새 40% 이상 증가한 가운데 디지털치료기기의 치료 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1개월",
+          "url": "https://www.asiae.co.kr/article/2026043015460520009"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "prices",
+        "pharma",
+        "capitals",
+        "european",
+        "taps",
+        "playbook",
+        "drug",
+        "pressure",
+        "big"
+      ],
+      "articles": [
+        {
+          "title": "Analysis-big pharma taps UK playbook to pressure European capitals on drug prices",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 17 (Reuters) - Global pharmaceutical companies, facing pushback from European ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://www.msn.com/en-us/money/general/analysis-big-pharma-taps-uk-playbook-to-pressure-european-capitals-on-drug-prices/ar-AA25ROsT?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Big pharma taps UK playbook to pressure European capitals on drug prices",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Global pharmaceutical companies, facing pushback from European capitals on drug pricing, are turning to a playbook that ...",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "",
+          "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "한약",
+        "구축",
+        "발굴",
+        "대한약사회",
+        "복지위기가구"
+      ],
+      "articles": [
+        {
+          "title": "대한약사회, 복지위기가구 발굴 체계 구축 앞장",
+          "source": "Medipana News",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "대한약사회 (회장 권영희)는 지난 12일 한국사회보장정보원 (원장 김현준)과 '복지위기가구 발굴 활성화 업무협약'을 체결하고, 전국 약국을 기반으로 한 복지위기가구 조기 발견 및 연계 체계를 구축키로 했다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=412969"
+        },
+        {
+          "title": "대한약사회, 복지위기가구 발굴 나선다…약국 기반 복지안전망 구축",
+          "source": "Yakup",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "대한약사회 (회장 권영희)는 지난 12일 한국사회보장정보원 (원장 김현준)과 '복지위기가구 발굴 활성화 업무협약'을 체결하고, 약국 현장에서 포착되는 복지 위기 신호를 공공 복지 시스템과 연결하는 협력체계를 구축하기로 했다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "2일",
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=328526"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "gmp",
+        "GMP",
+        "실사",
+        "통과"
+      ],
+      "articles": [
+        {
+          "title": "&quot;무균 주사제 수준&quot;…자생한방, 식약처 'GMP' 실사 통과",
+          "source": "파이낸셜뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울=뉴시스] 류난영 기자 = 자생한방병원의 자생메디바이오센터 약침원외탕전실(센터 약침원외탕전실)은 최근 한방의료기관 원외탕전실로서는 유일하게 식품의약품안전처의 '의약품 제조 및 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "8개월",
+          "url": "https://www.fnnews.com/news/202509291614093195"
+        },
+        {
+          "title": "자생한방병원 약침원외탕전실, 한방 유일 GMP 실사 통과",
+          "source": "파이낸셜뉴스",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "[파이낸셜뉴스] 자생한방병원은 자생메디바이오센터 약침원외탕전실이 최근 한방의료기관 원외탕전실로 유일하게 식품의약품안전처의 ‘의약품 제조 및 품질관리기준(GMP)’ 실사를 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "8개월",
+          "url": "https://www.fnnews.com/news/202509290914202470"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "백신",
+        "접종",
+        "무료"
+      ],
+      "articles": [
+        {
+          "title": "일본뇌염 생백신, 2월부터 무료 접종…국가예방접종에 포함돼",
+          "source": "동아사이언스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "일본뇌염 생백신에 국가예방접종에 포함됐다. 보건복지부는 16일 행정예고된 '예방접종의 실시기준&#183;방법' 고시 일부개정안에서 이 같은 내용을 발표했다. 백신에는 사백신과 생백신(live vaccine ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "12년",
+          "url": "https://www.dongascience.com/ko/news/3509"
+        },
+        {
+          "title": "12세 남학생도 HPV 백신 무료 접종… 국가예방접종 확대",
+          "source": "조선일보",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "다음달 6일부터 12세 남성 청소년을 대상으로 사람유두종바이러스(HPV) 백신 국가예방접종 지원이 시작된다. 기존 여성 중심이던 접종 대상을 남성까지 확대한 것이다. 질병관리청은 5월 6일부터 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "2개월",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/04/17/2026041701266.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 2,
+      "keywords": [
+        "quot",
+        "바이오시밀러"
+      ],
+      "articles": [
+        {
+          "title": "[WHY] &quot;제네릭으론 한계&quot;…글로벌 바이오시밀러 M&amp;A 잇따르는 까닭은",
+          "source": "조선일보",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "최근 글로벌 제약업계에서 제네릭(합성의약품 복제약) 중심의 사업을 하던 기업들이 바이오시밀러(바이오의약품 복제약) 시장 진출을 위한 인수합병(M&amp;A)이 잇따르고 있다. 단순한 외형 확장이 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1개월",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/05/04/7IWLQ3CMZ5GYBKS3KST4Z66CRQ/"
+        },
+        {
+          "title": "美&#183;유럽 특허 만료에 점유율 높이기 나선 'K바이오시밀러'…올해는 신약도 &quot;도전&quot;",
+          "source": "조선일보",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "글로벌 제약사들의 블록버스터 신약 특허 만료가 잇따르자 국내 기업들이 바이오시밀러(복제약) 출시를 서두르고 있다. 블록버스터 신약은 보통 연 매출 10억달러(약 1조2000억원)를 넘기는 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "4개월",
+          "url": "https://biz.chosun.com/science-chosun/science/2026/02/05/GM4TENJVGEZDSMTDGQ3GGZBQGY/"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "چالش‌های زیست‌محیطی &#171;صنعت داروسازی&#187; و راه‌های کاهش آن",
+      "source": "خبرگزاری ایسنا",
+      "importance": 58,
+      "snippet": "در تحقیق جدیدی که توسط محققان ایرانی انجام شده است، پیامدهای محیط‌زیستی فعالیت‌های داروسازی، از آلودگی آب و خاک تا مدیریت ...",
+      "url": "https://www.isna.ir/news/1405031408147/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B2%DB%8C%D8%B3%D8%AA-%D9%85%D8%AD%DB%8C%D8%B7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%D9%88-%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%87%D8%B4-%D8%A2%D9%86"
+    },
+    {
+      "title": "'BIO USA 2026' 앞두고 K-제약바이오 '들썩'",
+      "source": "Yakup",
+      "importance": 56,
+      "snippet": "&#169;ChatGPT(AI로 생성한 이미지)‘BIO International Convention 2026’. 일명 바이오 USA 개막이 다가오면서 국내 제약바이오 업계가 들썩이고 있다. 올해 어떤 기업이 글로벌 빅딜을 성사시킬지 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;nid=328660"
+    },
+    {
+      "title": "의협&#183;의료배상공제조합, 오는 27일 ‘의료분쟁예방연수교육’ 개최",
+      "source": "약업닷컴",
+      "importance": 56,
+      "snippet": "최근 의료현장에서 의료분쟁 및 악성 민원 등으로 인해 의료진의 고충이 심화되고 있다. 이에 대한 법적･제도적 예방책 제시를 통해 안전한 진료환경을 조성할 수 있는 자리가 마련된다. 대한의사협회(회장･김택우)와 대한의사협회 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328673"
+    },
+    {
+      "title": "전문의 수준 끌어올린다…전공의 수련환경 혁신지원 착수",
+      "source": "이데일리",
+      "importance": 56,
+      "snippet": "보건복지부는 12일 ‘2025년 전공의 수련환경 혁신지원 사업’에 60개 수련병원이 선정되어 본격적인 수련환경 혁신을 시작한다고 11일 밝혔다. 복지부는 올해 예산으로 1175억원을 편성했다.",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01108646642299464"
+    },
+    {
+      "title": "가천대 길병원, 환자안전&#183;감염관리를 위한 손위생 증진활동 실시",
+      "source": "이데일리",
+      "importance": 56,
+      "snippet": "[이데일리 이순용 기자] 가천대 길병원(병원장 김우경)은 환자안전과 감염관리를 위한 하반기 손위생 증진활동을 17일부터 19일까지 시행했다. 가천대 길병원 감염관리실은 환자안전을 위한 ...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03650646642367688"
+    },
+    {
+      "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+      "source": "FiercePharma",
+      "importance": 56,
+      "snippet": "As pharma companies face an imminent deadline from President Donald Trump related to his &quot;Most Favored Nation&quot; (MFN) drug pricing demands, the industry's top U.S. lobbying group is touting t",
+      "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+    },
+    {
+      "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+      "source": "聯合新聞網",
+      "importance": 55,
+      "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+      "url": "https://udn.com/news/story/7270/8851185"
+    },
+    {
+      "title": "תעשיית התרופות מגלה את המיחזור",
+      "source": "globes.co.il",
+      "importance": 55,
+      "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+      "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+    },
+    {
+      "title": "韓国の医薬品流通が混乱 4％の非効率が価格押し上げ",
+      "source": "Chosunbiz",
+      "importance": 53,
+      "snippet": "一方では全身麻酔薬や麻薬類医薬品が統制なく不法流通し、他方では子どもの解熱剤がなく品切れ騒ぎが広がる。見た目には別個の事件のようだが、製薬業界と専門家は韓国の医薬品サプライチェーンの「情報不透明性」が生んだ結果だと指摘する。生産を増やしても現場では薬 ...",
+      "url": "https://biz.chosun.com/jp/jp-science/2026/06/09/MYMS4OEFBNDTTMHMVMI2MQELHA/"
+    },
+    {
+      "title": "[편집국에서] 건강보험 수가 개편, ‘재배분’만으로 필수의료 살릴 수 있을까",
+      "source": "Rapportian",
+      "importance": 52,
+      "snippet": "[라포르시안] 필수의료의 균열은 통계표보다 먼저 현장에서 드러났다. 고위험 산모는 출산할 병원을 찾아 지역을 떠나고, 응급환자는 받아줄 병원을 찾지 못한 채 구급차 안에서 시간을 보낸다. 응급실 뺑뺑이 끝에 생명을 잃었다는 ...",
+      "url": "https://www.rapportian.com/news/articleView.html?idxno=237191"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 6,
+      "en_count": 3
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 6,
+      "en_count": 4
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 11,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 14,
+      "en_count": 9
+    }
+  ]
+}
