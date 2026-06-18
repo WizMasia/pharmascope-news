@@ -1,0 +1,427 @@
+{
+  "date": "2026-06-14",
+  "total_articles": 100,
+  "language_breakdown": {
+    "korean": {
+      "total": 38,
+      "categories": {
+        "의약품": 2,
+        "의약산업": 6,
+        "의약정책": 6,
+        "의약단체": 7,
+        "의약관련정부기관": 4,
+        "의료현장": 3,
+        "약국·약사": 1,
+        "의료정책·인력": 5,
+        "전통의학": 1,
+        "감염·보건": 3
+      }
+    },
+    "english": {
+      "total": 29,
+      "categories": {
+        "Drugs & Therapies": 7,
+        "Pharma Industry": 7,
+        "Pharma Policy": 5,
+        "Pharma Associations": 3,
+        "Regulatory Agencies": 5,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 33,
+      "languages": {
+        "French / 프랑스어": 2,
+        "Spanish / 스페인어": 2,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 1,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 1,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 5,
+        "Thai / 태국어": 2,
+        "Indonesian / 인도네시아어": 4,
+        "Hindi / 힌디어": 2,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 3
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "신약",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "항암",
+      "count": 2
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "특허",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "pricing",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 4,
+      "keywords": [
+        "약사공론",
+        "약국",
+        "의약품",
+        "있다",
+        "사용오류",
+        "데이터에",
+        "예방",
+        "의존",
+        "제자리",
+        "여전히"
+      ],
+      "articles": [
+        {
+          "title": "의약품 사용오류 예방, 약국 데이터에 답 있다 - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=5"
+        },
+        {
+          "title": "폐의약품 수거 여전히 약국 의존…제도화는 '제자리' - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=5"
+        },
+        {
+          "title": "의약품 사용오류 예방, 약국 데이터에 답 있다 - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=5"
+        },
+        {
+          "title": "폐의약품 수거 여전히 약국 의존…제도화는 '제자리' - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "급여",
+        "급여화",
+        "검토"
+      ],
+      "articles": [
+        {
+          "title": "복지부, 청년층 탈모치료 건보 적용 추진···“급여화 우선순위 어긋나, 건보 원칙 훼손” 비판 - 경향신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQXgzcTJ0dWVSWTA0bm9MNWZsTmd4WXlCX1NjOG8tQnRWWnBpTFVWRTI4TFc0TXMwekdXUmFKNVM3RGdEWF81dXdUYkNMYzBmUk9hT3lLWDZIQdIBX0FVX3lxTFBCdGx1ZWEtSzVBMk",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQXgzcTJ0dWVSWTA0bm9MNWZsTmd4WXlCX1NjOG8tQnRWWnBpTFVWRTI4TFc0TXMwekdXUmFKNVM3RGdEWF81dXdUYkNMYzBmUk9hT3lLWDZIQdIBX0FVX3lxTFBCdGx1ZWEtSzVBMk1yZXc3SXBVZjd0NmhfNFp1Yi1VdTdHLXJNMk9MYjhXS0U0VzFhWWFSdmk2VU1RM25JajFYNGdrNGZ5aHZ6NUwxTXgyX0JTSXJwdDVR?oc=5"
+        },
+        {
+          "title": "정은경 \"탈모약 건보급여 검토…편의점약·비대면약배송 확대\" - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE04MWpGN1JIMHdIdVNqZjBSOGF5SkdRTE1UM2xpdGUxd003N3MyUllIU2xiZE5NZTU1WlA5cWNkbFNyR0tHTklySmhmanFuVExBaW01MHp0RDN3T1Y4TTltTnRR?oc=5\" target=\"_bl",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04MWpGN1JIMHdIdVNqZjBSOGF5SkdRTE1UM2xpdGUxd003N3MyUllIU2xiZE5NZTU1WlA5cWNkbFNyR0tHTklySmhmanFuVExBaW01MHp0RDN3T1Y4TTltTnRR?oc=5"
+        },
+        {
+          "title": "\"편의점 상비약 최대 20개·탈모 급여화 검토\"…의료개혁 '생활밀착형'으로 - 뉴스더보이스헬스케어",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAwcl80bGdoR3ctQzJuRzh3SlN2Wk1CSkQwMUd1VHU5V1BfWjVrak5JN3RDaDcyWUUtdmpKUHFYcVg1Tm5zTmRMbWhpYmF1VWhtV255engxd3p0ejZSRENsWlNRUFZ1QmdSYktjWHFrWQ",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwcl80bGdoR3ctQzJuRzh3SlN2Wk1CSkQwMUd1VHU5V1BfWjVrak5JN3RDaDcyWUUtdmpKUHFYcVg1Tm5zTmRMbWhpYmF1VWhtV255engxd3p0ejZSRENsWlNRUFZ1QmdSYktjWHFrWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "될까",
+        "탈모",
+        "정부",
+        "청년",
+        "거쳐",
+        "건강보험",
+        "공론화",
+        "결정"
+      ],
+      "articles": [
+        {
+          "title": "청년 탈모 건강보험 될까…정부, 7월 초 공론화 거쳐 결정 - 네이트",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mZFEzZjRBRE1oZGNZYmJndXVNaVZXamdHN1pjN0ttc3hrLW1nU2xUdWk3X3N5WS1uTTZjTGdvMUlnU2JZQ1dFMnprTlY0QXRsR0pj?oc=5\" target=\"_blank\">청년 탈모 건강보험 될까…정",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mZFEzZjRBRE1oZGNZYmJndXVNaVZXamdHN1pjN0ttc3hrLW1nU2xUdWk3X3N5WS1uTTZjTGdvMUlnU2JZQ1dFMnprTlY0QXRsR0pj?oc=5"
+        },
+        {
+          "title": "청년 탈모 건강보험 될까… 정부, 7월 초 공론화 거쳐 결정 - 파이낸셜뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUmZrbHl2M0hiblVPZ3JET0dNRDdfd1VXci1DcFNuUnRuMjI0SVRBZTM2cy0tZ21abThqTWNrVGk5MUhYdlRPUjFhclE4LWtERjFMdEtTNGIyQdIBXkFVX3lxTE04amlicWhyM21LRE",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WUmZrbHl2M0hiblVPZ3JET0dNRDdfd1VXci1DcFNuUnRuMjI0SVRBZTM2cy0tZ21abThqTWNrVGk5MUhYdlRPUjFhclE4LWtERjFMdEtTNGIyQdIBXkFVX3lxTE04amlicWhyM21LRE1sM0Yta2Ytdk9EYkQxd0NLMS1vRkhNcVl3NU1DSjFqOVAybnlhb1YtUXNPclg1V1NqWnZ3LTd1MkpXaDJ5SW5ZeXROeFZkQjc0amc?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "Rocket Pharma Reaps $180M From Sale of FDA Drug Review Fast Pass - MedCity News",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFmdDFzN3BCYzJUaUw5TVBCVmkwSUVVZDVSa3VvZmV2YXViTjV0Nm9FTmJuVkhGUUNnN1VHaC1SWmc3SkRjR19HQ01lQmRfSl96S0pxTUF5aVc5Wm1UUVVSMXBQMmZnVnV2OVlxWm",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFmdDFzN3BCYzJUaUw5TVBCVmkwSUVVZDVSa3VvZmV2YXViTjV0Nm9FTmJuVkhGUUNnN1VHaC1SWmc3SkRjR19HQ01lQmRfSl96S0pxTUF5aVc5Wm1UUVVSMXBQMmZnVnV2OVlxWmdoUm1UZlRHRHMteThfM2JidkJGOWNpd3lFMFFJTmoyQm9qcWFPWVpHRVgxdzcyanY0MWNB?oc=5"
+        },
+        {
+          "title": "Concord Biotech Secures USFDA Approval for Tofacitinib Tablets, Targets USD 500 Million US Market - Medical Dialogues",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamxBMkRkMTFBOExWRFNLTDNRanY4VExSakQzd3o0WERZWE5tOGpHU2pjRmRJQkU3LVhHUkhfWVRDUElPMVBnRTRBVUdkbWNndXpfcjZiZWRpRUpDMWZhTUpaT0RickVsU0FVdzhpWW",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamxBMkRkMTFBOExWRFNLTDNRanY4VExSakQzd3o0WERZWE5tOGpHU2pjRmRJQkU3LVhHUkhfWVRDUElPMVBnRTRBVUdkbWNndXpfcjZiZWRpRUpDMWZhTUpaT0RickVsU0FVdzhpWWdpY054cm9qV0xheGZJQklyOXh2WGhTeHNVaHhIajhKMWZkaTl4ZU9fT0pZWE95ZFYza25ja19reWdGSURxVExfN3lxUjdhUzFiekhTQUxZa0pmbHZMREhmUmRub0JlWi1fM2lxdjlIeEo0V3BVVGYybi1BdmNxZ1nSAewBQVVfeXFMUE5QdVNTYTVvc1M3NndmRHVWSldfdlpDS2ZOeXhwRGc0T3RxSHFWbHdIN3dlU005TWwwbVNVcVBIMUk1WXhOQ3NMRHN1SjNPbUF4QXgySENWMVJDYlR0QnZDR2Q5LUtrdF9YLWhtNGVIdHNmT2VOTUhFVi1rcFZxZzh2bmoxQVVsUFNlMHBHQ1dHQzZVRHdtMGpGTThaQTg1dXJuY0FGcUpMcnM4YnY1YS1VNEpxOTVvYlRpbzNYMmlNb1FmZjR0OTF2OWFsanQ2SjNRcV9lVndJdF92Qkh5d3hNdTVnTGJsRzVBUHc?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "therapy",
+        "cancer"
+      ],
+      "articles": [
+        {
+          "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’ - The Guardian",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTU0QjNGcDhmWVNhdGsyamd6THBTWWRWQ3BXRm9rNnVvdno5WE04YlJKWFBSNFUwVDJHUHFMRnkydDJwR1p4ZnlnQkJVbThSQ0xnbXFja0FaWUV0eHFoSm96bUhXbDFMbXpnX2k4aX",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTU0QjNGcDhmWVNhdGsyamd6THBTWWRWQ3BXRm9rNnVvdno5WE04YlJKWFBSNFUwVDJHUHFMRnkydDJwR1p4ZnlnQkJVbThSQ0xnbXFja0FaWUV0eHFoSm96bUhXbDFMbXpnX2k4aXl1UjllQlhBVkFjV2cwdjZ0UmlRNkFaRk50TFoyV05ORVN2bFpZeDc0OVo1cXg3dUdfVkpLUWtDVlQ2SlFtaFpRbQ?oc=5"
+        },
+        {
+          "title": "Breakthrough approval in prostate cancer for AstraZeneca therapy - Indian Pharma Post",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdJQ1hIZGk1N1RWU0FOcTFwbEFyaVdJRlF0UW11dnBJVTJqbXZ2MzNnZkNabFo4NVgzVk9mUjJzQXBmTE1fZWlpNGRKSTNJV1B6aHJRdUE2bmVoTlVYaVVldXFweGw2cDdLdXplOH",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdJQ1hIZGk1N1RWU0FOcTFwbEFyaVdJRlF0UW11dnBJVTJqbXZ2MzNnZkNabFo4NVgzVk9mUjJzQXBmTE1fZWlpNGRKSTNJV1B6aHJRdUE2bmVoTlVYaVVldXFweGw2cDdLdXplOHFCRGlQYjdFT1lORmdTRTNwZDlOMmJIZDBBNnU3Ni03TjdtRUIxWmJfQVZCWVlyclN1OEplbUFjTVo2elFw0gHCAUFVX3lxTE9xbXNuNkNtSmxCSmV4X2VpTHZ2a0l1Skluc2FYMTlQbWZod0ZYYTg3Z1VGOE15NzJFRkdFb19fa2o5M1d6T21UcGY4ckRYOEtSTTFTU3F2eWQ0TVkwZGNySUpVb0k5VHBmQ3VtSVdqTHlMV0pJLTZwYlhJdElIU2hPand4ZUVMd0V1QkZDWTBTZnpyampZZ0tQcnFNOURPUXotbGdmc2I0QjNHb2FjazZDTEZBaUpWc2xyRzVSZFFoWGVR?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "market",
+        "indexbox"
+      ],
+      "articles": [
+        {
+          "title": "World Nickase Cas9 Paired Protein - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmZCVzR6UDVmUXY3WlRUaUVpWTF5SlI5ZFEtYmhzamlZNzJRRzh5VzY5dF9zbGJ3UzdPMlo5YWkzS3NzbDJXMWtEbmVva29BWFE3V0Y5cWFHek01ajJqVXNyWWdXSlFuYmlXMmJZMU",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmZCVzR6UDVmUXY3WlRUaUVpWTF5SlI5ZFEtYmhzamlZNzJRRzh5VzY5dF9zbGJ3UzdPMlo5YWkzS3NzbDJXMWtEbmVva29BWFE3V0Y5cWFHek01ajJqVXNyWWdXSlFuYmlXMmJZMUtGaFRnRmNhbGwxMGZSaTlhU0RUYjdIdVpaalBvakNnV0ZtOGJGdURxQ05BZEZpeFRPRlNfU0Vla1U5TUpwbW1xY092Y3ZGM0tMWVQyWmlZZDFweXJq?oc=5"
+        },
+        {
+          "title": "Surface Plasmon Resonance Sensors Market Demand to Accelerate by 2035 Driven by Drug Discovery Expansion - IndexBox",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0Y1SUlqdEk5UkJhQzV4QXh1bEZad0hWeWNhLTdTSkE4ZEZhRzd0d0Y5bVlaN0JjTHJFSUJHVG1GMHdVSlNwM2xSajlQVWNqSWFjZ0duRmpEVkFlbFZpSkJQMXFjZ3FmcUxDSEJyV3",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0Y1SUlqdEk5UkJhQzV4QXh1bEZad0hWeWNhLTdTSkE4ZEZhRzd0d0Y5bVlaN0JjTHJFSUJHVG1GMHdVSlNwM2xSajlQVWNqSWFjZ0duRmpEVkFlbFZpSkJQMXFjZ3FmcUxDSEJyV3dOZ1VYRWVNQlN0ZjZNdnFWY0ZfNnJsWU56MG5RbzNRcXhHaFphQ2lNUnkwaVBmVmcyeV9hRHhSQTFCWVFuZmtnLTE3UUFROWtrd0ttRHNSM2tobElPRHByRVR2bnl3emM?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "K-항암신약 ‘렉라자’ 3개월 매출 250억…외래 처방 80% - 데일리팜",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcXRNV01XYXVYdkVMRGg5Ymk2ZWZ5eGZnRDNkaFJqWURkVHNNZEliZDlVSHhnd0VNakN4eXRrOW9mZjVjX19QLVhBeWpKV3ZFTUN2c3pn?oc=5\" target=\"_blank\">K-항암신약 ‘렉라자",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcXRNV01XYXVYdkVMRGg5Ymk2ZWZ5eGZnRDNkaFJqWURkVHNNZEliZDlVSHhnd0VNakN4eXRrOW9mZjVjX19QLVhBeWpKV3ZFTUN2c3pn?oc=5"
+    },
+    {
+      "title": "항암 떠났던 GSK, 16조 들고 폐암 판 복귀… HIV 의약품 특허절벽 방어전 - 메디팜스투데이",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBudXp1a1hzZExPWnNDOUdmekZ2ekNVVHlTeUxsSFJkVDFCOTQtUXlvWm1qSXlqWFREMHFPSHFPb09YaFlTNjFqTno1allwU3hlVkFmMDk3Wm1kWjBHU3NJaXJaa1BCd05P?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBudXp1a1hzZExPWnNDOUdmekZ2ekNVVHlTeUxsSFJkVDFCOTQtUXlvWm1qSXlqWFREMHFPSHFPb09YaFlTNjFqTno1allwU3hlVkFmMDk3Wm1kWjBHU3NJaXJaa1BCd05P?oc=5"
+    },
+    {
+      "title": "[여의도 여담] 다시 '임성기 정신'을 생각한다 - 뉴스더보이스헬스케어",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1mVnMzbGQzanhhSUEyNjhnMXB1c2NjX25OZTJURWpPQWQwOEZIeEo5NkxNcUJGRUNfeVB2d0JpQ2l2RmFUMGhlaTMtamdfWGUtZ2ZMdjZtV2JZYmJUX1liVnJ2Smg0a2w2M0t3MU1B?o",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mVnMzbGQzanhhSUEyNjhnMXB1c2NjX25OZTJURWpPQWQwOEZIeEo5NkxNcUJGRUNfeVB2d0JpQ2l2RmFUMGhlaTMtamdfWGUtZ2ZMdjZtV2JZYmJUX1liVnJ2Smg0a2w2M0t3MU1B?oc=5"
+    },
+    {
+      "title": "K-뷰티 열풍에 전통 제약사도 참전…신약 기술력 앞세워 뷰티 시장 공략 - ebn.co.kr",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yd29KR01oZnYyWUpvU2NueUxBYjRWdFdYU0xrcXNWZ1RxMWg5R3ZIR1JDOU45TFBEcEg1cHRNUVBXR3pKMWt6T1J3eXZ6aHlsVmRRQ21LUkxMeWVKR1M4NXZTNGF5N2Ix?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yd29KR01oZnYyWUpvU2NueUxBYjRWdFdYU0xrcXNWZ1RxMWg5R3ZIR1JDOU45TFBEcEg1cHRNUVBXR3pKMWt6T1J3eXZ6aHlsVmRRQ21LUkxMeWVKR1M4NXZTNGF5N2Ix?oc=5"
+    },
+    {
+      "title": "도매도 제약도 '부익부 빈익빈'…K-헬스케어 번지는 양극화 - 뉴스투데이",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yekZua1VvTkN5Z1JtY05uN05BNE0yOEFBWGFxSlQtTWVXazRuLVZ2b0JwVDRFNnl5ZWg2U1hlbUExVnNwOUxHeFVtaWpQQWNXY2lVZndRT3E?oc=5\" target=\"_blank\">도매도 제약도 ",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yekZua1VvTkN5Z1JtY05uN05BNE0yOEFBWGFxSlQtTWVXazRuLVZ2b0JwVDRFNnl5ZWg2U1hlbUExVnNwOUxHeFVtaWpQQWNXY2lVZndRT3E?oc=5"
+    },
+    {
+      "title": "중기부, ‘모두의 챌린지 바이오’ 참가기업 모집 - 산학뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE56SDFJRjY3M01RY3BUX0poNU1wazhJbE52bjZqaFVzZTNDMC1mR011T0pJc3NPQkcxeW00dE16QzBIMU9maGFsb0hNeE1LSzhtY1ZQX2xQcVlkMlRDaWlXTVoxbjl6clBldHNR?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SDFJRjY3M01RY3BUX0poNU1wazhJbE52bjZqaFVzZTNDMC1mR011T0pJc3NPQkcxeW00dE16QzBIMU9maGFsb0hNeE1LSzhtY1ZQX2xQcVlkMlRDaWlXTVoxbjl6clBldHNR?oc=5"
+    },
+    {
+      "title": "\"투자 한파로 얼어붙은 K바이오 구하겠다\" - 네이트",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSb2JtTnc4VzB6Q19UUUQyXzJRYWU4ZnNYRGF3cERncUI4YjZwdzQ4T20zSUJRbHZvVFZpNDlzTTJMejJJVjZrakwwalFLS0RXb01j?oc=5\" target=\"_blank\">\"투자 한파로 얼어붙은 K바",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSb2JtTnc4VzB6Q19UUUQyXzJRYWU4ZnNYRGF3cERncUI4YjZwdzQ4T20zSUJRbHZvVFZpNDlzTTJMejJJVjZrakwwalFLS0RXb01j?oc=5"
+    },
+    {
+      "title": "[논현광장_박승찬의 미·중 신냉전, 대결과 공존사이] 54. 中 바이오산업 굴기 차단 나선 美 - 네이트",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETm5DdXN0N1Q3ZDh5b2dUU0VxeXVPdE05VHpTRy0xX25VMkdGcG01TFBvTHRXWmlKNWpNU05GQXBlWGJlM1NqX2dTVHo2NDRLRE53?oc=5\" target=\"_blank\">[논현광장_박승찬의 미·중 ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETm5DdXN0N1Q3ZDh5b2dUU0VxeXVPdE05VHpTRy0xX25VMkdGcG01TFBvTHRXWmlKNWpNU05GQXBlWGJlM1NqX2dTVHo2NDRLRE53?oc=5"
+    },
+    {
+      "title": "제네릭 약가제도, 품목은 줄였지만 지출 절감은 ‘숙제’ - 의학신문",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE14WWt1V3RUNm5QWnB0ZkZPR1FoT3ZtV1FiclF5bGoxSGZFdFM0LWltX205MGhRU2xtNzl4SWg2ZUMwclpMcVRVLUVIV18zZ0NjRVBrQjlQSk5qSTJRR2V3eGhSLUs4dFpoVnc?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14WWt1V3RUNm5QWnB0ZkZPR1FoT3ZtV1FiclF5bGoxSGZFdFM0LWltX205MGhRU2xtNzl4SWg2ZUMwclpMcVRVLUVIV18zZ0NjRVBrQjlQSk5qSTJRR2V3eGhSLUs4dFpoVnc?oc=5"
+    },
+    {
+      "title": "8월부터 퇴방약 등 필수약 보상강화…하반기 계단식 인하 - 약사공론",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vYVJHLUZCaTlpZlE5Rmp3c3JyWldQc2FrUlF4SHRPYlkxdk5HVlFXaUMtSTA2MURwakNjM01SS2JiZVo1MmRrbW5RQ1ZzQVBrM0VhREM2T29hdjRKa0FXVnNtUUNrMDlNcndzZQ?oc=",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vYVJHLUZCaTlpZlE5Rmp3c3JyWldQc2FrUlF4SHRPYlkxdk5HVlFXaUMtSTA2MURwakNjM01SS2JiZVo1MmRrbW5RQ1ZzQVBrM0VhREM2T29hdjRKa0FXVnNtUUNrMDlNcndzZQ?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}

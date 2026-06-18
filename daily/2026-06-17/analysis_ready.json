@@ -1,0 +1,586 @@
+{
+  "date": "2026-06-17",
+  "total_articles": 135,
+  "language_breakdown": {
+    "korean": {
+      "total": 44,
+      "categories": {
+        "의약품": 4,
+        "의약산업": 8,
+        "의약정책": 7,
+        "의약단체": 4,
+        "의약관련정부기관": 2,
+        "의료현장": 4,
+        "약국·약사": 2,
+        "의료정책·인력": 5,
+        "전통의학": 0,
+        "감염·보건": 8
+      }
+    },
+    "english": {
+      "total": 44,
+      "categories": {
+        "Drugs & Therapies": 8,
+        "Pharma Industry": 8,
+        "Pharma Policy": 8,
+        "Pharma Associations": 8,
+        "Regulatory Agencies": 8,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 47,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 3,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 4,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 4,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 6,
+        "Thai / 태국어": 2,
+        "Indonesian / 인도네시아어": 6,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 1,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 5
+    },
+    {
+      "keyword": "급여",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "임상",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    },
+    {
+      "keyword": "ADC",
+      "count": 1
+    },
+    {
+      "keyword": "식약처",
+      "count": 1
+    },
+    {
+      "keyword": "공급망",
+      "count": 1
+    },
+    {
+      "keyword": "특허",
+      "count": 1
+    },
+    {
+      "keyword": "CDMO",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 9
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 1
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "usa",
+        "바이오",
+        "k-바이오",
+        "이중항체",
+        "출격",
+        "데일리팜",
+        "정조준",
+        "bio"
+      ],
+      "articles": [
+        {
+          "title": "K-바이오 250곳 '바이오 USA' 출격…AI·이중항체 정조준 - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UenFlNXRVODdLT0FWeFFKZWpSVlc3T2dFemhqOHVtNHAtYWdZSkdtRW9iRDlOZjVZaGFIWXhjLTU5MFU3UWNpVGlzOGgyV3R6?oc=5\" target=\"_blank\">K-바이오 250곳 '바이오 USA",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UenFlNXRVODdLT0FWeFFKZWpSVlc3T2dFemhqOHVtNHAtYWdZSkdtRW9iRDlOZjVZaGFIWXhjLTU5MFU3UWNpVGlzOGgyV3R6?oc=5"
+        },
+        {
+          "title": "K-바이오, 바이오 USA 집결…CDMO·AI·ADC로 경쟁력 부각 - CEO스코어데일리",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbjEzb3dpemxXZXVZbkF2TDRMWGhITi1RODdLTUE4bzMxQjh4Um84ZUZWUm1VY3hoSTdCY0VVanRZSDBSZWRYdmpxeFREUDkxTTRHQkIxQzByNFdsdDJndVUxSE92Q1E?oc=5\" targ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbjEzb3dpemxXZXVZbkF2TDRMWGhITi1RODdLTUE4bzMxQjh4Um84ZUZWUm1VY3hoSTdCY0VVanRZSDBSZWRYdmpxeFREUDkxTTRHQkIxQzByNFdsdDJndVUxSE92Q1E?oc=5"
+        },
+        {
+          "title": "SK바이오팜, 2026 BIO USA 참가…글로벌 파트너링 확대 및 AI 혁신 비전 소개 - 메디포뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mVzAtQTVzYnV0QWx0cWZQdzYtLVpXRHZGdXBhSm9pWmZLY0J0MmExLWhzWTYwRHRiRzh2bVFSczdsV0tRdWlHUTNicWNLb2g4eFBVelRqQ0lUd0VUSFloc0hHOHU?oc=5\" target=\"",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mVzAtQTVzYnV0QWx0cWZQdzYtLVpXRHZGdXBhSm9pWmZLY0J0MmExLWhzWTYwRHRiRzh2bVFSczdsV0tRdWlHUTNicWNLb2g4eFBVelRqQ0lUd0VUSFloc0hHOHU?oc=5"
+        },
+        {
+          "title": "K-바이오 250곳 '바이오 USA' 출격…AI·이중항체 정조준 - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UenFlNXRVODdLT0FWeFFKZWpSVlc3T2dFemhqOHVtNHAtYWdZSkdtRW9iRDlOZjVZaGFIWXhjLTU5MFU3UWNpVGlzOGgyV3R6?oc=5\" target=\"_blank\">K-바이오 250곳 '바이오 USA",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UenFlNXRVODdLT0FWeFFKZWpSVlc3T2dFemhqOHVtNHAtYWdZSkdtRW9iRDlOZjVZaGFIWXhjLTU5MFU3UWNpVGlzOGgyV3R6?oc=5"
+        },
+        {
+          "title": "2026 BIO USA 개막...'K-바이오' 첫 메인 무대 선다 - 팜뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVnJvbDhGY2JFTXZVUkZ6c2d2YmswcnA0d0lmQkFaRlBrdlJ4RHV2OGcyb1FGdGNsUWtqWnNfcmlfcHZBOFJQUnNTZDNOazhTUHg4UmVYVzUzNUxQNGxxWDRhRnhvTFRBU1VIYg?oc=",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EVnJvbDhGY2JFTXZVUkZ6c2d2YmswcnA0d0lmQkFaRlBrdlJ4RHV2OGcyb1FGdGNsUWtqWnNfcmlfcHZBOFJQUnNTZDNOazhTUHg4UmVYVzUzNUxQNGxxWDRhRnhvTFRBU1VIYg?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "한약",
+        "복지부",
+        "대한약사회",
+        "약정협의체",
+        "한약사",
+        "가동"
+      ],
+      "articles": [
+        {
+          "title": "한국사회보장정보원·대한약사회, 동네 약국으로 복지 사각지대 잡는다 - 디지털데일리",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE52aWZNS2pNMHNhWm8zakJPRGFHX2JtdXpZYWtWa1ViMmYtLTNQV2RVODBCZ2pibk11cTUtblZZUTUxUWlFaTZZZW1ISjVYQk5nZldpNmppUkhiUjBfcF9ld3d0U2M?oc=5\" target=\"",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52aWZNS2pNMHNhWm8zakJPRGFHX2JtdXpZYWtWa1ViMmYtLTNQV2RVODBCZ2pibk11cTUtblZZUTUxUWlFaTZZZW1ISjVYQk5nZldpNmppUkhiUjBfcF9ld3d0U2M?oc=5"
+        },
+        {
+          "title": "대한약사회ㆍ복지부, 한약사ㆍ창고형약국 현안 약정협의체 가동 外 - 의약뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tRnFHWk5CVTZSaHpVaW1KTnBtVkZ6ZXNHUHdsSm5QbkJSbG9EaFJ1dkszT0YyNDdZNjR3c2VWYkFrQThtTmQ5NHlSN1FKTThyV25RdjNBNmdIWDZ2WGZLeGRVUzF1TWc?oc=5\" targ",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tRnFHWk5CVTZSaHpVaW1KTnBtVkZ6ZXNHUHdsSm5QbkJSbG9EaFJ1dkszT0YyNDdZNjR3c2VWYkFrQThtTmQ5NHlSN1FKTThyV25RdjNBNmdIWDZ2WGZLeGRVUzF1TWc?oc=5"
+        },
+        {
+          "title": "약사회ㆍ복지부, 약정협의체 가동 - 의학신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbWp6RnBOeGQ0SnhOV3VZM3R4Y1NlZ0hlVXpVa05scjFHZ21NNlhibG9YRTNWVVNrVmFsUlJzemttdE5rbXduMWRzV2FEN0FzbWk0N25GdE00MzJZa0ktVVptWHYyazRMX1E?oc=5\" ",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wbWp6RnBOeGQ0SnhOV3VZM3R4Y1NlZ0hlVXpVa05scjFHZ21NNlhibG9YRTNWVVNrVmFsUlJzemttdE5rbXduMWRzV2FEN0FzbWk0N25GdE00MzJZa0ktVVptWHYyazRMX1E?oc=5"
+        },
+        {
+          "title": "복지부, 약학·한약학 교육과정 검토 착수?…한약사 문제 해결 신호탄 되나 - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZHdOSnUzMHFSVzFzTWVBd1BVeVVHSS1IQWViOUhnWTQ5RUZYS1NVdXdZT3ZTZWNtVXFiVTlKdHVQYnRUMk0wejNzc0N1d1VYd2RJLTMzUjFZUDlCX2xmbEtTQmR6QzN6VjA3OA?oc=",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZHdOSnUzMHFSVzFzTWVBd1BVeVVHSS1IQWViOUhnWTQ5RUZYS1NVdXdZT3ZTZWNtVXFiVTlKdHVQYnRUMk0wejNzc0N1d1VYd2RJLTMzUjFZUDlCX2xmbEtTQmR6QzN6VjA3OA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "항암제",
+        "항암",
+        "급여",
+        "데일리팜",
+        "늘어난",
+        "해법은",
+        "있나",
+        "쌓여가는",
+        "신약만큼",
+        "비급여"
+      ],
+      "articles": [
+        {
+          "title": "늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나? - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5\" target=\"_blank\">늘어난 신약만큼 쌓여가는 비급여 항",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5"
+        },
+        {
+          "title": "늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나? - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5\" target=\"_blank\">늘어난 신약만큼 쌓여가는 비급여 항",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5"
+        },
+        {
+          "title": "OS 데이터 부재…암질심, 항암제 급여 최대 복병 - 데일리팜",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mRTIyd1BXYkUxLUotUnJ4dDBFMnlZVDZmNDVscUhvaEJVYnFPeU56MkpLMGZnU0kzZEdqTnd6bmM4OHpLTWp6RnFiQ2VlZGdC?oc=5\" target=\"_blank\">OS 데이터 부재…암질심, 항암제 ",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mRTIyd1BXYkUxLUotUnJ4dDBFMnlZVDZmNDVscUhvaEJVYnFPeU56MkpLMGZnU0kzZEdqTnd6bmM4OHpLTWp6RnFiQ2VlZGdC?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "의사",
+        "의료계",
+        "송치에",
+        "대구",
+        "사건"
+      ],
+      "articles": [
+        {
+          "title": "대구 응급실 미수용 의사 송치에 의료계 규탄 봇물 - 의약뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12SW94bUtqRFpXYTdrX1l4Z3JjeUM2VXJYcDl3ZU1KUHVIMVpCZ2gyZ0JsOW5BbHU2eURFUXhxYlE4aFNkUGZQTk1zTVltWEg5dFlzQ3BMTzMyXzRVZzNnaW9HNjFCZzA?oc=5\" targ",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12SW94bUtqRFpXYTdrX1l4Z3JjeUM2VXJYcDl3ZU1KUHVIMVpCZ2gyZ0JsOW5BbHU2eURFUXhxYlE4aFNkUGZQTk1zTVltWEg5dFlzQ3BMTzMyXzRVZzNnaW9HNjFCZzA?oc=5"
+        },
+        {
+          "title": "대구 10대 사망 사건, 의사 2명 검찰 송치… \"의사 개인 책임 아닌 응급의료체계 붕괴의 결과\" - 경기메디뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5kY3l3MWY4ZVZHZFN1SHc2T3lTT0JvTU1PS0wzbHRFVWllWnR3UjEzWWs3czNWeE1YVGN2LUNXMFF5eGRWem1yeUgtUVRONmNlQl9uaDlsVE4xdGtrVzQyQnByLTM5c1hvZlE?oc=5\" ",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kY3l3MWY4ZVZHZFN1SHc2T3lTT0JvTU1PS0wzbHRFVWllWnR3UjEzWWs3czNWeE1YVGN2LUNXMFF5eGRWem1yeUgtUVRONmNlQl9uaDlsVE4xdGtrVzQyQnByLTM5c1hvZlE?oc=5"
+        },
+        {
+          "title": "3년 전 '뺑뺑이' 사건 의사 송치에 의료계 반발, 불기소 촉구(종합) - 뉴스1",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PTFRteURSVjN6Q1NGaEN2TE9sQjNtOHBCazh2dldNWGZjdVdXNUpEejJtampxeUo2YzFBOFJkejRCeGlUcU9QNFJrTnJRT2d0YlIza0dKVDBvb29US1hoR2tn?oc=5\" target=\"_bl",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PTFRteURSVjN6Q1NGaEN2TE9sQjNtOHBCazh2dldNWGZjdVdXNUpEejJtampxeUo2YzFBOFJkejRCeGlUcU9QNFJrTnJRT2d0YlIza0dKVDBvb29US1hoR2tn?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "헬스케어",
+        "R&D",
+        "창업주",
+        "융합으로",
+        "선언",
+        "한미그룹",
+        "신약개발",
+        "정신과",
+        "재도약",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "한미그룹, 창업주 R&D 정신과 AI 헬스케어 융합으로 신약개발 재도약 선언 - 한국AI부동산신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkOGVYcG5BRWw1a1IwdGg5WUt1cGEyNWlCN2xfMjV5N3Z1cWJsY2RSMGk2SnU1bWJBaC15ejBIMjhiTnljNTdFcnNoNk8?oc=5\" target=\"_blank\">한미그룹, 창업주 R&D 정신과 AI 헬스케",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkOGVYcG5BRWw1a1IwdGg5WUt1cGEyNWlCN2xfMjV5N3Z1cWJsY2RSMGk2SnU1bWJBaC15ejBIMjhiTnljNTdFcnNoNk8?oc=5"
+        },
+        {
+          "title": "한미그룹, 창업주 R&D 정신과 AI 헬스케어 융합으로 신약개발 재도약 선언 - toptvkorea.com",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IOFBiWGVkV04tMm5MQjQxZWRaa0ptSUZfdnFFc3lEQ0NxdllvN0NsZDhURVByWHlBWDZ4VDQwTVlxZ0FYUDVaOXhyNjRNUDA?oc=5\" target=\"_blank\">한미그룹, 창업주 R&D 정신과 AI",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IOFBiWGVkV04tMm5MQjQxZWRaa0ptSUZfdnFFc3lEQ0NxdllvN0NsZDhURVByWHlBWDZ4VDQwTVlxZ0FYUDVaOXhyNjRNUDA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "붕괴",
+        "책임",
+        "응급의료",
+        "수사",
+        "중단하라",
+        "즉각"
+      ],
+      "articles": [
+        {
+          "title": "\"응급의료 붕괴 책임 의사에게 전가 수사·처벌 즉각 중단하라\" - 의협신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE53dUROc1d4QTk1aEFudU5pdFE4S2ppSmQzSTNFelNNd1dUVW11cHg3UEQ5X0JqR3QzZVpiWlFiMGpuMEc5ZkhWMnV5YU9hMkVDSklTTUxEd01fcGVaSmVTeVhLQnJCVi1jSkVxcWliaz",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53dUROc1d4QTk1aEFudU5pdFE4S2ppSmQzSTNFelNNd1dUVW11cHg3UEQ5X0JqR3QzZVpiWlFiMGpuMEc5ZkhWMnV5YU9hMkVDSklTTUxEd01fcGVaSmVTeVhLQnJCVi1jSkVxcWliazViUQ?oc=5"
+        },
+        {
+          "title": "[기고] 응급의료 붕괴 책임 전가하는 수사∙처벌시도 즉각 중단하라 - 메디포뉴스",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMkFzSUt0S3lhOE9TMjVUc2RQZFB3Y3BlLTlDUU01VnY5NVBHWFFWSThBMTBqbVVLVnRzcmI2LW9IRWRNMXY5LWY3N01hWDd1dERESTh6ZUZZUWJLVXpoM1lqMWI?oc=5\" target=\"",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMkFzSUt0S3lhOE9TMjVUc2RQZFB3Y3BlLTlDUU01VnY5NVBHWFFWSThBMTBqbVVLVnRzcmI2LW9IRWRNMXY5LWY3N01hWDd1dERESTh6ZUZZUWJLVXpoM1lqMWI?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "법은",
+        "지위",
+        "시급",
+        "부여",
+        "찾는데",
+        "뉴스더보이스헬스케어",
+        "의료기관",
+        "따라갔다",
+        "섬을",
+        "병원선은"
+      ],
+      "articles": [
+        {
+          "title": "병원선은 섬을 찾는데 법은 못 따라갔다…“의료기관 지위 부여 시급” - 뉴스더보이스헬스케어",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZnI0eEJjUGlFZW9Eem9IVE1Ra290ZG12S0VvMFN2dnZXT0QtNGNYWjdONml4aXhaU2QxV0p0OUFDTzJsYzVFUHlYVHMwZnBzdl9DMG1td21abjJkYVdueDB3bHR5WWJqNG52Ym1n?o",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZnI0eEJjUGlFZW9Eem9IVE1Ra290ZG12S0VvMFN2dnZXT0QtNGNYWjdONml4aXhaU2QxV0p0OUFDTzJsYzVFUHlYVHMwZnBzdl9DMG1td21abjJkYVdueDB3bHR5WWJqNG52Ym1n?oc=5"
+        },
+        {
+          "title": "병원선은 섬을 찾는데 법은 못 따라갔다…“의료기관 지위 부여 시급” - 뉴스더보이스헬스케어",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZnI0eEJjUGlFZW9Eem9IVE1Ra290ZG12S0VvMFN2dnZXT0QtNGNYWjdONml4aXhaU2QxV0p0OUFDTzJsYzVFUHlYVHMwZnBzdl9DMG1td21abjJkYVdueDB3bHR5WWJqNG52Ym1n?o",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vZnI0eEJjUGlFZW9Eem9IVE1Ra290ZG12S0VvMFN2dnZXT0QtNGNYWjdONml4aXhaU2QxV0p0OUFDTzJsYzVFUHlYVHMwZnBzdl9DMG1td21abjJkYVdueDB3bHR5WWJqNG52Ym1n?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "program",
+        "FDA",
+        "fda"
+      ],
+      "articles": [
+        {
+          "title": "FDA, UK drug regulator deepen transatlantic ties with new liaison program - Fierce Pharma",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXRZOG5nWVRmblhYeVRsLVdkOS1rbVpCNUgxd1ZUNzhsYVBuUWRsN21aUU4yTlQ2U0c0SjhVNS1xbkZBUkc0MlJUUVBqQ3NxN2o0dXlsM3VqVWVJR0NLR2oyVlprZ2hQZlIybnFMX0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXRZOG5nWVRmblhYeVRsLVdkOS1rbVpCNUgxd1ZUNzhsYVBuUWRsN21aUU4yTlQ2U0c0SjhVNS1xbkZBUkc0MlJUUVBqQ3NxN2o0dXlsM3VqVWVJR0NLR2oyVlprZ2hQZlIybnFMX0wzQlFNRzBGOWFYbDFyc1Z5ZEJ0bnExR2V1Ymtia1J5MlVZSWVseTlBOGJvSXRwUXhuMUw5NWFn?oc=5"
+        },
+        {
+          "title": "FDA Rare Disease Endpoint Advancement Pilot Program Accepting Applications Through June 30, 2026 - Oncodaily",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWXZfcFJCdlFHMWg2VmJtZHBhTm1BbUdVN1dNTDRldG50ZU5TV1BPY0VuQnJVMVgtcXpaSnhQWk8xVTBHbEF2NTVLcjMxQlNCOTUxTkdudWR1RzE3R2lleUxR?oc=5\" target=\"_bl",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mWXZfcFJCdlFHMWg2VmJtZHBhTm1BbUdVN1dNTDRldG50ZU5TV1BPY0VuQnJVMVgtcXpaSnhQWk8xVTBHbEF2NTVLcjMxQlNCOTUxTkdudWR1RzE3R2lleUxR?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "'40년 난공불락' 췌장암, 생존기간 두 배 늘린 신약 등장…후속 주자 경쟁 불붙었다 - 네이트",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZ3RXN19UWVU1am5GaDFabzhoQk1WSTFVdVJibUhqaC1ObGoyVFVwS3hGX2RyWEZ1ZFUxZ1BVcm9BNEk5SVFILUNaN1hBaTNvaGVj?oc=5\" target=\"_blank\">'40년 난공불락' 췌장암,",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yZ3RXN19UWVU1am5GaDFabzhoQk1WSTFVdVJibUhqaC1ObGoyVFVwS3hGX2RyWEZ1ZFUxZ1BVcm9BNEk5SVFILUNaN1hBaTNvaGVj?oc=5"
+    },
+    {
+      "title": "속 터지는 국제학회 참석 임상교수들...\"제약 비용 지원 집행 최소 6개월\" - 뉴스더보이스헬스케어",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5kanJMLU91RndCTjJ3emFyUk14bjhucEEzSkt3MWJocC1UN3BZTk1hS0xmOXMyZWF5d1FXMU1aUlhYRFBoaUoyR3E0MFRCNG56ckhIVXlleGlGaVkxcUdDdTFUSVE0YmUwMm1BMGx3?o",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kanJMLU91RndCTjJ3emFyUk14bjhucEEzSkt3MWJocC1UN3BZTk1hS0xmOXMyZWF5d1FXMU1aUlhYRFBoaUoyR3E0MFRCNG56ckhIVXlleGlGaVkxcUdDdTFUSVE0YmUwMm1BMGx3?oc=5"
+    },
+    {
+      "title": "JW중외제약 ‘리바로젯’, 이상지질혈증 2제 복합제 시장 매출 1위 - 직썰",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uOG4yd0JsY0ZpTDJnU0hOaTM1ekM3TkROSWxYaXBENDdWbFJJdEo4bDR3X2l5TVdaWDhwY0U2WGgyM1ZYM3E3NVNWdnpOd0pNYkhrWm9xWnpCTWttRDNkTnVrUC1vRWpV0gFsQVVfeX",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uOG4yd0JsY0ZpTDJnU0hOaTM1ekM3TkROSWxYaXBENDdWbFJJdEo4bDR3X2l5TVdaWDhwY0U2WGgyM1ZYM3E3NVNWdnpOd0pNYkhrWm9xWnpCTWttRDNkTnVrUC1vRWpV0gFsQVVfeXFMUEQyV2ZUOTB6ODY2RExhSktqTTc4UDhRVkEyZzFBU01nUmJ1dXJJaVBod2h5NmFnajdWbHI0LV9iaVRsaURlUF9iNEllQUJ0VHIzSUhhY1lBSDk2S2NOT2VsdnhmSWpxdnBUY1Ft?oc=5"
+    },
+    {
+      "title": "릴리가 선택한 한미약품…추가 기술수출 가능성 주목 - 리버티코리아포스트",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VSDZTZVRlSzJxM3V2aHVSa0xrRUYtQk1nSW5lRFBYcTgyc29hVHVQQjdEOFFTbDZvb0l1QURrcUpoOHBYYk5aaHJhMHQxQjlSSWdIdjZzRUJxSmpQdTJBMEphTzHSAWdBVV95cUxPVG",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VSDZTZVRlSzJxM3V2aHVSa0xrRUYtQk1nSW5lRFBYcTgyc29hVHVQQjdEOFFTbDZvb0l1QURrcUpoOHBYYk5aaHJhMHQxQjlSSWdIdjZzRUJxSmpQdTJBMEphTzHSAWdBVV95cUxPVGptOFdscnFEVFpMelZQcWlXSWxkYmg1RUQ0QWs2X3BNVDZpQ1liTTMzcHFhSnAxZmZ6d2VfSUFSa2MtUUlWNXBUQVZSV3ZHZGxOT0pUOF9HQ2xnczl2Y083WmVsVnZJ?oc=5"
+    },
+    {
+      "title": "의약품 마진 인하·거점화에 흔들리는 공급망… 정부가 나서야 - 의학신문",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wd3YxSFN5ZGYyUnNwT21aV0dHR0lhZWE1Uk5pSG5ldFA1MXlvUG1lUEEzU1RXWmJjVVRVVVZCdkxRbndrRC1kVTZCcWhyNHFvSm9obk1jbkJZckoxaE0xNVRFMFh1bXhRQmc?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Wd3YxSFN5ZGYyUnNwT21aV0dHR0lhZWE1Uk5pSG5ldFA1MXlvUG1lUEEzU1RXWmJjVVRVVVZCdkxRbndrRC1kVTZCcWhyNHFvSm9obk1jbkJZckoxaE0xNVRFMFh1bXhRQmc?oc=5"
+    },
+    {
+      "title": "“탈모가 생존 문제냐”…탈모약 건강보험 추진에 “선심성” 비판 가중 - 쿠키메디",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hSVpFM1lfdUJkR0dUZVV0R1Y2NXpRZVRWMlV5X19oOXlqME1WQjE1SkJyV2VFQnhUV2pzU3BwQjlJVW40amVpYTczcVdrVGQyaTEzZ01Tb1phczN5MmRXT2Uwdw?oc=5\" target=\"_",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hSVpFM1lfdUJkR0dUZVV0R1Y2NXpRZVRWMlV5X19oOXlqME1WQjE1SkJyV2VFQnhUV2pzU3BwQjlJVW40amVpYTczcVdrVGQyaTEzZ01Tb1phczN5MmRXT2Uwdw?oc=5"
+    },
+    {
+      "title": "정재훈 교수 \"탈모약 급여화, 연간 최대 7000억 소모…건보재정 새 지출 늘릴 형편 아냐\" - MEDI:GATE NEWS",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NXpBMTVfSW1RNEVOQ2VNWFJibHVya1ExX04zdGlvM0prWkswOXhtNnctZVlwejAwc0VfVDkwd2VHTVBnamsyY0J0SjBnUHJFTW8wYVVCNA?oc=5\" target=\"_blank\">정재훈 교수 \"탈",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NXpBMTVfSW1RNEVOQ2VNWFJibHVya1ExX04zdGlvM0prWkswOXhtNnctZVlwejAwc0VfVDkwd2VHTVBnamsyY0J0SjBnUHJFTW8wYVVCNA?oc=5"
+    },
+    {
+      "title": "이준석 \"탈모약 1만~3만원이면 살 수 있는데, 건강보험을 왜 적용해주냐\" - 위키트리",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqSXU3UThMOHFnLXh2N19rZ01nbGpPZFZFQTh2cmFGS2lrOUthcXJFdmhOT2pnWDVXTTBkRDlWMzFscUtLRkk1bHY5U01fRW4yZ044bjBR?oc=5\" target=\"_blank\">이준석 \"탈모약 1만",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqSXU3UThMOHFnLXh2N19rZ01nbGpPZFZFQTh2cmFGS2lrOUthcXJFdmhOT2pnWDVXTTBkRDlWMzFscUtLRkk1bHY5U01fRW4yZ044bjBR?oc=5"
+    },
+    {
+      "title": "[단독] 대웅제약 ‘펙수클루’ 특허도전 레이스 개막 … 휴온스 신호탄에 우판권 경쟁 돌입 - 헬스코리아뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zeWJUZnl5TndWZEJTMkNBZHgwdGs5T0hlR09vYzdYNXdpWDRpVGZ2bnI3TlpleUUtSkZmZ0RRODdDZkNUU21ncHZCMHktd1pXMF9RejUzeHFPcUMzQ3hqeVg5WlloY2M?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zeWJUZnl5TndWZEJTMkNBZHgwdGs5T0hlR09vYzdYNXdpWDRpVGZ2bnI3TlpleUUtSkZmZ0RRODdDZkNUU21ncHZCMHktd1pXMF9RejUzeHFPcUMzQ3hqeVg5WlloY2M?oc=5"
+    },
+    {
+      "title": "약사회, 내달 ‘미래약사 AI 역량 강화’ 주제 온라인 강좌 - 데일리팜",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcmxfYnEyckN0VldsUUJQTXFWWl9ndzZLUFFTNzR1Q3RJUG1QNklkLUwxUkRjNDJmZmpGVHdRWnVsQXhGM3lNQnB1SlNKa2Zx?oc=5\" target=\"_blank\">약사회, 내달 ‘미래약사 AI 역량",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qcmxfYnEyckN0VldsUUJQTXFWWl9ndzZLUFFTNzR1Q3RJUG1QNklkLUwxUkRjNDJmZmpGVHdRWnVsQXhGM3lNQnB1SlNKa2Zx?oc=5"
+    }
+  ],
+  "cross_language_candidates": []
+}

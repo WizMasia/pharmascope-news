@@ -1,0 +1,665 @@
+{
+  "date": "2026-06-13",
+  "total_articles": 133,
+  "language_breakdown": {
+    "korean": {
+      "total": 37,
+      "categories": {
+        "의약품": 4,
+        "의약산업": 7,
+        "의약정책": 8,
+        "의약단체": 2,
+        "의약관련정부기관": 1,
+        "의료현장": 2,
+        "약국·약사": 0,
+        "의료정책·인력": 5,
+        "전통의학": 0,
+        "감염·보건": 8
+      }
+    },
+    "english": {
+      "total": 46,
+      "categories": {
+        "Drugs & Therapies": 8,
+        "Pharma Industry": 8,
+        "Pharma Policy": 8,
+        "Pharma Associations": 6,
+        "Regulatory Agencies": 8,
+        "Traditional & Complementary Medicine": 8
+      }
+    },
+    "multilingual": {
+      "total": 50,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 3,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 3,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 3,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 6,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 5,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "약가",
+      "count": 7
+    },
+    {
+      "keyword": "신약",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 3
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "식약처",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "임상",
+      "count": 1
+    },
+    {
+      "keyword": "R&D",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 4,
+      "keywords": [
+        "형간염",
+        "치료",
+        "daum",
+        "net",
+        "hbv",
+        "dna"
+      ],
+      "articles": [
+        {
+          "title": "‘B형간염’ 진료 가이드라인 개정…치료 필요한 환자 2배 증가 - v.daum.net",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LX3FqVDN3dTJBRWhNNFZuMGl4eUlGcl9sOVNXTEFhdk9ldzRYTUFtRzVWcjVVYmE0anRIbTF5UEtiYmplQmZZdUpsbkFJdGs?oc=5\" target=\"_blank\">‘B형간염’ 진료 가이드라인 개정…치",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LX3FqVDN3dTJBRWhNNFZuMGl4eUlGcl9sOVNXTEFhdk9ldzRYTUFtRzVWcjVVYmE0anRIbTF5UEtiYmplQmZZdUpsbkFJdGs?oc=5"
+        },
+        {
+          "title": "B형간염, ALT에서 HBV DNA 중심으로 전략 변화 - e-의료정보",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5iSTFjbUJydlBJM0F1ZDAwSUZlcXF1X1dHcEhNUkxrYXN4YTEtMkZNV1JVUVgtNElYMTN5R0ZUazhoX0ROc25FQW1YSFhIemdfMy15SXBZS1g1YnAyVmx2bl9jMTdlUTFEa1htTHhpNN",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iSTFjbUJydlBJM0F1ZDAwSUZlcXF1X1dHcEhNUkxrYXN4YTEtMkZNV1JVUVgtNElYMTN5R0ZUazhoX0ROc25FQW1YSFhIemdfMy15SXBZS1g1YnAyVmx2bl9jMTdlUTFEa1htTHhpNNIBb0FVX3lxTE5iSTFjbUJydlBJM0F1ZDAwSUZlcXF1X1dHcEhNUkxrYXN4YTEtMkZNV1JVUVgtNElYMTN5R0ZUazhoX0ROc25FQW1YSFhIemdfMy15SXBZS1g1YnAyVmx2bl9jMTdlUTFEa1htTHhpNA?oc=5"
+        },
+        {
+          "title": "B형간염 치료 대상 넓어진다…'간수치보다 HBV DNA 중심 판단' - 데일리한국",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFAzSGdFZjVvS3VZSlIwQU5KRWp6Z3A0TDlIREdyYnJ6MFZ1TDhZa05yNlRseVVzSWh1WlZuSWw1N1B2cHNNdGNxZzB6UmZyYUk2eEFmOUxtb3hfZmZLeGlYa0t4aWxNVVc0VU1yRC14VX",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzSGdFZjVvS3VZSlIwQU5KRWp6Z3A0TDlIREdyYnJ6MFZ1TDhZa05yNlRseVVzSWh1WlZuSWw1N1B2cHNNdGNxZzB6UmZyYUk2eEFmOUxtb3hfZmZLeGlYa0t4aWxNVVc0VU1yRC14VXh3d0HSAXNBVV95cUxQM0hnRWY1b0t1WUpSMEFOSkVqemdwNEw5SERHcmJyejBWdUw4WWtOcjZUbHlVc0lodVpWbklsNTdQdnBzTXRjcWcwelJmcmFJNnhBZjlMbW94X2ZmS3hpWGtLeGlsTVVXNFVNckQteFV4d3dB?oc=5"
+        },
+        {
+          "title": "\"국내는 의사인력 '숫자 집착'…해외는 합의 중시\" - v.daum.net",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Idm9xU3Y0VGhsVlVZLUVveFRQLWlTMnVraVNDMXJsbVVrNGlZTHN1MVJYeUJTY0RFS1c4QkZyQzE2RE1vZDVrT1M1NExNeUlGZ3VMcw?oc=5\" target=\"_blank\">\"국내는 의사인력 '숫자",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Idm9xU3Y0VGhsVlVZLUVveFRQLWlTMnVraVNDMXJsbVVrNGlZTHN1MVJYeUJTY0RFS1c4QkZyQzE2RE1vZDVrT1M1NExNeUlGZ3VMcw?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "drug",
+        "trials",
+        "discovery",
+        "companies",
+        "china"
+      ],
+      "articles": [
+        {
+          "title": "Weekly Rundown: Once-weekly HIV pill clears Phase 3 trials - Drug Discovery News",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2Q4VmtMejNiX1N0dmdnSGVtMU5rLUhjWUJicG96Nk8xdlUwNWdFTEhPOHloeHhldzNia1NFZ25Ic2xmQVZNN29xUkZ2eDRyeDdkMXpZS0FZU0Z1aWR1eHdUUDBHRlFYWDFPN1R1eT",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2Q4VmtMejNiX1N0dmdnSGVtMU5rLUhjWUJicG96Nk8xdlUwNWdFTEhPOHloeHhldzNia1NFZ25Ic2xmQVZNN29xUkZ2eDRyeDdkMXpZS0FZU0Z1aWR1eHdUUDBHRlFYWDFPN1R1eTlsMmNlc0pSUE5pMGtJb2FLa0VyU3c5cTIzQ0QtbVE0SXZtQThqRUZLR2F6eWYtUQ?oc=5"
+        },
+        {
+          "title": "Recent Federal Developments Targeting China-Linked Companies and Overseas Biotechnology Investments and Collaboration - Foley Hoag",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPMG5ic08wVEFySzZ3RTJzMWVfUnY5NXg3eFE1OXZKXzQ0bE1KY3EzQW5jZWFRUlBua0tkMzBMek5GV21mV2pfNG1TVVhTTVBjaV9XVjgtTTRDY2tNeXdMY2RRc093c2ZFaFR6XzVEOG",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMG5ic08wVEFySzZ3RTJzMWVfUnY5NXg3eFE1OXZKXzQ0bE1KY3EzQW5jZWFRUlBua0tkMzBMek5GV21mV2pfNG1TVVhTTVBjaV9XVjgtTTRDY2tNeXdMY2RRc093c2ZFaFR6XzVEOGM3WWhYMXQtVC13YmVLakVhUzRKS2E0RVN2WjhETmwtMkRKWTRuNjVvVGFaSkVVbVl1b0lfNlBlcEtUYmZYMkF3Skc4bGZmZjlwRUpRLW1BNlJUM3BUWF9hQjVnVkF4RjFXVWRsbWtXMkFTdmRFQVBDYkR1TmVBNi1QUnBEYXU5TDhycTV6dmd0aG44eHBwY0lkeEFTblRWWGM0dFNmTWRj?oc=5"
+        },
+        {
+          "title": "Peptide drug conjugates: How the Indena and Chemi partnership is delivering - Clinical Trials Arena",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2VvRlpSSEFRT3V1OVFCM0ZHaXVuRVFDMVRkWlNGcl9GdGN4NnB1WEpZdnd2dHZoeXdMdFFkWVh3T21pZjlCRjB4elVycG9PY0tUWGJyX0FTdjRCYzJURGFadkQ5d2RSQ3hKeEszem",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2VvRlpSSEFRT3V1OVFCM0ZHaXVuRVFDMVRkWlNGcl9GdGN4NnB1WEpZdnd2dHZoeXdMdFFkWVh3T21pZjlCRjB4elVycG9PY0tUWGJyX0FTdjRCYzJURGFadkQ5d2RSQ3hKeEszemFvSDk4bHpfNGVlSllOVl9PLU1NN2c3NndaemUxVEQ5Vy1oT2prWHNxUWFXbnJWRTNKT3dEbmZZV0JKNXZjNkVmS1loa290LVZxTWNnR1BR?oc=5"
+        },
+        {
+          "title": "Japan pharma companies turn to China for drug discovery, growth - Nikkei Asia",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1BZTWtFdlpibkF1UnluWUJsYUVKb0tCRDJnLXF0M2VMQ3dMTV9TNE8wOUlpT0NnX2pwcFdNQmF0czlReHlTcDFkTWtUYXZsenNxeGZ0ZGRIZHVTWk9rb296aXJSaHhvNTgxekd3Y1",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1BZTWtFdlpibkF1UnluWUJsYUVKb0tCRDJnLXF0M2VMQ3dMTV9TNE8wOUlpT0NnX2pwcFdNQmF0czlReHlTcDFkTWtUYXZsenNxeGZ0ZGRIZHVTWk9rb296aXJSaHhvNTgxekd3Y1BTbDdNZTNZYi1xNWU3WjFuU05QU2JnOFpkS09zQkN2MGxodVlsR3JSSkRqRmVjRnUybkdaR3pfVzdQSGVMaWFjVg?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "확장",
+        "원헬스",
+        "반려동물로",
+        "정밀화",
+        "오늘경제",
+        "신약",
+        "대웅",
+        "신약개발",
+        "사업",
+        "기획"
+      ],
+      "articles": [
+        {
+          "title": "[기획] 신약개발 역량 반려동물로 확장…대웅 '원헬스'의 정밀화 사업 - 오늘경제",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dD",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dDN6S3c?oc=5"
+        },
+        {
+          "title": "[기획] 신약개발 역량 반려동물로 확장…대웅 '원헬스'의 정밀화 사업 - 오늘경제",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dD",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dDN6S3c?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "현실화",
+        "키워드는",
+        "인증",
+        "혁신형",
+        "폴리뉴스",
+        "polinews",
+        "약가",
+        "절벽",
+        "생존",
+        "제약사"
+      ],
+      "articles": [
+        {
+          "title": "약가 '45% 절벽' 현실화…제약사 생존 키워드는 '혁신형 인증' - 폴리뉴스 Polinews",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdTdnN1Y0M3dianRxRGljWE00ZWlOREROXy1DSXlid1dnTUlpTXpGb2NxSklxUmVfTVBqVjlYbVpLYnVXci0wQmhCMHRqd0gxcWxrRHRhcjNjU2pYblhqcmh5ZHJ1eDV2ay1Ha0xR0g",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdTdnN1Y0M3dianRxRGljWE00ZWlOREROXy1DSXlid1dnTUlpTXpGb2NxSklxUmVfTVBqVjlYbVpLYnVXci0wQmhCMHRqd0gxcWxrRHRhcjNjU2pYblhqcmh5ZHJ1eDV2ay1Ha0xR0gFyQVVfeXFMT0ZRbGZNNGZKZ0EtZW94N2pQWHVyZUU2WV9ObEZNS1ZFc2FqX2xhR1NjTGp5X0JFQkU2X1ZhY2VYNjU1RnIyTTJQSVdhV1ItcWQxbS1BWEVvQ010RVhsWFk0cFVFb2FFVmEwWk5BTlJjNkFB?oc=5"
+        },
+        {
+          "title": "약가 '45% 절벽' 현실화…제약사 생존 키워드는 '혁신형 인증' - 폴리뉴스 Polinews",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9GUWxmTTRmSmdBLWVveDdqUFh1cmVFNllfTmxGTUtWRXNhal9sYUdTY0xqeV9CRUJFNl9WYWNlWDY1NUZyMk0yUElXYVdSLXFkMW0tQVhFb0NNdEVYbFhZNHBVRW9hRVZhMFpOQU5SYz",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GUWxmTTRmSmdBLWVveDdqUFh1cmVFNllfTmxGTUtWRXNhal9sYUdTY0xqeV9CRUJFNl9WYWNlWDY1NUZyMk0yUElXYVdSLXFkMW0tQVhFb0NNdEVYbFhZNHBVRW9hRVZhMFpOQU5SYzZBQdIBckFVX3lxTE9GUWxmTTRmSmdBLWVveDdqUFh1cmVFNllfTmxGTUtWRXNhal9sYUdTY0xqeV9CRUJFNl9WYWNlWDY1NUZyMk0yUElXYVdSLXFkMW0tQVhFb0NNdEVYbFhZNHBVRW9hRVZhMFpOQU5SYzZBQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "뜯어고쳐야",
+        "정책",
+        "만으론",
+        "약가",
+        "약사공론",
+        "약가관리",
+        "제네릭"
+      ],
+      "articles": [
+        {
+          "title": "\"약가관리 만으론 안 된다\"…제네릭 정책 뜯어고쳐야 - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=5"
+        },
+        {
+          "title": "\"약가관리 만으론 안 된다\"…제네릭 정책 뜯어고쳐야 - 약사공론",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "급여",
+        "비만",
+        "해외는",
+        "약가",
+        "인하",
+        "보험",
+        "비만약",
+        "한국은"
+      ],
+      "articles": [
+        {
+          "title": "해외는 보험 편입·약가 인하… 비만약, 한국은 왜 100% 비급여일까 - 헬스조선",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MTUFuNlpBSHl6OVRscnRreUp4ZjBraGhUYzZaVnBSTG5aMjF4ZnhaZ3oxYlNsbTJ4QnZaRFZxejE2eFRDc2xHLVVJQldmN2ZBdUQ0UXAtbkxjQUhyWDVmeTFOYWY2ZW5hS0lQNi1OYm",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MTUFuNlpBSHl6OVRscnRreUp4ZjBraGhUYzZaVnBSTG5aMjF4ZnhaZ3oxYlNsbTJ4QnZaRFZxejE2eFRDc2xHLVVJQldmN2ZBdUQ0UXAtbkxjQUhyWDVmeTFOYWY2ZW5hS0lQNi1OYmowNm84TGc?oc=5"
+        },
+        {
+          "title": "해외는 비만약 보험 적용·약가 인하, 한국은 100% 비급여 — 환자 접근성 격차 확대 - 한국AI부동산신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wY01DV00zczZJYXFQdG4tWWltaTRKTHYzS2prUzhjN3pGUzlac1BFMTBTWkpQYXZkXzc3dlhaRG50X1V2QnlwdFh0dnQ?oc=5\" target=\"_blank\">해외는 비만약 보험 적용·약가 인하, 한국은",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wY01DV00zczZJYXFQdG4tWWltaTRKTHYzS2prUzhjN3pGUzlac1BFMTBTWkpQYXZkXzc3dlhaRG50X1V2QnlwdFh0dnQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "직면",
+        "췌장암",
+        "고사",
+        "인력",
+        "담도암",
+        "수술",
+        "간암",
+        "병원신문",
+        "의정사태"
+      ],
+      "articles": [
+        {
+          "title": "의정사태 이후 간암·췌장암·담도암 수술 인력 고사 직면 - 병원신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYU9DTFNoV1hxQUVSR3oyZklFQTRDYjg3SUtuLWVIeE9FSk1hZ1JyZklEaFFkTXc5T1AwVjZOYTZXMnFqZEd4dkxUam5zRWd6a1o1TGhLTjNELTg1UGQ2cFlhZ1FCM21VV2c?oc=5\" ",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYU9DTFNoV1hxQUVSR3oyZklFQTRDYjg3SUtuLWVIeE9FSk1hZ1JyZklEaFFkTXc5T1AwVjZOYTZXMnFqZEd4dkxUam5zRWd6a1o1TGhLTjNELTg1UGQ2cFlhZ1FCM21VV2c?oc=5"
+        },
+        {
+          "title": "의정사태 이후 간암·췌장암·담도암 수술 인력 고사 직면 - 병원신문",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYU9DTFNoV1hxQUVSR3oyZklFQTRDYjg3SUtuLWVIeE9FSk1hZ1JyZklEaFFkTXc5T1AwVjZOYTZXMnFqZEd4dkxUam5zRWd6a1o1TGhLTjNELTg1UGQ2cFlhZ1FCM21VV2c?oc=5\" ",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JYU9DTFNoV1hxQUVSR3oyZklFQTRDYjg3SUtuLWVIeE9FSk1hZ1JyZklEaFFkTXc5T1AwVjZOYTZXMnFqZEd4dkxUam5zRWd6a1o1TGhLTjNELTg1UGQ2cFlhZ1FCM21VV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "설계해야",
+        "공보의",
+        "전공의",
+        "필요",
+        "지역의료",
+        "유인책",
+        "메디칼업저버",
+        "의무복무보다",
+        "강제",
+        "커리어"
+      ],
+      "articles": [
+        {
+          "title": "공보의·전공의 \"강제 의무복무보다 유인책 필요…지역의료 새 커리어 설계해야\" - 메디칼업저버",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZmdmejdxXzBmMGV2MDVlaTVwTHF3LUNGdW5sRlJNR1JJVDZNRXdiZzhabUtOVWdIZmdzdlM2cExCbEJFdU1ONWxXSFlBTGotQnlJVlo4dHZjbXVHSUQ4RlVYdUJlU0NmTkJB?oc=5\"",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZmdmejdxXzBmMGV2MDVlaTVwTHF3LUNGdW5sRlJNR1JJVDZNRXdiZzhabUtOVWdIZmdzdlM2cExCbEJFdU1ONWxXSFlBTGotQnlJVlo4dHZjbXVHSUQ4RlVYdUJlU0NmTkJB?oc=5"
+        },
+        {
+          "title": "공보의·전공의 \"강제 의무복무보다 유인책 필요…지역의료 새 커리어 설계해야\" - 메디칼업저버",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZmdmejdxXzBmMGV2MDVlaTVwTHF3LUNGdW5sRlJNR1JJVDZNRXdiZzhabUtOVWdIZmdzdlM2cExCbEJFdU1ONWxXSFlBTGotQnlJVlo4dHZjbXVHSUQ4RlVYdUJlU0NmTkJB?oc=5\"",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zZmdmejdxXzBmMGV2MDVlaTVwTHF3LUNGdW5sRlJNR1JJVDZNRXdiZzhabUtOVWdIZmdzdlM2cExCbEJFdU1ONWxXSFlBTGotQnlJVlo4dHZjbXVHSUQ4RlVYdUJlU0NmTkJB?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 2,
+      "keywords": [
+        "준비",
+        "독감백신",
+        "국가출하승인",
+        "백신"
+      ],
+      "articles": [
+        {
+          "title": "올 독감백신 2740만명분 국가출하승인 준비 - 데일리메디",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JSF9JeXZRUVpMZzdDS0RBekxMUjc2SEkydkhMaVdDQU5qa0pJODZZa3dabjcwZmFNQTMxeTBzVXNxQzFJODR3WS00S1FJMzUyRi03NXdINlJ6ZFJBYmpVTG5PTzkyU0RZ?oc=5\" tar",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JSF9JeXZRUVpMZzdDS0RBekxMUjc2SEkydkhMaVdDQU5qa0pJODZZa3dabjcwZmFNQTMxeTBzVXNxQzFJODR3WS00S1FJMzUyRi03NXdINlJ6ZFJBYmpVTG5PTzkyU0RZ?oc=5"
+        },
+        {
+          "title": "식약처, 올해 독감백신 2,740만 명분 국가출하승인 준비…전년比 190만 명분 확대 - medicalworldnews.co.kr",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUWZOQ3RxNnRaUS00ZzZieEpOVFVwX3cwaC11VlpsX0o4N2xTY1pqQUNwdHcyRE15eU1YSlhsMmNvcmdHTWF4ekZEbHVZVTUyNGhQM0hJSkllOUNoVFVyNk4zVGh4SUhCakpZ?oc=5\"",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrUWZOQ3RxNnRaUS00ZzZieEpOVFVwX3cwaC11VlpsX0o4N2xTY1pqQUNwdHcyRE15eU1YSlhsMmNvcmdHTWF4ekZEbHVZVTUyNGhQM0hJSkllOUNoVFVyNk4zVGh4SUhCakpZ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "size": 2,
+      "keywords": [
+        "cancer",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "Jazz Pharmaceuticals lung cancer drug fails main trial goal - Reuters",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjI1c0t0STFEYTFnWGJmMUcyVC1NdFpxTzRjelo4Zk96enNzSFRTc1E2NWhidjhobVBoVl9qdWxVT3Q1ZkxwTG55dFRoVENuSlhTUXBGVk0wdHBKb0ZlS0RYcUdGNmhKcnhDd2FfWj",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjI1c0t0STFEYTFnWGJmMUcyVC1NdFpxTzRjelo4Zk96enNzSFRTc1E2NWhidjhobVBoVl9qdWxVT3Q1ZkxwTG55dFRoVENuSlhTUXBGVk0wdHBKb0ZlS0RYcUdGNmhKcnhDd2FfWjV5VzJoZ0psdjdDOEFVY2JITFVvZUZMM29qeW9LZzR3SjcxTDJsOHotWHFFb3k3bnZJVXFiV0dIbF9EQWlHQWs4N1Jmb19mSTJsYXUxZUZMRVhLWTB3UzJYMVpUbw?oc=5"
+        },
+        {
+          "title": "Pharmalittle: We're reading about a discontinued cancer drug, a Novo security breach, and more - statnews.com",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjRNY2ZYZEx2THZQS2J6YUt6eVdoUExiVXl3Y3k3Y1NKWEJVVHhRVEtIdnBBc0Jtem5FWl9Icno0LUJXelJCTUtRV29GVHllT2JsNU50V0Y0Rkh5eXNHeV9yNGZ5SE9fY0Q4VmF0em",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjRNY2ZYZEx2THZQS2J6YUt6eVdoUExiVXl3Y3k3Y1NKWEJVVHhRVEtIdnBBc0Jtem5FWl9Icno0LUJXelJCTUtRV29GVHllT2JsNU50V0Y0Rkh5eXNHeV9yNGZ5SE9fY0Q4VmF0emNxRUIwdmxjYzRyN1lobXFUc2wtMjZWRlNRX0hOUEFwSDBUMGZHMmRiTktpdU0xc0ZDNEdNZTFLODl5b0k?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "size": 2,
+      "keywords": [
+        "pharma",
+        "india"
+      ],
+      "articles": [
+        {
+          "title": "Driven By Innovation, Biologics And AI, India’s Pharma Market May More Than Double To USD 130 Billion By 2030: ASSOCHAM - Outlook India",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNTZrRjNoc3lOeHFwQjJqQzBTWEl4VlZCVlE0ZWdiVWZVb2FqdndzR3NmaVl0bFlmY01jZlF2bU5XTE1MN0NWN0VKY0NfY0tHQ0oyOHREN1lHQjZhb1B6cXlqXzVwWlJDWVBGaXpVaV",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNTZrRjNoc3lOeHFwQjJqQzBTWEl4VlZCVlE0ZWdiVWZVb2FqdndzR3NmaVl0bFlmY01jZlF2bU5XTE1MN0NWN0VKY0NfY0tHQ0oyOHREN1lHQjZhb1B6cXlqXzVwWlJDWVBGaXpVaVhac01SLXE0NXcxR01aTFFucW0xdnlFM1FWTzdDSEFRbXVjbU05M1JlRjhBNDBUa0QtUGZkaWJZckowbWpFREJCczFUN19qSEZYS2JMT0tCS0R4VWhyN3UyOC00WFFHd2ZhRkcxYzRWVVV2T3VlWTBmUWh1ZktKcGJ1dlN3TDJ4TWVGNUlTbXRWbg?oc=5"
+        },
+        {
+          "title": "India’s pharma role is expanding beyond generics - The Pharma Letter",
+          "source": "",
+          "importance": 0,
+          "stars": "",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNTldmb1ZUQ0ZLOXdXQkNBZGhuU3BQUUxJX1VPZnE5SUQzQ1N6THpBeURGYkRtVzJla1ZoNENaQmJkVG8wdVpCcnBXVUJ3ZGhsS0NZaDdZSUk5ZGEzaHJ1NXM3M2FVcDM5eWM0cDVROW",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTldmb1ZUQ0ZLOXdXQkNBZGhuU3BQUUxJX1VPZnE5SUQzQ1N6THpBeURGYkRtVzJla1ZoNENaQmJkVG8wdVpCcnBXVUJ3ZGhsS0NZaDdZSUk5ZGEzaHJ1NXM3M2FVcDM5eWM0cDVROW9KeFB6WmhHRWdiS3V1R09NTEt3ZzBKdGxWYXNzQXJ6bWFXQQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "비만치료제부터 치매신약까지…지투지바이오, 파이프라인 가시화 본격화 - 핀포인트뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwaHQzTG1fUXBleFBndUZ0SU9DOWwySlctNUlEeVVBZGlILXBybnl5R2hPUlhtaTM4d0l5M2FpaGtES25IMkh5aVZLMTctM3JrazNNTmJsYUZFbW1OU0I2VWJzbkhvSlU1REV6Y0pYMm",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwaHQzTG1fUXBleFBndUZ0SU9DOWwySlctNUlEeVVBZGlILXBybnl5R2hPUlhtaTM4d0l5M2FpaGtES25IMkh5aVZLMTctM3JrazNNTmJsYUZFbW1OU0I2VWJzbkhvSlU1REV6Y0pYMmF5alNMQjRv0gF3QVVfeXFMUHBodDNMbV9RcGV4UGd1RnRJT0M5bDJKVy01SUR5VUFkaUgtcHJueXlHaE9SWG1pMzh3SXkzYWloa0RLbkgySHlpVksxNy0zcmtrM01OYmxhRkVtbU5TQjZVYnNuSG9KVTVERXpjSlgyYXlqU0xCNG8?oc=5"
+    },
+    {
+      "title": "JW중외제약, 신경발달장애 치료제 ‘DDC-02’ 성과 공개… 2028년 임상 진입 목표 - 지이코노미",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lMncweldvRV9JMndyNEdSZldXd2hValRYSWJVMTkwbnYwTy1UeE5LSnExd0pKeXlIUWp4WFM5bG1WS3lnZURTdlY4QkN2MzNGd3NWRVM2Z1pkS2c4ZE1rMEtqZk5JR1U?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lMncweldvRV9JMndyNEdSZldXd2hValRYSWJVMTkwbnYwTy1UeE5LSnExd0pKeXlIUWp4WFM5bG1WS3lnZURTdlY4QkN2MzNGd3NWRVM2Z1pkS2c4ZE1rMEtqZk5JR1U?oc=5"
+    },
+    {
+      "title": "셀트리온, 차세대 다중항체 신약 중간 연구 결과 발표 - 의약뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTTl9JSm5wZU4tU1ZYS3lmeXVZclFjYXlaX3d0RkNWN25JN3p1WEdueWhWMEZ1dnVBSU53aXhOZ3RxZmpJN2NKOUJCZnh1YkVpT3BuWldIOWpFb3ZqRWxGUkhLTEhteGc?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTTl9JSm5wZU4tU1ZYS3lmeXVZclFjYXlaX3d0RkNWN25JN3p1WEdueWhWMEZ1dnVBSU53aXhOZ3RxZmpJN2NKOUJCZnh1YkVpT3BuWldIOWpFb3ZqRWxGUkhLTEhteGc?oc=5"
+    },
+    {
+      "title": "신약 경쟁 뜨거운 제약바이오… ESG 경영 환경 변화도 눈길 - 히트뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE02N1lPUjhwWC1Da0V0WFh2c3VGMGFNMWwzSHRSMUtteTJxdEJGYlBLLWdGMHFrVGxWR0E5NWd2T2JNRXNzYklxak1OUWhkRU9DSExGYWhhM3VlNVVuRm85WGFwYmhfOVh6N2hB?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02N1lPUjhwWC1Da0V0WFh2c3VGMGFNMWwzSHRSMUtteTJxdEJGYlBLLWdGMHFrVGxWR0E5NWd2T2JNRXNzYklxak1OUWhkRU9DSExGYWhhM3VlNVVuRm85WGFwYmhfOVh6N2hB?oc=5"
+    },
+    {
+      "title": "온코닉테라퓨틱스 김존 대표, BIO USA 2026 참가 기업 발표 - 약사공론",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVFhYTnhENVNtel9iNVVpekJVSXQ0OXc4N1BLTFNvOUpzRjRhZ09UT0ltNEhQWHdzMm9uck1veXNjSkU0Y29aZXhfVmlkNXREU2pGOVZBQ0xVZ21IUTVNUE1ZcFVUMjJSRGxrTA?oc=",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVFhYTnhENVNtel9iNVVpekJVSXQ0OXc4N1BLTFNvOUpzRjRhZ09UT0ltNEhQWHdzMm9uck1veXNjSkU0Y29aZXhfVmlkNXREU2pGOVZBQ0xVZ21IUTVNUE1ZcFVUMjJSRGxrTA?oc=5"
+    },
+    {
+      "title": "서울시, 셀트리온·대원제약과 손잡고 '글로벌 바이오 스타트업' 키운다 - 청년투데이",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE02dDdGdmUzMjdJVjQ5eTVkWXhKb3h5ajFnRFVBT1h3RFllQW5Oa3BJY2ZqalVNaVpXME81bTFqMTh3d0xMZUdyYjB2QmVSamo4YVlHV29kLUhVRUZIU2V6RHhWSk4tZVU5R0E?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02dDdGdmUzMjdJVjQ5eTVkWXhKb3h5ajFnRFVBT1h3RFllQW5Oa3BJY2ZqalVNaVpXME81bTFqMTh3d0xMZUdyYjB2QmVSamo4YVlHV29kLUhVRUZIU2V6RHhWSk4tZVU5R0E?oc=5"
+    },
+    {
+      "title": "‘아첼라·배곧 단지’ 종근당, 자제 신약 R&D 승부수 띄운다 - 인사이트코리아",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9IN2stOXhfM3JwLWRvcmFJQkRPSlBKZzBQYlZqeUpZM21oQWUxUjRlWmkwYmY3RnI3YjQxdmUzWi1fVktEYllndFJ5dTFqRjhCRlBTd0FDQUQtdTBjWnRQSVNoajc4SWJMTTNFbjAxZj",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IN2stOXhfM3JwLWRvcmFJQkRPSlBKZzBQYlZqeUpZM21oQWUxUjRlWmkwYmY3RnI3YjQxdmUzWi1fVktEYllndFJ5dTFqRjhCRlBTd0FDQUQtdTBjWnRQSVNoajc4SWJMTTNFbjAxZjVNUG_SAXdBVV95cUxNNlJJeEJsLUdzQXRUUUVyNGU4cUN4TXNzTnZnaVlpZlROX0JxMW55RGsxLVBjMnZKVl9FeEhrN0xGbTVLUE9meGcwcWtxNkNpZUZNMTI1bXh5dkdBNTVmQW8tX1lCejlaQnlXLXNKSHRka2JOWEYzMA?oc=5"
+    },
+    {
+      "title": "대원제약, 서울바이오허브와 오픈이노베이션 3기 유망 스타트업 발굴 外 - 의약뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcXY5ci02bGtsdm5pZEpPS1VaakNuY2IyOHpzc0VrUUJqTnNSZTB5eE00aE1QMUlrblRQTUhndTd2cS1sQ19KQjdxeFp1azQ1bmJ3QnZuSXQxa0tCV1k0NDg5R3R4YXc?oc=5\" targ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNcXY5ci02bGtsdm5pZEpPS1VaakNuY2IyOHpzc0VrUUJqTnNSZTB5eE00aE1QMUlrblRQTUhndTd2cS1sQ19KQjdxeFp1azQ1bmJ3QnZuSXQxa0tCV1k0NDg5R3R4YXc?oc=5"
+    },
+    {
+      "title": "약가 깎으면 재정안정? \"깎아도 약품비 감소는 없더라\" - 히트뉴스",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGSjI5eFYzeDkwekQ0Q3NmdV9kaDFFS3VZUm1mZTJTY3l6RUhDV3NOZnVXeE5OQjAzMnZ1S3A1bG9lNC1Ca3Mtb2NmTkFmQWUxa182WmRIc09fNHhlNlNZdW1pMWRvdTRJakZZ?oc=5\"",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGSjI5eFYzeDkwekQ0Q3NmdV9kaDFFS3VZUm1mZTJTY3l6RUhDV3NOZnVXeE5OQjAzMnZ1S3A1bG9lNC1Ca3Mtb2NmTkFmQWUxa182WmRIc09fNHhlNlNZdW1pMWRvdTRJakZZ?oc=5"
+    },
+    {
+      "title": "[릴레이집회-267일차] \"한약사 불법행위 방치 말고 면허체계 바로 세워야\" - 약사공론",
+      "source": "",
+      "importance": 0,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYkVxQnh4TlF2VUhBcDFYQmxzUkhHcHR4QW1ISFNFSTVuQnJVTTlPVE5qaHEyeVR6LXVPUzNvRHpCOTV6VFhkcDhoOGo5aVNXdHh1RXNibkxxUC1CY3RtWXU2ZF9FZXRqcDJqSg?oc=",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hYkVxQnh4TlF2VUhBcDFYQmxzUkhHcHR4QW1ISFNFSTVuQnJVTTlPVE5qaHEyeVR6LXVPUzNvRHpCOTV6VFhkcDhoOGo5aVNXdHh1RXNibkxxUC1CY3RtWXU2ZF9FZXRqcDJqSg?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "임상",
+      "kr_count": 1,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 2
+    }
+  ]
+}

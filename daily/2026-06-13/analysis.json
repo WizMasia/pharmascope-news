@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-13",
+  "total_articles": 133,
+  "issues": [
+    {
+      "topic": "형간염",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "‘B형간염’ 진료 가이드라인 개정…치료 필요한 환자 2배 증가 - v.daum.net",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LX3FqVDN3dTJBRWhNNFZuMGl4eUlGcl9sOVNXTEFhdk9ldzRYTUFtRzVWcjVVYmE0anRIbTF5UEtiYmplQmZZdUpsbkFJdGs?oc=5",
+          "source": ""
+        },
+        {
+          "title": "B형간염, ALT에서 HBV DNA 중심으로 전략 변화 - e-의료정보",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iSTFjbUJydlBJM0F1ZDAwSUZlcXF1X1dHcEhNUkxrYXN4YTEtMkZNV1JVUVgtNElYMTN5R0ZUazhoX0ROc25FQW1YSFhIemdfMy15SXBZS1g1YnAyVmx2bl9jMTdlUTFEa1htTHhpNNIBb0FVX3lxTE5iSTFjbUJydlBJM0F1ZDAwSUZlcXF1X1dHcEhNUkxrYXN4YTEtMkZNV1JVUVgtNElYMTN5R0ZUazhoX0ROc25FQW1YSFhIemdfMy15SXBZS1g1YnAyVmx2bl9jMTdlUTFEa1htTHhpNA?oc=5",
+          "source": ""
+        },
+        {
+          "title": "B형간염 치료 대상 넓어진다…'간수치보다 HBV DNA 중심 판단' - 데일리한국",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzSGdFZjVvS3VZSlIwQU5KRWp6Z3A0TDlIREdyYnJ6MFZ1TDhZa05yNlRseVVzSWh1WlZuSWw1N1B2cHNNdGNxZzB6UmZyYUk2eEFmOUxtb3hfZmZLeGlYa0t4aWxNVVc0VU1yRC14VXh3d0HSAXNBVV95cUxQM0hnRWY1b0t1WUpSMEFOSkVqemdwNEw5SERHcmJyejBWdUw4WWtOcjZUbHlVc0lodVpWbklsNTdQdnBzTXRjcWcwelJmcmFJNnhBZjlMbW94X2ZmS3hpWGtLeGlsTVVXNFVNckQteFV4d3dB?oc=5",
+          "source": ""
+        },
+        {
+          "title": "\"국내는 의사인력 '숫자 집착'…해외는 합의 중시\" - v.daum.net",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Idm9xU3Y0VGhsVlVZLUVveFRQLWlTMnVraVNDMXJsbVVrNGlZTHN1MVJYeUJTY0RFS1c4QkZyQzE2RE1vZDVrT1M1NExNeUlGZ3VMcw?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 3건 — ‘B형간염’ 진료 가이드라인 개정…치료 필요한 환자 2배 증가 - v.daum.net"
+    },
+    {
+      "topic": "drug",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "Weekly Rundown: Once-weekly HIV pill clears Phase 3 trials - Drug Discovery News",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2Q4VmtMejNiX1N0dmdnSGVtMU5rLUhjWUJicG96Nk8xdlUwNWdFTEhPOHloeHhldzNia1NFZ25Ic2xmQVZNN29xUkZ2eDRyeDdkMXpZS0FZU0Z1aWR1eHdUUDBHRlFYWDFPN1R1eTlsMmNlc0pSUE5pMGtJb2FLa0VyU3c5cTIzQ0QtbVE0SXZtQThqRUZLR2F6eWYtUQ?oc=5",
+          "source": ""
+        },
+        {
+          "title": "Recent Federal Developments Targeting China-Linked Companies and Overseas Biotechnology Investments and Collaboration - Foley Hoag",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMG5ic08wVEFySzZ3RTJzMWVfUnY5NXg3eFE1OXZKXzQ0bE1KY3EzQW5jZWFRUlBua0tkMzBMek5GV21mV2pfNG1TVVhTTVBjaV9XVjgtTTRDY2tNeXdMY2RRc093c2ZFaFR6XzVEOGM3WWhYMXQtVC13YmVLakVhUzRKS2E0RVN2WjhETmwtMkRKWTRuNjVvVGFaSkVVbVl1b0lfNlBlcEtUYmZYMkF3Skc4bGZmZjlwRUpRLW1BNlJUM3BUWF9hQjVnVkF4RjFXVWRsbWtXMkFTdmRFQVBDYkR1TmVBNi1QUnBEYXU5TDhycTV6dmd0aG44eHBwY0lkeEFTblRWWGM0dFNmTWRj?oc=5",
+          "source": ""
+        },
+        {
+          "title": "Peptide drug conjugates: How the Indena and Chemi partnership is delivering - Clinical Trials Arena",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2VvRlpSSEFRT3V1OVFCM0ZHaXVuRVFDMVRkWlNGcl9GdGN4NnB1WEpZdnd2dHZoeXdMdFFkWVh3T21pZjlCRjB4elVycG9PY0tUWGJyX0FTdjRCYzJURGFadkQ5d2RSQ3hKeEszemFvSDk4bHpfNGVlSllOVl9PLU1NN2c3NndaemUxVEQ5Vy1oT2prWHNxUWFXbnJWRTNKT3dEbmZZV0JKNXZjNkVmS1loa290LVZxTWNnR1BR?oc=5",
+          "source": ""
+        },
+        {
+          "title": "Japan pharma companies turn to China for drug discovery, growth - Nikkei Asia",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1BZTWtFdlpibkF1UnluWUJsYUVKb0tCRDJnLXF0M2VMQ3dMTV9TNE8wOUlpT0NnX2pwcFdNQmF0czlReHlTcDFkTWtUYXZsenNxeGZ0ZGRIZHVTWk9rb296aXJSaHhvNTgxekd3Y1BTbDdNZTNZYi1xNWU3WjFuU05QU2JnOFpkS09zQkN2MGxodVlsR3JSSkRqRmVjRnUybkdaR3pfVzdQSGVMaWFjVg?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 3건 — Weekly Rundown: Once-weekly HIV pill clears Phase 3 trials -"
+    },
+    {
+      "topic": "확장",
+      "domain": "drug",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "[기획] 신약개발 역량 반려동물로 확장…대웅 '원헬스'의 정밀화 사업 - 오늘경제",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dDN6S3c?oc=5",
+          "source": ""
+        },
+        {
+          "title": "[기획] 신약개발 역량 반려동물로 확장…대웅 '원헬스'의 정밀화 사업 - 오늘경제",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNjl2VXNldTc0cXNhY2ZVU05KaXhZX2xyeWQ0QUhTakIwX2ZvcUxJei1TVmltV0JqV3VOaFBJeDlBOWQtZWQtTTUxZWtaSFNrM0tKdlZSR3RWU1FjU2RjNDVMNk1NaTMwN0hPeTV0dDN6S3c?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 1건 — [기획] 신약개발 역량 반려동물로 확장…대웅 '원헬스'의 정밀화 사업 - 오늘경제"
+    },
+    {
+      "topic": "현실화",
+      "domain": "drug",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "약가 '45% 절벽' 현실화…제약사 생존 키워드는 '혁신형 인증' - 폴리뉴스 Polinews",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vdTdnN1Y0M3dianRxRGljWE00ZWlOREROXy1DSXlid1dnTUlpTXpGb2NxSklxUmVfTVBqVjlYbVpLYnVXci0wQmhCMHRqd0gxcWxrRHRhcjNjU2pYblhqcmh5ZHJ1eDV2ay1Ha0xR0gFyQVVfeXFMT0ZRbGZNNGZKZ0EtZW94N2pQWHVyZUU2WV9ObEZNS1ZFc2FqX2xhR1NjTGp5X0JFQkU2X1ZhY2VYNjU1RnIyTTJQSVdhV1ItcWQxbS1BWEVvQ010RVhsWFk0cFVFb2FFVmEwWk5BTlJjNkFB?oc=5",
+          "source": ""
+        },
+        {
+          "title": "약가 '45% 절벽' 현실화…제약사 생존 키워드는 '혁신형 인증' - 폴리뉴스 Polinews",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GUWxmTTRmSmdBLWVveDdqUFh1cmVFNllfTmxGTUtWRXNhal9sYUdTY0xqeV9CRUJFNl9WYWNlWDY1NUZyMk0yUElXYVdSLXFkMW0tQVhFb0NNdEVYbFhZNHBVRW9hRVZhMFpOQU5SYzZBQdIBckFVX3lxTE9GUWxmTTRmSmdBLWVveDdqUFh1cmVFNllfTmxGTUtWRXNhal9sYUdTY0xqeV9CRUJFNl9WYWNlWDY1NUZyMk0yUElXYVdSLXFkMW0tQVhFb0NNdEVYbFhZNHBVRW9hRVZhMFpOQU5SYzZBQQ?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 1건 — 약가 '45% 절벽' 현실화…제약사 생존 키워드는 '혁신형 인증' - 폴리뉴스 Polinews"
+    },
+    {
+      "topic": "뜯어고쳐야",
+      "domain": "drug",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "\"약가관리 만으론 안 된다\"…제네릭 정책 뜯어고쳐야 - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=5",
+          "source": ""
+        },
+        {
+          "title": "\"약가관리 만으론 안 된다\"…제네릭 정책 뜯어고쳐야 - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94N2RFYm8tNlhyY3AxTXFXOUpEU3RWLXYxRWs4T3BQUEdOSFVUMFJNVkFrR2ZUX0d1VzMxZC05WGV6QWMxODlOeXVINFFDR0hWdllONnFZYnR6bS1EVWRCNEo5bjZXUGRzYzN6bA?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 1건 — \"약가관리 만으론 안 된다\"…제네릭 정책 뜯어고쳐야 - 약사공론"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "임상",
+      "kr_count": 1,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 2
+    }
+  ],
+  "notable_absences": [],
+  "generated_at": "2026-06-18T10:26:56+09:00"
+}

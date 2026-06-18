@@ -1,0 +1,149 @@
+{
+  "date": "2026-06-15",
+  "total_articles": 149,
+  "issues": [
+    {
+      "topic": "약국",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "의약품 사용오류 예방, 약국 데이터에 답 있다 - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=5",
+          "source": ""
+        },
+        {
+          "title": "폐의약품 수거 여전히 약국 의존…제도화는 '제자리' - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=5",
+          "source": ""
+        },
+        {
+          "title": "의약품 사용오류 예방, 약국 데이터에 답 있다 - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaDVZQWIwQTVCY2xsMnMwaHYtS3NDdldOTElkaXZWaTlkZHJYWUZpMDBNNGhxbDF2WFNxWlBaQy1ISkdMRUxZOEpqdWs0aFlQMDBSLWRqaFVjb2JMczZMb1FIb0wtSTV0aTgxRA?oc=5",
+          "source": ""
+        },
+        {
+          "title": "폐의약품 수거 여전히 약국 의존…제도화는 '제자리' - 약사공론",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TM1RXRUVIUDR5bURGMXhQbU81cXhJNEVQV3lFVmhDYXg0dk02MXRmdTFVQXJoWXdUR3ltMHR2ektBbUxQM0dMZTkzRXpiWGVkQWNvN0lLQ2FNaWU0dHJwY1BqU1VBVlB1R3V3Sg?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 3건 — 의약품 사용오류 예방, 약국 데이터에 답 있다 - 약사공론"
+    },
+    {
+      "topic": "신약",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "[바이오e종목] 화이자·릴리도 넘지 못한 ‘골관절염 신약’ 문턱…코오롱티슈진, 운명의 7월 - 조선비즈 - Chosunbiz",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb1pHcGgwU0NkektPNGJUUnlKbG8wZjVjQWtScjBLRDNEd3prYW9mbVBHY1ZBcllSeGJ2bGluVHFVbGZKYmh2SS1HSFJtZjZRak81VDcxTkFadjZSMjlQTF9ROXo1WUM0N3JvbDdWZWpxaG5WZGI3YTNIU0hBaHppOUd4cW81STjSAZsBQVVfeXFMTVhHSEtrM1JEbXRGR3JxcjgtdmZWQ2NUUjFXNEhnQWxoSTVkNHlHSWpiU0tJak1qNThvXzMzMTVYRXZ4YnhacXVoUFg4RnJWU3dNREhvRXBPUVNRR0I5X1dvc3lrMEVyUVRUSzJrcEhiQ0p0b18tbWJFV0tLeTRmbU03bDBkRmVHdjZMTEJZSGotNzhrRmNURXVOeHc?oc=5",
+          "source": ""
+        },
+        {
+          "title": "[K바이오 신약대전] '1000억 우루사' 넘은 ETC…대웅제약, '나보타·펙수클루' 힘준다 - 더구루",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41TlZYTVF3UTBrYkc4aWhpWFowSkk3NDdQX0lFcjRGMWh4MjVGSFNSS3VSWU1sWTZuS3dVSkZVekJadWZMSGRWT1RWRjYwcGFFbjA1M2FzaTN5TkROMzlJeQ?oc=5",
+          "source": ""
+        },
+        {
+          "title": "[K바이오 신약대전] '1000억 우루사' 넘은 ETC…대웅제약, '나보타·펙수클루' 힘준다 - 더구루",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41TlZYTVF3UTBrYkc4aWhpWFowSkk3NDdQX0lFcjRGMWh4MjVGSFNSS3VSWU1sWTZuS3dVSkZVekJadWZMSGRWT1RWRjYwcGFFbjA1M2FzaTN5TkROMzlJeQ?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 2건 — [바이오e종목] 화이자·릴리도 넘지 못한 ‘골관절염 신약’ 문턱…코오롱티슈진, 운명의 7월 - 조선비즈 - "
+    },
+    {
+      "topic": "급여",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "복지부, 청년층 탈모치료 건보 적용 추진···“급여화 우선순위 어긋나, 건보 원칙 훼손” 비판 - 경향신문",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xQXgzcTJ0dWVSWTA0bm9MNWZsTmd4WXlCX1NjOG8tQnRWWnBpTFVWRTI4TFc0TXMwekdXUmFKNVM3RGdEWF81dXdUYkNMYzBmUk9hT3lLWDZIQdIBX0FVX3lxTFBCdGx1ZWEtSzVBMk1yZXc3SXBVZjd0NmhfNFp1Yi1VdTdHLXJNMk9MYjhXS0U0VzFhWWFSdmk2VU1RM25JajFYNGdrNGZ5aHZ6NUwxTXgyX0JTSXJwdDVR?oc=5",
+          "source": ""
+        },
+        {
+          "title": "정은경 \"탈모약 건보급여 검토…편의점약·비대면약배송 확대\" - 데일리팜",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04MWpGN1JIMHdIdVNqZjBSOGF5SkdRTE1UM2xpdGUxd003N3MyUllIU2xiZE5NZTU1WlA5cWNkbFNyR0tHTklySmhmanFuVExBaW01MHp0RDN3T1Y4TTltTnRR?oc=5",
+          "source": ""
+        },
+        {
+          "title": "\"편의점 상비약 최대 20개·탈모 급여화 검토\"…의료개혁 '생활밀착형'으로 - 뉴스더보이스헬스케어",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwcl80bGdoR3ctQzJuRzh3SlN2Wk1CSkQwMUd1VHU5V1BfWjVrak5JN3RDaDcyWUUtdmpKUHFYcVg1Tm5zTmRMbWhpYmF1VWhtV255engxd3p0ejZSRENsWlNRUFZ1QmdSYktjWHFrWQ?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 2건 — 복지부, 청년층 탈모치료 건보 적용 추진···“급여화 우선순위 어긋나, 건보 원칙 훼손” 비판 - 경향신문"
+    },
+    {
+      "topic": "쿠키뉴스",
+      "domain": "regulatory",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "美 FDA 7년 독점권 따냈다…K-희귀약, 개발 탄력 붙나 - 쿠키뉴스",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1icVF0Y2JzM1E2UUFoQ0MtYVlYUERYWk1RdXJqaldHd29KMjA2U21TbWY1SzNwdGVKV3dSVHpybEU5ek4xVlE3UTdlWkJ6Yi1DSnJpMHRjeXpveDRaclVXTHlJSQ?oc=5",
+          "source": ""
+        },
+        {
+          "title": "‘1시간→5분’ SC 제형 의약품 개발 가속…“글로벌 블록버스터 도전” - 쿠키뉴스",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YT2JkcmxIQlBrWkh4X2lQUlVpZEdLQ0taWE41OTVnWS1XU1YxeC1hRUw5WUdQTFhUeWFGRWxaMXh5a0NWQUxfTUJzMEl5NVo0WnVKYWJKYWI1MFZTZDQtNXQtRQ?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 1건 — 美 FDA 7년 독점권 따냈다…K-희귀약, 개발 탄력 붙나 - 쿠키뉴스"
+    },
+    {
+      "topic": "다품목",
+      "domain": "policy",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 0,
+      "key_articles": [
+        {
+          "title": "다품목 등재관리, 건보개혁인가 산업충격인가 - 팜뉴스",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2MDU0TGhSN244aWVSX0VCV2VXNEZ5V3ZXRGpMQmExUzlLNlJnNE1iSW43aFZSZ1VSV1d5T1NYZG1zSnl4NjQyX3RnM3E0TkVqQmtKZUlIdU1aWnljaFQ0VXU1cFFrcmphdHpubw?oc=5",
+          "source": ""
+        },
+        {
+          "title": "다품목 등재관리, 건보개혁인가 산업충격인가 - 팜뉴스",
+          "importance": 0,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2MDU0TGhSN244aWVSX0VCV2VXNEZ5V3ZXRGpMQmExUzlLNlJnNE1iSW43aFZSZ1VSV1d5T1NYZG1zSnl4NjQyX3RnM3E0TkVqQmtKZUlIdU1aWnljaFQ0VXU1cFFrcmphdHpubw?oc=5",
+          "source": ""
+        }
+      ],
+      "summary_kr": " 외 1건 — 다품목 등재관리, 건보개혁인가 산업충격인가 - 팜뉴스"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 2
+    }
+  ],
+  "notable_absences": [],
+  "generated_at": "2026-06-18T10:26:56+09:00"
+}
