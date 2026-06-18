@@ -12,7 +12,8 @@
         {
           "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
           "importance": 67,
-          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp",
+          "short_url": "https://tinyurl.com/24jeou4c"
         },
         {
           "title": "FDA approves first generic version of Roche's flu drug",
@@ -48,12 +49,14 @@
         {
           "title": "&quot;유력한 차세대 항암제&quot;…'방사성 의약품' 급부상",
           "importance": 70,
-          "url": "https://www.newsis.com/view/NISX20260617_0003672816"
+          "url": "https://www.newsis.com/view/NISX20260617_0003672816",
+          "short_url": "https://tinyurl.com/22rvo4ns"
         },
         {
           "title": "항암 신약 출시로 ‘필수 항암제’ 가격 내려도…원가 아래면 품절 반복 [건강한겨레]",
           "importance": 51,
-          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1252467.html"
+          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1252467.html",
+          "short_url": "https://tinyurl.com/29nabbfs"
         },
         {
           "title": "항암&#183;만성질환 너머 첨단치료제로…K바이오 신약 기술력 '레벨업'",
@@ -74,7 +77,8 @@
         {
           "title": "퓨쳐켐, 국내 최초 전립선암 진단 신약 식약처 품목허가 승인",
           "importance": 51,
-          "url": "https://www.asiae.co.kr/article/2026050409482026912"
+          "url": "https://www.asiae.co.kr/article/2026050409482026912",
+          "short_url": "https://tinyurl.com/238r9rwy"
         },
         {
           "title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득",
@@ -84,7 +88,8 @@
         {
           "title": "지난해 1397개 의약품 품목허가…AI 의료기기 42% 급증",
           "importance": 51,
-          "url": "https://www.asiae.co.kr/article/2026043015460520009"
+          "url": "https://www.asiae.co.kr/article/2026043015460520009",
+          "short_url": "https://tinyurl.com/285xzo9b"
         }
       ],
       "summary_kr": "비씨월드 P-CAB 위장약 허가, 작년 1397개 품목허가 중 AI 의료기기 42% 급증",
@@ -139,6 +144,12 @@
       "en_count": 9
     }
   ],
-  "notable_absences": [],
-  "generated_at": "2026-06-18T10:15:00+09:00"
+  "notable_absences": [
+    "비만치료제(GLP-1) 관련 기사가 예상보다 적음 — 위고비·마운자로 이슈가 최근 소강상태",
+    "국내 의료정책·의료개혁 관련 대형 이슈 부재"
+  ],
+  "generated_at": "2026-06-18T10:15:00+09:00",
+  "narrative_summary": "오늘 의약업계는 혁신 치료제(방사성의약품)의 부상과 FDA 다중 승인이라는 두 큰 흐름이 포착됨. 동시에 GMP 기준 강화, AI 의료기기 규제 진입 등 제도적 변화도 진행 중.",
+  "top_story": "cluster_2",
+  "updated_at": "2026-06-18T10:30:00+09:00"
 }
