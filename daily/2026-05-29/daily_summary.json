@@ -1,0 +1,379 @@
+{
+  "date": "2026-05-29",
+  "total": 126,
+  "version": 1,
+  "generated_at": "2026-05-29",
+  "korean": {
+    "total": 38,
+    "categories": {
+      "의약품": 8,
+      "의약산업": 8,
+      "의약정책": 8,
+      "의약단체": 8,
+      "의약관련정부기관": 6
+    },
+    "top_articles": [
+      {
+        "title": "신약 접근성 확대·약가제도 개편 \"현실과 제도 간극 좁힌다\" - 약사공론",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd3BiSDdyRkZsV2ZSMTNyOXl3bDY4VDY4T0Rqc0todVNIc2FtX0g2TFBTYVJVSTNuSWRjNVpQME9hZDVtTXhDX08tczR4andLeTBQcjJrbDNjTk41WEpoNlpVQm5mOXBIYkN1OA?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd3BiSDdyRkZsV2ZSMTNyOXl3bDY4VDY4T0Rqc0todVNIc2FtX0g2TFBTYVJVSTNuSWRjNVpQME9hZDVtTXhDX08tczR4andLeTBQcjJrbDNjTk41WEpoNlpVQm5mOXBIYkN1OA?oc=5"
+      },
+      {
+        "title": "“약가개편 혁신 보상, 국내 개발 신약은 빠졌다” - 의약뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wem5mR3NhRHNlSTB5c2lUZnJpbmlRNDZNUVFWdmstVUZJN2JKeWx4MFoxUU1PR0JXbVUzT2dNT1doQnNZZDYzeV94WjNrajdwRnVBOVk1NnhSZXpKUWk5QlVSWnhYMUU?oc=5\" targ",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wem5mR3NhRHNlSTB5c2lUZnJpbmlRNDZNUVFWdmstVUZJN2JKeWx4MFoxUU1PR0JXbVUzT2dNT1doQnNZZDYzeV94WjNrajdwRnVBOVk1NnhSZXpKUWk5QlVSWnhYMUU?oc=5"
+      },
+      {
+        "title": "“신약 접근성·필수의약품 공급 안정화, 환자 중심 제도 보완 필요” [2026 쿠키뉴스 건강포럼] - 쿠키뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOU5xTjc4U1RMQzJqbUFnNlRLS3ZsUDlQZnJuZmxZUnQ0Z2VFWXFZckwtVHlETlZCa2h6WktiTnZJMjI4RDhFRXVyV0dWdUVJNC0zZVVwbUhXYlJtVUFHMkJSOA?oc=5\" target=\"_",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuOU5xTjc4U1RMQzJqbUFnNlRLS3ZsUDlQZnJuZmxZUnQ0Z2VFWXFZckwtVHlETlZCa2h6WktiTnZJMjI4RDhFRXVyV0dWdUVJNC0zZVVwbUhXYlJtVUFHMkJSOA?oc=5"
+      },
+      {
+        "title": "유한양행, 반환된 MASH 신약 다시 띄운다…‘YH25724’ 국내 임상 1상 승인 - 스트레이트뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1YRDBVeXJvU09VakwxX1hmbm1wc09GRFVSMUFDNURabTdDZFlqT3lmcFhtNC1VSW0zSnMzU3ZSNVpHZGpaQzZPUjNvcF85UXhHbV9XMFZFQld5d0xwQm9veEZLRGYxa1JVd1U4c2J3dF",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YRDBVeXJvU09VakwxX1hmbm1wc09GRFVSMUFDNURabTdDZFlqT3lmcFhtNC1VSW0zSnMzU3ZSNVpHZGpaQzZPUjNvcF85UXhHbV9XMFZFQld5d0xwQm9veEZLRGYxa1JVd1U4c2J3dFpPSDNmNXlz0gF3QVVfeXFMTVhEMFV5cm9TT1VqTDFfWGZubXBzT0ZEVVIxQUM1RFptN0NkWWpPeWZwWG00LVVJbTNKczNTdlI1WkdkalpDNk9SM29wXzlReEdtX1cwVkVCV3l3THBCb294RktEZjFrUlV3VThzYnd0Wk9IM2Y1eXM?oc=5"
+      },
+      {
+        "title": "헬릭스미스, 중국서 유전자치료제 'NL003' 품목허가 승임 - 글로벌경제신문",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5RdGhIb3ZNRnJaZWpkSFJlelVSUTJnU0RuMl9keFZ6STBhWXZyWnQ4ak5CNW5FUjluLThPcXJkTVpfZzNUamxqdU8zNzFEWV9kM3VUT0V5b2pjNG5uNkNHZ2F5dVBUM1kxZGtzRmlETz",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RdGhIb3ZNRnJaZWpkSFJlelVSUTJnU0RuMl9keFZ6STBhWXZyWnQ4ak5CNW5FUjluLThPcXJkTVpfZzNUamxqdU8zNzFEWV9kM3VUT0V5b2pjNG5uNkNHZ2F5dVBUM1kxZGtzRmlETzLSAXBBVV95cUxOUXRoSG92TUZyWmVqZEhSZXpVUlEyZ1NEbjJfZHhWekkwYVl2clp0OGpOQjVuRVI5bi04T3FyZE1aX2czVGpsanVPMzcxRFlfZDN1VE9FeW9qYzRubjZDR2dheXVQVDNZMWRrc0ZpRE8y?oc=5"
+      },
+      {
+        "title": "헬릭스미스 유전자치료제 '엔젠시스' 中 품목허가 획득 - 한국경제",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MmZ6QU1PdEhaX0xNSjlGX2JDUTFGa0EtdEhOY1NUeERuTGZjRkEzSXpIWlpET2JoZ0ZyckNXYjVFQm9uaUhuMlFZMzlTa2dzWDFpeNIBVEFVX3lxTE05MmZ6QU1PdEhaX0xNSjlGX2",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MmZ6QU1PdEhaX0xNSjlGX2JDUTFGa0EtdEhOY1NUeERuTGZjRkEzSXpIWlpET2JoZ0ZyckNXYjVFQm9uaUhuMlFZMzlTa2dzWDFpeNIBVEFVX3lxTE05MmZ6QU1PdEhaX0xNSjlGX2JDUTFGa0EtdEhOY1NUeERuTGZjRkEzSXpIWlpET2JoZ0ZyckNXYjVFQm9uaUhuMlFZMzlTa2dzWDFpeA?oc=5"
+      },
+      {
+        "title": "헬릭스미스, 획기적 이정표 세웠다…中 NMPA서 유전자치료제 'NL003' 첫 상용화 허가 - ER 이코노믹리뷰",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBNa1QwcGR0Zk16UkdUZ3dXR2VubjJydVZSNy1DU3R2QzdQcDlxQ2hxNGpvQlJRTGRnTkNGblVHWDZfbXlSMG9ydGFERmEyUHFrVnJsb0hwUUN2WS0wdG5FQWMzX0JJbXM2RV9veQ?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNa1QwcGR0Zk16UkdUZ3dXR2VubjJydVZSNy1DU3R2QzdQcDlxQ2hxNGpvQlJRTGRnTkNGblVHWDZfbXlSMG9ydGFERmEyUHFrVnJsb0hwUUN2WS0wdG5FQWMzX0JJbXM2RV9veQ?oc=5"
+      },
+      {
+        "title": "헬릭스미스 엔젠시스, 中 품목허가 획득…글로벌 중증하지허혈 시장 진출 - 팜이데일리",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1wUGV0M0RsVFJQbi1BdnZQNy1OV2tBZlZGZzR0MU1DRWhQUFVERDhLRmpKNWhNLVd1WThoSE5rVzdWLWhhOF94SXVDczJlZHFZMXZWVHl0MW8wQnZBbnNWRS1CcnhqR1B6dHl6STRn?o",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wUGV0M0RsVFJQbi1BdnZQNy1OV2tBZlZGZzR0MU1DRWhQUFVERDhLRmpKNWhNLVd1WThoSE5rVzdWLWhhOF94SXVDczJlZHFZMXZWVHl0MW8wQnZBbnNWRS1CcnhqR1B6dHl6STRn?oc=5"
+      },
+      {
+        "title": "“약가 개편에 제약사 R&D 동력 약화 우려…추가 보완해야” [2026 쿠키뉴스 건강포럼] - 쿠키뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MZjNESGdhTWM0Qnlpb1JOZFZrZFFVZTR4ZkwtSWg2WlYyRzNmR3Y0b0xtZnFDaDc1aURkYUVFUWwwN2Vtel93WGpiVm5jQ0xzdGM3V3d5cEhtMllDa2FUeHNfMA?oc=5\" target=\"_",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MZjNESGdhTWM0Qnlpb1JOZFZrZFFVZTR4ZkwtSWg2WlYyRzNmR3Y0b0xtZnFDaDc1aURkYUVFUWwwN2Vtel93WGpiVm5jQ0xzdGM3V3d5cEhtMllDa2FUeHNfMA?oc=5"
+      },
+      {
+        "title": "제약바이오협회, 상반기 '윤리경영 워크숍' 개최 - v.daum.net",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzU2MycjJJYUtTVnVUbl9CN095YjhuVmk2dURycmRUUE1ZWktxVGlwX2kwbTBnWFJWYzdmUzNjS2hJa0JpVUhWN1JoYw?oc=5\" target=\"_blank\">제약바이오협회, 상반기 '윤리경영 워크숍' 개",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzU2MycjJJYUtTVnVUbl9CN095YjhuVmk2dURycmRUUE1ZWktxVGlwX2kwbTBnWFJWYzdmUzNjS2hJa0JpVUhWN1JoYw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        9
+      ],
+      [
+        "약가",
+        7
+      ],
+      [
+        "허가",
+        6
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "임상",
+        2
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "ADC",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "english": {
+    "total": 40,
+    "categories": {
+      "Drugs & Therapies": 8,
+      "Pharma Industry": 8,
+      "Pharma Policy": 8,
+      "Pharma Associations": 8,
+      "Regulatory Agencies": 8
+    },
+    "top_articles": [
+      {
+        "title": "PharmTech Weekly Roundup—May 29, 2026 - PharmTech.com",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWnZ4QmRmTks4QXVGZFBMOTlPb21fdmpkalpoOHpwU3RFTU1lRGJIclBnd1FjNGJzdjNCbFg4T1hOMHZUSzgyRDZLV2ZZMWtpMzVMX2hLd1dHM3pMZ0xuUGNGWjY2OXB5TXVGUi1rcW",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JWnZ4QmRmTks4QXVGZFBMOTlPb21fdmpkalpoOHpwU3RFTU1lRGJIclBnd1FjNGJzdjNCbFg4T1hOMHZUSzgyRDZLV2ZZMWtpMzVMX2hLd1dHM3pMZ0xuUGNGWjY2OXB5TXVGUi1rcW0yR0w1d1E?oc=5"
+      },
+      {
+        "title": "14 New Weight Loss Drugs - GoodRx",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSzdMaFByZVVtNnJDNlFjWG84c1pFNHJKZXRhQWczSHEtbDlFUGhKZG5kVlZpN0lRc0RaT1l2ZlZ1ZktiM0dnbXdDb2pDOFpEdW1UMWtsZFRuQXl1UDl0Sko0eDdVSXN4LVZoSUY2eT",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSzdMaFByZVVtNnJDNlFjWG84c1pFNHJKZXRhQWczSHEtbDlFUGhKZG5kVlZpN0lRc0RaT1l2ZlZ1ZktiM0dnbXdDb2pDOFpEdW1UMWtsZFRuQXl1UDl0Sko0eDdVSXN4LVZoSUY2eTJWSTJIZEE?oc=5"
+      },
+      {
+        "title": "Replimune Gets Third Try at FDA Approval After Makary Departure - WSJ",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU40MnEzLXBNQkNHeHBzSlJmeWZwamllR2NyenNrY2tyWUxpVkhsLWhZOU9qbmZxUXg1QVcxcF91bWM1Z2lhUmJkZzVaM2Y5OEpsenloWmJ2VUVtN0xEUlBrLXV1R1hvU1lmWmxqMm",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZU40MnEzLXBNQkNHeHBzSlJmeWZwamllR2NyenNrY2tyWUxpVkhsLWhZOU9qbmZxUXg1QVcxcF91bWM1Z2lhUmJkZzVaM2Y5OEpsenloWmJ2VUVtN0xEUlBrLXV1R1hvU1lmWmxqMmhzUlNsNnEzVk9xM3l0NEdWQVpyNnFBSlFSOEQyTWNVck13V0ZGaUZHRmVFanJlQWtqdl9GLTRzRV91Zw?oc=5"
+      },
+      {
+        "title": "World Testicular Cancer Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVGp5VEN0cHhpaGRaTTlXZElteEJaVVliR21OMmE0UTN2dDE1aFdrZFprcGVYaTNXbXk3VTloZnFSSGVGSHh6RjhoOXJoeDkxNkpuc29rYnl4WjNjT3FIZFRtUjBDVDRQeEdSb1Bhan",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVGp5VEN0cHhpaGRaTTlXZElteEJaVVliR21OMmE0UTN2dDE1aFdrZFprcGVYaTNXbXk3VTloZnFSSGVGSHh6RjhoOXJoeDkxNkpuc29rYnl4WjNjT3FIZFRtUjBDVDRQeEdSb1BhanJUNkQzOGVLX0M4OXRzYXNVNnd3cl9LVjVVQS1TVlhiNkYtVFpOOTdtQjRmcEpObU5va3VkNUNMeTl2ODFHMnEzUmt6LURBcWNsbDVaRnpRSTl0ZDJ4Mi10V0NPYnZpMENnTHZ1dlZGM0dybFFkb1EtUUM1STZnOWNm?oc=5"
+      },
+      {
+        "title": "FDA Orphan Drug Status Awarded to EO2463 in Indolent Non-Hodgkin Lymphoma - Targeted Oncology",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWVkQ3ZoMDFWUlhUYzdoUGhWdUExR2FBUlZRcHotTEw1R004bXhXOXV3NWFxVmVCNDE2ZzhaOHRTNEt4VFUtQXh4ZUpscm9yWlNLZk1pY0JKLUd6TnpfSG1RUkZ6OGw0V1MtRDJ4S0",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWVkQ3ZoMDFWUlhUYzdoUGhWdUExR2FBUlZRcHotTEw1R004bXhXOXV3NWFxVmVCNDE2ZzhaOHRTNEt4VFUtQXh4ZUpscm9yWlNLZk1pY0JKLUd6TnpfSG1RUkZ6OGw0V1MtRDJ4S0MxbUpTaEVGUkdNdHZhTTQ5UEl0NmRjQVpQSnlXQWk1ZG1FcGl4dmdnb2lmUmlWemI4RnYwZk9OX2phQQ?oc=5"
+      },
+      {
+        "title": "New chemotherapy delivery method scores FDA orphan drug status - Rare Cancer News",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWJUX3E3NnVMZkhJMVRYYWtIcTN4bWZnU3NaU05jX3cxcTgtV3JzRlRicks2OWM1V1NNR09CdkVIVnlfYkRzcUJOMkJvelVoYW5xaGpOR2JMNV9COEVVczNWWjRYb05OLXJpbmFrTn",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWJUX3E3NnVMZkhJMVRYYWtIcTN4bWZnU3NaU05jX3cxcTgtV3JzRlRicks2OWM1V1NNR09CdkVIVnlfYkRzcUJOMkJvelVoYW5xaGpOR2JMNV9COEVVczNWWjRYb05OLXJpbmFrTnljcVhJNGtkRXJLY0dhcWJCNklYSGVNeExwck9wQ0Z5cHpuSXZqVmJMMk1xNA?oc=5"
+      },
+      {
+        "title": "Metabolic vulnerabilities identified in rare Fibrolamellar liver cancer - Drug Target Review",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWt1MU82Y0JWdEsyNVFkeC0zRER3SUs1TEZOSkIwVHlrQTd5cEhqUGZzbVYtVHVSeXdnRDliM1NRTXB2T2JJdm9CUUVzclVYRzV6SDNRekgxektMZlBNaHZia1ZIVXQzRGg5c21qck",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTWt1MU82Y0JWdEsyNVFkeC0zRER3SUs1TEZOSkIwVHlrQTd5cEhqUGZzbVYtVHVSeXdnRDliM1NRTXB2T2JJdm9CUUVzclVYRzV6SDNRekgxektMZlBNaHZia1ZIVXQzRGg5c21qckplVkMyTXAya2djTmtKRHVlekQ3MnV4YVE3VHBQMnFCemJfOHFNaXFlZjdFRFRMb0pDMEpyeUpYazRNaGJxb0xQTzB1Nl9XcDFEMG5Iaw?oc=5"
+      },
+      {
+        "title": "Precision Medicine and the Future of Healthcare - Personalized Treatment Reshaping Modern Medicine - Spherical Insights",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1I2OUhjdDdXcHZxMkN6Z2dlbEFKbEtrYmx0Vk9wY2JWR185Skx4dDVseGt5ekhGd0VsaDBhSUJmZktFTmVMRXg4WjZCYjdhWkd6emlKaXFEUU1mZkRHSEdoLVRIZXdDS094cGRmWU9qdjJ2NzdKeDdNcTNPQmRkNkVBTlBKV0ExSmdmbFI4VXRrMV85ZHhpT09YdXRCU1ZfXzV4YkZnUnVZbXRXaGkyTU5iREx2UlRkc3FrWUc3UjNZcUM3S2R2c0JjcDUycnd4QXc?oc=5"
+      },
+      {
+        "title": "Innovent Biologics shares rise 10% after pact with Pfizer of up to $10.5 billion - MSN",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gJBVV95cUxOM2doSnFSS09URlgxTzFRVndydWlXWllVQjRSZmhkZk5xcVBjNzQ3cVRkajhMbU5tSjMyWk95b1hOb0xmc3JOamc2Y3NjV3BsSE1VQ2dRNFNXQ3dDVDI2N215SHRCaTl2VEh0ZDdFNX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOM2doSnFSS09URlgxTzFRVndydWlXWllVQjRSZmhkZk5xcVBjNzQ3cVRkajhMbU5tSjMyWk95b1hOb0xmc3JOamc2Y3NjV3BsSE1VQ2dRNFNXQ3dDVDI2N215SHRCaTl2VEh0ZDdFNXhxZmpGZ2xVWnRSQXZVdE9GY3psc2JKWndBa0JxNmxjUmhqY0lIeGdTTnJaMzdkMDlrYkhnS3hCZzVndDNRcTcyUjN0LU9UQmhxakFyRnh2SmFBN19CVHFGS3psam5sLTVMMktaM2dOUktRSWdUbWhXTFBMcHh1eWNLUW9xbTJVMVpkNHFYalh1R3pnSWxXLUhkRnI4SkRRZWhEVHBUUTh3NHk3VkVWYlVBbm9EMVVlWGhibmFtZnpVVXhjWlpmRzFCN2RaYWpHb3BMUlhSU1lsUml5a3piVTNYc21MMERrUGRUMHNjcmpwRmJwbDJVeWJiRDh1RXNsUUFzazRHeXc?oc=5"
+      },
+      {
+        "title": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU9lWVFSSXBnMDlGdXdTWFZPREV6WnZGb3FaZWc3ajc5eWp6Wmw1Tl82Z1dEc1dMdmNwcW9RNTdZZzlKazZRZEt6bkVOa1FGTUU?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        5
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "manufacturing",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 48,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 2,
+      "Spanish / 스페인어": 3,
+      "Italian / 이탈리아어": 3,
+      "Portuguese / 포르투갈어": 3,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 2,
+      "Turkish / 터키어": 0,
+      "Russian / 러시아어": 3,
+      "Japanese / 일본어": 2,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 3,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 3,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Exposition des salariés de l'industrie du médicament aux principes actifs chimiques : mieux évaluer les risques - Ordre National des Pharmaciens",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxQc05hMDRQOXdfLVRGR0hpMWdqcFozVzJQMjBfSEJkWnVXRjJyb1E3WlZ1RE9jUlFScVdxSFpZRFBZSWpNVkpNU0I1aENtaTBjWnFTOU5FMjFPZ1dBMWZLb0wtX1B6YVFqOFFib04tMF",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQc05hMDRQOXdfLVRGR0hpMWdqcFozVzJQMjBfSEJkWnVXRjJyb1E3WlZ1RE9jUlFScVdxSFpZRFBZSWpNVkpNU0I1aENtaTBjWnFTOU5FMjFPZ1dBMWZLb0wtX1B6YVFqOFFib04tMFdJbWliVnFyQnVZNUNzLTZscEFtbjdtTmVqSmJMM25mTE1kdzZLZENDdDRoUmVYQzJybnROOHVacFpwcGpUd2ZXRlRxb1hTNW14ajlqYW1MRWs0R3E2NGtzQ3Q1NEoydWRSMG4yM2tmT3BPZG10OFFmTnFNTjdoSU5xbUt0V19LVWlHVFN4QXRfdGVRMHJ3RDlmZUpzR1FfNWZjSjFISWk1MVZnUQ?oc=5"
+      },
+      {
+        "title": "\"Une attente forte des patients français souffrant d’obésité\" : le Wegovy et le Mounjaro remboursés dès la mi-juin - La République du Centre",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPak5uaGVYRVJOay15Rkw3emd0QlRHUjg4MEg0ZTB2S0ZEMXNaX1lKNXI5TnVWUDZ0dHhJdVY1SHRyWmZUcE9WV2pXaTh3WU8tZVYyUVBQd1VKVVJwT3FYZmk4V2hkV3ljV25URXd2ST",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPak5uaGVYRVJOay15Rkw3emd0QlRHUjg4MEg0ZTB2S0ZEMXNaX1lKNXI5TnVWUDZ0dHhJdVY1SHRyWmZUcE9WV2pXaTh3WU8tZVYyUVBQd1VKVVJwT3FYZmk4V2hkV3ljV25URXd2STg5V2txbVFBcnBHS2M2VlFoOVNqeTFQNFp4M3FkbjhlSG9NbDBqOTVLNGZwWnhuMlFyNHFZOUY4ZHdNckdLcENfY2N0N3JxMXFqbU5RcHIzRjRja0QxYUE?oc=5"
+      },
+      {
+        "title": "Médicaments anti-obésité : vers un remboursement à partir de la mi-juin en France - lecourrier.vn",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE5jNDBjVDN4bm8wOUUybFkyZXNvU3dYNnZnR2tRVnhHSGZCQ0dEbXlsRVRPcUItSnJHNWRvbG5Bc1lpV0ZDcG1ENlRkdmtaTTRMLW4zajB0c3U3YWoydEhQRHlXUnNMRF8xSm0wX2",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSE5jNDBjVDN4bm8wOUUybFkyZXNvU3dYNnZnR2tRVnhHSGZCQ0dEbXlsRVRPcUItSnJHNWRvbG5Bc1lpV0ZDcG1ENlRkdmtaTTRMLW4zajB0c3U3YWoydEhQRHlXUnNMRF8xSm0wX2JnT2k0c0xydVZmZTlSbXh2QzVRdlJzdkdhS01MMUdjYWRVeWlLYVlhc2ZvMVY2WGp0RzM2eVF2SEllcjdWeVo1azVUWDM?oc=5"
+      },
+      {
+        "title": "Der Arzneimittel-Krieg - swz.it",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUGllOVZWVVMxLUU3OHBqOTFJNFFraXY2aWJ6WmczUGR3Vk9weE9fZlR2RWN4WUNrY1Y3QWZZaFJIVmJhbFc2LW5id19TQWM?oc=5\" target=\"_blank\">Der Arzneimittel-Kri",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUGllOVZWVVMxLUU3OHBqOTFJNFFraXY2aWJ6WmczUGR3Vk9weE9fZlR2RWN4WUNrY1Y3QWZZaFJIVmJhbFc2LW5id19TQWM?oc=5"
+      },
+      {
+        "title": "Semaglutid-Tablette: EMA empfiehlt Zulassung mit 13,61% Gewichtsverlust - AD HOC NEWS",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2pMY0o3UnpTWmZCV1BMUHNRNC1LMkNQTnhzT3JSYVdvX01MYXZVSmhBNzlKLU80dndvYXBBUWwyd2tKaGt3dHkzZmtQajU0VlowZ2U4ckJVOUZYRWU4Q1BzVmZOczFMWVZwWW81eX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2pMY0o3UnpTWmZCV1BMUHNRNC1LMkNQTnhzT3JSYVdvX01MYXZVSmhBNzlKLU80dndvYXBBUWwyd2tKaGt3dHkzZmtQajU0VlowZ2U4ckJVOUZYRWU4Q1BzVmZOczFMWVZwWW81eXVPTlZVUDVNVGl1VXkySmxKWVFGb3ZyTWpfSUYxRU11RzE5XzZRbF8yaVVsbURVdmt1WUNlcVhDYUJNWXNqZzNz?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

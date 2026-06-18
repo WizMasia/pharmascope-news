@@ -1,0 +1,397 @@
+{
+  "date": "2026-06-03",
+  "total": 132,
+  "version": 1,
+  "generated_at": "2026-06-03",
+  "korean": {
+    "total": 34,
+    "categories": {
+      "의약품": 7,
+      "의약산업": 7,
+      "의약정책": 2,
+      "의약단체": 1,
+      "의약관련정부기관": 3,
+      "의료현장": 1,
+      "약국·약사": 1,
+      "의료정책·인력": 4,
+      "전통의학": 0,
+      "감염·보건": 8
+    },
+    "top_articles": [
+      {
+        "title": "JW중외제약, 연구개발 역량 강화…차세대 파이프라인 육성 박차 - 리버티코리아포스트",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVWnEtUFNQN3VKYmJtamQ4S2pscXpidUtNcXQwOWtySE0yWHhnR25zTjdCeUNjWjZuN195b1czMHdMSVF4bWtxUFUzVDN4TXUxR0Vwa0R2OTNRRVZJcy1peFdUU3hnTE3SAWdBVV95cU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVWnEtUFNQN3VKYmJtamQ4S2pscXpidUtNcXQwOWtySE0yWHhnR25zTjdCeUNjWjZuN195b1czMHdMSVF4bWtxUFUzVDN4TXUxR0Vwa0R2OTNRRVZJcy1peFdUU3hnTE3SAWdBVV95cUxQVVpxLVBTUDd1SmJibWpkOEtqbHF6YnVLTXF0MDlrckhNMlh4Z0duc043QnlDY1o2bjdfeW9XMzB3TElReG1rcVBVM1QzeE11MUdFcGtEdjkzUUVWSXMtaXhXVFN4Z0xN?oc=5"
+      },
+      {
+        "title": "韓 제약·바이오, ‘아시아 제2의 혁신 엔진’에서 멈출 것인가 도약할 것인가 - 바이오타임즈",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Z0NHdjMwTVJKTE9lT3FVT2VaSmo0Z19Pd2FJOFZvaGRwWlAzdHVnanJJQWpRUmRMOVcwdy1va29iaEpRTDV3SElCc29QeW5sWUhkbDJyYy1FSy01MEtTQ29OaE5TQ3otM1BMUA?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Z0NHdjMwTVJKTE9lT3FVT2VaSmo0Z19Pd2FJOFZvaGRwWlAzdHVnanJJQWpRUmRMOVcwdy1va29iaEpRTDV3SElCc29QeW5sWUhkbDJyYy1FSy01MEtTQ29OaE5TQ3otM1BMUA?oc=5"
+      },
+      {
+        "title": "K바이오가 바꾼 한국 위상…ING \"아시아 2위 혁신국\" - ebn.co.kr",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ld3VoTl9ITkpsNFJPUnZBOTJ3RHlPcFI1WWE2Z0pSNnRNUkRDY0xwNXlxOXJZcGhzd3ZjWmRKWV9GcnJTWEt6bEQ4d09RQmJMaWlnX2tqX25xQXVTMkxkTzRQcXJxOERk?oc=5\" tar",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ld3VoTl9ITkpsNFJPUnZBOTJ3RHlPcFI1WWE2Z0pSNnRNUkRDY0xwNXlxOXJZcGhzd3ZjWmRKWV9GcnJTWEt6bEQ4d09RQmJMaWlnX2tqX25xQXVTMkxkTzRQcXJxOERk?oc=5"
+      },
+      {
+        "title": "온코닉테라퓨틱스 ‘자큐보’, 인도 품목허가 신청…글로벌 영토 확장 - 인사이트코리아",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA5aVItUmdhaXE3bDFrVExCV0RXcE1jU2NJUjFueWV2WEdQX05Ic19XeERLLUI4eElBV3RtMjFTVDRsZFR0dkxfUHZwZHVuc3lQb1FsbzNlMW1kbF9DUlZsank5UVc1TVRIMF9qS0lINn",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5aVItUmdhaXE3bDFrVExCV0RXcE1jU2NJUjFueWV2WEdQX05Ic19XeERLLUI4eElBV3RtMjFTVDRsZFR0dkxfUHZwZHVuc3lQb1FsbzNlMW1kbF9DUlZsank5UVc1TVRIMF9qS0lINnVjVjQzT0t30gF3QVVfeXFMUDlpUi1SZ2FpcTdsMWtUTEJXRFdwTWNTY0lSMW55ZXZYR1BfTkhzX1d4REstQjh4SUFXdG0yMVNUNGxkVHR2TF9QdnBkdW5zeVBvUWxvM2UxbWRsX0NSVmxqeTlRVzVNVEgwX2pLSUg2dWNWNDNPS3c?oc=5"
+      },
+      {
+        "title": "보령, 탁소텔 글로벌 판매 나서 外 - 톱데일리",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE92d2hqR3ZkWW9Ua09FeTZRMjZyeDdocW0yT1ZvNTZ0QW80WW1OcHJab2YyN1lrVHZDbTlkZkJnUnExeENDY3hoSVZMdTVhSk5H?oc=5\" target=\"_blank\">보령, 탁소텔 글로벌 판매 나서 外",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92d2hqR3ZkWW9Ua09FeTZRMjZyeDdocW0yT1ZvNTZ0QW80WW1OcHJab2YyN1lrVHZDbTlkZkJnUnExeENDY3hoSVZMdTVhSk5H?oc=5"
+      },
+      {
+        "title": "부광약품 라투다정, 주요우울장애 부가요법 임상 3상 진입...성인 364명 대상 - 데이터투자",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE56enI5TzNEeldYR0FYQXB4cENUMkpBLXB6dXJoWE5zeHZqaTlqZmIyZmNpY1B5Sm12ZlgzQWpqR08wNUlEZVdqaXBKRmtRR3VvRnN5UFBrR1hIcDFyOHd3Q1RBcThQWXBvLVhiQ1d4Yn",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56enI5TzNEeldYR0FYQXB4cENUMkpBLXB6dXJoWE5zeHZqaTlqZmIyZmNpY1B5Sm12ZlgzQWpqR08wNUlEZVdqaXBKRmtRR3VvRnN5UFBrR1hIcDFyOHd3Q1RBcThQWXBvLVhiQ1d4YncwR2c?oc=5"
+      },
+      {
+        "title": "한미약품 '포지오티닙' 운명의 한 주…FDA 결정 나온다 - catchnews.kr",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE51dlh6Mm9zSXlNbzVVYnp4aURtNkNySlVrTXZ0SzFNTzVTa3ZvbWJSR1NNME9xbmgzV0VsLTBqRWtVQ2hVMDBJNU9HeGxxWEJxRk94QzdaTE9fZ3lRa1FrU3FTQW4yQlppTHfSAW5BVV",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51dlh6Mm9zSXlNbzVVYnp4aURtNkNySlVrTXZ0SzFNTzVTa3ZvbWJSR1NNME9xbmgzV0VsLTBqRWtVQ2hVMDBJNU9HeGxxWEJxRk94QzdaTE9fZ3lRa1FrU3FTQW4yQlppTHfSAW5BVV95cUxQNW5iQzdIeXNZc3ZXckJiS0dpa2trVnZxbHhJWS00SGxyZ1VQZU1URlJveERERXQ5ZWdXMFpXMlpDWFBONDc4a1Q2RTY2YW8yTmVpcU1wSlQwSkFFOG9WX1NZanl3bUV5RjRmbzh5QQ?oc=5"
+      },
+      {
+        "title": "美 MFN 약가 동맹...한국 신약 접근성 '적신호' - 팜뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9jZy1iUWJ3Y2ZfNnF1UGJ0V1dGSzgybXdqSW9ENHBmWkVrbjI2a3VRRDZCU1VnbzlhdmJOX3B0RGx4YkRCYWlRZjVrbmpYS2ZZcXAtVVhNRjhLQkgwYVFIaXFZbnZ6bXkwN1hmUQ?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jZy1iUWJ3Y2ZfNnF1UGJ0V1dGSzgybXdqSW9ENHBmWkVrbjI2a3VRRDZCU1VnbzlhdmJOX3B0RGx4YkRCYWlRZjVrbmpYS2ZZcXAtVVhNRjhLQkgwYVFIaXFZbnZ6bXkwN1hmUQ?oc=5"
+      },
+      {
+        "title": "韓 제약·바이오, ‘아시아 제2의 혁신 엔진’에서 멈출 것인가 도약할 것인가 - 바이오타임즈",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Z0NHdjMwTVJKTE9lT3FVT2VaSmo0Z19Pd2FJOFZvaGRwWlAzdHVnanJJQWpRUmRMOVcwdy1va29iaEpRTDV3SElCc29QeW5sWUhkbDJyYy1FSy01MEtTQ29OaE5TQ3otM1BMUA?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Z0NHdjMwTVJKTE9lT3FVT2VaSmo0Z19Pd2FJOFZvaGRwWlAzdHVnanJJQWpRUmRMOVcwdy1va29iaEpRTDV3SElCc29QeW5sWUhkbDJyYy1FSy01MEtTQ29OaE5TQ3otM1BMUA?oc=5"
+      },
+      {
+        "title": "K바이오가 바꾼 한국 위상…ING \"아시아 2위 혁신국\" - ebn.co.kr",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ld3VoTl9ITkpsNFJPUnZBOTJ3RHlPcFI1WWE2Z0pSNnRNUkRDY0xwNXlxOXJZcGhzd3ZjWmRKWV9GcnJTWEt6bEQ4d09RQmJMaWlnX2tqX25xQXVTMkxkTzRQcXJxOERk?oc=5\" tar",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ld3VoTl9ITkpsNFJPUnZBOTJ3RHlPcFI1WWE2Z0pSNnRNUkRDY0xwNXlxOXJZcGhzd3ZjWmRKWV9GcnJTWEt6bEQ4d09RQmJMaWlnX2tqX25xQXVTMkxkTzRQcXJxOERk?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "허가",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "임상",
+        1
+      ],
+      [
+        "FDA",
+        1
+      ],
+      [
+        "식약처",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "english": {
+    "total": 40,
+    "categories": {
+      "Drugs & Therapies": 8,
+      "Pharma Industry": 8,
+      "Pharma Policy": 8,
+      "Pharma Associations": 8,
+      "Regulatory Agencies": 8,
+      "Traditional & Complementary Medicine": 0
+    },
+    "top_articles": [
+      {
+        "title": "FDA Sends Complete Response Letter for Cingulate's CTx-1301 | PharmExec - PharmExec.com",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSW9BOVRHbHVyVVhORVVQM2V1cjM4LXRaNWxPUl9wSXVOOVlQX2R4M1ltcm9OWTF2NDFkYTdjZ1NZN0o0MVl0b01NZzMtSzVrTk1UNC03Q09pNUZadDZKOVkwYVF3S1BORk5mSjE4V0",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSW9BOVRHbHVyVVhORVVQM2V1cjM4LXRaNWxPUl9wSXVOOVlQX2R4M1ltcm9OWTF2NDFkYTdjZ1NZN0o0MVl0b01NZzMtSzVrTk1UNC03Q09pNUZadDZKOVkwYVF3S1BORk5mSjE4V0o2S3ZBd0hoOE9WTmpvV2k0NzVvbmdDcU00b29FSl9NNGJ2Q3Np?oc=5"
+      },
+      {
+        "title": "FDA Approves Cavhanza for PH-positive Chronic Myeloid Leukemia - Cure Today",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW5ZNEFFYTJmY2lMcEIwcVR2UkFaS3BfaDYwWWdZdFNpNnQwRmtBRXhwVlE2UDVFNVVmMmppd2xYOVBGYTd2Q05UVmRRU3hGWTk1RG9tb0RWM2MtYVdNWGlrejdQbXp2amxjWUZYV0",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZW5ZNEFFYTJmY2lMcEIwcVR2UkFaS3BfaDYwWWdZdFNpNnQwRmtBRXhwVlE2UDVFNVVmMmppd2xYOVBGYTd2Q05UVmRRU3hGWTk1RG9tb0RWM2MtYVdNWGlrejdQbXp2amxjWUZYV0lIQVFTRDFPcTVKTXlXbE1nSWZ2VE1QdXBmc05IVUtGOGZyYTZVQ0Z2MQ?oc=5"
+      },
+      {
+        "title": "FDA Concerns About Cancer Risk Sink Fulcrum Therapeutics’ Sickle Cell Disease Drug - MedCity News",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamoxSV81VU05czJabTFnR240bmRud3lZY3dsUDM1WUdWQXZoWUdkc3I0V0VmaFp0b3lSTFFsNTA5ZzMydC1DT1RqY0tUZXlOU2wxYUc4RTFXUl95NmR5LUlLN0hvYzRXN0xleWt5Uj",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamoxSV81VU05czJabTFnR240bmRud3lZY3dsUDM1WUdWQXZoWUdkc3I0V0VmaFp0b3lSTFFsNTA5ZzMydC1DT1RqY0tUZXlOU2wxYUc4RTFXUl95NmR5LUlLN0hvYzRXN0xleWt5UjE5YzBMMlIyWm5xVFJLVWJHaWpaRG1FVkdZSEg2ZWZ6Q1duRXJ1RXpHa0RRcG5RSjVwTktLZVBBV0lDbXk5ekpaOWdyYW5OOExJOUwxM3BlQmg?oc=5"
+      },
+      {
+        "title": "FDA declines to approve Cingulate's ADHD treatment over manufacturing issues - Reuters",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGVNN28xVEZqQVpLS0FCT0o0NllXb2tmQ0Z1Z0Fkay1rN1RJNWNDbTd2YV9SbWFjUjVWaXI2WmtuSndWb2lsQmJiOVVEZjdIXzdLN0RRZXp6amNiWHdicnQ3Z2Q3bVZ6Z3RjZm9OSU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSGVNN28xVEZqQVpLS0FCT0o0NllXb2tmQ0Z1Z0Fkay1rN1RJNWNDbTd2YV9SbWFjUjVWaXI2WmtuSndWb2lsQmJiOVVEZjdIXzdLN0RRZXp6amNiWHdicnQ3Z2Q3bVZ6Z3RjZm9OSUxTU1ltYk9RazR2MDhBNE1DUVpMWEs1RndxRzZTQkxLd3lDTEd2STlKcWpHWklBN2NmdWk2WWpiMkJENXMxa2hSeHNTVFg0YXM?oc=5"
+      },
+      {
+        "title": "World Unit-Dose Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxObEtKZ203ZHJGSEh2MEkwWHIxOU5rMEZMLXBPV1R1YmhyN3JudmRhWlFUNFZ2UGo5QWdsZWVocXpRLV91Z3hnakdsZmZBcXRYaW9zdENhNjNfUjlISkxnVEx1WG1IdnhLS093WnQ0eD",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObEtKZ203ZHJGSEh2MEkwWHIxOU5rMEZMLXBPV1R1YmhyN3JudmRhWlFUNFZ2UGo5QWdsZWVocXpRLV91Z3hnakdsZmZBcXRYaW9zdENhNjNfUjlISkxnVEx1WG1IdnhLS093WnQ0eDZfVHZHMnNSTEpKMUdpUjJxdE5yWUItOUZhZUN0aTFnTWZWNVlkMjdHNWlzR3ZHTjQyVmUtYXc2Qm52TDBNUFZXdXFuajliRThLYWFaSmJCSXRWaUJiMFlzV0lpdzQ0ODIyc2Q2VFhrcXdzZTdwdkJDNU5aeXJTLXpS?oc=5"
+      },
+      {
+        "title": "Drug Filled Devices With Needle Market Forecast Points Higher Toward 2035, Driven by Biologic Drug Expansion - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFdNQU14QnFTd0M0SDU1Vm92VnB4WjFGWFJnai1ndXJwSWlMTTJ3ZGYzeEVRWHFXVDV1SWd6cDlaSF9BdG14cFl1enh3NTRLa3NVMTNoYlRJMHlBM0UzR1pfTkFOdGh1N0w5OV96UX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWFdNQU14QnFTd0M0SDU1Vm92VnB4WjFGWFJnai1ndXJwSWlMTTJ3ZGYzeEVRWHFXVDV1SWd6cDlaSF9BdG14cFl1enh3NTRLa3NVMTNoYlRJMHlBM0UzR1pfTkFOdGh1N0w5OV96UXNCem10N0Q1QkFJbUlWRE1Lc3U2STlFY1ZqX0hRdXdFSU0yODNhdXpLMFdDMGFiRDkxQVhCM2R4OEdXMkxhbVFBRDk3SXJVd2tQbjl5OEg2TnBsaWpFVXpVaERTdU1pVnZROU1B?oc=5"
+      },
+      {
+        "title": "EXCLUSIVE: Pharma Sector Outlook 2026 - BofA sees growth in GLP-1 therapies, biosimilars and hospitals, analyst explains | Watch - ET Now",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV3RQUDdKNVlXOGRXNEVMcklMUnI1d2dNSnFBYVdLU3V4Z1RvRWtsOUlZUU93T1lla2J3X2xIenpHcEY1bG9OTVFqRWZyUU5iR0I1cW8taERPRmZuYktwWVVOV0JLOUIxSTZEb0VpbU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNV3RQUDdKNVlXOGRXNEVMcklMUnI1d2dNSnFBYVdLU3V4Z1RvRWtsOUlZUU93T1lla2J3X2xIenpHcEY1bG9OTVFqRWZyUU5iR0I1cW8taERPRmZuYktwWVVOV0JLOUIxSTZEb0VpbU40OTY3bG9FQnB5alFRb0VaSGxPNUhYQ1FWejNBUDZMS2lUYVc1bWFzMmoteUpiZUhpQ2RoSE1VLThXdDJiUTcwMVBOR1hUTnNoTWNlVmZTSEFlREwzTHFKZEI3MUNOYUdmdjNqSHVBbVlmOG5feFJhMVhJVkttU0dyT1BvMFFWZUFaZWh3alhBdnFhblFSRGfSAYQCQVVfeXFMUFI4SmJTRTJBWFlxdGVDbEJwTC1lM1dVak9oZkZDLWZpbUJ2N1FnazVCTjB6SlRrWWprbE41bXMxRmdZUl9wQXdGdndISkxLbDMxTDF3a2liVFlHODh3RzRkUUhIbmJFekJabl83aHZFUnZqcF94X1dHeGRGdHJzdEpCdW5xV2lPOFRKalc4aF9HNEhnbkhQNlA4dFVxam11ZWhDWDhpb2tNa0YwMGtCcUd1VG9BMEZYV1hkaTRmRWVWSDNScDZNNEdra3JYRHFfY1RuaGlad3ZZUWhVSExfY29ocEdZdDFqYkZnTmpKYWR6WXJ3T251RjU2TlZIRXRNNld6SFU?oc=5"
+      },
+      {
+        "title": "Study: FDA approves more orphan drugs with specific cancer, pediatric indications over EMA - RAPS.org",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0owLTlWbmY2UlhKYm9YMEJ6X2tMRG5Bc1dVR1p5STRVMExZalRHdlRPdlY1eTlVbXZYeFdQM3JMaTBLcUVNRE1LbDRQZS1NQWJRNmpsTG5zWF9lMU04ZnlON2VrMC1oUkFoczlxME",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0owLTlWbmY2UlhKYm9YMEJ6X2tMRG5Bc1dVR1p5STRVMExZalRHdlRPdlY1eTlVbXZYeFdQM3JMaTBLcUVNRE1LbDRQZS1NQWJRNmpsTG5zWF9lMU04ZnlON2VrMC1oUkFoczlxMEJqWElUZEt3M1VSLWJHVVVhODM5UEV5SmZOTlRwRE53OVo2NFRPNnhOdXJKQXFHWE1xa0RfZE55RWVweWpGNTI0LWNKNGQ0MjNDWVYteXFJY2k?oc=5"
+      },
+      {
+        "title": "The next tech war? Why biotech may become a new US-China battleground - South China Morning Post",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmpTaXBNMUJDOW01cW1zT2dQdFRJREx1cHBmVHE4aFpsUlZKd2pjeVVLTzNRRWd6RHFlVHFwaUxOcnpkd2Q3YnVWMjBmMm5VblJIT0U5cU1nbnpvUmdBMElSSVRGQTU4R0V4c3BTMT",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmpTaXBNMUJDOW01cW1zT2dQdFRJREx1cHBmVHE4aFpsUlZKd2pjeVVLTzNRRWd6RHFlVHFwaUxOcnpkd2Q3YnVWMjBmMm5VblJIT0U5cU1nbnpvUmdBMElSSVRGQTU4R0V4c3BTMTRIVEJYanR1S2RaZzRJME9XTXl3bGN0Q2Y1andwX3A4VGR1Xy1HRWdwcDh4QWFkckQwOUMxMzZqRTU0QXJPMU50amM4NVZpbEg5SDF2UXVpTdIBvwFBVV95cUxQbGhHSFpTRkVJVEdBZFVUWjB4Zjc3R3lIX0JEd1lDbkZuZmtIYm1xRXVNWE9iY05oY3FfMFl6RDZHZHNlTkJGTHJZZXVGT2FHVkhGN1FONVRyOV9tU0hYQXlrSzU1b0lKdFdPTTNuRjNRTHduWW5BZTg1UTNfUktJY2VIRDlReWNUOVlQSThGQ3Q4NjNHRkNrd0Q1MDFONVdLOFVPY3RULTdkQ1RQdDNQSWd6bWF1UGhNUVhna25HYw?oc=5"
+      },
+      {
+        "title": "The Pharma Patent Cliff Explained: What It Is and How Companies Navigate It - PharmExec.com",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxONV95b1dIQi1POU12M0lLN3JOajRScktxVWZWX3VxcURFVE9XbEpQR2FxR2lSYVUwQmpIVEpkZDJFV2luMzNtaUdIVDZYUnVKYV9JcUllV1BxMXRJallxbG1nc1hscllieFYybWxLQz",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONV95b1dIQi1POU12M0lLN3JOajRScktxVWZWX3VxcURFVE9XbEpQR2FxR2lSYVUwQmpIVEpkZDJFV2luMzNtaUdIVDZYUnVKYV9JcUllV1BxMXRJallxbG1nc1hscllieFYybWxLQzhrWXl5WGdocVJtRVZ1SkZrZnExTy1UOC1T?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        9
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 58,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 3,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 3,
+      "Japanese / 일본어": 1,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 5,
+      "Thai / 태국어": 6,
+      "Indonesian / 인도네시아어": 6,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 6,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Interview avec Gaëlle Krikorian, autrice du livre « Big Bad Pharma, ça suffit ! » - Médecins du Monde",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDJMSWFHN1l3ZFBkVUVJY3lseWhjakRaSlpIVWRGUG0yQ0FZZHpBdS1IZ3lDam9LOVVlQTVRSTdxbGo2aTh2Mjd5QTJzM1JWQUYwcnNDbGpMcjdaaVFRTy13ZExzTlpPMTRzdWc5bT",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDJMSWFHN1l3ZFBkVUVJY3lseWhjakRaSlpIVWRGUG0yQ0FZZHpBdS1IZ3lDam9LOVVlQTVRSTdxbGo2aTh2Mjd5QTJzM1JWQUYwcnNDbGpMcjdaaVFRTy13ZExzTlpPMTRzdWc5bTIzZFFKRTZ2eWdnOVpMMlFPdktKYw?oc=5"
+      },
+      {
+        "title": "«Moins cher qu’une baguette» : le laboratoire Upsa demande une hausse du prix de la boîte de paracétamol - Le Figaro",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTzNsREo3OUpLeEFDaDdneDFZeUdMUV9uN3ZpQS1HWlJ4Y1RDMU1uMXVvRVUxTlhyal9QV1RNakQtTFo0U2Nvc2hoRkl4SHdrRFRwVTloOUJjNW41LXdBVWh3bWFTRlIwd0lfdURrMS",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTzNsREo3OUpLeEFDaDdneDFZeUdMUV9uN3ZpQS1HWlJ4Y1RDMU1uMXVvRVUxTlhyal9QV1RNakQtTFo0U2Nvc2hoRkl4SHdrRFRwVTloOUJjNW41LXdBVWh3bWFTRlIwd0lfdURrMS1LemlCeUtfMUVxN1RBYnpaVk82ZWYyTFNCNkpBdmtBRU9zeTdEVjlsNUlrcVBVc1VkckYweGtfTE1uRDJNQnJOXzN4eUN2UFNUeW9FcVphR0VtZVlKb1g0OVlGTGs3bDlMcWlKN3ltb0xJUQ?oc=5"
+      },
+      {
+        "title": "Médicaments : derrière la réforme des AMM, la bataille des délais et des prix - Medias24",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzBjeVl4SlljME9qblZZS3cwTEZYQnNQMV9oX0hNX2pUNXdZVkJFdm52VW5lUGI1TTBxQzJDbjMxUmRXUkJrWnktbnEwY0NMdFM5Q3BQYnMyVVNoMmswNWRxSHlWWnJ3V0NkU2FTWF",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzBjeVl4SlljME9qblZZS3cwTEZYQnNQMV9oX0hNX2pUNXdZVkJFdm52VW5lUGI1TTBxQzJDbjMxUmRXUkJrWnktbnEwY0NMdFM5Q3BQYnMyVVNoMmswNWRxSHlWWnJ3V0NkU2FTWF92bHdxQnh4aXdqcXZnUEFGTGNuUlVtdUNlbWJoQmh5LV9lOEVlX05CS3A1R2tMeXE2Z1QxcU9zRVVZbVlPNmpNcHhQV3E4UQ?oc=5"
+      },
+      {
+        "title": "Farmaindustria pide que el RD de Evaluación Sanitaria asegure un acceso más ágil y equitativo a los nuevos medicamentos - El Globalfarma",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObmZzZjZNcmhPYU5wOFYyT3Q3OWNtdWNuYy1Ma19JN1FveVEwcjBLSHY0Q3laZXJXcWJHV0lQNGVDSVdfWWFMSlpqVEdCeU5LcTQ2Y29aME5sOXN1S2ZKbTJyZFBKY3JTa3dOcWVCU1",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmZzZjZNcmhPYU5wOFYyT3Q3OWNtdWNuYy1Ma19JN1FveVEwcjBLSHY0Q3laZXJXcWJHV0lQNGVDSVdfWWFMSlpqVEdCeU5LcTQ2Y29aME5sOXN1S2ZKbTJyZFBKY3JTa3dOcWVCU1lUU090dzdpWmk4T01FeUZFY2ROY1lqQ1ZWR0dENW5xVVZQa193RkIwSll5SklpSlZFZllFWmFuemM1dUllN0ZYeDFZSFg3TjlTMmc?oc=5"
+      },
+      {
+        "title": "Industria resuelve la convocatoria 2025 de Profarma con 43 empresas beneficiarias - Interempresas Media",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1od1pBUjZhZEZKTExWYVBEb2ZvbE44eFpXejdSdWE5cFlyTUI0eUctNC13eHB3ZU1yczNZeEFsN0prWW1hZ0ZfcVViQTdoQQ?oc=5\" target=\"_blank\">Industria resuelve la",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1od1pBUjZhZEZKTExWYVBEb2ZvbE44eFpXejdSdWE5cFlyTUI0eUctNC13eHB3ZU1yczNZeEFsN0prWW1hZ0ZfcVViQTdoQQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

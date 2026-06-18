@@ -1,0 +1,363 @@
+{
+  "date": "2026-06-14",
+  "total": 100,
+  "version": 1,
+  "generated_at": "2026-06-14",
+  "korean": {
+    "total": 38,
+    "categories": {
+      "의약품": 2,
+      "의약산업": 6,
+      "의약정책": 6,
+      "의약단체": 7,
+      "의약관련정부기관": 4,
+      "의료현장": 3,
+      "약국·약사": 1,
+      "의료정책·인력": 5,
+      "전통의학": 1,
+      "감염·보건": 3
+    },
+    "top_articles": [
+      {
+        "title": "K-항암신약 ‘렉라자’ 3개월 매출 250억…외래 처방 80% - 데일리팜",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcXRNV01XYXVYdkVMRGg5Ymk2ZWZ5eGZnRDNkaFJqWURkVHNNZEliZDlVSHhnd0VNakN4eXRrOW9mZjVjX19QLVhBeWpKV3ZFTUN2c3pn?oc=5\" target=\"_blank\">K-항암신약 ‘렉라자",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzcXRNV01XYXVYdkVMRGg5Ymk2ZWZ5eGZnRDNkaFJqWURkVHNNZEliZDlVSHhnd0VNakN4eXRrOW9mZjVjX19QLVhBeWpKV3ZFTUN2c3pn?oc=5"
+      },
+      {
+        "title": "항암 떠났던 GSK, 16조 들고 폐암 판 복귀… HIV 의약품 특허절벽 방어전 - 메디팜스투데이",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBudXp1a1hzZExPWnNDOUdmekZ2ekNVVHlTeUxsSFJkVDFCOTQtUXlvWm1qSXlqWFREMHFPSHFPb09YaFlTNjFqTno1allwU3hlVkFmMDk3Wm1kWjBHU3NJaXJaa1BCd05P?oc=5\" tar",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBudXp1a1hzZExPWnNDOUdmekZ2ekNVVHlTeUxsSFJkVDFCOTQtUXlvWm1qSXlqWFREMHFPSHFPb09YaFlTNjFqTno1allwU3hlVkFmMDk3Wm1kWjBHU3NJaXJaa1BCd05P?oc=5"
+      },
+      {
+        "title": "[여의도 여담] 다시 '임성기 정신'을 생각한다 - 뉴스더보이스헬스케어",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1mVnMzbGQzanhhSUEyNjhnMXB1c2NjX25OZTJURWpPQWQwOEZIeEo5NkxNcUJGRUNfeVB2d0JpQ2l2RmFUMGhlaTMtamdfWGUtZ2ZMdjZtV2JZYmJUX1liVnJ2Smg0a2w2M0t3MU1B?o",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mVnMzbGQzanhhSUEyNjhnMXB1c2NjX25OZTJURWpPQWQwOEZIeEo5NkxNcUJGRUNfeVB2d0JpQ2l2RmFUMGhlaTMtamdfWGUtZ2ZMdjZtV2JZYmJUX1liVnJ2Smg0a2w2M0t3MU1B?oc=5"
+      },
+      {
+        "title": "K-뷰티 열풍에 전통 제약사도 참전…신약 기술력 앞세워 뷰티 시장 공략 - ebn.co.kr",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yd29KR01oZnYyWUpvU2NueUxBYjRWdFdYU0xrcXNWZ1RxMWg5R3ZIR1JDOU45TFBEcEg1cHRNUVBXR3pKMWt6T1J3eXZ6aHlsVmRRQ21LUkxMeWVKR1M4NXZTNGF5N2Ix?oc=5\" tar",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yd29KR01oZnYyWUpvU2NueUxBYjRWdFdYU0xrcXNWZ1RxMWg5R3ZIR1JDOU45TFBEcEg1cHRNUVBXR3pKMWt6T1J3eXZ6aHlsVmRRQ21LUkxMeWVKR1M4NXZTNGF5N2Ix?oc=5"
+      },
+      {
+        "title": "도매도 제약도 '부익부 빈익빈'…K-헬스케어 번지는 양극화 - 뉴스투데이",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yekZua1VvTkN5Z1JtY05uN05BNE0yOEFBWGFxSlQtTWVXazRuLVZ2b0JwVDRFNnl5ZWg2U1hlbUExVnNwOUxHeFVtaWpQQWNXY2lVZndRT3E?oc=5\" target=\"_blank\">도매도 제약도 ",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yekZua1VvTkN5Z1JtY05uN05BNE0yOEFBWGFxSlQtTWVXazRuLVZ2b0JwVDRFNnl5ZWg2U1hlbUExVnNwOUxHeFVtaWpQQWNXY2lVZndRT3E?oc=5"
+      },
+      {
+        "title": "중기부, ‘모두의 챌린지 바이오’ 참가기업 모집 - 산학뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE56SDFJRjY3M01RY3BUX0poNU1wazhJbE52bjZqaFVzZTNDMC1mR011T0pJc3NPQkcxeW00dE16QzBIMU9maGFsb0hNeE1LSzhtY1ZQX2xQcVlkMlRDaWlXTVoxbjl6clBldHNR?oc=5\"",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SDFJRjY3M01RY3BUX0poNU1wazhJbE52bjZqaFVzZTNDMC1mR011T0pJc3NPQkcxeW00dE16QzBIMU9maGFsb0hNeE1LSzhtY1ZQX2xQcVlkMlRDaWlXTVoxbjl6clBldHNR?oc=5"
+      },
+      {
+        "title": "\"투자 한파로 얼어붙은 K바이오 구하겠다\" - 네이트",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSb2JtTnc4VzB6Q19UUUQyXzJRYWU4ZnNYRGF3cERncUI4YjZwdzQ4T20zSUJRbHZvVFZpNDlzTTJMejJJVjZrakwwalFLS0RXb01j?oc=5\" target=\"_blank\">\"투자 한파로 얼어붙은 K바",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSb2JtTnc4VzB6Q19UUUQyXzJRYWU4ZnNYRGF3cERncUI4YjZwdzQ4T20zSUJRbHZvVFZpNDlzTTJMejJJVjZrakwwalFLS0RXb01j?oc=5"
+      },
+      {
+        "title": "[논현광장_박승찬의 미·중 신냉전, 대결과 공존사이] 54. 中 바이오산업 굴기 차단 나선 美 - 네이트",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETm5DdXN0N1Q3ZDh5b2dUU0VxeXVPdE05VHpTRy0xX25VMkdGcG01TFBvTHRXWmlKNWpNU05GQXBlWGJlM1NqX2dTVHo2NDRLRE53?oc=5\" target=\"_blank\">[논현광장_박승찬의 미·중 ",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBETm5DdXN0N1Q3ZDh5b2dUU0VxeXVPdE05VHpTRy0xX25VMkdGcG01TFBvTHRXWmlKNWpNU05GQXBlWGJlM1NqX2dTVHo2NDRLRE53?oc=5"
+      },
+      {
+        "title": "제네릭 약가제도, 품목은 줄였지만 지출 절감은 ‘숙제’ - 의학신문",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE14WWt1V3RUNm5QWnB0ZkZPR1FoT3ZtV1FiclF5bGoxSGZFdFM0LWltX205MGhRU2xtNzl4SWg2ZUMwclpMcVRVLUVIV18zZ0NjRVBrQjlQSk5qSTJRR2V3eGhSLUs4dFpoVnc?oc=5\" ",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14WWt1V3RUNm5QWnB0ZkZPR1FoT3ZtV1FiclF5bGoxSGZFdFM0LWltX205MGhRU2xtNzl4SWg2ZUMwclpMcVRVLUVIV18zZ0NjRVBrQjlQSk5qSTJRR2V3eGhSLUs4dFpoVnc?oc=5"
+      },
+      {
+        "title": "8월부터 퇴방약 등 필수약 보상강화…하반기 계단식 인하 - 약사공론",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9vYVJHLUZCaTlpZlE5Rmp3c3JyWldQc2FrUlF4SHRPYlkxdk5HVlFXaUMtSTA2MURwakNjM01SS2JiZVo1MmRrbW5RQ1ZzQVBrM0VhREM2T29hdjRKa0FXVnNtUUNrMDlNcndzZQ?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vYVJHLUZCaTlpZlE5Rmp3c3JyWldQc2FrUlF4SHRPYlkxdk5HVlFXaUMtSTA2MURwakNjM01SS2JiZVo1MmRrbW5RQ1ZzQVBrM0VhREM2T29hdjRKa0FXVnNtUUNrMDlNcndzZQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "급여",
+        3
+      ],
+      [
+        "신약",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "특허",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "english": {
+    "total": 29,
+    "categories": {
+      "Drugs & Therapies": 7,
+      "Pharma Industry": 7,
+      "Pharma Policy": 5,
+      "Pharma Associations": 3,
+      "Regulatory Agencies": 5,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Rocket Pharma Reaps $180M From Sale of FDA Drug Review Fast Pass - MedCity News",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFmdDFzN3BCYzJUaUw5TVBCVmkwSUVVZDVSa3VvZmV2YXViTjV0Nm9FTmJuVkhGUUNnN1VHaC1SWmc3SkRjR19HQ01lQmRfSl96S0pxTUF5aVc5Wm1UUVVSMXBQMmZnVnV2OVlxWm",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjFmdDFzN3BCYzJUaUw5TVBCVmkwSUVVZDVSa3VvZmV2YXViTjV0Nm9FTmJuVkhGUUNnN1VHaC1SWmc3SkRjR19HQ01lQmRfSl96S0pxTUF5aVc5Wm1UUVVSMXBQMmZnVnV2OVlxWmdoUm1UZlRHRHMteThfM2JidkJGOWNpd3lFMFFJTmoyQm9qcWFPWVpHRVgxdzcyanY0MWNB?oc=5"
+      },
+      {
+        "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’ - The Guardian",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTU0QjNGcDhmWVNhdGsyamd6THBTWWRWQ3BXRm9rNnVvdno5WE04YlJKWFBSNFUwVDJHUHFMRnkydDJwR1p4ZnlnQkJVbThSQ0xnbXFja0FaWUV0eHFoSm96bUhXbDFMbXpnX2k4aX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTU0QjNGcDhmWVNhdGsyamd6THBTWWRWQ3BXRm9rNnVvdno5WE04YlJKWFBSNFUwVDJHUHFMRnkydDJwR1p4ZnlnQkJVbThSQ0xnbXFja0FaWUV0eHFoSm96bUhXbDFMbXpnX2k4aXl1UjllQlhBVkFjV2cwdjZ0UmlRNkFaRk50TFoyV05ORVN2bFpZeDc0OVo1cXg3dUdfVkpLUWtDVlQ2SlFtaFpRbQ?oc=5"
+      },
+      {
+        "title": "The week in pharma: action, reaction and insight – week to June 12, 2026 - The Pharma Letter",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdU90YXRTa29La2FyNFJDdjczc0JBYVZHU1ZrbVlFZzMtbGVoNVQxYjF6dGdNRjRnVkZGOXUtM0xkZkFSVXVOa3Z1UFFRVDBudGE2a20wVEJ4N1hHa3NHYzllTTNHbVRmLWZpbUpIVn",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdU90YXRTa29La2FyNFJDdjczc0JBYVZHU1ZrbVlFZzMtbGVoNVQxYjF6dGdNRjRnVkZGOXUtM0xkZkFSVXVOa3Z1UFFRVDBudGE2a20wVEJ4N1hHa3NHYzllTTNHbVRmLWZpbUpIVnUxRTFBbEtkVUR6MzM3MG1zTnRoNDVHcTBQc2JGUUdwd29jcTM0MUljX09NaHBDNVd3VDAwc0QyVXZpVkY2QzVSTlJ3?oc=5"
+      },
+      {
+        "title": "World Nickase Cas9 Paired Protein - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmZCVzR6UDVmUXY3WlRUaUVpWTF5SlI5ZFEtYmhzamlZNzJRRzh5VzY5dF9zbGJ3UzdPMlo5YWkzS3NzbDJXMWtEbmVva29BWFE3V0Y5cWFHek01ajJqVXNyWWdXSlFuYmlXMmJZMU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmZCVzR6UDVmUXY3WlRUaUVpWTF5SlI5ZFEtYmhzamlZNzJRRzh5VzY5dF9zbGJ3UzdPMlo5YWkzS3NzbDJXMWtEbmVva29BWFE3V0Y5cWFHek01ajJqVXNyWWdXSlFuYmlXMmJZMUtGaFRnRmNhbGwxMGZSaTlhU0RUYjdIdVpaalBvakNnV0ZtOGJGdURxQ05BZEZpeFRPRlNfU0Vla1U5TUpwbW1xY092Y3ZGM0tMWVQyWmlZZDFweXJq?oc=5"
+      },
+      {
+        "title": "25 Posts Not To Miss From EHA 2026, Part 3 - Oncodaily",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Y1JaUjczcFY5SUxMazlzaWduZktVV3NiUmRENXlBa1pJZmZDbWg1OXRpS1lrbV9tYk9mbDl4MkZaaGZSZVJKUFZRTFV4S0ZBS0xwbHhGMFI4UDdKQ1E?oc=5\" target=\"_blank\">",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Y1JaUjczcFY5SUxMazlzaWduZktVV3NiUmRENXlBa1pJZmZDbWg1OXRpS1lrbV9tYk9mbDl4MkZaaGZSZVJKUFZRTFV4S0ZBS0xwbHhGMFI4UDdKQ1E?oc=5"
+      },
+      {
+        "title": "Breakthrough approval in prostate cancer for AstraZeneca therapy - Indian Pharma Post",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdJQ1hIZGk1N1RWU0FOcTFwbEFyaVdJRlF0UW11dnBJVTJqbXZ2MzNnZkNabFo4NVgzVk9mUjJzQXBmTE1fZWlpNGRKSTNJV1B6aHJRdUE2bmVoTlVYaVVldXFweGw2cDdLdXplOH",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdJQ1hIZGk1N1RWU0FOcTFwbEFyaVdJRlF0UW11dnBJVTJqbXZ2MzNnZkNabFo4NVgzVk9mUjJzQXBmTE1fZWlpNGRKSTNJV1B6aHJRdUE2bmVoTlVYaVVldXFweGw2cDdLdXplOHFCRGlQYjdFT1lORmdTRTNwZDlOMmJIZDBBNnU3Ni03TjdtRUIxWmJfQVZCWVlyclN1OEplbUFjTVo2elFw0gHCAUFVX3lxTE9xbXNuNkNtSmxCSmV4X2VpTHZ2a0l1Skluc2FYMTlQbWZod0ZYYTg3Z1VGOE15NzJFRkdFb19fa2o5M1d6T21UcGY4ckRYOEtSTTFTU3F2eWQ0TVkwZGNySUpVb0k5VHBmQ3VtSVdqTHlMV0pJLTZwYlhJdElIU2hPand4ZUVMd0V1QkZDWTBTZnpyampZZ0tQcnFNOURPUXotbGdmc2I0QjNHb2FjazZDTEZBaUpWc2xyRzVSZFFoWGVR?oc=5"
+      },
+      {
+        "title": "Plasma therapy helps paralysed man walk again - MSN",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWZtdXdiQ3BuUGZSRktFMHNmanlTYUpoU1M1VFl0YWtvOG4tYjMtTUcxT0UzelJncE5kTzliOUt6MlQyd0t1WktoeEhVbnNubnEyMFJEbUIzTEtkeXQxT0pYVDdNNXZmSzlISGNhME",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWZtdXdiQ3BuUGZSRktFMHNmanlTYUpoU1M1VFl0YWtvOG4tYjMtTUcxT0UzelJncE5kTzliOUt6MlQyd0t1WktoeEhVbnNubnEyMFJEbUIzTEtkeXQxT0pYVDdNNXZmSzlISGNhME55MUh1TzNJdEJCTzNidHBQQ1lmOFY4cVN2T0FUR0dIYlRIRkZMV0xPTTBEblRfTFZRVlVCQklsdlBYR2l3Ykxkdm5LNDhNVmNSVDdyTlFyVm45SWt2U0JxaURHR2JoalhEeDBCOWE0OEFFRFF2ZG4zYQ?oc=5"
+      },
+      {
+        "title": "Anti-aging race intensifies as Korea and U.S. push rejuvenation therapies - CHOSUNBIZ - Chosunbiz",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjlabzVTb1BVQlo5X1V2LXV3RUZ6MkxtSEdCTXIxckFNNG5JTm9UOG0tVUQwQTJJb3dnUVdNbHR6cG1jOGZ5d0pKVzNOQUIxNlUzc3E4QnVBNHdUQnlxbjJtQkk5Wk9tQWFtM3lXSE",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjlabzVTb1BVQlo5X1V2LXV3RUZ6MkxtSEdCTXIxckFNNG5JTm9UOG0tVUQwQTJJb3dnUVdNbHR6cG1jOGZ5d0pKVzNOQUIxNlUzc3E4QnVBNHdUQnlxbjJtQkk5Wk9tQWFtM3lXSEpKQTVUMF9WdHpzanBjQlBuedIBlAFBVV95cUxPNXlyR3ZQV1lXLU81RldKcGdXQnNtZ2ZYb0xqbFMwX2NYSjR4cXhrTS1PUXVZUFRsSjFSYkpQTjlPb05Ob0VrRTVPZXFod0RoYW9qdkRwUncxbEZsemFQMllxWWZiUUt2T1dfYTJObEVMVE1wOURDSXJjRmNzY2pmQThxdXN2UjUyMXpwNEVzbzNqZnNH?oc=5"
+      },
+      {
+        "title": "Concord Biotech Secures USFDA Approval for Tofacitinib Tablets, Targets USD 500 Million US Market - Medical Dialogues",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamxBMkRkMTFBOExWRFNLTDNRanY4VExSakQzd3o0WERZWE5tOGpHU2pjRmRJQkU3LVhHUkhfWVRDUElPMVBnRTRBVUdkbWNndXpfcjZiZWRpRUpDMWZhTUpaT0RickVsU0FVdzhpWW",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNamxBMkRkMTFBOExWRFNLTDNRanY4VExSakQzd3o0WERZWE5tOGpHU2pjRmRJQkU3LVhHUkhfWVRDUElPMVBnRTRBVUdkbWNndXpfcjZiZWRpRUpDMWZhTUpaT0RickVsU0FVdzhpWWdpY054cm9qV0xheGZJQklyOXh2WGhTeHNVaHhIajhKMWZkaTl4ZU9fT0pZWE95ZFYza25ja19reWdGSURxVExfN3lxUjdhUzFiekhTQUxZa0pmbHZMREhmUmRub0JlWi1fM2lxdjlIeEo0V3BVVGYybi1BdmNxZ1nSAewBQVVfeXFMUE5QdVNTYTVvc1M3NndmRHVWSldfdlpDS2ZOeXhwRGc0T3RxSHFWbHdIN3dlU005TWwwbVNVcVBIMUk1WXhOQ3NMRHN1SjNPbUF4QXgySENWMVJDYlR0QnZDR2Q5LUtrdF9YLWhtNGVIdHNmT2VOTUhFVi1rcFZxZzh2bmoxQVVsUFNlMHBHQ1dHQzZVRHdtMGpGTThaQTg1dXJuY0FGcUpMcnM4YnY1YS1VNEpxOTVvYlRpbzNYMmlNb1FmZjR0OTF2OWFsanQ2SjNRcV9lVndJdF92Qkh5d3hNdTVnTGJsRzVBUHc?oc=5"
+      },
+      {
+        "title": "Surface Plasmon Resonance Sensors Market Demand to Accelerate by 2035 Driven by Drug Discovery Expansion - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0Y1SUlqdEk5UkJhQzV4QXh1bEZad0hWeWNhLTdTSkE4ZEZhRzd0d0Y5bVlaN0JjTHJFSUJHVG1GMHdVSlNwM2xSajlQVWNqSWFjZ0duRmpEVkFlbFZpSkJQMXFjZ3FmcUxDSEJyV3",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNN0Y1SUlqdEk5UkJhQzV4QXh1bEZad0hWeWNhLTdTSkE4ZEZhRzd0d0Y5bVlaN0JjTHJFSUJHVG1GMHdVSlNwM2xSajlQVWNqSWFjZ0duRmpEVkFlbFZpSkJQMXFjZ3FmcUxDSEJyV3dOZ1VYRWVNQlN0ZjZNdnFWY0ZfNnJsWU56MG5RbzNRcXhHaFphQ2lNUnkwaVBmVmcyeV9hRHhSQTFCWVFuZmtnLTE3UUFROWtrd0ttRHNSM2tobElPRHByRVR2bnl3emM?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        5
+      ],
+      [
+        "approval",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 33,
+    "languages": {
+      "French / 프랑스어": 2,
+      "Spanish / 스페인어": 2,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 1,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 1,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 5,
+      "Thai / 태국어": 2,
+      "Indonesian / 인도네시아어": 4,
+      "Hindi / 힌디어": 2,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 3
+    },
+    "top_articles": [
+      {
+        "title": "SpaceX fait aussi saliver les laboratoires: l'industrie pharmaceutique veut fabriquer des médicaments dans l'espace qui sont bien meilleurs sans la gravité terrestre - BFM",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxPQ2F6Y25waHRkdnZwazJ0cWowLWRhbjRCcEJVYUZVT1hWWWZSX1JINzlycG5Pa010RDlEcTZTeWxGdkloRmVfZExFQnpJdFFXOENteWdRTHlOMzg0Sk1xZlNPVnRFa3lJZ3E3aVhEeX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPQ2F6Y25waHRkdnZwazJ0cWowLWRhbjRCcEJVYUZVT1hWWWZSX1JINzlycG5Pa010RDlEcTZTeWxGdkloRmVfZExFQnpJdFFXOENteWdRTHlOMzg0Sk1xZlNPVnRFa3lJZ3E3aVhEeXJsT3hvVkdhQzFDaGVXN2lkSkhweDd6TW1DTHZYbnJaYUFjWEdNaGVuQXRXVzZyNFhTV1NYY09rV2tOU3lXTzRnUkVxZG9vUWlxOV9IWUNUZEdFcWJBNlNoVzRWY0FYQlhvdGVjT3BWMEhvVGRXTlMwcEtsNlFTck01NkNKZXl5ZklwTWVGZGFMblpXcTFtYnpuVW95T0ZSdVFITmJhS1VIVzE4bEhoWi1lS3FLQ2JTZWxSMlVJQng0ZkQ0ZDFsMXFqaWVXWlFMdVZZQ0d6LWpGMUZES3N5Nk5henhIX19OZFluSjRXNS1Ha1kwcFg?oc=5"
+      },
+      {
+        "title": "Les chaînes d’approvisionnement en médicaments menacées par une grève - Le360",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXM4d1RaY0t3R3RHVVVSc3dNUDQxdmZwdGYtLTByeE5fWUxrZnpiWHdJbWlHQ2IzUllzNEQ0YnJ3Y1dVUy1ldlhHYm5raVBhNllkbUZsTEVIWjBoc3A0RjQtVUtGYTFpQlptcUttbW",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaXM4d1RaY0t3R3RHVVVSc3dNUDQxdmZwdGYtLTByeE5fWUxrZnpiWHdJbWlHQ2IzUllzNEQ0YnJ3Y1dVUy1ldlhHYm5raVBhNllkbUZsTEVIWjBoc3A0RjQtVUtGYTFpQlptcUttbWV1T0NfLTJYNDZsUUc0V29DTWxuQlNtaUFTa1FUYmJxNlExMzRXQ2gwdkhfa1J4eG1ITm95N28zZ3lFUmRWaW9pZDBlOWFnZWkzaFNCbldudHA2QQ?oc=5"
+      },
+      {
+        "title": "UC San Diego: plantas como farmacia espacial para Marte 2026 - Ecosistema Startup",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTBTZGE0WHpFSTFWX1VpTmdZOHJBa25saDlGdlQ1ejdMY2pNZmVRWnNmU0laaWFDR1NlbjR0c1JOS3RFTGg5ZHdRWXp3eGpBcHhsVnBDNlg3OVI5UnQ5MEhNOHVxcTNYVk95RTdVaH",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdTBTZGE0WHpFSTFWX1VpTmdZOHJBa25saDlGdlQ1ejdMY2pNZmVRWnNmU0laaWFDR1NlbjR0c1JOS3RFTGg5ZHdRWXp3eGpBcHhsVnBDNlg3OVI5UnQ5MEhNOHVxcTNYVk95RTdVaHZDN2o5VXM0cTFTUTNyaUM4NHpVYWxxUWpZaFc3UTZyRVRMd2Yt?oc=5"
+      },
+      {
+        "title": "Farmacias en alerta: crecen los faltantes y preocupa la demora de pagos del PAMI - Impacto Corrientes",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2NmbF9HVTlSWEhnU1poc2hiSXYtaFZ6UkxjRnB0Y2RvNndpT2dNNFJsS1VQSGJwX0ZRc3pOcm5MQ21QQ2lubWNKOW9obE1aYUxrMUppQ3F2XzUxT19sWjU5MG9YYmhfejNKTjJNen",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU2NmbF9HVTlSWEhnU1poc2hiSXYtaFZ6UkxjRnB0Y2RvNndpT2dNNFJsS1VQSGJwX0ZRc3pOcm5MQ21QQ2lubWNKOW9obE1aYUxrMUppQ3F2XzUxT19sWjU5MG9YYmhfejNKTjJNenJyNG1sRWJMSXBRSUpfQWs0RFBQUktiWTA4X2hkWjdfZVF4bUxUbl9JeThEUWtfQUwwWWhVTWdCX28zVTlocXFpdkpHMVdmcWMyUXFCWXZaWTFFOWNTaThabk9nYlRjdWlhOGFmMw?oc=5"
+      },
+      {
+        "title": "Pfas sostituibili in farmaci: studio trova alternative in 97 di 111 casi - ischitellagargano.com",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzZlZGpvTlBQMDZmMFlaa3RSMGtSWVJJZ0RSNTU2a3N1VzB5TGNLWWdkSzZQSjhUNEZCdzNfZDRMVzNyYzBsRlJ0X01FaG9oMWFFV0FRdG1iVjRGa3gwRkVIV1IzanZfU0hYc3J4Tm",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzZlZGpvTlBQMDZmMFlaa3RSMGtSWVJJZ0RSNTU2a3N1VzB5TGNLWWdkSzZQSjhUNEZCdzNfZDRMVzNyYzBsRlJ0X01FaG9oMWFFV0FRdG1iVjRGa3gwRkVIV1IzanZfU0hYc3J4TmVVbzVXYUZsSVRTRXE1NklfZEpsYlk3M2lXSjZrVEMyUVkzc2FmYnZ0Z2NQa2huZnRaZGVDaGJGR2w4d1NseFNkMA?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

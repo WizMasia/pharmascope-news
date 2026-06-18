@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-28",
+  "total": 0,
+  "version": 1,
+  "generated_at": "2026-05-28",
+  "korean": {
+    "total": 0,
+    "categories": {},
+    "top_articles": [],
+    "top_keywords": [],
+    "top_sources": []
+  },
+  "english": {
+    "total": 0,
+    "categories": {},
+    "top_articles": [],
+    "top_keywords": [],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 0,
+    "languages": {},
+    "top_articles": [],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

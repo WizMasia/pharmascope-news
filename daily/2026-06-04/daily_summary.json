@@ -1,0 +1,401 @@
+{
+  "date": "2026-06-04",
+  "total": 129,
+  "version": 1,
+  "generated_at": "2026-06-04",
+  "korean": {
+    "total": 39,
+    "categories": {
+      "의약품": 8,
+      "의약산업": 8,
+      "의약정책": 5,
+      "의약단체": 4,
+      "의약관련정부기관": 2,
+      "의료현장": 4,
+      "약국·약사": 2,
+      "의료정책·인력": 2,
+      "전통의학": 0,
+      "감염·보건": 4
+    },
+    "top_articles": [
+      {
+        "title": "[기고]‘허가 심사 혁신’으로 환자의 기다림에 안심과 희망을 - 경향신문",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrSkE2TWNlc0NQdHFQYzg4T3dCYWRiWURFLXdYek53b0ZMQ3pBRm5FSTNjOGl5UWZfZkgwUXQ2NnlVY1lzTnJFQXJDdVRERUFSN2xnNlhVQlBkYzBnbkRB0gFfQVVfeXFMUGtKQTZNY2",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrSkE2TWNlc0NQdHFQYzg4T3dCYWRiWURFLXdYek53b0ZMQ3pBRm5FSTNjOGl5UWZfZkgwUXQ2NnlVY1lzTnJFQXJDdVRERUFSN2xnNlhVQlBkYzBnbkRB0gFfQVVfeXFMUGtKQTZNY2VzQ1B0cVBjODhPd0JhZGJZREUtd1h6TndvRkxDekFGbkVJM2M4aXlRZl9mSDBRdDY2eVVjWXNOckVBckN1VERFQVI3bGc2WFVCUGRjMGduREE?oc=5"
+      },
+      {
+        "title": "[ET시론]AI와 함께 열어가는 의약품 신속 허가 - 전자신문",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aT1h4RmlBVUg5YXY1LWFWVUZoazhhTnVEZjBmalV3QUdURUFXZ2pOMlJmeU5sZ1NDREZRUEx5dV9GVFV6ZnlwRWZVdmE1dw?oc=5\" target=\"_blank\">[ET시론]AI와 함께 열어가는 의약품",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aT1h4RmlBVUg5YXY1LWFWVUZoazhhTnVEZjBmalV3QUdURUFXZ2pOMlJmeU5sZ1NDREZRUEx5dV9GVFV6ZnlwRWZVdmE1dw?oc=5"
+      },
+      {
+        "title": "국산 MASH 신약 기대감…임상 승인에 글로벌 학회서 존재감 뽐내 - 네이트",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZ2QwTEJ0WjBSS0dpQ3BPWElOaFltVEFNSG1IRkdCeU9EYVNQTXNyQXhXUmRLbkNRMHhQeDJUaUNkcmpzZUNyUVVWemxqMjB6cjVQM25UZjZ2YWp5SHlPQWJzTVYyRkhUa1lCT2dYZE",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LZ2QwTEJ0WjBSS0dpQ3BPWElOaFltVEFNSG1IRkdCeU9EYVNQTXNyQXhXUmRLbkNRMHhQeDJUaUNkcmpzZUNyUVVWemxqMjB6cjVQM25UZjZ2YWp5SHlPQWJzTVYyRkhUa1lCT2dYZERtZ080ZHcyag?oc=5"
+      },
+      {
+        "title": "비만약 특수에 웃은 종근당·GC녹십자…실적 지속성은 '물량 확보' 관건 - 뉴스저널리즘",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE81S0h3UlpJd1JkaFhBT0lpczhUSUR0RTVnd2wwNjRubTctS3hZY3cwRUltVmY1aUhKWUpKVUJ4RWFncTZXY3ozclkwZG1ta19HU2ZwOTZKclJJdVp6TjZJSUxxMk56cDJQaDFz?oc=5\"",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81S0h3UlpJd1JkaFhBT0lpczhUSUR0RTVnd2wwNjRubTctS3hZY3cwRUltVmY1aUhKWUpKVUJ4RWFncTZXY3ozclkwZG1ta19HU2ZwOTZKclJJdVp6TjZJSUxxMk56cDJQaDFz?oc=5"
+      },
+      {
+        "title": "식약처 ‘240일 허가 체계’…글로벌 위상 높인다 - 후생신보",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTFBxSEJPUklSOGdnNWdjWVVvalZlUmNlSWxuUHd4RjlSWWczV0Qwd3FLY1hOVkFLRzVXYUhGeW9FNDhKVVMt?oc=5\" target=\"_blank\">식약처 ‘240일 허가 체계’…글로벌 위상 높인다</a>&nbs",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxSEJPUklSOGdnNWdjWVVvalZlUmNlSWxuUHd4RjlSWWczV0Qwd3FLY1hOVkFLRzVXYUhGeW9FNDhKVVMt?oc=5"
+      },
+      {
+        "title": "식약처 240일 허가체계, 글로벌 신약 한국 동시 신청 앞당긴다 - 의약뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMWpYcUZ4OXB4enE2MmlYWlNDS3pTbGduUk1qSzhtTXl3UUQ1dmdEUG5Cd0VpLWUyZXhMcDFtUWxfbVQ1b3prOWQwbXhqTlRpWTNGenBha1ltcE1JeF94ZVdmaHpBMUk?oc=5\" targ",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NMWpYcUZ4OXB4enE2MmlYWlNDS3pTbGduUk1qSzhtTXl3UUQ1dmdEUG5Cd0VpLWUyZXhMcDFtUWxfbVQ1b3prOWQwbXhqTlRpWTNGenBha1ltcE1JeF94ZVdmaHpBMUk?oc=5"
+      },
+      {
+        "title": "대웅제약 엔블로, 중남미 메이저 시장 ‘멕시코’ 품목 허가… 국산 신약 글로벌화 탄력 - 국민기자뉴스",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MUUhHT04wNWJteGFDUnNOeXZSVEFCRWpzYzVyRjNIbE9odzQxR1JWWWxrQXM4MTQzX19EUThPTlA5ako2N1RKaHNudGIzS3VhNjlQZXdlc0xERlJVZS14ZTZ6QdIBZ0FVX3lxTFBSNn",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MUUhHT04wNWJteGFDUnNOeXZSVEFCRWpzYzVyRjNIbE9odzQxR1JWWWxrQXM4MTQzX19EUThPTlA5ako2N1RKaHNudGIzS3VhNjlQZXdlc0xERlJVZS14ZTZ6QdIBZ0FVX3lxTFBSNnZkdEpUZEQ4T080OW1EWFI5cHhXRE9ka3RiTy1vQS1ocjR2VjV3NkpWZXdvOUpRcDJzVkFpdUhFUjc0Sm9hY2xYNk15S1dmUkdwTVV1a1hJTmZSYW5wX01obGJDMlU?oc=5"
+      },
+      {
+        "title": "메디칼타임즈 - 메디칼타임즈",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5c0g3U2JxMjJDSDNEUW9KeF90N1NFamdQRmtjSlRTSGxkTlFEaTAzQkhKNG4xU1NQankzQ1l2SkFwRXJzMnhLcmhQbUltYkFvTWE0SDNrNEJwWGhtY0ZKcGVxUXI2YU5OUHpkMEhJR2",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5c0g3U2JxMjJDSDNEUW9KeF90N1NFamdQRmtjSlRTSGxkTlFEaTAzQkhKNG4xU1NQankzQ1l2SkFwRXJzMnhLcmhQbUltYkFvTWE0SDNrNEJwWGhtY0ZKcGVxUXI2YU5OUHpkMEhJR2NJMlNTTHA5UHV3?oc=5"
+      },
+      {
+        "title": "글로벌제약 혁신 치료제 잇단 급여 확대…한국 공략 '속도' - 약사공론",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1pSjRUbXFJMmFmZzNBdGFzY2IwcURmZ1otUGNzMmg1QTdLQWhfVWVCZVNxeXNieUQ4aG9kT3JIUGxCSkZBdHhwZko1THJHZ3J3cVY1TVloTm5FVjJvNXhDRVN0cHNrQm1YMHN1dw?oc=",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pSjRUbXFJMmFmZzNBdGFzY2IwcURmZ1otUGNzMmg1QTdLQWhfVWVCZVNxeXNieUQ4aG9kT3JIUGxCSkZBdHhwZko1THJHZ3J3cVY1TVloTm5FVjJvNXhDRVN0cHNrQm1YMHN1dw?oc=5"
+      },
+      {
+        "title": "불법 의료사범 합수반 불씨 '제약·CSO 리베이트'로 정조준되나 - 메디칼업저버",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE15cjBaWUNYTW00bk1JRDZQa1dxbHVfdzExemM0eWFiLVMyalB1V2ltdThyTW5oVzlnaEF4emtOU2tqTEp1TU5qM05SVlpOdjVtQkpiTk0yUUF0dlN2c2pVdlhKdGExLXlvT0lz?oc=5\"",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cjBaWUNYTW00bk1JRDZQa1dxbHVfdzExemM0eWFiLVMyalB1V2ltdThyTW5oVzlnaEF4emtOU2tqTEp1TU5qM05SVlpOdjVtQkpiTk0yUUF0dlN2c2pVdlhKdGExLXlvT0lz?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "허가",
+        6
+      ],
+      [
+        "신약",
+        4
+      ],
+      [
+        "식약처",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "임상",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "english": {
+    "total": 43,
+    "categories": {
+      "Drugs & Therapies": 8,
+      "Pharma Industry": 8,
+      "Pharma Policy": 8,
+      "Pharma Associations": 8,
+      "Regulatory Agencies": 5,
+      "Traditional & Complementary Medicine": 6
+    },
+    "top_articles": [
+      {
+        "title": "Germany’s Freeloader Drug Policy - Goldwater Institute",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5mNEJ1Ny1LQjBTbVF0RzhTRlozeDF0T2MyWUV2Sm5SNHBOQm93Q2U2Y1hvUDgxVDZYTjhkZjc1aVpiQ2VwWExsWDVWSGRpcXVyOC1ONlNvdVBFaTBrSUFvSV9KVEo4SWJPN0ZaOWtGND",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mNEJ1Ny1LQjBTbVF0RzhTRlozeDF0T2MyWUV2Sm5SNHBOQm93Q2U2Y1hvUDgxVDZYTjhkZjc1aVpiQ2VwWExsWDVWSGRpcXVyOC1ONlNvdVBFaTBrSUFvSV9KVEo4SWJPN0ZaOWtGNDNwcnVCakE?oc=5"
+      },
+      {
+        "title": "NewLimit’s $435M megaround; Lilly’s busy dealmaking week - BioPharma Dive",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDhPcHRNdmpIQk9jYzBDYThVdElUcXYxZi01UGJJcUdtb3JXemdOeldzS3ZaTlVPVHpfY1BsVlVWRjd0SFRQalMxNjlxaXpPOHhhVkUyZk1DTEE0cGt2T1BGaC1abFM2Y19rOHdmd1",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDhPcHRNdmpIQk9jYzBDYThVdElUcXYxZi01UGJJcUdtb3JXemdOeldzS3ZaTlVPVHpfY1BsVlVWRjd0SFRQalMxNjlxaXpPOHhhVkUyZk1DTEE0cGt2T1BGaC1abFM2Y19rOHdmd1F2SWdvblJsa1BNQ002QS1CM1prVDA4ZHZaY0lZRW1UTnRKOEd0QXNrVktn?oc=5"
+      },
+      {
+        "title": "Oral Drug Combination Eases Treatment Burden for AML Patients - WCM Newsroom",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTc0STVGZ1U3a250cVlCWUlpdFZtUGZJOEdlVFhfdklQRDA1YVozU1ZDZ1dhUllILVkxcmEwS0FxbEJjN3lTQi1ORzRGS0RSbmNBX1luUzJqNWowS3VrblRGUHJCU1luVTJGN3hDdl",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOTc0STVGZ1U3a250cVlCWUlpdFZtUGZJOEdlVFhfdklQRDA1YVozU1ZDZ1dhUllILVkxcmEwS0FxbEJjN3lTQi1ORzRGS0RSbmNBX1luUzJqNWowS3VrblRGUHJCU1luVTJGN3hDdlluUWVCQWZYaG5HOUp3UUlJMVBkSmxpSjY4SnpkSWtfUkQzV284MVFJTDMtcnBrWlJ0MUhVSHZtUWc?oc=5"
+      },
+      {
+        "title": "Explaining unapproved drugs to payors: FDA offers pharma new guidance to avoid pitfalls - Endpoints News",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjVHQmxHU04wLWR0b0taZ1hjcHNZQlVMVXRvbE1BZEZ1Qi1objd3WVpxeFkzVERMSWx3VTNMeGlGMUhFQTVJbDlwNUk2czFmSXFqYUZhaV90LXBMMnVnbmExbWJlcl9XVWVFdVcyZ1",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcjVHQmxHU04wLWR0b0taZ1hjcHNZQlVMVXRvbE1BZEZ1Qi1objd3WVpxeFkzVERMSWx3VTNMeGlGMUhFQTVJbDlwNUk2czFmSXFqYUZhaV90LXBMMnVnbmExbWJlcl9XVWVFdVcyZ1JBYkM5bUJMaGZZODZRa3ZxS1FmWkktdFZOamc?oc=5"
+      },
+      {
+        "title": "Prefilled Glass Syringes Borosilicate Market Growth Outlook to 2035 Amid Biologics Surge - News and Statistics - IndexBox",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSy1iT1Z6bU02OExRa2g4WmhRMFZRVDlWV0Q1eFhHbUt4RmlrVzBwRVJNaUktWjZOLWxna2h4VWl2bC1kUTNvcGNjMWt0NDI2VXhKRlBsa3E4SW13LXE4bnlNczdsSlNKWVZfOC1vb1",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSy1iT1Z6bU02OExRa2g4WmhRMFZRVDlWV0Q1eFhHbUt4RmlrVzBwRVJNaUktWjZOLWxna2h4VWl2bC1kUTNvcGNjMWt0NDI2VXhKRlBsa3E4SW13LXE4bnlNczdsSlNKWVZfOC1vb19Kb0dobk9nd2FuMENLNU9xanV2TDNwLS13T1FxWEFsN1V2Y2kyak9ha0ZJQVR1TDJwZmxZMmdTOVhVUDVsQmE2ek1LV05HbmZjVnlhWVdyMDVNNkRrRjJ1R3A3VzR2d1owNmJlVGpQa2VhOWE2MUh2WEhR?oc=5"
+      },
+      {
+        "title": "Towards mRNA therapeutics 2.0 - Nature",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmMVVKQ3h6X3V2S3g2eWFYSmV0MmMzSGd6NTdYSjJXdlJ4NFJIUFc0Wjc4MW10VmlzdEpnQ2hzX0lOSlV2MlJoT0FTQlotRFRtNWx5S0Vpa3FOYmFCY0xv?oc=5\" target=\"_blank\"",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmMVVKQ3h6X3V2S3g2eWFYSmV0MmMzSGd6NTdYSjJXdlJ4NFJIUFc0Wjc4MW10VmlzdEpnQ2hzX0lOSlV2MlJoT0FTQlotRFRtNWx5S0Vpa3FOYmFCY0xv?oc=5"
+      },
+      {
+        "title": "Acting US FDA chief meets with rare disease groups to mend fences - Forth.News",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FeXZHaDhyT0pPTzNHc2NaZTdZREp6REJoeUhQbllFblZiUnIybGpxUzZQZlBUczg0V21pbDRlVks2UkpEblJ5aTZZVkMtcy01SHJTUTBpTlBncl9ESFk3SlB3VQ?oc=5\" target=\"_",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FeXZHaDhyT0pPTzNHc2NaZTdZREp6REJoeUhQbllFblZiUnIybGpxUzZQZlBUczg0V21pbDRlVks2UkpEblJ5aTZZVkMtcy01SHJTUTBpTlBncl9ESFk3SlB3VQ?oc=5"
+      },
+      {
+        "title": "Finding Better Answers for Patients with a Deadly Bone Cancer | Newswise - Newswise",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTI5eFJtZmdnQ2VncDVrRkxEZ0c4Uy16Z1NzOXp3TGMxMzlxZ1liYWgxWFl3Mk9PRjVETE93ZHZMTHhaQUdGV1JjRzM0eWUwZGhRN251V3ZudTQ1X3RXZ2F2ZVlITFNZd0hxeFNoel",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdTI5eFJtZmdnQ2VncDVrRkxEZ0c4Uy16Z1NzOXp3TGMxMzlxZ1liYWgxWFl3Mk9PRjVETE93ZHZMTHhaQUdGV1JjRzM0eWUwZGhRN251V3ZudTQ1X3RXZ2F2ZVlITFNZd0hxeFNoeldMQjlneEoxMi1GVEkxRkVoazBOTFNGLWVlODdMakVTTGEtandtMHc3aTNnUdIBmwFBVV95cUxQdTI5eFJtZmdnQ2VncDVrRkxEZ0c4Uy16Z1NzOXp3TGMxMzlxZ1liYWgxWFl3Mk9PRjVETE93ZHZMTHhaQUdGV1JjRzM0eWUwZGhRN251V3ZudTQ1X3RXZ2F2ZVlITFNZd0hxeFNoeldMQjlneEoxMi1GVEkxRkVoazBOTFNGLWVlODdMakVTTGEtandtMHc3aTNnUQ?oc=5"
+      },
+      {
+        "title": "US lawmakers reveal policy to curb collaboration with Chinese biotech - Pharmaceutical Technology",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2JiWjdXM2NvTkZBa1lBaUx5ekZkMWp1MU4xRGdiQ0ExU19haUFWRG80ZktXcG1LNmpRQzN4OUlESHBtcG4tUUNrZHJZdWhydVpyODNmMXdHdGx1OENpUFNVbGdTMFJWUlpBMTllVE",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2JiWjdXM2NvTkZBa1lBaUx5ekZkMWp1MU4xRGdiQ0ExU19haUFWRG80ZktXcG1LNmpRQzN4OUlESHBtcG4tUUNrZHJZdWhydVpyODNmMXdHdGx1OENpUFNVbGdTMFJWUlpBMTllVERoejQ4VVlCVDFCcThBNWFqV3RsY05WVlhWaWItU0hmeGtKNzVpQlIxYUh4Z1VnS1BiNE9JR1VLbXpxdDItOG5ycXVtY19kUHA5?oc=5"
+      },
+      {
+        "title": "As Akeso takes center stage at ASCO, China biotech industry cements its coming of age - Fierce Pharma",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlVvejN2clN4TFJMUGgydEhxTE5LZHRiZ3lvV1pMR1Fqa25GWG9PYXJIdm1Oc21CcVpDRnh3dkJZZ2tQSjAtc3RUUUpvVXBNSHhCQkJhbzhld0tuenpoX2hmdEhmVFk5RUtYZTFUMl",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQlVvejN2clN4TFJMUGgydEhxTE5LZHRiZ3lvV1pMR1Fqa25GWG9PYXJIdm1Oc21CcVpDRnh3dkJZZ2tQSjAtc3RUUUpvVXBNSHhCQkJhbzhld0tuenpoX2hmdEhmVFk5RUtYZTFUMlJqaVhQR1VfQnZyaExVVVBEVlVOV3lXN3l5TGpja2dOV29Lbk84MmxQeUdlOE5SVnh1bVdtNFFSNTFOdTVxOENXSQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        4
+      ],
+      [
+        "pricing",
+        3
+      ],
+      [
+        "regulation",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 47,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 3,
+      "Italian / 이탈리아어": 3,
+      "Portuguese / 포르투갈어": 3,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 0,
+      "Russian / 러시아어": 3,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 5,
+      "Thai / 태국어": 5,
+      "Indonesian / 인도네시아어": 6,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "C’est le médicament le plus consommé par les Français : mais pourquoi le prix du paracétamol pourrait augmenter à l’avenir - Midi Libre",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTURZNXFHWnItS3ZtSl9ia0p5T3ZsWURNcmFxRV9zLXpPUWhxeVM1ZEdsdkNiLVFzSUxrTFRSc3ZlSWE3ejdNcmVETjVEU3hmcUdaUjhaNnFIbmNpWG95U1lCYUxjRzhDM1dWTmhrRX",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTURZNXFHWnItS3ZtSl9ia0p5T3ZsWURNcmFxRV9zLXpPUWhxeVM1ZEdsdkNiLVFzSUxrTFRSc3ZlSWE3ejdNcmVETjVEU3hmcUdaUjhaNnFIbmNpWG95U1lCYUxjRzhDM1dWTmhrRXlWTHVDSllPN0pBcmNfNk1mM1ltYks2RUFGQnlCSTI1VEcwV29sVnpIeHdTREY2MVk5cG4xLWt5QVQ0aWNCZXJuWFhoMl92MnpGNW8zTzlYMGpKWHZHWC1BTGpKS1F6Uy00Uk9SZHVLaXBZM1BVSDhVRkhPWkxzOElDTm5VaF9sVExacEtlT3BlV19HWQ?oc=5"
+      },
+      {
+        "title": "Le paracétamol moins cher qu'une baguette : la patronne d'Upsa milite pour une hausse des prix - Capital.fr",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMFl5eTVGeFpRVHQ2Y1ZIWHFpdUw3VjctZEdFcEpwbjdHMmFzbHJLa0FBLUlGSGFOd0ZqbTR0LVhQZXpFaTU2UzNtQTFwWEdLX0RkVFNSRzcwVmFqRHN3Y1lMblNwYWVQdkJTdzl5a2",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMFl5eTVGeFpRVHQ2Y1ZIWHFpdUw3VjctZEdFcEpwbjdHMmFzbHJLa0FBLUlGSGFOd0ZqbTR0LVhQZXpFaTU2UzNtQTFwWEdLX0RkVFNSRzcwVmFqRHN3Y1lMblNwYWVQdkJTdzl5a29QV1pLYlpMVmUtOHhFOF9aSlBnS0hDMGFlak52RVRWT3lsTDJhZDJ4dmtUc1VlZkh1R1YxX0NvZVo0QVVUcVo1N0F2dVNUU25jTEVadktfVVZnd1dIajRjWVVqMVlXYmJrTllMU1RkT0pjcjg?oc=5"
+      },
+      {
+        "title": "La pharmacie française d'il y a 60 ans : derrière le comptoir, un monde que les moins de 40 ans ne soupçonnent pas - Le Tribunal du Net",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTNzMG5lVS14NVY1a0pkaFZlR3BZSUNnb2NIY3VleFRfaDJhSHdaUjY3U3N0RVZkdFZEeFFuWmRGMmo0bnRIdnA2MDFVbDBObFE1cWRwZUJ6VG5naFRubU4tb1djVWNSdlFkeF9BSU",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTNzMG5lVS14NVY1a0pkaFZlR3BZSUNnb2NIY3VleFRfaDJhSHdaUjY3U3N0RVZkdFZEeFFuWmRGMmo0bnRIdnA2MDFVbDBObFE1cWRwZUJ6VG5naFRubU4tb1djVWNSdlFkeF9BSU9fY1Utc3EydzFpRkg4T2VLQzlfNHBZMWZ6d1p0RllkXy16cG8?oc=5"
+      },
+      {
+        "title": "Millionen nehmen ACE-Hemmer: Behörden korrigieren jetzt diese Angabe im Beipackzettel - Frankfurter Rundschau",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnV1d1hxWFo5WUVyekdWNS1tYWFJQWJTN1FkbnJmcnRFZWRabDlvQkdOZ2YxcGlFR0tMZm5WclFjTUVrX3g0ZGFuTVNocS1HcDV2Ukp5QVFINUZ3U212ZzJmamFCTWxPd1FZS3pOY0",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnV1d1hxWFo5WUVyekdWNS1tYWFJQWJTN1FkbnJmcnRFZWRabDlvQkdOZ2YxcGlFR0tMZm5WclFjTUVrX3g0ZGFuTVNocS1HcDV2Ukp5QVFINUZ3U212ZzJmamFCTWxPd1FZS3pOY0pBaG1tQmJ4QlN2OURNWnJNd3ZwOWU5U0pxYW42OWVKb3dYc09BUW00MXZlcGJZb0hJZUpXUkItQU9VbnRsbWpfM1U5NWFJazcteV9sRzRoa3g0MnRSbWQySA?oc=5"
+      },
+      {
+        "title": "Cofares, a la vanguardia del sector farmacéutico al integrar tecnologías punteras en su operativa diaria - El Globalfarma",
+        "source": "",
+        "importance": 0,
+        "stars": "",
+        "evidence": "",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wX296eXhzem13dkQzS2t6NEFQeFdBQlJnWlFqWWNfTnR0Mk5vaEVmR1VBVzhwZFJ3bUlZU21WTTZnSFdFMGRPb0IyOVhQQlpDOFo3azF5TFdvNnh1dXhv?oc=5\" target=\"_blank\"",
+        "time": "",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wX296eXhzem13dkQzS2t6NEFQeFdBQlJnWlFqWWNfTnR0Mk5vaEVmR1VBVzhwZFJ3bUlZU21WTTZnSFdFMGRPb0IyOVhQQlpDOFo3azF5TFdvNnh1dXhv?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
