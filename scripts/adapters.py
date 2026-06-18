@@ -15,6 +15,7 @@ Article = {
 """
 import urllib.parse, subprocess, json, re, os, sys, time
 from html import unescape
+import email.utils
 from datetime import datetime, timedelta, timezone
 
 KST = timezone(timedelta(hours=9))
@@ -25,6 +26,43 @@ NOW = datetime.now(KST)
 # ===================================================================
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
+
+def is_within_24h(time_str):
+    """기사 time 필드가 24시간 이내인지 확인"""
+    if not time_str:
+        return True  # 시간 정보 없으면 통과 (보수적)
+    ts = time_str.strip()
+
+    # 분 단위 → 무조건 24h 이내
+    if re.search(r'\d+\s*분', ts):
+        return True
+
+    # 시간 단위
+    h = re.search(r'(\d+)\s*시간', ts)
+    if h:
+        return int(h.group(1)) <= 24
+
+    # 일 단위
+    d = re.search(r'(\d+)\s*일', ts)
+    if d:
+        return False  # 1일 이상이면 24h 초과
+
+    # 어제 / yesterday
+    if any(w in ts for w in ['어제', 'yesterday', '昨']):
+        return False
+
+    # 주 / 개월 / 년 → 무조건 초과
+    if re.search(r'(주|week|개월|month|년|year)', ts):
+        return False
+
+    # RFC 2822 pubDate 형식 (Google RSS)
+    try:
+        dt = email.utils.parsedate_to_datetime(ts)
+        return (datetime.now(timezone.utc) - dt).total_seconds() <= 86400
+    except Exception:
+        pass
+
+    return True  # 판별 불가면 통과 (보수적)
 
 def dedup(articles):
     """URL + 제목 기반 중복제거"""
@@ -338,7 +376,12 @@ def hybrid_collect(primary, secondaries, keywords, lang_config, min_count=30):
     
     all_articles = dedup(all_articles)
     
-    # 부족분 보충
+    # 24시간 이내 기사만 필터
+    before = len(all_articles)
+    all_articles = [a for a in all_articles if is_within_24h(a.get('time', ''))]
+    dropped = before - len(all_articles)
+    if dropped:
+        log(f"    ⏰ 24시간 초과 필터: {dropped}건 드롭됨")
     if len(all_articles) < min_count:
         needed = min_count - len(all_articles)
         for secondary in secondaries:
