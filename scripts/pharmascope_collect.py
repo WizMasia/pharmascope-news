@@ -320,6 +320,84 @@ with open(os.path.join(DAILY_DIR, 'summary.txt'), 'w', encoding='utf-8') as f:
     f.write(f"📄 https://github.com/WizMasia/pharmascope-news/blob/main/daily/{DATE_STR}/report.md\n")
 
 # ===================================================================
+# DAILY SUMMARY JSON — 주간/월간 집계용 구조화 요약
+# ===================================================================
+log("📊 daily_summary.json 생성 중...")
+PHARMA_KEYWORDS_KR = [
+    '비만', 'GLP-1', '위고비', '마운자로', '오남용', 'GMP', '실사',
+    '허가', '심사', '신약', '제네릭', '바이오시밀러', '약가', '급여',
+    '한약', '생약', '천연물', '임상', 'ADC', '항암',
+    'FDA', '식약처', 'MFDS', '원료의약품', '공급망',
+    '백신', '특허', 'CRO', 'CDMO', 'R&D', '수출'
+]
+PHARMA_KEYWORDS_EN = [
+    'GLP-1', 'obesity', 'FDA', 'GMP', 'shortage', 'biosimilar',
+    'clinical trial', 'approval', 'generic', 'vaccine',
+    'inspection', 'regulation', 'pricing', 'patent',
+    'manufacturing', 'quality', 'recall', 'safety'
+]
+
+def count_title_keywords(titles, keywords):
+    """제목 내 키워드 카운트 (정수)"""
+    counts = {}
+    for kw in keywords:
+        cnt = sum(1 for t in titles if kw.lower() in t.lower())
+        if cnt > 0:
+            counts[kw] = cnt
+    return sorted(counts.items(), key=lambda x: -x[1])
+
+def build_lang_summary(lang_data, top_n, keywords, name_field='categories'):
+    """언어별 요약 데이터 구성"""
+    total = sum(len(v) for v in lang_data.values())
+    cat_counts = {k: len(v) for k, v in lang_data.items()}
+    all_titles = []
+    all_articles = []
+    source_hits = {}
+    for cat_name, items in lang_data.items():
+        for a in items:
+            all_titles.append(a.get('title', ''))
+            all_articles.append(a)
+            src = a.get('source', '')
+            if src:
+                source_hits[src] = source_hits.get(src, 0) + 1
+    # 상위 중요도 기사
+    sorted_articles = sorted(all_articles, key=lambda x: x.get('importance', 0), reverse=True)
+    top_articles = []
+    for a in sorted_articles[:top_n]:
+        top_articles.append({
+            'title': a.get('title', ''),
+            'source': a.get('source', ''),
+            'importance': a.get('importance', 0),
+            'stars': a.get('stars', ''),
+            'evidence': a.get('evidence', ''),
+            'snippet': (a.get('snippet', '') or '')[:200],
+            'time': a.get('time', ''),
+            'url': a.get('url', ''),
+        })
+    return {
+        'total': total,
+        name_field: cat_counts,
+        'top_articles': top_articles,
+        'top_keywords': count_title_keywords(all_titles, keywords)[:20],
+        'top_sources': sorted(source_hits.items(), key=lambda x: -x[1])[:15],
+    }
+
+daily_summary = {
+    'date': DATE_STR,
+    'total': total_all,
+    'version': 1,
+    'generated_at': NOW.isoformat(),
+    'korean': build_lang_summary(kr_data, 10, PHARMA_KEYWORDS_KR),
+    'english': build_lang_summary(en_data, 10, PHARMA_KEYWORDS_EN, 'categories'),
+    'multilingual': build_lang_summary(ml_data, 5, [], 'languages'),  # 다국어는 키워드 분석 생략
+}
+
+summary_path = os.path.join(DAILY_DIR, 'daily_summary.json')
+with open(summary_path, 'w', encoding='utf-8') as f:
+    json.dump(daily_summary, f, ensure_ascii=False, indent=2)
+log(f"✅ daily_summary.json 저장 완료: {len(json.dumps(daily_summary, ensure_ascii=False))}자")
+
+# ===================================================================
 # README
 # ===================================================================
 readme_path = os.path.join(BASE_DIR, 'README.md')
