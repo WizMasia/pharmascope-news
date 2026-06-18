@@ -47,8 +47,11 @@ def git_commit(message):
             commit = subprocess.run(['git', 'commit', '-m', message], cwd=repo_dir, capture_output=True, text=True, timeout=30)
             if commit.returncode == 0:
                 log(f"  ✅ git commit ({label})")
-                subprocess.run(['git', 'push', 'origin', 'main', '--force'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
-                log(f"  ✅ git push ({label})")
+                push = subprocess.run(['git', 'push', 'origin', 'main'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
+                if push.returncode == 0:
+                    log(f"  ✅ git push ({label})")
+                else:
+                    log(f"  ⚠️ git push ({label}) 실패: {push.stderr.strip()}")
             else:
                 log(f"  ⚠️ git commit ({label}): {commit.stderr.strip()}")
         except Exception as e:

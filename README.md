@@ -1,24 +1,24 @@
 # 🔬 PharmaScope — 의약업계 글로벌 동향
 
 **v3.2 Adapter Pattern + Browser URL Resolution + Daily Summary**
-**업데이트:** 2026-06-18 09:48 KST
+**업데이트:** 2026-06-19 09:48 KST
 
 ---
 
-## 📰 오늘의 수집 (2026-06-18)
+## 📰 오늘의 수집 (2026-06-19)
 
 | 구분 | 건수 | 비고 |
 |------|------|------|
-| 🇰🇷 한국어 | **300건** | 10개 카테고리 |
+| 🇰🇷 한국어 | **299건** | 10개 카테고리 |
 | 🌐 영어 | **180건** | 6개 카테고리 |
-| 🌏 다국어 | **239건** | 20개 언어 |
-| **합계** | **719건** | 일평균 대비 ↑ |
+| 🌏 다국어 | **243건** | 20개 언어 |
+| **합계** | **722건** | 일평균 대비 ↑ |
 
 **🔑 주요 키워드**
-- 🇰🇷 식약처(29), 신약(25), 허가(16), 약가(14), 임상(11)
-- 🌐 FDA(24), pricing(9), GMP(8), approval(6), inspection(6)
+- 🇰🇷 약가(21), 식약처(19), 신약(18), 허가(16), 임상(15)
+- 🌐 FDA(20), pricing(10), approval(8), GMP(7), inspection(5)
 
-**📄 상세 리포트:** [report.md](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-18/report.md)
+**📄 상세 리포트:** [report.md](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-19/report.md)
 
 ---
 
@@ -26,6 +26,7 @@
 
 | 일자 | 건수 | 리포트 |
 |------|------|--------|
+| 2026-06-19 | **722건** | [📄 링크](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-19/report.md) |
 | 2026-06-18 | **719건** | [📄 링크](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-18/report.md) |
 | 2026-06-17 | 135건 | [📄 링크](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-17/report.md) |
 | 2026-06-16 | 160건 | [📄 링크](https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-06-16/report.md) |
