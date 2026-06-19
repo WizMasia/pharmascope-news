@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-19",
+  "total_articles": 595,
+  "language_breakdown": {"korean": 167, "english": 180, "multilingual": 248},
+  "issues": [
+    {
+      "topic": "FDA 승인 러시 — 항생제·독감약·고혈압치료제 승인 및 항암제 라인업 확장",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 20,
+      "avg_importance": 57,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "FDA approves first generic version of Roche's flu drug", "importance": 67, "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"},
+        {"title": "AstraZeneca Gets U.S. Approval for Hypertension Drug", "importance": 47, "url": "https://www.morningstar.com/news/dow-jones/20260518498/astrazeneca-gets-usa-approval-for-hypertension-drug"},
+        {"title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval", "importance": 47, "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"},
+        {"title": "RedHill's Opaganib Receives FDA Rare Pediatric Disease Designation for Neuroblastoma", "importance": 47, "url": "https://finance.yahoo.com/sectors/healthcare/articles/redhills-opaganib-receives-fda-rare-110000137.html"}
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염 경구용 항생제, 로슈 독감약 최초 제네릭, 아스트라제네카 고혈압 신약을 잇따라 승인. 항암제·진단기기 승인도 동시 진행되며 FDA 승인 라인이 크게 확장됨.",
+      "summary_en": "FDA approves GSK's oral antibiotic for resistant UTIs, first generic of Roche's flu drug, AstraZeneca's hypertension drug alongside oncology products — a major approval wave."
+    },
+    {
+      "topic": "바이오시밀러·제네릭 규제 완화 — 한미 양국 동시 추진",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 52,
+      "key_articles": [
+        {"title": "美바이오시밀러 규제완화법 순항…상원 '만장일치'", "importance": 50, "url": "https://www.newsis.com/view/NISX20260618_0003674013"},
+        {"title": "FDA's plan to boost biosimilar drugs could stall at the patent office", "importance": 61, "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"},
+        {"title": "FDA to speed up approvals of generic biologic medicines as Trump targets high drug costs", "importance": 47, "url": "https://www.cnbc.com/2025/10/29/fda-to-speed-up-generic-drug-approvals-as-trump-targets-drug-costs.html"},
+        {"title": "High Court 'Skinny Label' Ruling Is No Generic Drug Free-for-All", "importance": 67, "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"},
+        {"title": "FDA Moves To Accelerate Biosimilar Development, Lower Drug Costs", "importance": 47, "url": "https://www.msn.com/en-us/health/other/fda-moves-to-accelerate-biosimilar-development-lower-drug-costs/ar-AA1PrhxP?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "미국 상원에서 바이오시밀러 규제완화법이 만장일치 통과. FDA도 제네릭 생물의약품·바이오시밀러 승인 가속화 정책 추진 중이나 특허청과의 충돌 가능성 존재. 한미 양국이 바이오시밀러 시장 확대에 동시 베팅하는 구도.",
+      "summary_en": "US Senate unanimously passes biosimilar regulatory relief bill. FDA accelerates generic biologic drug approvals, but patent office friction could stall progress. Korea-US aligned on biosimilar expansion."
+    },
+    {
+      "topic": "국내 약가·급여 대격변 — 복합제 인하, 탈모약 급여확대, 혁신신약 급여갈등",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 48,
+      "key_articles": [
+        {"title": "2013년 등재 복합제도 조합 성분따라 올해 약가인하 시작", "importance": 66, "url": "https://www.dailypharm.com/user/news/339581"},
+        {"title": "\"전액 본인 부담이었는데\"…중증 원형 탈모 치료제 건강보험 급여 확대", "importance": 60, "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990070.html"},
+        {"title": "[취재수첩] 건보 재정에 발목 잡힌 혁신신약 개발", "importance": 45, "url": "https://www.hankyung.com/article/2026060964961"},
+        {"title": "늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나?", "importance": 60, "url": "https://dailypharm.com/user/news/339454"},
+        {"title": "기다리다 숨지는 일 없게, 신약 '240일 허가' 시대 여는 식약처", "importance": 45, "url": "https://www.fnnews.com/news/202606160621126111"}
+      ],
+      "summary_kr": "2013년 등재 복합제 약가인하가 본격화되어 제약업계에 타격 예상. 중증 탈모 치료제 건강보험 급여 확대(7월 1일 시행). 혁신신약 림카토(CAR-T) 급여 등재 거부로 건보 재정과 신약 접근성 사이의 갈등 심화.",
+      "summary_en": "Korea's drug pricing overhaul begins with 2012-era combo drug price cuts. Severe alopecia treatment gains insurance coverage (July 1). CAR-T therapy 'Limcato' denied reimbursement — innovation vs fiscal sustainability clash."
+    },
+    {
+      "topic": "한미약품·비만치료제·방사성의약품 — 국내 제약 R&D 다각화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 8,
+      "avg_importance": 48,
+      "key_articles": [
+        {"title": "한미약품, 도입품목 키우고 신약 성과 더하고…성장축 다변화", "importance": 46, "url": "https://www.medipana.com/news/articleView.html?idxno=413091"},
+        {"title": "셀비온, '국산 신약 44호' 주인공되나…하반기 조건부 허가 전환점", "importance": 45, "url": "https://www.edaily.co.kr/News/Read?newsId=03135686645483032"},
+        {"title": "\"MASH·비만신약 年 2천만개 생산\" 한미약품, 평택바이오플랜트 IR", "importance": 60, "url": "https://www.catchnews.kr/news/articleViewAmp.html?idxno=125156"},
+        {"title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득", "importance": 51, "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"},
+        {"title": "유한양행 고셔병 신약 FDA 희귀의약품 지정", "importance": 52, "url": "https://www.news1.kr/bio/pharmaceutical-bio/6201785"}
+      ],
+      "summary_kr": "한미약품이 평택 바이오플랜트에서 MASH·비만신약 연 2천만개 생산 기업설명회 개최. 셀비온 방사성의약품 신약 조건부 허가 기대감. 유한양행 고셔병 치료제 FDA 희귀의약품 지정. 국내 제약사가 비만·방사성의약품·희귀질환으로 R&D 포트폴리오 다각화.",
+      "summary_en": "Hanmi Pharma promotes Pyeongtaek plant for MASH/obesity drugs (20M units/year). Cellbion's radiopharmaceutical nears conditional approval. Yuhan's Gaucher drug gets FDA orphan designation. Korean pharma diversifies R&D pipeline."
+    },
+    {
+      "topic": "EU 제약규제 개혁 — 혁신 위기와 화학물질 규제 충돌",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 56, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"},
+        {"title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says", "importance": 56, "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"}
+      ],
+      "summary_kr": "EU 약사법 개정안이 오히려 유럽의 R&D 혁신을 촉진하지 못할 것이라는 업계 경고. 불소화합물 사용 제한안은 의약품 제조를 완전 중단시킬 수 있다는 극단적 전망. EU 제약규제 개혁이 '기회 상실'로 평가받으며 업계 반발 거세.",
+      "summary_en": "EU pharma regulation overhaul faces industry backlash — EFPIA warns of R&D decline and potential manufacturing halt from proposed chemical (PFAS) ban. Reform labeled a 'missed opportunity.'"
+    },
+    {
+      "topic": "글로벌 약가 압박 — Medicare·영국 전략·PhRMA 대응",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 58,
+      "key_articles": [
+        {"title": "Big pharma taps UK playbook to pressure European capitals on drug prices", "importance": 67, "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"},
+        {"title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo", "importance": 61, "url": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/"},
+        {"title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs", "importance": 56, "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"}
+      ],
+      "summary_kr": "빅파마가 영국식 약가협상 전략을 유럽 각국에 확산시키는 움직임. Medicare가 피하주사형 키트루다·옵디보까지 약가협상 대상에 포함 추진. PhRMA는 직접구매 프로그램 홍보 웹사이트로 대응.",
+      "summary_en": "Big pharma uses UK pricing playbook across Europe. Medicare expands negotiation to subcutaneous Keytruda/Opdivo. PhRMA counters with direct-purchase website campaign."
+    },
+    {
+      "topic": "전통의학·대체의학 글로벌 확산 — K-MEX 서울 개최, 한약 과학화",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 53,
+      "key_articles": [
+        {"title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花", "importance": 55, "url": "https://udn.com/news/story/7270/8851185"},
+        {"title": "Ancient Chinese medicine could transform hair loss treatment", "importance": 65, "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm"},
+        {"title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊", "importance": 50, "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"}
+      ],
+      "summary_kr": "서울에서 K-MEX 한의약 국제 박람회 개최, 침술 과학화 논의. 고대 중국 약초의 탈모 치료 효과 과학적 재조명. 대만은 의약품 자급률 강화 정책 추진. 전통의학이 글로벌 보완의학으로 자리잡는 추세.",
+      "summary_en": "K-MEX opens in Seoul bridging Korean and Chinese traditional medicine. Ancient Chinese herb shows hair loss treatment potential. Taiwan advances drug self-sufficiency. Global traditional medicine integration accelerates."
+    },
+    {
+      "topic": "항생제 내성 위기 — 신약 개발·AI 신약발굴·새 작용기전",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 52,
+      "key_articles": [
+        {"title": "New antibiotic pill shows promise against drug-resistant gonorrhea", "importance": 65, "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"},
+        {"title": "New antibiotic kills drug-resistant bacteria by targeting previously unknown vulnerability", "importance": 47, "url": "https://www.msn.com/en-us/health/other/new-antibiotic-kills-drug-resistant-bacteria-by-targeting-previously-unknown-vulnerability/ar-AA24Ks3f?ocid=BingNewsVerp"},
+        {"title": "AI screens 6 million compounds to uncover two leads against drug-resistant gonorrhea", "importance": 47, "url": "https://www.msn.com/en-us/health/other/ai-screens-6-million-compounds-to-uncover-two-leads-against-drug-resistant-gonorrhea/ar-AA25XKGU?ocid=BingNewsVerp"},
+        {"title": "New antibiotic design could help treat drug-resistant infections", "importance": 47, "url": "https://medicalxpress.com/news/2026-05-antibiotic-drug-resistant-infections.html"}
+      ],
+      "summary_kr": "GSK의 내성 요로감염 경구용 항생제 FDA 승인(Cluster 1과 중첩). 졸리플로다신 단회경구용 임질 치료제 유망. AI 기반 600만 화합물 스크리닝으로 내성 임질 신약 후보 발굴. 항생제 내성 위기에 대응한 다양한 신약 개발 경쟁.",
+      "summary_en": "GSK's oral antibiotic for resistant UTIs approved. Zoliflodacin shows promise for gonorrhea. AI screens 6M compounds for new antibiotic leads. Multiple approaches tackle the antimicrobial resistance crisis."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 3, "en_count": 4, "significance": "미 상원 바이오시밀러 규제완화법 만장일치 통과 + FDA 바이오시밀러 가속 정책. 한미 동시 추진의 글로벌 트렌드"},
+    {"keyword": "허가/approval", "kr_count": 8, "en_count": 8, "significance": "FDA·식약처 동시 다발적 의약품 승인. 한미 양국 규제기관의 활발한 허가 활동"},
+    {"keyword": "임상/clinical trial", "kr_count": 5, "en_count": 4, "significance": "항암제·희귀질환 임상시험 글로벌 활성화. 국내 임상도 동시 진행"},
+    {"keyword": "약가/pricing", "kr_count": 4, "en_count": 10, "significance": "가장 큰 교차 이슈. 한국 약가인하 + Medicare 약가협상 + 유럽 약가 압박 — 글로벌 약가 인하기조 확산"}
+  ],
+  "notable_absences": [
+    "GMP 실사 관련 심층 기사 부족 (식약처 GMP 개편 관련 기사는 있으나 구체적 실사 사례 부족)",
+    "백신·감염병 관련 기사 예상보다 적음 (2건, AI 펜데믹 준비 등)",
+    "GLP-1 비만약 관련 기사 거의 없음 (한미약품 비만신약 IR 외에는 부재)",
+    "CDMO/위탁생산 관련 기사 3건으로 저조",
+    "일본·중국 규제 동향 (PMDA, NMPA) 관련 기사 부재"
+  ],
+  "trend_shift": {
+    "from_yesterday": "전일(FDA 의약품 승인, 방사성의약품, 국내 품목허가, GMP) 대비",
+    "changes": [
+      "약가/급여 이슈가 전면 부상 — 복합제 약가인하, 혁신신약 급여갈등이 어제보다 훨씬 강조됨",
+      "EU 제약규제 개혁 이슈 신규 등장 (Cluster 2, 3건)",
+      "전통의학/한의학 관련 기사 급증 — K-MEX 서울 개최 영향",
+      "항생제 내성 위기 + AI 신약발굴이 새로운 연구 테마로 부상"
+    ]
+  },
+  "connections": [
+    "Cluster 1(FDA 승인) × 항생제 내성: GSK 항생제 승인이 항생제 내성 위기 대응 연구 라인과 직접 연결",
+    "약가 이슈 글로벌 동시화: 한국 복합제 약가인하 + Medicare + 유럽 약가압박이 동시에 발생 — 글로벌 약가 인하기조의 동시다발적 확산",
+    "바이오시밀러 × 약가: 바이오시밀러 규제완화가 약가 인하의 도구로 활용되는 양면성"
+  ],
+  "generated_at": "2026-06-19T09:30:00+09:00"
+}
