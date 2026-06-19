@@ -1,18 +1,18 @@
 {
   "date": "2026-06-19",
-  "total": 588,
+  "total": 595,
   "version": 1,
-  "generated_at": "2026-06-19T08:46:43.104616+09:00",
+  "generated_at": "2026-06-19T09:04:23.662010+09:00",
   "korean": {
-    "total": 166,
+    "total": 167,
     "categories": {
       "의약품": 30,
       "의약산업": 30,
-      "의약정책": 20,
+      "의약정책": 19,
       "의약단체": 13,
-      "의약관련정부기관": 11,
+      "의약관련정부기관": 12,
       "의료현장": 8,
-      "약국·약사": 3,
+      "약국·약사": 4,
       "의료정책·인력": 20,
       "전통의학": 1,
       "감염·보건": 30
@@ -23,9 +23,9 @@
         "source": "DailyPharm",
         "importance": 66,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:DailyPharm+24 | 최신:2시간+20 | 키워드+20 | 순위:61위+2",
+        "evidence": "출처:DailyPharm+24 | 최신:3시간+20 | 키워드+20 | 순위:58위+2",
         "snippet": "정부가 단계적인 기등재 약가인하를 추진하는 가운데, 복합제는 조합 성분 중 하나라도 2012년 전에 등재했다면 올해부터 가격 인하가 이뤄질 것으로 보인다. 복합제를 구성하는 성분 중 가장 오래된 성분을 기준으로 1, 2단계 ...",
-        "time": "2시간",
+        "time": "3시간",
         "url": "https://www.dailypharm.com/user/news/339581"
       },
       {
@@ -33,7 +33,7 @@
         "source": "TV Chosun News",
         "importance": 60,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:TV Chosun News+28 | 최신:1시간+20 | 키워드+10 | 순위:66위+2",
+        "evidence": "출처:TV Chosun News+28 | 최신:1시간+20 | 키워드+10 | 순위:63위+2",
         "snippet": "오는 7월 1일부터 성인 중증 원형 탈모증 환자의 치료제에 대한 건강보험 급여 기준이 대폭 확대된다. 19일 보건복지부는 바리시티닙 성분 경구제(품명 올루미언트정 2밀리그램 등)의 요양급여 적용기준 일부개정안을 고시했다. 그동안 약값 전액을 환자가 부담해야 했지만, 건강보험 지원 대상이 넓어졌다. 급여 적용을 받으려면 우선 스테로이드나 사이클로스포린 등 기",
         "time": "1시간",
         "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990070.html"
@@ -43,7 +43,7 @@
         "source": "EBN",
         "importance": 51,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:EBN+24 | 최신:+5 | 키워드+20 | 순위:101위+2",
+        "evidence": "출처:EBN+24 | 최신:+5 | 키워드+20 | 순위:104위+2",
         "snippet": "비씨월드제약이 P-CAB (칼륨 경쟁적 위산분비 억제제) 계열 위장질환 치료제 품목허가를 획득하며 소화기 치료제 시장 공략에 나선다. 의약품 연구개발 및 생산 전문기업 비씨월드제약은 P-CAB 계열 위장질환 치료제 '보노바정 ...",
         "time": "",
         "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
@@ -53,39 +53,29 @@
         "source": "Newsis",
         "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Newsis+28 | 최신:22시간+10 | 키워드+10 | 순위:104위+2",
+        "evidence": "출처:Newsis+28 | 최신:22시간+10 | 키워드+10 | 순위:107위+2",
         "snippet": "[서울=뉴시스]황재희 기자 = 미국 상원 상임위원회가 바이오시밀러 규제완화법을 만장일치로 통과시켰다. 바이오시밀러 시장 진입을 신속하게 하기 위한 절차가 순항 중이다.18일 한국바이오협회 바이오경제연구센터에 따르면, 미국 ...",
         "time": "22시간",
         "url": "https://www.newsis.com/view/NISX20260618_0003674013"
       },
       {
-        "title": "지역보건의료기관 거점화…4년 중장기 개편안 추진",
-        "source": "Newsis",
-        "importance": 50,
+        "title": "지역보건법 전면 개정 30년…정부, 지역보건의료기관 거점화",
+        "source": "연합뉴스",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Newsis+28 | 최신:21시간+10 | 키워드+10 | 순위:109위+2",
-        "snippet": "[세종=뉴시스] 강진아 기자 = 정부가 읍&#183;면 단위로 분산된 지역보건의료기관을 거점화&#183;집중화해 주민의 의료접근성을 높이는 중장기 개편안을 마련한다.보건복지부와 한국건강증진개발원은 18일 서울 중구 크레스트72에서 '2026년 ...",
-        "time": "21시간",
-        "url": "https://www.newsis.com/view/NISX20260618_0003673759"
-      },
-      {
-        "title": "약사 직능의 확장과 ‘사람 냄새 나는 약국’",
-        "source": "KPA News",
-        "importance": 48,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:KPA News+18 | 최신:18시간+10 | 키워드+5 | 순위:10위+15",
-        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 약국은 더 이상 단순히 처방전을 조제하고 의약품을 판매하는 공간에 머물지 않는다. 환자 경험을 고려한 공간 설계부터 디지털 시스템 도입, 직원 조직문화, 브랜딩과 마케팅까지.",
-        "time": "18시간",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=536889"
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+10 | 순위:99위+2",
+        "snippet": "정부는 초고령사회 진입, 지역 인구소멸, 의료자원 부족 등 지역 여건이 급변함에 따라 읍&#183;면 단위로 분산된 지역보건의료기관을 거점&#183;집중화해 주민의 의료접근성을 높이는 중장기 개편안을 마련할 계획이다.",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260617143600530"
       },
       {
         "title": "한미약품, 도입품목 키우고 신약 성과 더하고‥성장축 다변화",
         "source": "Medipana News",
         "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Medipana News+24 | 최신:20시간+10 | 키워드+10 | 순위:95위+2",
+        "evidence": "출처:Medipana News+24 | 최신:21시간+10 | 키워드+10 | 순위:98위+2",
         "snippet": "[메디파나뉴스 = 강희재 기자] 한미약품이 글로벌 오리지널 의약품 도입을 통해 내수 포트폴리오 보강에 나서고 있다. 회사는 글로벌 제약사 코프로모션 확대를 통해 기존 제품과의 시너지를 강화하고 주력 품목군을 확대하고 있다.",
-        "time": "20시간",
+        "time": "21시간",
         "url": "https://www.medipana.com/news/articleView.html?idxno=413091"
       },
       {
@@ -103,7 +93,7 @@
         "source": "Financial News",
         "importance": 45,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+10 | 순위:96위+2",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+10 | 순위:99위+2",
         "snippet": "[편집자주]올해 출범 12주년을 맞은 식품의약품안전처는 '국민 안심이 기준입니다'라는 슬로건 아래에 국제적 규제 기관으로 발돋움한다는 구상이다. 산업 육성과 국민 안전, 두 마리 토끼를 잡겠다고 내놓은 약속이 최근 수년 새 ...",
         "time": "",
         "url": "https://www.fnnews.com/news/202606160621126111"
@@ -113,10 +103,20 @@
         "source": "Hankyung",
         "importance": 45,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Hankyung+28 | 최신:+5 | 키워드+10 | 순위:97위+2",
+        "evidence": "출처:Hankyung+28 | 최신:+5 | 키워드+10 | 순위:100위+2",
         "snippet": "국산 1호 CAR-T 치료제 ‘림카토’가 건강보험 급여 문턱을 넘지 못했다. 바이오의약품 업계 관계자에 따르면 건강보험심사평가원은 ‘해외 공인 학술지의 임상 논문 게재 실적 부족’을 이유로 지난달 27일 급여 등재를 거부했다 ...",
         "time": "",
         "url": "https://www.hankyung.com/article/2026060964961"
+      },
+      {
+        "title": "셀비온, ‘국산 신약 44호’ 주인공되나...하반기 조건부 허가 전환점",
+        "source": "Edaily",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Edaily+28 | 최신:+5 | 키워드+10 | 순위:102위+2",
+        "snippet": "국내 방사성의약품(RPT) 시장의 개척자로 꼽히는 셀비온(308430)이 국산 신약의 새로운 역사를 쓸지 에 시장의 관심이 집중되고 있다. 최근 큐로셀(372320)의 림카토주와 퓨쳐캠의 프로스타뷰주사액이 각각 국산 신약 ...",
+        "time": "",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03135686645483032"
       }
     ],
     "top_keywords": [
@@ -125,16 +125,16 @@
         25
       ],
       [
-        "급여",
-        12
+        "비만",
+        11
       ],
       [
-        "비만",
+        "급여",
         10
       ],
       [
         "식약처",
-        9
+        10
       ],
       [
         "허가",
@@ -149,10 +149,6 @@
         5
       ],
       [
-        "바이오시밀러",
-        4
-      ],
-      [
         "약가",
         4
       ],
@@ -165,7 +161,11 @@
         3
       ],
       [
-        "백신",
+        "바이오시밀러",
+        3
+      ],
+      [
+        "항암",
         3
       ],
       [
@@ -173,7 +173,11 @@
         3
       ],
       [
-        "항암",
+        "GMP",
+        2
+      ],
+      [
+        "백신",
         2
       ],
       [
@@ -182,10 +186,6 @@
       ],
       [
         "GLP-1",
-        1
-      ],
-      [
-        "GMP",
         1
       ],
       [
@@ -204,15 +204,15 @@
     "top_sources": [
       [
         "EBN",
-        7
+        8
       ],
       [
         "Financial News",
-        4
+        3
       ],
       [
-        "Newsis",
-        2
+        "파이낸셜뉴스 on MSN",
+        3
       ],
       [
         "Hankyung",
@@ -227,19 +227,15 @@
         2
       ],
       [
-        "Medical News",
+        "Bloter",
         2
       ],
       [
-        "Seoul Economic Daily",
+        "서울경제 on MSN",
         2
       ],
       [
         "아주경제 on MSN",
-        2
-      ],
-      [
-        "파이낸셜뉴스 on MSN",
         2
       ],
       [
@@ -253,6 +249,10 @@
       [
         "Financial News on MSN",
         2
+      ],
+      [
+        "Newsis",
+        1
       ],
       [
         "Medipana News",
@@ -300,7 +300,7 @@
         "source": "Reuters",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+30 | 순위:126위+2",
+        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+30 | 순위:120위+2",
         "snippet": "Global pharmaceutical companies, facing pushback from European capitals on drug pricing, are turning to a playbook that ...",
         "time": "",
         "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
@@ -310,7 +310,7 @@
         "source": "Bloomberg Law News",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Bloomberg Law News+30 | 최신:+5 | 키워드+30 | 순위:137위+2",
+        "evidence": "출처:Bloomberg Law News+30 | 최신:+5 | 키워드+30 | 순위:130위+2",
         "snippet": "Opinion: Generic drug manufacturers should view the Supreme Court's ruling in Hikma v. Amarin as a limited safe harbor ...",
         "time": "",
         "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
@@ -336,21 +336,21 @@
         "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
       },
       {
-        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "title": "Ancient Chinese medicine could transform hair loss treatment",
         "source": "Science Daily",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:131위+2",
-        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
-        "time": "3y",
-        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+        "evidence": "출처:Science Daily+28 | 최신:11d+5 | 키워드+30 | 순위:122위+2",
+        "snippet": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential ...",
+        "time": "11d",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm"
       },
       {
         "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
         "source": "FiercePharma",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:158위+2",
+        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:157위+2",
         "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
         "time": "3mon",
         "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
@@ -360,7 +360,7 @@
         "source": "FiercePharma",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:FiercePharma+24 | 최신:7mon+5 | 키워드+30 | 순위:141위+2",
+        "evidence": "출처:FiercePharma+24 | 최신:7mon+5 | 키워드+30 | 순위:134위+2",
         "snippet": "FDA regulation is often the least of the three major hurdles biosimilar makers must confront, industry officials say. (Sarah Silbiger/Stringer/Getty Images) While the FDA is streamlining regulation of",
         "time": "7mon",
         "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
@@ -370,7 +370,7 @@
         "source": "BioPharma Dive",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:BioPharma Dive+24 | 최신:3d+5 | 키워드+30 | 순위:154위+2",
+        "evidence": "출처:BioPharma Dive+24 | 최신:3d+5 | 키워드+30 | 순위:147위+2",
         "snippet": "For 2029, a federal rule proposes closing a &quot;loophole&quot; that protects medicines transitioning from intravenous administration ...",
         "time": "3d",
         "url": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/"
@@ -379,23 +379,23 @@
     "top_keywords": [
       [
         "FDA",
-        32
+        33
       ],
       [
         "pricing",
-        11
+        10
       ],
       [
         "GMP",
-        8
+        9
       ],
       [
         "manufacturing",
-        8
+        9
       ],
       [
         "approval",
-        7
+        8
       ],
       [
         "inspection",
@@ -415,18 +415,26 @@
       ],
       [
         "clinical trial",
-        3
+        4
       ],
       [
-        "quality",
-        2
+        "GLP-1",
+        1
       ],
       [
-        "recall",
-        2
+        "obesity",
+        1
       ],
       [
         "regulation",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "recall",
         1
       ],
       [
@@ -437,14 +445,10 @@
     "top_sources": [
       [
         "FiercePharma",
-        11
+        10
       ],
       [
         "RAPS",
-        8
-      ],
-      [
-        "JD Supra",
         8
       ],
       [
@@ -452,16 +456,12 @@
         7
       ],
       [
+        "JD Supra",
+        7
+      ],
+      [
         "Yahoo Finance",
         6
-      ],
-      [
-        "The American Journal of Managed Care",
-        5
-      ],
-      [
-        "Morningstar",
-        4
       ],
       [
         "CNBC",
@@ -472,7 +472,19 @@
         4
       ],
       [
+        "Medical Xpress",
+        4
+      ],
+      [
+        "The American Journal of Managed Care",
+        4
+      ],
+      [
         "Science Daily",
+        3
+      ],
+      [
+        "Morningstar",
         3
       ],
       [
@@ -480,25 +492,21 @@
         3
       ],
       [
-        "Medical Xpress",
+        "CNN",
         3
       ],
       [
-        "Business Wire",
+        "Markets Insider",
         3
       ],
       [
-        "Regulatory Affairs Professionals Society",
-        3
-      ],
-      [
-        "News Medical",
+        "Nasdaq",
         3
       ]
     ]
   },
   "multilingual": {
-    "total": 242,
+    "total": 248,
     "languages": {
       "French / 프랑스어": 15,
       "German / 독일어": 15,
@@ -507,11 +515,11 @@
       "Portuguese / 포르투갈어": 15,
       "Dutch / 네덜란드어": 15,
       "Swedish / 스웨덴어": 13,
-      "Polish / 폴란드어": 14,
+      "Polish / 폴란드어": 15,
       "Turkish / 터키어": 15,
       "Russian / 러시아어": 15,
-      "Japanese / 일본어": 7,
-      "Chinese Simplified / 중국어": 8,
+      "Japanese / 일본어": 13,
+      "Chinese Simplified / 중국어": 7,
       "Chinese Traditional / 대만": 6,
       "Vietnamese / 베트남어": 15,
       "Thai / 태국어": 15,
@@ -522,16 +530,6 @@
       "Persian / 페르시아어": 1
     },
     "top_articles": [
-      {
-        "title": "西洋医学と東洋医学を良いとこ取り 地域密着の漢方薬局として ...",
-        "source": "Gifu Shimbun Web",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Gifu Shimbun Web+10 | 최신:3 日+5 | 키워드+25 | 순위:8위+15",
-        "snippet": "明確な症状や原因が分かっている病気に対し、手術や薬でその部分を除去する治療が主の西洋医学。一方で東洋医学は、一つの処方に原則２種類以上の生薬で構成される漢方薬や鍼、お灸などを使うため、特定の症状や原因だけでなく、さまざまな症状に対応することが出来ます ...",
-        "time": "3 日",
-        "url": "https://www.gifu-np.co.jp/articles/-/689537"
-      },
       {
         "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
         "source": "聯合新聞網",
@@ -553,24 +551,34 @@
         "url": "https://www.globes.co.il/news/article.aspx?did=702189"
       },
       {
-        "title": "Przemysł farmaceutyczny wymyśla choroby, a na nie leki",
-        "source": "Newsweek",
+        "title": "推動藥物韌性、國藥國造 衛福部盤點關鍵藥物：明年建第2家管制藥品工廠",
+        "source": "Yahoo奇摩新聞",
         "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Newsweek+10 | 최신:16 lat+5 | 키워드+25 | 순위:15위+10",
-        "snippet": "Według prof. Joan Busfield z uniwersytetu w Essex powodem jest to, iż przemysł farmaceutyczny wymyśla coraz nowe leki dla przeciwdziałania stanom, kt&#243;rych jeszcze niedawno w og&#243;le nie znano,",
-        "time": "16 lat",
-        "url": "https://www.newsweek.pl/swiat/przemysl-farmaceutyczny-wymysla-choroby-a-na-nie-leki/mx5713l"
+        "evidence": "출처:Yahoo奇摩新聞+10 | 최신:3 個月+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "將 Yahoo 設為首選來源，在 Google 上查看更多我們的精彩報導 林靜儀表示，衛福部將推動國藥國造，包含列出關鍵藥品與醫材清單，預計明年將建制第二家管制藥品製藥工廠。（圖／記者簡浩正 ...",
+        "time": "3 個月",
+        "url": "https://tw.news.yahoo.com/%E6%8E%A8%E5%8B%95%E8%97%A5%E7%89%A9%E9%9F%8C%E6%80%A7-%E5%9C%8B%E8%97%A5%E5%9C%8B%E9%80%A0-%E8%A1%9B%E7%A6%8F%E9%83%A8%E7%9B%A4%E9%BB%9E%E9%97%9C%E9%8D%B5%E8%97%A5%E7%89%A9-%E6%98%8E%E5%B9%B4%E5%BB%BA%E7%AC%AC2%E5%AE%B6%E7%AE%A1%E5%88%B6%E8%97%A5%E5%93%81%E5%B7%A5%E5%BB%A0-020700594.html"
       },
       {
-        "title": "漢方をDXするVARYTEXが開発する漢方業務支援ソフトウェア 「KAMPO 365 ...",
-        "source": "PR TIMES",
+        "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+        "source": "中時新聞網",
         "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:PR TIMES+10 | 최신:1年+5 | 키워드+20 | 순위:9위+15",
-        "snippet": "VARYTEX（ヴァリテックス）株式会社（本社：東京都港区、代表取締役：平野喜一郎）は、同社が開発・提供する漢方専門医療機関向け漢方業務支援ソフトウェア「KAMPO 365 custom」が、漢方研究の最前線に立つ慶應義塾大学病院漢方医学センターで正式に採用さ ...",
-        "time": "1年",
-        "url": "https://prtimes.jp/main/html/rd/p/000000018.000077291.html"
+        "evidence": "출처:中時新聞網+10 | 최신:1 個月+5 | 키워드+25 | 순위:11위+10",
+        "snippet": "抗癌過程是一場長期抗戰，彰化基督教醫院中醫部主治醫師呂平安強調，中醫並非取代現代醫學，而是透過「扶正」、「去邪」，在不同治療階段提供支持，提升生活品質，藉由針灸或中藥調理 ...",
+        "time": "1 個月",
+        "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+      },
+      {
+        "title": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की ...",
+        "source": "Navbharat Times",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Navbharat Times+10 | 최신:4वर्ष+5 | 키워드+25 | 순위:15위+10",
+        "snippet": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की रफ्तार भाषा • 23 Dec 2021, 6:44 pm IST ...",
+        "time": "4वर्ष",
+        "url": "https://navbharattimes.indiatimes.com/business/business-news/the-pharmaceutical-health-industry-expects-growth-to-continue-in-the-year-2022/articleshow/88456346.cms"
       }
     ],
     "top_keywords": [],
@@ -588,6 +596,14 @@
         3
       ],
       [
+        "PR TIMES",
+        3
+      ],
+      [
+        "VietNamNet",
+        3
+      ],
+      [
         "Dainik Bhaskar",
         3
       ],
@@ -597,10 +613,6 @@
       ],
       [
         "Le Figaro",
-        2
-      ],
-      [
-        "ActuaLitté",
         2
       ],
       [
@@ -616,6 +628,10 @@
         2
       ],
       [
+        "OnVista",
+        2
+      ],
+      [
         "Interempresas",
         2
       ],
@@ -625,14 +641,6 @@
       ],
       [
         "Volkskrant",
-        2
-      ],
-      [
-        "SR Nieuws",
-        2
-      ],
-      [
-        "Yle",
         2
       ]
     ]

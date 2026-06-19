@@ -22,9 +22,9 @@
     },
     {
       "idx": 2,
-      "cbm_id": "CBMi1wFBVV95cUxQUFdLNmFNUURYOXNhelpuSW9zZURRdUxXeEVEcmlvaHFIR0xTNmFMSi15TUs5enRHaFlvUmh0VUs0NzlCWUwtbjVfSHpYZDZjUGZCdEdJdjRPbFFDc0d4LVlJWTRGeEs5RzI2enhTRFJQNFNmQ2NRQ0hyd2RkS204bEpEY2tiUXE2aHFOVkpIbUR4QTdSWnhFYkU0eUFjLW1QVjZ3a05ncXVGRTRQTXJySzRyNFJObmNZeUdNSXp4RktrVnozQU92S0YteDBCZURNdm9mSmFHYw",
-      "rss_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFdLNmFNUURYOXNhelpuSW9zZURRdUxXeEVEcmlvaHFIR0xTNmFMSi15TUs5enRHaFlvUmh0VUs0NzlCWUwtbjVfSHpYZDZjUGZCdEdJdjRPbFFDc0d4LVlJWTRGeEs5RzI2enhTRFJQNFNmQ2NRQ0hyd2RkS204bEpEY2tiUXE2aHFOVkpIbUR4QTdSWnhFYkU0eUFjLW1QVjZ3a05ncXVGRTRQTXJySzRyNFJObmNZeUdNSXp4RktrVnozQU92S0YteDBCZURNdm9mSmFHYw?oc=5&hl=ko&gl=US&ceid=US:ko",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFdLNmFNUURYOXNhelpuSW9zZURRdUxXeEVEcmlvaHFIR0xTNmFMSi15TUs5enRHaFlvUmh0VUs0NzlCWUwtbjVfSHpYZDZjUGZCdEdJdjRPbFFDc0d4LVlJWTRGeEs5RzI2enhTRFJQNFNmQ2NRQ0hyd2RkS204bEpEY2tiUXE2aHFOVkpIbUR4QTdSWnhFYkU0eUFjLW1QVjZ3a05ncXVGRTRQTXJySzRyNFJObmNZeUdNSXp4RktrVnozQU92S0YteDBCZURNdm9mSmFHYw?oc=5",
+      "cbm_id": "CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw",
+      "rss_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw?oc=5",
       "title": "유한양행 '제약보국' 100년…신약으로 이어온 故 유일한 박사의 꿈 - 전자신문",
       "source": "",
       "section": "korean",
@@ -42,6 +42,16 @@
     },
     {
       "idx": 4,
+      "cbm_id": "CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c",
+      "rss_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5",
+      "title": "한미약품, 평택 바이오플랜트서 IR 개최...비만신약 생산 역량 강조 - 뉴스투데이",
+      "source": "",
+      "section": "korean",
+      "category": "의약품"
+    },
+    {
+      "idx": 5,
       "cbm_id": "CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY",
       "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY?oc=5",
@@ -51,7 +61,7 @@
       "category": "의약품"
     },
     {
-      "idx": 5,
+      "idx": 6,
       "cbm_id": "CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV",
       "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV?oc=5",
@@ -61,21 +71,11 @@
       "category": "의약품"
     },
     {
-      "idx": 6,
+      "idx": 7,
       "cbm_id": "CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA?oc=5",
       "title": "‘MASH·비만신약 年 2천만개 생산’ 한미약품, 평택바이오플랜트 IR - catchnews.kr",
-      "source": "",
-      "section": "korean",
-      "category": "의약품"
-    },
-    {
-      "idx": 7,
-      "cbm_id": "CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c",
-      "rss_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5&hl=ko&gl=US&ceid=US:ko",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5",
-      "title": "한미약품, 평택 바이오플랜트서 IR 개최...비만신약 생산 역량 강조 - 뉴스투데이",
       "source": "",
       "section": "korean",
       "category": "의약품"
@@ -142,6 +142,16 @@
     },
     {
       "idx": 14,
+      "cbm_id": "CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw",
+      "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw?oc=5",
+      "title": "“연 2000만 도즈 생산”…‘韓 1호 비만약’ 글로벌 전초기지 뜬다 - AP신문",
+      "source": "",
+      "section": "korean",
+      "category": "의약품"
+    },
+    {
+      "idx": 15,
       "cbm_id": "CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ?oc=5",
@@ -151,21 +161,11 @@
       "category": "의약품"
     },
     {
-      "idx": 15,
+      "idx": 16,
       "cbm_id": "CBMiT0FVX3lxTE5Gcm9pVzVmY21obm5zZXhaamM2NHpxTW9ERTJBdmhXbmtRRFh2RzdFOFEtaFd3N3I3UWlrX1EzSFY2RTFtX3FKVGlvd1NqXzg",
       "rss_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gcm9pVzVmY21obm5zZXhaamM2NHpxTW9ERTJBdmhXbmtRRFh2RzdFOFEtaFd3N3I3UWlrX1EzSFY2RTFtX3FKVGlvd1NqXzg?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gcm9pVzVmY21obm5zZXhaamM2NHpxTW9ERTJBdmhXbmtRRFh2RzdFOFEtaFd3N3I3UWlrX1EzSFY2RTFtX3FKVGlvd1NqXzg?oc=5",
       "title": "제약바이오, 하반기 '허가·임상·기술수출' 3대 이벤트 주목 - v.daum.net",
-      "source": "",
-      "section": "korean",
-      "category": "의약품"
-    },
-    {
-      "idx": 16,
-      "cbm_id": "CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4",
-      "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4?oc=5&hl=ko&gl=US&ceid=US:ko",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4?oc=5",
-      "title": "'롤론티스오토인젝터주' 급여 등재… '렉라자' RSA 재계약 - 히트뉴스",
       "source": "",
       "section": "korean",
       "category": "의약품"
@@ -182,6 +182,16 @@
     },
     {
       "idx": 18,
+      "cbm_id": "CBMiakFVX3lxTFA1dDZsdm5BZVJmZmN3X0dPdlhkTU9sT0l1Q3JQNTRJb04zOUxHdVQtaS11SnhvWEp0dUJLeXZUWkhxTnNxdjdLb3VRa3ZIZ0IzN1RZQlhSMXJHXzNiQjhlN0JtelJPWkxvWWc",
+      "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dDZsdm5BZVJmZmN3X0dPdlhkTU9sT0l1Q3JQNTRJb04zOUxHdVQtaS11SnhvWEp0dUJLeXZUWkhxTnNxdjdLb3VRa3ZIZ0IzN1RZQlhSMXJHXzNiQjhlN0JtelJPWkxvWWc?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dDZsdm5BZVJmZmN3X0dPdlhkTU9sT0l1Q3JQNTRJb04zOUxHdVQtaS11SnhvWEp0dUJLeXZUWkhxTnNxdjdLb3VRa3ZIZ0IzN1RZQlhSMXJHXzNiQjhlN0JtelJPWkxvWWc?oc=5",
+      "title": "쿼드메디슨, 바이오USA 참가..글로벌 제약사와 마이크로니들 파트너링 논의 - 파이낸스스코프",
+      "source": "",
+      "section": "korean",
+      "category": "의약산업"
+    },
+    {
+      "idx": 19,
       "cbm_id": "CBMiQ0FVX3lxTE9ubVY4cVZ4eHd2aVRPeHkwWWtqcXlmcURWSUFMTWZ6RTZ6UVNBeWZCREdLcHF4VXpSQmVGTGtGZGlwM00",
       "rss_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ubVY4cVZ4eHd2aVRPeHkwWWtqcXlmcURWSUFMTWZ6RTZ6UVNBeWZCREdLcHF4VXpSQmVGTGtGZGlwM00?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ubVY4cVZ4eHd2aVRPeHkwWWtqcXlmcURWSUFMTWZ6RTZ6UVNBeWZCREdLcHF4VXpSQmVGTGtGZGlwM00?oc=5",
@@ -191,7 +201,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 19,
+      "idx": 20,
       "cbm_id": "CBMib0FVX3lxTFBBYk1Tc2R5REpaQTNGMnR5aUdINWdFYW95NU5nLXNCX2JFU1JBZWdMWmZub2ZQNWIxWDhpZFd4dGVvdlJrYWNDeVA3UVl0Z05BQl9LeFYwM0xTQXJzLThiZTAwYzBoMXBxcTk0TEo1WdIBc0FVX3lxTE5LQ3J5b2JoOUFLMklSbmtZWWp2QnJjSVRNYmFobW42UUpIZmpfYjR4aWIzWm5CVnM2TVBWaDNiOV9YbjhQY2ZiU1RWRUJhc2czVndKaUlXZXJPZjUtajhhcWo1el9xU04ydGNiSHpKNjFVeUU",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBYk1Tc2R5REpaQTNGMnR5aUdINWdFYW95NU5nLXNCX2JFU1JBZWdMWmZub2ZQNWIxWDhpZFd4dGVvdlJrYWNDeVA3UVl0Z05BQl9LeFYwM0xTQXJzLThiZTAwYzBoMXBxcTk0TEo1WdIBc0FVX3lxTE5LQ3J5b2JoOUFLMklSbmtZWWp2QnJjSVRNYmFobW42UUpIZmpfYjR4aWIzWm5CVnM2TVBWaDNiOV9YbjhQY2ZiU1RWRUJhc2czVndKaUlXZXJPZjUtajhhcWo1el9xU04ydGNiSHpKNjFVeUU?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBYk1Tc2R5REpaQTNGMnR5aUdINWdFYW95NU5nLXNCX2JFU1JBZWdMWmZub2ZQNWIxWDhpZFd4dGVvdlJrYWNDeVA3UVl0Z05BQl9LeFYwM0xTQXJzLThiZTAwYzBoMXBxcTk0TEo1WdIBc0FVX3lxTE5LQ3J5b2JoOUFLMklSbmtZWWp2QnJjSVRNYmFobW42UUpIZmpfYjR4aWIzWm5CVnM2TVBWaDNiOV9YbjhQY2ZiU1RWRUJhc2czVndKaUlXZXJPZjUtajhhcWo1el9xU04ydGNiSHpKNjFVeUU?oc=5",
@@ -201,7 +211,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 20,
+      "idx": 21,
       "cbm_id": "CBMibEFVX3lxTE9OdzBzbFU3MmpqVmVnTXN3MHp6VzZOQnVXUHNua0thNmJxVGFtaUJoYUNqbzFhNWZjNzVram83NjFuaUVjVnBLLU9IRHFVVzVjOXR6ZENOcll4bG9kX09KZmhYdGY4UncxUTJ3SA",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdzBzbFU3MmpqVmVnTXN3MHp6VzZOQnVXUHNua0thNmJxVGFtaUJoYUNqbzFhNWZjNzVram83NjFuaUVjVnBLLU9IRHFVVzVjOXR6ZENOcll4bG9kX09KZmhYdGY4UncxUTJ3SA?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdzBzbFU3MmpqVmVnTXN3MHp6VzZOQnVXUHNua0thNmJxVGFtaUJoYUNqbzFhNWZjNzVram83NjFuaUVjVnBLLU9IRHFVVzVjOXR6ZENOcll4bG9kX09KZmhYdGY4UncxUTJ3SA?oc=5",
@@ -211,7 +221,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 21,
+      "idx": 22,
       "cbm_id": "CBMiZkFVX3lxTFBuOVN4b0daYUJfaEpyZTJicDFpVXhlRVloVFNKNl9ZajRNRTFQMk52U3BhYjVkTzBYRW1Rem41ZlF4aEp1Q3BJOS1iNzg0UVRRa1hpQUhhak4zSy1kdjc5MlFWUFpKQQ",
       "rss_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOVN4b0daYUJfaEpyZTJicDFpVXhlRVloVFNKNl9ZajRNRTFQMk52U3BhYjVkTzBYRW1Rem41ZlF4aEp1Q3BJOS1iNzg0UVRRa1hpQUhhak4zSy1kdjc5MlFWUFpKQQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOVN4b0daYUJfaEpyZTJicDFpVXhlRVloVFNKNl9ZajRNRTFQMk52U3BhYjVkTzBYRW1Rem41ZlF4aEp1Q3BJOS1iNzg0UVRRa1hpQUhhak4zSy1kdjc5MlFWUFpKQQ?oc=5",
@@ -221,7 +231,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 22,
+      "idx": 23,
       "cbm_id": "CBMiQkFVX3lxTE5HSTBjcG9iWFMtM1gyX29fNm9Cck1HNmNtZnZnUlg3YWQzZUFTN1J0RHpSMzlHU2FZeTZDNS1SR2U4UQ",
       "rss_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HSTBjcG9iWFMtM1gyX29fNm9Cck1HNmNtZnZnUlg3YWQzZUFTN1J0RHpSMzlHU2FZeTZDNS1SR2U4UQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HSTBjcG9iWFMtM1gyX29fNm9Cck1HNmNtZnZnUlg3YWQzZUFTN1J0RHpSMzlHU2FZeTZDNS1SR2U4UQ?oc=5",
@@ -231,7 +241,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 23,
+      "idx": 24,
       "cbm_id": "CBMibkFVX3lxTE5Jck9HZkJfanhSNlFGd2V5YXZXbS1QNVcwdVVqMzlWb08tZE5Ud2Z6N0NFZ0pMMUNNZFBPcGZkZG1ZWkVBb2wwUTVNSU0zY2ZNa1BHcTdRZWpNREdhNnNtbUhwemNfZVJyelUtaGJ3",
       "rss_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jck9HZkJfanhSNlFGd2V5YXZXbS1QNVcwdVVqMzlWb08tZE5Ud2Z6N0NFZ0pMMUNNZFBPcGZkZG1ZWkVBb2wwUTVNSU0zY2ZNa1BHcTdRZWpNREdhNnNtbUhwemNfZVJyelUtaGJ3?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jck9HZkJfanhSNlFGd2V5YXZXbS1QNVcwdVVqMzlWb08tZE5Ud2Z6N0NFZ0pMMUNNZFBPcGZkZG1ZWkVBb2wwUTVNSU0zY2ZNa1BHcTdRZWpNREdhNnNtbUhwemNfZVJyelUtaGJ3?oc=5",
@@ -241,7 +251,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 24,
+      "idx": 25,
       "cbm_id": "CBMibEFVX3lxTE42ckkxbGQ0akhsMWgzYWh0MDRMWFB1Zkdra1NvNWNRbmU2SVpWUnRGR1liMXFLQkZ6NHU3eDk4WEJzOEhGZ1dfc3hySG5zR0FjcFVxQkpTaE13QWNfRmFESURrN0VQMWZhR0lyTQ",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ckkxbGQ0akhsMWgzYWh0MDRMWFB1Zkdra1NvNWNRbmU2SVpWUnRGR1liMXFLQkZ6NHU3eDk4WEJzOEhGZ1dfc3hySG5zR0FjcFVxQkpTaE13QWNfRmFESURrN0VQMWZhR0lyTQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42ckkxbGQ0akhsMWgzYWh0MDRMWFB1Zkdra1NvNWNRbmU2SVpWUnRGR1liMXFLQkZ6NHU3eDk4WEJzOEhGZ1dfc3hySG5zR0FjcFVxQkpTaE13QWNfRmFESURrN0VQMWZhR0lyTQ?oc=5",
@@ -251,7 +261,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 25,
+      "idx": 26,
       "cbm_id": "CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5",
@@ -261,7 +271,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 26,
+      "idx": 27,
       "cbm_id": "CBMiQEFVX3lxTE56U3phbUUtLThkUDg0cG5wV1VOeTdwaVNHWE0xY0FBSWNXeXdJWkFtbmRTdUhYc21UMUNXXzA0YTQ",
       "rss_url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE56U3phbUUtLThkUDg0cG5wV1VOeTdwaVNHWE0xY0FBSWNXeXdJWkFtbmRTdUhYc21UMUNXXzA0YTQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE56U3phbUUtLThkUDg0cG5wV1VOeTdwaVNHWE0xY0FBSWNXeXdJWkFtbmRTdUhYc21UMUNXXzA0YTQ?oc=5",
@@ -271,27 +281,7 @@
       "category": "의약산업"
     },
     {
-      "idx": 27,
-      "cbm_id": "CBMibEFVX3lxTE42SG04OVE2SXREVjAxVE9VaGw2UjRxeUdDU0x6UWU4OVdubkpqWkE1Ny1hT2dCcERpemdOY2tCeko1NXItWkZONERTblFjZUpOZnhOdmp6MzBob0t4cDV6NlJQdV90RTI4bVl6ONIBcEFVX3lxTFBOYTRabENkai1DTnFmWEVLZEM3SmFnRlJlU21pV0dpdklxUENKQjRLZ2tBcS1mVTBnRnZqdzhyU2NqQnJtZ25vTjFyX0UyUDZfM0ZXdXlmWWd6akZrOUE4bkw5MWNwQmUyd0haLS1JRkw",
-      "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SG04OVE2SXREVjAxVE9VaGw2UjRxeUdDU0x6UWU4OVdubkpqWkE1Ny1hT2dCcERpemdOY2tCeko1NXItWkZONERTblFjZUpOZnhOdmp6MzBob0t4cDV6NlJQdV90RTI4bVl6ONIBcEFVX3lxTFBOYTRabENkai1DTnFmWEVLZEM3SmFnRlJlU21pV0dpdklxUENKQjRLZ2tBcS1mVTBnRnZqdzhyU2NqQnJtZ25vTjFyX0UyUDZfM0ZXdXlmWWd6akZrOUE4bkw5MWNwQmUyd0haLS1JRkw?oc=5&hl=ko&gl=US&ceid=US:ko",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42SG04OVE2SXREVjAxVE9VaGw2UjRxeUdDU0x6UWU4OVdubkpqWkE1Ny1hT2dCcERpemdOY2tCeko1NXItWkZONERTblFjZUpOZnhOdmp6MzBob0t4cDV6NlJQdV90RTI4bVl6ONIBcEFVX3lxTFBOYTRabENkai1DTnFmWEVLZEM3SmFnRlJlU21pV0dpdklxUENKQjRLZ2tBcS1mVTBnRnZqdzhyU2NqQnJtZ25vTjFyX0UyUDZfM0ZXdXlmWWd6akZrOUE4bkw5MWNwQmUyd0haLS1JRkw?oc=5",
-      "title": "\" 바이오시밀러만으론 못 버틴다\" K-제약, AI 신약개발 총력전 - 이넷뉴스",
-      "source": "",
-      "section": "korean",
-      "category": "의약산업"
-    },
-    {
       "idx": 28,
-      "cbm_id": "CBMibEFVX3lxTFBuYlhobWkzVFl0aDdqTF9EcnlaTTFZTDN2UU15OTVFTmpwRTVad0lFaWhkSklnQTVIVXBkRV9ydEQ5RmlRNDU2c29HRGFYV2RJUWl2NDVUYnM3NWcyeTVQc1ZKY29DME50SHBuVQ",
-      "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuYlhobWkzVFl0aDdqTF9EcnlaTTFZTDN2UU15OTVFTmpwRTVad0lFaWhkSklnQTVIVXBkRV9ydEQ5RmlRNDU2c29HRGFYV2RJUWl2NDVUYnM3NWcyeTVQc1ZKY29DME50SHBuVQ?oc=5&hl=ko&gl=US&ceid=US:ko",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuYlhobWkzVFl0aDdqTF9EcnlaTTFZTDN2UU15OTVFTmpwRTVad0lFaWhkSklnQTVIVXBkRV9ydEQ5RmlRNDU2c29HRGFYV2RJUWl2NDVUYnM3NWcyeTVQc1ZKY29DME50SHBuVQ?oc=5",
-      "title": "K바이오, 샌디에이고 집결…글로벌 파트너링 기회 찾는다 - ER 이코노믹리뷰",
-      "source": "",
-      "section": "korean",
-      "category": "의약산업"
-    },
-    {
-      "idx": 29,
       "cbm_id": "CBMiW0FVX3lxTE1xcmxJcDdUYTNmYmttLVVrdjVEU3hGWDFHM0pjLXg5UzVZbi03OGZwQWNxYVRLS1FOMFNVYVFBbWZYbUhSbUEwOGp5OHJ2SzQ4REttTXBUd29mcWfSAWBBVV95cUxQTjdUdHdEUGdLc3EwYmc0d3gxQ3ppUjNRX1hIbjEyUHBIX1FheVd2a2tHQk5iVjdSaDdOR3ZWYkFvcVdZeWE5MXBmYmFlcDB5Z3ctYU56QTZaMURqSFozLUg",
       "rss_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcmxJcDdUYTNmYmttLVVrdjVEU3hGWDFHM0pjLXg5UzVZbi03OGZwQWNxYVRLS1FOMFNVYVFBbWZYbUhSbUEwOGp5OHJ2SzQ4REttTXBUd29mcWfSAWBBVV95cUxQTjdUdHdEUGdLc3EwYmc0d3gxQ3ppUjNRX1hIbjEyUHBIX1FheVd2a2tHQk5iVjdSaDdOR3ZWYkFvcVdZeWE5MXBmYmFlcDB5Z3ctYU56QTZaMURqSFozLUg?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcmxJcDdUYTNmYmttLVVrdjVEU3hGWDFHM0pjLXg5UzVZbi03OGZwQWNxYVRLS1FOMFNVYVFBbWZYbUhSbUEwOGp5OHJ2SzQ4REttTXBUd29mcWfSAWBBVV95cUxQTjdUdHdEUGdLc3EwYmc0d3gxQ3ppUjNRX1hIbjEyUHBIX1FheVd2a2tHQk5iVjdSaDdOR3ZWYkFvcVdZeWE5MXBmYmFlcDB5Z3ctYU56QTZaMURqSFozLUg?oc=5",
@@ -301,7 +291,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 30,
+      "idx": 29,
       "cbm_id": "CBMiU0FVX3lxTE5vVlhsVEVSUkYzbmdTaUdObkVOaW5qS2kwT2Ytd2xaV3NIM1ZJYW5rVzIta1RFak5CMFhkOFpoMENUdDVqTFBRd2Z4enh0S2lqdWVB",
       "rss_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVlhsVEVSUkYzbmdTaUdObkVOaW5qS2kwT2Ytd2xaV3NIM1ZJYW5rVzIta1RFak5CMFhkOFpoMENUdDVqTFBRd2Z4enh0S2lqdWVB?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVlhsVEVSUkYzbmdTaUdObkVOaW5qS2kwT2Ytd2xaV3NIM1ZJYW5rVzIta1RFak5CMFhkOFpoMENUdDVqTFBRd2Z4enh0S2lqdWVB?oc=5",
@@ -311,7 +301,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 31,
+      "idx": 30,
       "cbm_id": "CBMiZ0FVX3lxTFBVTVEzRnlCOTNITWRyUW51NXRPbUstcG9xTFVlaGcyR2s0dHF6M29VeGpYLVNNa0RNeGlkRHE0aVpqczMwYjBHZkVoQkZ4cUJLRUYtNGU2MlFEeWtIa2h2b3c1ZExSUVU",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTVEzRnlCOTNITWRyUW51NXRPbUstcG9xTFVlaGcyR2s0dHF6M29VeGpYLVNNa0RNeGlkRHE0aVpqczMwYjBHZkVoQkZ4cUJLRUYtNGU2MlFEeWtIa2h2b3c1ZExSUVU?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTVEzRnlCOTNITWRyUW51NXRPbUstcG9xTFVlaGcyR2s0dHF6M29VeGpYLVNNa0RNeGlkRHE0aVpqczMwYjBHZkVoQkZ4cUJLRUYtNGU2MlFEeWtIa2h2b3c1ZExSUVU?oc=5",
@@ -321,7 +311,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 32,
+      "idx": 31,
       "cbm_id": "CBMia0FVX3lxTE5CVXV4Y05CZ1dkVUx0Mkx6TjJKS0VnbmpqcHh3Zm5pSXNBNWUtX1htYUJNZTNNdDFKdFY2bzRSSnlVU3BrN09hSHFMQnQ5eFg0d3c0SWN5dWVFZjBzNExjNGZwNXR1eTRGeUpz",
       "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVXV4Y05CZ1dkVUx0Mkx6TjJKS0VnbmpqcHh3Zm5pSXNBNWUtX1htYUJNZTNNdDFKdFY2bzRSSnlVU3BrN09hSHFMQnQ5eFg0d3c0SWN5dWVFZjBzNExjNGZwNXR1eTRGeUpz?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVXV4Y05CZ1dkVUx0Mkx6TjJKS0VnbmpqcHh3Zm5pSXNBNWUtX1htYUJNZTNNdDFKdFY2bzRSSnlVU3BrN09hSHFMQnQ5eFg0d3c0SWN5dWVFZjBzNExjNGZwNXR1eTRGeUpz?oc=5",
@@ -331,7 +321,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 33,
+      "idx": 32,
       "cbm_id": "CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5",
@@ -341,7 +331,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 34,
+      "idx": 33,
       "cbm_id": "CBMiakFVX3lxTFA5RE5KVzBNSlU3cnRyanFmNmFSZ2F3MnhIalJWRW5lcmV6a0MtQ08wRjVNUG9HUnlrSE0xaHB0bG5DdF8wcDVQaFpxT0VsSldBd2pyaVZqVkRwS1VvaktzZksySzQ3SnVJLVE",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RE5KVzBNSlU3cnRyanFmNmFSZ2F3MnhIalJWRW5lcmV6a0MtQ08wRjVNUG9HUnlrSE0xaHB0bG5DdF8wcDVQaFpxT0VsSldBd2pyaVZqVkRwS1VvaktzZksySzQ3SnVJLVE?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RE5KVzBNSlU3cnRyanFmNmFSZ2F3MnhIalJWRW5lcmV6a0MtQ08wRjVNUG9HUnlrSE0xaHB0bG5DdF8wcDVQaFpxT0VsSldBd2pyaVZqVkRwS1VvaktzZksySzQ3SnVJLVE?oc=5",
@@ -351,7 +341,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 35,
+      "idx": 34,
       "cbm_id": "CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5",
@@ -361,7 +351,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 36,
+      "idx": 35,
       "cbm_id": "CBMiRkFVX3lxTFBldXlzTkRwWERFdmdPTGkzWDlaMy0xY2RiQXI0RTl0ZGttZjUtd3FSYXJZMWNtdXdIeUp0UUIwS1dBTFJISnc",
       "rss_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBldXlzTkRwWERFdmdPTGkzWDlaMy0xY2RiQXI0RTl0ZGttZjUtd3FSYXJZMWNtdXdIeUp0UUIwS1dBTFJISnc?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBldXlzTkRwWERFdmdPTGkzWDlaMy0xY2RiQXI0RTl0ZGttZjUtd3FSYXJZMWNtdXdIeUp0UUIwS1dBTFJISnc?oc=5",
@@ -371,7 +361,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 37,
+      "idx": 36,
       "cbm_id": "CBMiO0FVX3lxTE5mN1RMTzFBaHRrRnVzM2tYQkdRMHNOWGUxMkxDMUx4OGozTU9GLUxncmRMU09nTnl6NEl3",
       "rss_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mN1RMTzFBaHRrRnVzM2tYQkdRMHNOWGUxMkxDMUx4OGozTU9GLUxncmRMU09nTnl6NEl3?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mN1RMTzFBaHRrRnVzM2tYQkdRMHNOWGUxMkxDMUx4OGozTU9GLUxncmRMU09nTnl6NEl3?oc=5",
@@ -381,7 +371,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 38,
+      "idx": 37,
       "cbm_id": "CBMiYkFVX3lxTE95U3hGNjVzcnFrRTRLOGhpdkY5WW80ZVNjM2JrUWQ5eTZDRnQtVWFEbjBNTnRjOWt2SXpCYnQtc2RrZFdMQUx4SXF4NmRlaE9IdWRpVS1fZG9PSk5EaVZfREtR",
       "rss_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U3hGNjVzcnFrRTRLOGhpdkY5WW80ZVNjM2JrUWQ5eTZDRnQtVWFEbjBNTnRjOWt2SXpCYnQtc2RrZFdMQUx4SXF4NmRlaE9IdWRpVS1fZG9PSk5EaVZfREtR?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U3hGNjVzcnFrRTRLOGhpdkY5WW80ZVNjM2JrUWQ5eTZDRnQtVWFEbjBNTnRjOWt2SXpCYnQtc2RrZFdMQUx4SXF4NmRlaE9IdWRpVS1fZG9PSk5EaVZfREtR?oc=5",
@@ -391,7 +381,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 39,
+      "idx": 38,
       "cbm_id": "CBMiUEFVX3lxTE9uNFVXS0tGUzJBYmxENkdxSk81blpSakN2dkFTTENuSTZ1ZE1TODdHSTNBWHhjR1hMRHpnVUVhcDMtYzhBZ01TRTRtSUhWVkI1",
       "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uNFVXS0tGUzJBYmxENkdxSk81blpSakN2dkFTTENuSTZ1ZE1TODdHSTNBWHhjR1hMRHpnVUVhcDMtYzhBZ01TRTRtSUhWVkI1?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uNFVXS0tGUzJBYmxENkdxSk81blpSakN2dkFTTENuSTZ1ZE1TODdHSTNBWHhjR1hMRHpnVUVhcDMtYzhBZ01TRTRtSUhWVkI1?oc=5",
@@ -401,7 +391,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 40,
+      "idx": 39,
       "cbm_id": "CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4",
       "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4?oc=5",
@@ -411,7 +401,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 41,
+      "idx": 40,
       "cbm_id": "CBMiUEFVX3lxTE80aml5WndBSDdRak1raWlSV1B0cnhnRGJHdVBsVExicXp4ZDVTM2l4SzA1RHZ3Rm03RmRobkwtS3Jxb1M5OGFXVGd2Rkl0TWFY",
       "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80aml5WndBSDdRak1raWlSV1B0cnhnRGJHdVBsVExicXp4ZDVTM2l4SzA1RHZ3Rm03RmRobkwtS3Jxb1M5OGFXVGd2Rkl0TWFY?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80aml5WndBSDdRak1raWlSV1B0cnhnRGJHdVBsVExicXp4ZDVTM2l4SzA1RHZ3Rm03RmRobkwtS3Jxb1M5OGFXVGd2Rkl0TWFY?oc=5",
@@ -421,7 +411,7 @@
       "category": "의약정책"
     },
     {
-      "idx": 42,
+      "idx": 41,
       "cbm_id": "CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS",
       "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5",
@@ -431,7 +421,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 43,
+      "idx": 42,
       "cbm_id": "CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5",
@@ -441,7 +431,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 44,
+      "idx": 43,
       "cbm_id": "CBMibEFVX3lxTFBJLVhlM3VkQTJCUGNtWTRlQzUxSDFzVkZBZE9TTjBWZXJzZmNhUm9OQ3JyZFVibC1YNEdWY3N6UF9JTmk4MGk1QUpGbDAybHhhS1gwRnlkbmpFMTcxZVEtX0k3Z2V4R3Z6Z3RnRw",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJLVhlM3VkQTJCUGNtWTRlQzUxSDFzVkZBZE9TTjBWZXJzZmNhUm9OQ3JyZFVibC1YNEdWY3N6UF9JTmk4MGk1QUpGbDAybHhhS1gwRnlkbmpFMTcxZVEtX0k3Z2V4R3Z6Z3RnRw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJLVhlM3VkQTJCUGNtWTRlQzUxSDFzVkZBZE9TTjBWZXJzZmNhUm9OQ3JyZFVibC1YNEdWY3N6UF9JTmk4MGk1QUpGbDAybHhhS1gwRnlkbmpFMTcxZVEtX0k3Z2V4R3Z6Z3RnRw?oc=5",
@@ -451,7 +441,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 45,
+      "idx": 44,
       "cbm_id": "CBMibEFVX3lxTE9kRU5yNDNQLU1IVGJDYk96X1dLQ0twcjhpaHVSdDB0ZGtWLWY4VUdsVHJILXdyekQyMkUzeHNXSlg4TjVIVU1BZ3g3R2JPRmlSdGlOb241ZDJ5RU95MXdlVFVpT0U4dG9lSzNMZg",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRU5yNDNQLU1IVGJDYk96X1dLQ0twcjhpaHVSdDB0ZGtWLWY4VUdsVHJILXdyekQyMkUzeHNXSlg4TjVIVU1BZ3g3R2JPRmlSdGlOb241ZDJ5RU95MXdlVFVpT0U4dG9lSzNMZg?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRU5yNDNQLU1IVGJDYk96X1dLQ0twcjhpaHVSdDB0ZGtWLWY4VUdsVHJILXdyekQyMkUzeHNXSlg4TjVIVU1BZ3g3R2JPRmlSdGlOb241ZDJ5RU95MXdlVFVpT0U4dG9lSzNMZg?oc=5",
@@ -461,7 +451,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 46,
+      "idx": 45,
       "cbm_id": "CBMiaEFVX3lxTE56VW1IamxkX1Rtclp1ZzdNVXR5WHh4SG5wZXlBY25oZWlZb0ltMXBzOWljeDZ3REJ1NW0yRGlrdndiRnh2bnh2X3BwU2lwWGdSclQ0aEU3ZDZDaEFuaURCX2UwZVVRNWJv",
       "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VW1IamxkX1Rtclp1ZzdNVXR5WHh4SG5wZXlBY25oZWlZb0ltMXBzOWljeDZ3REJ1NW0yRGlrdndiRnh2bnh2X3BwU2lwWGdSclQ0aEU3ZDZDaEFuaURCX2UwZVVRNWJv?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VW1IamxkX1Rtclp1ZzdNVXR5WHh4SG5wZXlBY25oZWlZb0ltMXBzOWljeDZ3REJ1NW0yRGlrdndiRnh2bnh2X3BwU2lwWGdSclQ0aEU3ZDZDaEFuaURCX2UwZVVRNWJv?oc=5",
@@ -471,7 +461,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 47,
+      "idx": 46,
       "cbm_id": "CBMickFVX3lxTE9sdEpxOXZQUWJ0NWVhNHROYURTYnRTdmJHNEpVMENRQ2kydTBzajlLWEl4c2ZVX0UwbVJvdV83UEpZSUgzbnd3d28xMmpkRThfT3ZuQVVFblhMZVpKbnJOanJISEZDQkVNTW12OHpMWUdBZ9IBdkFVX3lxTE96ZUR6TF9IWWc1bXF4S2VjT2MwMkJobVZfS3FfRjI2S2xtQTJPUHdxNkZxLWNxVF95NVpKdmVUU1RYS3ZzQzNGeXBYcVloYXliOTQ4V3VFRDRJWmp6UE5VYkdBdjh5NmtDakdqWnJQelE2NF9Fa0E",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sdEpxOXZQUWJ0NWVhNHROYURTYnRTdmJHNEpVMENRQ2kydTBzajlLWEl4c2ZVX0UwbVJvdV83UEpZSUgzbnd3d28xMmpkRThfT3ZuQVVFblhMZVpKbnJOanJISEZDQkVNTW12OHpMWUdBZ9IBdkFVX3lxTE96ZUR6TF9IWWc1bXF4S2VjT2MwMkJobVZfS3FfRjI2S2xtQTJPUHdxNkZxLWNxVF95NVpKdmVUU1RYS3ZzQzNGeXBYcVloYXliOTQ4V3VFRDRJWmp6UE5VYkdBdjh5NmtDakdqWnJQelE2NF9Fa0E?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sdEpxOXZQUWJ0NWVhNHROYURTYnRTdmJHNEpVMENRQ2kydTBzajlLWEl4c2ZVX0UwbVJvdV83UEpZSUgzbnd3d28xMmpkRThfT3ZuQVVFblhMZVpKbnJOanJISEZDQkVNTW12OHpMWUdBZ9IBdkFVX3lxTE96ZUR6TF9IWWc1bXF4S2VjT2MwMkJobVZfS3FfRjI2S2xtQTJPUHdxNkZxLWNxVF95NVpKdmVUU1RYS3ZzQzNGeXBYcVloYXliOTQ4V3VFRDRJWmp6UE5VYkdBdjh5NmtDakdqWnJQelE2NF9Fa0E?oc=5",
@@ -481,7 +471,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 48,
+      "idx": 47,
       "cbm_id": "CBMiUEFVX3lxTE13T0JHTVN6Z0R4MVZxNU9UTDRBcTlYRTVvSUo2Z3NHTUZEZjd5ZTJuaXJEUWI3RjhkakJsNDdEaWRfaVhLYk1Xckx0Y2RpMzU5",
       "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13T0JHTVN6Z0R4MVZxNU9UTDRBcTlYRTVvSUo2Z3NHTUZEZjd5ZTJuaXJEUWI3RjhkakJsNDdEaWRfaVhLYk1Xckx0Y2RpMzU5?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13T0JHTVN6Z0R4MVZxNU9UTDRBcTlYRTVvSUo2Z3NHTUZEZjd5ZTJuaXJEUWI3RjhkakJsNDdEaWRfaVhLYk1Xckx0Y2RpMzU5?oc=5",
@@ -491,7 +481,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 49,
+      "idx": 48,
       "cbm_id": "CBMiVkFVX3lxTE5NU1RlOG14V2k1N3RzR29QSm5NZlg0UmY3X052YnVFa24xbUpmYU5IRDdlN3RGdHVrZ2psLTQzUWd2UEtSUzhFZ0VsemEycmRzTlNLUmhB",
       "rss_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NU1RlOG14V2k1N3RzR29QSm5NZlg0UmY3X052YnVFa24xbUpmYU5IRDdlN3RGdHVrZ2psLTQzUWd2UEtSUzhFZ0VsemEycmRzTlNLUmhB?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NU1RlOG14V2k1N3RzR29QSm5NZlg0UmY3X052YnVFa24xbUpmYU5IRDdlN3RGdHVrZ2psLTQzUWd2UEtSUzhFZ0VsemEycmRzTlNLUmhB?oc=5",
@@ -501,7 +491,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 50,
+      "idx": 49,
       "cbm_id": "CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5",
@@ -511,7 +501,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 51,
+      "idx": 50,
       "cbm_id": "CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMVpPR0dYYnA4RG0yQ1daemZjOEtuNmNMVHREVUtXWmlfdHJ1QWVqdmVXb1dKcEZGakhHamdYRVpUOWk4ZnY0bmo3ZTkwaXc",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMVpPR0dYYnA4RG0yQ1daemZjOEtuNmNMVHREVUtXWmlfdHJ1QWVqdmVXb1dKcEZGakhHamdYRVpUOWk4ZnY0bmo3ZTkwaXc?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMVpPR0dYYnA4RG0yQ1daemZjOEtuNmNMVHREVUtXWmlfdHJ1QWVqdmVXb1dKcEZGakhHamdYRVpUOWk4ZnY0bmo3ZTkwaXc?oc=5",
@@ -521,7 +511,7 @@
       "category": "의약단체"
     },
     {
-      "idx": 52,
+      "idx": 51,
       "cbm_id": "CBMiakFVX3lxTE5Vd19vSlMwQ1I2TVBUM3pvekNMN1R1bnYxYmVnUEtSV3dTTXNqbzFyQVVXMWlfRUYzQnM4aEpkaUQwUlFmajNfdUc4enRjeVVHRnJmZm50SlljME43cXExRElWVVhfVDB5Snc",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vd19vSlMwQ1I2TVBUM3pvekNMN1R1bnYxYmVnUEtSV3dTTXNqbzFyQVVXMWlfRUYzQnM4aEpkaUQwUlFmajNfdUc4enRjeVVHRnJmZm50SlljME43cXExRElWVVhfVDB5Snc?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vd19vSlMwQ1I2TVBUM3pvekNMN1R1bnYxYmVnUEtSV3dTTXNqbzFyQVVXMWlfRUYzQnM4aEpkaUQwUlFmajNfdUc4enRjeVVHRnJmZm50SlljME43cXExRElWVVhfVDB5Snc?oc=5",
@@ -531,7 +521,7 @@
       "category": "의약관련정부기관"
     },
     {
-      "idx": 53,
+      "idx": 52,
       "cbm_id": "CBMibEFVX3lxTFBYN0lTTHBVR0dtSkR5WTVGRzNaSkVHOS1VVTREeV9ZaG9aVHdtNmpWT2hxMzJsNkNPNHRCVUdUYU5UcWEzdUM2aWRoWktjREdMSjRiMzFHSWJ1bWRmcV90Qkxfb1gycE1ITjQ4WQ",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYN0lTTHBVR0dtSkR5WTVGRzNaSkVHOS1VVTREeV9ZaG9aVHdtNmpWT2hxMzJsNkNPNHRCVUdUYU5UcWEzdUM2aWRoWktjREdMSjRiMzFHSWJ1bWRmcV90Qkxfb1gycE1ITjQ4WQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYN0lTTHBVR0dtSkR5WTVGRzNaSkVHOS1VVTREeV9ZaG9aVHdtNmpWT2hxMzJsNkNPNHRCVUdUYU5UcWEzdUM2aWRoWktjREdMSjRiMzFHSWJ1bWRmcV90Qkxfb1gycE1ITjQ4WQ?oc=5",
@@ -541,7 +531,7 @@
       "category": "의약관련정부기관"
     },
     {
-      "idx": 54,
+      "idx": 53,
       "cbm_id": "CBMiVkFVX3lxTE5vMUFIOVpWZ1U4TUp6czdBY2xyVEV6Q0MtcTZ6M0FoM1ZmRWFRTy0wSVF6aVhSRGo1TU1uaXFreFJqOVhqa3plMTNzUGNDbERnY3M5enJB",
       "rss_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMUFIOVpWZ1U4TUp6czdBY2xyVEV6Q0MtcTZ6M0FoM1ZmRWFRTy0wSVF6aVhSRGo1TU1uaXFreFJqOVhqa3plMTNzUGNDbERnY3M5enJB?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMUFIOVpWZ1U4TUp6czdBY2xyVEV6Q0MtcTZ6M0FoM1ZmRWFRTy0wSVF6aVhSRGo1TU1uaXFreFJqOVhqa3plMTNzUGNDbERnY3M5enJB?oc=5",
@@ -551,7 +541,7 @@
       "category": "의약관련정부기관"
     },
     {
-      "idx": 55,
+      "idx": 54,
       "cbm_id": "CBMiaEFVX3lxTFBUT2JrdFFpbEwxQUpOZDRkcDZxMlE1ck5nWERnbnF2U1NkWEotNTVRaVNqanZPQ2JudHJVTHZUNHZvUXBoWXd3cUxCLUctVXk0eVlKOWVuVzJxYVhsbXZWdDltSjUxYmp6",
       "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT2JrdFFpbEwxQUpOZDRkcDZxMlE1ck5nWERnbnF2U1NkWEotNTVRaVNqanZPQ2JudHJVTHZUNHZvUXBoWXd3cUxCLUctVXk0eVlKOWVuVzJxYVhsbXZWdDltSjUxYmp6?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT2JrdFFpbEwxQUpOZDRkcDZxMlE1ck5nWERnbnF2U1NkWEotNTVRaVNqanZPQ2JudHJVTHZUNHZvUXBoWXd3cUxCLUctVXk0eVlKOWVuVzJxYVhsbXZWdDltSjUxYmp6?oc=5",
@@ -561,7 +551,7 @@
       "category": "의약관련정부기관"
     },
     {
-      "idx": 56,
+      "idx": 55,
       "cbm_id": "CBMia0FVX3lxTE5HTEcxRExGREJ0WFgybnRXNTZBYWE5NC1uV2FHWEF6NE1UcXV3a2lEWDhyRGhfcEdpbHZZNV9seWJuYWhscmtjY041aUpLV18yYTNLTUJPNDVjZkhyeXNPSm44QjNaYU1QTC13",
       "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTEcxRExGREJ0WFgybnRXNTZBYWE5NC1uV2FHWEF6NE1UcXV3a2lEWDhyRGhfcEdpbHZZNV9seWJuYWhscmtjY041aUpLV18yYTNLTUJPNDVjZkhyeXNPSm44QjNaYU1QTC13?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTEcxRExGREJ0WFgybnRXNTZBYWE5NC1uV2FHWEF6NE1UcXV3a2lEWDhyRGhfcEdpbHZZNV9seWJuYWhscmtjY041aUpLV18yYTNLTUJPNDVjZkhyeXNPSm44QjNaYU1QTC13?oc=5",
@@ -571,7 +561,7 @@
       "category": "의료현장"
     },
     {
-      "idx": 57,
+      "idx": 56,
       "cbm_id": "CBMia0FVX3lxTE1mZXJfTnhLc1lzQWhGYkw3V052dFM5MmdJQWdFV2JLeU1USWE2ekNYSzBiclkweUhhZXgtSjl0Si1IWUt1U04xOWVBRF9IaXFLSmo5OW5rM2RLc0ZLSV8tSUl6aGlMdGhQLXhN0gFvQVVfeXFMTzNPakdJYXJvd1p3cExnNlNFNm9fcEtBeU1nNmx3c3hkanpuck9BZFFXR2F6NzJHczJFSllzWENWekl6d3dVWTJzbWVGYXp3bTFSQzBxcGp6ZzJlWWYyY3FhZk5yTUJyal80SVBqWGU0",
       "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZXJfTnhLc1lzQWhGYkw3V052dFM5MmdJQWdFV2JLeU1USWE2ekNYSzBiclkweUhhZXgtSjl0Si1IWUt1U04xOWVBRF9IaXFLSmo5OW5rM2RLc0ZLSV8tSUl6aGlMdGhQLXhN0gFvQVVfeXFMTzNPakdJYXJvd1p3cExnNlNFNm9fcEtBeU1nNmx3c3hkanpuck9BZFFXR2F6NzJHczJFSllzWENWekl6d3dVWTJzbWVGYXp3bTFSQzBxcGp6ZzJlWWYyY3FhZk5yTUJyal80SVBqWGU0?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZXJfTnhLc1lzQWhGYkw3V052dFM5MmdJQWdFV2JLeU1USWE2ekNYSzBiclkweUhhZXgtSjl0Si1IWUt1U04xOWVBRF9IaXFLSmo5OW5rM2RLc0ZLSV8tSUl6aGlMdGhQLXhN0gFvQVVfeXFMTzNPakdJYXJvd1p3cExnNlNFNm9fcEtBeU1nNmx3c3hkanpuck9BZFFXR2F6NzJHczJFSllzWENWekl6d3dVWTJzbWVGYXp3bTFSQzBxcGp6ZzJlWWYyY3FhZk5yTUJyal80SVBqWGU0?oc=5",
@@ -581,7 +571,7 @@
       "category": "의료현장"
     },
     {
-      "idx": 58,
+      "idx": 57,
       "cbm_id": "CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS",
       "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5",
@@ -591,7 +581,7 @@
       "category": "약국·약사"
     },
     {
-      "idx": 59,
+      "idx": 58,
       "cbm_id": "CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5",
@@ -601,7 +591,7 @@
       "category": "약국·약사"
     },
     {
-      "idx": 60,
+      "idx": 59,
       "cbm_id": "CBMickFVX3lxTFB0cXN4RVlidi1BeUdQdG5aMVZtSXdjcWZ3UXRnOXJHVUZVRldfNXZkSmxnQTI5N1JIVUZxVWQyMUF3QmwxNk9lNWc1d0pXMDlaWGRaZS1za1ZRX0JaTFdHc0N0UW5xSmx1UmI2WW4xa2FRdw",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0cXN4RVlidi1BeUdQdG5aMVZtSXdjcWZ3UXRnOXJHVUZVRldfNXZkSmxnQTI5N1JIVUZxVWQyMUF3QmwxNk9lNWc1d0pXMDlaWGRaZS1za1ZRX0JaTFdHc0N0UW5xSmx1UmI2WW4xa2FRdw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0cXN4RVlidi1BeUdQdG5aMVZtSXdjcWZ3UXRnOXJHVUZVRldfNXZkSmxnQTI5N1JIVUZxVWQyMUF3QmwxNk9lNWc1d0pXMDlaWGRaZS1za1ZRX0JaTFdHc0N0UW5xSmx1UmI2WW4xa2FRdw?oc=5",
@@ -611,7 +601,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 61,
+      "idx": 60,
       "cbm_id": "CBMiS0FVX3lxTE5ZTWJYWWJuU1ZOS2tMZjgybDZkaW95ZFlQQ0pkQ3czR19qX1dmQlZQemhEWkVDTkpRU05pVFN3XzVoQl8zZGFXZE16bw",
       "rss_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZTWJYWWJuU1ZOS2tMZjgybDZkaW95ZFlQQ0pkQ3czR19qX1dmQlZQemhEWkVDTkpRU05pVFN3XzVoQl8zZGFXZE16bw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZTWJYWWJuU1ZOS2tMZjgybDZkaW95ZFlQQ0pkQ3czR19qX1dmQlZQemhEWkVDTkpRU05pVFN3XzVoQl8zZGFXZE16bw?oc=5",
@@ -621,7 +611,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 62,
+      "idx": 61,
       "cbm_id": "CBMiYEFVX3lxTFBRVUV1QkdhRWhJMkZfWXBjOGc5VnJKYVB1OFY2VnBZczkwOFgxazhzQ1ZUVWdoSk5fOVJlM1prOExYTlEyamhudWI1VlV2akFMSzU1MlNmUFNYRjdzTG5JbNIBeEFVX3lxTE4zTEdzYmRRZU4tRHJZcE9ManQyODRSU1pJUGNnU0R2WU1fbW4zeEMwYXNub2pvbWRoNTAzOHdXRUNZbV81Z0RZZWp4MjBOZGYzckhjUENqRHFIU1NmNlFYRnVMeE9Lazl2TEZNNnlxeXV6bVNrdTg4bQ",
       "rss_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVUV1QkdhRWhJMkZfWXBjOGc5VnJKYVB1OFY2VnBZczkwOFgxazhzQ1ZUVWdoSk5fOVJlM1prOExYTlEyamhudWI1VlV2akFMSzU1MlNmUFNYRjdzTG5JbNIBeEFVX3lxTE4zTEdzYmRRZU4tRHJZcE9ManQyODRSU1pJUGNnU0R2WU1fbW4zeEMwYXNub2pvbWRoNTAzOHdXRUNZbV81Z0RZZWp4MjBOZGYzckhjUENqRHFIU1NmNlFYRnVMeE9Lazl2TEZNNnlxeXV6bVNrdTg4bQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVUV1QkdhRWhJMkZfWXBjOGc5VnJKYVB1OFY2VnBZczkwOFgxazhzQ1ZUVWdoSk5fOVJlM1prOExYTlEyamhudWI1VlV2akFMSzU1MlNmUFNYRjdzTG5JbNIBeEFVX3lxTE4zTEdzYmRRZU4tRHJZcE9ManQyODRSU1pJUGNnU0R2WU1fbW4zeEMwYXNub2pvbWRoNTAzOHdXRUNZbV81Z0RZZWp4MjBOZGYzckhjUENqRHFIU1NmNlFYRnVMeE9Lazl2TEZNNnlxeXV6bVNrdTg4bQ?oc=5",
@@ -631,7 +621,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 63,
+      "idx": 62,
       "cbm_id": "CBMiaEFVX3lxTE1EYzJXWlhqdTM3ZlpNb1k1ajZVZzVxb2pkVHdNdHBfeXp5RXhJYnFMcnFZODdZOTJXTmZVT2JVQ1V3bmVyNTduNkNTWl9wUUIwRW50V2c1djlVR3lpR3RCQ1RIN1hXclVF",
       "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYzJXWlhqdTM3ZlpNb1k1ajZVZzVxb2pkVHdNdHBfeXp5RXhJYnFMcnFZODdZOTJXTmZVT2JVQ1V3bmVyNTduNkNTWl9wUUIwRW50V2c1djlVR3lpR3RCQ1RIN1hXclVF?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYzJXWlhqdTM3ZlpNb1k1ajZVZzVxb2pkVHdNdHBfeXp5RXhJYnFMcnFZODdZOTJXTmZVT2JVQ1V3bmVyNTduNkNTWl9wUUIwRW50V2c1djlVR3lpR3RCQ1RIN1hXclVF?oc=5",
@@ -641,7 +631,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 64,
+      "idx": 63,
       "cbm_id": "CBMiakFVX3lxTE56WGhlS0pfTFh3a2ZiMEROc3BxN21MY0gtbG5WYWJ2RmMyYjV6VVl5RDhybWsyaXpXOHZqVWt4RnRILXQ1bi1OdUE1SFBQMXNLRXMwR1lDLWpLM3JmUHJtUnNaUXpxN1IyeUE",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WGhlS0pfTFh3a2ZiMEROc3BxN21MY0gtbG5WYWJ2RmMyYjV6VVl5RDhybWsyaXpXOHZqVWt4RnRILXQ1bi1OdUE1SFBQMXNLRXMwR1lDLWpLM3JmUHJtUnNaUXpxN1IyeUE?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56WGhlS0pfTFh3a2ZiMEROc3BxN21MY0gtbG5WYWJ2RmMyYjV6VVl5RDhybWsyaXpXOHZqVWt4RnRILXQ1bi1OdUE1SFBQMXNLRXMwR1lDLWpLM3JmUHJtUnNaUXpxN1IyeUE?oc=5",
@@ -651,7 +641,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 65,
+      "idx": 64,
       "cbm_id": "CBMiZ0FVX3lxTE5iZkc2S2drUm5EcnBTRms3dngwVmJZbGxMc3ZRY2NqZ1REUVFYLWgxM004UW9Ga1MxenVIemlmYWZHb2ZaTGdRcGdfYkUxZmtpUHRDZ1hjTFZaaU5Od3hlS2tINExWSGs",
       "rss_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZkc2S2drUm5EcnBTRms3dngwVmJZbGxMc3ZRY2NqZ1REUVFYLWgxM004UW9Ga1MxenVIemlmYWZHb2ZaTGdRcGdfYkUxZmtpUHRDZ1hjTFZaaU5Od3hlS2tINExWSGs?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZkc2S2drUm5EcnBTRms3dngwVmJZbGxMc3ZRY2NqZ1REUVFYLWgxM004UW9Ga1MxenVIemlmYWZHb2ZaTGdRcGdfYkUxZmtpUHRDZ1hjTFZaaU5Od3hlS2tINExWSGs?oc=5",
@@ -661,7 +651,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 66,
+      "idx": 65,
       "cbm_id": "CBMickFVX3lxTE5iVzB4NmtXdlRZc2hWTXA3WklpVi1sc2k5ZF82eU5QNUhFMW9qWXRIak53V0VGU3BXR3hRSVRVRXh5T2lqeVJnZjBKd0RPdHNaeWtiNGVRWGpXWUl5elBwRmxoZDdlbGtkanluYWp0RWNPUQ",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iVzB4NmtXdlRZc2hWTXA3WklpVi1sc2k5ZF82eU5QNUhFMW9qWXRIak53V0VGU3BXR3hRSVRVRXh5T2lqeVJnZjBKd0RPdHNaeWtiNGVRWGpXWUl5elBwRmxoZDdlbGtkanluYWp0RWNPUQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iVzB4NmtXdlRZc2hWTXA3WklpVi1sc2k5ZF82eU5QNUhFMW9qWXRIak53V0VGU3BXR3hRSVRVRXh5T2lqeVJnZjBKd0RPdHNaeWtiNGVRWGpXWUl5elBwRmxoZDdlbGtkanluYWp0RWNPUQ?oc=5",
@@ -671,7 +661,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 67,
+      "idx": 66,
       "cbm_id": "CBMifkFVX3lxTFB4dmJXazVtalVxQ01lLWtkNXk3Qlc2NnV6NDc5dzZwSG40YWZFQXpMNUNCYjg4X0UyWVZ6MlBoV3doNl9QM1NKTkpKLVZjTWxPWUZVWWRpTi16d1FhSF91eDZQN0lBRmwwODR4ZmNvSldOaFE5NkhhcDNyb3E4Zw",
       "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4dmJXazVtalVxQ01lLWtkNXk3Qlc2NnV6NDc5dzZwSG40YWZFQXpMNUNCYjg4X0UyWVZ6MlBoV3doNl9QM1NKTkpKLVZjTWxPWUZVWWRpTi16d1FhSF91eDZQN0lBRmwwODR4ZmNvSldOaFE5NkhhcDNyb3E4Zw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4dmJXazVtalVxQ01lLWtkNXk3Qlc2NnV6NDc5dzZwSG40YWZFQXpMNUNCYjg4X0UyWVZ6MlBoV3doNl9QM1NKTkpKLVZjTWxPWUZVWWRpTi16d1FhSF91eDZQN0lBRmwwODR4ZmNvSldOaFE5NkhhcDNyb3E4Zw?oc=5",
@@ -681,7 +671,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 68,
+      "idx": 67,
       "cbm_id": "CBMiU0FVX3lxTFBMeFc4cWhBQXdOaHZRbnNWWk9QcXV6bEJYajkxVXdxaF9pdHFMbnlkYUZZbzlHcC1qVE14dVhZRGpaV2oxN2ZHV2t1VlFBeXQxLWJ3",
       "rss_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeFc4cWhBQXdOaHZRbnNWWk9QcXV6bEJYajkxVXdxaF9pdHFMbnlkYUZZbzlHcC1qVE14dVhZRGpaV2oxN2ZHV2t1VlFBeXQxLWJ3?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeFc4cWhBQXdOaHZRbnNWWk9QcXV6bEJYajkxVXdxaF9pdHFMbnlkYUZZbzlHcC1qVE14dVhZRGpaV2oxN2ZHV2t1VlFBeXQxLWJ3?oc=5",
@@ -691,7 +681,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 69,
+      "idx": 68,
       "cbm_id": "CBMiakFVX3lxTE9JUzFyNU91VEpaYlVUdkdmV0pBSFRwV2xya21JYWtXUldONzZDVWU0cVowSlRsVUViejVnbjBqNWJ2c1o2TzBSMm54VmlTWExoOVdrOFF6OXdjMTQ5d3k2RUpoaV9Zd3IzR0E",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFyNU91VEpaYlVUdkdmV0pBSFRwV2xya21JYWtXUldONzZDVWU0cVowSlRsVUViejVnbjBqNWJ2c1o2TzBSMm54VmlTWExoOVdrOFF6OXdjMTQ5d3k2RUpoaV9Zd3IzR0E?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFyNU91VEpaYlVUdkdmV0pBSFRwV2xya21JYWtXUldONzZDVWU0cVowSlRsVUViejVnbjBqNWJ2c1o2TzBSMm54VmlTWExoOVdrOFF6OXdjMTQ5d3k2RUpoaV9Zd3IzR0E?oc=5",
@@ -701,7 +691,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 70,
+      "idx": 69,
       "cbm_id": "CBMiO0FVX3lxTE9mTTZXbzJhdDcxcmZLbWhuTzU5ZzduOUhLWGdycEJDYnFRZ1lxc19adjdBMjNlTnZZcDY0",
       "rss_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9mTTZXbzJhdDcxcmZLbWhuTzU5ZzduOUhLWGdycEJDYnFRZ1lxc19adjdBMjNlTnZZcDY0?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9mTTZXbzJhdDcxcmZLbWhuTzU5ZzduOUhLWGdycEJDYnFRZ1lxc19adjdBMjNlTnZZcDY0?oc=5",
@@ -711,7 +701,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 71,
+      "idx": 70,
       "cbm_id": "CBMigAFBVV95cUxOam5pRTFYV3RBZnB5Q2prR2JYbUM3ZnQyYXgyMUsxVUJIMy1lS3dyWHc5eWE2NThwVlVHWmViNmF6THZLV2E1OWZsRmpCSWhzTVpPVFozYTZZRUdrbTFYa3RKVm5BTzZnRkVfU0RyNTFmbTRocWtjUjFHN3pscWlTZQ",
       "rss_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOam5pRTFYV3RBZnB5Q2prR2JYbUM3ZnQyYXgyMUsxVUJIMy1lS3dyWHc5eWE2NThwVlVHWmViNmF6THZLV2E1OWZsRmpCSWhzTVpPVFozYTZZRUdrbTFYa3RKVm5BTzZnRkVfU0RyNTFmbTRocWtjUjFHN3pscWlTZQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOam5pRTFYV3RBZnB5Q2prR2JYbUM3ZnQyYXgyMUsxVUJIMy1lS3dyWHc5eWE2NThwVlVHWmViNmF6THZLV2E1OWZsRmpCSWhzTVpPVFozYTZZRUdrbTFYa3RKVm5BTzZnRkVfU0RyNTFmbTRocWtjUjFHN3pscWlTZQ?oc=5",
@@ -721,7 +711,7 @@
       "category": "의료정책·인력"
     },
     {
-      "idx": 72,
+      "idx": 71,
       "cbm_id": "CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw",
       "rss_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw?oc=5",
@@ -731,7 +721,7 @@
       "category": "전통의학"
     },
     {
-      "idx": 73,
+      "idx": 72,
       "cbm_id": "CBMiR0FVX3lxTE5qTzBqVU53OFNJSDBraHBJMDRBbzVrUW5iTExKY0JJY3U3QUJmNnEyaXVIU3lFOEdHSXJkRzFRU2ZXcV8ycnZ3",
       "rss_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qTzBqVU53OFNJSDBraHBJMDRBbzVrUW5iTExKY0JJY3U3QUJmNnEyaXVIU3lFOEdHSXJkRzFRU2ZXcV8ycnZ3?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qTzBqVU53OFNJSDBraHBJMDRBbzVrUW5iTExKY0JJY3U3QUJmNnEyaXVIU3lFOEdHSXJkRzFRU2ZXcV8ycnZ3?oc=5",
@@ -741,7 +731,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 74,
+      "idx": 73,
       "cbm_id": "CBMib0FVX3lxTFA2ZmsxUUYzREpsMVdHdTlfbHNlTTlRN2tWOEtZMWs1RUxHczk5NWNlVTdkV29pT0xTTTdiYjdMYWdPa1lWc3BhWE9STDR5eEl5djNKcm45Y3hPeTBXVERpM192eVk5Qlg0b3FHRHdLWQ",
       "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZmsxUUYzREpsMVdHdTlfbHNlTTlRN2tWOEtZMWs1RUxHczk5NWNlVTdkV29pT0xTTTdiYjdMYWdPa1lWc3BhWE9STDR5eEl5djNKcm45Y3hPeTBXVERpM192eVk5Qlg0b3FHRHdLWQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZmsxUUYzREpsMVdHdTlfbHNlTTlRN2tWOEtZMWs1RUxHczk5NWNlVTdkV29pT0xTTTdiYjdMYWdPa1lWc3BhWE9STDR5eEl5djNKcm45Y3hPeTBXVERpM192eVk5Qlg0b3FHRHdLWQ?oc=5",
@@ -751,7 +741,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 75,
+      "idx": 74,
       "cbm_id": "CBMijgFBVV95cUxQck5RWkxZN2YzN0VMWnRzd0JZMkZzQnRlTWlUWWZtOTIwbHp3aGp0b1VtdEtqcFJoMlhzSUNxZ2hvVjE5RmVneFFiQ1A5UzF3WS12YlRiNDVSMDlhNTJQSzJ5UENhcTM5dl91MTNHZ2JlQzVoWnQ5QU5LOUU3Qm1LSTdvQ0hSeE1Cd1otTERn",
       "rss_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck5RWkxZN2YzN0VMWnRzd0JZMkZzQnRlTWlUWWZtOTIwbHp3aGp0b1VtdEtqcFJoMlhzSUNxZ2hvVjE5RmVneFFiQ1A5UzF3WS12YlRiNDVSMDlhNTJQSzJ5UENhcTM5dl91MTNHZ2JlQzVoWnQ5QU5LOUU3Qm1LSTdvQ0hSeE1Cd1otTERn?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck5RWkxZN2YzN0VMWnRzd0JZMkZzQnRlTWlUWWZtOTIwbHp3aGp0b1VtdEtqcFJoMlhzSUNxZ2hvVjE5RmVneFFiQ1A5UzF3WS12YlRiNDVSMDlhNTJQSzJ5UENhcTM5dl91MTNHZ2JlQzVoWnQ5QU5LOUU3Qm1LSTdvQ0hSeE1Cd1otTERn?oc=5",
@@ -761,7 +751,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 76,
+      "idx": 75,
       "cbm_id": "CBMiaEFVX3lxTE9ubWp0aWNKcVNTY0txZUktSi1md1NoRk9YZGNEMFBMN2ljNF9IdU13Y2drQ0RobHpuZk9uNUdaUG9VZ0lGcXpENXpkRDlNdnhrbmU0UTN6UjAxWUdqYW8xTGFuc2lsN3lS",
       "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubWp0aWNKcVNTY0txZUktSi1md1NoRk9YZGNEMFBMN2ljNF9IdU13Y2drQ0RobHpuZk9uNUdaUG9VZ0lGcXpENXpkRDlNdnhrbmU0UTN6UjAxWUdqYW8xTGFuc2lsN3lS?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubWp0aWNKcVNTY0txZUktSi1md1NoRk9YZGNEMFBMN2ljNF9IdU13Y2drQ0RobHpuZk9uNUdaUG9VZ0lGcXpENXpkRDlNdnhrbmU0UTN6UjAxWUdqYW8xTGFuc2lsN3lS?oc=5",
@@ -771,7 +761,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 77,
+      "idx": 76,
       "cbm_id": "CBMiT0FVX3lxTE5YVFpMUXN5eEdDNEdIZ3h6S0hoU3hMZ1BjREUtUE9PZTQzR0pIZzM0S0wtT1ptc1pDcUpzbnRYQklBVGZ6NUlpOU9TZmFrWFU",
       "rss_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVFpMUXN5eEdDNEdIZ3h6S0hoU3hMZ1BjREUtUE9PZTQzR0pIZzM0S0wtT1ptc1pDcUpzbnRYQklBVGZ6NUlpOU9TZmFrWFU?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVFpMUXN5eEdDNEdIZ3h6S0hoU3hMZ1BjREUtUE9PZTQzR0pIZzM0S0wtT1ptc1pDcUpzbnRYQklBVGZ6NUlpOU9TZmFrWFU?oc=5",
@@ -781,7 +771,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 78,
+      "idx": 77,
       "cbm_id": "CBMicEFVX3lxTE9LcWc5TGxQUWFsSkYxSVdUM0ZWUzdMaEJlRWxYSXpiUXlvcHRPc3AyZ0UxMlAyWjM5YkpYengyX1lBTGxzTndQdlNxLU8wMzBLd1UxZXBxam1OR2g0Z0s0bHFvQzZ0Rkpmb245SVNORXo",
       "rss_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LcWc5TGxQUWFsSkYxSVdUM0ZWUzdMaEJlRWxYSXpiUXlvcHRPc3AyZ0UxMlAyWjM5YkpYengyX1lBTGxzTndQdlNxLU8wMzBLd1UxZXBxam1OR2g0Z0s0bHFvQzZ0Rkpmb245SVNORXo?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LcWc5TGxQUWFsSkYxSVdUM0ZWUzdMaEJlRWxYSXpiUXlvcHRPc3AyZ0UxMlAyWjM5YkpYengyX1lBTGxzTndQdlNxLU8wMzBLd1UxZXBxam1OR2g0Z0s0bHFvQzZ0Rkpmb245SVNORXo?oc=5",
@@ -791,7 +781,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 79,
+      "idx": 78,
       "cbm_id": "CBMiakFVX3lxTE1fTDE4NjMwUUV5ZzZPSE5MMlRUZDJ4RUpXeFk4WkRHQWlJU2c5azdyT0pxVDNRYXdkZDVlN1AtbXJHVWNVN29XS1ZIeHdKUzM5dGtjdTZFY0NiYnIxb2ZHaW9JQ2Z3YlNxa1HSAWxBVV95cUxPOXhERzBlZU5yY0dybmRSeTFfb3VDSU1wMFVvdk1Gc0FfRmxtc1hlZWNaRnhqUUc4VzR6bl9ZdTRSMEFGRGZ1UWU0NEU5Ri1xeWRBSndoRlRVU2FBZHhWTzZXczdPSFVhODUwcW0",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTDE4NjMwUUV5ZzZPSE5MMlRUZDJ4RUpXeFk4WkRHQWlJU2c5azdyT0pxVDNRYXdkZDVlN1AtbXJHVWNVN29XS1ZIeHdKUzM5dGtjdTZFY0NiYnIxb2ZHaW9JQ2Z3YlNxa1HSAWxBVV95cUxPOXhERzBlZU5yY0dybmRSeTFfb3VDSU1wMFVvdk1Gc0FfRmxtc1hlZWNaRnhqUUc4VzR6bl9ZdTRSMEFGRGZ1UWU0NEU5Ri1xeWRBSndoRlRVU2FBZHhWTzZXczdPSFVhODUwcW0?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTDE4NjMwUUV5ZzZPSE5MMlRUZDJ4RUpXeFk4WkRHQWlJU2c5azdyT0pxVDNRYXdkZDVlN1AtbXJHVWNVN29XS1ZIeHdKUzM5dGtjdTZFY0NiYnIxb2ZHaW9JQ2Z3YlNxa1HSAWxBVV95cUxPOXhERzBlZU5yY0dybmRSeTFfb3VDSU1wMFVvdk1Gc0FfRmxtc1hlZWNaRnhqUUc4VzR6bl9ZdTRSMEFGRGZ1UWU0NEU5Ri1xeWRBSndoRlRVU2FBZHhWTzZXczdPSFVhODUwcW0?oc=5",
@@ -801,7 +791,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 80,
+      "idx": 79,
       "cbm_id": "CBMicEFVX3lxTE9FZnlMOVBTN284RjhkdHR6VEJRdl9CaE5LT245eV9lb2F1U0R1SW4tXzdRcDgzZTZrZ3NrdXNaY3dNcHJ0Mk1EUmljWFkyVGZYSjVmb0M4ZFdrb09CcUNfaDQtRDRYdkFxNjNRV1BKUEw",
       "rss_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZnlMOVBTN284RjhkdHR6VEJRdl9CaE5LT245eV9lb2F1U0R1SW4tXzdRcDgzZTZrZ3NrdXNaY3dNcHJ0Mk1EUmljWFkyVGZYSjVmb0M4ZFdrb09CcUNfaDQtRDRYdkFxNjNRV1BKUEw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZnlMOVBTN284RjhkdHR6VEJRdl9CaE5LT245eV9lb2F1U0R1SW4tXzdRcDgzZTZrZ3NrdXNaY3dNcHJ0Mk1EUmljWFkyVGZYSjVmb0M4ZFdrb09CcUNfaDQtRDRYdkFxNjNRV1BKUEw?oc=5",
@@ -811,7 +801,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 81,
+      "idx": 80,
       "cbm_id": "CBMieEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GadIBeEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GaQ",
       "rss_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GadIBeEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GaQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GadIBeEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GaQ?oc=5",
@@ -821,7 +811,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 82,
+      "idx": 81,
       "cbm_id": "CBMiakFVX3lxTFB6WkhqN2Nuc3lDRk5PMzNMU3BNRWYyUnZsdjBNZ01WN04yYnBEem1GclY5U2dWMWpidlpNbVprZ1J1Rmk0TFNQM215bWstVmFXdjJTbE02a0M0SXcyUVg2SVVBbU5kSXVkWHc",
       "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6WkhqN2Nuc3lDRk5PMzNMU3BNRWYyUnZsdjBNZ01WN04yYnBEem1GclY5U2dWMWpidlpNbVprZ1J1Rmk0TFNQM215bWstVmFXdjJTbE02a0M0SXcyUVg2SVVBbU5kSXVkWHc?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6WkhqN2Nuc3lDRk5PMzNMU3BNRWYyUnZsdjBNZ01WN04yYnBEem1GclY5U2dWMWpidlpNbVprZ1J1Rmk0TFNQM215bWstVmFXdjJTbE02a0M0SXcyUVg2SVVBbU5kSXVkWHc?oc=5",
@@ -831,7 +821,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 83,
+      "idx": 82,
       "cbm_id": "CBMiYEFVX3lxTE81NUxRemJMYWttS092OHh3d1hGdDM4UzRuTTBaQXdWd0pJdEVnNmJmbWM1Z2ZqTms4TXNjaDBKTDUyck5MM2FpRWZIb3dlS0t0YUFOYm1GSVlHTmhTejhTNw",
       "rss_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NUxRemJMYWttS092OHh3d1hGdDM4UzRuTTBaQXdWd0pJdEVnNmJmbWM1Z2ZqTms4TXNjaDBKTDUyck5MM2FpRWZIb3dlS0t0YUFOYm1GSVlHTmhTejhTNw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NUxRemJMYWttS092OHh3d1hGdDM4UzRuTTBaQXdWd0pJdEVnNmJmbWM1Z2ZqTms4TXNjaDBKTDUyck5MM2FpRWZIb3dlS0t0YUFOYm1GSVlHTmhTejhTNw?oc=5",
@@ -841,7 +831,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 84,
+      "idx": 83,
       "cbm_id": "CBMickFVX3lxTE8wY3dlRzFrOTRTNU9FUWNSY2g3LTNOZWpidVpYYkJKU1Y0bVpPQ2N2ejRXUk5ZMTlHakxHZHQwd2xLUmxuTjFIZ0h3Yi1mc0twZ1BpU3dQSGNDOTR4ZlVfSzBIeG5KQXlTam41ZHdFVTY3Zw",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wY3dlRzFrOTRTNU9FUWNSY2g3LTNOZWpidVpYYkJKU1Y0bVpPQ2N2ejRXUk5ZMTlHakxHZHQwd2xLUmxuTjFIZ0h3Yi1mc0twZ1BpU3dQSGNDOTR4ZlVfSzBIeG5KQXlTam41ZHdFVTY3Zw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wY3dlRzFrOTRTNU9FUWNSY2g3LTNOZWpidVpYYkJKU1Y0bVpPQ2N2ejRXUk5ZMTlHakxHZHQwd2xLUmxuTjFIZ0h3Yi1mc0twZ1BpU3dQSGNDOTR4ZlVfSzBIeG5KQXlTam41ZHdFVTY3Zw?oc=5",
@@ -851,7 +841,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 85,
+      "idx": 84,
       "cbm_id": "CBMickFVX3lxTFAzaUY2SnpUY2E4c0x5UXVtTjV0aEJkQlgxY0d0djZFM2tkd19CbHpjZ21Ma0tISks1LTFaNTRtRF9ZVWhnUGRXQzZ6dEtCSW90NlJxbmhOY2ZDU2xNZlBFV29HMC1zNE1VR3VNVHdoenVDZw",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzaUY2SnpUY2E4c0x5UXVtTjV0aEJkQlgxY0d0djZFM2tkd19CbHpjZ21Ma0tISks1LTFaNTRtRF9ZVWhnUGRXQzZ6dEtCSW90NlJxbmhOY2ZDU2xNZlBFV29HMC1zNE1VR3VNVHdoenVDZw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzaUY2SnpUY2E4c0x5UXVtTjV0aEJkQlgxY0d0djZFM2tkd19CbHpjZ21Ma0tISks1LTFaNTRtRF9ZVWhnUGRXQzZ6dEtCSW90NlJxbmhOY2ZDU2xNZlBFV29HMC1zNE1VR3VNVHdoenVDZw?oc=5",
@@ -861,7 +851,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 86,
+      "idx": 85,
       "cbm_id": "CBMif0FVX3lxTFA4M2lQY2J2MlRldkJOTHRWeXFnX24wOGNjc0EyRFJ4MktqdGJmWlpOMlJNbWNQQzJrMm9VVVRLdk9kcHU5Nk4wVXNlOXJBdlJuY2JfamhTY1EwMmNoMkJzTUVLSUF4c1lHZUhtLXRxelcxYXBQN0xfTEpTRDhyM1nSAX9BVV95cUxQODNpUGNidjJUZXZCTkx0VnlxZ19uMDhjY3NBMkRSeDJLanRiZlpaTjJSTW1jUEMyazJvVVVUS3ZPZHB1OTZOMFVzZTlyQXZSbmNiX2poU2NRMDJjaDJCc01FS0lBeHNZR2VIbS10cXpXMWFwUDdMX0xKU0Q4cjNZ",
       "rss_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4M2lQY2J2MlRldkJOTHRWeXFnX24wOGNjc0EyRFJ4MktqdGJmWlpOMlJNbWNQQzJrMm9VVVRLdk9kcHU5Nk4wVXNlOXJBdlJuY2JfamhTY1EwMmNoMkJzTUVLSUF4c1lHZUhtLXRxelcxYXBQN0xfTEpTRDhyM1nSAX9BVV95cUxQODNpUGNidjJUZXZCTkx0VnlxZ19uMDhjY3NBMkRSeDJLanRiZlpaTjJSTW1jUEMyazJvVVVUS3ZPZHB1OTZOMFVzZTlyQXZSbmNiX2poU2NRMDJjaDJCc01FS0lBeHNZR2VIbS10cXpXMWFwUDdMX0xKU0Q4cjNZ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4M2lQY2J2MlRldkJOTHRWeXFnX24wOGNjc0EyRFJ4MktqdGJmWlpOMlJNbWNQQzJrMm9VVVRLdk9kcHU5Nk4wVXNlOXJBdlJuY2JfamhTY1EwMmNoMkJzTUVLSUF4c1lHZUhtLXRxelcxYXBQN0xfTEpTRDhyM1nSAX9BVV95cUxQODNpUGNidjJUZXZCTkx0VnlxZ19uMDhjY3NBMkRSeDJLanRiZlpaTjJSTW1jUEMyazJvVVVUS3ZPZHB1OTZOMFVzZTlyQXZSbmNiX2poU2NRMDJjaDJCc01FS0lBeHNZR2VIbS10cXpXMWFwUDdMX0xKU0Q4cjNZ?oc=5",
@@ -871,7 +861,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 87,
+      "idx": 86,
       "cbm_id": "CBMiYEFVX3lxTE5SQWVKQmVPLXY4X1FmXzh5T3lQYkgyeGdrcGE4ME1GSHJ4MHNoUUJ1bXRXX3NZcHdwR3U4YTBzeUt4SU5VcXVBWFVWTlRsMGh5ZGoxRWt5bFJNa3JCbEpsbg",
       "rss_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQWVKQmVPLXY4X1FmXzh5T3lQYkgyeGdrcGE4ME1GSHJ4MHNoUUJ1bXRXX3NZcHdwR3U4YTBzeUt4SU5VcXVBWFVWTlRsMGh5ZGoxRWt5bFJNa3JCbEpsbg?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQWVKQmVPLXY4X1FmXzh5T3lQYkgyeGdrcGE4ME1GSHJ4MHNoUUJ1bXRXX3NZcHdwR3U4YTBzeUt4SU5VcXVBWFVWTlRsMGh5ZGoxRWt5bFJNa3JCbEpsbg?oc=5",
@@ -881,7 +871,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 88,
+      "idx": 87,
       "cbm_id": "CBMickFVX3lxTFAyQWw1WExkOXhUYXE0MVJOUWdrcDM0Y09ZQ3FVM21GbFpsQl94MTFBdEd3Z09JLUphRWRud3oySVV6U0FYdnhvbzkxa0xScEZTWU9zbU9tQXE0U2dBdmxCZWNpOFhiYUNjTWoyd0lqZ2M5dw",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQWw1WExkOXhUYXE0MVJOUWdrcDM0Y09ZQ3FVM21GbFpsQl94MTFBdEd3Z09JLUphRWRud3oySVV6U0FYdnhvbzkxa0xScEZTWU9zbU9tQXE0U2dBdmxCZWNpOFhiYUNjTWoyd0lqZ2M5dw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQWw1WExkOXhUYXE0MVJOUWdrcDM0Y09ZQ3FVM21GbFpsQl94MTFBdEd3Z09JLUphRWRud3oySVV6U0FYdnhvbzkxa0xScEZTWU9zbU9tQXE0U2dBdmxCZWNpOFhiYUNjTWoyd0lqZ2M5dw?oc=5",
@@ -891,7 +881,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 89,
+      "idx": 88,
       "cbm_id": "CBMickFVX3lxTE5Vd1FTN1cwaHZBaVlXVVVhLXJ4alo4UGhJTUZOTDQzbVhqUkw1THUzN0hTZTJRLVl4aVQteUg4Q1htOVZFT1Q0UlNLbVZMcnBpcDA5ZzZWZm1CZDlFV2ZCZ3hZTHFOOTRKOTRJeHRObW5jUQ",
       "rss_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Vd1FTN1cwaHZBaVlXVVVhLXJ4alo4UGhJTUZOTDQzbVhqUkw1THUzN0hTZTJRLVl4aVQteUg4Q1htOVZFT1Q0UlNLbVZMcnBpcDA5ZzZWZm1CZDlFV2ZCZ3hZTHFOOTRKOTRJeHRObW5jUQ?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Vd1FTN1cwaHZBaVlXVVVhLXJ4alo4UGhJTUZOTDQzbVhqUkw1THUzN0hTZTJRLVl4aVQteUg4Q1htOVZFT1Q0UlNLbVZMcnBpcDA5ZzZWZm1CZDlFV2ZCZ3hZTHFOOTRKOTRJeHRObW5jUQ?oc=5",
@@ -901,7 +891,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 90,
+      "idx": 89,
       "cbm_id": "CBMibkFVX3lxTE13allPOFU0eVpPZ0JOQzdSdVMzRFNwTEVTN2Q3dlB2M2JLcWl6NElvaFVtTmV6a3JpaGJJLW5QMDNOZmZVWDVORV9mRWNTN0lNYThwRW9nLTNsQk94Zmlsc2dOWktFeFc0NE1lV2xR",
       "rss_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13allPOFU0eVpPZ0JOQzdSdVMzRFNwTEVTN2Q3dlB2M2JLcWl6NElvaFVtTmV6a3JpaGJJLW5QMDNOZmZVWDVORV9mRWNTN0lNYThwRW9nLTNsQk94Zmlsc2dOWktFeFc0NE1lV2xR?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13allPOFU0eVpPZ0JOQzdSdVMzRFNwTEVTN2Q3dlB2M2JLcWl6NElvaFVtTmV6a3JpaGJJLW5QMDNOZmZVWDVORV9mRWNTN0lNYThwRW9nLTNsQk94Zmlsc2dOWktFeFc0NE1lV2xR?oc=5",
@@ -911,7 +901,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 91,
+      "idx": 90,
       "cbm_id": "CBMiW0FVX3lxTE9CUW5yLWZ3Q1RxdV9rR0wxSWZFZ1d2ejBFOEhXMGEyYnhSYUU5NzF4M1B6TG9STThfem5XVlBXTEVKRUEzWTg2QkhRWDVCOTcwQlNfejJLUGlISk0",
       "rss_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUW5yLWZ3Q1RxdV9rR0wxSWZFZ1d2ejBFOEhXMGEyYnhSYUU5NzF4M1B6TG9STThfem5XVlBXTEVKRUEzWTg2QkhRWDVCOTcwQlNfejJLUGlISk0?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUW5yLWZ3Q1RxdV9rR0wxSWZFZ1d2ejBFOEhXMGEyYnhSYUU5NzF4M1B6TG9STThfem5XVlBXTEVKRUEzWTg2QkhRWDVCOTcwQlNfejJLUGlISk0?oc=5",
@@ -921,7 +911,7 @@
       "category": "감염·보건"
     },
     {
-      "idx": 92,
+      "idx": 91,
       "cbm_id": "CBMibEFVX3lxTE83TjY5NEMwYTRzZFNXR1Z5d3lSTDJlaUFPT2U2dVZzek9MZEVXY1ZYYktLcUNwZWhxUUZrOUJSc1duUGpEbDZrX0w5U184MEl4V2MyM053b3hNc1BfSG9OTEZiN01vWGRPTllkYw",
       "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83TjY5NEMwYTRzZFNXR1Z5d3lSTDJlaUFPT2U2dVZzek9MZEVXY1ZYYktLcUNwZWhxUUZrOUJSc1duUGpEbDZrX0w5U184MEl4V2MyM053b3hNc1BfSG9OTEZiN01vWGRPTllkYw?oc=5&hl=ko&gl=US&ceid=US:ko",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83TjY5NEMwYTRzZFNXR1Z5d3lSTDJlaUFPT2U2dVZzek9MZEVXY1ZYYktLcUNwZWhxUUZrOUJSc1duUGpEbDZrX0w5U184MEl4V2MyM053b3hNc1BfSG9OTEZiN01vWGRPTllkYw?oc=5",
@@ -931,7 +921,37 @@
       "category": "감염·보건"
     },
     {
+      "idx": 92,
+      "cbm_id": "CBMidEFVX3lxTE1EMk9SbXFUVXRZbTdfOTZ0YWJselFPUlg1S24zRmxTYVVyV3BTZF9Ja1FfX2JhakVIZVQ2Rm9FRV9qa3lDdm9hTTVYQUdIY2RQMGpNQUxnVXg1Z3ViWkxWbHdVQS12OW9kT05tRFkxSy1mWGtM",
+      "rss_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMk9SbXFUVXRZbTdfOTZ0YWJselFPUlg1S24zRmxTYVVyV3BTZF9Ja1FfX2JhakVIZVQ2Rm9FRV9qa3lDdm9hTTVYQUdIY2RQMGpNQUxnVXg1Z3ViWkxWbHdVQS12OW9kT05tRFkxSy1mWGtM?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMk9SbXFUVXRZbTdfOTZ0YWJselFPUlg1S24zRmxTYVVyV3BTZF9Ja1FfX2JhakVIZVQ2Rm9FRV9qa3lDdm9hTTVYQUdIY2RQMGpNQUxnVXg1Z3ViWkxWbHdVQS12OW9kT05tRFkxSy1mWGtM?oc=5",
+      "title": "울산시, 시민 대상 모기물림 예방수칙 준수 당부 - 글로벌뉴스통신GNA",
+      "source": "",
+      "section": "korean",
+      "category": "감염·보건"
+    },
+    {
       "idx": 93,
+      "cbm_id": "CBMiaEFVX3lxTFBiUllqTnFiNmxUSjVVeGR2ZTFPa1ZfeGFtZUhYQWJQNFRoWlhvMlRGQnBFT2x4a1BDeWg4alF1UnhJeGxmQWNDNWlvMmdhUk5xRFF5NjRJTUczMnptRXpybjdSSEpUdFhI",
+      "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUllqTnFiNmxUSjVVeGR2ZTFPa1ZfeGFtZUhYQWJQNFRoWlhvMlRGQnBFT2x4a1BDeWg4alF1UnhJeGxmQWNDNWlvMmdhUk5xRFF5NjRJTUczMnptRXpybjdSSEpUdFhI?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUllqTnFiNmxUSjVVeGR2ZTFPa1ZfeGFtZUhYQWJQNFRoWlhvMlRGQnBFT2x4a1BDeWg4alF1UnhJeGxmQWNDNWlvMmdhUk5xRFF5NjRJTUczMnptRXpybjdSSEpUdFhI?oc=5",
+      "title": "대구 모기서 일본뇌염 바이러스 검출... 경보 발령 조치 - 더쎈뉴스",
+      "source": "",
+      "section": "korean",
+      "category": "감염·보건"
+    },
+    {
+      "idx": 94,
+      "cbm_id": "CBMinwFBVV95cUxQUXc3bl9xV1U4RG9NbWFRYUh1TUlta2VmQnZNWEV1MlRhZVZTNUpSdjZOUWwzMi1VRzdYZDVIcC04N0JFa3doYlBGNVlwT2ZWMVh4Y0lYb0hsQlR6Q19iQ1FhUjFuMUFIX2ZLTjJPbWVJUnVhb0dybFFWblA0VEpReE1mdExGYUlOWWJvbmtQcDJGeWFvend5Q0ZCLWN1d0E",
+      "rss_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXc3bl9xV1U4RG9NbWFRYUh1TUlta2VmQnZNWEV1MlRhZVZTNUpSdjZOUWwzMi1VRzdYZDVIcC04N0JFa3doYlBGNVlwT2ZWMVh4Y0lYb0hsQlR6Q19iQ1FhUjFuMUFIX2ZLTjJPbWVJUnVhb0dybFFWblA0VEpReE1mdExGYUlOWWJvbmtQcDJGeWFvend5Q0ZCLWN1d0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUXc3bl9xV1U4RG9NbWFRYUh1TUlta2VmQnZNWEV1MlRhZVZTNUpSdjZOUWwzMi1VRzdYZDVIcC04N0JFa3doYlBGNVlwT2ZWMVh4Y0lYb0hsQlR6Q19iQ1FhUjFuMUFIX2ZLTjJPbWVJUnVhb0dybFFWblA0VEpReE1mdExGYUlOWWJvbmtQcDJGeWFvend5Q0ZCLWN1d0E?oc=5",
+      "title": "Anvisa manda recolher 2 antibióticos; um deles tinha vidro - SBT News",
+      "source": "",
+      "section": "multilingual",
+      "category": "Portuguese / 포르투갈어"
+    },
+    {
+      "idx": 95,
       "cbm_id": "CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg",
       "rss_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg?oc=5",
@@ -941,7 +961,7 @@
       "category": "Swedish / 스웨덴어"
     },
     {
-      "idx": 94,
+      "idx": 96,
       "cbm_id": "CBMivgFBVV95cUxNaGVCSWFxY2xwdXowMHhLRktmbWg5Yzh4ZmZVOGJuNDg3RE5xTzRDZGs4WnR2bTQ2R05UX0VPZXNndVJDOTFuNjBibFR0NGtBUkplbFhYX0tRTmp3SU0tLUJPdnRsWWg0dHZwVFVBYVQtQThidFo2T1k5NVJRckRDcXRqQjlxcXdaOERtZkpkMXNJSElCQU9xZXBOcnZjWDlnclRSZFBhenVqOV9BWmRORTMzYzEtM2V2U1J5QUNR",
       "rss_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGVCSWFxY2xwdXowMHhLRktmbWg5Yzh4ZmZVOGJuNDg3RE5xTzRDZGs4WnR2bTQ2R05UX0VPZXNndVJDOTFuNjBibFR0NGtBUkplbFhYX0tRTmp3SU0tLUJPdnRsWWg0dHZwVFVBYVQtQThidFo2T1k5NVJRckRDcXRqQjlxcXdaOERtZkpkMXNJSElCQU9xZXBOcnZjWDlnclRSZFBhenVqOV9BWmRORTMzYzEtM2V2U1J5QUNR?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGVCSWFxY2xwdXowMHhLRktmbWg5Yzh4ZmZVOGJuNDg3RE5xTzRDZGs4WnR2bTQ2R05UX0VPZXNndVJDOTFuNjBibFR0NGtBUkplbFhYX0tRTmp3SU0tLUJPdnRsWWg0dHZwVFVBYVQtQThidFo2T1k5NVJRckRDcXRqQjlxcXdaOERtZkpkMXNJSElCQU9xZXBOcnZjWDlnclRSZFBhenVqOV9BWmRORTMzYzEtM2V2U1J5QUNR?oc=5",
@@ -951,7 +971,7 @@
       "category": "Russian / 러시아어"
     },
     {
-      "idx": 95,
+      "idx": 97,
       "cbm_id": "CBMi0wFBVV95cUxNZWhIWnJKc0tfVEdSaHJMeGlWVC1sOEozVS1zeERYbVFDLW44MVpPenpsT1hhTGlmeU85U011b01BNFZvdkxuRHM5dXdEWU53QlhKb0xVZkVjcWk1M2MxX3NIMVB3TW5SeXJ3U3RqQjhQSmlITUhwaFpZRFF4T0hXN3pURmVpYkw2bnNUcFpBV0FpRGJhdlZBNHJ6NmFndmFuVjAzNGVMSzR4Q0ZfbFREejJaanVtVWZPWWZwNm9lSW5ENDRPd3h3R2gwWkpiSUhOQV800gHYAUFVX3lxTFBFbEM2T3lTM0dmcDdSaGJKX3BPNjAwNDJBeVJvX2NQcnhHTmczbU9vSk1CWUxGV2ZZckNOcHR4c0E4TjgwM2xvRldIdHJMTHNKUGpUY2o0ZlNWczZ4SnVFZ3hCd3VJNy1zUFltNDgzaHlFbXFxWThDbi1kVEVpRVVhcThCcjVkOEFFaHFCLVZ5VERqWUh6WHlsVElZdnEtNnJnOU5QRGRqUUJwc2tCWGFEUWU1U3FHZTRiWU1Xd05KVXpNaU0zVVlLZ2xQNXV1YkhYT0RYSFFFbw",
       "rss_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWhIWnJKc0tfVEdSaHJMeGlWVC1sOEozVS1zeERYbVFDLW44MVpPenpsT1hhTGlmeU85U011b01BNFZvdkxuRHM5dXdEWU53QlhKb0xVZkVjcWk1M2MxX3NIMVB3TW5SeXJ3U3RqQjhQSmlITUhwaFpZRFF4T0hXN3pURmVpYkw2bnNUcFpBV0FpRGJhdlZBNHJ6NmFndmFuVjAzNGVMSzR4Q0ZfbFREejJaanVtVWZPWWZwNm9lSW5ENDRPd3h3R2gwWkpiSUhOQV800gHYAUFVX3lxTFBFbEM2T3lTM0dmcDdSaGJKX3BPNjAwNDJBeVJvX2NQcnhHTmczbU9vSk1CWUxGV2ZZckNOcHR4c0E4TjgwM2xvRldIdHJMTHNKUGpUY2o0ZlNWczZ4SnVFZ3hCd3VJNy1zUFltNDgzaHlFbXFxWThDbi1kVEVpRVVhcThCcjVkOEFFaHFCLVZ5VERqWUh6WHlsVElZdnEtNnJnOU5QRGRqUUJwc2tCWGFEUWU1U3FHZTRiWU1Xd05KVXpNaU0zVVlLZ2xQNXV1YkhYT0RYSFFFbw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWhIWnJKc0tfVEdSaHJMeGlWVC1sOEozVS1zeERYbVFDLW44MVpPenpsT1hhTGlmeU85U011b01BNFZvdkxuRHM5dXdEWU53QlhKb0xVZkVjcWk1M2MxX3NIMVB3TW5SeXJ3U3RqQjhQSmlITUhwaFpZRFF4T0hXN3pURmVpYkw2bnNUcFpBV0FpRGJhdlZBNHJ6NmFndmFuVjAzNGVMSzR4Q0ZfbFREejJaanVtVWZPWWZwNm9lSW5ENDRPd3h3R2gwWkpiSUhOQV800gHYAUFVX3lxTFBFbEM2T3lTM0dmcDdSaGJKX3BPNjAwNDJBeVJvX2NQcnhHTmczbU9vSk1CWUxGV2ZZckNOcHR4c0E4TjgwM2xvRldIdHJMTHNKUGpUY2o0ZlNWczZ4SnVFZ3hCd3VJNy1zUFltNDgzaHlFbXFxWThDbi1kVEVpRVVhcThCcjVkOEFFaHFCLVZ5VERqWUh6WHlsVElZdnEtNnJnOU5QRGRqUUJwc2tCWGFEUWU1U3FHZTRiWU1Xd05KVXpNaU0zVVlLZ2xQNXV1YkhYT0RYSFFFbw?oc=5",
@@ -961,7 +981,7 @@
       "category": "Russian / 러시아어"
     },
     {
-      "idx": 96,
+      "idx": 98,
       "cbm_id": "CBMinwFBVV95cUxOM1lhRzFFbHk2amZnWTNWZkppWUVXeFJ4bUQ5LWwxNGZsWXRnSWpYWVNLUFNGVlRkUE5hVS10QmxpU0tmbVRNcTFlUVI4d05lbDV5WWxFNmFXSDRtQUlBd2JBSW51cGpuaUNHQ0lFaG41dkNnUERDaV9laXZac0VUTDNYMVU1VzBWcHdxNm9nbkJFUC1tNmZMZVRpX3NYSEXSAasBQVVfeXFMT1h5M0F1bDhtUGpGN2lvWUNLLWRxbnZZYlZDeGRrWWtGVmF1NlFNQWxMSENPWmlGZ0R0VVBZVjhzcTFfUllMZ1E3Q0ZzZFVSQy1GclQ3a2dYaVFKZENkR29tdEZhQW1Ga1hIVWFZcGFoZEtpSlpFd2JEZnFobEh4U3ozaVVIUFA3b3lyZlFFUzViUndTbnF2U2ZhSTkyU2N4czVtWFBpTEMtZnhB",
       "rss_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1lhRzFFbHk2amZnWTNWZkppWUVXeFJ4bUQ5LWwxNGZsWXRnSWpYWVNLUFNGVlRkUE5hVS10QmxpU0tmbVRNcTFlUVI4d05lbDV5WWxFNmFXSDRtQUlBd2JBSW51cGpuaUNHQ0lFaG41dkNnUERDaV9laXZac0VUTDNYMVU1VzBWcHdxNm9nbkJFUC1tNmZMZVRpX3NYSEXSAasBQVVfeXFMT1h5M0F1bDhtUGpGN2lvWUNLLWRxbnZZYlZDeGRrWWtGVmF1NlFNQWxMSENPWmlGZ0R0VVBZVjhzcTFfUllMZ1E3Q0ZzZFVSQy1GclQ3a2dYaVFKZENkR29tdEZhQW1Ga1hIVWFZcGFoZEtpSlpFd2JEZnFobEh4U3ozaVVIUFA3b3lyZlFFUzViUndTbnF2U2ZhSTkyU2N4czVtWFBpTEMtZnhB?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1lhRzFFbHk2amZnWTNWZkppWUVXeFJ4bUQ5LWwxNGZsWXRnSWpYWVNLUFNGVlRkUE5hVS10QmxpU0tmbVRNcTFlUVI4d05lbDV5WWxFNmFXSDRtQUlBd2JBSW51cGpuaUNHQ0lFaG41dkNnUERDaV9laXZac0VUTDNYMVU1VzBWcHdxNm9nbkJFUC1tNmZMZVRpX3NYSEXSAasBQVVfeXFMT1h5M0F1bDhtUGpGN2lvWUNLLWRxbnZZYlZDeGRrWWtGVmF1NlFNQWxMSENPWmlGZ0R0VVBZVjhzcTFfUllMZ1E3Q0ZzZFVSQy1GclQ3a2dYaVFKZENkR29tdEZhQW1Ga1hIVWFZcGFoZEtpSlpFd2JEZnFobEh4U3ozaVVIUFA3b3lyZlFFUzViUndTbnF2U2ZhSTkyU2N4czVtWFBpTEMtZnhB?oc=5",
@@ -971,7 +991,7 @@
       "category": "Russian / 러시아어"
     },
     {
-      "idx": 97,
+      "idx": 99,
       "cbm_id": "CBMipAFBVV95cUxQTmt6X1M0OE5vdnotcHFOSFRrWVdKUWhZOGdSZTlzcVI4TEFVNkQtMmhIWkhxQ0pWc2Y4UVQ0cXhtUUpWanZRYldZVUdmTW9YVHhieEcxNXF3Xzh6NXNlZkg1UlI5VF9ZVXVKbTFFemI4dmRKVUlSNTNRa2tYblkzSVBxcDJubU5rLUJLS2s2QnRNUDhMTjA3VTJSQnU1ZGFtR2hwedIBsAFBVV95cUxQa1ZkNV9qN3ctX0oyZVJoa211R3I2czgyN1gzRTZlb0V4VUl0MDhKd3BpNFdFNHZYaHlFRmdIXy04cTMwRW40R21RSVY2LW1lZTZQY1hyYVVpTlcxa0gydmRzY2hVUW85Z0dRcmlHTFhlVjNicmViZHY1NEpXTGVtYUtDMnhob29wakVhZEhBR09WQUU5bzJneFlTemVRc285ZmY4SDRrbWhYWTRKTGp0cg",
       "rss_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmt6X1M0OE5vdnotcHFOSFRrWVdKUWhZOGdSZTlzcVI4TEFVNkQtMmhIWkhxQ0pWc2Y4UVQ0cXhtUUpWanZRYldZVUdmTW9YVHhieEcxNXF3Xzh6NXNlZkg1UlI5VF9ZVXVKbTFFemI4dmRKVUlSNTNRa2tYblkzSVBxcDJubU5rLUJLS2s2QnRNUDhMTjA3VTJSQnU1ZGFtR2hwedIBsAFBVV95cUxQa1ZkNV9qN3ctX0oyZVJoa211R3I2czgyN1gzRTZlb0V4VUl0MDhKd3BpNFdFNHZYaHlFRmdIXy04cTMwRW40R21RSVY2LW1lZTZQY1hyYVVpTlcxa0gydmRzY2hVUW85Z0dRcmlHTFhlVjNicmViZHY1NEpXTGVtYUtDMnhob29wakVhZEhBR09WQUU5bzJneFlTemVRc285ZmY4SDRrbWhYWTRKTGp0cg?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmt6X1M0OE5vdnotcHFOSFRrWVdKUWhZOGdSZTlzcVI4TEFVNkQtMmhIWkhxQ0pWc2Y4UVQ0cXhtUUpWanZRYldZVUdmTW9YVHhieEcxNXF3Xzh6NXNlZkg1UlI5VF9ZVXVKbTFFemI4dmRKVUlSNTNRa2tYblkzSVBxcDJubU5rLUJLS2s2QnRNUDhMTjA3VTJSQnU1ZGFtR2hwedIBsAFBVV95cUxQa1ZkNV9qN3ctX0oyZVJoa211R3I2czgyN1gzRTZlb0V4VUl0MDhKd3BpNFdFNHZYaHlFRmdIXy04cTMwRW40R21RSVY2LW1lZTZQY1hyYVVpTlcxa0gydmRzY2hVUW85Z0dRcmlHTFhlVjNicmViZHY1NEpXTGVtYUtDMnhob29wakVhZEhBR09WQUU5bzJneFlTemVRc285ZmY4SDRrbWhYWTRKTGp0cg?oc=5",
@@ -981,7 +1001,7 @@
       "category": "Russian / 러시아어"
     },
     {
-      "idx": 98,
+      "idx": 100,
       "cbm_id": "CBMipAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWY9IBpAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWYw",
       "rss_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWY9IBpAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWYw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWY9IBpAFBVV95cUxPREFSaEcweHJSbXVpZmk2emFQWkJzbjFaS3lhRUx5T056bFNDNkFDTEYtWGtzaElwdUFMbXJIaGpTTmlSZi1wRDN5RTA1aXBKX1dkRDVlSDdTQjRxWlBock9CcjZrcnFab1BMWlRsSGJNbzBuZEFQZ2pOS2RmeXpvNWFrWG90aUpqUkR0cVJyQkR5QTd5YnNUczRvN2o2SUdEUmJWYw?oc=5",
@@ -991,7 +1011,7 @@
       "category": "Russian / 러시아어"
     },
     {
-      "idx": 99,
+      "idx": 101,
       "cbm_id": "CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr",
       "rss_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr?oc=5",
@@ -1001,17 +1021,7 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 100,
-      "cbm_id": "CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw",
-      "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5",
-      "title": "喜报！天方药业双氯芬酸钠肠溶片获得补充申请批准通知书 - ByDrug",
-      "source": "",
-      "section": "multilingual",
-      "category": "Chinese Simplified / 중국어"
-    },
-    {
-      "idx": 101,
+      "idx": 102,
       "cbm_id": "CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw",
       "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw?oc=5",
@@ -1021,7 +1031,17 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 102,
+      "idx": 103,
+      "cbm_id": "CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw",
+      "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5",
+      "title": "喜报！天方药业双氯芬酸钠肠溶片获得补充申请批准通知书 - ByDrug",
+      "source": "",
+      "section": "multilingual",
+      "category": "Chinese Simplified / 중국어"
+    },
+    {
+      "idx": 104,
       "cbm_id": "CBMifkFVX3lxTFB5RWpoUmw2RDhLdm5NV2JkUTN1TUl0d2lMV3dqSVdOVk1lMmlET0IzS0RRc2p5NWV3ZHM1dHNsUEl2SE9OX1pBYncxcl93dGxvVVhvd2hENFZUaEZsZ1NlMVRKcXFjdVBQUmpwMVA0d1VQenU0RjFLS3lvZmdadw",
       "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5RWpoUmw2RDhLdm5NV2JkUTN1TUl0d2lMV3dqSVdOVk1lMmlET0IzS0RRc2p5NWV3ZHM1dHNsUEl2SE9OX1pBYncxcl93dGxvVVhvd2hENFZUaEZsZ1NlMVRKcXFjdVBQUmpwMVA0d1VQenU0RjFLS3lvZmdadw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5RWpoUmw2RDhLdm5NV2JkUTN1TUl0d2lMV3dqSVdOVk1lMmlET0IzS0RRc2p5NWV3ZHM1dHNsUEl2SE9OX1pBYncxcl93dGxvVVhvd2hENFZUaEZsZ1NlMVRKcXFjdVBQUmpwMVA0d1VQenU0RjFLS3lvZmdadw?oc=5",
@@ -1031,7 +1051,7 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 103,
+      "idx": 105,
       "cbm_id": "CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ",
       "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ?oc=5",
@@ -1041,17 +1061,7 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 104,
-      "cbm_id": "CBMifkFVX3lxTE4wZEk3ZWZfS3N4TXhwdVlJeTNuNFBhVlRxQWVrdFdocm5WaHg1dFZ2Z1l5amdmZ0NPZG54T0dNbWxLX2VicGVSWkJaeFZNell5RW8xT3M2RUJIeWhZZ2Nkb0UzVkItNFVIVVBVczFaWHF6emxCM1RkaG5ZZzhDZw",
-      "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZEk3ZWZfS3N4TXhwdVlJeTNuNFBhVlRxQWVrdFdocm5WaHg1dFZ2Z1l5amdmZ0NPZG54T0dNbWxLX2VicGVSWkJaeFZNell5RW8xT3M2RUJIeWhZZ2Nkb0UzVkItNFVIVVBVczFaWHF6emxCM1RkaG5ZZzhDZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wZEk3ZWZfS3N4TXhwdVlJeTNuNFBhVlRxQWVrdFdocm5WaHg1dFZ2Z1l5amdmZ0NPZG54T0dNbWxLX2VicGVSWkJaeFZNell5RW8xT3M2RUJIeWhZZ2Nkb0UzVkItNFVIVVBVczFaWHF6emxCM1RkaG5ZZzhDZw?oc=5",
-      "title": "偶合天下药 联接健康梦 | 药明合联（WuXi XDC）正式扬帆起航 - ByDrug",
-      "source": "",
-      "section": "multilingual",
-      "category": "Chinese Simplified / 중국어"
-    },
-    {
-      "idx": 105,
+      "idx": 106,
       "cbm_id": "CBMifkFVX3lxTFBmZk5CWmF2d1FIczRra3c4T1hWb1hhLU02TGl4cEVzdGVhLWl3MUJjcnRUNWhrWlRSVUVhbjR5WlJUSEpneTZBSjFsN0RuX20zejZxSUc0b09NcmQtMFM4UEg2MTk3ZDB0RkFVaDY0TUdsMXpOb01WaFdqQTYxZw",
       "rss_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZk5CWmF2d1FIczRra3c4T1hWb1hhLU02TGl4cEVzdGVhLWl3MUJjcnRUNWhrWlRSVUVhbjR5WlJUSEpneTZBSjFsN0RuX20zejZxSUc0b09NcmQtMFM4UEg2MTk3ZDB0RkFVaDY0TUdsMXpOb01WaFdqQTYxZw?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZk5CWmF2d1FIczRra3c4T1hWb1hhLU02TGl4cEVzdGVhLWl3MUJjcnRUNWhrWlRSVUVhbjR5WlJUSEpneTZBSjFsN0RuX20zejZxSUc0b09NcmQtMFM4UEg2MTk3ZDB0RkFVaDY0TUdsMXpOb01WaFdqQTYxZw?oc=5",
@@ -1061,7 +1071,7 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 106,
+      "idx": 107,
       "cbm_id": "CBMijAFBVV95cUxQbW1TVXN0WjEzRENNV1VsbGJET2tTWHl3NEFIaDF2ci1jcjB3bVZlWHladG9KbGZlMDNwQ1VVZWZCd191WDRwYmZlMzg5dXZ2RzFiUXVaQ0lPNnMyMzhzR0JDamNCS3BPQUFpOFRiMEt5OXRSWkZsRGF5ME9nNmZPYXZwNjJfbnVfanlNVQ",
       "rss_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW1TVXN0WjEzRENNV1VsbGJET2tTWHl3NEFIaDF2ci1jcjB3bVZlWHladG9KbGZlMDNwQ1VVZWZCd191WDRwYmZlMzg5dXZ2RzFiUXVaQ0lPNnMyMzhzR0JDamNCS3BPQUFpOFRiMEt5OXRSWkZsRGF5ME9nNmZPYXZwNjJfbnVfanlNVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW1TVXN0WjEzRENNV1VsbGJET2tTWHl3NEFIaDF2ci1jcjB3bVZlWHladG9KbGZlMDNwQ1VVZWZCd191WDRwYmZlMzg5dXZ2RzFiUXVaQ0lPNnMyMzhzR0JDamNCS3BPQUFpOFRiMEt5OXRSWkZsRGF5ME9nNmZPYXZwNjJfbnVfanlNVQ?oc=5",
@@ -1071,7 +1081,7 @@
       "category": "Chinese Simplified / 중국어"
     },
     {
-      "idx": 107,
+      "idx": 108,
       "cbm_id": "CBMihwFBVV95cUxNLUtTVmVBOWJFTTAzanJKS3hhZzluOTkySlJrTGljM3MzSEVmdzdqbU5HUGp6M2laSjBsazhza2t3V2FEZkljTFF2ZjVKaGozakZMZHlCTjVTNUtQMjRsSU91SGZyQTAxamJvanJIb3NBYWVFRjlVZU10Nk13RlY4U0U2V3Zyc2s",
       "rss_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUtTVmVBOWJFTTAzanJKS3hhZzluOTkySlJrTGljM3MzSEVmdzdqbU5HUGp6M2laSjBsazhza2t3V2FEZkljTFF2ZjVKaGozakZMZHlCTjVTNUtQMjRsSU91SGZyQTAxamJvanJIb3NBYWVFRjlVZU10Nk13RlY4U0U2V3Zyc2s?oc=5&hl=en-US&gl=US&ceid=US:en",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUtTVmVBOWJFTTAzanJKS3hhZzluOTkySlJrTGljM3MzSEVmdzdqbU5HUGp6M2laSjBsazhza2t3V2FEZkljTFF2ZjVKaGozakZMZHlCTjVTNUtQMjRsSU91SGZyQTAxamJvanJIb3NBYWVFRjlVZU10Nk13RlY4U0U2V3Zyc2s?oc=5",
@@ -1079,16 +1089,6 @@
       "source": "",
       "section": "multilingual",
       "category": "Chinese Traditional / 대만"
-    },
-    {
-      "idx": 108,
-      "cbm_id": "CBMijAFBVV95cUxOLXpHaDZxNjVJcmxBaDNJem4tT2Jra0lNM2pWbkZ4c0RlQXEwNWF4N1lDZk84RFlLVEJOS21PSFc0M0xYTkVMd0h2WmIwa0pxcWlTUGF4M0lDenYySjNoaU5CSVhDYnlhQXVZOG5oN1M4aUQzbFZ4NHlPbHFXUnQ1dTIzSnhkZDBtTjBRdA",
-      "rss_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXpHaDZxNjVJcmxBaDNJem4tT2Jra0lNM2pWbkZ4c0RlQXEwNWF4N1lDZk84RFlLVEJOS21PSFc0M0xYTkVMd0h2WmIwa0pxcWlTUGF4M0lDenYySjNoaU5CSVhDYnlhQXVZOG5oN1M4aUQzbFZ4NHlPbHFXUnQ1dTIzSnhkZDBtTjBRdA?oc=5&hl=en-US&gl=US&ceid=US:en",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXpHaDZxNjVJcmxBaDNJem4tT2Jra0lNM2pWbkZ4c0RlQXEwNWF4N1lDZk84RFlLVEJOS21PSFc0M0xYTkVMd0h2WmIwa0pxcWlTUGF4M0lDenYySjNoaU5CSVhDYnlhQXVZOG5oN1M4aUQzbFZ4NHlPbHFXUnQ1dTIzSnhkZDBtTjBRdA?oc=5",
-      "title": "การรับประกันการจัดหายาและการเร่งการเปลี่ยนแปลงทางดิจิทัลในอุตสาหกรรมยา - Vietnam.vn",
-      "source": "",
-      "section": "multilingual",
-      "category": "Thai / 태국어"
     },
     {
       "idx": 109,
@@ -1184,6 +1184,6 @@
   "meta": {
     "date": "2026-06-19",
     "total": 118,
-    "instructions": "browser_navigate(rss_url) → browser_console(\"window.location.href\")"
+    "instructions": "For each article: browser_navigate(rss_url) → browser_console(\"window.location.href\") → save actual_url"
   }
 }

@@ -1,17 +1,17 @@
 {
   "date": "2026-06-19",
-  "total_articles": 588,
+  "total_articles": 595,
   "language_breakdown": {
     "korean": {
-      "total": 166,
+      "total": 167,
       "categories": {
         "의약품": 30,
         "의약산업": 30,
-        "의약정책": 20,
+        "의약정책": 19,
         "의약단체": 13,
-        "의약관련정부기관": 11,
+        "의약관련정부기관": 12,
         "의료현장": 8,
-        "약국·약사": 3,
+        "약국·약사": 4,
         "의료정책·인력": 20,
         "전통의학": 1,
         "감염·보건": 30
@@ -29,7 +29,7 @@
       }
     },
     "multilingual": {
-      "total": 242,
+      "total": 248,
       "languages": {
         "French / 프랑스어": 15,
         "German / 독일어": 15,
@@ -38,11 +38,11 @@
         "Portuguese / 포르투갈어": 15,
         "Dutch / 네덜란드어": 15,
         "Swedish / 스웨덴어": 13,
-        "Polish / 폴란드어": 14,
+        "Polish / 폴란드어": 15,
         "Turkish / 터키어": 15,
         "Russian / 러시아어": 15,
-        "Japanese / 일본어": 7,
-        "Chinese Simplified / 중국어": 8,
+        "Japanese / 일본어": 13,
+        "Chinese Simplified / 중국어": 7,
         "Chinese Traditional / 대만": 6,
         "Vietnamese / 베트남어": 15,
         "Thai / 태국어": 15,
@@ -60,16 +60,16 @@
       "count": 25
     },
     {
-      "keyword": "급여",
-      "count": 12
+      "keyword": "비만",
+      "count": 11
     },
     {
-      "keyword": "비만",
+      "keyword": "급여",
       "count": 10
     },
     {
       "keyword": "식약처",
-      "count": 9
+      "count": 10
     },
     {
       "keyword": "허가",
@@ -84,10 +84,6 @@
       "count": 5
     },
     {
-      "keyword": "바이오시밀러",
-      "count": 4
-    },
-    {
       "keyword": "약가",
       "count": 4
     },
@@ -100,7 +96,11 @@
       "count": 3
     },
     {
-      "keyword": "백신",
+      "keyword": "바이오시밀러",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
       "count": 3
     },
     {
@@ -108,34 +108,34 @@
       "count": 3
     },
     {
-      "keyword": "항암",
+      "keyword": "GMP",
       "count": 2
     },
     {
-      "keyword": "R&D",
+      "keyword": "백신",
       "count": 2
     }
   ],
   "top_en_keywords": [
     {
       "keyword": "FDA",
-      "count": 32
+      "count": 33
     },
     {
       "keyword": "pricing",
-      "count": 11
+      "count": 10
     },
     {
       "keyword": "GMP",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "manufacturing",
-      "count": 8
+      "count": 9
     },
     {
       "keyword": "approval",
-      "count": 7
+      "count": 8
     },
     {
       "keyword": "inspection",
@@ -155,21 +155,21 @@
     },
     {
       "keyword": "clinical trial",
-      "count": 3
+      "count": 4
     }
   ],
   "top_kr_sources": [
     {
       "source": "EBN",
-      "count": 7
+      "count": 8
     },
     {
       "source": "Financial News",
-      "count": 4
+      "count": 3
     },
     {
-      "source": "Newsis",
-      "count": 2
+      "source": "파이낸셜뉴스 on MSN",
+      "count": 3
     },
     {
       "source": "Hankyung",
@@ -184,11 +184,11 @@
       "count": 2
     },
     {
-      "source": "Medical News",
+      "source": "Bloter",
       "count": 2
     },
     {
-      "source": "Seoul Economic Daily",
+      "source": "서울경제 on MSN",
       "count": 2
     },
     {
@@ -196,21 +196,17 @@
       "count": 2
     },
     {
-      "source": "파이낸셜뉴스 on MSN",
+      "source": "한국경제 on MSN",
       "count": 2
     }
   ],
   "top_en_sources": [
     {
       "source": "FiercePharma",
-      "count": 11
+      "count": 10
     },
     {
       "source": "RAPS",
-      "count": 8
-    },
-    {
-      "source": "JD Supra",
       "count": 8
     },
     {
@@ -218,16 +214,12 @@
       "count": 7
     },
     {
+      "source": "JD Supra",
+      "count": 7
+    },
+    {
       "source": "Yahoo Finance",
       "count": 6
-    },
-    {
-      "source": "The American Journal of Managed Care",
-      "count": 5
-    },
-    {
-      "source": "Morningstar",
-      "count": 4
     },
     {
       "source": "CNBC",
@@ -235,6 +227,14 @@
     },
     {
       "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "Medical Xpress",
+      "count": 4
+    },
+    {
+      "source": "The American Journal of Managed Care",
       "count": 4
     },
     {
@@ -251,7 +251,7 @@
   "clusters": [
     {
       "cluster_id": 1,
-      "size": 24,
+      "size": 29,
       "keywords": [
         "drug",
         "FDA",
@@ -521,6 +521,61 @@
           "category": "Drugs & Therapies",
           "time": "",
           "url": "https://www.aol.com/articles/could-next-big-cancer-drug-144853000.html"
+        },
+        {
+          "title": "Medicus Pharma Announces U.S. Food and Drug Administration (FDA) Submission of Rare Pediatric Disease Designation Request for SkinJect&#174; in Gorlin Syndrome",
+          "source": "Markets Insider",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "SkinJect&#174; is a proprietary dissolvable microneedle array designed to deliver doxorubicin (D-MNA) directly into nodular basal cell carcinoma lesions through localized intradermal administration. T",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://markets.businessinsider.com/news/stocks/medicus-pharma-announces-u-s-food-and-drug-administration-fda-submission-of-rare-pediatric-disease-designation-request-for-skinject-in-gorlin-syndrome-1036249061"
+        },
+        {
+          "title": "New antibiotic kills drug-resistant bacteria by targeting previously unknown vulnerability",
+          "source": "Medical Xpress on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Researchers at McMaster University have discovered a new antibiotic that kills some of the world's most dangerous and ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/new-antibiotic-kills-drug-resistant-bacteria-by-targeting-previously-unknown-vulnerability/ar-AA24Ks3f?ocid=BingNewsVerp"
+        },
+        {
+          "title": "AI screens 6 million compounds to uncover two leads against drug-resistant gonorrhea",
+          "source": "Medical Xpress on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "With tens of millions of annual cases, gonorrhea is the second most frequently reported sexually transmitted infection (STI).",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/ai-screens-6-million-compounds-to-uncover-two-leads-against-drug-resistant-gonorrhea/ar-AA25XKGU?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New antibiotic design could help treat drug-resistant infections",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A new way of designing antibiotics could support the discovery of new treatments for drug-resistant infections. It could also help revive antibiotics that have lost effectiveness because bacteria have",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "21d",
+          "url": "https://medicalxpress.com/news/2026-05-antibiotic-drug-resistant-infections.html"
+        },
+        {
+          "title": "McMaster-built AI speeds up drug discovery, designs new antibiotic in early tests",
+          "source": "EurekAlert!",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Researchers at McMaster University have developed a new generative artificial intelligence (AI) model capable of drastically speeding up drug discovery — and, in early tests, it has already designed a",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "1mon",
+          "url": "https://www.eurekalert.org/news-releases/1125168"
         }
       ]
     },
@@ -528,12 +583,12 @@
       "cluster_id": 2,
       "size": 3,
       "keywords": [
-        "says",
+        "innovation",
         "group",
         "industry",
-        "innovation",
-        "drug",
-        "proposed"
+        "says",
+        "proposed",
+        "drug"
       ],
       "articles": [
         {
@@ -574,18 +629,11 @@
   ],
   "uncategorized_articles": [
     {
-      "title": "2013년 등재 복합제도 조합 성분따라 올해 약가인하 시작",
-      "source": "DailyPharm",
-      "importance": 66,
-      "snippet": "정부가 단계적인 기등재 약가인하를 추진하는 가운데, 복합제는 조합 성분 중 하나라도 2012년 전에 등재했다면 올해부터 가격 인하가 이뤄질 것으로 보인다. 복합제를 구성하는 성분 중 가장 오래된 성분을 기준으로 1, 2단계 ...",
-      "url": "https://www.dailypharm.com/user/news/339581"
-    },
-    {
-      "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+      "title": "Ancient Chinese medicine could transform hair loss treatment",
       "source": "Science Daily",
       "importance": 65,
-      "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
-      "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      "snippet": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential ...",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm"
     },
     {
       "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
@@ -602,25 +650,11 @@
       "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990070.html"
     },
     {
-      "title": "AbbVie inks latest White House drug pricing deal, scoring tariff reprieve as it makes $100B US investment pledge",
-      "source": "FiercePharma",
-      "importance": 56,
-      "snippet": "AbbVie provided little detail on the particulars of its new investment plan, which follows a $10 billion U.S. commitment from the company—also focused on R&amp;D and production—made last April. (AbbVi",
-      "url": "https://www.fiercepharma.com/pharma/abbvie-inks-latest-white-house-drug-pricing-deal-scoring-tariff-reprieve-it-makes-100b-us"
-    },
-    {
       "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
       "source": "FiercePharma",
       "importance": 56,
       "snippet": "President Donald Trump has asked Big Pharma CEOs to provide &quot;binding commitments&quot; to several of his drug pricing priorities by today. (lucky-photographer/GettyImages ...",
       "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
-    },
-    {
-      "title": "西洋医学と東洋医学を良いとこ取り 地域密着の漢方薬局として ...",
-      "source": "Gifu Shimbun Web",
-      "importance": 55,
-      "snippet": "明確な症状や原因が分かっている病気に対し、手術や薬でその部分を除去する治療が主の西洋医学。一方で東洋医学は、一つの処方に原則２種類以上の生薬で構成される漢方薬や鍼、お灸などを使うため、特定の症状や原因だけでなく、さまざまな症状に対応することが出来ます ...",
-      "url": "https://www.gifu-np.co.jp/articles/-/689537"
     },
     {
       "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
@@ -642,28 +676,49 @@
       "importance": 51,
       "snippet": "비씨월드제약이 P-CAB (칼륨 경쟁적 위산분비 억제제) 계열 위장질환 치료제 품목허가를 획득하며 소화기 치료제 시장 공략에 나선다. 의약품 연구개발 및 생산 전문기업 비씨월드제약은 P-CAB 계열 위장질환 치료제 '보노바정 ...",
       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
+    },
+    {
+      "title": "推動藥物韌性、國藥國造 衛福部盤點關鍵藥物：明年建第2家管制藥品工廠",
+      "source": "Yahoo奇摩新聞",
+      "importance": 50,
+      "snippet": "將 Yahoo 設為首選來源，在 Google 上查看更多我們的精彩報導 林靜儀表示，衛福部將推動國藥國造，包含列出關鍵藥品與醫材清單，預計明年將建制第二家管制藥品製藥工廠。（圖／記者簡浩正 ...",
+      "url": "https://tw.news.yahoo.com/%E6%8E%A8%E5%8B%95%E8%97%A5%E7%89%A9%E9%9F%8C%E6%80%A7-%E5%9C%8B%E8%97%A5%E5%9C%8B%E9%80%A0-%E8%A1%9B%E7%A6%8F%E9%83%A8%E7%9B%A4%E9%BB%9E%E9%97%9C%E9%8D%B5%E8%97%A5%E7%89%A9-%E6%98%8E%E5%B9%B4%E5%BB%BA%E7%AC%AC2%E5%AE%B6%E7%AE%A1%E5%88%B6%E8%97%A5%E5%93%81%E5%B7%A5%E5%BB%A0-020700594.html"
+    },
+    {
+      "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+      "source": "中時新聞網",
+      "importance": 50,
+      "snippet": "抗癌過程是一場長期抗戰，彰化基督教醫院中醫部主治醫師呂平安強調，中醫並非取代現代醫學，而是透過「扶正」、「去邪」，在不同治療階段提供支持，提升生活品質，藉由針灸或中藥調理 ...",
+      "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+    },
+    {
+      "title": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की ...",
+      "source": "Navbharat Times",
+      "importance": 50,
+      "snippet": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की रफ्तार भाषा • 23 Dec 2021, 6:44 pm IST ...",
+      "url": "https://navbharattimes.indiatimes.com/business/business-news/the-pharmaceutical-health-industry-expects-growth-to-continue-in-the-year-2022/articleshow/88456346.cms"
     }
   ],
   "cross_language_candidates": [
     {
       "keyword": "바이오시밀러",
-      "kr_count": 4,
+      "kr_count": 3,
       "en_count": 4
     },
     {
       "keyword": "허가",
       "kr_count": 8,
-      "en_count": 7
+      "en_count": 8
     },
     {
       "keyword": "임상",
       "kr_count": 5,
-      "en_count": 3
+      "en_count": 4
     },
     {
       "keyword": "약가",
       "kr_count": 4,
-      "en_count": 11
+      "en_count": 10
     }
   ]
 }

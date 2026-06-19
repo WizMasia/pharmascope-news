@@ -2,219 +2,123 @@
   "resolved": [
     {
       "idx": 0,
-      "cbm_id": "CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw",
-      "actual_url": "https://www.fnnews.com/news/202606181223048022",
-      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw?oc=5"
-    },
-    {
-      "idx": 1,
-      "cbm_id": "CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg",
-      "actual_url": "https://www.vietnam.vn/sv/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc",
-      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg?oc=5"
-    },
-    {
-      "idx": 2,
-      "cbm_id": "CBMivgFBVV95cUxNaGVCSWFxY2xwdXowMHhLRktmbWg5Yzh4ZmZVOGJuNDg3RE5xTzRDZGs4WnR2bTQ2R05UX0VPZXNndVJDOTFuNjBibFR0NGtBUkplbFhYX0tRTmp3SU0tLUJPdnRsWWg0dHZwVFVBYVQtQThidFo2T1k5NVJRckRDcXRqQjlxcXdaOERtZkpkMXNJSElCQU9xZXBOcnZjWDlnclRSZFBhenVqOV9BWmRORTMzYzEtM2V2U1J5QUNR",
-      "actual_url": "https://56orb.ru/news/2026-06-18/minus-29-preparatov-kakie-lekarstva-bolshe-ne-budut-vvozit-i-proizvodit-v-rossii-5620014",
-      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGVCSWFxY2xwdXowMHhLRktmbWg5Yzh4ZmZVOGJuNDg3RE5xTzRDZGs4WnR2bTQ2R05UX0VPZXNndVJDOTFuNjBibFR0NGtBUkplbFhYX0tRTmp3SU0tLUJPdnRsWWg0dHZwVFVBYVQtQThidFo2T1k5NVJRckRDcXRqQjlxcXdaOERtZkpkMXNJSElCQU9xZXBOcnZjWDlnclRSZFBhenVqOV9BWmRORTMzYzEtM2V2U1J5QUNR?oc=5"
-    },
-    {
-      "idx": 3,
-      "cbm_id": "CBMi0wFBVV95cUxNZWhIWnJKc0tfVEdSaHJMeGlWVC1sOEozVS1zeERYbVFDLW44MVpPenpsT1hhTGlmeU85U011b01BNFZvdkxuRHM5dXdEWU53QlhKb0xVZkVjcWk1M2MxX3NIMVB3TW5SeXJ3U3RqQjhQSmlITUhwaFpZRFF4T0hXN3pURmVpYkw2bnNUcFpBV0FpRGJhdlZBNHJ6NmFndmFuVjAzNGVMSzR4Q0ZfbFREejJaanVtVWZPWWZwNm9lSW5ENDRPd3h3R2gwWkpiSUhOQV800gHYAUFVX3lxTFBFbEM2T3lTM0dmcDdSaGJKX3BPNjAwNDJBeVJvX2NQcnhHTmczbU9vSk1CWUxGV2ZZckNOcHR4c0E4TjgwM2xvRldIdHJMTHNKUGpUY2o0ZlNWczZ4SnVFZ3hCd3VJNy1zUFltNDgzaHlFbXFxWThDbi1kVEVpRVVhcThCcjVkOEFFaHFCLVZ5VERqWUh6WHlsVElZdnEtNnJnOU5QRGRqUUJwc2tCWGFEUWU1U3FHZTRiWU1Xd05KVXpNaU0zVVlLZ2xQNXV1YkhYT0RYSFFFbw",
-      "actual_url": "https://digitalbusiness.kz/2026-06-18/pochemu-lekarstva-v-kazahstane-stoyat-dorozhe-chem-v-turtsii-i-ispanii-kazahstantsi-sravnili-tseni/",
-      "original_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZWhIWnJKc0tfVEdSaHJMeGlWVC1sOEozVS1zeERYbVFDLW44MVpPenpsT1hhTGlmeU85U011b01BNFZvdkxuRHM5dXdEWU53QlhKb0xVZkVjcWk1M2MxX3NIMVB3TW5SeXJ3U3RqQjhQSmlITUhwaFpZRFF4T0hXN3pURmVpYkw2bnNUcFpBV0FpRGJhdlZBNHJ6NmFndmFuVjAzNGVMSzR4Q0ZfbFREejJaanVtVWZPWWZwNm9lSW5ENDRPd3h3R2gwWkpiSUhOQV800gHYAUFVX3lxTFBFbEM2T3lTM0dmcDdSaGJKX3BPNjAwNDJBeVJvX2NQcnhHTmczbU9vSk1CWUxGV2ZZckNOcHR4c0E4TjgwM2xvRldIdHJMTHNKUGpUY2o0ZlNWczZ4SnVFZ3hCd3VJNy1zUFltNDgzaHlFbXFxWThDbi1kVEVpRVVhcThCcjVkOEFFaHFCLVZ5VERqWUh6WHlsVElZdnEtNnJnOU5QRGRqUUJwc2tCWGFEUWU1U3FHZTRiWU1Xd05KVXpNaU0zVVlLZ2xQNXV1YkhYT0RYSFFFbw?oc=5"
-    },
-    {
-      "idx": 4,
-      "cbm_id": "CBMipAFBVV95cUxQTmt6X1M0OE5vdnotcHFOSFRrWVdKUWhZOGdSZTlzcVI4TEFVNkQtMmhIWkhxQ0pWc2Y4UVQ0cXhtUUpWanZRYldZVUdmTW9YVHhieEcxNXF3Xzh6NXNlZkg1UlI5VF9ZVXVKbTFFemI4dmRKVUlSNTNRa2tYblkzSVBxcDJubU5rLUJLS2s2QnRNUDhMTjA3VTJSQnU1ZGFtR2hwedIBsAFBVV95cUxQa1ZkNV9qN3ctX0oyZVJoa211R3I2czgyN1gzRTZlb0V4VUl0MDhKd3BpNFdFNHZYaHlFRmdIXy04cTMwRW40R21RSVY2LW1lZTZQY1hyYVVpTlcxa0gydmRzY2hVUW85Z0dRcmlHTFhlVjNicmViZHY1NEpXTGVtYUtDMnhob29wakVhZEhBR09WQUU5bzJneFlTemVRc285ZmY4SDRrbWhYWTRKTGp0cg",
-      "actual_url": "https://dengi.ua/obschestvo/9761038-kak-ne-pereplachivat-v-apteke-minzdrav-zapustil-udobnyj-instrument",
-      "original_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTmt6X1M0OE5vdnotcHFOSFRrWVdKUWhZOGdSZTlzcVI4TEFVNkQtMmhIWkhxQ0pWc2Y4UVQ0cXhtUUpWanZRYldZVUdmTW9YVHhieEcxNXF3Xzh6NXNlZkg1UlI5VF9ZVXVKbTFFemI4dmRKVUlSNTNRa2tYblkzSVBxcDJubU5rLUJLS2s2QnRNUDhMTjA3VTJSQnU1ZGFtR2hwedIBsAFBVV95cUxQa1ZkNV9qN3ctX0oyZVJoa211R3I2czgyN1gzRTZlb0V4VUl0MDhKd3BpNFdFNHZYaHlFRmdIXy04cTMwRW40R21RSVY2LW1lZTZQY1hyYVVpTlcxa0gydmRzY2hVUW85Z0dRcmlHTFhlVjNicmViZHY1NEpXTGVtYUtDMnhob29wakVhZEhBR09WQUU5bzJneFlTemVRc285ZmY4SDRrbWhYWTRKTGp0cg?oc=5"
-    },
-    {
-      "idx": 5,
-      "cbm_id": "CBMinwFBVV95cUxOM1lhRzFFbHk2amZnWTNWZkppWUVXeFJ4bUQ5LWwxNGZsWXRnSWpYWVNLUFNGVlRkUE5hVS10QmxpU0tmbVRNcTFlUVI4d05lbDV5WWxFNmFXSDRtQUlBd2JBSW51cGpuaUNHQ0lFaG41dkNnUERDaV9laXZac0VUTDNYMVU1VzBWcHdxNm9nbkJFUC1tNmZMZVRpX3NYSEXSAasBQVVfeXFMT1h5M0F1bDhtUGpGN2lvWUNLLWRxbnZZYlZDeGRrWWtGVmF1NlFNQWxMSENPWmlGZ0R0VVBZVjhzcTFfUllMZ1E3Q0ZzZFVSQy1GclQ3a2dYaVFKZENkR29tdEZhQW1Ga1hIVWFZcGFoZEtpSlpFd2JEZnFobEh4U3ozaVVIUFA3b3lyZlFFUzViUndTbnF2U2ZhSTkyU2N4czVtWFBpTEMtZnhB",
-      "actual_url": "https://rus.baq.kz/minzdrav-obyasnil-pochemu-dolya-otechestvennyh-lekarstv-sostavila-16-320031506/",
-      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1lhRzFFbHk2amZnWTNWZkppWUVXeFJ4bUQ5LWwxNGZsWXRnSWpYWVNLUFNGVlRkUE5hVS10QmxpU0tmbVRNcTFlUVI4d05lbDV5WWxFNmFXSDRtQUlBd2JBSW51cGpuaUNHQ0lFaG41dkNnUERDaV9laXZac0VUTDNYMVU1VzBWcHdxNm9nbkJFUC1tNmZMZVRpX3NYSEXSAasBQVVfeXFMT1h5M0F1bDhtUGpGN2lvWUNLLWRxbnZZYlZDeGRrWWtGVmF1NlFNQWxMSENPWmlGZ0R0VVBZVjhzcTFfUllMZ1E3Q0ZzZFVSQy1GclQ3a2dYaVFKZENkR29tdEZhQW1Ga1hIVWFZcGFoZEtpSlpFd2JEZnFobEh4U3ozaVVIUFA3b3lyZlFFUzViUndTbnF2U2ZhSTkyU2N4czVtWFBpTEMtZnhB?oc=5"
-    },
-    {
-      "idx": 6,
-      "cbm_id": "CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr",
-      "actual_url": "https://www.cnpharm.com/c/2026-06-18/1099725.shtml",
-      "original_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr?oc=5"
-    },
-    {
-      "idx": 7,
-      "cbm_id": "CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ",
-      "actual_url": "https://bydrug.pharmcube.com/news/detail/4180caa4c4ee2e176c3ae0aefa1e8fa9",
-      "original_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ?oc=5"
-    },
-    {
-      "idx": 8,
-      "cbm_id": "CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw",
-      "actual_url": "https://bydrug.pharmcube.com/news/detail/a83e8f66d8ae246bdcb0deb56ca863a0",
-      "original_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5"
-    },
-    {
-      "idx": 9,
-      "cbm_id": "CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw",
-      "actual_url": "https://bydrug.pharmcube.com/news/detail/6956c88bb6a78c35f346f7b6ae980c32",
-      "original_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw?oc=5"
-    },
-    {
-      "idx": 10,
-      "cbm_id": "CBMifkFVX3lxTFBsXzBwZE1vdzF6MC1EQVZLR0dEQ1J4NVQ4cXFua2tScTU0amJsVzVOQ1BTcFZRak1ETmMzX3RyZHJRQ1cyQ1JtQ05hcEdrRndYSnN1cExSOG1rTzNRcEQ0WGR5eF9XSnN5dUoxRk42V0I4dGVJbGdLbGhlc1RSUQ",
-      "actual_url": "https://bydrug.pharmcube.com/news/detail/34615e3f7898a3fa39cd6f7c24b25639",
-      "original_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsXzBwZE1vdzF6MC1EQVZLR0dEQ1J4NVQ4cXFua2tScTU0amJsVzVOQ1BTcFZRak1ETmMzX3RyZHJRQ1cyQ1JtQ05hcEdrRndYSnN1cExSOG1rTzNRcEQ0WGR5eF9XSnN5dUoxRk42V0I4dGVJbGdLbGhlc1RSUQ?oc=5"
-    },
-    {
-      "idx": 11,
-      "cbm_id": "CBMifkFVX3lxTFBmZk5CWmF2d1FIczRra3c4T1hWb1hhLU02TGl4cEVzdGVhLWl3MUJjcnRUNWhrWlRSVUVhbjR5WlJUSEpneTZBSjFsN0RuX20zejZxSUc0b09NcmQtMFM4UEg2MTk3ZDB0RkFVaDY0TUdsMXpOb01WaFdqQTYxZw",
-      "actual_url": "https://bydrug.pharmcube.com/news/detail/028562560e8e80439978b877f3ce8a85",
-      "original_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmZk5CWmF2d1FIczRra3c4T1hWb1hhLU02TGl4cEVzdGVhLWl3MUJjcnRUNWhrWlRSVUVhbjR5WlJUSEpneTZBSjFsN0RuX20zejZxSUc0b09NcmQtMFM4UEg2MTk3ZDB0RkFVaDY0TUdsMXpOb01WaFdqQTYxZw?oc=5"
-    },
-    {
-      "idx": 12,
-      "cbm_id": "CBMijAFBVV95cUxQbW1TVXN0WjEzRENNV1VsbGJET2tTWHl3NEFIaDF2ci1jcjB3bVZlWHladG9KbGZlMDNwQ1VVZWZCd191WDRwYmZlMzg5dXZ2RzFiUXVaQ0lPNnMyMzhzR0JDamNCS3BPQUFpOFRiMEt5OXRSWkZsRGF5ME9nNmZPYXZwNjJfbnVfanlNVQ",
-      "actual_url": "https://m.sohu.com/a/1038550150_122014422",
-      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbW1TVXN0WjEzRENNV1VsbGJET2tTWHl3NEFIaDF2ci1jcjB3bVZlWHladG9KbGZlMDNwQ1VVZWZCd191WDRwYmZlMzg5dXZ2RzFiUXVaQ0lPNnMyMzhzR0JDamNCS3BPQUFpOFRiMEt5OXRSWkZsRGF5ME9nNmZPYXZwNjJfbnVfanlNVQ?oc=5"
-    },
-    {
-      "idx": 13,
-      "cbm_id": "CBMiywFBVV95cUxPZ2tVRmcwRzlWS254NnA4dTVSdE8wMDNyS2lHOW9DRldPT1ZHaFExT1dwV1RWaWpDVk1GRVRvVnU4QmFSNlJSRU9XQlBnS0FTT3BPUnUyemtxRXBEV2V4X1hSZEJaWV9ZaHFVSFp1cU9LZkFQdG5NU2NZc0wwTTkxNm81dHhrVWIwUE1US1R1bWlHOFFwMFFGdU5sa2FVMExVOFdjSlZqdmdZUHAtTGJmcnZQUHdST2twRU9Da05QZnozTGZIY2dERVd4WQ",
-      "actual_url": "https://www.whalesbook.com/news/Hindi/healthcarebiotech/Aurobindo-Pharma-Faces-FTC-Mandate-in-Lannett-Deal/6a342f73d017fdb5099a0d5c",
-      "original_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2tVRmcwRzlWS254NnA4dTVSdE8wMDNyS2lHOW9DRldPT1ZHaFExT1dwV1RWaWpDVk1GRVRvVnU4QmFSNlJSRU9XQlBnS0FTT3BPUnUyemtxRXBEV2V4X1hSZEJaWV9ZaHFVSFp1cU9LZkFQdG5NU2NZc0wwTTkxNm81dHhrVWIwUE1US1R1bWlHOFFwMFFGdU5sa2FVMExVOFdjSlZqdmdZUHAtTGJmcnZQUHdST2twRU9Da05QZnozTGZIY2dERVd4WQ?oc=5"
-    },
-    {
-      "idx": 14,
-      "cbm_id": "CBMirgFBVV95cUxOMU1mSF9XcWExYzVLT19uOXRHV3VCM0Zld2hPemRJYnhzWC0tVzktTlc4ZWhhOU1Jb0FDQ1hibXQ2a1lYSGZWR0ZtcHZHWHozQVQwQnZVRjRRbDRFdUJpN3l2YkhIRkhRaFktYnYtb09Oa3hQSHMta3MyX2doTUNQMFUxWjFYQTUxNmZReF9QV0lONmRvOEZXdVNrSFNwV2xsSEdMODRMU2JxSFpCWWc",
-      "actual_url": "https://www.businessremedies.com/gsm-foils-enters-aluminium-ropp-caps-business-signs-mou-with-aapl-solutions/",
-      "original_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMU1mSF9XcWExYzVLT19uOXRHV3VCM0Zld2hPemRJYnhzWC0tVzktTlc4ZWhhOU1Jb0FDQ1hibXQ2a1lYSGZWR0ZtcHZHWHozQVQwQnZVRjRRbDRFdUJpN3l2YkhIRkhRaFktYnYtb09Oa3hQSHMta3MyX2doTUNQMFUxWjFYQTUxNmZReF9QV0lONmRvOEZXdVNrSFNwV2xsSEdMODRMU2JxSFpCWWc?oc=5"
-    },
-    {
-      "idx": 15,
-      "cbm_id": "CBMisAFBVV95cUxPOGh1TUZod2NmbHRzUFdqQUFjV18zR3dnMDdCenpWbnFDVDcycF83S0NuY0NaWUZHWlRSakNqMFBmWGpBYXpIQXpxdVQ2VkFMODZ2ZUVkOGtjdnpEQms3SjQtVjdXTkYtUEJXSk9xdGtILUJlamQ2Q1VtbE80WXI3Y0lmaElDLURqTFFoUk5xQmxjV1lVTmR4TDZZWkg0cGhESzJUdlNNbUpZRHVCY0VOeA",
-      "actual_url": "https://www.sharemanthan.in/mutual-fund/462-advice/79526-why-did-natco-pharma-fall-and-what-should-investors-do",
-      "original_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOGh1TUZod2NmbHRzUFdqQUFjV18zR3dnMDdCenpWbnFDVDcycF83S0NuY0NaWUZHWlRSakNqMFBmWGpBYXpIQXpxdVQ2VkFMODZ2ZUVkOGtjdnpEQms3SjQtVjdXTkYtUEJXSk9xdGtILUJlamQ2Q1VtbE80WXI3Y0lmaElDLURqTFFoUk5xQmxjV1lVTmR4TDZZWkg0cGhESzJUdlNNbUpZRHVCY0VOeA?oc=5"
-    },
-    {
-      "idx": 16,
-      "cbm_id": "CBMiswFBVV95cUxPUk9ZN0l4SGlfM0hoYk9JMGRyTk1NUXRqNlgzTTNXckgwam5jaHZkYy1pVUxsX0h1WVg1Y2d6dHJnNDkxVjIyU1dpam9MYXJOUE0ySHpPRzhpNGduRHVzVDh4RkRHNzY1dnZjTVhPNXN6Tmlza2otVGpzaUt1US1IM0RSblgydmNVQlgwVGNsNTQ3N3FwMkM1NmtFbjgwenVscFRTcWcxY2RlSzVTckNWOU9zOA",
-      "actual_url": "https://www.whalesbook.com/news/Hindi/economy/India-US-Move-Closer-To-Interim-Trade-Pact/6a341f4ad017fdb50999ffcc",
-      "original_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk9ZN0l4SGlfM0hoYk9JMGRyTk1NUXRqNlgzTTNXckgwam5jaHZkYy1pVUxsX0h1WVg1Y2d6dHJnNDkxVjIyU1dpam9MYXJOUE0ySHpPRzhpNGduRHVzVDh4RkRHNzY1dnZjTVhPNXN6Tmlza2otVGpzaUt1US1IM0RSblgydmNVQlgwVGNsNTQ3N3FwMkM1NmtFbjgwenVscFRTcWcxY2RlSzVTckNWOU9zOA?oc=5"
-    },
-    {
-      "idx": 17,
-      "cbm_id": "CBMijAFBVV95cUxNYXU1czJJV2Y2OXZTS2d5S0dUTlV0azE0U0JvNnIwUVdnQWlESjBZdGh2RTF0YmtSYlNKZmFmakpUZmRNa2l2U2JYdC1ZUFYzM1FIQmh2TG0wOEhLdW5JSDFZSFhzazJuU1NWcmx4cTl1ZlJ4YUx3Wl9ncjhZRHRaZHBGNUY0QWFTSHh6eA",
-      "actual_url": "https://www.vietnam.vn/ar/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc",
-      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXU1czJJV2Y2OXZTS2d5S0dUTlV0azE0U0JvNnIwUVdnQWlESjBZdGh2RTF0YmtSYlNKZmFmakpUZmRNa2l2U2JYdC1ZUFYzM1FIQmh2TG0wOEhLdW5JSDFZSFhzazJuU1NWcmx4cTl1ZlJ4YUx3Wl9ncjhZRHRaZHBGNUY0QWFTSHh6eA?oc=5"
-    },
-    {
-      "idx": 18,
-      "cbm_id": "CBMiwAJBVV95cUxQR2lQbHc1cDA0d1lRWWdkVDVya2E1SXB0RGl5c24teEdmYzhEZkZCRE1VcXc3c19kb0wyckR0Q21qSk1FSmhHeXIxYU1ObjJZZFNwNU5DTzRybVJtTzZWSTNlQkhxa0J0dWdyRXp1SUlGTXAzamRBZjVGUXdXVWx5ZjBWbE5OejZERWczYjJmeC1HQ2RRRVBxMWQ2VGtDN2UxLWdSZ0RCMTZxdXJ6WVIxSVF1bkpnSF94RHZzZnhoekFGMnN2UGNoOGRPUEdPY0dJbVdnM0VSR2owMzNVZVByd2kwS2cwbEFxWkNYTnZVLUxDR25LSnpTSlRJTkc2SzlQS2NaT3JWSDZBLU4zTFl3cG54d09zMlR6UXhoa0tQVHdHTlBsT0Q0cHh6VlNESWZUanJnSmxoeEh1bkFHdkEySg",
-      "actual_url": "https://ar.mqalat.nl/%D8%B5%D9%86%D8%A7%D8%B9%D8%A7%D8%AA-%D8%AF%D9%88%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%B7%D8%A8%D9%8A%D8%A9-%D8%B1%D9%83%D9%8A%D8%B2%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%B9/",
-      "original_url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQR2lQbHc1cDA0d1lRWWdkVDVya2E1SXB0RGl5c24teEdmYzhEZkZCRE1VcXc3c19kb0wyckR0Q21qSk1FSmhHeXIxYU1ObjJZZFNwNU5DTzRybVJtTzZWSTNlQkhxa0J0dWdyRXp1SUlGTXAzamRBZjVGUXdXVWx5ZjBWbE5OejZERWczYjJmeC1HQ2RRRVBxMWQ2VGtDN2UxLWdSZ0RCMTZxdXJ6WVIxSVF1bkpnSF94RHZzZnhoekFGMnN2UGNoOGRPUEdPY0dJbVdnM0VSR2owMzNVZVByd2kwS2cwbEFxWkNYTnZVLUxDR25LSnpTSlRJTkc2SzlQS2NaT3JWSDZBLU4zTFl3cG54d09zMlR6UXhoa0tQVHdHTlBsT0Q0cHh6VlNESWZUanJnSmxoeEh1bkFHdkEySg?oc=5"
-    },
-    {
-      "idx": 19,
-      "cbm_id": "CBMipwFBVV95cUxQcjNCUTlLYUJockxrUktpbXRjRHlfRjAtdTBoMnAwYzc1ZnhfblRiV1VZeEZhdEdUaVFwckxBbERfVEptb3luVUJfY1hhRFlkYm9pWm9jUFZIOUZ2TUJtaDJQV2g0SVo1WU1nYkpJUHpTekVZbEVoVy1MQTVKS2FwUWZxM0dneFNKenNSa3BILWF3bUx1UjdxZXBRMFMzN0JpeTNRX0tPWQ",
-      "actual_url": "https://www.vietnam.vn/ar/dong-thap-ghi-nhan-218-truong-hop-nghi-ngo-doc-sau-khi-an-banh-mi-hong-ngoc-37",
-      "original_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNCUTlLYUJockxrUktpbXRjRHlfRjAtdTBoMnAwYzc1ZnhfblRiV1VZeEZhdEdUaVFwckxBbERfVEptb3luVUJfY1hhRFlkYm9pWm9jUFZIOUZ2TUJtaDJQV2g0SVo1WU1nYkpJUHpTekVZbEVoVy1MQTVKS2FwUWZxM0dneFNKenNSa3BILWF3bUx1UjdxZXBRMFMzN0JpeTNRX0tPWQ?oc=5"
-    },
-    {
-      "idx": 20,
-      "cbm_id": "CBMijAFBVV95cUxQVlBDLUdQSWxsRElldndobFA4MUhLVGpLbnUyZlNIUlo2RDFlTnEwd3loNVlQSWFDMjJYaEJGM1NOZGdPM01yaDZxd21ZVzR3V2duWTk1dDRoLXM2ZDNVTnEtbFZhUlpBemVqWnVVWDFSQ0dZTkhVV1dYV1dfN1AtN3pydmpjUUxZbEJaZg",
-      "actual_url": "https://www.vietnam.vn/he/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc",
-      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlBDLUdQSWxsRElldndobFA4MUhLVGpLbnUyZlNIUlo2RDFlTnEwd3loNVlQSWFDMjJYaEJGM1NOZGdPM01yaDZxd21ZVzR3V2duWTk1dDRoLXM2ZDNVTnEtbFZhUlpBemVqWnVVWDFSQ0dZTkhVV1dYV1dfN1AtN3pydmpjUUxZbEJaZg?oc=5"
-    },
-    {
-      "idx": 0,
       "cbm_id": "CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG",
       "original_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5",
-      "actual_url": "https://dailypharm.com/user/news/339454"
+      "rss_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MMmVTcnJ3eUJCVUsyWmY0cnJwOGt6ZTRGbHJEdkFSbGtETGg3eDdiTFcyNFMtdVgtQl91Z1VOVHFCbE4xTHpVWUs1QXR3VWpG?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://dailypharm.com/user/news/339454",
+      "title": "늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나? - 데일리팜"
     },
     {
       "idx": 1,
       "cbm_id": "CBMiYEFVX3lxTE83UHJKSDBJRGZ5MW9aVVlqVEl1ZllLRUtTTGNUQnZuc2JUV0VIM2dDWjYxdjJPcmo5WkcxaS16dm5vTnVHRVMtdVZ1Zkcxa2RWUEFGNUhNYnhSbnh1NFg2WA",
       "original_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UHJKSDBJRGZ5MW9aVVlqVEl1ZllLRUtTTGNUQnZuc2JUV0VIM2dDWjYxdjJPcmo5WkcxaS16dm5vTnVHRVMtdVZ1Zkcxa2RWUEFGNUhNYnhSbnh1NFg2WA?oc=5",
-      "actual_url": "https://www.news1.kr/bio/pharmaceutical-bio/6201785"
+      "rss_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83UHJKSDBJRGZ5MW9aVVlqVEl1ZllLRUtTTGNUQnZuc2JUV0VIM2dDWjYxdjJPcmo5WkcxaS16dm5vTnVHRVMtdVZ1Zkcxa2RWUEFGNUhNYnhSbnh1NFg2WA?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.news1.kr/bio/pharmaceutical-bio/6201785",
+      "title": "'130년 제약 명가' 동화약품…'활명수 세계화·혁신 신약' 동시 구상 - 뉴스1"
     },
     {
       "idx": 2,
-      "cbm_id": "CBMi1wFBVV95cUxQUFdLNmFNUURYOXNhelpuSW9zZURRdUxXeEVEcmlvaHFIR0xTNmFMSi15TUs5enRHaFlvUmh0VUs0NzlCWUwtbjVfSHpYZDZjUGZCdEdJdjRPbFFDc0d4LVlJWTRGeEs5RzI2enhTRFJQNFNmQ2NRQ0hyd2RkS204bEpEY2tiUXE2aHFOVkpIbUR4QTdSWnhFYkU0eUFjLW1QVjZ3a05ncXVGRTRQTXJySzRyNFJObmNZeUdNSXp4RktrVnozQU92S0YteDBCZURNdm9mSmFHYw",
-      "original_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFdLNmFNUURYOXNhelpuSW9zZURRdUxXeEVEcmlvaHFIR0xTNmFMSi15TUs5enRHaFlvUmh0VUs0NzlCWUwtbjVfSHpYZDZjUGZCdEdJdjRPbFFDc0d4LVlJWTRGeEs5RzI2enhTRFJQNFNmQ2NRQ0hyd2RkS204bEpEY2tiUXE2aHFOVkpIbUR4QTdSWnhFYkU0eUFjLW1QVjZ3a05ncXVGRTRQTXJySzRyNFJObmNZeUdNSXp4RktrVnozQU92S0YteDBCZURNdm9mSmFHYw?oc=5",
-      "actual_url": "https://m.etnews.com/20260618000295"
+      "cbm_id": "CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw",
+      "original_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wQmlHZTJqcXJaekdLUy1vcGJ1OFNDU3hhdUYzLVV2NGctVEFkRlA0RHRLYVM5SjcwMHJzblN1bTVGdWtKYUJVdXU0SjZrdw?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.etnews.com/20260618000295",
+      "title": "유한양행 '제약보국' 100년…신약으로 이어온 故 유일한 박사의 꿈 - 전자신문"
     },
     {
       "idx": 3,
       "cbm_id": "CBMib0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWdIBb0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWQ",
       "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWdIBb0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWQ?oc=5",
-      "actual_url": "http://www.kmedinfo.co.kr/news/articleViewAmp.html?idxno=96360"
+      "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWdIBb0FVX3lxTFBWc1R1V0FsX21WbjlUbXZTb0M0MnF0VnE1T1hqOWotS2VJcktzOFliUTVVV2NVMlgzQWlfdnpzRGJEN2tzSEdXRkhOQ0JIZzJ0b2p3VVlwbmI5Y2gwN05oelA5WUVfY3pWTGVjelBfWQ?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "http://www.kmedinfo.co.kr/news/articleViewAmp.html?idxno=96360",
+      "title": "한미약품, 비만 신약 출시 앞두고 평택 생산기지 공개 - e-의료정보"
     },
     {
       "idx": 4,
-      "cbm_id": "CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY",
-      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY?oc=5",
-      "actual_url": "https://www.ziksir.com/news/articleView.html?idxno=137394"
+      "cbm_id": "CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c",
+      "original_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://news2day.co.kr/article/20260618500219",
+      "title": "한미약품, 평택 바이오플랜트서 IR 개최...비만신약 생산 역량 강조 - 뉴스투데이"
     },
     {
       "idx": 5,
-      "cbm_id": "CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV",
-      "original_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV?oc=5",
-      "actual_url": "https://www.ngetnews.com/news/articleView.html?idxno=550908"
+      "cbm_id": "CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY",
+      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HYmNXdENjbDNJbG0wYWdRamtzVEduamZWMmhGaUJLQmRiWmZWXzlhd0t3WGhfcWQxams0U05IWElNQTZYc1lXUjBmVXJBMXRZRzNwakNsbzFuVmFXZmtuWjBuNkM3TjA50gFsQVVfeXFMT29mSk5aaGQzb0JMTlJJZ1dranYwcmFzZzR0RC1BV2JTZVlROHZqVjdfekFiZ1pWOS1nS3pMVUpPcmZxd0lKT2ptdzViSk94czZMamZNVlhrZl9jTjNwcG1leU4za2xodGd0bjdY?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.ziksir.com/news/articleView.html?idxno=137394",
+      "title": "한미약품, 평택 바이오플랜트서 IR 개최…비만신약 상업화 생산역량 공개 - 직썰"
     },
     {
       "idx": 6,
-      "cbm_id": "CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA",
-      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA?oc=5",
-      "actual_url": "https://www.catchnews.kr/news/articleViewAmp.html?idxno=125156"
+      "cbm_id": "CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV",
+      "original_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96cE90WC10Y2RkVnJSUEtxMjdVbWdMTExFRi1UeXp2djIxeDVoQU15WVhLTDk2MlRySUJJT21Fa2tLQUZRNDJ0T1hsd3JxN2FJZF9CdzVvcE5SMk1LV1EwbDBWSHlyakFxZGZV?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.ngetnews.com/news/articleView.html?idxno=550908",
+      "title": "한미약품, 평택 바이오플랜트 공개…비만 신약 생산 역량 강조 - 뉴스저널리즘"
     },
     {
       "idx": 7,
-      "cbm_id": "CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c",
-      "original_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTXd1XzhQYzFkRjA5bGFXcHhrY1pHVTJvdFpnV2tCVzhjWE56SUNNdm5NRHRnLXVRWWt0eG1DLUNZOXdJZ1hYLU13ZTJMTVB4aFNMU1dmS1c?oc=5",
-      "actual_url": "https://news2day.co.kr/article/20260618500219"
+      "cbm_id": "CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA",
+      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtONIBb0FVX3lxTFB4UXdTMHdWUVFHLWxBeHhFOEl1azJlVUxaZDdncnpLZHpqREhwSzRsT2xHUlZ4YlFUU0FrUlJINGtMckl1a0tkZVFJZGE1T0xlYmZxLWZwU1JFVXdWQklRRGxuV21vRDdLV01GQnFtOA?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.catchnews.kr/news/articleViewAmp.html?idxno=125156",
+      "title": "'MASH·비만신약 年 2천만개 생산' 한미약품, 평택바이오플랜트 IR - catchnews.kr"
     },
     {
       "idx": 8,
       "cbm_id": "CBMiakFVX3lxTE9jeGplY2ItVU5JX1otclBtbmljT3p6Z3FiakZQVm5oUno1S2VVbkg2dnMtaWlvTldVdzN2a050UnJzUHJlRlM5dF9qVFpoMXBETmZVLXQ5eTMtd0pxQUZROTU2cTBIN1ZXTkE",
       "original_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jeGplY2ItVU5JX1otclBtbmljT3p6Z3FiakZQVm5oUno1S2VVbkg2dnMtaWlvTldVdzN2a050UnJzUHJlRlM5dF9qVFpoMXBETmZVLXQ5eTMtd0pxQUZROTU2cTBIN1ZXTkE?oc=5",
-      "actual_url": "https://www.ggilbo.com/news/articleView.html?idxno=1164460"
+      "rss_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jeGplY2ItVU5JX1otclBtbmljT3p6Z3FiakZQVm5oUno1S2VVbkg2dnMtaWlvTldVdzN2a050UnJzUHJlRlM5dF9qVFpoMXBETmZVLXQ5eTMtd0pxQUZROTU2cTBIN1ZXTkE?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.ggilbo.com/news/articleView.html?idxno=1164460",
+      "title": "'AI 시대 첨단바이오의약품 분석기술' 워크숍 개최 - 금강일보"
     },
     {
       "idx": 9,
       "cbm_id": "CBMiU0FVX3lxTE5aVUY3ZG45N0FYRk13UmgxNmVKSjk3WklXNktoUlBqX1pFdU1kMFBGcmlMd3pqX2Fadk5Tdkc4RkxacWpIMHF2RlFxYldSOVJZOVBB",
       "original_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVUY3ZG45N0FYRk13UmgxNmVKSjk3WklXNktoUlBqX1pFdU1kMFBGcmlMd3pqX2Fadk5Tdkc4RkxacWpIMHF2RlFxYldSOVJZOVBB?oc=5",
-      "actual_url": "https://news.nate.com/view/20260618n28491"
+      "rss_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVUY3ZG45N0FYRk13UmgxNmVKSjk3WklXNktoUlBqX1pFdU1kMFBGcmlMd3pqX2Fadk5Tdkc4RkxacWpIMHF2RlFxYldSOVJZOVBB?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://news.nate.com/view/20260618n28491",
+      "title": "\"하반기 비만 치료제 출격\"…한미약품, 평택 바이오플랜트서 기업설명회 - 네이트"
     },
     {
       "idx": 10,
       "cbm_id": "CBMidEFVX3lxTE9vQl94STF0amM0NG1Bc3Q4MmdGdFIwMEtXbk1OZllPOUxrMHU0OE5DdzVRaVB3OFU0Xzh4ekpHWHpGWE4yMnRLSllFQkNTaWJFenN1cWdSLTB2alFpMkJYN3JYNGJteEdLQjJRWWs1ZTZoMkIt",
       "original_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vQl94STF0amM0NG1Bc3Q4MmdGdFIwMEtXbk1OZllPOUxrMHU0OE5DdzVRaVB3OFU0Xzh4ekpHWHpGWE4yMnRLSllFQkNTaWJFenN1cWdSLTB2alFpMkJYN3JYNGJteEdLQjJRWWs1ZTZoMkIt?oc=5",
-      "actual_url": "https://www.koreanewstoday.co.kr/news/articleView.html?idxno=80748"
+      "rss_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vQl94STF0amM0NG1Bc3Q4MmdGdFIwMEtXbk1OZllPOUxrMHU0OE5DdzVRaVB3OFU0Xzh4ekpHWHpGWE4yMnRLSllFQkNTaWJFenN1cWdSLTB2alFpMkJYN3JYNGJteEdLQjJRWWs1ZTZoMkIt?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.koreanewstoday.co.kr/news/articleView.html?idxno=80748",
+      "title": "동아쏘시오그룹, BIO USA 2026 참가 - 한국뉴스투데이"
     },
     {
       "idx": 11,
       "cbm_id": "CBMibEFVX3lxTE1zZnh0a2Q5TTBzNTBBb2hZMnJDdUx5ZDlISFNfbFdjVjRPck9KU3I5c1llakwwbS1aVENJNmxiQ2dxTDFlamU0RWVwbTNvRGN2SFBnZC1Sb3BETDlVOFZ2eE55QlhUMlQxZ25PbA",
       "original_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZnh0a2Q5TTBzNTBBb2hZMnJDdUx5ZDlISFNfbFdjVjRPck9KU3I5c1llakwwbS1aVENJNmxiQ2dxTDFlamU0RWVwbTNvRGN2SFBnZC1Sb3BETDlVOFZ2eE55QlhUMlQxZ25PbA?oc=5",
-      "actual_url": "https://www.nanumy.co.kr/news/articleView.html?idxno=4007545"
+      "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zZnh0a2Q5TTBzNTBBb2hZMnJDdUx5ZDlISFNfbFdjVjRPck9KU3I5c1llakwwbS1aVENJNmxiQ2dxTDFlamU0RWVwbTNvRGN2SFBnZC1Sb3BETDlVOFZ2eE55QlhUMlQxZ25PbA?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.nanumy.co.kr/news/articleView.html?idxno=4007545",
+      "title": "목암생명과학연구소·에스티팜, AI 기반 RNA 설계 기술 공동연구 착수 - 나눔경제뉴스"
     },
     {
       "idx": 12,
       "cbm_id": "CBMieEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTdIBeEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTQ",
       "original_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTdIBeEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTQ?oc=5",
-      "actual_url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260618_0003674526"
+      "rss_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTdIBeEFVX3lxTE55SmpmSFFwUTkydV8ySndzMkQ1Vjg1bHBfenRsMFppVFhBVklHcWdad3hUc2EzLXFvMDcwdnozUmN6bmY2ZzNwOXRmLVVtaVI1NmhpOVNCQmFNNW5xc0w2MG9hc2NXWUhRSklvNmRGUHc2V0lqeWtGTQ?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260618_0003674526",
+      "title": "'비만약 출시' 예고한 한미…평택서 기업 설명회 - 뉴시스"
     },
     {
       "idx": 13,
       "cbm_id": "CBMiY0FVX3lxTE9ZU0J0dnViajhZc1EycjFuUFRLRTAyWWZxQkNvUVQ4Vm56VElidUo3bkp5bktBcU04bnR6a0owRlk2MTNDV3hfeUFTRVdTcmF4RDhyd1hJelhCSnpHcGt5Vkg5MA",
       "original_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZU0J0dnViajhZc1EycjFuUFRLRTAyWWZxQkNvUVQ4Vm56VElidUo3bkp5bktBcU04bnR6a0owRlk2MTNDV3hfeUFTRVdTcmF4RDhyd1hJelhCSnpHcGt5Vkg5MA?oc=5",
-      "actual_url": "https://www.kukimedi.com/kukimedi/view/kuk202606180113"
+      "rss_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZU0J0dnViajhZc1EycjFuUFRLRTAyWWZxQkNvUVQ4Vm56VElidUo3bkp5bktBcU04bnR6a0owRlk2MTNDV3hfeUFTRVdTcmF4RDhyd1hJelhCSnpHcGt5Vkg5MA?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.kukimedi.com/kukimedi/view/kuk202606180113",
+      "title": "한미약품, K-비만약 '에페글레나타이드' 출시 채비 - 쿠키메디"
     },
     {
       "idx": 14,
-      "cbm_id": "CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ",
-      "original_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ?oc=5",
-      "actual_url": "https://www.e-science.co.kr/news/articleView.html?idxno=130774"
+      "cbm_id": "CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw",
+      "original_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw?oc=5",
+      "rss_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZ9IBbEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNFlZb1BMMzF3NXd6SVFQWmlfUHN3M0ljN2tCejN0Nkl5R0hUOTQzTzJqQmhoWTh5MnA2dlFjX0RYSVNtTXNaRTdtZDNsWFRyZw?oc=5&hl=ko&gl=US&ceid=US:ko",
+      "actual_url": "https://www.apnews.kr/news/articleViewAmp.html?idxno=3049183",
+      "title": "\"연 2000만 도즈 생산\"…'韓 1호 비만약' 글로벌 전초기지 뜬다 - AP신문"
     }
   ]
 }
