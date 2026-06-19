@@ -5,79 +5,72 @@
   "folder": "2026-W24",
   "start": "2026-06-15",
   "end": "2026-06-21",
-  "total_articles": 1163,
-  "total_days": 4,
+  "total_articles": 1456,
+  "total_days": 5,
   "dates_covered": [
     "2026-06-15",
     "2026-06-16",
     "2026-06-17",
-    "2026-06-18"
+    "2026-06-18",
+    "2026-06-19"
   ],
   "korean": {
-    "total": 445,
+    "total": 417,
     "categories": {
-      "의약산업": 54,
-      "의약정책": 52,
-      "감염·보건": 52,
-      "의료정책·인력": 47,
-      "의약품": 46,
-      "의약단체": 46,
-      "의료현장": 43,
-      "의약관련정부기관": 37,
-      "약국·약사": 37,
-      "전통의학": 31
+      "의약산업": 74,
+      "감염·보건": 64,
+      "의약품": 62,
+      "의료정책·인력": 54,
+      "의약정책": 51,
+      "의약단체": 36,
+      "의약관련정부기관": 30,
+      "의료현장": 30,
+      "약국·약사": 13,
+      "전통의학": 3
     },
     "top_keywords": [
       [
         "신약",
-        44
+        60
+      ],
+      [
+        "급여",
+        25
       ],
       [
         "식약처",
-        32
+        21
+      ],
+      [
+        "임상",
+        20
       ],
       [
         "허가",
         19
       ],
       [
-        "약가",
-        18
-      ],
-      [
-        "임상",
-        16
-      ],
-      [
-        "급여",
-        15
+        "백신",
+        11
       ],
       [
         "한약",
-        14
+        11
       ],
       [
         "수출",
+        11
+      ],
+      [
+        "비만",
+        11
+      ],
+      [
+        "약가",
         10
       ],
       [
         "항암",
-        8
-      ],
-      [
-        "백신",
-        8
-      ],
-      [
-        "특허",
-        8
-      ],
-      [
-        "CDMO",
-        8
-      ],
-      [
-        "제네릭",
         7
       ],
       [
@@ -86,27 +79,35 @@
       ],
       [
         "FDA",
-        5
+        6
       ],
       [
-        "GMP",
-        5
-      ],
-      [
-        "실사",
-        4
-      ],
-      [
-        "심사",
-        4
+        "CDMO",
+        6
       ],
       [
         "R&D",
+        4
+      ],
+      [
+        "오남용",
+        4
+      ],
+      [
+        "제네릭",
+        3
+      ],
+      [
+        "특허",
+        3
+      ],
+      [
+        "심사",
         2
       ],
       [
-        "원료의약품",
-        2
+        "실사",
+        1
       ],
       [
         "ADC",
@@ -117,110 +118,114 @@
         1
       ],
       [
-        "비만",
+        "GLP-1",
+        1
+      ],
+      [
+        "GMP",
         1
       ]
     ]
   },
   "english": {
-    "total": 310,
+    "total": 460,
     "categories": {
-      "Drugs & Therapies": 54,
-      "Pharma Industry": 54,
-      "Pharma Policy": 54,
-      "Regulatory Agencies": 54,
-      "Pharma Associations": 53,
-      "Traditional & Complementary Medicine": 41
+      "Drugs & Therapies": 79,
+      "Pharma Industry": 79,
+      "Pharma Policy": 79,
+      "Regulatory Agencies": 79,
+      "Pharma Associations": 78,
+      "Traditional & Complementary Medicine": 66
     },
     "top_keywords": [
       [
         "FDA",
-        43
+        73
       ],
       [
         "pricing",
-        14
+        22
       ],
       [
         "manufacturing",
-        10
-      ],
-      [
-        "GMP",
-        10
+        20
       ],
       [
         "approval",
-        9
+        18
+      ],
+      [
+        "GMP",
+        18
       ],
       [
         "inspection",
-        7
+        16
       ],
       [
         "patent",
-        5
+        10
+      ],
+      [
+        "generic",
+        10
       ],
       [
         "biosimilar",
-        4
+        9
+      ],
+      [
+        "recall",
+        5
+      ],
+      [
+        "clinical trial",
+        5
       ],
       [
         "regulation",
         4
       ],
       [
-        "generic",
-        4
-      ],
-      [
-        "clinical trial",
+        "quality",
         3
       ],
       [
-        "GLP-1",
+        "safety",
         2
+      ],
+      [
+        "GLP-1",
+        1
       ],
       [
         "obesity",
-        2
-      ],
-      [
-        "recall",
-        2
-      ],
-      [
-        "quality",
-        2
-      ],
-      [
-        "safety",
         1
       ]
     ]
   },
   "multilingual": {
-    "total": 408,
+    "total": 579,
     "languages": {
-      "Indonesian / 인도네시아어": 33,
-      "Vietnamese / 베트남어": 32,
-      "Russian / 러시아어": 28,
-      "Portuguese / 포르투갈어": 27,
-      "Thai / 태국어": 26,
-      "Spanish / 스페인어": 25,
-      "French / 프랑스어": 24,
-      "Italian / 이탈리아어": 23,
-      "Turkish / 터키어": 22,
-      "Arabic / 아랍어": 22,
-      "Hindi / 힌디어": 20,
-      "Dutch / 네덜란드어": 19,
-      "Hebrew / 히브리어": 18,
-      "German / 독일어": 17,
-      "Polish / 폴란드어": 17,
-      "Chinese Simplified / 중국어": 17,
-      "Swedish / 스웨덴어": 13,
-      "Chinese Traditional / 대만": 12,
-      "Japanese / 일본어": 11,
+      "Indonesian / 인도네시아어": 43,
+      "Vietnamese / 베트남어": 42,
+      "Russian / 러시아어": 38,
+      "Portuguese / 포르투갈어": 37,
+      "Thai / 태국어": 36,
+      "Spanish / 스페인어": 35,
+      "French / 프랑스어": 34,
+      "Italian / 이탈리아어": 33,
+      "Turkish / 터키어": 32,
+      "Hindi / 힌디어": 31,
+      "Dutch / 네덜란드어": 29,
+      "German / 독일어": 27,
+      "Arabic / 아랍어": 26,
+      "Swedish / 스웨덴어": 25,
+      "Polish / 폴란드어": 25,
+      "Japanese / 일본어": 23,
+      "Chinese Simplified / 중국어": 22,
+      "Hebrew / 히브리어": 22,
+      "Chinese Traditional / 대만": 17,
       "Persian / 페르시아어": 2
     }
   }

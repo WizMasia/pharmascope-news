@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-PharmaScope (의약스코프) — v3 Adapter Pattern
-================================================
-하이브리드 수집: Google News (메인) + Bing News (보조)
-Adapter Pattern으로 각 소스 분리, 중요도 평가(정수)
+PharmaScope (의약스코프) - v4 Bing Only
+========================================
+Bing News HTML 단독 수집 (직접 URL, CBM 없음)
+Google News RSS 제거 -> CBM URL 0건
+Adapter Pattern + 중요도 평가(정수)
 """
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -76,28 +77,28 @@ all_data = {'category': {}, '_meta': {
 #    보조: Google RSS (향후 브라우저 URL 변환)
 # ===================================================================
 log("="*50)
-log("🇰🇷 국내 뉴스 (메인:Bing + 보조:Google)")
+log("🇰🇷 국내 뉴스 (오직 Bing, 직접 URL)")
 
 kr_categories = {
-    '의약품': {'keywords': ['의약품 치료제 신약', '의약품허가 품목허가 신약승인', '제네릭 바이오시밀러 복제약', '백신 항암제 희귀의약품']},
-    '의약산업': {'keywords': ['제약산업 제약바이오 제약사', '의약품시장 제약매출 의약품수출', '제약R&D 신약개발투자 임상시험', '바이오텍 CRO CDMO 위탁생산']},
-    '의약정책': {'keywords': ['의약품정책 약가 약가인하 약가제도', '건강보험 보험급여 약제급여', '의약품규제 약사법 의약품법', '의약품특허 자료보호 의약품허가특허']},
-    '의약단체': {'keywords': ['한국제약바이오협회 KPBMA', '한국다국적의약산업협회 KRPIA', '대한약사회 한국약사회 약사', '제약단체 의약단체 제약협회']},
-    '의약관련정부기관': {'keywords': ['식약처 MFDS 식품의약품안전처', '의약품안전 의약품심사 GMP 실사', '의약품부작용 의약품안전정보', '의약품수거 의약품회수 식약처조사']},
-    '의료현장': {'keywords': ['의료현장 병원경영 진료과목 임상현장', '의료사고 의료분쟁 의료소송', '전공의 수련 전문의 인증', '의료질 환자경험 의료서비스']},
-    '약국·약사': {'keywords': ['약국운영 조제실 일반의약품', '복약지도 의약품안전사용 DUR', '약사면허 약사교육 약사직능', '약국경영 지역약국 체인약국']},
-    '의료정책·인력': {'keywords': ['의료개혁 필수의료 의료체계', '의사인력 전공의 정원 간호사', '의료법 의료제도 건강보험', '원격의료 의료인력수급']},
-    '전통의학': {'keywords': ['한의사 한의원 한약 한방치료', '침술 약침 추나 한의학임상', '한의약정책 한약재 한의학연구', '한방산업 한의사면허 한의보험']},
-    '감염·보건': {'keywords': ['감염병 항생제내성 감염관리', '예방접종 국가예방접종', '공중보건 보건복지 지역보건', '환자안전 의료감염 손위생']},
+    '의약품': {'keywords': ['의약품 치료제 신약', '의약품허가 품목허가 신약승인', '제네릭 바이오시밀러 복제약', '백신 항암제 희귀의약품', '의약품안전 의약품부작용', '신약개발 임상시험']},
+    '의약산업': {'keywords': ['제약산업 제약바이오 제약사', '의약품시장 제약매출 의약품수출', '제약R&D 신약개발투자 임상시험', '바이오텍 CRO CDMO 위탁생산', '제약사 경영실적 매출', '글로벌 의약품 라이선스']},
+    '의약정책': {'keywords': ['의약품정책 약가 약가인하 약가제도', '건강보험 보험급여 약제급여', '의약품규제 약사법 의약품법', '의약품특허 자료보호 의약품허가특허', '약가협상 약가재평가', '보험등재 급여확대']},
+    '의약단체': {'keywords': ['한국제약바이오협회 KPBMA', '한국다국적의약산업협회 KRPIA', '대한약사회 한국약사회 약사', '제약단체 의약단체 제약협회', '제약바이오협회', '의약단체 동향']},
+    '의약관련정부기관': {'keywords': ['식약처 MFDS 식품의약품안전처', '의약품안전 의약품심사 GMP 실사', '의약품부작용 의약품안전정보', '의약품수거 의약품회수 식약처조사', 'FDA 승인 규제', '의약품허가 심사']},
+    '의료현장': {'keywords': ['의료현장 병원경영 진료과목 임상현장', '의료사고 의료분쟁 의료소송', '전공의 수련 전문의 인증', '의료질 환자경험 의료서비스', '병원 간호사 의사', '진료과 의료진']},
+    '약국·약사': {'keywords': ['약국운영 조제실 일반의약품', '복약지도 의약품안전사용 DUR', '약사면허 약사교육 약사직능', '약국경영 지역약국 체인약국', '약국 조제료', '일반약 전문약']},
+    '의료정책·인력': {'keywords': ['의료개혁 필수의료 의료체계', '의사인력 전공의 정원 간호사', '의료법 의료제도 건강보험', '원격의료 의료인력수급', '보건복지부 의료정책', '의료인력 수급']},
+    '전통의학': {'keywords': ['한의사 한의원 한약 한방치료', '침술 약침 추나 한의학임상', '한의약정책 한약재 한의학연구', '한방산업 한의사면허 한의보험', '한약사 한약조제', '한의학 해외진출']},
+    '감염·보건': {'keywords': ['감염병 항생제내성 감염관리', '예방접종 국가예방접종', '공중보건 보건복지 지역보건', '환자안전 의료감염 손위생', '코로나19 독감 인플루엔자', '전염병 방역']},
 }
 
 kr_primary = BingNewsHTMLAdapter()
-kr_secondary = [GoogleNewsRSSAdapter()]
+kr_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
 
 kr_data = {}
 for cat_name, cfg in kr_categories.items():
     results = hybrid_collect(kr_primary, kr_secondary, cfg['keywords'],
-                              {'lang': 'ko-kr', 'region': 'kr'}, min_count=30)
+                              {'lang': 'ko-kr', 'region': 'kr'}, min_count=25)
     kr_data[cat_name] = results
     avg = sum(a.get('importance', 0) for a in results) // max(len(results), 1) if results else 0
     log(f"  [{cat_name}] {len(results)}건 (평균 {avg}점)")
@@ -109,7 +110,7 @@ all_data['category']['korean'] = kr_data
 #    메인: Bing News + Google RSS
 # ===================================================================
 log("="*50)
-log("🇺🇸🇬🇧 영어권 (메인:Bing + 보조:Google)")
+log("🇺🇸🇬🇧 영어권 (오직 Bing, 직접 URL)")
 
 en_categories = {
     'Drugs & Therapies': {'keywords': ['drug approval new drug therapy pharmaceutical', 'generic drug biosimilar vaccine development', 'oncology drug rare disease treatment', 'antibiotic clinical trial drug discovery']},
@@ -121,12 +122,12 @@ en_categories = {
 }
 
 en_primary = BingNewsHTMLAdapter()
-en_secondary = [GoogleNewsRSSAdapter()]
+en_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
 
 en_data = {}
 for cat_name, cfg in en_categories.items():
     results = hybrid_collect(en_primary, en_secondary, cfg['keywords'],
-                              {'lang': 'en-us', 'region': 'US'}, min_count=30)
+                              {'lang': 'en-us', 'region': 'US'}, min_count=25)
     en_data[cat_name] = results
     avg = sum(a.get('importance', 0) for a in results) // max(len(results), 1) if results else 0
     log(f"  [{cat_name}] {len(results)}건 (평균 {avg}점)")
@@ -137,7 +138,7 @@ all_data['category']['english'] = en_data
 # 3. 🌏 MULTILINGUAL — 20 languages
 # ===================================================================
 log("="*50)
-log("🌏 다국어 (메인:Bing + 보조:Google)")
+log("🌏 다국어 (오직 Bing, 직접 URL)")
 
 lang_configs = [
     (['médicament pharmacie industrie pharmaceutique', 'médecine traditionnelle phytothérapie'], 'fr-fr', 'FR', 'French / 프랑스어'),
@@ -163,12 +164,12 @@ lang_configs = [
 ]
 
 ml_primary = BingNewsHTMLAdapter()
-ml_secondary = [GoogleNewsRSSAdapter()]
+ml_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
 
 ml_data = {}
 for keywords, lang, region, label in lang_configs:
     results = hybrid_collect(ml_primary, ml_secondary, keywords,
-                              {'lang': lang, 'region': region}, min_count=15)
+                              {'lang': lang, 'region': region}, min_count=10)
     ml_data[label] = results
     log(f"  [{label}] {len(results)}건")
 
@@ -201,7 +202,7 @@ with open(os.path.join(DAILY_DIR, 'raw.json'), 'w', encoding='utf-8') as f:
 # ===================================================================
 L = []
 L.append(f"# 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트")
-L.append(f"**수집일:** {DATE_STR}  |  **소스:** Bing News 메인 + Google 보조  |  **어댑터 패턴**  |  **총 {total_all}건**")
+L.append(f"**수집일:** {DATE_STR}  |  **소스:** Bing News (직접 URL)  |  **어댑터 패턴**  |  **총 {total_all}건**")
 L.append(f"**평가:** ⭐⭐⭐⭐⭐(85↑) ⭐⭐⭐⭐(65↑) ⭐⭐⭐(45↑) ⭐⭐(25↑) ⭐(0↑)  |  **정수 계산**")
 L.append("")
 
@@ -422,11 +423,24 @@ pharmascope/
 log(f"✅ README.md 갱신 완료")
 
 # ===================================================================
-# URL RESOLVER — Google RSS CBM URL → 브라우저 변환 대기
+# URL 검증 — Google RSS 제거로 CBM URL 없음 확인
 # ===================================================================
-from url_resolver import extract_urls_for_resolution
-needs_resolve = extract_urls_for_resolution()
-log(f"🔗 URL 변환 대기: {len(needs_resolve)}건 (브라우저 Phase 2에서 처리)")
+cbm_count = 0
+for section_name, section_data in all_data.get('category', {}).items():
+    if isinstance(section_data, dict):
+        for items in section_data.values():
+            if isinstance(items, list):
+                for art in items:
+                    if art.get('cbm_id', '') and 'google.com' in art.get('url', ''):
+                        cbm_count += 1
+
+if cbm_count:
+    log(f"⚠️ CBM URL {cbm_count}건 발견 (Google RSS가 없는데 발생? → Bing 이슈)")
+    from url_resolver import extract_urls_for_resolution
+    needs = extract_urls_for_resolution()
+    log(f"   → Phase 2(브라우저)에서 {len(needs)}건 처리 예정")
+else:
+    log("  ✅ CBM URL 0건 — 모든 기사가 직접 URL")
 
 # ===================================================================
 # GIT PUSH

@@ -260,7 +260,7 @@ class DaumNewsBrowserAdapter:
         return []  # 브라우저 Phase에서 처리
 
 # ===================================================================
-# Factory: 소스별 Adapter 생성
+# 하이브리드 수집
 # ===================================================================
 def get_adapter(source_name):
     adapters = {
