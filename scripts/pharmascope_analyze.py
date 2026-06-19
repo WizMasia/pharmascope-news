@@ -1,17 +1,22 @@
 #!/usr/bin/env python3
 """
-PharmaScope Daily Deep Analysis — 데이터 준비 스크립트
+|PharmaScope Daily Deep Analysis — 데이터 준비 스크립트
 =====================================================
 daily_summary.json + raw.json → 기사 클러스터링 + 분석용 데이터 준비.
 
 사용법:
   python3 pharmascope_analyze.py [--date YYYY-MM-DD] [--day-before N]
+  python3 pharmascope_analyze.py --start=2026-06-19T06:30:00 --end=2026-06-20T06:29:59
     --date: 분석할 날짜 (기본: 오늘)
     --day-before: N일 전 데이터도 함께 로드 (기본: 1)
+    --start: ISO 시작시각 (KST). --end와 함께 사용
+    --end: ISO 종료시각 (KST). --start와 함께 사용
+    --start/--end 사용 시 해당 시간 범위 내 기사만 필터링
 
 출력:
   daily/YYYY-MM-DD/analysis_ready.json  — LLM 분석용 구조화 데이터
 """
+import email.utils
 import json, os, sys, re
 from datetime import datetime, timedelta, timezone
 from collections import Counter, defaultdict
@@ -19,6 +24,65 @@ from collections import Counter, defaultdict
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(KST)
 BASE_DIR = os.path.expanduser("~/workspace/mywiki/news/pharmascope")
+
+
+# ===== 시간 유틸 =====
+def parse_time_to_dt(time_str, default_dt=None):
+    """기사 time 필드를 datetime으로 변환 (상대시간/절대시간 모두 지원)"""
+    if not time_str:
+        return default_dt
+    ts = time_str.strip()
+    now = default_dt or NOW
+
+    # 분 단위
+    m = re.search(r'(\d+)\s*분', ts)
+    if m:
+        return now - timedelta(minutes=int(m.group(1)))
+
+    # 시간 단위
+    h = re.search(r'(\d+)\s*시간', ts)
+    if h:
+        return now - timedelta(hours=int(h.group(1)))
+
+    # 일 단위
+    d = re.search(r'(\d+)\s*일', ts)
+    if d:
+        return now - timedelta(days=int(d.group(1)))
+
+    # 주
+    w = re.search(r'(\d+)\s*주', ts)
+    if w:
+        return now - timedelta(weeks=int(w.group(1)))
+
+    # 개월 (30일 기준)
+    mo = re.search(r'(\d+)\s*개월', ts)
+    if mo:
+        return now - timedelta(days=int(mo.group(1)) * 30)
+
+    # 어제
+    if '어제' in ts or 'yesterday' in ts:
+        return now - timedelta(days=1)
+
+    # RFC 2822 pubDate
+    try:
+        return email.utils.parsedate_to_datetime(ts)
+    except Exception:
+        pass
+
+    return default_dt
+
+
+def filter_articles_by_time(articles, start_dt, end_dt):
+    """기사 리스트에서 start~end 범위 내의 것만 필터링"""
+    result = []
+    for a in articles:
+        pub_dt = parse_time_to_dt(a.get('time', ''))
+        if pub_dt and start_dt <= pub_dt <= end_dt:
+            result.append(a)
+        elif not pub_dt:
+            # 시간 정보 없으면 보수적으로 포함
+            result.append(a)
+    return result
 
 # ===== Pharma 키워드 목록 (daily_summary와 동일) =====
 PHARMA_KEYWORDS_KR = [
@@ -180,7 +244,7 @@ def cluster_articles(articles, min_cluster_size=2, min_overlap=2):
     return result_clusters, unclustered
 
 
-def prepare_analysis_data(date_str, day_before=1):
+def prepare_analysis_data(date_str, day_before=1, start_dt=None, end_dt=None):
     """분석용 데이터 준비"""
     summary = load_daily_summary(date_str)
     if not summary:
@@ -188,7 +252,16 @@ def prepare_analysis_data(date_str, day_before=1):
         return None
 
     raw_articles = load_raw_articles(date_str)
-    print(f"📦 raw.json: {len(raw_articles)} articles")
+    
+    # 시간 범위 필터링
+    if start_dt and end_dt:
+        before = len(raw_articles)
+        raw_articles = filter_articles_by_time(raw_articles, start_dt, end_dt)
+        dropped = before - len(raw_articles)
+        if dropped:
+            print(f"⏰ 시간 필터: {dropped}건 드롭됨 ({start_dt.strftime('%H:%M')}~{end_dt.strftime('%H:%M')})")
+    
+    print(f"📦 raw.json: {len(raw_articles)} articles" + (f" (시간필터 적용)" if start_dt else ""))
 
     # 전체 기사를 중요도순 정렬
     sorted_articles = sorted(raw_articles, key=lambda x: x.get('importance', 0), reverse=True)
@@ -294,15 +367,24 @@ def main():
     parser = argparse.ArgumentParser(description='PharmaScope Daily Analysis Data Prep')
     parser.add_argument('--date', default=None, help='분석할 날짜 (YYYY-MM-DD)')
     parser.add_argument('--day-before', type=int, default=1, help='N일 전 데이터도 참조')
+    parser.add_argument('--start', default=None, help='ISO 시작시각 (KST, 예: 2026-06-19T06:30:00)')
+    parser.add_argument('--end', default=None, help='ISO 종료시각 (KST, 예: 2026-06-20T06:29:59)')
     args = parser.parse_args()
 
-    date_str = args.date or NOW.strftime('%Y-%m-%d')
-    day_before = args.day_before
+    # 시간 범위 파싱
+    start_dt = end_dt = None
+    if args.start and args.end:
+        start_dt = datetime.fromisoformat(args.start).replace(tzinfo=KST)
+        end_dt = datetime.fromisoformat(args.end).replace(tzinfo=KST)
+        date_str = start_dt.strftime('%Y-%m-%d')
+        print(f"🔬 PharmaScope Deep Analysis — {date_str} ({start_dt.strftime('%H:%M')}~{end_dt.strftime('%H:%M')})")
+    else:
+        date_str = args.date or NOW.strftime('%Y-%m-%d')
+        print(f"🔬 PharmaScope Deep Analysis — Data Prep ({date_str})")
 
-    print(f"🔬 PharmaScope Deep Analysis — Data Prep ({date_str})")
     print("=" * 50)
 
-    result = prepare_analysis_data(date_str, day_before)
+    result = prepare_analysis_data(date_str, args.day_before, start_dt, end_dt)
     if not result:
         sys.exit(1)
 

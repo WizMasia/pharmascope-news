@@ -1,0 +1,669 @@
+{
+  "date": "2026-06-19",
+  "total_articles": 588,
+  "language_breakdown": {
+    "korean": {
+      "total": 166,
+      "categories": {
+        "의약품": 30,
+        "의약산업": 30,
+        "의약정책": 20,
+        "의약단체": 13,
+        "의약관련정부기관": 11,
+        "의료현장": 8,
+        "약국·약사": 3,
+        "의료정책·인력": 20,
+        "전통의학": 1,
+        "감염·보건": 30
+      }
+    },
+    "english": {
+      "total": 180,
+      "categories": {
+        "Drugs & Therapies": 30,
+        "Pharma Industry": 30,
+        "Pharma Policy": 30,
+        "Pharma Associations": 30,
+        "Regulatory Agencies": 30,
+        "Traditional & Complementary Medicine": 30
+      }
+    },
+    "multilingual": {
+      "total": 242,
+      "languages": {
+        "French / 프랑스어": 15,
+        "German / 독일어": 15,
+        "Spanish / 스페인어": 15,
+        "Italian / 이탈리아어": 15,
+        "Portuguese / 포르투갈어": 15,
+        "Dutch / 네덜란드어": 15,
+        "Swedish / 스웨덴어": 13,
+        "Polish / 폴란드어": 14,
+        "Turkish / 터키어": 15,
+        "Russian / 러시아어": 15,
+        "Japanese / 일본어": 7,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 6,
+        "Vietnamese / 베트남어": 15,
+        "Thai / 태국어": 15,
+        "Indonesian / 인도네시아어": 15,
+        "Hindi / 힌디어": 12,
+        "Arabic / 아랍어": 9,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 1
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 25
+    },
+    {
+      "keyword": "급여",
+      "count": 12
+    },
+    {
+      "keyword": "비만",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 9
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "수출",
+      "count": 5
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 4
+    },
+    {
+      "keyword": "약가",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "오남용",
+      "count": 3
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "CDMO",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
+      "count": 2
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 32
+    },
+    {
+      "keyword": "pricing",
+      "count": 11
+    },
+    {
+      "keyword": "GMP",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 8
+    },
+    {
+      "keyword": "approval",
+      "count": 7
+    },
+    {
+      "keyword": "inspection",
+      "count": 7
+    },
+    {
+      "keyword": "generic",
+      "count": 5
+    },
+    {
+      "keyword": "patent",
+      "count": 5
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "EBN",
+      "count": 7
+    },
+    {
+      "source": "Financial News",
+      "count": 4
+    },
+    {
+      "source": "Newsis",
+      "count": 2
+    },
+    {
+      "source": "Hankyung",
+      "count": 2
+    },
+    {
+      "source": "Edaily",
+      "count": 2
+    },
+    {
+      "source": "Bizwatch",
+      "count": 2
+    },
+    {
+      "source": "Medical News",
+      "count": 2
+    },
+    {
+      "source": "Seoul Economic Daily",
+      "count": 2
+    },
+    {
+      "source": "아주경제 on MSN",
+      "count": 2
+    },
+    {
+      "source": "파이낸셜뉴스 on MSN",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FiercePharma",
+      "count": 11
+    },
+    {
+      "source": "RAPS",
+      "count": 8
+    },
+    {
+      "source": "JD Supra",
+      "count": 8
+    },
+    {
+      "source": "MSN",
+      "count": 7
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 6
+    },
+    {
+      "source": "The American Journal of Managed Care",
+      "count": 5
+    },
+    {
+      "source": "Morningstar",
+      "count": 4
+    },
+    {
+      "source": "CNBC",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "Science Daily",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "FDA 주요 의약품 승인 러시",
+    "방사성의약품·항암제 시장 급변",
+    "국내 의약품 품목허가 동향",
+    "GMP 실사 및 제조품질 이슈"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 24,
+      "keywords": [
+        "drug",
+        "FDA",
+        "fda"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "June 17 (Reuters) - The U.S. Food and Drug Administration approved the first generic version of Roche's Xofluza, a ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Big pharma taps UK playbook to pressure European capitals on drug prices",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Global pharmaceutical companies, facing pushback from European capitals on drug pricing, are turning to a playbook that ...",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "",
+          "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
+        },
+        {
+          "title": "High Court ‘Skinny Label’ Ruling Is No Generic Drug Free-for-All",
+          "source": "Bloomberg Law News",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Opinion: Generic drug manufacturers should view the Supreme Court's ruling in Hikma v. Amarin as a limited safe harbor ...",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "",
+          "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
+        },
+        {
+          "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "5mon",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+        },
+        {
+          "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "3mon",
+          "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+        },
+        {
+          "title": "FDA’s plan to boost biosimilar drugs could stall at the patent office",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA regulation is often the least of the three major hurdles biosimilar makers must confront, industry officials say. (Sarah Silbiger/Stringer/Getty Images) While the FDA is streamlining regulation of",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "7mon",
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "Responding to tougher FDA standards, Recipharm debuts new facility for beta-lactam drugs",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "With the FDA tightening its guidance around the production of nonbacterial beta-lactam drugs, Swedish CDMO Recipharm is touting new efforts to stay in compliance—and a new partnership. Juggling a mix ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "4mon",
+          "url": "https://www.fiercepharma.com/manufacturing/fda-winds-changing-recipharm-debuts-purpose-built-plant-beta-lactam-drugs"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        },
+        {
+          "title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval",
+          "source": "GlobalData on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The FDA has cleared several oncology products over the past few days, ranging from therapies to diagnostic and imaging tools.",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "3d",
+          "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"
+        },
+        {
+          "title": "AstraZeneca Gets U.S. Approval for Hypertension Drug",
+          "source": "Morningstar",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "AstraZeneca said it received U.S. approval for a new hypertension treatment, getting the green light to launch a drug the U.K. pharmaceutical company expects to generate multibillion-dollar annual ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "1mon",
+          "url": "https://www.morningstar.com/news/dow-jones/20260518498/astrazeneca-gets-us-approval-for-hypertension-drug"
+        },
+        {
+          "title": "FDA to speed up approvals of generic biologic medicines as Trump targets high drug costs",
+          "source": "CNBC",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Food and Drug Administration said it will take steps to speed up the process of developing generic versions of complex biological drugs, in a bid to increase cheaper competition for expensive ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "7mon",
+          "url": "https://www.cnbc.com/2025/10/29/fda-to-speed-up-generic-drug-approvals-as-trump-targets-drug-costs.html"
+        },
+        {
+          "title": "FDA Moves To Accelerate Biosimilar Development, Lower Drug Costs",
+          "source": "MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The U.S. Food and Drug Administration (FDA) today announced action to make it faster and less costly to develop biosimilar medicines, which are lower-cost alternatives to expensive biologic drugs used",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "7mon",
+          "url": "https://www.msn.com/en-us/health/other/fda-moves-to-accelerate-biosimilar-development-lower-drug-costs/ar-AA1PrhxP?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA Aims to Streamline Biosimilar Drug Development",
+          "source": "Medscape",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The FDA has proposed new policies to speed up the development and lower the cost of biosimilar agents for cancer and other serious illnesses. These policies include “major updates to simplify ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "6mon",
+          "url": "https://www.medscape.com/viewarticle/fda-aims-streamline-biosimilar-drug-development-2025a1000whe"
+        },
+        {
+          "title": "FDA to streamline approvals for generic biological drugs in latest move targeting health costs",
+          "source": "CNN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The US Food and Drug Administration will take steps to streamline the development of generic versions of complex biological drugs, the agency announced Wednesday. The changes are meant to accelerate .",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "7mon",
+          "url": "https://www.cnn.com/2025/10/29/health/fda-drug-costs-biosimilars"
+        },
+        {
+          "title": "FDA to streamline approvals of generic biologic drugs",
+          "source": "MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Food and Drug Administration (FDA) is launching an effort to streamline the approval process for cheaper alternative “biosimilar” versions of biologic drugs as a way to curb health costs. The ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "7mon",
+          "url": "https://www.msn.com/en-us/health/other/fda-to-streamline-approvals-of-generic-biologic-drugs/ar-AA1PrJiX?ocid=BingNewsVerp"
+        },
+        {
+          "title": "March 13 Policy Watch: FDA streamlines its process for approving biosimilar drugs",
+          "source": "C&EN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The US Food and Drug Agency announced on March 9 new guidelines for testing biosimilar products, biologic drugs that are made by someone other than the inventor. Whereas a generic-drug manufacturer ..",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "1y",
+          "url": "https://cen.acs.org/policy/fda-biosimilar-drugs-adverse-events-database-epa-climate-endangerment/104/web/2026/03"
+        },
+        {
+          "title": "Nonprofit buys experimental cancer drug to maintain patient access",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "In a rare move, nonprofit organization Blood Cancer United is buying the remaining supplies of a discontinued investigational ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "6d",
+          "url": "https://www.statnews.com/2026/06/11/blood-cancer-united-buys-luvelta-compassionate-use/"
+        },
+        {
+          "title": "Drug for rare disease could be used to extend lives of ovarian cancer patients, study finds",
+          "source": "AOL",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A drug typically used for a rare disorder could extend the lives of patients battling a form of ovarian cancer, a study has found. Women diagnosed with platinum-resistant ovarian cancer, a type where ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "2mon",
+          "url": "https://www.aol.com/news/drug-rare-disease-could-used-204850875.html"
+        },
+        {
+          "title": "RedHill's Opaganib Receives FDA Rare Pediatric Disease Designation for Neuroblastoma in Addition to Current Orphan Drug Designation",
+          "source": "Yahoo Finance",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "RedHill Biopharma Ltd. (Nasdaq: RDHL) (&quot;RedHill&quot; or the &quot;Company&quot;), a specialty biopharmaceutical company, today announced ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/redhills-opaganib-receives-fda-rare-110000137.html"
+        },
+        {
+          "title": "A pancreatic cancer drug nearly doubled survival in a late-stage trial of 500 patients",
+          "source": "Morning Overview on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Patients with previously treated metastatic pancreatic cancer lived roughly twice as long when given an experimental daily ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "9h",
+          "url": "https://www.msn.com/en-us/health/other/a-pancreatic-cancer-drug-nearly-doubled-survival-in-a-late-stage-trial-of-500-patients/ar-AA25YwVf?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Antibody-drug conjugate achieves high response rates as frontline treatment in aggressive, rare blood cancer",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Seventy-five percent of patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN) who were treated with the antibody-drug conjugate (ADC) pivekimab sunirine (PVEK) had a complete response, ..",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "4mon",
+          "url": "https://medicalxpress.com/news/2026-02-antibody-drug-conjugate-high-response.html"
+        },
+        {
+          "title": "Could the next big cancer drug come from global health research?",
+          "source": "AOL",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "COMMENT: The next blockbuster treatment drug might not, in fact, come from research into cancer itself but from research into ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.aol.com/articles/could-next-big-cancer-drug-144853000.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "says",
+        "group",
+        "industry",
+        "innovation",
+        "drug",
+        "proposed"
+      ],
+      "articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "A proposed restriction on the use of fluorinated substances in Europe would have an “irredeemable impact” on the continent’s life sciences sector, the European Federation of Pharmaceutical Industries ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        },
+        {
+          "title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Council of the European Union has delivered its newest set of proposals meant to shake up European pharma regulations and sharpen the region's competitive edge, but the plan isn't exactly what EU ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "1y",
+          "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "2013년 등재 복합제도 조합 성분따라 올해 약가인하 시작",
+      "source": "DailyPharm",
+      "importance": 66,
+      "snippet": "정부가 단계적인 기등재 약가인하를 추진하는 가운데, 복합제는 조합 성분 중 하나라도 2012년 전에 등재했다면 올해부터 가격 인하가 이뤄질 것으로 보인다. 복합제를 구성하는 성분 중 가장 오래된 성분을 기준으로 1, 2단계 ...",
+      "url": "https://www.dailypharm.com/user/news/339581"
+    },
+    {
+      "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+      "source": "Science Daily",
+      "importance": 65,
+      "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+      "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+    },
+    {
+      "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
+      "source": "BioPharma Dive",
+      "importance": 61,
+      "snippet": "For 2029, a federal rule proposes closing a &quot;loophole&quot; that protects medicines transitioning from intravenous administration ...",
+      "url": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/"
+    },
+    {
+      "title": "&quot;전액 본인 부담이었는데&quot;…중증 원형 탈모 치료제 건강보험 급여 확대",
+      "source": "TV Chosun News",
+      "importance": 60,
+      "snippet": "오는 7월 1일부터 성인 중증 원형 탈모증 환자의 치료제에 대한 건강보험 급여 기준이 대폭 확대된다. 19일 보건복지부는 바리시티닙 성분 경구제(품명 올루미언트정 2밀리그램 등)의 요양급여 적용기준 일부개정안을 고시했다. 그동안 약값 전액을 환자가 부담해야 했지만, 건강보험 지원 대상이 넓어졌다. 급여 적용을 받으려면 우선 스테로이드나 사이클로스포린 등 기",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990070.html"
+    },
+    {
+      "title": "AbbVie inks latest White House drug pricing deal, scoring tariff reprieve as it makes $100B US investment pledge",
+      "source": "FiercePharma",
+      "importance": 56,
+      "snippet": "AbbVie provided little detail on the particulars of its new investment plan, which follows a $10 billion U.S. commitment from the company—also focused on R&amp;D and production—made last April. (AbbVi",
+      "url": "https://www.fiercepharma.com/pharma/abbvie-inks-latest-white-house-drug-pricing-deal-scoring-tariff-reprieve-it-makes-100b-us"
+    },
+    {
+      "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+      "source": "FiercePharma",
+      "importance": 56,
+      "snippet": "President Donald Trump has asked Big Pharma CEOs to provide &quot;binding commitments&quot; to several of his drug pricing priorities by today. (lucky-photographer/GettyImages ...",
+      "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+    },
+    {
+      "title": "西洋医学と東洋医学を良いとこ取り 地域密着の漢方薬局として ...",
+      "source": "Gifu Shimbun Web",
+      "importance": 55,
+      "snippet": "明確な症状や原因が分かっている病気に対し、手術や薬でその部分を除去する治療が主の西洋医学。一方で東洋医学は、一つの処方に原則２種類以上の生薬で構成される漢方薬や鍼、お灸などを使うため、特定の症状や原因だけでなく、さまざまな症状に対応することが出来ます ...",
+      "url": "https://www.gifu-np.co.jp/articles/-/689537"
+    },
+    {
+      "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+      "source": "聯合新聞網",
+      "importance": 55,
+      "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+      "url": "https://udn.com/news/story/7270/8851185"
+    },
+    {
+      "title": "תעשיית התרופות מגלה את המיחזור",
+      "source": "globes.co.il",
+      "importance": 55,
+      "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+      "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+    },
+    {
+      "title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득",
+      "source": "EBN",
+      "importance": 51,
+      "snippet": "비씨월드제약이 P-CAB (칼륨 경쟁적 위산분비 억제제) 계열 위장질환 치료제 품목허가를 획득하며 소화기 치료제 시장 공략에 나선다. 의약품 연구개발 및 생산 전문기업 비씨월드제약은 P-CAB 계열 위장질환 치료제 '보노바정 ...",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 4,
+      "en_count": 4
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 7
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 4,
+      "en_count": 11
+    }
+  ]
+}
