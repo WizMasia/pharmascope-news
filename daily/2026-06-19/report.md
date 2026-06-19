@@ -145,16 +145,16 @@
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 18:03:47 GMT+5 | 키워드+5 | 순위:122위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBvd3hZOW83NmJiR1dRLXZkLU5Ya3l6N0xod2dGNF
    🔗 https://www.apnews.kr/news/articleViewAmp.html?idxno=3049183
-29. ⭐ **[22점]** “K-비만약 상용화 눈앞”… 한미약품, 평택 바이오플랜트 글로벌 생산 경쟁력 입증 - 이코노미사이언스
+29. ⭐ **[22점]** “K-비만약 상용화 눈앞”… 한미약품, 평택 바이오플랜트 글로벌 생산 경쟁력 입증 - 이코노미사이언스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:18:38 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:18:38 GMT+5 | 키워드+5 | 순위:123위+2
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOX
-   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE41UWRLTHk2TXp3ZmdLQWk1c0VrUTd5SkMzX0dvOXYwblhGbUtJeEpaUklTeHNPWWdycXBtNlhrVl9scmZ1LVRtbERSWVZ2Rm4wVEZNRkpXR2I2ZDBLWFlHaDlPWFc4Snk3bm5uSDJOQQ?oc=5
-30. ⭐ **[22점]** 제약바이오, 하반기 '허가·임상·기술수출' 3대 이벤트 주목 - v.daum.net
+   🔗 https://www.e-science.co.kr/news/articleView.html?idxno=130774
+30. ⭐ **[22점]** 제약바이오, 하반기 '허가·임상·기술수출' 3대 이벤트 주목 - v.daum.net 🔄
    📰  | 🕐 Thu, 18 Jun 2026 22:31:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 22:31:00 GMT+5 | 키워드+5 | 순위:126위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gcm9pVzVmY21obm5zZXhaamM2NHpxTW9ERTJBdm
-   🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Gcm9pVzVmY21obm5zZXhaamM2NHpxTW9ERTJBdmhXbmtRRFh2RzdFOFEtaFd3N3I3UWlrX1EzSFY2RTFtX3FKVGlvd1NqXzg?oc=5
+   🔗 https://v.daum.net/v/20260619073118267
 
 ### 🏭 의약산업 (30건)
 1. ⭐⭐ **[42점]** 국내 제약바이오기업 ‘바이오 USA’ 총출동
@@ -207,41 +207,41 @@
    📊 출처:Insight on MSN+10 | 최신:+5 | 키워드+10 | 순위:154위+2
    💬 롯데바이오로직스가 인천 송도에 연간 12만ℓ 생산능력을 갖춘 바이오의약품 공장을 완공했다 ...
    🔗 https://www.msn.com/ko-kr/news/other/%EB%A1%AF%EB%8D%B0%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%86%A1%EB%8F%84-1%EA%B3%B5%EC%9E%A5-%EC%99%84%EA%B3%B5-cdmo-%EC%9D%B8%ED%94%84%EB%9D%BC-%EB%B3%B8%EA%B2%A9-%ED%99%95%EB%B3%B4/ar-AA25A7Ki?ocid=BingNewsVerp
-11. ⭐⭐ **[27점]** 국내 제약바이오기업 ‘바이오 USA’ 총출동 - 의학신문
+11. ⭐⭐ **[27점]** 국내 제약바이오기업 ‘바이오 USA’ 총출동 - 의학신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:00:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:00:00 GMT+5 | 키워드+10 | 순위:155위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMV
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMVpPR0dYYnA4RG0yQ1daemZjOEtuNmNMVHREVUtXWmlfdHJ1QWVqdmVXb1dKcEZGakhHamdYRVpUOWk4ZnY0bmo3ZTkwaXc?oc=5
-12. ⭐⭐ **[27점]** 쿼드메디슨, 바이오USA 참가..글로벌 제약사와 마이크로니들 파트너링 논의 - 파이낸스스코프
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3006571
+12. ⭐⭐ **[27점]** 쿼드메디슨, 바이오USA 참가..글로벌 제약사와 마이크로니들 파트너링 논의 - 파이낸스스코프 🔄
    📰  | 🕐 Thu, 18 Jun 2026 23:53:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 23:53:00 GMT+5 | 키워드+10 | 순위:158위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dDZsdm5BZVJmZmN3X0dPdlhkTU9sT0l1Q3JQNT
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dDZsdm5BZVJmZmN3X0dPdlhkTU9sT0l1Q3JQNTRJb04zOUxHdVQtaS11SnhvWEp0dUJLeXZUWkhxTnNxdjdLb3VRa3ZIZ0IzN1RZQlhSMXJHXzNiQjhlN0JtelJPWkxvWWc?oc=5
-13. ⭐⭐ **[27점]** 2026년 가을 채택 예정 EU 제약법 개정안, 한국 바이오·제약사 전략 대응 시급 - 한국공공정책신문
+   🔗 https://www.finance-scope.com/article/view/scp202606190008
+13. ⭐⭐ **[27점]** 2026년 가을 채택 예정 EU 제약법 개정안, 한국 바이오·제약사 전략 대응 시급 - 한국공공정책신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 17:20:46 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 17:20:46 GMT+5 | 키워드+10 | 순위:160위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ubVY4cVZ4eHd2aVRPeHkwWWtqcXlmcURWSUFMTW
-   🔗 https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ubVY4cVZ4eHd2aVRPeHkwWWtqcXlmcURWSUFMTWZ6RTZ6UVNBeWZCREdLcHF4VXpSQmVGTGtGZGlwM00?oc=5
-14. ⭐⭐ **[27점]** 명인제약, 약가 인하·파트너사 파산 악재 속 발안 신공장 CDMO 사업 ‘주목’ - 뉴스퀘스트
+   🔗 http://knpp.co.kr/news/512647
+14. ⭐⭐ **[27점]** 명인제약, 약가 인하·파트너사 파산 악재 속 발안 신공장 CDMO 사업 ‘주목’ - 뉴스퀘스트 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:28:20 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:28:20 GMT+5 | 키워드+10 | 순위:165위+2
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBBYk1Tc2R5REpaQTNGMnR5aUdINWdFYW95NU5nLX
-   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFBBYk1Tc2R5REpaQTNGMnR5aUdINWdFYW95NU5nLXNCX2JFU1JBZWdMWmZub2ZQNWIxWDhpZFd4dGVvdlJrYWNDeVA3UVl0Z05BQl9LeFYwM0xTQXJzLThiZTAwYzBoMXBxcTk0TEo1WdIBc0FVX3lxTE5LQ3J5b2JoOUFLMklSbmtZWWp2QnJjSVRNYmFobW42UUpIZmpfYjR4aWIzWm5CVnM2TVBWaDNiOV9YbjhQY2ZiU1RWRUJhc2czVndKaUlXZXJPZjUtajhhcWo1el9xU04ydGNiSHpKNjFVeUU?oc=5
-15. ⭐⭐ **[27점]** "PV·GMP 의무화에 약가는 바닥" 한방제약사 원가 폭증위기 - 팜뉴스
+   🔗 https://www.newsquest.co.kr/news/articleView.html?idxno=268128
+15. ⭐⭐ **[27점]** "PV·GMP 의무화에 약가는 바닥" 한방제약사 원가 폭증위기 - 팜뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 20:55:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 20:55:00 GMT+5 | 키워드+10 | 순위:172위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdzBzbFU3MmpqVmVnTXN3MHp6VzZOQnVXUHNua0
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE9OdzBzbFU3MmpqVmVnTXN3MHp6VzZOQnVXUHNua0thNmJxVGFtaUJoYUNqbzFhNWZjNzVram83NjFuaUVjVnBLLU9IRHFVVzVjOXR6ZENOcll4bG9kX09KZmhYdGY4UncxUTJ3SA?oc=5
-16. ⭐⭐ **[27점]** 바이오 USA, 이달 말 개최에 K-제약바이오 총출동…글로벌 파트너십 기대감 ↑ - 마이데일리
+   🔗 https://www.pharmnews.com/news/articleView.html?idxno=304289
+16. ⭐⭐ **[27점]** 바이오 USA, 이달 말 개최에 K-제약바이오 총출동…글로벌 파트너십 기대감 ↑ - 마이데일리 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:16:40 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:16:40 GMT+5 | 키워드+10 | 순위:176위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOVN4b0daYUJfaEpyZTJicDFpVXhlRVloVFNKNl
-   🔗 https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuOVN4b0daYUJfaEpyZTJicDFpVXhlRVloVFNKNl9ZajRNRTFQMk52U3BhYjVkTzBYRW1Rem41ZlF4aEp1Q3BJOS1iNzg0UVRRa1hpQUhhak4zSy1kdjc5MlFWUFpKQQ?oc=5
-17. ⭐⭐ **[27점]** 제약사 ESG 보고서, R&D·신약 파이프라인이 핵심 키워드로 부상 - 코메디닷컴
+   🔗 https://www.mydaily.co.kr/page/view/2026061623494540742
+17. ⭐⭐ **[27점]** 제약사 ESG 보고서, R&D·신약 파이프라인이 핵심 키워드로 부상 - 코메디닷컴 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:36:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:36:00 GMT+5 | 키워드+10 | 순위:177위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HSTBjcG9iWFMtM1gyX29fNm9Cck1HNmNtZnZnUl
-   🔗 https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HSTBjcG9iWFMtM1gyX29fNm9Cck1HNmNtZnZnUlg3YWQzZUFTN1J0RHpSMzlHU2FZeTZDNS1SR2U4UQ?oc=5
+   🔗 https://kormedi.com/2826259/
 18. ⭐ **[22점]** (제약&#183;바이오 미래가치평가)②성장 동력, 셀트리온 선두…해외 매출, 삼바&#183;SK바이오팜
    📰 News Tomato | 🕐 
    📊 출처:News Tomato+10 | 최신:+5 | 키워드+5 | 순위:140위+2
@@ -287,26 +287,26 @@
    📊 출처:한국경제 on MSN+10 | 최신:+5 | 키워드+5 | 순위:153위+2
    💬 삼성바이오로직스는 세계 최대 바이오&#183;제약 박람회인 '2026 바이오 인터내셔널 컨벤션(BIO USA)'에 참가한다고 15일 밝혔다.바이오 인터내셔널 컨벤션은 미국 바이오협
    🔗 https://www.msn.com/ko-kr/money/other/%EC%82%BC%EC%84%B1%EB%B0%94%EC%9D%B4%EC%98%A4%EB%A1%9C%EC%A7%81%EC%8A%A4-bio-usa-%EC%B0%B8%EA%B0%80-14%EB%85%84-%EC%97%B0%EC%86%8D-%EB%8B%A8%EB%8F%85%EB%B6%80%EC%8A%A4-%EB%A7%88%EB%A0%A8-%EC%B0%B8%EA%B0%80/ar-AA25DlC1?ocid=BingNewsVerp
-27. ⭐ **[22점]** '바이오 성장엔진 장착' 휴온스...성장 드라이브 건다 - 팜이데일리
+27. ⭐ **[22점]** '바이오 성장엔진 장착' 휴온스...성장 드라이브 건다 - 팜이데일리 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:00:11 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:00:11 GMT+5 | 키워드+5 | 순위:156위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jck9HZkJfanhSNlFGd2V5YXZXbS1QNVcwdVVqMz
-   🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE5Jck9HZkJfanhSNlFGd2V5YXZXbS1QNVcwdVVqMzlWb08tZE5Ud2Z6N0NFZ0pMMUNNZFBPcGZkZG1ZWkVBb2wwUTVNSU0zY2ZNa1BHcTdRZWpNREdhNnNtbUhwemNfZVJyelUtaGJ3?oc=5
-28. ⭐ **[22점]** 토종제약, GLP-1 '영토 확장' 무한경쟁...독자 모달리티로 틈새시장 공략 - 팜뉴스
+   🔗 https://pharm.edaily.co.kr/News/Read?newsId=02289446645483360
+28. ⭐ **[22점]** 토종제약, GLP-1 '영토 확장' 무한경쟁...독자 모달리티로 틈새시장 공략 - 팜뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:00:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:00:00 GMT+5 | 키워드+5 | 순위:157위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE42ckkxbGQ0akhsMWgzYWh0MDRMWFB1Zkdra1NvNW
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE42ckkxbGQ0akhsMWgzYWh0MDRMWFB1Zkdra1NvNWNRbmU2SVpWUnRGR1liMXFLQkZ6NHU3eDk4WEJzOEhGZ1dfc3hySG5zR0FjcFVxQkpTaE13QWNfRmFESURrN0VQMWZhR0lyTQ?oc=5
-29. ⭐ **[22점]** 의수협, CPHI & PMEC China 2026 한국관 참가 - 의약뉴스
+   🔗 https://www.pharmnews.com/news/articleView.html?idxno=304287
+29. ⭐ **[22점]** 의수협, CPHI & PMEC China 2026 한국관 참가 - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 13:11:15 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 13:11:15 GMT+5 | 키워드+5 | 순위:159위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZH
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5
-30. ⭐ **[22점]** '혁신신약 천하' 중국 제약시장…K-바이오 새 기회 열리나 - 식약일보
+   🔗 http://www.newsmp.com/news/articleView.html?idxno=254893
+30. ⭐ **[22점]** '혁신신약 천하' 중국 제약시장…K-바이오 새 기회 열리나 - 식약일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:28:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:28:00 GMT+5 | 키워드+5 | 순위:161위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiQEFVX3lxTE56U3phbUUtLThkUDg0cG5wV1VOeTdwaVNHWE0xY0
-   🔗 https://news.google.com/rss/articles/CBMiQEFVX3lxTE56U3phbUUtLThkUDg0cG5wV1VOeTdwaVNHWE0xY0FBSWNXeXdJWkFtbmRTdUhYc21UMUNXXzA0YTQ?oc=5
+   🔗 http://www.kfdn.co.kr/72610
 
 ### 📋 의약정책 (19건)
 1. ⭐⭐⭐⭐ **[66점]** 2013년 등재 복합제도 조합 성분따라 올해 약가인하 시작
@@ -339,71 +339,71 @@
    📊 출처:세계일보 on MSN+10 | 최신:+5 | 키워드+10 | 순위:60위+2
    💬 정부가 성인 중증 원형 탈모증 환자의 치료제에 대한 건강보험 급여 기준을 대폭 확대한다. 이에 따라 기존 치료제로 효과를 보지 못했던 중증 환자들의 경제적 부담이 크게 줄어들 전망
    🔗 https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%ED%95%9C-%EB%8B%AC-%EC%95%BD%EA%B0%92-%EC%88%98%EC%8B%AD%EB%A7%8C-%EC%9B%90-%EB%9A%9D-%EC%A4%91%EC%A6%9D-%ED%83%88%EB%AA%A8-%EC%B9%98%EB%A3%8C%EC%A0%9C-7%EC%9B%94%EB%B6%80%ED%84%B0-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EC%A0%81%EC%9A%A9/ar-AA260x63?ocid=BingNewsVerp
-7. ⭐⭐ **[27점]** 중증 원형 탈모 치료제 건강보험 급여 확대 - 연합뉴스
+7. ⭐⭐ **[27점]** 중증 원형 탈모 치료제 건강보험 급여 확대 - 연합뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:11:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:11:00 GMT+5 | 키워드+10 | 순위:71위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcmxJcDdUYTNmYmttLVVrdjVEU3hGWDFHM0pjLX
-   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcmxJcDdUYTNmYmttLVVrdjVEU3hGWDFHM0pjLXg5UzVZbi03OGZwQWNxYVRLS1FOMFNVYVFBbWZYbUhSbUEwOGp5OHJ2SzQ4REttTXBUd29mcWfSAWBBVV95cUxQTjdUdHdEUGdLc3EwYmc0d3gxQ3ppUjNRX1hIbjEyUHBIX1FheVd2a2tHQk5iVjdSaDdOR3ZWYkFvcVdZeWE5MXBmYmFlcDB5Z3ctYU56QTZaMURqSFozLUg?oc=5
-8. ⭐⭐ **[27점]** 중증 원형 탈모 치료제 건강보험 급여 확대 - 네이트
+   🔗 https://www.yna.co.kr/view/AKR20260618109800530
+8. ⭐⭐ **[27점]** 중증 원형 탈모 치료제 건강보험 급여 확대 - 네이트 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:12:05 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:12:05 GMT+5 | 키워드+10 | 순위:75위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVlhsVEVSUkYzbmdTaUdObkVOaW5qS2kwT2Ytd2
-   🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vVlhsVEVSUkYzbmdTaUdObkVOaW5qS2kwT2Ytd2xaV3NIM1ZJYW5rVzIta1RFak5CMFhkOFpoMENUdDVqTFBRd2Z4enh0S2lqdWVB?oc=5
-9. ⭐ **[22점]** 늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나? - 데일리팜
+   🔗 https://news.nate.com/view/20260619n03259
+9. ⭐ **[22점]** 늘어난 신약만큼 쌓여가는 비급여 항암제, 해법은 있나? - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:55:16 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:55:16 GMT+5 | 키워드+5 | 순위:64위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTVEzRnlCOTNITWRyUW51NXRPbUstcG9xTFVlaG
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTVEzRnlCOTNITWRyUW51NXRPbUstcG9xTFVlaGcyR2s0dHF6M29VeGpYLVNNa0RNeGlkRHE0aVpqczMwYjBHZkVoQkZ4cUJLRUYtNGU2MlFEeWtIa2h2b3c1ZExSUVU?oc=5
-10. ⭐ **[22점]** 기등재약 상한금액 재평가 논의 본격화… 대상·산정방식 제시 - 히트뉴스
+   🔗 https://www.dailypharm.com/user/news/339454?view_mode=pc
+10. ⭐ **[22점]** 기등재약 상한금액 재평가 논의 본격화… 대상·산정방식 제시 - 히트뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:02:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:02:00 GMT+5 | 키워드+5 | 순위:65위+2
    💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVXV4Y05CZ1dkVUx0Mkx6TjJKS0VnbmpqcHh3Zm
-   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE5CVXV4Y05CZ1dkVUx0Mkx6TjJKS0VnbmpqcHh3Zm5pSXNBNWUtX1htYUJNZTNNdDFKdFY2bzRSSnlVU3BrN09hSHFMQnQ5eFg0d3c0SWN5dWVFZjBzNExjNGZwNXR1eTRGeUpz?oc=5
-11. ⭐ **[22점]** 제약산업 육성 민관협의체 7월로 연기…복지부 대규모 조직개편 '여파' - 뉴스더보이스헬스케어
+   🔗 https://www.hitnews.co.kr/news/articleView.html?idxno=76986
+11. ⭐ **[22점]** 제약산업 육성 민관협의체 7월로 연기…복지부 대규모 조직개편 '여파' - 뉴스더보이스헬스케어 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:02:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:02:00 GMT+5 | 키워드+5 | 순위:66위+2
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLW
-   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5
-12. ⭐ **[22점]** 의수협 ‘CPHI China 2026’ 참가… K-제약 중국 영토 확장 나서 - 의학신문
+   🔗 https://www.newsthevoice.com/news/articleView.html?idxno=46244
+12. ⭐ **[22점]** 의수협 ‘CPHI China 2026’ 참가… K-제약 중국 영토 확장 나서 - 의학신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 13:46:19 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 13:46:19 GMT+5 | 키워드+5 | 순위:67위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RE5KVzBNSlU3cnRyanFmNmFSZ2F3MnhIalJWRW
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFA5RE5KVzBNSlU3cnRyanFmNmFSZ2F3MnhIalJWRW5lcmV6a0MtQ08wRjVNUG9HUnlrSE0xaHB0bG5DdF8wcDVQaFpxT0VsSldBd2pyaVZqVkRwS1VvaktzZksySzQ3SnVJLVE?oc=5
-13. ⭐ **[22점]** 의수협, CPHI & PMEC China 2026 한국관 참가 - 의약뉴스
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3006579
+13. ⭐ **[22점]** 의수협, CPHI & PMEC China 2026 한국관 참가 - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 13:11:15 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 13:11:15 GMT+5 | 키워드+5 | 순위:68위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZH
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGVmd3MjFVdkctTEVsMGZIdktBNl95LUNJdm5VZHFLT2ZrN0NfUDZqZWlyYzFKT1NiaWVqMHV3NmEtMmpLQmVGTEhrMEF0SlBKYjR1NUR0dHgxaTB2Vk9JaTdmbHE0R1E?oc=5
-14. ⭐ **[22점]** [혁신형 제약기업 점검]⑤ 일동제약, 인증 방패 쥐고 R&D 내재화 - v.daum.net
+   🔗 http://www.newsmp.com/news/articleView.html?idxno=254893
+14. ⭐ **[22점]** [혁신형 제약기업 점검]⑤ 일동제약, 인증 방패 쥐고 R&D 내재화 - v.daum.net 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:59:49 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:59:49 GMT+5 | 키워드+5 | 순위:69위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFBldXlzTkRwWERFdmdPTGkzWDlaMy0xY2RiQXI0RT
-   🔗 https://news.google.com/rss/articles/CBMiRkFVX3lxTFBldXlzTkRwWERFdmdPTGkzWDlaMy0xY2RiQXI0RTl0ZGttZjUtd3FSYXJZMWNtdXdIeUp0UUIwS1dBTFJISnc?oc=5
-15. ⭐ **[22점]** '혁신신약 천하' 중국 제약시장…K-바이오 새 기회 열리나 - 식약일보
+   🔗 https://v.daum.net/v/BHq2jGGhT2
+15. ⭐ **[22점]** '혁신신약 천하' 중국 제약시장…K-바이오 새 기회 열리나 - 식약일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:28:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:28:00 GMT+5 | 키워드+5 | 순위:70위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mN1RMTzFBaHRrRnVzM2tYQkdRMHNOWGUxMkxDMU
-   🔗 https://news.google.com/rss/articles/CBMiO0FVX3lxTE5mN1RMTzFBaHRrRnVzM2tYQkdRMHNOWGUxMkxDMUx4OGozTU9GLUxncmRMU09nTnl6NEl3?oc=5
-16. ⭐ **[22점]** 탈모약 급여 논란…"중요도 후순위" Vs "논의 자체 의미" - 데일리팜
+   🔗 http://kfdn.co.kr/72610
+16. ⭐ **[22점]** 탈모약 급여 논란…"중요도 후순위" Vs "논의 자체 의미" - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:00:56 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:00:56 GMT+5 | 키워드+5 | 순위:72위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U3hGNjVzcnFrRTRLOGhpdkY5WW80ZVNjM2JrUW
-   🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE95U3hGNjVzcnFrRTRLOGhpdkY5WW80ZVNjM2JrUWQ5eTZDRnQtVWFEbjBNTnRjOWt2SXpCYnQtc2RrZFdMQUx4SXF4NmRlaE9IdWRpVS1fZG9PSk5EaVZfREtR?oc=5
-17. ⭐ **[22점]** '예스카타', 2보 전진 위해 1보 후퇴...2차 급여 타깃 - 데일리팜
+   🔗 https://dailypharm.com/user/news/339580?view_mode=pc
+17. ⭐ **[22점]** '예스카타', 2보 전진 위해 1보 후퇴...2차 급여 타깃 - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 17:50:25 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 17:50:25 GMT+5 | 키워드+5 | 순위:73위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uNFVXS0tGUzJBYmxENkdxSk81blpSakN2dkFTTE
-   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uNFVXS0tGUzJBYmxENkdxSk81blpSakN2dkFTTENuSTZ1ZE1TODdHSTNBWHhjR1hMRHpnVUVhcDMtYzhBZ01TRTRtSUhWVkI1?oc=5
-18. ⭐ **[22점]** '롤론티스오토인젝터주' 급여 등재… '렉라자' RSA 재계약 - 히트뉴스
+   🔗 https://dailypharm.com/user/news/339535
+18. ⭐ **[22점]** '롤론티스오토인젝터주' 급여 등재… '렉라자' RSA 재계약 - 히트뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:03:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:03:00 GMT+5 | 키워드+5 | 순위:74위+2
    💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UW
-   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTFB2V3d5S21wZ0J0MXFfYjU0X2g4Vmt5UkVLNGV4UWZrQ3RzaUZRNnJONVlaci02aHdDcUh4Tlo3UmV0QmpTeEZ5Y1kyZ2pLZzFONGNTbjNoYl9Rek0zejl2T2V6ZHRRdFBUb0k4?oc=5
-19. ⭐ **[22점]** 연 4000억 P-CAB 시장, 제네릭 '조기 진입' 총력전 - 데일리팜
+   🔗 https://www.hitnews.co.kr/news/articleView.html?idxno=76988
+19. ⭐ **[22점]** 연 4000억 P-CAB 시장, 제네릭 '조기 진입' 총력전 - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 18:00:34 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 18:00:34 GMT+5 | 키워드+5 | 순위:76위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE80aml5WndBSDdRak1raWlSV1B0cnhnRGJHdVBsVE
-   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE80aml5WndBSDdRak1raWlSV1B0cnhnRGJHdVBsVExicXp4ZDVTM2l4SzA1RHZ3Rm03RmRobkwtS3Jxb1M5OGFXVGd2Rkl0TWFY?oc=5
+   🔗 https://dailypharm.com/user/news/339529
 
 ### 🤝 의약단체 (13건)
 1. ⭐⭐ **[42점]** [바이오스냅] 국가바이오혁신위원회&#183;제약바이오협회 간담회
@@ -416,61 +416,61 @@
    📊 출처:EBN+24 | 최신:+5 | 키워드+5 | 순위:40위+2
    💬 한국바이오협회가 '바이오 USA 2026'에서 한국관 운영과 공식 세션, 글로벌 네트워킹 프로그램을 통해 국내 바이오기업의 해외 진출과 글로벌 파트너링 확대를 지원한다. 한국바이오
    🔗 https://www.ebn.co.kr/news/articleView.html?idxno=1712621
-3. ⭐⭐ **[27점]** 전문약 조제 한약사 약국 '불송치'…약사회, 수사심의 신청 - 데일리팜
+3. ⭐⭐ **[27점]** 전문약 조제 한약사 약국 '불송치'…약사회, 수사심의 신청 - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:25:57 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:25:57 GMT+5 | 키워드+10 | 순위:44위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4Nm
-   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5
-4. ⭐⭐ **[27점]** 대한한약사회 “약정협의체, 특정 직능 아닌 국민 건강 위해 운영해야” - 의약뉴스
+   🔗 https://dailypharm.com/user/news/339496
+4. ⭐⭐ **[27점]** 대한한약사회 “약정협의체, 특정 직능 아닌 국민 건강 위해 운영해야” - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:38:23 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:38:23 GMT+5 | 키워드+10 | 순위:45위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYU
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5
-5. ⭐⭐ **[27점]** 인천시약사회, '창고형 약국 대응 방안 모색' 정책 토론회 개최 - 팜뉴스
+   🔗 http://www.newsmp.com/news/articleView.html?idxno=254854
+5. ⭐⭐ **[27점]** 인천시약사회, '창고형 약국 대응 방안 모색' 정책 토론회 개최 - 팜뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:16:03 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:16:03 GMT+5 | 키워드+10 | 순위:46위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBJLVhlM3VkQTJCUGNtWTRlQzUxSDFzVkZBZE9TTj
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFBJLVhlM3VkQTJCUGNtWTRlQzUxSDFzVkZBZE9TTjBWZXJzZmNhUm9OQ3JyZFVibC1YNEdWY3N6UF9JTmk4MGk1QUpGbDAybHhhS1gwRnlkbmpFMTcxZVEtX0k3Z2V4R3Z6Z3RnRw?oc=5
-6. ⭐⭐ **[27점]** 인천시약, 창고형약국 대응 토론회 개최…“가격 경쟁서 전문성 경쟁으로” - 약사공론
+   🔗 https://www.pharmnews.com/news/articleView.html?idxno=304282
+6. ⭐⭐ **[27점]** 인천시약, 창고형약국 대응 토론회 개최…“가격 경쟁서 전문성 경쟁으로” - 약사공론 🔄
    📰  | 🕐 Thu, 18 Jun 2026 14:09:59 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 14:09:59 GMT+5 | 키워드+10 | 순위:47위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRU5yNDNQLU1IVGJDYk96X1dLQ0twcjhpaHVSdD
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE9kRU5yNDNQLU1IVGJDYk96X1dLQ0twcjhpaHVSdDB0ZGtWLWY4VUdsVHJILXdyekQyMkUzeHNXSlg4TjVIVU1BZ3g3R2JPRmlSdGlOb241ZDJ5RU95MXdlVFVpT0U4dG9lSzNMZg?oc=5
-7. ⭐⭐ **[27점]** 경기도약사회 분회장협의회, 편의점 상비약 확대 철회 촉구 外 - 의약뉴스
+   🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=537018
+7. ⭐⭐ **[27점]** 경기도약사회 분회장협의회, 편의점 상비약 확대 철회 촉구 外 - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 12:27:05 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 12:27:05 GMT+5 | 키워드+10 | 순위:49위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VW1IamxkX1Rtclp1ZzdNVXR5WHh4SG5wZXlBY2
-   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE56VW1IamxkX1Rtclp1ZzdNVXR5WHh4SG5wZXlBY25oZWlZb0ltMXBzOWljeDZ3REJ1NW0yRGlrdndiRnh2bnh2X3BwU2lwWGdSclQ0aEU3ZDZDaEFuaURCX2UwZVVRNWJv?oc=5
+   🔗 https://www.newsmp.com/news/articleView.html?idxno=254881
 8. ⭐ **[22점]** 국가바이오혁신위원회, 제약바이오업계 CEO와 현장 소통
    📰 이투데이 on MSN | 🕐 
    📊 출처:이투데이 on MSN+10 | 최신:+5 | 키워드+5 | 순위:42위+2
    💬 국가바이오혁신위원회는 15일 서울 중구 서울스퀘어에서 한국제약바이오협회 이사장단과 간담회를 갖고 국내 제약바이오 혁신 생태계 조성과 글로벌 경쟁력 강화를 위한 현장 의견을 청취했다
    🔗 https://www.msn.com/ko-kr/money/other/%EA%B5%AD%EA%B0%80%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%81%EC%8B%A0%EC%9C%84%EC%9B%90%ED%9A%8C-%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%EC%97%85%EA%B3%84-ceo%EC%99%80-%ED%98%84%EC%9E%A5-%EC%86%8C%ED%86%B5/ar-AA25EpFt?ocid=BingNewsVerp
-9. ⭐ **[22점]** ‘CSO 맑은 물’ 조성에 팔 걷은 업계 … 법제화로 “흙탕물 청소” - 메디소비자뉴스
+9. ⭐ **[22점]** ‘CSO 맑은 물’ 조성에 팔 걷은 업계 … 법제화로 “흙탕물 청소” - 메디소비자뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 20:26:13 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 20:26:13 GMT+5 | 키워드+5 | 순위:43위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9sdEpxOXZQUWJ0NWVhNHROYURTYnRTdmJHNEpVME
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE9sdEpxOXZQUWJ0NWVhNHROYURTYnRTdmJHNEpVMENRQ2kydTBzajlLWEl4c2ZVX0UwbVJvdV83UEpZSUgzbnd3d28xMmpkRThfT3ZuQVVFblhMZVpKbnJOanJISEZDQkVNTW12OHpMWUdBZ9IBdkFVX3lxTE96ZUR6TF9IWWc1bXF4S2VjT2MwMkJobVZfS3FfRjI2S2xtQTJPUHdxNkZxLWNxVF95NVpKdmVUU1RYS3ZzQzNGeXBYcVloYXliOTQ4V3VFRDRJWmp6UE5VYkdBdjh5NmtDakdqWnJQelE2NF9Fa0E?oc=5
-10. ⭐ **[22점]** 경기도 분회장들 "편의점 상비약 확대 정책 즉각 철회를" - 데일리팜
+   🔗 http://www.medisobizanews.com/news/articleView.html?idxno=139537
+10. ⭐ **[22점]** 경기도 분회장들 "편의점 상비약 확대 정책 즉각 철회를" - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 18:00:40 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 18:00:40 GMT+5 | 키워드+5 | 순위:48위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE13T0JHTVN6Z0R4MVZxNU9UTDRBcTlYRTVvSUo2Z3
-   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE13T0JHTVN6Z0R4MVZxNU9UTDRBcTlYRTVvSUo2Z3NHTUZEZjd5ZTJuaXJEUWI3RjhkakJsNDdEaWRfaVhLYk1Xckx0Y2RpMzU5?oc=5
-11. ⭐ **[22점]** 인천시약, 창고형약국 대응 토론회…"가격보다 전문성 경쟁을" - 데일리팜
+   🔗 https://dailypharm.com/user/news/339570
+11. ⭐ **[22점]** 인천시약, 창고형약국 대응 토론회…"가격보다 전문성 경쟁을" - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:25:04 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:25:04 GMT+5 | 키워드+5 | 순위:50위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NU1RlOG14V2k1N3RzR29QSm5NZlg0UmY3X052Yn
-   🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NU1RlOG14V2k1N3RzR29QSm5NZlg0UmY3X052YnVFa24xbUpmYU5IRDdlN3RGdHVrZ2psLTQzUWd2UEtSUzhFZ0VsemEycmRzTlNLUmhB?oc=5
-12. ⭐ **[22점]** 제약산업 육성 민관협의체 7월로 연기…복지부 대규모 조직개편 '여파' - 뉴스더보이스헬스케어
+   🔗 https://www.dailypharm.com/user/news/339571
+12. ⭐ **[22점]** 제약산업 육성 민관협의체 7월로 연기…복지부 대규모 조직개편 '여파' - 뉴스더보이스헬스케어 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:02:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:02:00 GMT+5 | 키워드+5 | 순위:51위+2
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLW
-   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE1OZjBYMGxHLUtBNm4tTVZsY1ByaFF0VzNaNmRFLWVTWUhVNFBkRVNCdXRvQnRJNHN2a0FPU2NrR1pHV1Z5YVRhNC15amt3c0dYczRfZTVTT1V2NEhsMy1RLUYyZlJ5LXU0ZHpmSThSVQ?oc=5
-13. ⭐ **[22점]** 국내 제약바이오기업 ‘바이오 USA’ 총출동 - 의학신문
+   🔗 https://www.newsthevoice.com/news/articleView.html?idxno=46244
+13. ⭐ **[22점]** 국내 제약바이오기업 ‘바이오 USA’ 총출동 - 의학신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:00:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:00:00 GMT+5 | 키워드+5 | 순위:52위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMV
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1USnl2Q1BPd1lpQW9Id01jSlg1OTY1VFdlWE1hMVpPR0dYYnA4RG0yQ1daemZjOEtuNmNMVHREVUtXWmlfdHJ1QWVqdmVXb1dKcEZGakhHamdYRVpUOWk4ZnY0bmo3ZTkwaXc?oc=5
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3006571
 
 ### 🏛️ 의약관련정부기관 (12건)
 1. ⭐⭐⭐ **[45점]** 기다리다 숨지는 일 없게, 신약 '240일 허가' 시대 여는 식약처
@@ -513,26 +513,26 @@
    📊 출처:IT조선 on MSN+10 | 최신:+5 | 키워드+10 | 순위:42위+2
    💬 식품의약품안전처가 해외 비관세 장벽 해소와 국제 표준화 작업을 통해 K푸드와 푸드테크 기업의 수출 지원을 강화하고 있다. 식약처는 국가별 규제 대응으로 수출 애로를 해결하는 한편 
    🔗 https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EA%B7%9C%EC%A0%9C-%EC%9E%A5%EB%B2%BD-%EB%84%98%EB%8A%94-k%ED%91%B8%EB%93%9C-%EC%8B%9D%EC%95%BD%EC%B2%98-%EC%84%A0%EC%A0%9C%EC%A0%81-%EC%A7%80%EC%9B%90-%EA%B0%95%ED%99%94/ar-AA25gCtA?ocid=BingNewsVerp
-9. ⭐⭐ **[27점]** 식약처 의료용 마약류 오남용, "철저한 감시와 엄정한 제재로 단호히 끊어내겠습니다" - 도민연합뉴스
+9. ⭐⭐ **[27점]** 식약처 의료용 마약류 오남용, "철저한 감시와 엄정한 제재로 단호히 끊어내겠습니다" - 도민연합뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 11:14:53 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 11:14:53 GMT+5 | 키워드+10 | 순위:47위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vd19vSlMwQ1I2TVBUM3pvekNMN1R1bnYxYmVnUE
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5Vd19vSlMwQ1I2TVBUM3pvekNMN1R1bnYxYmVnUEtSV3dTTXNqbzFyQVVXMWlfRUYzQnM4aEpkaUQwUlFmajNfdUc4enRjeVVHRnJmZm50SlljME43cXExRElWVVhfVDB5Snc?oc=5
-10. ⭐ **[22점]** 의료용 마약류 오남용 엄단…징벌적 과징금 도입, AI 활용 감시 강화 - 대한민국 정책브리핑
+   🔗 https://www.krcom.co.kr/news/articleView.html?idxno=168835
+10. ⭐ **[22점]** 의료용 마약류 오남용 엄단…징벌적 과징금 도입, AI 활용 감시 강화 - 대한민국 정책브리핑 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:10:43 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:10:43 GMT+5 | 키워드+5 | 순위:45위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBYN0lTTHBVR0dtSkR5WTVGRzNaSkVHOS1VVTREeV
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFBYN0lTTHBVR0dtSkR5WTVGRzNaSkVHOS1VVTREeV9ZaG9aVHdtNmpWT2hxMzJsNkNPNHRCVUdUYU5UcWEzdUM2aWRoWktjREdMSjRiMzFHSWJ1bWRmcV90Qkxfb1gycE1ITjQ4WQ?oc=5
-11. ⭐ **[22점]** 하반기부터 마약류취급자 종업원 지도·감독 의무화 - 데일리팜
+   🔗 https://www.korea.kr/news/policyNewsView.do?newsId=148966787
+11. ⭐ **[22점]** 하반기부터 마약류취급자 종업원 지도·감독 의무화 - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 20:30:31 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 20:30:31 GMT+5 | 키워드+5 | 순위:46위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMUFIOVpWZ1U4TUp6czdBY2xyVEV6Q0MtcTZ6M0
-   🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vMUFIOVpWZ1U4TUp6czdBY2xyVEV6Q0MtcTZ6M0FoM1ZmRWFRTy0wSVF6aVhSRGo1TU1uaXFreFJqOVhqa3plMTNzUGNDbERnY3M5enJB?oc=5
-12. ⭐ **[22점]** 동아제약, 의약외품 모바일 간편검색서비스 도입 外 - 의약뉴스
+   🔗 https://www.dailypharm.com/user/news/339567
+12. ⭐ **[22점]** 동아제약, 의약외품 모바일 간편검색서비스 도입 外 - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 13:18:07 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 13:18:07 GMT+5 | 키워드+5 | 순위:48위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT2JrdFFpbEwxQUpOZDRkcDZxMlE1ck5nWERnbn
-   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUT2JrdFFpbEwxQUpOZDRkcDZxMlE1ck5nWERnbnF2U1NkWEotNTVRaVNqanZPQ2JudHJVTHZUNHZvUXBoWXd3cUxCLUctVXk0eVlKOWVuVzJxYVhsbXZWdDltSjUxYmp6?oc=5
+   🔗 https://www.newsmp.com/news/articleView.html?idxno=254894
 
 ### 🏥 의료현장 (8건)
 1. ⭐⭐⭐ **[46점]** 의협&#183;의료배상공제조합, 오는 27일 ‘의료분쟁예방연수교육’ 개최
@@ -565,16 +565,16 @@
    📊 출처:글로벌이코노믹 on MSN+10 | 최신:23시간+10 | 키워드+5 | 순위:26위+2
    💬 의료사고 발생 시 개설자의 책임보험 가입이 의무화되는 법적 변화를 앞두고, 의료계가 현장 중심의 법률 방어책 마련에 나섰다. 일선 진료실에서 빈발하는 악성 민원과 법적 분쟁을 예방
    🔗 https://www.msn.com/ko-kr/news/other/%EB%B2%95-%EA%B0%9C%EC%A0%95-%EC%95%9E%EB%91%94-%EC%9D%98%EB%A3%8C%EA%B3%84-%EC%86%8C%EC%86%A1-%EB%AF%BC%EC%9B%90-%EB%B0%A9%EC%96%B4-%EC%8B%A4%EB%AC%B4-%EA%B5%90%EC%9C%A1-%EB%82%98%EC%84%A0%EB%8B%A4/ar-AA25V3xm?ocid=BingNewsVerp
-7. ⭐⭐ **[27점]** 2027년 5월 시행 '의료분쟁조정법'… 12대 중과실, 고위험 필수의료 범위 등 "난제 수두룩" - 경기메디뉴스
+7. ⭐⭐ **[27점]** 2027년 5월 시행 '의료분쟁조정법'… 12대 중과실, 고위험 필수의료 범위 등 "난제 수두룩" - 경기메디뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 13:15:51 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 13:15:51 GMT+5 | 키워드+10 | 순위:31위+2
    💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTEcxRExGREJ0WFgybnRXNTZBYWE5NC1uV2FHWE
-   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTEcxRExGREJ0WFgybnRXNTZBYWE5NC1uV2FHWEF6NE1UcXV3a2lEWDhyRGhfcEdpbHZZNV9seWJuYWhscmtjY041aUpLV18yYTNLTUJPNDVjZkhyeXNPSm44QjNaYU1QTC13?oc=5
-8. ⭐⭐ **[27점]** 소송·악성 민원에 흔들리는 의료현장…의협, 법적 예방책 교육 마련 - 더퍼블릭
+   🔗 https://www.ggmedinews.com/news/articleView.html?idxno=6587
+8. ⭐⭐ **[27점]** 소송·악성 민원에 흔들리는 의료현장…의협, 법적 예방책 교육 마련 - 더퍼블릭 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:40:32 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:40:32 GMT+5 | 키워드+10 | 순위:32위+2
    💬 <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZXJfTnhLc1lzQWhGYkw3V052dFM5MmdJQWdFV2
-   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZXJfTnhLc1lzQWhGYkw3V052dFM5MmdJQWdFV2JLeU1USWE2ekNYSzBiclkweUhhZXgtSjl0Si1IWUt1U04xOWVBRF9IaXFLSmo5OW5rM2RLc0ZLSV8tSUl6aGlMdGhQLXhN0gFvQVVfeXFMTzNPakdJYXJvd1p3cExnNlNFNm9fcEtBeU1nNmx3c3hkanpuck9BZFFXR2F6NzJHczJFSllzWENWekl6d3dVWTJzbWVGYXp3bTFSQzBxcGp6ZzJlWWYyY3FhZk5yTUJyal80SVBqWGU0?oc=5
+   🔗 https://www.thepublic.kr/news/articleView.html?idxno=308184
 
 ### 💊 약국·약사 (4건)
 1. ⭐⭐ **[44점]** '창고형 약국'發 지각변동…'매약' 지고 '처방' 뜬다
@@ -587,16 +587,16 @@
    📊 출처:KPA News+18 | 최신:18시간+10 | 키워드+5 | 순위:13위+10
    💬 기사의 본문 내용은 이 글자크기로 변경됩니다. 약국은 더 이상 단순히 처방전을 조제하고 의약품을 판매하는 공간에 머물지 않는다. 환자 경험을 고려한 공간 설계부터 디지털 시스템 도
    🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=536889
-3. ⭐⭐ **[30점]** 전문약 조제 한약사 약국 '불송치'…약사회, 수사심의 신청 - 데일리팜
+3. ⭐⭐ **[30점]** 전문약 조제 한약사 약국 '불송치'…약사회, 수사심의 신청 - 데일리팜 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:25:57 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:25:57 GMT+5 | 키워드+5 | 순위:15위+10
    💬 <a href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4Nm
-   🔗 https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTkdYZENxNE1CSTVsX3BsM0N1NVU2YUFGNVJ4NmtCQTdLNFF3Ti1Mb2JDb3pRamo3dmhURjFTNGtIRVJUZW9jZWtjeHJrR2VS?oc=5
-4. ⭐⭐ **[25점]** 대한한약사회 “약정협의체, 특정 직능 아닌 국민 건강 위해 운영해야” - 의약뉴스
+   🔗 https://dailypharm.com/user/news/339496
+4. ⭐⭐ **[25점]** 대한한약사회 “약정협의체, 특정 직능 아닌 국민 건강 위해 운영해야” - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:38:23 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:38:23 GMT+5 | 키워드+5 | 순위:16위+5
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYU
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mbHUzSUVCMmw1d1JFWjJjREM4R0lFbk5PeTRXYURyODRuSGFZR0U0SldEVWNRNHRFSDdJWF9Gb3hzU0h0bnZFTUt1TkVMUGk4YlE4bzNtMDFzWUI0c0V1V2VDMXNBSVU?oc=5
+   🔗 http://www.newsmp.com/news/articleView.html?idxno=254854
 
 ### 🩺 의료정책·인력 (20건)
 1. ⭐⭐⭐ **[45점]** 정은경 장관 &quot;생명 존중 복지국가&#183;필수의료 혁신 본격화&quot;
@@ -639,73 +639,73 @@
    📊 출처:파이낸셜뉴스 on MSN+10 | 최신:+5 | 키워드+10 | 순위:67위+2
    💬 정부가 노인 빈곤율을 낮추기 위해 올해 하반기 '하후상박형'으로 기초연금을 개편하고 통합돌봄 정책도 확대한다. 지역 필수의료 강화 등 의료개혁 과제를 본격 추진하고 탈모 치료 건강
    🔗 https://www.msn.com/ko-kr/news/other/%EC%B2%AD%EB%85%84-%ED%83%88%EB%AA%A8-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EB%90%A0%EA%B9%8C-%EC%A0%95%EB%B6%80-7%EC%9B%94-%EC%B4%88-%EA%B3%B5%EB%A1%A0%ED%99%94-%EA%B1%B0%EC%B3%90-%EA%B2%B0%EC%A0%95/ar-AA25BMyy?ocid=BingNewsVerp
-9. ⭐⭐ **[27점]** “영상검사 희생해 필수의료 살릴 수 없다” - 헬스포커스뉴스
+9. ⭐⭐ **[27점]** “영상검사 희생해 필수의료 살릴 수 없다” - 헬스포커스뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 15:00:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 15:00:00 GMT+5 | 키워드+10 | 순위:70위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTFB0cXN4RVlidi1BeUdQdG5aMVZtSXdjcWZ3UXRnOX
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFB0cXN4RVlidi1BeUdQdG5aMVZtSXdjcWZ3UXRnOXJHVUZVRldfNXZkSmxnQTI5N1JIVUZxVWQyMUF3QmwxNk9lNWc1d0pXMDlaWGRaZS1za1ZRX0JaTFdHc0N0UW5xSmx1UmI2WW4xa2FRdw?oc=5
-10. ⭐⭐ **[27점]** 화순전남대병원, 지역·필수의료 원외 협의체 개최 - v.daum.net
+   🔗 https://www.healthfocus.co.kr/news/articleView.html?idxno=209215
+10. ⭐⭐ **[27점]** 화순전남대병원, 지역·필수의료 원외 협의체 개최 - v.daum.net 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:36:30 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:36:30 GMT+5 | 키워드+10 | 순위:71위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZTWJYWWJuU1ZOS2tMZjgybDZkaW95ZFlQQ0pkQ3
-   🔗 https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZTWJYWWJuU1ZOS2tMZjgybDZkaW95ZFlQQ0pkQ3czR19qX1dmQlZQemhEWkVDTkpRU05pVFN3XzVoQl8zZGFXZE16bw?oc=5
-11. ⭐⭐ **[27점]** '페이백' 논란 요양병원…의협 "의료법 위발 고발" - 뉴시스
+   🔗 https://v.daum.net/v/qJl3cXXSN8?f=p
+11. ⭐⭐ **[27점]** '페이백' 논란 요양병원…의협 "의료법 위발 고발" - 뉴시스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:30:05 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:30:05 GMT+5 | 키워드+10 | 순위:78위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVUV1QkdhRWhJMkZfWXBjOGc5VnJKYVB1OFY2Vn
-   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRVUV1QkdhRWhJMkZfWXBjOGc5VnJKYVB1OFY2VnBZczkwOFgxazhzQ1ZUVWdoSk5fOVJlM1prOExYTlEyamhudWI1VlV2akFMSzU1MlNmUFNYRjdzTG5JbNIBeEFVX3lxTE4zTEdzYmRRZU4tRHJZcE9ManQyODRSU1pJUGNnU0R2WU1fbW4zeEMwYXNub2pvbWRoNTAzOHdXRUNZbV81Z0RZZWp4MjBOZGYzckhjUENqRHFIU1NmNlFYRnVMeE9Lazl2TEZNNnlxeXV6bVNrdTg4bQ?oc=5
-12. ⭐ **[22점]** 상급종합병원 지정평가 ‘역대급 반전’ 촉각 - 데일리메디
+   🔗 https://www.newsis.com/view/NISX20260618_0003674754
+12. ⭐ **[22점]** 상급종합병원 지정평가 ‘역대급 반전’ 촉각 - 데일리메디 🔄
    📰  | 🕐 Thu, 18 Jun 2026 20:21:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 20:21:00 GMT+5 | 키워드+5 | 순위:69위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYzJXWlhqdTM3ZlpNb1k1ajZVZzVxb2pkVHdNdH
-   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EYzJXWlhqdTM3ZlpNb1k1ajZVZzVxb2pkVHdNdHBfeXp5RXhJYnFMcnFZODdZOTJXTmZVT2JVQ1V3bmVyNTduNkNTWl9wUUIwRW50V2c1djlVR3lpR3RCQ1RIN1hXclVF?oc=5
-13. ⭐ **[22점]** [당선인에게 듣는다] 조주홍 영덕군수 당선인 “먹거리 확보·민생 안정 투트랙 영덕 재건설” - hidomin.com
+   🔗 https://www.dailymedi.com/news/news_view.php?wr_id=937477
+13. ⭐ **[22점]** [당선인에게 듣는다] 조주홍 영덕군수 당선인 “먹거리 확보·민생 안정 투트랙 영덕 재건설” - hidomin.com 🔄
    📰  | 🕐 Thu, 18 Jun 2026 10:04:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 10:04:00 GMT+5 | 키워드+5 | 순위:72위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE56WGhlS0pfTFh3a2ZiMEROc3BxN21MY0gtbG5WYW
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE56WGhlS0pfTFh3a2ZiMEROc3BxN21MY0gtbG5WYWJ2RmMyYjV6VVl5RDhybWsyaXpXOHZqVWt4RnRILXQ1bi1OdUE1SFBQMXNLRXMwR1lDLWpLM3JmUHJtUnNaUXpxN1IyeUE?oc=5
-14. ⭐ **[22점]** 대한영상의학과의사회, 영상검사 수가 인하ㆍMRI 인력기준 완화 반대 - 의약뉴스
+   🔗 https://www.hidomin.com/news/articleView.html?idxno=709995
+14. ⭐ **[22점]** 대한영상의학과의사회, 영상검사 수가 인하ㆍMRI 인력기준 완화 반대 - 의약뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:16:18 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:16:18 GMT+5 | 키워드+5 | 순위:73위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZkc2S2drUm5EcnBTRms3dngwVmJZbGxMc3ZRY2
-   🔗 https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZkc2S2drUm5EcnBTRms3dngwVmJZbGxMc3ZRY2NqZ1REUVFYLWgxM004UW9Ga1MxenVIemlmYWZHb2ZaTGdRcGdfYkUxZmtpUHRDZ1hjTFZaaU5Od3hlS2tINExWSGs?oc=5
-15. ⭐ **[22점]** “건보 곳간 비어가는데 탈모약 급여화?” - 헬스포커스뉴스
+   🔗 http://www.newsmp.com/news/articleView.html?idxno=254830
+15. ⭐ **[22점]** “건보 곳간 비어가는데 탈모약 급여화?” - 헬스포커스뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 15:08:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 15:08:00 GMT+5 | 키워드+5 | 순위:74위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5iVzB4NmtXdlRZc2hWTXA3WklpVi1sc2k5ZF82eU
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE5iVzB4NmtXdlRZc2hWTXA3WklpVi1sc2k5ZF82eU5QNUhFMW9qWXRIak53V0VGU3BXR3hRSVRVRXh5T2lqeVJnZjBKd0RPdHNaeWtiNGVRWGpXWUl5elBwRmxoZDdlbGtkanluYWp0RWNPUQ?oc=5
-16. ⭐ **[22점]** 디지털 전환 - 현대 의료의 필수 요건. - Vietnam.vn
+   🔗 https://www.healthfocus.co.kr/news/articleView.html?idxno=209216
+16. ⭐ **[22점]** 디지털 전환 - 현대 의료의 필수 요건. - Vietnam.vn 🔄
    📰  | 🕐 Thu, 18 Jun 2026 11:23:31 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 11:23:31 GMT+5 | 키워드+5 | 순위:75위+2
    💬 <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFB4dmJXazVtalVxQ01lLWtkNXk3Qlc2NnV6NDc5dz
-   🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFB4dmJXazVtalVxQ01lLWtkNXk3Qlc2NnV6NDc5dzZwSG40YWZFQXpMNUNCYjg4X0UyWVZ6MlBoV3doNl9QM1NKTkpKLVZjTWxPWUZVWWRpTi16d1FhSF91eDZQN0lBRmwwODR4ZmNvSldOaFE5NkhhcDNyb3E4Zw?oc=5
-17. ⭐ **[22점]** [대전소식] 대전의료원 건립사업 설계적정성 검토 완료 외 - 네이트
+   🔗 https://www.vietnam.vn/ko/chuyen-doi-so-yeu-cau-tat-yeu-cua-y-te-hien-dai
+17. ⭐ **[22점]** [대전소식] 대전의료원 건립사업 설계적정성 검토 완료 외 - 네이트 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:49:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:49:00 GMT+5 | 키워드+5 | 순위:76위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeFc4cWhBQXdOaHZRbnNWWk9QcXV6bEJYajkxVX
-   🔗 https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeFc4cWhBQXdOaHZRbnNWWk9QcXV6bEJYajkxVXdxaF9pdHFMbnlkYUZZbzlHcC1qVE14dVhZRGpaV2oxN2ZHV2t1VlFBeXQxLWJ3?oc=5
-18. ⭐ **[22점]** 경북대병원 ‘수도권 빅5’ 급 도약 시험대…차기 원장 리더십 성패 - 영남일보
+   🔗 https://news.nate.com/view/20260618n31938
+18. ⭐ **[22점]** 경북대병원 ‘수도권 빅5’ 급 도약 시험대…차기 원장 리더십 성패 - 영남일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:18:10 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:18:10 GMT+5 | 키워드+5 | 순위:77위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFyNU91VEpaYlVUdkdmV0pBSFRwV2xya21JYW
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9JUzFyNU91VEpaYlVUdkdmV0pBSFRwV2xya21JYWtXUldONzZDVWU0cVowSlRsVUViejVnbjBqNWJ2c1o2TzBSMm54VmlTWExoOVdrOFF6OXdjMTQ5d3k2RUpoaV9Zd3IzR0E?oc=5
-19. ⭐ **[22점]** 암환자 노린 ‘페이백·가짜입원’ 정조준…복지부 현장조사 착수 - 식약일보
+   🔗 https://www.yeongnam.com/web/view.php?key=20260618025128979
+19. ⭐ **[22점]** 암환자 노린 ‘페이백·가짜입원’ 정조준…복지부 현장조사 착수 - 식약일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:43:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:43:00 GMT+5 | 키워드+5 | 순위:79위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiO0FVX3lxTE9mTTZXbzJhdDcxcmZLbWhuTzU5ZzduOUhLWGdycE
-   🔗 https://news.google.com/rss/articles/CBMiO0FVX3lxTE9mTTZXbzJhdDcxcmZLbWhuTzU5ZzduOUhLWGdycEJDYnFRZ1lxc19adjdBMjNlTnZZcDY0?oc=5
-20. ⭐ **[22점]** 의협, '실손보험 페이백' 강경 대응…징계·고발 추진 - 이데일리
+   🔗 http://kfdn.co.kr/72612
+20. ⭐ **[22점]** 의협, '실손보험 페이백' 강경 대응…징계·고발 추진 - 이데일리 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:03:26 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:03:26 GMT+5 | 키워드+5 | 순위:80위+2
    💬 <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOam5pRTFYV3RBZnB5Q2prR2JYbUM3ZnQyYXgyMU
-   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOam5pRTFYV3RBZnB5Q2prR2JYbUM3ZnQyYXgyMUsxVUJIMy1lS3dyWHc5eWE2NThwVlVHWmViNmF6THZLV2E1OWZsRmpCSWhzTVpPVFozYTZZRUdrbTFYa3RKVm5BTzZnRkVfU0RyNTFmbTRocWtjUjFHN3pscWlTZQ?oc=5
+   🔗 https://www.edaily.co.kr/News/Read?newsId=05090566645483032&mediaCodeNo=257
 
 ### 🌿 전통의학 (1건)
-1. ⭐⭐ **[38점]** 형개추출분말, 노화성 근기능 저하 개선 - 파이낸셜뉴스
+1. ⭐⭐ **[38점]** 형개추출분말, 노화성 근기능 저하 개선 - 파이낸셜뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:17:37 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:17:37 GMT+5 | 키워드+5 | 순위:4위+18
    💬 <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYl
-   🔗 https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YZUp6Uy13MHVfdHZnbTNqZk9oeWZCMVkwMDVGYlo4Sy1qbW45dVFNSFBrQ0tIWjVVUUhYaFRiS3U5bi1HMDc4ZVpOdE42MWdJM05KVFp1QlR3Zw?oc=5
+   🔗 https://www.fnnews.com/news/202606181223048022
 
 ### 🔬 감염·보건 (30건)
 1. ⭐⭐⭐ **[47점]** 지역보건법 전면 개정 30년…정부, 지역보건의료기관 거점화
@@ -743,121 +743,121 @@
    📊 출처:Gyeongnam Newspaper+10 | 최신:12시간+15 | 키워드+10 | 순위:100위+2
    💬 경남도가 지역보건의료계획 평가에서 전국 최우수 지자체로 선정되면서 전국 도 단위 광역지방자치단체 9곳 중 1위를 했다. 도는 지난 2023년 우수 지자체 선정에 이어 2024~20
    🔗 https://knnews.co.kr/news/articleView.php?idxno=1544368
-8. ⭐⭐ **[37점]** [칼럼] 대구 모기 일본뇌염 바이러스 검출…2013년 이후 출생 아동 국가예방접종 대상 - 정필
+8. ⭐⭐ **[37점]** [칼럼] 대구 모기 일본뇌염 바이러스 검출…2013년 이후 출생 아동 국가예방접종 대상 - 정필 🔄
    📰  | 🕐 Thu, 18 Jun 2026 10:41:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 10:41:00 GMT+5 | 키워드+20 | 순위:105위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qTzBqVU53OFNJSDBraHBJMDRBbzVrUW5iTExKY0
-   🔗 https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qTzBqVU53OFNJSDBraHBJMDRBbzVrUW5iTExKY0JJY3U3QUJmNnEyaXVIU3lFOEdHSXJkRzFRU2ZXcV8ycnZ3?oc=5
+   🔗 https://www.jeongpil.com/2566677
 9. ⭐⭐ **[27점]** 질병청, 일본뇌염 경보 발령‥&quot;예방접종 당부&quot;
    📰 MBC News | 🕐 
    📊 출처:MBC News+10 | 최신:+5 | 키워드+10 | 순위:96위+2
    💬 질병관리청이 오늘 전국에 일본뇌염 경보를 발령했습니다. 대구 지역에서 채집된 모기에서 일본뇌염 바이러스 유전자가 검출된 데 따른 조치입니다. 이번에 바이러스가 확인된 모기는 일본뇌
    🔗 https://imnews.imbc.com/news/2026/society/article/6830851_36918.html
-10. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보에 어린이 예방접종 당부 - 미디어생활
+10. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보에 어린이 예방접종 당부 - 미디어생활 🔄
    📰  | 🕐 Thu, 18 Jun 2026 20:33:02 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 20:33:02 GMT+5 | 키워드+10 | 순위:102위+2
    💬 <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZmsxUUYzREpsMVdHdTlfbHNlTTlRN2tWOEtZMW
-   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFA2ZmsxUUYzREpsMVdHdTlfbHNlTTlRN2tWOEtZMWs1RUxHczk5NWNlVTdkV29pT0xTTTdiYjdMYWdPa1lWc3BhWE9STDR5eEl5djNKcm45Y3hPeTBXVERpM192eVk5Qlg0b3FHRHdLWQ?oc=5
-11. ⭐⭐ **[27점]** 부산진구보건소,사람유두종바이러스(HPV) 무료예방접종 지원 - 국제신문
+   🔗 https://www.imedialife.co.kr/news/articleView.html?idxno=66859
+11. ⭐⭐ **[27점]** 부산진구보건소,사람유두종바이러스(HPV) 무료예방접종 지원 - 국제신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:25:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:25:00 GMT+5 | 키워드+10 | 순위:103위+2
    💬 <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQck5RWkxZN2YzN0VMWnRzd0JZMkZzQnRlTWlUWW
-   🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxQck5RWkxZN2YzN0VMWnRzd0JZMkZzQnRlTWlUWWZtOTIwbHp3aGp0b1VtdEtqcFJoMlhzSUNxZ2hvVjE5RmVneFFiQ1A5UzF3WS12YlRiNDVSMDlhNTJQSzJ5UENhcTM5dl91MTNHZ2JlQzVoWnQ5QU5LOUU3Qm1LSTdvQ0hSeE1Cd1otTERn?oc=5
-12. ⭐⭐ **[27점]** 65세 이상 어르신, “폐렴구균 무료 예방접종 하세요” - 고성미래신문
+   🔗 https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260618.99099005551
+12. ⭐⭐ **[27점]** 65세 이상 어르신, “폐렴구균 무료 예방접종 하세요” - 고성미래신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 21:39:25 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 21:39:25 GMT+5 | 키워드+10 | 순위:104위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubWp0aWNKcVNTY0txZUktSi1md1NoRk9YZGNEMF
-   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubWp0aWNKcVNTY0txZUktSi1md1NoRk9YZGNEMFBMN2ljNF9IdU13Y2drQ0RobHpuZk9uNUdaUG9VZ0lGcXpENXpkRDlNdnhrbmU0UTN6UjAxWUdqYW8xTGFuc2lsN3lS?oc=5
-13. ⭐⭐ **[27점]** 전남도, 일본뇌염 경보…예방접종 등 당부 - v.daum.net
+   🔗 https://www.gofnews.com/news/articleView.html?idxno=33776
+13. ⭐⭐ **[27점]** 전남도, 일본뇌염 경보…예방접종 등 당부 - v.daum.net 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:24:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:24:00 GMT+5 | 키워드+10 | 순위:106위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVFpMUXN5eEdDNEdIZ3h6S0hoU3hMZ1BjREUtUE
-   🔗 https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YVFpMUXN5eEdDNEdIZ3h6S0hoU3hMZ1BjREUtUE9PZTQzR0pIZzM0S0wtT1ptc1pDcUpzbnRYQklBVGZ6NUlpOU9TZmFrWFU?oc=5
-14. ⭐⭐ **[27점]** 부산진구보건소, 1999년생 여성 대상 사람유두종바이러스 무료 예방접종 지원 > 뉴스 - 더코리아
+   🔗 https://v.daum.net/v/20260618172400220
+14. ⭐⭐ **[27점]** 부산진구보건소, 1999년생 여성 대상 사람유두종바이러스 무료 예방접종 지원 > 뉴스 - 더코리아 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:28:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:28:00 GMT+5 | 키워드+10 | 순위:107위+2
    💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9LcWc5TGxQUWFsSkYxSVdUM0ZWUzdMaEJlRWxYSX
-   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9LcWc5TGxQUWFsSkYxSVdUM0ZWUzdMaEJlRWxYSXpiUXlvcHRPc3AyZ0UxMlAyWjM5YkpYengyX1lBTGxzTndQdlNxLU8wMzBLd1UxZXBxam1OR2g0Z0s0bHFvQzZ0Rkpmb245SVNORXo?oc=5
-15. ⭐⭐ **[27점]** 전남도, 전국 ‘일본뇌염 경보’에 방역 총력… “예방접종·모기 차단 당부” - 나주신문
+   🔗 http://www.thekorea.kr/bbs/board.php?bo_table=news&wr_id=515032
+15. ⭐⭐ **[27점]** 전남도, 전국 ‘일본뇌염 경보’에 방역 총력… “예방접종·모기 차단 당부” - 나주신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 14:43:08 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 14:43:08 GMT+5 | 키워드+10 | 순위:108위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTDE4NjMwUUV5ZzZPSE5MMlRUZDJ4RUpXeFk4Wk
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTDE4NjMwUUV5ZzZPSE5MMlRUZDJ4RUpXeFk4WkRHQWlJU2c5azdyT0pxVDNRYXdkZDVlN1AtbXJHVWNVN29XS1ZIeHdKUzM5dGtjdTZFY0NiYnIxb2ZHaW9JQ2Z3YlNxa1HSAWxBVV95cUxPOXhERzBlZU5yY0dybmRSeTFfb3VDSU1wMFVvdk1Gc0FfRmxtc1hlZWNaRnhqUUc4VzR6bl9ZdTRSMEFGRGZ1UWU0NEU5Ri1xeWRBSndoRlRVU2FBZHhWTzZXczdPSFVhODUwcW0?oc=5
-16. ⭐⭐ **[27점]** 전국에 일본뇌염 경보 발령…인천시, 예방접종 당부 - 인천일보
+   🔗 https://www.najunews.kr/news/articleView.html?idxno=230178
+16. ⭐⭐ **[27점]** 전국에 일본뇌염 경보 발령…인천시, 예방접종 당부 - 인천일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:09:02 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:09:02 GMT+5 | 키워드+10 | 순위:109위+2
    💬 <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZnlMOVBTN284RjhkdHR6VEJRdl9CaE5LT245eV
-   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZnlMOVBTN284RjhkdHR6VEJRdl9CaE5LT245eV9lb2F1U0R1SW4tXzdRcDgzZTZrZ3NrdXNaY3dNcHJ0Mk1EUmljWFkyVGZYSjVmb0M4ZFdrb09CcUNfaDQtRDRYdkFxNjNRV1BKUEw?oc=5
-17. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령에 따른 어린이 예방접종 당부 - 인천신문
+   🔗 http://incheonilbo.com/news/articleView.html?idxno=1325447
+17. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령에 따른 어린이 예방접종 당부 - 인천신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 11:24:03 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 11:24:03 GMT+5 | 키워드+10 | 순위:110위+2
    💬 <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbH
-   🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GadIBeEFVX3lxTE50a21oTWQ4bS03dkg4ZldWa0R5bjhyX2RvVllEbHRuclNGZUgyYXZEbF8xRkxXLWU0WEFld1JQclF0VDVNT2dSZ1I1Xzd4aHRoM3h2RVZTaXNmT0dmbUwtZi1qU3R6ZWtTOUJLQ3p5RnBBbWRGT29GaQ?oc=5
-18. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령…"어린이 예방접종 꼭 챙기세요" - 컨슈머타임스
+   🔗 http://www.incheonnewspaper.com/news/articleView.html?idxno=234186
+18. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령…"어린이 예방접종 꼭 챙기세요" - 컨슈머타임스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 19:05:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 19:05:00 GMT+5 | 키워드+10 | 순위:111위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB6WkhqN2Nuc3lDRk5PMzNMU3BNRWYyUnZsdjBNZ0
-   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTFB6WkhqN2Nuc3lDRk5PMzNMU3BNRWYyUnZsdjBNZ01WN04yYnBEem1GclY5U2dWMWpidlpNbVprZ1J1Rmk0TFNQM215bWstVmFXdjJTbE02a0M0SXcyUVg2SVVBbU5kSXVkWHc?oc=5
-19. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보' 아동 '예방접종' 당부 - 메트로신문
+   🔗 https://www.cstimes.com/news/articleView.html?idxno=710338
+19. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보' 아동 '예방접종' 당부 - 메트로신문 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:12:13 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:12:13 GMT+5 | 키워드+10 | 순위:112위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NUxRemJMYWttS092OHh3d1hGdDM4UzRuTTBaQX
-   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE81NUxRemJMYWttS092OHh3d1hGdDM4UzRuTTBaQXdWd0pJdEVnNmJmbWM1Z2ZqTms4TXNjaDBKTDUyck5MM2FpRWZIb3dlS0t0YUFOYm1GSVlHTmhTejhTNw?oc=5
-20. ⭐⭐ **[27점]** 부산진구보건소, 26세 여성 대상 HPV 무료 예방접종 실시 - 웹이코노미
+   🔗 https://www.metroseoul.co.kr/article/20260618500399
+20. ⭐⭐ **[27점]** 부산진구보건소, 26세 여성 대상 HPV 무료 예방접종 실시 - 웹이코노미 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:35:10 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:35:10 GMT+5 | 키워드+10 | 순위:113위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE8wY3dlRzFrOTRTNU9FUWNSY2g3LTNOZWpidVpYYk
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE8wY3dlRzFrOTRTNU9FUWNSY2g3LTNOZWpidVpYYkJKU1Y0bVpPQ2N2ejRXUk5ZMTlHakxHZHQwd2xLUmxuTjFIZ0h3Yi1mc0twZ1BpU3dQSGNDOTR4ZlVfSzBIeG5KQXlTam41ZHdFVTY3Zw?oc=5
-21. ⭐⭐ **[27점]** 대구 채집모기 일본뇌염 바이러스 검출, 전국 경보 발령…예방접종 당부 - 톱스타뉴스
+   🔗 https://www.webeconomy.co.kr/news/articleView.html?idxno=2204683
+21. ⭐⭐ **[27점]** 대구 채집모기 일본뇌염 바이러스 검출, 전국 경보 발령…예방접종 당부 - 톱스타뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:40:50 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:40:50 GMT+5 | 키워드+10 | 순위:115위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTFAzaUY2SnpUY2E4c0x5UXVtTjV0aEJkQlgxY0d0dj
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFAzaUY2SnpUY2E4c0x5UXVtTjV0aEJkQlgxY0d0djZFM2tkd19CbHpjZ21Ma0tISks1LTFaNTRtRF9ZVWhnUGRXQzZ6dEtCSW90NlJxbmhOY2ZDU2xNZlBFV29HMC1zNE1VR3VNVHdoenVDZw?oc=5
-22. ⭐⭐ **[27점]** 전라남도, 일본뇌염 경보…예방접종 등 당부 - 데일리스포츠한국
+   🔗 https://www.topstarnews.net/news/articleView.html?idxno=16100567
+22. ⭐⭐ **[27점]** 전라남도, 일본뇌염 경보…예방접종 등 당부 - 데일리스포츠한국 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:43:08 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:43:08 GMT+5 | 키워드+10 | 순위:116위+2
    💬 <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFA4M2lQY2J2MlRldkJOTHRWeXFnX24wOGNjc0EyRF
-   🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTFA4M2lQY2J2MlRldkJOTHRWeXFnX24wOGNjc0EyRFJ4MktqdGJmWlpOMlJNbWNQQzJrMm9VVVRLdk9kcHU5Nk4wVXNlOXJBdlJuY2JfamhTY1EwMmNoMkJzTUVLSUF4c1lHZUhtLXRxelcxYXBQN0xfTEpTRDhyM1nSAX9BVV95cUxQODNpUGNidjJUZXZCTkx0VnlxZ19uMDhjY3NBMkRSeDJLanRiZlpaTjJSTW1jUEMyazJvVVVUS3ZPZHB1OTZOMFVzZTlyQXZSbmNiX2poU2NRMDJjaDJCc01FS0lBeHNZR2VIbS10cXpXMWFwUDdMX0xKU0Q4cjNZ?oc=5
-23. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령에 따른 어린이 예방접종 당부 - 네이트
+   🔗 https://www.dailysportshankook.co.kr/news/articleViewAmp.html?idxno=429963
+23. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보 발령에 따른 어린이 예방접종 당부 - 네이트 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:40:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:40:00 GMT+5 | 키워드+10 | 순위:118위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQWVKQmVPLXY4X1FmXzh5T3lQYkgyeGdrcGE4ME
-   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SQWVKQmVPLXY4X1FmXzh5T3lQYkgyeGdrcGE4ME1GSHJ4MHNoUUJ1bXRXX3NZcHdwR3U4YTBzeUt4SU5VcXVBWFVWTlRsMGh5ZGoxRWt5bFJNa3JCbEpsbg?oc=5
-24. ⭐⭐ **[27점]** 전남도, 일본뇌염 경보 발령…예방접종 및 모기물림 주의 당부 - 웹이코노미
+   🔗 https://news.nate.com/view/20260618n31622?mid=n0100
+24. ⭐⭐ **[27점]** 전남도, 일본뇌염 경보 발령…예방접종 및 모기물림 주의 당부 - 웹이코노미 🔄
    📰  | 🕐 Thu, 18 Jun 2026 11:19:34 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 11:19:34 GMT+5 | 키워드+10 | 순위:120위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTFAyQWw1WExkOXhUYXE0MVJOUWdrcDM0Y09ZQ3FVM2
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTFAyQWw1WExkOXhUYXE0MVJOUWdrcDM0Y09ZQ3FVM21GbFpsQl94MTFBdEd3Z09JLUphRWRud3oySVV6U0FYdnhvbzkxa0xScEZTWU9zbU9tQXE0U2dBdmxCZWNpOFhiYUNjTWoyd0lqZ2M5dw?oc=5
-25. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보에 어린이 예방접종 당부 - 웹이코노미
+   🔗 https://www.webeconomy.co.kr/news/articleView.html?idxno=2204918
+25. ⭐⭐ **[27점]** 인천시, 일본뇌염 경보에 어린이 예방접종 당부 - 웹이코노미 🔄
    📰  | 🕐 Thu, 18 Jun 2026 09:50:59 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 09:50:59 GMT+5 | 키워드+10 | 순위:121위+2
    💬 <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5Vd1FTN1cwaHZBaVlXVVVhLXJ4alo4UGhJTUZOTD
-   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE5Vd1FTN1cwaHZBaVlXVVVhLXJ4alo4UGhJTUZOTDQzbVhqUkw1THUzN0hTZTJRLVl4aVQteUg4Q1htOVZFT1Q0UlNLbVZMcnBpcDA5ZzZWZm1CZDlFV2ZCZ3hZTHFOOTRKOTRJeHRObW5jUQ?oc=5
-26. ⭐⭐ **[27점]** 코로나19 예방접종 후 이상반응 국가보상제도 안내 및 절차 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑
+   🔗 https://www.webeconomy.co.kr/news/articleView.html?idxno=2204730
+26. ⭐⭐ **[27점]** 코로나19 예방접종 후 이상반응 국가보상제도 안내 및 절차 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑 🔄
    📰  | 🕐 Tue, 16 May 2023 09:13:52 GMT
    📊 출처:+10 | 최신:Tue, 16 May 2023 09:13:52 GMT+5 | 키워드+10 | 순위:124위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE13allPOFU0eVpPZ0JOQzdSdVMzRFNwTEVTN2Q3dl
-   🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE13allPOFU0eVpPZ0JOQzdSdVMzRFNwTEVTN2Q3dlB2M2JLcWl6NElvaFVtTmV6a3JpaGJJLW5QMDNOZmZVWDVORV9mRWNTN0lNYThwRW9nLTNsQk94Zmlsc2dOWktFeFc0NE1lV2xR?oc=5
-27. ⭐ **[22점]** 일본뇌염 경보 발령…제주도, 모기물림 예방수칙 준수 당부 - 누리일보
+   🔗 https://www.korea.kr/multi/visualNewsView.do?newsId=148885935
+27. ⭐ **[22점]** 일본뇌염 경보 발령…제주도, 모기물림 예방수칙 준수 당부 - 누리일보 🔄
    📰  | 🕐 Thu, 18 Jun 2026 10:10:46 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 10:10:46 GMT+5 | 키워드+5 | 순위:114위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUW5yLWZ3Q1RxdV9rR0wxSWZFZ1d2ejBFOEhXMG
-   🔗 https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CUW5yLWZ3Q1RxdV9rR0wxSWZFZ1d2ejBFOEhXMGEyYnhSYUU5NzF4M1B6TG9STThfem5XVlBXTEVKRUEzWTg2QkhRWDVCOTcwQlNfejJLUGlISk0?oc=5
-28. ⭐ **[22점]** 보건당국, '일본뇌염' 경보 발령..."백신 접종으로 예방" - 라포르시안
+   🔗 https://nuriilbo.com/news/article.html?no=866483
+28. ⭐ **[22점]** 보건당국, '일본뇌염' 경보 발령..."백신 접종으로 예방" - 라포르시안 🔄
    📰  | 🕐 Thu, 18 Jun 2026 07:09:42 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 07:09:42 GMT+5 | 키워드+5 | 순위:117위+2
    💬 <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE83TjY5NEMwYTRzZFNXR1Z5d3lSTDJlaUFPT2U2dV
-   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE83TjY5NEMwYTRzZFNXR1Z5d3lSTDJlaUFPT2U2dVZzek9MZEVXY1ZYYktLcUNwZWhxUUZrOUJSc1duUGpEbDZrX0w5U184MEl4V2MyM053b3hNc1BfSG9OTEZiN01vWGRPTllkYw?oc=5
-29. ⭐ **[22점]** 울산시, 시민 대상 모기물림 예방수칙 준수 당부 - 글로벌뉴스통신GNA
+   🔗 http://www.rapportian.com/news/articleView.html?idxno=237234
+29. ⭐ **[22점]** 울산시, 시민 대상 모기물림 예방수칙 준수 당부 - 글로벌뉴스통신GNA 🔄
    📰  | 🕐 Thu, 18 Jun 2026 10:35:05 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 10:35:05 GMT+5 | 키워드+5 | 순위:119위+2
    💬 <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMk9SbXFUVXRZbTdfOTZ0YWJselFPUlg1S24zRm
-   🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMk9SbXFUVXRZbTdfOTZ0YWJselFPUlg1S24zRmxTYVVyV3BTZF9Ja1FfX2JhakVIZVQ2Rm9FRV9qa3lDdm9hTTVYQUdIY2RQMGpNQUxnVXg1Z3ViWkxWbHdVQS12OW9kT05tRFkxSy1mWGtM?oc=5
-30. ⭐ **[22점]** 대구 모기서 일본뇌염 바이러스 검출... 경보 발령 조치 - 더쎈뉴스
+   🔗 https://www.globalnewsagency.kr/news/articleView.html?idxno=480552
+30. ⭐ **[22점]** 대구 모기서 일본뇌염 바이러스 검출... 경보 발령 조치 - 더쎈뉴스 🔄
    📰  | 🕐 Thu, 18 Jun 2026 08:45:00 GMT
    📊 출처:+10 | 최신:Thu, 18 Jun 2026 08:45:00 GMT+5 | 키워드+5 | 순위:122위+2
    💬 <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUllqTnFiNmxUSjVVeGR2ZTFPa1ZfeGFtZUhYQW
-   🔗 https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiUllqTnFiNmxUSjVVeGR2ZTFPa1ZfeGFtZUhYQWJQNFRoWlhvMlRGQnBFT2x4a1BDeWg4alF1UnhJeGxmQWNDNWlvMmdhUk5xRFF5NjRJTUczMnptRXpybjdSSEpUdFhI?oc=5
+   🔗 https://www.mhns.co.kr/news/articleView.html?idxno=750624
 
 ---
 ## 🌐 글로벌 (영어)
@@ -1880,9 +1880,9 @@
   🔗 https://www.nporadio1.nl/nieuws/gezondheid/ae2a8bcb-42c3-4961-aa85-3cc49bdae2e1/onderzoek-farmaceutische-industrie-zet-huisartsen-onder-emotionele-druk-met-reclamefolders
 
 ### 🇸🇪 Swedish / 스웨덴어 (13건)
-- ⭐⭐ **[37점]** Säkerställa läkemedelsförsörjning och påskynda digital omvandling inom läkemedel
+- ⭐⭐ **[37점]** Säkerställa läkemedelsförsörjning och påskynda digital omvandling inom läkemedel 🔄
   📰  | 🕐 Thu, 18 Jun 2026 14:09:16 GMT
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxOYS13VjlKVDNfX2tQcGhrcnBvbWJtNFpITno4QWJ2cnRISEhXNUp3MEtMMUszOWRqZktZck5pdkJlWkZJdkstZm9IemZ3aTFfUHhNQlNLSGVWeGw5eW9xNkhXNFRRVWhUdThMYWpsdjlSTmlndmJGVkJvTjJFVGZCUUd5M3ZfUXVlRGJkMg?oc=5
+  🔗 https://www.vietnam.vn/sv/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc
 - ⭐⭐ **[35점]** Nu blir &#246;ver 800 mediciner billigare
   📰 Yle | 🕐 1 &#229;r
   🔗 https://yle.fi/a/7-10073535
@@ -1965,21 +1965,21 @@
   🔗 https://www.excite.co.jp/news/article/Prtimes_2024-05-29-77291-11/
 
 ### 🇨🇳 Chinese Simplified / 중국어 (7건)
-- ⭐⭐ **[40점]** 每周医药看点（6月8日—14日） - cnpharm.com
+- ⭐⭐ **[40점]** 每周医药看点（6月8日—14日） - cnpharm.com 🔄
   📰  | 🕐 Thu, 18 Jun 2026 09:24:43 GMT
-  🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOTV0VkNBVzZKUEdHaXdfdm53dXdGVjQ1cUFCOVBuRGpQM256V3REaVJpLXdUWlduaXVGU0pjRkZhWGs1aGRobjVDX3NheExjaXAwM3hJM3FWR1FOQ3dr?oc=5
-- ⭐⭐ **[40점]** 攻坚卒中治疗新赛道！鲁南制药自主1类生物药LNF2401注射液获批临床 - ByDrug
+  🔗 https://www.cnpharm.com/c/2026-06-18/1099725.shtml
+- ⭐⭐ **[40점]** 攻坚卒中治疗新赛道！鲁南制药自主1类生物药LNF2401注射液获批临床 - ByDrug 🔄
   📰  | 🕐 Thu, 18 Jun 2026 08:01:00 GMT
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE9icnhqQW1NeHRHUmJSdW43eTN1YjJ3Qm1sZjJJWWVlcDVSLW1jYlhlQVltMktuUFhBWndWQ1cxcEw3N1ZnUXVlUWZtalEtRkN6eHNYWkNLNEFkNkZLQmpPSlpUZ0J1UXFvUVNMUmdFbE0ya1FQOWZ4b2NuWmxwZw?oc=5
-- ⭐⭐ **[35점]** 喜报！天方药业双氯芬酸钠肠溶片获得补充申请批准通知书 - ByDrug
+  🔗 https://bydrug.pharmcube.com/news/detail/6956c88bb6a78c35f346f7b6ae980c32
+- ⭐⭐ **[35점]** 喜报！天方药业双氯芬酸钠肠溶片获得补充申请批准通知书 - ByDrug 🔄
   📰  | 🕐 Thu, 18 Jun 2026 08:46:22 GMT
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE90QXdqNzZsWDBVUGRka3AybGw5c05lS2tuanUzTlBrNmlJYmZjYW96S2hIeUxJUjNUdXAtd2NJakhCSld4T0U0T2kyQVJBMnFwdjhiQXg2dXdwVDlHV2dWSHVQMGVpRVRwbFBqZkppTVRwUU4wcUNXb2M2MTQ5dw?oc=5
-- ⭐⭐ **[35점]** 聚焦产业协同 深度国际化｜复星医药携成员企业亮相CPHI China 2026 - ByDrug
+  🔗 https://bydrug.pharmcube.com/news/detail/a83e8f66d8ae246bdcb0deb56ca863a0
+- ⭐⭐ **[35점]** 聚焦产业协同 深度国际化｜复星医药携成员企业亮相CPHI China 2026 - ByDrug 🔄
   📰  | 🕐 Thu, 18 Jun 2026 08:27:00 GMT
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTFB5RWpoUmw2RDhLdm5NV2JkUTN1TUl0d2lMV3dqSVdOVk1lMmlET0IzS0RRc2p5NWV3ZHM1dHNsUEl2SE9OX1pBYncxcl93dGxvVVhvd2hENFZUaEZsZ1NlMVRKcXFjdVBQUmpwMVA0d1VQenU0RjFLS3lvZmdadw?oc=5
-- ⭐⭐ **[30점]** 公告 | 一品红创新药APH03867片临床试验注册申请获得受理 - ByDrug
+  🔗 https://bydrug.pharmcube.com/news/detail/c6de5d2210a0d2a7103a0d302eaf3b6f
+- ⭐⭐ **[30점]** 公告 | 一品红创新药APH03867片临床试验注册申请获得受理 - ByDrug 🔄
   📰  | 🕐 Thu, 18 Jun 2026 09:55:00 GMT
-  🔗 https://news.google.com/rss/articles/CBMifkFVX3lxTE1od0NYbDBybEdjX0I2NW9KOU1NVUFnbEN2dF9OZVpodVhOWm5fWmZjSUtVWjdxS0dnWTd5WlR5R1A0clkyV1pFMmIxamVaWjZhdGRJYnVQZ3l6dzliT3dGaEM2SXpsQ1lUaGRNZ2h6ckRYTzBRZUhldWpKbk9rQQ?oc=5
+  🔗 https://bydrug.pharmcube.com/news/detail/4180caa4c4ee2e176c3ae0aefa1e8fa9
 
 ### 🇹🇼 Chinese Traditional / 대만 (6건)
 - ⭐⭐⭐ **[55점]** K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花
@@ -2079,9 +2079,9 @@
 - ⭐⭐⭐ **[45점]** &quot;تاكيدا&quot; العالمية تستحوذ على &quot;شاير&quot; في صفقة تعزز موقعها كشرك
   📰 Zawya | 🕐 7 من السنوات
   🔗 https://www.zawya.com/ar/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%AA%D8%A7%D9%83%D9%8A%D8%AF%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AD%D9%88%D8%B0-%D8%B9%D9%84%D9%89-%D8%B4%D8%A7%D9%8A%D8%B1-%D9%81%D9%8A-%D8%B5%D9%81%D9%82%D8%A9-%D8%AA%D8%B9%D8%B2%D8%B2-%D9%85%D9%88%D9%82%D8%B9%D9%87%D8%A7-%D9%83%D8%B4%D8%B1%D9%83%D8%A9-%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%83%D8%B2%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%AB-w2jmrqu8
-- ⭐⭐ **[40점]** ضمان إمدادات الأدوية وتسريع التحول الرقمي في صناعة الأدوية. - Vietnam.vn
+- ⭐⭐ **[40점]** ضمان إمدادات الأدوية وتسريع التحول الرقمي في صناعة الأدوية. - Vietnam.vn 🔄
   📰  | 🕐 Thu, 18 Jun 2026 14:04:30 GMT
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXU1czJJV2Y2OXZTS2d5S0dUTlV0azE0U0JvNnIwUVdnQWlESjBZdGh2RTF0YmtSYlNKZmFmakpUZmRNa2l2U2JYdC1ZUFYzM1FIQmh2TG0wOEhLdW5JSDFZSFhzazJuU1NWcmx4cTl1ZlJ4YUx3Wl9ncjhZRHRaZHBGNUY0QWFTSHh6eA?oc=5
+  🔗 https://www.vietnam.vn/ar/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc
 
 ### 🇮🇱 Hebrew / 히브리어 (7건)
 - ⭐⭐⭐ **[55점]** תעשיית התרופות מגלה את המיחזור
@@ -2090,9 +2090,9 @@
 - ⭐⭐⭐ **[50점]** &quot;להביא את רפואת הצמחים המסורתית למאה ה-21&quot;
   📰 TheMarker | 🕐 1 חודשים
   🔗 https://www.themarker.com/labels/otzmaisraelit0426/2026-05-03/ty-article-labels/0000019d-d8b3-db1b-a9ff-ffbfb9f50000
-- ⭐⭐⭐ **[50점]** הבטחת אספקת תרופות והאצת הטרנספורמציה הדיגיטלית בתעשיית התרופות. - Vietnam.vn
+- ⭐⭐⭐ **[50점]** הבטחת אספקת תרופות והאצת הטרנספורמציה הדיגיטלית בתעשיית התרופות. - Vietnam.vn 🔄
   📰  | 🕐 Thu, 18 Jun 2026 14:12:58 GMT
-  🔗 https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlBDLUdQSWxsRElldndobFA4MUhLVGpLbnUyZlNIUlo2RDFlTnEwd3loNVlQSWFDMjJYaEJGM1NOZGdPM01yaDZxd21ZVzR3V2duWTk1dDRoLXM2ZDNVTnEtbFZhUlpBemVqWnVVWDFSQ0dZTkhVV1dYV1dfN1AtN3pydmpjUUxZbEJaZg?oc=5
+  🔗 https://www.vietnam.vn/he/bao-dam-nguon-cung-thuoc-tang-toc-chuyen-doi-so-nganh-duoc
 - ⭐⭐⭐ **[45점]** BIO BALANCE של קמדיס: כשמומחיות בצמחי מרפא פוגשת את העור הרגיש שלך
   📰 ynet.co.il | 🕐 1 שנים
   🔗 https://www.ynet.co.il/article/b18twsr7ll
