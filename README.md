@@ -1,40 +1,44 @@
 # 🔬 PharmaScope — 의약업계 글로벌 동향
 
-**마지막 갱신:** 2026-06-19 11:05 KST
-**아키텍처:** Adapter Pattern (다중 소스, 언어별 전략)
-**평가:** 정수 중요도 0~100
+**마지막 갱신:** 2026-06-22 12:01 KST
+**출처:** Bing News (직접 URL 100%, CBM 0건)
 
-## 수집 전략
+---
 
-| 언어 | 메인 소스 | 보조 소스 | 비고 |
-|------|----------|----------|------|
-| 🇰🇷 한국어 | Bing News | Google News | Naver/Daum (향후 브라우저 추가) |
-| 🇺🇸 영어 | Bing News | Google News | |
-| 🌏 다국어 | Bing News | Google News | 20개 언어 |
-
-## 중요도 평가 (정수)
-
-| 요소 | 배점 |
-|------|------|
-| 📰 출처권위 | 0~30 |
-| ⏰ 최신성 | 0~20 |
-| 🎯 키워드적중 | 0~30 |
-| 📌 검색순위 | 0~20 |
-| **총점** | **0~100 (정수)** |
-
-## 디렉토리
+## 📂 디렉토리
 
 ```
-pharmascope/
+pharmascope-news/
 ├── README.md
-├── scripts/
-│   ├── adapters.py               # News Source Adapters
-│   └── pharmascope_collect.py    # 메인 파이프라인
 ├── daily/
-│   └── 2026-06-19/
-│       ├── report.md
-│       └── raw.json
-└── AGENTS.md
+│   └── 2026-06-22/
+│       ├── report.md      # 일일 리포트 (전체)
+│       ├── raw.json       # 원시 수집 데이터
+│       ├── analysis.json  # 심층 분석 구조화
+│       ├── analysis.md    # 심층 분석 가독형
+│       └── summary.txt    # Telegram 요약
+├── weekly/
+│   └── YYYY-WW/
+│       ├── report_weekly_*.md
+│       └── stats_*.json
+└── monthly/
+    └── YYYY-MM/
+        ├── report_monthly_*.md
+        └── stats_*.json
 ```
 
-*PharmaScope v3 — Adapter Pattern | 정수 중요도 | 다중 소스 하이브리드*
+---
+
+## 📅 최근 수집일
+
+- [2026-06-22](daily/2026-06-22/report.md)
+- [2026-06-21](daily/2026-06-21/report.md)
+- [2026-06-20](daily/2026-06-20/report.md)
+- [2026-06-19](daily/2026-06-19/report.md)
+- [2026-06-18](daily/2026-06-18/report.md)
+- [2026-06-17](daily/2026-06-17/report.md)
+- [2026-06-16](daily/2026-06-16/report.md)
+- [2026-06-15](daily/2026-06-15/report.md)
+- [2026-06-14](daily/2026-06-14/report.md)
+- [2026-06-13](daily/2026-06-13/report.md)
+
