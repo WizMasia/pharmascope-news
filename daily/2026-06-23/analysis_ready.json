@@ -1,0 +1,586 @@
+{
+  "date": "2026-06-23",
+  "total_articles": 387,
+  "language_breakdown": {
+    "korean": {
+      "total": 79,
+      "categories": {
+        "의약품": 11,
+        "의약산업": 15,
+        "의약정책": 9,
+        "의약단체": 8,
+        "의약관련정부기관": 7,
+        "의료현장": 4,
+        "약국·약사": 2,
+        "의료정책·인력": 14,
+        "전통의학": 0,
+        "감염·보건": 9
+      }
+    },
+    "english": {
+      "total": 146,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 24,
+        "Pharma Policy": 24,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 23
+      }
+    },
+    "multilingual": {
+      "total": 162,
+      "languages": {
+        "French / 프랑스어": 9,
+        "German / 독일어": 10,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 10,
+        "Polish / 폴란드어": 10,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 8,
+        "Chinese Simplified / 중국어": 0,
+        "Chinese Traditional / 대만": 5,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 5,
+        "Persian / 페르시아어": 3
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 16
+    },
+    {
+      "keyword": "식약처",
+      "count": 9
+    },
+    {
+      "keyword": "임상",
+      "count": 8
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 1
+    },
+    {
+      "keyword": "약가",
+      "count": 1
+    },
+    {
+      "keyword": "FDA",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    },
+    {
+      "keyword": "CDMO",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 24
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "inspection",
+      "count": 8
+    },
+    {
+      "keyword": "pricing",
+      "count": 8
+    },
+    {
+      "keyword": "GMP",
+      "count": 7
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "generic",
+      "count": 5
+    },
+    {
+      "keyword": "patent",
+      "count": 5
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "KPA News",
+      "count": 4
+    },
+    {
+      "source": "Segye Ilbo on MSN",
+      "count": 4
+    },
+    {
+      "source": "DailyPharm",
+      "count": 4
+    },
+    {
+      "source": "Financial News on MSN",
+      "count": 4
+    },
+    {
+      "source": "Financial News",
+      "count": 3
+    },
+    {
+      "source": "아주경제 on MSN",
+      "count": 3
+    },
+    {
+      "source": "이데일리 on MSN",
+      "count": 3
+    },
+    {
+      "source": "Seoul Economic Daily on MSN",
+      "count": 3
+    },
+    {
+      "source": "Edaily",
+      "count": 2
+    },
+    {
+      "source": "Hankyung on MSN",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FiercePharma",
+      "count": 9
+    },
+    {
+      "source": "RAPS",
+      "count": 8
+    },
+    {
+      "source": "MSN",
+      "count": 7
+    },
+    {
+      "source": "JD Supra",
+      "count": 6
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 5
+    },
+    {
+      "source": "Reuters on MSN",
+      "count": 4
+    },
+    {
+      "source": "CNBC",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "Business Wire",
+      "count": 3
+    },
+    {
+      "source": "The American Journal of Managed Care",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 11,
+      "keywords": [
+        "drug",
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "June 17 (Reuters) - The U.S. Food and Drug Administration approved the first generic version of Roche's Xofluza, a ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "5mon",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+        },
+        {
+          "title": "US FDA reverses course on Regenxbio's rare-disease gene therapy, backs accelerated approval bid",
+          "source": "Reuters on MSN",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "By Siddhi Mahatole June 22 (Reuters) - Regenxbio said on Monday the U.S. FDA has indicated that existing data for its ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/money/general/us-fda-reverses-course-on-regenxbio-s-rare-disease-gene-therapy-backs-accelerated-approval-bid/ar-AA26gi7g?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "3mon",
+          "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+        },
+        {
+          "title": "Responding to tougher FDA standards, Recipharm debuts new facility for beta-lactam drugs",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Recipharm says it set to work on a new plant in Bengaluru, India, in response to final FDA draft guidance around nonbacterial beta-lactam drugs issued in June 2022. (Ridofranz/iStock/Getty Images Plus",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "4mon",
+          "url": "https://www.fiercepharma.com/manufacturing/fda-winds-changing-recipharm-debuts-purpose-built-plant-beta-lactam-drugs"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        },
+        {
+          "title": "Alembic Pharma gets tentative nod from USFDA for generic cancer drug",
+          "source": "The Economic Times on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Alembic Pharmaceuticals has secured tentative approval from the USFDA for its generic Binimetinib tablets. This marks a significant step for the company in the cancer treatment drug market. The ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug/ar-AA263biL?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New drug could double survival time in patients with advanced pancreatic cancer",
+          "source": "News-Medical.Net",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A new medication could double survival time in patients with advanced pancreatic cancer, according to Phase III clinical ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "5h",
+          "url": "https://www.news-medical.net/news/20260622/New-drug-could-double-survival-time-in-patients-with-advanced-pancreatic-cancer.aspx"
+        },
+        {
+          "title": "NanoViricides Has Shipped NV-387 Oral Gummies Drug Product for Phase II Clinical Trial to DR Congo",
+          "source": "USA TODAY",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "SHELTON, CT / ACCESS Newswire / June 22, 2026 / NanoViricides, Inc. (NYSE Amer.:NNVC) (the &quot;Company&quot;) today announced ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.usatoday.com/press-release/story/35246/nanoviricides-has-shipped-nv-387-oral-gummies-drug-product-for-phase-ii-clinical-trial-to-dr-congo/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "drug",
+        "proposed",
+        "trade",
+        "spending",
+        "germany",
+        "investigate",
+        "reforms"
+      ],
+      "articles": [
+        {
+          "title": "Merz pushes back on US drug probe, citing EU trade pact",
+          "source": "Bloomberg on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Chancellor Friedrich Merz said he expects the US to stand by its trade commitments with Europe after Donald Trump’s administration launched a tariff investigation into Germany’s drug pricing.",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "",
+          "url": "https://www.msn.com/en-us/money/markets/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "source": "Fierce Pharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "7h",
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "source": "Fierce Pharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "7h",
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Not all PFAS have hazardous properties, with some considered of low concern, according to Europe's pharma federation. (sharrocks/iStock/Getty Images Plus/Getty Images) A proposed restriction on the ..",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "drugs",
+        "two"
+      ],
+      "articles": [
+        {
+          "title": "Nuvectis gains two experimental drugs in licensing deal with China's Haisco",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "June 22 (Reuters) - Nuvectis Pharma said on Monday it had licensed exclusive rights outside China to two experimental drugs from Haisco Pharmaceutical Group, targeting complement-mediated diseases and",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/money/other/nuvectis-gains-two-experimental-drugs-in-licensing-deal-with-china-s-haisco/ar-AA26fkLN?ocid=BingNewsVerp"
+        },
+        {
+          "title": "South Korea approves two domestic new drugs, setting record pace",
+          "source": "MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Ministry of Food and Drug Safety approved *Rimqarto* (component name: Anbal kapta jen oto ryu sel), a personalized autologous T-cell (CAR-T) immune anticancer agent developed by the domestic ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "1mon",
+          "url": "https://www.msn.com/en-xl/news/other/domestic-new-drug-approvals-surge-record-year-anticipated/ar-AA22SAzD?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "감염병",
+        "대비",
+        "모기"
+      ],
+      "articles": [
+        {
+          "title": "&quot;여름철 모기 꼼짝 마!&quot; 모기 매개 감염병 대비 방역 작업 [뉴시스Pic]",
+          "source": "파이낸셜뉴스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울&#183;대구=뉴시스] 류현주 이무열 기자 = 22일 대구 중구 동인동 일대에서 중구보건소 관계자가 여름철 모기 매개 감염병 대비 방역 작업을 하고 있다. ☞공감언론 뉴시스 ryuhj@newsis.com, ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "",
+          "url": "https://www.fnnews.com/news/202606221402301524"
+        },
+        {
+          "title": "[포토] ‘여름 모기 잡아라’…감염병 대비 방역작업",
+          "source": "SeoulPn",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "대구시 중구보건소가 22일 동인동 주택가에서 여름철 모기와 파리 등 위생해충 번식을 막기 위한 방역 작업을 진행했다. 기온 상승과 장마철을 앞두고 감염병 발생 위험을 줄이려는 조치로, 골목과 하수구, 공원 주변을 집중 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1시간",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260622800001"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+      "source": "Reuters",
+      "importance": 67,
+      "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+    },
+    {
+      "title": "GLP-1 drugs expand to treat cancer, heart disease, addiction",
+      "source": "The Chosun Ilbo on MSN",
+      "importance": 65,
+      "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond mere obesity treatments to ...",
+      "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
+    },
+    {
+      "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+      "source": "Science Daily",
+      "importance": 65,
+      "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+      "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+    },
+    {
+      "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+      "source": "FiercePharma",
+      "importance": 56,
+      "snippet": "President Donald Trump has asked Big Pharma CEOs to provide &quot;binding commitments&quot; to several of his drug pricing priorities by today. (lucky-photographer/GettyImages ...",
+      "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+    },
+    {
+      "title": "셀비온, 국가신약개발사업단과 전립선암 병용임상 과제 협약 체결",
+      "source": "Edaily",
+      "importance": 55,
+      "snippet": "방사성의약품 신약개발기업 셀비온(308430)이 전이성 거세저항성 전립선암(mCRPC) 환자를 대상으로 하는 병용요법 임상 1상 과제에 대해 국가신약개발사업단(KDDF, 단장 박영민)과 협약을 체결했다고 22일 밝혔다. (사진=셀비온)이번 협약은 국가신약개발사업의 ...",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645484344"
+    },
+    {
+      "title": "버닝록바이오텍, 1분기 매출 급감…제약 R&amp;D 서비스 부문 부진이 발목",
+      "source": "Maeil Business Newspaper",
+      "importance": 55,
+      "snippet": "1분기 매출 1,560만 달러로 전년 대비 18.9% 감소 제약 R&amp;D 서비스 부문 38.6% 급감이 실적 부진 주도 현금 6,510만 달러 보유로 유동성 리스크는 제한적 2026년 1분기 매출이 1,560만 달러로 전년 ...",
+      "url": "https://www.mk.co.kr/news/stock/12069979"
+    },
+    {
+      "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+      "source": "聯合新聞網",
+      "importance": 55,
+      "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+      "url": "https://udn.com/news/story/7270/8851185"
+    },
+    {
+      "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+      "source": "中時新聞網",
+      "importance": 55,
+      "snippet": "抗癌過程是一場長期抗戰，彰化基督教醫院中醫部主治醫師呂平安強調，中醫並非取代現代醫學，而是透過「扶正」、「去邪」，在不同治療階段提供支持，提升生活品質，藉由針灸或中藥調理 ...",
+      "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+    },
+    {
+      "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
+      "source": "اخبار 24",
+      "importance": 55,
+      "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+    },
+    {
+      "title": "תעשיית התרופות מגלה את המיחזור",
+      "source": "globes.co.il",
+      "importance": 55,
+      "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+      "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 3
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 8,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 8
+    }
+  ]
+}

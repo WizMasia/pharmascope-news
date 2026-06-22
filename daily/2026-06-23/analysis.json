@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-23",
+  "total_articles": 387,
+  "language_breakdown": {
+    "korean": 79,
+    "english": 146,
+    "multilingual": 162
+  },
+  "issues": [
+    {
+      "topic": "FDA 신약 승인 러시 — 항생제·독감약·유전자치료제",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 11,
+      "avg_importance": 56,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "FDA approves first generic version of Roche's flu drug", "importance": 67, "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"},
+        {"title": "US FDA reverses course on Regenxbio's rare-disease gene therapy, backs accelerated approval bid", "importance": 62, "url": "https://www.msn.com/en-us/money/general/us-fda-reverses-course-on-regenxbio-s-rare-disease-gene-therapy-backs-accelerated-approval-bid/ar-AA26gi7g?ocid=BingNewsVerp"},
+        {"title": "Alembic Pharma gets tentative nod from USFDA for generic cancer drug", "importance": 47, "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug/ar-AA263biL?ocid=BingNewsVerp"},
+        {"title": "New drug could double survival time in patients with advanced pancreatic cancer", "importance": 47, "url": "https://www.news-medical.net/news/20260622/New-drug-could-double-survival-time-in-patients-with-advanced-pancreatic-cancer.aspx"}
+      ],
+      "summary_kr": "FDA가 GSK의 경구용 항생제(내성 요로감염 적응증), Roche 독감약 Xofluza의 첫 제네릭, Regenxbio 희귀질환 유전자치료제 가속승인 등을 잇따라 승인. 졸리플로다신(zoliflodacin) 경구용 임질치료제 3상 성공, 췌장암 생존기간 2배 연장 신약 3상 결과도 주목. 알렘빅 제약의 Binimetinib 제네릭(항암) 잠정 승인도 획득. FDA 규제 활동이 매우 활발한 하루.",
+      "summary_en": "A flurry of FDA actions: GSK's oral antibiotic for resistant UTIs approved, first generic of Roche's Xofluza, Regenxbio gene therapy gets accelerated approval nod. Zoliflodacin shows promise for gonorrhea. Pancreatic cancer drug doubles survival in Phase III. Alembic's generic Binimetinib gets tentative nod."
+    },
+    {
+      "topic": "미·독 약가 무역분쟁 — 트럼프 행정부의 독일 약가 개혁 조사",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "Merz pushes back on US drug probe, citing EU trade pact", "importance": 67, "url": "https://www.msn.com/en-us/money/markets/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 61, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 56, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"}
+      ],
+      "summary_kr": "트럼프 행정부가 독일의 약가 개혁안에 대해 관세 조사를 개시하자, 독일 메르츠 총리가 EU 무역 협정을 근거로 반발. 미국은 독일의 약가 지출 개혁이 자국 제약사에 불공정하다는 입장. 동시에 EU의 포괄적 PFAS(과불화화합물) 화학물질 금지 제안이 제약 제조를 중단시킬 수 있다는 업계 경고도 제기. 미·EU 간 제약 무역 갈등이 격화되는 양상.",
+      "summary_en": "Trump administration launches tariff investigation into Germany's drug pricing reforms. Chancellor Merz pushes back citing EU trade commitments. Meanwhile, EU's proposed PFAS chemical ban could halt pharma manufacturing, trade groups warn. US-EU pharma trade tensions escalate."
+    },
+    {
+      "topic": "한국 신약 개발·품목허가 활황 — CAR-T·방사성의약품·기술수출",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 52,
+      "key_articles": [
+        {"title": "South Korea approves two domestic new drugs, setting record pace", "importance": 47, "url": "https://www.msn.com/en-xl/news/other/domestic-new-drug-approvals-surge-record-year-anticipated/ar-AA22SAzD?ocid=BingNewsVerp"},
+        {"title": "셀비온, 국가신약개발사업단과 전립선암 병용임상 과제 협약 체결", "importance": 55, "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645484344"},
+        {"title": "버닝록바이오텍, 1분기 매출 급감…제약 R&D 서비스 부문 부진이 발목", "importance": 55, "url": "https://www.mk.co.kr/news/stock/12069979"},
+        {"title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC", "importance": 61, "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"}
+      ],
+      "summary_kr": "한국에서 CAR-T 항암제 '림카르토' 등 2개 국산 신약이 연이어 허가되며 역대 최다 기록 경신 전망. 셀비온이 KDDF와 전립선암 방사성의약품 병용임상 협약 체결. 한편 버닝록바이오텍은 1분기 R&D 서비스 부문 부진으로 매출 18.9% 급감. 아시아 제약 동향으로는 Kyowa Kirin의 OX40 프로그램 중단, Sanofi의 Sinobiopharm과 first-in-class 라이선스 계약, BioNTech의 DualityBio ADC(B7-H3) 임상 업데이트가 주목됨.",
+      "summary_en": "South Korea approves two domestic new drugs including CAR-T 'Rimqarto', setting record pace. Selvion partners with KDDF for prostate cancer radio-pharma combo trial. Burning Rock Bio revenue drops 18.9% in Q1 due to R&D service slump. In Asia pharma: Kyowa ends OX40 program, Sanofi licenses first-in-class drug with Sino Biopharm, BioNTech advances B7-H3 ADC."
+    },
+    {
+      "topic": "GLP-1 적응증 확대 — 비만에서 암·심장병·중독으로",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 58,
+      "key_articles": [
+        {"title": "GLP-1 drugs expand to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "위고비, 마운자로로 대표되는 GLP-1 계열 약물이 비만 치료를 넘어 암, 심장질환, 중독 치료로 적응증 확대 중. 임상 데이터가 축적되면서 GLP-1의 전신 항염증 및 대사 조절 효과가 다양한 질환에 적용될 가능성이 제기됨. 이는 글로벌 제약 시장의 판도를 바꿀 잠재적 게임체인저로 평가됨.",
+      "summary_en": "GLP-1 drugs (Wegovy, Mounjaro) expanding beyond obesity to treat cancer, heart disease, and addiction. Growing clinical evidence points to systemic anti-inflammatory and metabolic modulation effects, potentially reshaping the global pharma landscape."
+    },
+    {
+      "topic": "전통의학 국제 교류 — 한의약·중의학·일본 Kampo 부상",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 55,
+      "key_articles": [
+        {"title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花", "importance": 55, "url": "https://udn.com/news/story/7270/8851185"},
+        {"title": "Tracing the origin of Kampo, Japan's traditional medicine", "importance": 65, "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"},
+        {"title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊", "importance": 55, "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"}
+      ],
+      "summary_kr": "서울 K-MEX 한의약 국제박람회에서 한의학과 중의학의 침구 과학화 교류 활발. 일본 Kampo(한방) 의학의 기원에 관한 연구도 발표. 대만 연구에 따르면 침술과 한약이 항암 화학요법 부작용 완화에 효과적이며, 특히 암 환자 피로를 70% 감소시키는 것으로 나타남. 전통의학의 과학적 근거 축적과 국제적 교류가 활발한 흐름.",
+      "summary_en": "K-MEX Korean Medicine Expo in Seoul showcases TCM-Korean medicine integration. Research traces Kampo origins to Chinese monk Jianzhen. TCM acupuncture and herbs reduce chemo side effects by 70% in cancer patients. Growing evidence base for traditional medicine worldwide."
+    },
+    {
+      "topic": "미국 약가 압박 지속 — PhRMA의 직접구매 프로그램 홍보 웹사이트",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 56,
+      "key_articles": [
+        {"title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs", "importance": 56, "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"}
+      ],
+      "summary_kr": "트럼프 대통령이 제약사 CEO들에게 '구속력 있는 약가 약속'을 요구한 가운데, PhRMA(미국제약협회)가 업계의 직접구매 프로그램을 홍보하는 웹사이트를 개설. 약가 인하 압박에 대한 제약업계의 대응 전략의 일환으로, 소비자 직결 할인 프로그램의 투명성을 강조하려는 의도.",
+      "summary_en": "Under Trump's demand for 'binding commitments' on drug pricing, PhRMA launches a website highlighting industry direct-purchase programs. A strategic response to mounting pricing pressure, emphasizing consumer discount transparency."
+    },
+    {
+      "topic": "EU 제약 규제 개혁 논란 — 혁신 위축·PFAS 금지 우려",
+      "domain": "regulatory",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 62,
+      "key_articles": [
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"}
+      ],
+      "summary_kr": "EU 집행위의 의약품 규정 전면 개혁안이 유럽의 글로벌 R&D 비중을 21%까지 축소시킬 수 있다는 업계 경고. 또한 PFAS(과불화화합물) 화학물질 광범위 사용 금지 제안이 제약 제조 공정에 치명적 타격을 줄 것이라는 제약 단체의 우려 제기.",
+      "summary_en": "EU pharma regulation overhaul could shrink Europe's global R&D share to 21%, industry warns. Proposed PFAS chemical ban threatens to halt drug manufacturing. Dual regulatory challenges facing European pharma."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 1, "en_count": 3, "significance": "한국 바이오시밀러 업계 동향과 글로벌 biosimilar 승인·경쟁 이슈가 병행"},
+    {"keyword": "허가/approval", "kr_count": 3, "en_count": 8, "significance": "FDA 신약 승인과 식약처 국산 신약 허가가 동시에 활발"},
+    {"keyword": "임상/clinical trial", "kr_count": 8, "en_count": 2, "significance": "국내 임상시험 관련 기사가 많고, 글로벌 임상 이슈(췌장암, GLP-1)와 연결"},
+    {"keyword": "약가/pricing", "kr_count": 1, "en_count": 8, "significance": "미국-독일 약가 무역분쟁이 글로벌 핫이슈, 국내 약가 정책은 상대적으로 저조"}
+  ],
+  "notable_absences": [
+    "국내 의료정책·의사인력 관련 이슈 (전공의 사직, 의료개혁 등) — 이전 대비 현저히 감소",
+    "COVID-19 관련 기사 — 사실상 제로",
+    "중국 바이오제약 규제·CDMO 관련 기사 부재"
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": [
+      "FDA 규제 활동 급증 (전일 대비 drug approval 기사 3배 증가)",
+      "미·독 약가 무역 갈등 새롭게 부상 (전일 0건 → 4건)",
+      "GLP-1 적응증 확대 기사 지속 — 비만→암·심장병으로 범위 확대"
+    ]
+  },
+  "connections": [
+    "미국 FDA 승인 러시 + 한국 신약 허가 기록 + EU 규제 개혁 → 글로벌 규제 환경 변화의 분수령",
+    "미·독 약가 갈등 + PhRMA 약가 대응 + EU PFAS 금지 → 제약산업 규제·무역 복합 위기",
+    "K-MEX 전통의학 박람회 + Kampo 기원 연구 + 항암 한약 연구 → 전통의학 과학화 국제적 흐름"
+  ],
+  "generated_at": "2026-06-23T07:30:00+09:00"
+}
