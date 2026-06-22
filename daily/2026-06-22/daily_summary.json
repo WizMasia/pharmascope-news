@@ -1,143 +1,139 @@
 {
   "date": "2026-06-22",
-  "total": 419,
+  "total": 398,
   "version": 1,
-  "generated_at": "2026-06-22T06:33:54.430041+09:00",
+  "generated_at": "2026-06-22T13:14:11.525272+09:00",
   "korean": {
-    "total": 103,
+    "total": 94,
     "categories": {
-      "의약품": 12,
-      "의약산업": 25,
-      "의약정책": 13,
+      "의약품": 10,
+      "의약산업": 19,
+      "의약정책": 14,
       "의약단체": 7,
-      "의약관련정부기관": 15,
-      "의료현장": 7,
-      "약국·약사": 2,
-      "의료정책·인력": 10,
-      "전통의학": 4,
-      "감염·보건": 8
+      "의약관련정부기관": 13,
+      "의료현장": 4,
+      "약국·약사": 4,
+      "의료정책·인력": 9,
+      "전통의학": 3,
+      "감염·보건": 11
     },
     "top_articles": [
       {
-        "title": "[기고] 제약업계 실무자를 위한 2026년 약가인하 개편 해설",
-        "source": "약업닷컴",
+        "title": "여름철 모기 매개 감염병 대비를 위한 방역작업",
+        "source": "Newsis",
+        "importance": 70,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Newsis+28 | 최신:2시간+20 | 키워드+20 | 순위:74위+2",
+        "snippet": "여름철 모기 매개 감염병 대비를 위한 방역작업 등록 2026.06.22 11:04:08 [대구=뉴시스] 이무열 기자 = 22일 대구 중구 동인동 일대에서 중구보건소 관계자가 여름철 모기 매개 감염병 대비 방역 작업을 하고 ...",
+        "time": "2시간",
+        "url": "https://www.newsis.com/view/NISI20260622_0021330566"
+      },
+      {
+        "title": "KRPIA, 식약처 최초 ‘EMA OPEN 프로그램’ 국제 공동심사 완료에 적극 환영",
+        "source": "Yakup",
         "importance": 66,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:약업닷컴+24 | 최신:27분+20 | 키워드+20 | 순위:66위+2",
+        "evidence": "출처:Yakup+24 | 최신:2시간+20 | 키워드+20 | 순위:108위+2",
+        "snippet": "식품의약품안전처가 유럽의약품청(EMA)이 주관하는 국제 의약품 공동심사 프로그램을 통해 해외 규제기관과 사상 첫 공동 심사를 성공적으로 완수한 것에 대해, 글로벌 제약 업계가 전폭적인 지지와 환영의 뜻을 ...",
+        "time": "2시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328793"
+      },
+      {
+        "title": "[기고] 제약업계 실무자를 위한 2026년 약가인하 개편 해설",
+        "source": "약업닷컴",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:7시간+15 | 키워드+20 | 순위:76위+2",
         "snippet": "기고자: 법률사무소 리오 이일형 대표 변호사(ihlee@riolaw.co.kr)1. 우리나라 건강보험 약가제도 구조우리나라 건강보험 약가제도는 2006년 선별등재 방식(Positive List System)으로 전환을 ...",
-        "time": "27분",
+        "time": "7시간",
         "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=328762"
       },
       {
-        "title": "의약품 유통업체 양극화 심화…매출 1조원 이상 7→9곳",
-        "source": "연합뉴스",
-        "importance": 57,
+        "title": "FDA 규제 유연화 기조 본격화… 세포&#183;유전자치료제 시장 기대감 고조",
+        "source": "Health Korea News",
+        "importance": 60,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+20 | 순위:146위+2",
-        "snippet": "(서울=연합뉴스) 박상현 기자 = 일부 의약품 유통업체의 대형화가 가속하면서 업계 내 양극화가 심화하고 있는 것으로 나타났다. 14일 한국의약품유통협회에 따르면 지난해 매출 1조원을 넘은 의약품 유통업체는 모두 9곳으로, ...",
-        "time": "",
-        "url": "https://www.yna.co.kr/view/AKR20260612121600017"
+        "evidence": "출처:Health Korea News+18 | 최신:1시간+20 | 키워드+20 | 순위:99위+2",
+        "snippet": "[헬스코리아뉴스 / 임도이] 미국 식품의약국(FDA)이 올해 들어 세포&#183;유전자치료제(Cell &amp; Gene Therapy, CGT) 개발을 지원하기 위한 규제 유연화 정책을 잇달아 내놓으면서 업계의 관심이 집중되고 있다. 화학 ...",
+        "time": "1시간",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=350138"
       },
       {
-        "title": "식약처장 &quot;의료제품 허가심사 혁신 차질 없이 추진&quot;",
-        "source": "Yonhap News Agency",
-        "importance": 57,
+        "title": "[2026 일반의약품 약국 복약상담 성공사례 12] 이지에프 새살연고",
+        "source": "약사공론",
+        "importance": 60,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:88위+2",
-        "snippet": "식약처의 의료제품 허가&#183;심사 혁신방안에는 자료 준비 단계에서 '체크리스트'를 제공하고 허가 신청 전 대면회의를 하며 허가&#183;심사 단계에서 수시 검토&#183;보완체계를 도입하는 등 구체적인 사업계 지원 내용이 담겼다.",
-        "time": "",
-        "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        "evidence": "출처:약사공론+18 | 최신:6시간+20 | 키워드+20 | 순위:27위+2",
+        "snippet": "2026년 4월 29일, 약사공론은 ‘제2회 일반의약품 약국 복약상담 성공사례 공모전’ 시상식을 개최했습니다. 이번 공모전에는 15개 일반의약품 브랜드를 대상으로 총 970여명의 약사가 참여했으며, 치열한 경쟁 끝에 브랜드별 ...",
+        "time": "6시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537078"
       },
       {
-        "title": "국립대병원 임상데이터 한곳에 모은다…전공의 배정 20%로 확대",
-        "source": "Yonhap News Agency",
-        "importance": 57,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:37위+2",
-        "snippet": "정부가 국립대학병원 육성을 위해 공공병원 임상데이터를 한 곳에 모아 첨단 치료기술 개발의 기반을 마련하고, 지역별 의료수요를 고려해 특화 분야를 육성하는 방안을 추진한다. 전체 국립대병원과 국립암센터 등 공공병원 임상데이터를 ...",
-        "time": "",
-        "url": "https://www.yna.co.kr/view/AKR20260615106500530"
-      },
-      {
-        "title": "약가개편 이어 '공동생동 폐지론' 부상…제네릭 난립 해법은",
-        "source": "데일리팜",
+        "title": "약가우대 예고에도 외면받는 국산 DMF…중국&#183;인도 쏠림 심화",
+        "source": "DailyPharm",
         "importance": 56,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:데일리팜+24 | 최신:33분+20 | 키워드+10 | 순위:67위+2",
-        "snippet": "정부여당이 현재 운영중인 제네릭 위탁(공동)생물학적동등성 시험 1+3 제도의 선진화 필요성을 놓고 고민에 빠졌다. 공동생동 1+3 허용 기준을 지금보다 축소하거나 아예 폐지하는 게 고민 방향성인데, 1개 성분 당 적게는 ...",
-        "time": "33분",
-        "url": "https://www.dailypharm.com/user/news/339618"
+        "evidence": "출처:DailyPharm+24 | 최신:1시간+20 | 키워드+10 | 순위:78위+2",
+        "snippet": "정부가 국산 원료의약품 사용을 장려하기 위해 약가우대 방안을 내놨지만, 제약업계에선 여전히 냉담한 모습이다. 올해 상반기 국가별 원료의약품 등록(DMF) 현황에서 국산 DMF는 작년과 동일한 수준이고, 오히려 최근 5년간 ...",
+        "time": "1시간",
+        "url": "https://www.dailypharm.com/user/news/339632"
       },
       {
-        "title": "버닝록바이오텍, 1분기 매출 급감…제약 R&amp;D 서비스 부문 부진이 발목",
-        "source": "Maeil Business Newspaper",
-        "importance": 55,
+        "title": "KRPIA, 식약처 최초 ‘EMA OPEN 프로그램’ 국제 공동심사 완료에 적극 환영",
+        "source": "Yakup",
+        "importance": 56,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:167위+2",
-        "snippet": "1분기 매출 1,560만 달러로 전년 대비 18.9% 감소 제약 R&amp;D 서비스 부문 38.6% 급감이 실적 부진 주도 현금 6,510만 달러 보유로 유동성 리스크는 제한적 2026년 1분기 매출이 1,560만 달러로 전년 ...",
-        "time": "",
-        "url": "https://www.mk.co.kr/news/stock/12069979"
+        "evidence": "출처:Yakup+24 | 최신:2시간+20 | 키워드+10 | 순위:60위+2",
+        "snippet": "식품의약품안전처가 유럽의약품청(EMA)이 주관하는 국제 의약품 공동심사 프로그램을 통해 해외 규제기관과 사상 첫 공동 심사를 성공적으로 완수한 것에 대해, 글로벌 제약 업계가 전폭적인 지지와 환영의 뜻을 ...",
+        "time": "2시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328793"
       },
       {
-        "title": "식약처, EMA와 첫 의약품 공동심사 완료…“해외 허가 문턱 낮춘다”",
-        "source": "Seoul Economic Daily",
-        "importance": 55,
+        "title": "병동전담약사 제도&#183;입법화 시동…&quot;다제약물 시범사업 확대를&quot;",
+        "source": "DailyPharm",
+        "importance": 56,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Seoul Economic Daily+28 | 최신:+5 | 키워드+20 | 순위:77위+2",
-        "snippet": "유럽의약품청(EMA)과 식품의약품안전처가 처음으로 의약품 국제 공동심사를 완료했다. 국내 기업은 유럽과 한국 규제기관에 각각 다른 자료를 제출해야 하는 부담을 덜 수 있게 됐고, 식약처는 이번 심사를 통해 글로벌 수준의 규제 ...",
-        "time": "",
-        "url": "https://www.sedaily.com/article/20056713"
+        "evidence": "출처:DailyPharm+24 | 최신:1시간+20 | 키워드+10 | 순위:61위+2",
+        "snippet": "병원약사회가 병동전담약사 제도의 안정적인 정착을 위해서는 현재 일부에서 운영 중인 다제약물관리 시범사업을 의료전달체계 전반으로 확대해 치료이행기 약물관리 효과를 검증할 필요가 있다고 강조했다. 이를 통해 환자안전과 보험재정 ...",
+        "time": "1시간",
+        "url": "https://www.dailypharm.com/user/news/339654"
+      },
+      {
+        "title": "식약처, 5일간 첫 ‘마약류 안심수거 주간’ 운영…가정 내 방치 약물 집중 회수",
+        "source": "Yakup",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yakup+24 | 최신:3시간+20 | 키워드+10 | 순위:96위+2",
+        "snippet": "식품의약품안전처 (처장 오유경)는 제40회 ‘세계마약퇴치의 날’을 맞이하여 ‘마약류 안심수거 주간 (Take-Back Week)’을 6월 22일부터 6월 26일까지 5일간 실시한다고 22일 밝혔다. 이번 캠페인은 ‘가정 내 마약류 의약품 수거&#183;폐기 사업’ 참여 약국과 소관 10개 지방정부, 6개 지방식품의약품안전청에서 동시에 전개된다.",
+        "time": "3시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328785"
       },
       {
         "title": "인텔리전트 바이오 솔루션스, FDA 510(k) 승인 위한 임상 간섭 시험 착수",
         "source": "매일경제",
         "importance": 55,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:매일경제+28 | 최신:+5 | 키워드+20 | 순위:84위+2",
+        "evidence": "출처:매일경제+28 | 최신:+5 | 키워드+20 | 순위:102위+2",
         "snippet": "FDA 510(k) 승인 위한 임상 간섭 시험 착수, 75명 대상 코데인 검출 정확성 검증 7월 중순까지 시험 완료 후 FDA 제출 자료에 포함 계획 올해 매출 579% 성장 2,629만 달러, 주당순이익 0.35달러 ...",
         "time": "",
         "url": "https://www.mk.co.kr/news/stock/12075955"
-      },
-      {
-        "title": "&quot;빠른 허가심사 위한 협력&quot;…CEO들 만난 식약처",
-        "source": "파이낸셜뉴스",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:87위+2",
-        "snippet": "[서울=뉴시스]이소헌 기자 = &quot;240일 허가&#183;심사는 '이인삼각'과 같은 일이라고 생각합니다. 업계가 식약처와 소통하고 힘을 모아주시면서 함께 뛰어야 K-바이오가 더 발전하고 신약을 통해 환자의 치료 기회가 더 빨리 확대되는 ...",
-        "time": "",
-        "url": "https://www.fnnews.com/news/202606191311316576"
-      },
-      {
-        "title": "&quot;강의에 집중&quot; 1900명 한자리 경남약사학술제, 전문성 강화",
-        "source": "약사공론",
-        "importance": 53,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:약사공론+18 | 최신:31분+20 | 키워드+5 | 순위:11위+10",
-        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 2026 경남약사학술제 및 제52회 팜엑스포가 20~21일 창원컨벤션센터(CECO)에서 개최됐다. 올해 행사는 1900여 명의 회원이 참석한 가운데 학술 강의 중심의 프로그램과 ...",
-        "time": "31분",
-        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537104"
       }
     ],
     "top_keywords": [
       [
         "신약",
-        17
+        15
       ],
       [
         "식약처",
-        11
-      ],
-      [
-        "급여",
-        9
+        10
       ],
       [
         "임상",
         9
       ],
       [
-        "허가",
+        "급여",
         7
       ],
       [
@@ -145,28 +141,24 @@
         5
       ],
       [
-        "수출",
+        "FDA",
         5
       ],
       [
-        "FDA",
+        "수출",
         4
+      ],
+      [
+        "허가",
+        3
       ],
       [
         "약가",
         3
       ],
       [
-        "오남용",
-        2
-      ],
-      [
         "백신",
         2
-      ],
-      [
-        "GMP",
-        1
       ],
       [
         "제네릭",
@@ -177,57 +169,41 @@
         1
       ],
       [
-        "공급망",
-        1
-      ],
-      [
         "CDMO",
         1
       ]
     ],
     "top_sources": [
       [
-        "Maeil Business Newspaper",
+        "이데일리 on MSN",
         5
       ],
       [
-        "Yonhap News Agency",
+        "약사공론",
+        5
+      ],
+      [
+        "Maeil Business Newspaper",
         4
-      ],
-      [
-        "EBN",
-        4
-      ],
-      [
-        "이데일리 on MSN",
-        4
-      ],
-      [
-        "Financial News on MSN",
-        4
-      ],
-      [
-        "Financial News",
-        3
-      ],
-      [
-        "Seoul Economic Daily on MSN",
-        3
-      ],
-      [
-        "데일리팜",
-        3
-      ],
-      [
-        "News Tomato",
-        3
       ],
       [
         "Insight on MSN",
         3
       ],
       [
-        "eToday on MSN",
+        "Yakup",
+        3
+      ],
+      [
+        "Financial News on MSN",
+        3
+      ],
+      [
+        "Hankyung on MSN",
+        2
+      ],
+      [
+        "Financial News",
         2
       ],
       [
@@ -235,28 +211,40 @@
         2
       ],
       [
+        "Seoul Economic Daily on MSN",
+        2
+      ],
+      [
         "News2Day",
         2
       ],
       [
-        "연합뉴스",
+        "데일리팜",
         2
       ],
       [
-        "Seoul Economic Daily",
+        "IT Chosun on MSN",
+        2
+      ],
+      [
+        "Medical News",
+        2
+      ],
+      [
+        "eToday",
         2
       ]
     ]
   },
   "english": {
-    "total": 150,
+    "total": 144,
     "categories": {
-      "Drugs & Therapies": 25,
-      "Pharma Industry": 25,
-      "Pharma Policy": 25,
+      "Drugs & Therapies": 23,
+      "Pharma Industry": 24,
+      "Pharma Policy": 23,
       "Pharma Associations": 25,
       "Regulatory Agencies": 25,
-      "Traditional & Complementary Medicine": 25
+      "Traditional & Complementary Medicine": 24
     },
     "top_articles": [
       {
@@ -264,7 +252,7 @@
         "source": "Reuters on MSN",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:124위+2",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:131위+2",
         "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
         "time": "",
         "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
@@ -274,17 +262,27 @@
         "source": "Reuters on MSN",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:125위+2",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:134위+2",
         "snippet": "June 17 (Reuters) - The U.S. Food and Drug Administration approved the first generic version of Roche's Xofluza, a ...",
         "time": "",
         "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Sanofi says rare lung disease drug outperforms standard care in trial",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:1mon+5 | 키워드+30 | 순위:159위+2",
+        "snippet": "LONDON, May 18 (Reuters) - French drugmaker Sanofi said on Monday a trial showed its rare disease therapy was better than standard care in raising levels of a key protein in patients with a genetic ..",
+        "time": "1mon",
+        "url": "https://www.reuters.com/legal/litigation/sanofi-says-rare-lung-disease-drug-outperforms-standard-care-trial-2026-05-18/"
       },
       {
         "title": "Big pharma taps UK playbook to pressure European capitals on drug prices",
         "source": "Reuters",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+30 | 순위:120위+2",
+        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+30 | 순위:123위+2",
         "snippet": "Global pharmaceutical companies, facing pushback from European capitals on drug pricing, are turning to a playbook that ...",
         "time": "",
         "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
@@ -294,27 +292,17 @@
         "source": "Bloomberg on MSN",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Bloomberg on MSN+30 | 최신:+5 | 키워드+30 | 순위:128위+2",
+        "evidence": "출처:Bloomberg on MSN+30 | 최신:+5 | 키워드+30 | 순위:130위+2",
         "snippet": "Chancellor Friedrich Merz said he expects the US to stand by its trade commitments with Europe after Donald Trump’s administration launched a tariff investigation into Germany’s drug pricing.",
         "time": "",
         "url": "https://www.msn.com/en-us/money/markets/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"
-      },
-      {
-        "title": "High Court ‘Skinny Label’ Ruling Is No Generic Drug Free-for-All",
-        "source": "Bloomberg Law News",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Bloomberg Law News+30 | 최신:+5 | 키워드+30 | 순위:131위+2",
-        "snippet": "Opinion: Generic drug manufacturers should view the Supreme Court's ruling in Hikma v. Amarin as a limited safe harbor ...",
-        "time": "",
-        "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
       },
       {
         "title": "EU proposal may accelerate pharma innovation decline, industry group says",
         "source": "Reuters",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:135위+2",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:138위+2",
         "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
         "time": "2y",
         "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
@@ -324,9 +312,9 @@
         "source": "The Chosun Ilbo on MSN",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:18h+5 | 키워드+30 | 순위:132위+2",
+        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:1d+5 | 키워드+30 | 순위:151위+2",
         "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond mere obesity treatments to ...",
-        "time": "18h",
+        "time": "1d",
         "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
       },
       {
@@ -334,7 +322,7 @@
         "source": "Science Daily",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Science Daily+28 | 최신:5mon+5 | 키워드+30 | 순위:161위+2",
+        "evidence": "출처:Science Daily+28 | 최신:5mon+5 | 키워드+30 | 순위:168위+2",
         "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
         "time": "5mon",
         "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
@@ -344,33 +332,29 @@
         "source": "Science Daily",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:123위+2",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:127위+2",
         "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
         "time": "3y",
         "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
       },
       {
-        "title": "EU-US trade deal could add up to $19 billion in pharma industry costs, analysts say",
-        "source": "Reuters",
-        "importance": 62,
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "source": "FiercePharma",
+        "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:10mon+5 | 키워드+25 | 순위:126위+2",
-        "snippet": "EU-branded medicines face 15% import tariff; certain generic drugs might be exempt Tariffs may raise consumer prices unless mitigated, analyst says Pharma companies stockpile, make deals to absorb ...",
-        "time": "10mon",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-us-trade-deal-could-add-up-19-billion-pharma-industry-costs-analysts-say-2025-07-28/"
+        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:144위+2",
+        "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+        "time": "3mon",
+        "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
       }
     ],
     "top_keywords": [
       [
         "FDA",
-        25
+        26
       ],
       [
         "approval",
-        9
-      ],
-      [
-        "manufacturing",
         9
       ],
       [
@@ -378,31 +362,31 @@
         8
       ],
       [
-        "GMP",
-        7
-      ],
-      [
         "inspection",
         7
       ],
       [
-        "generic",
+        "manufacturing",
+        7
+      ],
+      [
+        "GMP",
         6
       ],
       [
-        "patent",
-        4
+        "generic",
+        5
       ],
       [
         "biosimilar",
         3
       ],
       [
-        "GLP-1",
-        2
+        "patent",
+        3
       ],
       [
-        "obesity",
+        "GLP-1",
         1
       ],
       [
@@ -421,7 +405,7 @@
     "top_sources": [
       [
         "FiercePharma",
-        8
+        9
       ],
       [
         "RAPS",
@@ -433,15 +417,7 @@
       ],
       [
         "MSN",
-        5
-      ],
-      [
-        "Yahoo Finance",
-        5
-      ],
-      [
-        "Nature",
-        4
+        6
       ],
       [
         "CNBC",
@@ -452,11 +428,11 @@
         4
       ],
       [
-        "Medical Xpress",
+        "Yahoo Finance",
         4
       ],
       [
-        "News Medical",
+        "The American Journal of Managed Care",
         4
       ],
       [
@@ -464,11 +440,11 @@
         3
       ],
       [
-        "Business Wire",
+        "Nature",
         3
       ],
       [
-        "The American Journal of Managed Care",
+        "Business Wire",
         3
       ],
       [
@@ -478,28 +454,36 @@
       [
         "Science Daily",
         2
+      ],
+      [
+        "Morningstar",
+        2
+      ],
+      [
+        "CNN",
+        2
       ]
     ]
   },
   "multilingual": {
-    "total": 166,
+    "total": 160,
     "languages": {
-      "French / 프랑스어": 10,
+      "French / 프랑스어": 9,
       "German / 독일어": 10,
       "Spanish / 스페인어": 10,
-      "Italian / 이탈리아어": 10,
+      "Italian / 이탈리아어": 9,
       "Portuguese / 포르투갈어": 10,
       "Dutch / 네덜란드어": 10,
       "Swedish / 스웨덴어": 10,
       "Polish / 폴란드어": 10,
       "Turkish / 터키어": 10,
       "Russian / 러시아어": 10,
-      "Japanese / 일본어": 10,
+      "Japanese / 일본어": 8,
       "Chinese Simplified / 중국어": 0,
       "Chinese Traditional / 대만": 5,
       "Vietnamese / 베트남어": 10,
-      "Thai / 태국어": 10,
-      "Indonesian / 인도네시아어": 10,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 9,
       "Hindi / 힌디어": 9,
       "Arabic / 아랍어": 5,
       "Hebrew / 히브리어": 4,
@@ -537,16 +521,6 @@
         "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
       },
       {
-        "title": "Ekspor Produk Farmasi ke Afghanistan Perkuat Daya Saing Global",
-        "source": "Media Indonesia",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Media Indonesia+28 | 최신:16 juta+5 | 키워드+20 | 순위:21위+2",
-        "snippet": "Bio Farma Group melalui PT Indofarma Tbk resmi mengekspor lima kontainer produk farmasi ke Afghanistan sebagai bagian dari ...",
-        "time": "16 juta",
-        "url": "https://mediaindonesia.com/ekonomi/902718/ekspor-produk-farmasi-ke-afghanistan-perkuat-daya-saing-global"
-      },
-      {
         "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
         "source": "اخبار 24",
         "importance": 55,
@@ -555,6 +529,16 @@
         "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
         "time": "6 من السنوات",
         "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+      },
+      {
+        "title": "&#171;دارو&#187; زیر فشار بی‌ثباتی ارزی و اجرایی / امنیت دارویی کشور در گرو ثبات سیاست‌گذاری",
+        "source": "ISNA News Agency",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:ISNA News Agency+10 | 최신:1 روز+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "رئیس انجمن تولیدکنندگان محصولات بیوتکنولوژی پزشکی با هشدار نسبت به آنچه که &#171;پیامدهای تغییرات مکرر سیاست‌های ارزی و اجرایی در ...",
+        "time": "1 روز",
+        "url": "https://www.isna.ir/news/1405033017971/%D8%AF%D8%A7%D8%B1%D9%88-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1"
       }
     ],
     "top_keywords": [],
@@ -592,10 +576,6 @@
         2
       ],
       [
-        "BBC",
-        2
-      ],
-      [
         "Quotidianosanità.it",
         2
       ],
@@ -613,6 +593,10 @@
       ],
       [
         "Yle",
+        2
+      ],
+      [
+        "SvD",
         2
       ],
       [
