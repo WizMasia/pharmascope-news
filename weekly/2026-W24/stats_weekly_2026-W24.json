@@ -5,60 +5,74 @@
   "folder": "2026-W24",
   "start": "2026-06-15",
   "end": "2026-06-21",
-  "total_articles": 1456,
-  "total_days": 5,
+  "total_articles": 2279,
+  "total_days": 7,
   "dates_covered": [
     "2026-06-15",
     "2026-06-16",
     "2026-06-17",
     "2026-06-18",
-    "2026-06-19"
+    "2026-06-19",
+    "2026-06-20",
+    "2026-06-21"
   ],
   "korean": {
-    "total": 417,
+    "total": 610,
     "categories": {
-      "의약산업": 74,
-      "감염·보건": 64,
-      "의약품": 62,
-      "의료정책·인력": 54,
-      "의약정책": 51,
-      "의약단체": 36,
-      "의약관련정부기관": 30,
-      "의료현장": 30,
-      "약국·약사": 13,
-      "전통의학": 3
+      "의약산업": 120,
+      "의약품": 91,
+      "감염·보건": 83,
+      "의료정책·인력": 77,
+      "의약정책": 68,
+      "의약관련정부기관": 62,
+      "의약단체": 50,
+      "의료현장": 38,
+      "약국·약사": 14,
+      "전통의학": 7
     },
     "top_keywords": [
       [
         "신약",
-        60
-      ],
-      [
-        "급여",
-        25
+        95
       ],
       [
         "식약처",
-        21
-      ],
-      [
-        "임상",
-        20
+        46
       ],
       [
         "허가",
-        19
+        43
       ],
       [
-        "백신",
-        11
+        "급여",
+        36
       ],
       [
-        "한약",
-        11
+        "임상",
+        36
       ],
       [
         "수출",
+        22
+      ],
+      [
+        "심사",
+        21
+      ],
+      [
+        "백신",
+        17
+      ],
+      [
+        "FDA",
+        16
+      ],
+      [
+        "약가",
+        12
+      ],
+      [
+        "한약",
         11
       ],
       [
@@ -66,31 +80,27 @@
         11
       ],
       [
-        "약가",
-        10
+        "바이오시밀러",
+        9
+      ],
+      [
+        "CDMO",
+        9
       ],
       [
         "항암",
         7
       ],
       [
-        "바이오시밀러",
-        7
+        "오남용",
+        5
       ],
       [
-        "FDA",
-        6
-      ],
-      [
-        "CDMO",
-        6
-      ],
-      [
-        "R&D",
+        "특허",
         4
       ],
       [
-        "오남용",
+        "R&D",
         4
       ],
       [
@@ -98,11 +108,7 @@
         3
       ],
       [
-        "특허",
-        3
-      ],
-      [
-        "심사",
+        "GMP",
         2
       ],
       [
@@ -120,113 +126,109 @@
       [
         "GLP-1",
         1
-      ],
-      [
-        "GMP",
-        1
       ]
     ]
   },
   "english": {
-    "total": 460,
+    "total": 760,
     "categories": {
-      "Drugs & Therapies": 79,
-      "Pharma Industry": 79,
-      "Pharma Policy": 79,
-      "Regulatory Agencies": 79,
-      "Pharma Associations": 78,
-      "Traditional & Complementary Medicine": 66
+      "Drugs & Therapies": 129,
+      "Pharma Industry": 129,
+      "Pharma Policy": 129,
+      "Regulatory Agencies": 129,
+      "Pharma Associations": 128,
+      "Traditional & Complementary Medicine": 116
     },
     "top_keywords": [
       [
         "FDA",
-        73
+        126
       ],
       [
         "pricing",
-        22
+        38
       ],
       [
         "manufacturing",
-        20
+        36
       ],
       [
         "approval",
-        18
+        34
       ],
       [
         "GMP",
-        18
+        30
       ],
       [
         "inspection",
-        16
-      ],
-      [
-        "patent",
-        10
+        30
       ],
       [
         "generic",
-        10
+        22
+      ],
+      [
+        "patent",
+        21
       ],
       [
         "biosimilar",
-        9
+        17
       ],
       [
         "recall",
-        5
+        7
       ],
       [
         "clinical trial",
-        5
+        7
       ],
       [
         "regulation",
-        4
+        5
       ],
       [
         "quality",
-        3
+        5
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "obesity",
+        2
       ],
       [
         "safety",
         2
-      ],
-      [
-        "GLP-1",
-        1
-      ],
-      [
-        "obesity",
-        1
       ]
     ]
   },
   "multilingual": {
-    "total": 579,
+    "total": 909,
     "languages": {
-      "Indonesian / 인도네시아어": 43,
-      "Vietnamese / 베트남어": 42,
-      "Russian / 러시아어": 38,
-      "Portuguese / 포르투갈어": 37,
-      "Thai / 태국어": 36,
-      "Spanish / 스페인어": 35,
-      "French / 프랑스어": 34,
-      "Italian / 이탈리아어": 33,
-      "Turkish / 터키어": 32,
-      "Hindi / 힌디어": 31,
-      "Dutch / 네덜란드어": 29,
-      "German / 독일어": 27,
-      "Arabic / 아랍어": 26,
-      "Swedish / 스웨덴어": 25,
-      "Polish / 폴란드어": 25,
-      "Japanese / 일본어": 23,
+      "Indonesian / 인도네시아어": 63,
+      "Vietnamese / 베트남어": 62,
+      "Portuguese / 포르투갈어": 57,
+      "Russian / 러시아어": 57,
+      "Thai / 태국어": 56,
+      "Spanish / 스페인어": 55,
+      "French / 프랑스어": 54,
+      "Italian / 이탈리아어": 53,
+      "Turkish / 터키어": 52,
+      "Dutch / 네덜란드어": 49,
+      "German / 독일어": 47,
+      "Hindi / 힌디어": 46,
+      "Swedish / 스웨덴어": 45,
+      "Polish / 폴란드어": 45,
+      "Japanese / 일본어": 43,
+      "Arabic / 아랍어": 38,
+      "Hebrew / 히브리어": 32,
+      "Chinese Traditional / 대만": 27,
       "Chinese Simplified / 중국어": 22,
-      "Hebrew / 히브리어": 22,
-      "Chinese Traditional / 대만": 17,
-      "Persian / 페르시아어": 2
+      "Persian / 페르시아어": 6
     }
   }
 }
