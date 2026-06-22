@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-21",
+  "total_articles": 401,
+  "language_breakdown": {
+    "korean": {"total": 84, "categories": {"의약품": 13, "의약산업": 21, "의약정책": 7, "의약단체": 6, "의약관련정부기관": 12, "의료현장": 3, "약국·약사": 1, "의료정책·인력": 11, "전통의학": 1, "감염·보건": 9}},
+    "english": {"total": 150, "categories": {"Drugs & Therapies": 25, "Pharma Industry": 25, "Pharma Policy": 25, "Pharma Associations": 25, "Regulatory Agencies": 25, "Traditional & Complementary Medicine": 25}},
+    "multilingual": {"total": 167, "languages": {"French / 프랑스어": 10, "German / 독일어": 10, "Spanish / 스페인어": 10, "Italian / 이탈리아어": 10, "Portuguese / 포르투갈어": 10, "Dutch / 네덜란드어": 10, "Swedish / 스웨덴어": 10, "Polish / 폴란드어": 10, "Turkish / 터키어": 10, "Russian / 러시아어": 9, "Japanese / 일본어": 10, "Chinese Simplified / 중국어": 0, "Chinese Traditional / 대만": 5, "Vietnamese / 베트남어": 10, "Thai / 태국어": 10, "Indonesian / 인도네시아어": 10, "Hindi / 힌디어": 8, "Arabic / 아랍어": 6, "Hebrew / 히브리어": 6, "Persian / 페르시아어": 3}}
+  },
+  "issues": [
+    {
+      "topic": "식약처 의료제품 허가심사 혁신 가속 — EMA 공동심사·240일 체계·CEO 간담회",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 15,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"",
+          "source": "Yonhap News Agency",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        },
+        {
+          "title": "식약처, EMA와 첫 의약품 공동심사 완료…\"해외 허가 문턱 낮춘다\"",
+          "source": "Seoul Economic Daily",
+          "importance": 55,
+          "url": "https://www.sedaily.com/article/20056713"
+        },
+        {
+          "title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처",
+          "source": "파이낸셜뉴스",
+          "importance": 55,
+          "url": "https://www.fnnews.com/news/202606191311316576"
+        },
+        {
+          "title": "기다리다 숨지는 일 없게, 신약 '240일 허가' 시대 여는 식약처",
+          "source": "Financial News",
+          "importance": 45,
+          "url": "https://www.fnnews.com/news/202606160621126111"
+        }
+      ],
+      "summary_kr": "식약처가 의료제품 허가심사 혁신을 본격화하고 있다. EMA와 첫 국제 공동심사를 완료해 해외 허가 문턱을 낮췄고, '240일 허가' 체계를 도입해 신속 승인을 추진 중이다. 오송철처장은 제약 CEO들과 간담회를 열어 업계 협력을 강조했다. 이번 혁신은 K-바이오의 글로벌 진출에 중요한 전환점이 될 전망.",
+      "summary_en": "MFDS is accelerating its pharmaceutical product review innovation. It completed the first joint review with EMA to lower overseas approval barriers, and introduced a '240-day review' system for expedited approvals. Commissioner Oh held a meeting with pharma CEOs emphasizing industry collaboration. This innovation marks a turning point for K-Bio's global expansion."
+    },
+    {
+      "topic": "FDA 규제 동향과 바이오시밀러 시장 확대 — 항생제 승인·제네릭·스키니라벨·임상 간소화",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 18,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "High Court 'Skinny Label' Ruling Is No Generic Drug Free-for-All",
+          "source": "Bloomberg Law News",
+          "importance": 67,
+          "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
+        },
+        {
+          "title": "FDA's plan to boost biosimilar drugs could stall at the patent office",
+          "source": "FiercePharma",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "美 FDA '임상 간소화'에…바이오시밀러 개발 전략 바뀔까",
+          "source": "이데일리 on MSN",
+          "importance": 27,
+          "url": "https://www.msn.com/ko-kr/news/other/%E7%BE%8E-fda-%EC%9E%84%EC%83%81-%EA%B0%84%EC%86%8C%ED%99%94-%EC%97%90-%EB%B0%94%EC%9D%B4%EC%98%A4%EC%8B%9C%EB%B0%80%EB%9F%AC-%EA%B0%9C%EB%B0%9C-%EC%A0%84%EB%9E%B5-%EB%B0%94%EB%80%94%EA%B9%8C/ar-AA258eo4?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염 경구용 항생제와 Roche 독감약 최초 제네릭을 잇달아 승인했다. 대법원의 스키니라벨 판결로 제네릭·바이오시밀러 시장 환경이 변화하고 있으며, FDA는 바이오시밀러 규제 완화를 추진 중이나 특허청 문턱이 변수로 남았다. 한국 기업들도 FDA 임상 간소화에 맞춰 바이오시밀러 개발 전략을 조정 중이다.",
+      "summary_en": "FDA approved GSK's oral antibiotic for drug-resistant UTIs and the first generic of Roche's flu drug. The Supreme Court's skinny label ruling is reshaping the generic/biosimilar landscape. FDA is streamlining biosimilar regulation, though patent office hurdles remain. Korean companies are adjusting biosimilar development strategies accordingly."
+    },
+    {
+      "topic": "미-EU 무역 갈등과 글로벌 약가 압박 — 관세·혁신 위기·PhRMA 대응",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 57,
+      "key_articles": [
+        {
+          "title": "Big pharma taps UK playbook to pressure European capitals on drug prices",
+          "source": "Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
+        },
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "source": "Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US",
+          "source": "FiercePharma",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"
+        },
+        {
+          "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+          "source": "FiercePharma",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        }
+      ],
+      "summary_kr": "글로벌 제약사들이 유럽 각국에 약가 인하 압박에 맞서 영국式 협상 전략을 도입하고 있다. Trump 행정부의 제약 관세 위협에 EU는 1,000억 달러 규모의 제약 이탈 위기에 직면했다. EU의 포괄적 PFAS 화학물질 금지提案도 의약품 제조 차질 우려를 낳고 있다. PhRMA는 직접구매 프로그램 홍보 웹사이트를 론칭하며 약가 압박에 대응 중.",
+      "summary_en": "Big pharma is adopting the UK negotiation playbook to counter drug pricing pressures across European capitals. Under Trump's tariff threats, the EU faces a potential $100B+ pharma exodus. The proposed EU-wide PFAS chemical ban threatens to halt drug manufacturing. PhRMA launched a new website promoting direct purchasing programs to counter pricing pressure."
+    },
+    {
+      "topic": "K-바이오 글로벌 진출 가속 — 바이오USA·CDMO 경쟁·신약 기술수출",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 20,
+      "avg_importance": 35,
+      "key_articles": [
+        {
+          "title": "바이오USA 잭팟 꿈꾸는 K-바이오… 주목할 만한 기업은?",
+          "source": "IT Chosun on MSN",
+          "importance": 40,
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%B0%94%EC%9D%B4%EC%98%A4usa-%EC%9E%AD%ED%8C%9F-%EA%BF%88%EA%BE%B8%EB%8A%94-k-%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%A3%BC%EB%AA%A9%ED%95%A0-%EB%A7%8C%ED%95%9C-%EA%B8%B0%EC%97%85%EC%9D%80/ar-AA265wek?ocid=BingNewsVerp"
+        },
+        {
+          "title": "삼성바이오, 14년 연속 '바이오 USA' 단독부스...\"CDMO 리더 입지 굳힌다\"",
+          "source": "디지털타임스 on MSN",
+          "importance": 27,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%82%BC%EC%84%B1%EB%B0%94%EC%9D%B4%EC%98%A4-14%EB%85%84-%EC%97%B0%EC%86%8D-%EB%B0%94%EC%9D%B4%EC%98%A4-usa-%EB%8B%A8%EB%8F%85%EB%B6%80%EC%8A%A4-cdmo-%EB%A6%AC%EB%8D%94-%EC%9E%85%EC%A7%80-%EA%B5%B3%ED%9E%8C%EB%8B%A4/ar-AA25EGNj?ocid=BingNewsVerp"
+        },
+        {
+          "title": "1700억弗 중남미·동남아 시장 선점…의약품 수출 다변화 노린다",
+          "source": "서울경제 on MSN",
+          "importance": 27,
+          "url": "https://www.msn.com/ko-kr/money/other/1700%EC%96%B5%E5%BC%97-%EC%A4%91%EB%82%A8%EB%AF%B8-%EB%8F%99%EB%82%A8%EC%95%84-%EC%8B%9C%EC%9E%A5-%EC%84%A0%EC%A0%90-%EC%9D%98%EC%95%BD%ED%92%88-%EC%88%98%EC%B6%9C-%EB%8B%A4%EB%B3%80%ED%99%94-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA25IXom?ocid=BingNewsVerp"
+        },
+        {
+          "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+          "source": "聯合新聞網",
+          "importance": 55,
+          "url": "https://udn.com/news/story/7270/8851185"
+        }
+      ],
+      "summary_kr": "국내 제약·바이오 기업들이 바이오USA에 총출동해 CDMO 수주와 신약 기술수출 확보 경쟁을 펼치고 있다. 삼성바이오로직스는 14년 연속 단독부스 운영, 셀트리온·롯데바이오로직스 등도 글로벌 파트너십 확보에 나섰다. 중남미·동남아 시장 공략도 병행하며 수출 다변화를 추진 중이다. 다만 후기 임상 자금난으로 기술수출 완주에 어려움을 겪는 기업도 존재한다.",
+      "summary_en": "Korean pharma/biotech companies are heading to BioUSA en masse, competing for CDMO contracts and technology export deals. Samsung Biologics operates a solo booth for the 14th consecutive year, while Celltrion and Lotte Biologics pursue global partnerships. Companies are also targeting Latin American and Southeast Asian markets for export diversification. However, late-stage clinical funding gaps remain a bottleneck for some firms."
+    },
+    {
+      "topic": "의약품 유통·약가 정책 변화 — 유통 양극화·CSO 리스크·탈모약 급여 논란",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 10,
+      "avg_importance": 38,
+      "key_articles": [
+        {
+          "title": "의약품 유통업체 양극화 심화…매출 1조원 이상 7→9곳",
+          "source": "연합뉴스",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260612121600017"
+        },
+        {
+          "title": "한국 의약품 유통시장 100조원인데...재고·유통구조 아무도 모르죠",
+          "source": "Maeil Business Newspaper",
+          "importance": 45,
+          "url": "https://www.mk.co.kr/news/it/12075611"
+        },
+        {
+          "title": "탈모약 건보 논란…\"중증 급여 먼저\" vs \"가격 관리 효과\"",
+          "source": "Financial News",
+          "importance": 40,
+          "url": "https://www.fnnews.com/news/202606160604421379"
+        },
+        {
+          "title": "[IB토마토](CSO 리스크)③과징금 넘어 판매정지…중소 제약사 실적 직격탄",
+          "source": "News Tomato",
+          "importance": 37,
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1303380"
+        }
+      ],
+      "summary_kr": "국내 의약품 유통업계 양극화가 심화되며 매출 1조원 이상 대형사가 7곳에서 9곳으로 증가했다. 100조원 시장의 재고·유통구조 투명성 문제도 지적됐다. CSO(판촉영업자) 리스크가 과징금을 넘어 판매정지로 확대되면서 중소 제약사에 직격탄이 되고 있다. 탈모약 건강보험 급여 적용을 둘러싸고 중증 우선 vs 가격 관리 효과 논란이 지속되고 있다.",
+      "summary_en": "Korea's pharmaceutical distribution market is polarizing, with companies earning over 1 trillion KRW growing from 7 to 9. Transparency issues in the 100 trillion KRW market's inventory/distribution structure were highlighted. CSO (sales promoter) risks are escalating beyond fines to sales suspensions, hitting small-to-mid pharma firms. Debate continues over hair loss drug insurance coverage — prioritizing severe cases vs. price management effects."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 4,
+      "significance": "high",
+      "description": "FDA의 바이오시밀러 규제 완화와 인터체인저블 폐지 추진이 한미 양국에서 주요 이슈로 부상. 한국 언론은 미국 규제 변화가 K-바이오 기업에 미칠 영향을 집중 분석."
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 7,
+      "significance": "high",
+      "description": "한국은 식약처 허가심사 혁신(240일 체계·EMA 공동심사) 중심, 미국은 FDA 신약·제네릭 승인 동향이 주를 이룸. 규제 허가 프로세스 개선이 양국 공통 화두."
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 8,
+      "significance": "high",
+      "description": "영미권에서 약가 압박이 가장 큰 이슈 (EU 관세 협상, PhRMA 대응, IRA 영향). 한국은 탈모약 급여 논란 등 일부 이슈에 국한."
+    }
+  ],
+  "notable_absences": [
+    "한국 의료개혁·전공의 수련 관련 기사 부재 — 필수의료 개혁 이슈가 일시적 소강상태",
+    "중국 바이오제약 규제 변화 (CPHI 차이나는 언급되나 정책적 분석은 부재)",
+    "GLP-1 비만치료제 시장 경쟁 관련 기사가 영어 1건에 불과 — 최근 열풍 대비 저조"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 의약품 승인 → FDA 승인 + 바이오시밀러 규제 + 스키니라벨 판결로 확장",
+      "미-EU 무역 갈등 → 약가 협상 전략 + PFAS 금지 + PhRMA 대응으로 심화",
+      "식약처 허가심사 혁신 → EMA 공동심사 완료 + CEO 간담회로 구체화",
+      "한국 제약산업 구조 변화 → 바이오USA 집중 + CDMO 수주 경쟁으로 무게중심 이동"
+    ],
+    "changes": [
+      "전일 대비 전통의학 관련 기사 증가 (K-MEX 박람회, 중국 전통의학 탈모 치료, 일본 Kampo 기원)",
+      "의약품 유통구조 투명성 이슈 신규 등장 (100조원 시장 데이터 공개 요구)"
+    ]
+  },
+  "connections": [
+    "식약처·EMA 공동심사 완료는 EU 규제와의 정합성 제고 → 한국 기업의 유럽 시장 진출 가속화 가능",
+    "FDA 바이오시밀러 규제 완화 + 임상 간소화 → 국내 바이오시밀러 개발사(셀트리온·삼성바이오에피스)에 기회 요인",
+    "미-EU 약가 갈등 → 한국 수출 기업에도 관세 리스크로 연결될 가능성 (한국-미 FTA 재협상 변수)"
+  ],
+  "generated_at": "2026-06-21T06:30:00+09:00"
+}

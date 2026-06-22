@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-22",
+  "total_articles": 419,
+  "language_breakdown": {
+    "korean": 103,
+    "english": 150,
+    "multilingual": 166
+  },
+  "issues": [
+    {
+      "topic": "FDA 규제 강화 및 신약·제네릭 승인 동향",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 61,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "FDA approves first generic version of Roche's flu drug", "importance": 67, "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"},
+        {"title": "High Court 'Skinny Label' Ruling Is No Generic Drug Free-for-All", "importance": 67, "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"},
+        {"title": "Responding to tougher FDA standards, Recipharm debuts new facility for beta-lactam drugs", "importance": 56, "url": "https://www.fiercepharma.com/manufacturing/fda-winds-changing-recipharm-debuts-purpose-built-plant-beta-lactam-drugs"},
+        {"title": "인텔리전트 바이오 솔루션스, FDA 510(k) 승인 위한 임상 간섭 시험 착수", "importance": 55, "url": "https://www.mk.co.kr/news/stock/12075955"}
+      ],
+      "summary_kr": "FDA가 GSK의 항생제(내성 요로감염)와 Roche 독감약 Xofluza의 첫 제네릭을 승인했다. 연방대법원의 '스키니라벨' 판결은 제네릭 업계의 무분별한 특허 회피를 제한하는 방향으로 해석되고 있다. FDA 기준 강화에 따라 Recipharm은 인도에 베타락탐 전용 시설을 신설했으며, 국내 인텔리전트 바이오 솔루션스도 FDA 510(k) 승인을 위한 임상에 착수했다. FDA 승인(25건), 제네릭(6건), 특허(4건) 키워드가 영어 섹션 상위를 차지하며 FDA 규제 활동이 집중된 하루였다.",
+      "summary_en": "FDA approved GSK's oral antibiotic for drug-resistant UTIs and the first generic of Roche's Xofluza. The Supreme Court's skinny-label ruling is seen as a limited safe harbor, not a free-for-all. Recipharm built a new beta-lactam facility in response to tougher FDA standards, and Intelligent Bio Solutions initiated an FDA 510(k) clinical trial."
+    },
+    {
+      "topic": "탈모약 건강보험 급여화 논의 본격화",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "중증 원형탈모 급여 길 열렸지만… \"2년 제한 보완 요구\"", "importance": 51, "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77025"},
+        {"title": "\"탈모약 급여화 모든 경우의 수 검토… 토론회 결론 주시\"", "importance": 51, "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77023"},
+        {"title": "복지부, 탈모약 급여 '모든 경우 수' 세팅…\"사회합의 관건\"", "importance": 51, "url": "https://www.dailypharm.com/user/news/339625"},
+        {"title": "[수첩] 탈모 급여화, '검토'와 '추진' 사이", "importance": 51, "url": "https://www.medipana.com/news/articleView.html?idxno=413275"},
+        {"title": "탈모약 건보 급여 '초읽기'… 복지부 \"시뮬레이션 완료, 행정 지연 없을 것\"", "importance": 51, "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328759"}
+      ],
+      "summary_kr": "보건복지부가 탈모 치료제 건강보험 급여화를 위해 대상·방식·재정 등 모든 시나리오에 대한 시뮬레이션을 완료했다. 한국릴리의 올루미언트(바리시티닙, JAK 억제제)가 7월부터 중증 원형탈모에 첫 급여 적용되나, 2년 인정 기간 제한에 대한 보완 요구가 제기됐다. 이재명 대통령의 공약 사항으로, 복지부는 사회적 합의 도출 시 즉각 시행 가능한 체계를 갖췄다고 밝혔다.",
+      "summary_en": "South Korea's Ministry of Health and Welfare has completed simulations for all scenarios of hair loss drug insurance coverage. Eli Lilly Korea's Olumiant (baricitinib) will be the first severe alopecia areata treatment covered from July, though concerns remain about the 2-year coverage limit."
+    },
+    {
+      "topic": "EU-미국 무역 갈등이 글로벌 제약산업에 미치는 영향",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 63,
+      "key_articles": [
+        {"title": "Merz pushes back on US drug probe, citing EU trade pact", "importance": 67, "url": "https://www.msn.com/en-us/money/markets/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"},
+        {"title": "Big pharma taps UK playbook to pressure European capitals on drug prices", "importance": 67, "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"},
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"},
+        {"title": "EU-US trade deal could add up to $19 billion in pharma industry costs, analysts say", "importance": 62, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-us-trade-deal-could-add-up-19-billion-pharma-industry-costs-analysts-say-2025-07-28/"},
+        {"title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US", "importance": 61, "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"}
+      ],
+      "summary_kr": "EU-미국 간 제약 관세 갈등이 고조되고 있다. 독일 메르츠 총리는 트럼프 행정부의 독일 약가 관세 조사에 대해 EU 무역 협정을 근거로 반박했다. 글로벌 제약사들은 영국을 모델로 유럽 각국에 약가 인하 압력을 행사 중이다. 업계는 EU 규제 개혁이 지연될 경우 1,000억 달러 이상의 제약 R&D·생산이 미국으로 이전될 수 있다고 경고했다. 한편 EU-미국 무역 협정은 제약산업에 최대 190억 달러의 추가 비용을 초래할 것으로 분석됐다. 약가(8건), 제조(9건) 키워드가 영어 섹션에서 높은 빈도를 보였다.",
+      "summary_en": "EU-US pharmaceutical tariff tensions are escalating. German Chancellor Merz pushed back against Trump's drug pricing probe citing EU trade pacts. Big pharma is using a UK-style playbook to pressure European capitals. Industry warns of a $100B+ pharma exodus to the US if EU doesn't reform, while the EU-US trade deal could add $19B in industry costs."
+    },
+    {
+      "topic": "식약처 허가심사 혁신 및 EMA 공동심사 첫 완료",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 56,
+      "key_articles": [
+        {"title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"", "importance": 57, "url": "https://www.yna.co.kr/view/AKR20260619086600017"},
+        {"title": "식약처, EMA와 첫 의약품 공동심사 완료…\"해외 허가 문턱 낮춘다\"", "importance": 55, "url": "https://www.sedaily.com/article/20056713"},
+        {"title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처", "importance": 55, "url": "https://www.fnnews.com/news/202606191311316576"}
+      ],
+      "summary_kr": "식품의약품안전처가 유럽의약품청(EMA)과의 첫 의약품 국제 공동심사를 완료했다. 이로써 국내 기업들은 한국과 유럽 규제기관에 각각 다른 자료를 제출할 필요가 없어져 해외 허가 진입 장벽이 낮아질 전망이다. 식약처장은 허가심사 혁신방안(체크리스트 제공, 사전 대면회의, 수시 검토·보완체계)을 차질 없이 추진 중이라고 밝혔으며, 제약사 CEO들과의 간담회를 통해 240일 허가심사 체계의 효율적 운영을 위한 협력을 당부했다. 식약처(11건), 허가(7건), 심사(5건)가 한국어 섹션 상위 키워드로 등장했다.",
+      "summary_en": "South Korea's MFDS completed its first joint drug review with the European Medicines Agency (EMA), reducing the burden on Korean companies that previously had to submit separate dossiers. The MFDS commissioner affirmed the innovation roadmap for the 240-day review system, including checklists, pre-submission meetings, and rolling review mechanisms."
+    },
+    {
+      "topic": "약가인하 개편과 공동생동 폐지론 — 제네릭 규제 변화 바람",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 59,
+      "key_articles": [
+        {"title": "[기고] 제약업계 실무자를 위한 2026년 약가인하 개편 해설", "importance": 66, "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=328762"},
+        {"title": "약가개편 이어 '공동생동 폐지론' 부상…제네릭 난립 해법은", "importance": 56, "url": "https://www.dailypharm.com/user/news/339618"},
+        {"title": "의약품 유통업체 양극화 심화…매출 1조원 이상 7→9곳", "importance": 57, "url": "https://www.yna.co.kr/view/AKR20260612121600017"}
+      ],
+      "summary_kr": "2026년 약가인하 개편에 이어 공동생동(공동 생물학적동등성 시험) 1+3 제도의 폐지 또는 축소 논의가 부상했다. 정부여당은 제네릭 난립을 막기 위해 공동생동 허용 기준을 축소하거나 폐지하는 방안을 검토 중이다. 한편 의약품 유통업체 간 양극화가 심화돼 매출 1조원 이상 업체가 7곳에서 9곳으로 증가했으며, 약가(3건) 키워드가 한영 공통 이슈로 부각됐다.",
+      "summary_en": "Following the 2026 drug price reform, discussions on abolishing or reducing the joint bioequivalence (1+3) system for generics have emerged. The government is considering tightening or eliminating shared bioequivalence trials to curb generic proliferation. Drug distribution polarization is worsening, with firms exceeding 1 trillion KRW in revenue growing from 7 to 9."
+    },
+    {
+      "topic": "GLP-1 약물의 적응증 확장 — 비만에서 암·심장병·중독으로",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 65,
+      "key_articles": [
+        {"title": "GLP-1 drugs expand to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "GLP-1 계열 약물(위고비, 마운자로 등)이 비만 치료를 넘어 암, 심장병, 중독 치료로 적응증을 확장하고 있다. GLP-1(2건) 키워드가 영어 섹션에 등장했으며, 한국어 섹션에서는 비만·GLP-1 관련 기사가 상위 키워드에 포함되지는 않았으나 글로벌 트렌드로서 주목할 만한 이슈이다.",
+      "summary_en": "GLP-1 drugs (Wegovy, Mounjaro) are expanding beyond obesity treatment to address cancer, heart disease, and addiction. This represents a major therapeutic class expansion that could reshape multiple disease treatment paradigms."
+    },
+    {
+      "topic": "경남약사학술제 및 약사 전문성 강화",
+      "domain": "clinical",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 52,
+      "key_articles": [
+        {"title": "\"강의에 집중\" 1900명 한자리 경남약사학술제, 전문성 강화", "importance": 53, "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537104"}
+      ],
+      "summary_kr": "제52회 경남약사학술제 및 팜엑스포가 창원컨벤션센터에서 1,900여 명의 약사가 참석한 가운데 개최됐다. 학술 강의 중심으로 진행된 이번 행사는 약사의 전문성 강화와 약국 경영 역량 제고에 초점을 맞췄다.",
+      "summary_en": "The 52nd Gyeongnam Pharmacist Academic Conference and PharmExpo was held at Changwon Convention Center with 1,900 pharmacists attending, focusing on professional education and pharmacy management."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 7, "en_count": 9, "significance": "한국 식약처의 허가심사 혁신과 FDA의 활발한 신약·제네릭 승인 활동이 공통 이슈로 부각. 양국 규제기관 모두 허가 프로세스 개선에 주력 중."},
+    {"keyword": "약가/pricing", "kr_count": 3, "en_count": 8, "significance": "한국은 약가인하 개편 및 공동생동 폐지론, 글로벌은 EU-미국 관세 갈등과 약가 압박이 동시에 진행 중."},
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 3, "significance": "바이오시밀러 시장 확대와 규제 논의가 한영 공통으로 나타나나 한국 내 기사 수는 제한적."},
+    {"keyword": "임상/clinical trial", "kr_count": 9, "en_count": 1, "significance": "한국에서 임상 관련 기사가 9건으로 높은 비중을 차지한 반면, 영어에서는 1건에 그쳐 한국의 임상시험 활동이 상대적으로 활발히 보도됨."}
+  ],
+  "notable_absences": [
+    "중국 의약품 규제·시장 관련 기사 부재 (Bing 중국어 간체 미지원으로 0건)",
+    "CDMO·CRO 관련 기사가 수집되었으나 뚜렷한 클러스터 형성에는 미달",
+    "항생제 내성(AMR) 관련 글로벌 이슈가 FDA 항생제 승인 기사 외에는 거의 없음",
+    "국내 의료정책·의료개혁 관련 기사가 의료현장(7건)·의료정책(10건)으로 수집되었으나 하나의 이슈로 클러스터링되지 않음"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일 '식약처 의료제품 허가심사 혁신' 이슈 → 금일 EMA 공동심사 완료로 구체적 성과 보고",
+      "전일 '미-EU 무역 갈등과 글로벌 약가 압박' → 금일 독일 메르츠 총리의 공식 반박 및 업계 경고로 확대",
+      "전일 '탈모약 급여 논란' → 금일 복지부 시뮬레이션 완료 발표로 구체화"
+    ],
+    "changes": [
+      "신약 키워드 17건으로 한국어 섹션 최다 — LG AI연구원-디앤디파마텍 공동개발 등 AI 신약발굴 협력 기사 증가",
+      "FDA 키워드 25건으로 영어 섹션 최다 — 전일 대비 FDA 관련 규제·승인 기사 집중"
+    ]
+  },
+  "connections": [
+    "식약처-EMA 공동심사 완료와 FDA 규제 강화는 글로벌 규제 조화(GMP, 허가심사)의 두 축을 보여줌",
+    "탈모약 급여화 논의와 약가인하 개편은 한국 건강보험 재정 압박과 약가 정책의 연쇄적 변화 시사",
+    "EU-미국 무역 갈등과 한국의 약가 개편은 글로벌·로컬 차원에서 동시에 진행되는 약가 압박 트렌드를 반영"
+  ],
+  "generated_at": "2026-06-22T07:31:00+09:00"
+}

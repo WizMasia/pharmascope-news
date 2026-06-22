@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-20",
+  "period": "2026-06-20T06:30 ~ 2026-06-21T06:29 KST",
+  "total_articles": 422,
+  "time_filtered_articles": 395,
+  "language_breakdown": {
+    "korean": 109,
+    "english": 150,
+    "multilingual": 163
+  },
+  "issues": [
+    {
+      "topic": "FDA 의약품 승인 및 규제 동향 — 항생제·제네릭·바이오시밀러",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 18,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves first generic version of Roche's flu drug",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+        },
+        {
+          "title": "High Court 'Skinny Label' Ruling Is No Generic Drug Free-for-All",
+          "importance": 67,
+          "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
+        },
+        {
+          "title": "FDA's plan to boost biosimilar drugs could stall at the patent office",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "Alembic Pharma gets tentative nod from USFDA for generic cancer drug",
+          "importance": 47,
+          "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-tentative-nod-from-usfda-for-generic-cancer-drug/ar-AA263biL?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "FDA가 항생제·제네릭·바이오시밀러 등 다양한 분야에서 규제 활동을 지속 중이다. GSK의 약제내성 요로감염 치료제 경구용 항생제와 Roche 독감치료제(Xofluza) 최초 제네릭 승인이 주요 소식이다. 바이오시밀러 가속화 정책은 특허청(USPTO)과의 충돌로 실제 효과가 제한적일 수 있으며, 대법원 스키니라벨 판결은 제네릭 업계에 제한적 면책을 부여했다. 인도 Alembic Pharma의 항암제 제네릭 잠정승인, 아스트라제네카 고혈압 치료제 승인도 포함됐다.",
+      "summary_en": "FDA continued active regulatory actions across antibiotics, generics, and biosimilars. Key items: GSK's oral antibiotic for drug-resistant UTIs approved, first generic of Roche's Xofluza, skinny label ruling limiting generic safe harbor, and FDA biosimilar acceleration potentially stalling at patent office. AZ hypertension drug and Alembic's generic cancer drug also gained approvals."
+    },
+    {
+      "topic": "미-EU 무역 갈등과 제약 규제 — 관세·약가·혁신 위기",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 62,
+      "key_articles": [
+        {
+          "title": "Merz pushes back on US drug probe, citing EU trade pact",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/money/markets/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Analysis-Big Pharma taps UK playbook to pressure European capitals on drug prices",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/money/markets/analysis-big-pharma-taps-uk-playbook-to-pressure-european-capitals-on-drug-prices/ar-AA25RSlC?ocid=BingNewsVerp"
+        },
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "importance": 67,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+        },
+        {
+          "title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"
+        }
+      ],
+      "summary_kr": "미국과 EU 간 제약분야 갈등이 고조되고 있다. 독일 메르츠 총리는 트럼프 행정부의 독일 의약품 가격 조사에 EU 무역협정을 근거로 반박했다. EFPIA는 EU 규제 개편이 혁신을 저해하고 R&D 비중을 21%로 추락시킬 것이라고 경고했으며, 과불화화합물(PFAS) 금지 제안은 의약품 제조 중단 위기를 초래할 수 있다. 트럼프 관세 위협에 EU 제약업계는 1000억달러 규모의 미국 이전 가능성을 경고했다. PhRMA는 가격 압박에 대응해 직접구매 프로그램 홍보 웹사이트를 개설했다.",
+      "summary_en": "US-EU pharma tensions escalated. Chancellor Merz pushed back on Trump's German drug pricing probe citing EU trade pact. EFPIA warned EU regulatory overhaul could cut R&D share to 21%. Proposed PFAS chemical ban threatens to halt drug manufacturing. Trump tariff threats risk $100B+ pharma exodus from EU. PhRMA launched a website to highlight industry direct purchasing programs amid pricing pressure."
+    },
+    {
+      "topic": "식약처 의료제품 허가심사 혁신 — 240일 체계·EMA 공동심사",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 56,
+      "key_articles": [
+        {
+          "title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        },
+        {
+          "title": "식약처, EMA와 첫 의약품 공동심사 완료…\"해외 허가 문턱 낮춘다\"",
+          "importance": 55,
+          "url": "https://www.sedaily.com/article/20056713"
+        },
+        {
+          "title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처",
+          "importance": 55,
+          "url": "https://www.fnnews.com/news/202606191311316576"
+        }
+      ],
+      "summary_kr": "식약처가 의료제품 허가심사 혁신을 본격 추진 중이다. 핵심은 '240일 허가·심사 체계'로, 사전 체크리스트 제공·허가 전 대면회의·수시 검토·보완체계 도입 등이 포함된다. 특히 EMA와의 첫 국제 공동심사를 완료한 점이 주목할 만하다. 이로써 국내 기업이 유럽과 한국 규제기관에 각각 다른 자료를 제출해야 하는 부담이 완화될 전망이다. 식약처장은 제약사 CEO들과 직접 간담회를 열어 협력을 당부했다.",
+      "summary_en": "MFDS (Korean FDA) is pushing forward with medical product approval innovation. Key initiative: '240-day approval system' with pre-checklists, pre-submission meetings, and continuous review. Notably completed first-ever joint review with EMA, reducing duplicate submission burden for Korean companies. MFDS Commissioner met pharma CEOs to urge cooperation."
+    },
+    {
+      "topic": "한국 제약산업 구조 변화 — 유통·M&A·P-CAB 허가",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 54,
+      "key_articles": [
+        {
+          "title": "의약품 유통업체 양극화 심화…매출 1조원 이상 7→9곳",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260612121600017"
+        },
+        {
+          "title": "국립대병원 임상데이터 한곳에 모은다…전공의 배정 20%로 확대",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260615106500530"
+        },
+        {
+          "title": "일동, 유노비아 합병 후 첫 행보…BIO USA서 딜 노린다",
+          "importance": 51,
+          "url": "https://www.dailypharm.com/user/news/339606"
+        },
+        {
+          "title": "비씨월드제약, P-CAB 위장질환 치료제 '보노바정' 품목허가 획득",
+          "importance": 51,
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1710334"
+        },
+        {
+          "title": "인텔리전트 바이오 솔루션스, FDA 510(k) 승인 위한 임상 간섭 시험 착수",
+          "importance": 55,
+          "url": "https://www.mk.co.kr/news/stock/12075955"
+        }
+      ],
+      "summary_kr": "국내 제약·의료산업에 구조적 변화가 감지된다. 의약품 유통업체의 양극화가 심화되어 매출 1조원 이상 업체가 7곳에서 9곳으로 증가했다. 정부는 국립대병원 임상데이터 통합 플랫폼 구축을 추진 중이다. 일동제약은 유노비아 합병 후 첫 글로벌 행보로 BIO USA에서 GLP-1 비만치료제 기술수출을 모색한다. 비씨월드제약은 P-CAB 계열 위장질환 치료제 '보노바정' 허가를 획득하며 소화기 시장에 진출했다.",
+      "summary_en": "Structural changes in Korea's pharma industry: drug distribution polarization deepened (companies with 1T+ KRW revenue grew from 7 to 9). Government pushing national hospital clinical data platform. Il-dong Pharmaceutical seeks GLP-1 obesity drug tech export at BIO USA post-merger. BC World Pharma obtained P-CAB GI drug 'Bonova' approval."
+    },
+    {
+      "topic": "전통의학·대체의학 글로벌 교류 — K-MEX·중의학 항암",
+      "domain": "traditional_medicine",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+          "importance": 55,
+          "url": "https://udn.com/news/story/7270/8851185"
+        },
+        {
+          "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+          "importance": 55,
+          "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+        }
+      ],
+      "summary_kr": "서울에서 K-MEX 한의약 국제산업박람회가 개최되어 대만 중의학계와 한국 한의학의 교류가 활발히 이루어졌다. 또한 중의학의 항암 보조요법(침술·한약으로 화학요법 부작용 완화, 암성 피로 70% 경감)에 대한 연구도 주목받았다.",
+      "summary_en": "K-MEX Korean Medicine exhibition in Seoul facilitated Taiwan-China-Korea traditional medicine exchanges. Chinese medicine research shows acupuncture and herbal remedies reduce chemotherapy side effects by 70%."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 9,
+      "significance": "식약처 240일 혁신 + FDA 승인 라인업으로 양국 규제기관의 허가 활동 집중"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 9,
+      "en_count": 1,
+      "significance": "국내 임상데이터 통합·임상시험 관련 기사 집중, 영어권은 상대적 저조"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 8,
+      "significance": "미·EU 중심 약가 규제 압력 지속, 토요일 한국 약가 기사는 적음"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 5,
+      "significance": "스키니라벨·FDA-특허청 갈등 등 영어권 특허 이슈 지속"
+    },
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 4,
+      "significance": "FDA 바이오시밀러 가속화 정책 지속 보도"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일(6/19): 722건 → 금일(6/20): 422건 (토요일 자연 감소)",
+      "한국어 기사 299→109건 (토요일 수집량 급감)",
+      "약가 크로스랭귀지: KR 15→1 (토요일 한국 약가 기사 부재)"
+    ],
+    "changes": [
+      "식약처 혁신 + EMA 공동심사 지속 보도 (2일차)",
+      "FDA 승인 클러스터는 전일과 유사한 구성을 유지",
+      "EU-미국 무역 갈등 및 규제 개편 이슈 증가"
+    ]
+  },
+  "connections": [
+    "식약처 240일 혁신(이슈3)은 FDA 승인 간소화(이슈1)와 글로벌 규제 트렌드를 공유",
+    "미-EU 무역 갈등(이슈2)이 글로벌 제약 공급망 재편의 분수령",
+    "한국 유통 양극화(이슈4)는 글로벌 CDMO·스케일업 트렌드와 연결"
+  ],
+  "generated_at": "2026-06-20T07:45:00+09:00"
+}

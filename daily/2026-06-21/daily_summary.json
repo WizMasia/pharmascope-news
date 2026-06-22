@@ -1,0 +1,608 @@
+{
+  "date": "2026-06-21",
+  "total": 401,
+  "version": 1,
+  "generated_at": "2026-06-21T06:30:54.660632+09:00",
+  "korean": {
+    "total": 84,
+    "categories": {
+      "의약품": 13,
+      "의약산업": 21,
+      "의약정책": 7,
+      "의약단체": 6,
+      "의약관련정부기관": 12,
+      "의료현장": 3,
+      "약국·약사": 1,
+      "의료정책·인력": 11,
+      "전통의학": 1,
+      "감염·보건": 9
+    },
+    "top_articles": [
+      {
+        "title": "의약품 유통업체 양극화 심화…매출 1조원 이상 7→9곳",
+        "source": "연합뉴스",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+20 | 순위:108위+2",
+        "snippet": "(서울=연합뉴스) 박상현 기자 = 일부 의약품 유통업체의 대형화가 가속하면서 업계 내 양극화가 심화하고 있는 것으로 나타났다. 14일 한국의약품유통협회에 따르면 지난해 매출 1조원을 넘은 의약품 유통업체는 모두 9곳으로, ...",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260612121600017"
+      },
+      {
+        "title": "식약처장 &quot;의료제품 허가심사 혁신 차질 없이 추진&quot;",
+        "source": "Yonhap News Agency",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:70위+2",
+        "snippet": "식약처의 의료제품 허가&#183;심사 혁신방안에는 자료 준비 단계에서 '체크리스트'를 제공하고 허가 신청 전 대면회의를 하며 허가&#183;심사 단계에서 수시 검토&#183;보완체계를 도입하는 등 구체적인 사업계 지원 내용이 담겼다.",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+      },
+      {
+        "title": "버닝록바이오텍, 1분기 매출 급감…제약 R&amp;D 서비스 부문 부진이 발목",
+        "source": "Maeil Business Newspaper",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:124위+2",
+        "snippet": "1분기 매출 1,560만 달러로 전년 대비 18.9% 감소 제약 R&amp;D 서비스 부문 38.6% 급감이 실적 부진 주도 현금 6,510만 달러 보유로 유동성 리스크는 제한적 2026년 1분기 매출이 1,560만 달러로 전년 ...",
+        "time": "",
+        "url": "https://www.mk.co.kr/news/stock/12069979"
+      },
+      {
+        "title": "식약처, EMA와 첫 의약품 공동심사 완료…“해외 허가 문턱 낮춘다”",
+        "source": "Seoul Economic Daily",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Seoul Economic Daily+28 | 최신:+5 | 키워드+20 | 순위:62위+2",
+        "snippet": "유럽의약품청(EMA)과 식품의약품안전처가 처음으로 의약품 국제 공동심사를 완료했다. 국내 기업은 유럽과 한국 규제기관에 각각 다른 자료를 제출해야 하는 부담을 덜 수 있게 됐고, 식약처는 이번 심사를 통해 글로벌 수준의 규제 ...",
+        "time": "",
+        "url": "https://www.sedaily.com/article/20056713"
+      },
+      {
+        "title": "인텔리전트 바이오 솔루션스, FDA 510(k) 승인 위한 임상 간섭 시험 착수",
+        "source": "매일경제",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일경제+28 | 최신:+5 | 키워드+20 | 순위:66위+2",
+        "snippet": "FDA 510(k) 승인 위한 임상 간섭 시험 착수, 75명 대상 코데인 검출 정확성 검증 7월 중순까지 시험 완료 후 FDA 제출 자료에 포함 계획 올해 매출 579% 성장 2,629만 달러, 주당순이익 0.35달러 ...",
+        "time": "",
+        "url": "https://www.mk.co.kr/news/stock/12075955"
+      },
+      {
+        "title": "&quot;빠른 허가심사 위한 협력&quot;…CEO들 만난 식약처",
+        "source": "파이낸셜뉴스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:68위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = &quot;240일 허가&#183;심사는 '이인삼각'과 같은 일이라고 생각합니다. 업계가 식약처와 소통하고 힘을 모아주시면서 함께 뛰어야 K-바이오가 더 발전하고 신약을 통해 환자의 치료 기회가 더 빨리 확대되는 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606191311316576"
+      },
+      {
+        "title": "'창고형 약국'發 지각변동…'매약' 지고 '처방' 뜬다",
+        "source": "EBN",
+        "importance": 54,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:EBN+24 | 최신:+5 | 키워드+10 | 순위:6위+15",
+        "snippet": "저렴한 일반의약품과 건강기능식품을 앞세운 이른바 '창고형 약국'이 빠르게 확산하면서 국내 약국 시장의 지형이 재편되고 있다. 소비자들은 가격 경쟁과 쇼핑 편의성 확대를 반기고 있지만, 업계 내부에서는 기존 동네약국의 ...",
+        "time": "",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1711942"
+      },
+      {
+        "title": "대전시, 한의 난임치료 성과 우수…&quot;건강한 임신&#183;출산&quot;",
+        "source": "파이낸셜뉴스",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+5 | 순위:6위+15",
+        "snippet": "[대전=뉴시스]곽상훈 기자 = 대전시가 정부의 '한의 난임사업 성과대회'에서 우수사례로 선정돼 보건복지부장관 표창을 받았다고 19일 밝혔다. 이 상은 난임 가정의 경제적 부담을 덜어주고 다양한 치료 선택권을 보장하기 위해 추진 중인 한방 난임치료비 지원사업..",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606191051024709"
+      },
+      {
+        "title": "의료배상공제조합 2026 상반기 의료분쟁예방 연수교육 6월 27일 개최",
+        "source": "Hankyung on MSN",
+        "importance": 48,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Hankyung on MSN+28 | 최신:+5 | 키워드+10 | 순위:16위+5",
+        "snippet": "최근 의료현장에서 의료분쟁 및 악성 민원 등으로 인해 의료진의 고충이 심화되고 있다. 이에 대한 법적&#183;제도적 예방책 제시를 통해 안전한 진료환경을 조성할 수 있는 자리가 마련된다.대한의사협회(회장&#183;김택우)와 대한의사협회 ...",
+        "time": "",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EB%B0%B0%EC%83%81%EA%B3%B5%EC%A0%9C%EC%A1%B0%ED%95%A9-2026-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81%EC%98%88%EB%B0%A9-%EC%97%B0%EC%88%98%EA%B5%90%EC%9C%A1-6%EC%9B%94-27%EC%9D%BC-%EA%B0%9C%EC%B5%9C/ar-AA25Um7S?ocid=BingNewsVerp"
+      },
+      {
+        "title": "LG AI연구원, 디앤디파마텍과 차세대 펩타이드 신약 공동 개발",
+        "source": "Yonhap News Agency",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+10 | 순위:78위+2",
+        "snippet": "(서울=연합뉴스) 임성호 기자 = LG AI연구원은 디앤디파마텍과 인공지능(AI) 기반 차세대 펩타이드 신약 공동 개발 사업 본계약을 체결했다고 17일 밝혔다. 양사는 AI 기술 역량과 펩타이드 신약 개발 전문성을 결합해 차세대 펩타이드 신약을 개발할 예정이다. 펩타이드는 단백질을 이루는 아미노산이 짧게 연결된 생체 활성 물질로, 몸의 회복과 성장을 정밀하",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260617029300003"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        15
+      ],
+      [
+        "식약처",
+        9
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "심사",
+        7
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "수출",
+        6
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "CDMO",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "이데일리 on MSN",
+        5
+      ],
+      [
+        "Financial News on MSN",
+        5
+      ],
+      [
+        "Yonhap News Agency",
+        4
+      ],
+      [
+        "EBN",
+        4
+      ],
+      [
+        "연합뉴스",
+        4
+      ],
+      [
+        "서울경제 on MSN",
+        4
+      ],
+      [
+        "Financial News",
+        3
+      ],
+      [
+        "Maeil Business Newspaper",
+        3
+      ],
+      [
+        "Segye Ilbo on MSN",
+        3
+      ],
+      [
+        "매일경제",
+        2
+      ],
+      [
+        "Seoul Economic Daily on MSN",
+        2
+      ],
+      [
+        "한국경제 on MSN",
+        2
+      ],
+      [
+        "News2Day",
+        2
+      ],
+      [
+        "Seoul Economic Daily",
+        2
+      ],
+      [
+        "News Tomato",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 150,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 25
+    },
+    "top_articles": [
+      {
+        "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:130위+2",
+        "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+      },
+      {
+        "title": "FDA approves first generic version of Roche's flu drug",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:131위+2",
+        "snippet": "June 17 (Reuters) - The U.S. Food and Drug Administration approved the first generic version of Roche's Xofluza, a ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/fda-approves-first-generic-version-of-roches-flu-drug/ar-AA25UI64?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Big pharma taps UK playbook to pressure European capitals on drug prices",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+30 | 순위:116위+2",
+        "snippet": "Global pharmaceutical companies, facing pushback from European capitals on drug pricing, are turning to a playbook that ...",
+        "time": "",
+        "url": "https://www.reuters.com/legal/litigation/big-pharma-taps-uk-playbook-pressure-european-capitals-drug-prices-2026-06-17/"
+      },
+      {
+        "title": "High Court ‘Skinny Label’ Ruling Is No Generic Drug Free-for-All",
+        "source": "Bloomberg Law News",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Bloomberg Law News+30 | 최신:+5 | 키워드+30 | 순위:126위+2",
+        "snippet": "Opinion: Generic drug manufacturers should view the Supreme Court's ruling in Hikma v. Amarin as a limited safe harbor ...",
+        "time": "",
+        "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/high-court-skinny-label-ruling-is-no-generic-drug-free-for-all"
+      },
+      {
+        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:135위+2",
+        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+        "time": "2y",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+      },
+      {
+        "title": "Ancient Chinese medicine could transform hair loss treatment",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:13d+5 | 키워드+30 | 순위:115위+2",
+        "snippet": "A traditional Chinese medicinal root used for over a thousand years is attracting new scientific attention for its potential ...",
+        "time": "13d",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260606015144.htm"
+      },
+      {
+        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:131위+2",
+        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+        "time": "3y",
+        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      },
+      {
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:155위+2",
+        "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+        "time": "3mon",
+        "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+      },
+      {
+        "title": "FDA’s plan to boost biosimilar drugs could stall at the patent office",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:7mon+5 | 키워드+30 | 순위:130위+2",
+        "snippet": "FDA regulation is often the least of the three major hurdles biosimilar makers must confront, industry officials say. (Sarah Silbiger/Stringer/Getty Images) While the FDA is streamlining regulation of",
+        "time": "7mon",
+        "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+      },
+      {
+        "title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:1y+5 | 키워드+30 | 순위:140위+2",
+        "snippet": "Unless Europe delivers “rapid, radical policy change,” pharmaceutical R&amp;D and manufacturing is “increasingly likely to be directed towards the U.S.,” an industry group warned European Commission .",
+        "time": "1y",
+        "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        27
+      ],
+      [
+        "pricing",
+        8
+      ],
+      [
+        "manufacturing",
+        8
+      ],
+      [
+        "approval",
+        7
+      ],
+      [
+        "inspection",
+        7
+      ],
+      [
+        "GMP",
+        6
+      ],
+      [
+        "generic",
+        6
+      ],
+      [
+        "patent",
+        6
+      ],
+      [
+        "biosimilar",
+        4
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "FiercePharma",
+        10
+      ],
+      [
+        "RAPS",
+        8
+      ],
+      [
+        "MSN",
+        7
+      ],
+      [
+        "Yahoo Finance",
+        7
+      ],
+      [
+        "JD Supra",
+        7
+      ],
+      [
+        "Nature",
+        4
+      ],
+      [
+        "CNBC",
+        4
+      ],
+      [
+        "STAT",
+        4
+      ],
+      [
+        "Medical Xpress",
+        4
+      ],
+      [
+        "CNN",
+        3
+      ],
+      [
+        "News Medical",
+        3
+      ],
+      [
+        "The American Journal of Managed Care",
+        3
+      ],
+      [
+        "Reuters on MSN",
+        2
+      ],
+      [
+        "C&EN",
+        2
+      ],
+      [
+        "EurekAlert!",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 167,
+    "languages": {
+      "French / 프랑스어": 10,
+      "German / 독일어": 10,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 10,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 10,
+      "Swedish / 스웨덴어": 10,
+      "Polish / 폴란드어": 10,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 9,
+      "Japanese / 일본어": 10,
+      "Chinese Simplified / 중국어": 0,
+      "Chinese Traditional / 대만": 5,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 8,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 6,
+      "Persian / 페르시아어": 3
+    },
+    "top_articles": [
+      {
+        "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+        "source": "聯合新聞網",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:聯合新聞網+10 | 최신:11 個月+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+        "time": "11 個月",
+        "url": "https://udn.com/news/story/7270/8851185"
+      },
+      {
+        "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+        "source": "中時新聞網",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:中時新聞網+10 | 최신:1 個月+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "抗癌過程是一場長期抗戰，彰化基督教醫院中醫部主治醫師呂平安強調，中醫並非取代現代醫學，而是透過「扶正」、「去邪」，在不同治療階段提供支持，提升生活品質，藉由針灸或中藥調理 ...",
+        "time": "1 個月",
+        "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+      },
+      {
+        "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
+        "source": "اخبار 24",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:اخبار 24+10 | 최신:6 من السنوات+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
+        "time": "6 من السنوات",
+        "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+      },
+      {
+        "title": "תעשיית התרופות מגלה את המיחזור",
+        "source": "globes.co.il",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:globes.co.il+10 | 최신:22 שנים+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+        "time": "22 שנים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+      },
+      {
+        "title": "韓国の医薬品流通が混乱 4％の非効率が価格押し上げ",
+        "source": "Chosunbiz",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:12 日+5 | 키워드+10 | 순위:15위+10",
+        "snippet": "一方では全身麻酔薬や麻薬類医薬品が統制なく不法流通し、他方では子どもの解熱剤がなく品切れ騒ぎが広がる。見た目には別個の事件のようだが、製薬業界と専門家は韓国の医薬品サプライチェーンの「情報不透明性」が生んだ結果だと指摘する。生産を増やしても現場では薬 ...",
+        "time": "12 日",
+        "url": "https://biz.chosun.com/jp/jp-science/2026/06/09/MYMS4OEFBNDTTMHMVMI2MQELHA/"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "dw",
+        3
+      ],
+      [
+        "Le Figaro",
+        2
+      ],
+      [
+        "Pressemitteilungen",
+        2
+      ],
+      [
+        "Ärzteblatt",
+        2
+      ],
+      [
+        "ZEIT",
+        2
+      ],
+      [
+        "Interempresas",
+        2
+      ],
+      [
+        "ESPAÑOL",
+        2
+      ],
+      [
+        "BBC",
+        2
+      ],
+      [
+        "Diário de Notícias",
+        2
+      ],
+      [
+        "Volkskrant",
+        2
+      ],
+      [
+        "Waterkant",
+        2
+      ],
+      [
+        "Yle",
+        2
+      ],
+      [
+        "Dagens Medicin",
+        2
+      ],
+      [
+        "Dagens PS",
+        2
+      ],
+      [
+        "Niezalezna",
+        2
+      ]
+    ]
+  }
+}
