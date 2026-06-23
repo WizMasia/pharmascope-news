@@ -1,19 +1,19 @@
 {
   "date": "2026-06-24",
-  "total": 388,
+  "total": 380,
   "version": 1,
-  "generated_at": "2026-06-24T08:24:51.577862+09:00",
+  "generated_at": "2026-06-24T08:27:02.987953+09:00",
   "korean": {
-    "total": 104,
+    "total": 102,
     "categories": {
       "의약품": 19,
       "의약산업": 18,
       "의약정책": 3,
       "의약단체": 7,
       "의약관련정부기관": 17,
-      "의료현장": 13,
-      "약국·약사": 1,
-      "의료정책·인력": 14,
+      "의료현장": 11,
+      "약국·약사": 2,
+      "의료정책·인력": 13,
       "전통의학": 1,
       "감염·보건": 11
     },
@@ -35,22 +35,22 @@
         "source": "DailyPharm",
         "importance": 77,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:DailyPharm+24 | 최신:23시간+10 | 키워드+25 | 순위:4위+18",
+        "evidence": "출처:DailyPharm+24 | 최신:23시간+10 | 키워드+25 | 순위:5위+18",
         "snippet": "유한양행이 개발 중인 고셔병 치료제 후보물질 YH35995가 미국에 이어 유럽에서도 희귀의약품 지위를 확보하며 글로벌 개발에 속도를 내고 있다. 유한양행은 고셔병 치료제로 개발 중인 YH35995가 유럽의약품청(EMA)으로부터 고셔병 적응증에 대한 희귀의약품(ODD) 지정을 받았다고 23일 밝혔다. 이번 지정은 지난 4월 미국 식품의약국(FDA)의 희귀의약",
         "time": "23시간",
-        "time_kst": "2026-06-23 09:24 (+0900)",
+        "time_kst": "2026-06-23 09:27 (+0900)",
         "time_kst_source": "estimated",
         "url": "https://www.dailypharm.com/user/news/339689"
       },
       {
         "title": "코스닥 1부제 윤곽…전통 제약사 '안정성' 재평가 주목",
         "source": "메디파나 뉴스",
-        "importance": 74,
+        "importance": 72,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:메디파나 뉴스+24 | 최신:22시간+10 | 키워드+20 | 순위:3위+20",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:22시간+10 | 키워드+20 | 순위:4위+18",
         "snippet": "키움증권 신민수 연구원은 지난 18일 의료기기 산업 보고서에서 &quot;코스닥 승강제에서 최상위 등급인 프리미엄 세그먼트 편입 업체 개수를 70개로 제한한다는 언론보도가 있었다&quot;며 &quot;전문가로 구성된 자문단 구성 후 첫 회의가 열렸기에 해당 내용이 현실화될 가능성이 높다고 예상한다&quot;고 분석했다.",
         "time": "22시간",
-        "time_kst": "2026-06-23 10:24 (+0900)",
+        "time_kst": "2026-06-23 10:27 (+0900)",
         "time_kst_source": "estimated",
         "url": "https://www.medipana.com/news/articleView.html?idxno=413345"
       },
@@ -59,67 +59,55 @@
         "source": "The Kyunghyang Shinmun",
         "importance": 68,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:The Kyunghyang Shinmun+28 | 최신:15시간+10 | 키워드+10 | 순위:3위+20",
+        "evidence": "출처:The Kyunghyang Shinmun+28 | 최신:15시간+10 | 키워드+10 | 순위:2위+20",
         "snippet": "대한병원협회(병협)가 필수의료 지원체계 마련과 의료사고배상 공제조합 설립 추진에 나선다. 유경하 병협 신임 회장은 23일 취임 기자회견을 열고 “필수의료 분야에 별도의 고정비 등 지원체계를 마련해 필수의료를 반드시 살려내겠다”고 밝혔다. 유 회장은 먼저 다양한 의료기관을 아우르는 병협의 신임 회장으로서 상급종합병원부터 전문병원, 지역 중소병원 등이 ...",
         "time": "15시간",
-        "time_kst": "2026-06-23 17:24 (+0900)",
+        "time_kst": "2026-06-23 17:27 (+0900)",
         "time_kst_source": "estimated",
         "url": "https://www.khan.co.kr/article/202606231655001"
-      },
-      {
-        "title": "분만&#183;소아&#183;응급 의료사고, 국가가 최대 18억원 배상",
-        "source": "NEWSIS on MSN",
-        "importance": 66,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:NEWSIS on MSN+28 | 최신:19시간+10 | 키워드+10 | 순위:5위+18",
-        "snippet": "분만&#183;소아&#183;응급 등 필수의료 분야 의료진의 의료사고 부담을 완화하기 위해 국가가 최대 18억원의 배상보험을 지원한다. 해당 전문의와 전공의의 보험료는 국가가 전액 지원한다. 보건복지부는 '필수의료 고액 배상보험 지원 사업'에 ...",
-        "time": "19시간",
-        "time_kst": "2026-06-23 13:24 (+0900)",
-        "time_kst_source": "estimated",
-        "url": "https://www.msn.com/ko-kr/%EA%B3%B5%EA%B3%B5-%EC%95%88%EC%A0%84-%EB%B0%8F-%EB%B9%84%EC%83%81-%EC%82%AC%ED%83%9C/%EC%83%81%ED%83%9C-%EB%B0%8F-%EC%95%88%EC%A0%84-%EA%B2%BD%EA%B3%A0/%EB%B6%84%EB%A7%8C-%EC%86%8C%EC%95%84-%EC%9D%91%EA%B8%89-%EC%9D%98%EB%A3%8C%EC%82%AC%EA%B3%A0-%EA%B5%AD%EA%B0%80%EA%B0%80-%EC%B5%9C%EB%8C%80-18%EC%96%B5%EC%9B%90-%EB%B0%B0%EC%83%81/ar-AA26j688?ocid=BingNewsVerp"
       },
       {
         "title": "유한양행, 고셔병 신약 'YH35995' 유럽 희귀의약품 지정",
         "source": "미디어펜 on MSN",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:미디어펜 on MSN+10 | 최신:16시간+10 | 키워드+25 | 순위:2위+20",
+        "evidence": "출처:미디어펜 on MSN+10 | 최신:16시간+10 | 키워드+25 | 순위:1위+20",
         "snippet": "유한양행의 고셔병 치료제 후보 YH35995가 미국에 이어 유럽에서도 희귀의약품으로 지정되어 글로벌 개발이 가속화되고 있다.",
         "time": "16시간",
-        "time_kst": "2026-06-23 16:24 (+0900)",
+        "time_kst": "2026-06-23 16:27 (+0900)",
         "time_kst_source": "estimated",
         "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89-%EA%B3%A0%EC%85%94%EB%B3%91-%EC%8B%A0%EC%95%BD-yh35995-%EC%9C%A0%EB%9F%BD-%ED%9D%AC%EA%B7%80%EC%9D%98%EC%95%BD%ED%92%88-%EC%A7%80%EC%A0%95/ar-AA26jMoD?ocid=BingNewsVerp"
+      },
+      {
+        "title": "유한양행, 고셔병 신약 후보물질 유럽서 EMA 희귀의약품 지정",
+        "source": "아시아타임즈 on MSN",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:아시아타임즈 on MSN+10 | 최신:16시간+10 | 키워드+25 | 순위:3위+20",
+        "snippet": "4월 美 FDA에 이은 유럽 EMA 희귀의약품 지정 치료제 부재 제3형 고셔병…미충족 의료 수요 ↑ 글로벌 임상&#183;허가 전략 구체화…환자 접근성 제고 [아시아타임즈=김지수 기자] 유한양행이 고셔병 치료제로 개발 중인 신약 ...",
+        "time": "16시간",
+        "time_kst": "2026-06-23 16:27 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89-%EA%B3%A0%EC%85%94%EB%B3%91-%EC%8B%A0%EC%95%BD-%ED%9B%84%EB%B3%B4%EB%AC%BC%EC%A7%88-%EC%9C%A0%EB%9F%BD%EC%84%9C-ema-%ED%9D%AC%EA%B7%80%EC%9D%98%EC%95%BD%ED%92%88-%EC%A7%80%EC%A0%95/ar-AA26kg1q?ocid=BingNewsVerp"
       },
       {
         "title": "&quot;中에 신약주도권 뺏길라&quot;…美, 임상문턱 낮춘다",
         "source": "Newsis",
         "importance": 63,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Newsis+28 | 최신:1시간+20 | 키워드+10 | 순위:18위+5",
+        "evidence": "출처:Newsis+28 | 최신:1시간+20 | 키워드+10 | 순위:17위+5",
         "snippet": "[서울=뉴시스]황재희 기자 = 미국이 임상시험 간소화를 위한 '오퍼레이션 트라이얼 블레이저‘(Operation Trial Blazer) 계획을 발표했다. 급성장하고 있는 중국의 바이오 역량을 견제하고 생명과학 분야 강자 ...",
         "time": "1시간",
-        "time_kst": "2026-06-24 07:24 (+0900)",
+        "time_kst": "2026-06-24 07:27 (+0900)",
         "time_kst_source": "estimated",
         "url": "https://www.newsis.com/view/NISX20260623_0003680594"
-      },
-      {
-        "title": "멕시코가 한국 식약처를 의약품 참조규제기관으로 인정: 허가 심사 간소화되고 현지 진출 쉬워진다",
-        "source": "허프포스트코리아 on MSN",
-        "importance": 63,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:허프포스트코리아 on MSN+10 | 최신:16시간+10 | 키워드+25 | 순위:5위+18",
-        "snippet": "멕시코 정부가 한국 식품의약품안전처를 의약품 분야 참조규제기관으로 공식 인정했다. 이에 따라 한국에서 허가받은 의약품은 멕시코에서 더 신속하게 허가를 받을 수 있게 됐다. 22일 식품의약품안전처에 따르면, 멕시코 ...",
-        "time": "16시간",
-        "time_kst": "2026-06-23 16:24 (+0900)",
-        "time_kst_source": "estimated",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%A9%95%EC%8B%9C%EC%BD%94%EA%B0%80-%ED%95%9C%EA%B5%AD-%EC%8B%9D%EC%95%BD%EC%B2%98%EB%A5%BC-%EC%9D%98%EC%95%BD%ED%92%88-%EC%B0%B8%EC%A1%B0%EA%B7%9C%EC%A0%9C%EA%B8%B0%EA%B4%80%EC%9C%BC%EB%A1%9C-%EC%9D%B8%EC%A0%95-%ED%97%88%EA%B0%80-%EC%8B%AC%EC%82%AC-%EA%B0%84%EC%86%8C%ED%99%94%EB%90%98%EA%B3%A0-%ED%98%84%EC%A7%80-%EC%A7%84%EC%B6%9C-%EC%89%AC%EC%9B%8C%EC%A7%84%EB%8B%A4/ar-AA26jRPA?ocid=BingNewsVerp"
       },
       {
         "title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득",
         "source": "Maeil Business Newspaper",
         "importance": 63,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:12위+10",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:13위+10",
         "snippet": "💡 AI 분석 FDA의 소아 대상 1형 당뇨 치료제 추가 승인은 Tzield의 시장 확대 가능성을 보여주는 긍정적 요소입니다. 기존 성인 적응증에 이어 8~17세 소아 환자군까지 포함되면서 잠재 시장이 확대되었고, 글로벌 ...",
         "time": "",
         "time_kst": "",
@@ -137,16 +125,28 @@
         "time_kst": "",
         "time_kst_source": "raw",
         "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EB%B0%B0%EC%83%81%EA%B3%B5%EC%A0%9C%EC%A1%B0%ED%95%A9-2026-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81%EC%98%88%EB%B0%A9-%EC%97%B0%EC%88%98%EA%B5%90%EC%9C%A1-6%EC%9B%94-27%EC%9D%BC-%EA%B0%9C%EC%B5%9C/ar-AA25Um7S?ocid=BingNewsVerp"
+      },
+      {
+        "title": "분만&#183;소아&#183;응급 의료사고, 국가가 최대 18억원 배상",
+        "source": "NEWSIS on MSN",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NEWSIS on MSN+28 | 최신:19시간+10 | 키워드+10 | 순위:6위+15",
+        "snippet": "분만&#183;소아&#183;응급 등 필수의료 분야 의료진의 의료사고 부담을 완화하기 위해 국가가 최대 18억원의 배상보험을 지원한다. 해당 전문의와 전공의의 보험료는 국가가 전액 지원한다. 보건복지부는 '필수의료 고액 배상보험 지원 사업'에 ...",
+        "time": "19시간",
+        "time_kst": "2026-06-23 13:27 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.msn.com/ko-kr/%EA%B3%B5%EA%B3%B5-%EC%95%88%EC%A0%84-%EB%B0%8F-%EB%B9%84%EC%83%81-%EC%82%AC%ED%83%9C/%EC%83%81%ED%83%9C-%EB%B0%8F-%EC%95%88%EC%A0%84-%EA%B2%BD%EA%B3%A0/%EB%B6%84%EB%A7%8C-%EC%86%8C%EC%95%84-%EC%9D%91%EA%B8%89-%EC%9D%98%EB%A3%8C%EC%82%AC%EA%B3%A0-%EA%B5%AD%EA%B0%80%EA%B0%80-%EC%B5%9C%EB%8C%80-18%EC%96%B5%EC%9B%90-%EB%B0%B0%EC%83%81/ar-AA26j688?ocid=BingNewsVerp"
       }
     ],
     "top_keywords": [
       [
         "신약",
-        21
+        22
       ],
       [
         "임상",
-        13
+        14
       ],
       [
         "식약처",
@@ -154,7 +154,7 @@
       ],
       [
         "허가",
-        10
+        9
       ],
       [
         "수출",
@@ -170,7 +170,7 @@
       ],
       [
         "백신",
-        3
+        4
       ],
       [
         "CDMO",
@@ -185,10 +185,6 @@
         1
       ],
       [
-        "천연물",
-        1
-      ],
-      [
         "항암",
         1
       ]
@@ -196,19 +192,11 @@
     "top_sources": [
       [
         "Maeil Business Newspaper",
-        6
+        7
       ],
       [
         "이데일리 on MSN",
-        5
-      ],
-      [
-        "Financial News on MSN",
         4
-      ],
-      [
-        "Aju Business Daily on MSN",
-        3
       ],
       [
         "전자신문 on MSN",
@@ -224,6 +212,10 @@
       ],
       [
         "KPA News",
+        3
+      ],
+      [
+        "Financial News on MSN",
         3
       ],
       [
@@ -247,6 +239,10 @@
         2
       ],
       [
+        "Aju Business Daily on MSN",
+        2
+      ],
+      [
         "Money Today",
         2
       ],
@@ -260,8 +256,8 @@
     "total": 137,
     "categories": {
       "Drugs & Therapies": 24,
-      "Pharma Industry": 23,
-      "Pharma Policy": 21,
+      "Pharma Industry": 24,
+      "Pharma Policy": 20,
       "Pharma Associations": 24,
       "Regulatory Agencies": 24,
       "Traditional & Complementary Medicine": 21
@@ -282,9 +278,9 @@
       {
         "title": "US FDA updates guidance to speed up drug development",
         "source": "Reuters",
-        "importance": 80,
+        "importance": 78,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+25 | 순위:1위+20",
+        "evidence": "출처:Reuters+30 | 최신:+5 | 키워드+25 | 순위:4위+18",
         "snippet": "The U.S. Food and Drug Administration said on Monday it is launching ​a series of measures to speed ‌up drug research, from ...",
         "time": "",
         "time_kst": "",
@@ -304,6 +300,18 @@
         "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
       },
       {
+        "title": "US to investigate Germany's proposed drug spending reforms",
+        "source": "Fierce Pharma",
+        "importance": 72,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Fierce Pharma+24 | 최신:1d+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+        "time": "1d",
+        "time_kst": "1d",
+        "time_kst_source": "raw",
+        "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+      },
+      {
         "title": "European patient access to new drugs worsens, pharma lobby says",
         "source": "Reuters on MSN",
         "importance": 70,
@@ -316,35 +324,11 @@
         "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
       },
       {
-        "title": "US to investigate Germany's proposed drug spending reforms",
-        "source": "Fierce Pharma",
-        "importance": 69,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Fierce Pharma+24 | 최신:1d+5 | 키워드+25 | 순위:9위+15",
-        "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
-        "time": "1d",
-        "time_kst": "1d",
-        "time_kst_source": "raw",
-        "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
-      },
-      {
-        "title": "Nuvectis gains two experimental drugs in licensing deal with China's Haisco",
-        "source": "Reuters on MSN",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:26위+2",
-        "snippet": "June 22 (Reuters) - Nuvectis Pharma said on Monday it had licensed exclusive rights outside China to two experimental drugs from Haisco Pharmaceutical Group, targeting complement-mediated diseases and",
-        "time": "",
-        "time_kst": "",
-        "time_kst_source": "raw",
-        "url": "https://www.msn.com/en-us/money/other/nuvectis-gains-two-experimental-drugs-in-licensing-deal-with-china-s-haisco/ar-AA26fkLN?ocid=BingNewsVerp"
-      },
-      {
         "title": "EU proposal may accelerate pharma innovation decline, industry group says",
         "source": "Reuters",
         "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:22위+2",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:21위+2",
         "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
         "time": "2y",
         "time_kst": "2y",
@@ -368,7 +352,7 @@
         "source": "The Chosun Ilbo on MSN",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:2d+5 | 키워드+30 | 순위:22위+2",
+        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:2d+5 | 키워드+30 | 순위:23위+2",
         "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond mere obesity treatments to ...",
         "time": "2d",
         "time_kst": "2d",
@@ -386,44 +370,64 @@
         "time_kst": "5mon",
         "time_kst_source": "raw",
         "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+      },
+      {
+        "title": "Biotech And Pharma Industry Locations: Life-Saving Innovations",
+        "source": "Business Facilities",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Business Facilities+10 | 최신:8mon+5 | 키워드+30 | 순위:1위+20",
+        "snippet": "T he biotech and pharmaceutical sectors stand at the brink of innovation and strategic transformation. Market momentum continues to build, with the global biotechnology market valued at around $2 ...",
+        "time": "8mon",
+        "time_kst": "8mon",
+        "time_kst_source": "raw",
+        "url": "https://businessfacilities.com/biotech-and-pharma-industry-locations-life-saving-innovations/"
       }
     ],
     "top_keywords": [
       [
         "FDA",
-        25
+        26
       ],
       [
         "approval",
-        10
+        11
+      ],
+      [
+        "GMP",
+        7
       ],
       [
         "pricing",
         7
       ],
       [
-        "inspection",
-        6
-      ],
-      [
         "manufacturing",
         6
       ],
       [
-        "GMP",
+        "inspection",
         5
-      ],
-      [
-        "patent",
-        4
       ],
       [
         "biosimilar",
         3
       ],
       [
+        "clinical trial",
+        3
+      ],
+      [
         "generic",
         3
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "recall",
+        2
       ],
       [
         "GLP-1",
@@ -432,60 +436,56 @@
       [
         "shortage",
         1
-      ],
-      [
-        "clinical trial",
-        1
-      ],
-      [
-        "recall",
-        1
       ]
     ],
     "top_sources": [
       [
-        "RAPS",
+        "MSN",
         9
       ],
       [
-        "MSN",
-        8
-      ],
-      [
-        "Yahoo Finance",
-        8
+        "RAPS",
+        9
       ],
       [
         "FiercePharma",
         8
       ],
       [
-        "JD Supra",
+        "Yahoo Finance",
         7
       ],
       [
+        "JD Supra",
+        6
+      ],
+      [
         "CNBC",
-        5
+        4
       ],
       [
         "The American Journal of Managed Care",
         4
       ],
       [
-        "Reuters on MSN",
-        3
-      ],
-      [
         "Fierce Pharma",
-        3
-      ],
-      [
-        "Nature",
         3
       ],
       [
         "Business Wire",
         3
+      ],
+      [
+        "Markets Insider",
+        3
+      ],
+      [
+        "Business Insider",
+        3
+      ],
+      [
+        "Reuters on MSN",
+        2
       ],
       [
         "Science Daily",
@@ -498,22 +498,18 @@
       [
         "MedCity News",
         2
-      ],
-      [
-        "Medical Xpress",
-        2
       ]
     ]
   },
   "multilingual": {
-    "total": 147,
+    "total": 141,
     "languages": {
-      "French / 프랑스어": 7,
-      "German / 독일어": 10,
+      "French / 프랑스어": 6,
+      "German / 독일어": 9,
       "Spanish / 스페인어": 7,
       "Italian / 이탈리아어": 9,
-      "Portuguese / 포르투갈어": 10,
-      "Dutch / 네덜란드어": 8,
+      "Portuguese / 포르투갈어": 9,
+      "Dutch / 네덜란드어": 7,
       "Swedish / 스웨덴어": 9,
       "Polish / 폴란드어": 10,
       "Turkish / 터키어": 10,
@@ -526,7 +522,7 @@
       "Indonesian / 인도네시아어": 7,
       "Hindi / 힌디어": 8,
       "Arabic / 아랍어": 6,
-      "Hebrew / 히브리어": 6,
+      "Hebrew / 히브리어": 4,
       "Persian / 페르시아어": 3
     },
     "top_articles": [
@@ -535,7 +531,7 @@
         "source": "VietNamNet",
         "importance": 65,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:VietNamNet+10 | 최신:3 năm+5 | 키워드+30 | 순위:2위+20",
+        "evidence": "출처:VietNamNet+10 | 최신:3 năm+5 | 키워드+30 | 순위:3위+20",
         "snippet": "C&#244;ng ty Cổ phần Dược phẩm Nam H&#224; đồng h&#224;nh tổ chức Lễ Tri &#226;n Thầy thuốc Việt Nam nh&#226;n ng&#224;y 27/2 nhằm t&#244;n vinh c&#225;c y b&#225;c sĩ, dược sĩ, nh&#226;n vi&#234;n y ",
         "time": "3 năm",
         "time_kst": "3 năm",
@@ -543,16 +539,16 @@
         "url": "https://vietnamnet.vn/duoc-nam-ha-tri-an-can-bo-nganh-y-nhan-ngay-thay-thuoc-viet-nam-2114103.html"
       },
       {
-        "title": "Sở Y tế TP HCM xử phạt loạt nh&#224; thuốc vi phạm trong lĩnh vực dược, mỹ phẩm",
-        "source": "Knowledge & Life",
+        "title": "Kỳ lạ ng&#224;nh c&#244;ng nghiệp dược phẩm tại Haiti: Ai cũng c&#243; thể trở th&#224;nh dược sỹ v&#224; đi b&#225;n thuốc ngo&#224;i chợ",
+        "source": "Kenh14",
         "importance": 63,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Knowledge & Life+10 | 최신:5 ngày+5 | 키워드+30 | 순위:5위+18",
-        "snippet": "Nhiều cơ sở kinh doanh dược phẩm tại TP HCM bị phạt tiền v&#224; tước giấy ph&#233;p do b&#225;n dược liệu sơ chế kh&#244;ng đạt ti&#234;u chuẩn v&#224; vi ...",
-        "time": "5 ngày",
-        "time_kst": "5 ngày",
+        "evidence": "출처:Kenh14+10 | 최신:7 năm+5 | 키워드+30 | 순위:5위+18",
+        "snippet": "Ở Haiti, thuốc chữa bệnh được giao dịch dễ d&#224;ng giống như việc mua một mớ rau hoặc c&#226;n thịt ngo&#224;i chợ. Ngo&#224;i ra, người b&#225;n thuốc kh&#244;ng phải ngồi một chỗ chờ người bệnh tớ",
+        "time": "7 năm",
+        "time_kst": "7 năm",
         "time_kst_source": "raw",
-        "url": "https://kienthuc.net.vn/so-y-te-tp-hcm-xu-phat-loat-nha-thuoc-vi-pham-trong-linh-vuc-duoc-my-pham-post1620810.html"
+        "url": "https://kenh14.vn/ky-la-nganh-cong-nghiep-duoc-pham-tai-haiti-ai-cung-co-the-tro-thanh-duoc-sy-va-di-ban-thuoc-ngoai-cho-20180819181655505.chn"
       },
       {
         "title": "Przemysł farmaceutyczny wymyśla choroby, a na nie leki",
@@ -583,7 +579,7 @@
         "source": "Sức khỏe & Đời sống",
         "importance": 60,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Sức khỏe & Đời sống+10 | 최신:4 ngày+5 | 키워드+25 | 순위:3위+20",
+        "evidence": "출처:Sức khỏe & Đời sống+10 | 최신:4 ngày+5 | 키워드+25 | 순위:2위+20",
         "snippet": "SKĐS - Tại cuộc họp g&#243;p &#253; dự thảo Th&#244;ng tư về danh mục dược liệu, vị thuốc cổ truyền, thuốc cổ truyền c&#243; mức độ rủi ro trung ...",
         "time": "4 ngày",
         "time_kst": "4 ngày",
@@ -614,7 +610,7 @@
         2
       ],
       [
-        "ZEIT",
+        "Na Presseportal",
         2
       ],
       [
@@ -623,6 +619,10 @@
       ],
       [
         "ANSA",
+        2
+      ],
+      [
+        "il Giornale",
         2
       ],
       [
@@ -647,10 +647,6 @@
       ],
       [
         "Niezalezna",
-        2
-      ],
-      [
-        "BLOOMBERG HT",
         2
       ]
     ]
