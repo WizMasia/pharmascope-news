@@ -1,0 +1,608 @@
+{
+  "date": "2026-06-24",
+  "total": 412,
+  "version": 1,
+  "generated_at": "2026-06-24T06:30:17.858659+09:00",
+  "korean": {
+    "total": 107,
+    "categories": {
+      "의약품": 19,
+      "의약산업": 20,
+      "의약정책": 5,
+      "의약단체": 7,
+      "의약관련정부기관": 19,
+      "의료현장": 10,
+      "약국·약사": 0,
+      "의료정책·인력": 14,
+      "전통의학": 2,
+      "감염·보건": 11
+    },
+    "top_articles": [
+      {
+        "title": "[2026 100대 CEO]존 림 삼성바이오로직스 대표, 글로벌 CDMO 초격차 전략 본격화",
+        "source": "Magazine Hankyung",
+        "importance": 70,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Magazine Hankyung+28 | 최신:24분+20 | 키워드+20 | 순위:144위+2",
+        "snippet": "존 림 삼성바이오로직스 대표는 글로벌 제약&#183;바이오 업계를 대표하는 전문 경영인으로 꼽힌다. 제넨텍과 로슈 등 세계적인 제약 기업에서 37년 이상 연구개발과 생산 운영, 재무 분야를 두루 경험하며 글로벌 사업 역량과 네트워크를 ...",
+        "time": "24분",
+        "url": "https://magazine.hankyung.com/business/article/202606169998b"
+      },
+      {
+        "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
+        "source": "연합뉴스",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:62위+2",
+        "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+      },
+      {
+        "title": "유한양행, 고셔병 신약후보 유럽 희귀의약품 지정",
+        "source": "DailyPharm",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:DailyPharm+24 | 최신:21시간+10 | 키워드+25 | 순위:129위+2",
+        "snippet": "유한양행이 개발 중인 고셔병 치료제 후보물질 YH35995가 미국에 이어 유럽에서도 희귀의약품 지위를 확보하며 글로벌 개발에 속도를 내고 있다. 유한양행은 고셔병 치료제로 개발 중인 YH35995가 유럽의약품청(EMA)으로부터 고셔병 적응증에 대한 희귀의약품(ODD) 지정을 받았다고 23일 밝혔다. 이번 지정은 지난 4월 미국 식품의약국(FDA)의 희귀의약",
+        "time": "21시간",
+        "url": "https://www.dailypharm.com/user/news/339689"
+      },
+      {
+        "title": "코스닥 1부제 윤곽…전통 제약사 '안정성' 재평가 주목",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:20시간+10 | 키워드+20 | 순위:130위+2",
+        "snippet": "키움증권 신민수 연구원은 지난 18일 의료기기 산업 보고서에서 &quot;코스닥 승강제에서 최상위 등급인 프리미엄 세그먼트 편입 업체 개수를 70개로 제한한다는 언론보도가 있었다&quot;며 &quot;전문가로 구성된 자문단 구성 후 첫 회의가 열렸기에 해당 내용이 현실화될 가능성이 높다고 예상한다&quot;고 분석했다.",
+        "time": "20시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=413345"
+      },
+      {
+        "title": "식약처, 생성형 AI 의료기기 시대 대비 본격화…'허가'에서 '거버넌스'로",
+        "source": "Yakup",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yakup+24 | 최신:27분+20 | 키워드+10 | 순위:143위+2",
+        "snippet": "생성형 인공지능(AI) 기술이 의료현장으로 빠르게 확산되면서 규제당국의 역할도 새로운 전환점을 맞고 있다. 과거 의료영상 판독이나 진단보조 기능에 집중됐던 AI 의료기기가 이제는 거대언어모델(LLM)을 ...",
+        "time": "27분",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328890"
+      },
+      {
+        "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
+        "source": "Financial News",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:129위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606230701592618"
+      },
+      {
+        "title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득",
+        "source": "Maeil Business Newspaper",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:135위+2",
+        "snippet": "💡 AI 분석 FDA의 소아 대상 1형 당뇨 치료제 추가 승인은 Tzield의 시장 확대 가능성을 보여주는 긍정적 요소입니다. 기존 성인 적응증에 이어 8~17세 소아 환자군까지 포함되면서 잠재 시장이 확대되었고, 글로벌 ...",
+        "time": "",
+        "url": "https://www.mk.co.kr/news/stock/12080387"
+      },
+      {
+        "title": "식약처 허가 의약품, 멕시코 심사 ‘45일 패스트트랙’ 탄다",
+        "source": "Seoul Economic Daily",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Seoul Economic Daily+28 | 최신:+5 | 키워드+20 | 순위:139위+2",
+        "snippet": "멕시코가 한국 식품의약품안전처를 의약품 분야 참조규제기관으로 인정하면서 우리나라에서 허가받은 의약품의 현지 허가 문턱이 낮아진다. 품질과 안전성, 유효성에 대한 기술 심사가 간소화돼 국내 제약&#183;바이오 기업의 중남미 진출에도 ...",
+        "time": "",
+        "url": "https://www.sedaily.com/article/20059120"
+      },
+      {
+        "title": "美 &quot;신약 개발도 미국 우선주의&quot;&#183;&#183;&#183;HHS, 임상시험 유턴 프로젝트 가동",
+        "source": "Medical Observer",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Medical Observer+10 | 최신:29분+20 | 키워드+20 | 순위:142위+2",
+        "snippet": "[메디칼업저버 문윤희 기자] 미국 정부가 해외로 이동하고 있는 임상시험을 자국으로 되돌리기 위한 전방위 전략을 내놨다. 임상시험 승인 절차를 단축하고 인공지능 (AI)과 실사용데이터 (RWD) 활용을 확대하는 한편, 환자 ...",
+        "time": "29분",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=412062"
+      },
+      {
+        "title": "분만&#183;소아&#183;응급 의료사고, 국가가 최대 18억원 배상",
+        "source": "NEWSIS on MSN",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NEWSIS on MSN+28 | 최신:17시간+10 | 키워드+10 | 순위:66위+2",
+        "snippet": "분만&#183;소아&#183;응급 등 필수의료 분야 의료진의 의료사고 부담을 완화하기 위해 국가가 최대 18억원의 배상보험을 지원한다. 해당 전문의와 전공의의 보험료는 국가가 전액 지원한다. 보건복지부는 '필수의료 고액 배상보험 지원 사업'에 ...",
+        "time": "17시간",
+        "url": "https://www.msn.com/ko-kr/%EA%B3%B5%EA%B3%B5-%EC%95%88%EC%A0%84-%EB%B0%8F-%EB%B9%84%EC%83%81-%EC%82%AC%ED%83%9C/%EC%83%81%ED%83%9C-%EB%B0%8F-%EC%95%88%EC%A0%84-%EA%B2%BD%EA%B3%A0/%EB%B6%84%EB%A7%8C-%EC%86%8C%EC%95%84-%EC%9D%91%EA%B8%89-%EC%9D%98%EB%A3%8C%EC%82%AC%EA%B3%A0-%EA%B5%AD%EA%B0%80%EA%B0%80-%EC%B5%9C%EB%8C%80-18%EC%96%B5%EC%9B%90-%EB%B0%B0%EC%83%81/ar-AA26j688?ocid=BingNewsVerp"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        21
+      ],
+      [
+        "식약처",
+        14
+      ],
+      [
+        "임상",
+        12
+      ],
+      [
+        "허가",
+        10
+      ],
+      [
+        "수출",
+        7
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "CDMO",
+        3
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "항암",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "Seoul Economic Daily on MSN",
+        5
+      ],
+      [
+        "KPA News",
+        4
+      ],
+      [
+        "이데일리 on MSN",
+        4
+      ],
+      [
+        "Segye Ilbo on MSN",
+        4
+      ],
+      [
+        "전자신문 on MSN",
+        3
+      ],
+      [
+        "한국경제 on MSN",
+        3
+      ],
+      [
+        "Maeil Business Newspaper",
+        3
+      ],
+      [
+        "DailyPharm",
+        2
+      ],
+      [
+        "Medical Observer",
+        2
+      ],
+      [
+        "Hankyung on MSN",
+        2
+      ],
+      [
+        "아주경제 on MSN",
+        2
+      ],
+      [
+        "Aju Business Daily on MSN",
+        2
+      ],
+      [
+        "Money Today",
+        2
+      ],
+      [
+        "News2Day",
+        2
+      ],
+      [
+        "파이낸셜뉴스 on MSN",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 145,
+    "categories": {
+      "Drugs & Therapies": 24,
+      "Pharma Industry": 24,
+      "Pharma Policy": 23,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 24
+    },
+    "top_articles": [
+      {
+        "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:126위+2",
+        "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Merz pushes back on US drug probe, citing EU trade pact",
+        "source": "Bloomberg on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Bloomberg on MSN+30 | 최신:+5 | 키워드+30 | 순위:126위+2",
+        "snippet": "Chancellor Friedrich Merz said he expects the US to stand by its trade commitments with Europe after Donald Trump’s administration launched a tariff investigation into Germany’s drug pricing.",
+        "time": "",
+        "url": "https://www.msn.com/en-us/money/general/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"
+      },
+      {
+        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:142위+2",
+        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+        "time": "2y",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+      },
+      {
+        "title": "GLP-1 drugs expand to treat cancer, heart disease, addiction",
+        "source": "The Chosun Ilbo on MSN",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:2d+5 | 키워드+30 | 순위:141위+2",
+        "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond mere obesity treatments to ...",
+        "time": "2d",
+        "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
+      },
+      {
+        "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:5mon+5 | 키워드+30 | 순위:156위+2",
+        "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
+        "time": "5mon",
+        "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+      },
+      {
+        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:122위+2",
+        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+        "time": "3y",
+        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      },
+      {
+        "title": "European patient access to new drugs worsens, pharma lobby says",
+        "source": "Reuters on MSN",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+25 | 순위:133위+2",
+        "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "US announces zero tariff pharmaceutical deal with Britain",
+        "source": "Reuters",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:6mon+5 | 키워드+25 | 순위:159위+2",
+        "snippet": "WASHINGTON/LONDON, Dec 1 (Reuters) - The United States and Britain announced a deal on Monday to securezero tariffs on British pharmaceutical products and medical technology in return for Britain ...",
+        "time": "6mon",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-uk-agree-zero-tariffs-pharmaceuticals-announcement-expected-sources-say-2025-12-01/"
+      },
+      {
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:115위+2",
+        "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+        "time": "3mon",
+        "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+      },
+      {
+        "title": "US to investigate Germany's proposed drug spending reforms",
+        "source": "Fierce Pharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Fierce Pharma+24 | 최신:1d+5 | 키워드+30 | 순위:112위+2",
+        "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+        "time": "1d",
+        "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        23
+      ],
+      [
+        "approval",
+        10
+      ],
+      [
+        "GMP",
+        8
+      ],
+      [
+        "inspection",
+        7
+      ],
+      [
+        "pricing",
+        7
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "biosimilar",
+        3
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "generic",
+        3
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "MSN",
+        9
+      ],
+      [
+        "FiercePharma",
+        7
+      ],
+      [
+        "RAPS",
+        7
+      ],
+      [
+        "JD Supra",
+        6
+      ],
+      [
+        "Yahoo Finance",
+        5
+      ],
+      [
+        "The American Journal of Managed Care",
+        5
+      ],
+      [
+        "CNBC",
+        4
+      ],
+      [
+        "STAT",
+        4
+      ],
+      [
+        "News Medical",
+        3
+      ],
+      [
+        "Nasdaq",
+        3
+      ],
+      [
+        "Reuters on MSN",
+        2
+      ],
+      [
+        "Science Daily",
+        2
+      ],
+      [
+        "NDTV",
+        2
+      ],
+      [
+        "CNN",
+        2
+      ],
+      [
+        "MedCity News",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 160,
+    "languages": {
+      "French / 프랑스어": 9,
+      "German / 독일어": 10,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 9,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 10,
+      "Swedish / 스웨덴어": 10,
+      "Polish / 폴란드어": 10,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 9,
+      "Japanese / 일본어": 8,
+      "Chinese Simplified / 중국어": 0,
+      "Chinese Traditional / 대만": 5,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 9,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 3
+    },
+    "top_articles": [
+      {
+        "title": "תעשיית התרופות מגלה את המיחזור",
+        "source": "globes.co.il",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:globes.co.il+10 | 최신:22 שנים+5 | 키워드+25 | 순위:5위+18",
+        "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+        "time": "22 שנים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+      },
+      {
+        "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+        "source": "聯合新聞網",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:聯合新聞網+10 | 최신:11 個月+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+        "time": "11 個月",
+        "url": "https://udn.com/news/story/7270/8851185"
+      },
+      {
+        "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
+        "source": "اخبار 24",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:اخبار 24+10 | 최신:6 من السنوات+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
+        "time": "6 من السنوات",
+        "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+      },
+      {
+        "title": "韓国の医薬品流通が混乱 4％の非効率が価格押し上げ",
+        "source": "Chosunbiz",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:15 日+5 | 키워드+10 | 순위:14위+10",
+        "snippet": "一方では全身麻酔薬や麻薬類医薬品が統制なく不法流通し、他方では子どもの解熱剤がなく品切れ騒ぎが広がる。見た目には別個の事件のようだが、製薬業界と専門家は韓国の医薬品サプライチェーンの「情報不透明性」が生んだ結果だと指摘する。生産を増やしても現場では薬 ...",
+        "time": "15 日",
+        "url": "https://biz.chosun.com/jp/jp-science/2026/06/09/MYMS4OEFBNDTTMHMVMI2MQELHA/"
+      },
+      {
+        "title": "احیاء صنایع دارویی البرز پس از خسارت‌های جنگ رمضان",
+        "source": "خبرگزاری ایسنا",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:خبرگزاری ایسنا+10 | 최신:18 ساعت+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "مدیرکل صنعت، معدن و تجارت استان البرز از بازگشت بخش عمده واحدهای دارویی آسیب‌دیده استان به مدار تولید خبر داد و گفت: با وجود ...",
+        "time": "18 ساعت",
+        "url": "https://www.isna.ir/news/1405040100442/احیاء-صنایع-دارویی-البرز-پس-از-خسارت-های-جنگ-رمضان"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "dw",
+        3
+      ],
+      [
+        "PR TIMES",
+        3
+      ],
+      [
+        "Antara News",
+        3
+      ],
+      [
+        "Pressemitteilungen",
+        2
+      ],
+      [
+        "Ärzteblatt",
+        2
+      ],
+      [
+        "ZEIT",
+        2
+      ],
+      [
+        "Interempresas",
+        2
+      ],
+      [
+        "ANSA",
+        2
+      ],
+      [
+        "Diário de Notícias",
+        2
+      ],
+      [
+        "Volkskrant",
+        2
+      ],
+      [
+        "SR Nieuws",
+        2
+      ],
+      [
+        "Yle",
+        2
+      ],
+      [
+        "Dagens Medicin",
+        2
+      ],
+      [
+        "Dagens PS",
+        2
+      ],
+      [
+        "Niezalezna",
+        2
+      ]
+    ]
+  }
+}
