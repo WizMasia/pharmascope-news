@@ -1,0 +1,562 @@
+{
+  "date": "2026-06-24",
+  "total_articles": 412,
+  "language_breakdown": {
+    "korean": {
+      "total": 107,
+      "categories": {
+        "의약품": 19,
+        "의약산업": 20,
+        "의약정책": 5,
+        "의약단체": 7,
+        "의약관련정부기관": 19,
+        "의료현장": 10,
+        "약국·약사": 0,
+        "의료정책·인력": 14,
+        "전통의학": 2,
+        "감염·보건": 11
+      }
+    },
+    "english": {
+      "total": 145,
+      "categories": {
+        "Drugs & Therapies": 24,
+        "Pharma Industry": 24,
+        "Pharma Policy": 23,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 24
+      }
+    },
+    "multilingual": {
+      "total": 160,
+      "languages": {
+        "French / 프랑스어": 9,
+        "German / 독일어": 10,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 10,
+        "Polish / 폴란드어": 10,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 8,
+        "Chinese Simplified / 중국어": 0,
+        "Chinese Traditional / 대만": 5,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 3
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 21
+    },
+    {
+      "keyword": "식약처",
+      "count": 14
+    },
+    {
+      "keyword": "임상",
+      "count": 12
+    },
+    {
+      "keyword": "허가",
+      "count": 10
+    },
+    {
+      "keyword": "수출",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "CDMO",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "항암",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 23
+    },
+    {
+      "keyword": "approval",
+      "count": 10
+    },
+    {
+      "keyword": "GMP",
+      "count": 8
+    },
+    {
+      "keyword": "inspection",
+      "count": 7
+    },
+    {
+      "keyword": "pricing",
+      "count": 7
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 3
+    },
+    {
+      "keyword": "patent",
+      "count": 3
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "Seoul Economic Daily on MSN",
+      "count": 5
+    },
+    {
+      "source": "KPA News",
+      "count": 4
+    },
+    {
+      "source": "이데일리 on MSN",
+      "count": 4
+    },
+    {
+      "source": "Segye Ilbo on MSN",
+      "count": 4
+    },
+    {
+      "source": "전자신문 on MSN",
+      "count": 3
+    },
+    {
+      "source": "한국경제 on MSN",
+      "count": 3
+    },
+    {
+      "source": "Maeil Business Newspaper",
+      "count": 3
+    },
+    {
+      "source": "DailyPharm",
+      "count": 2
+    },
+    {
+      "source": "Medical Observer",
+      "count": 2
+    },
+    {
+      "source": "Hankyung on MSN",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "MSN",
+      "count": 9
+    },
+    {
+      "source": "FiercePharma",
+      "count": 7
+    },
+    {
+      "source": "RAPS",
+      "count": 7
+    },
+    {
+      "source": "JD Supra",
+      "count": 6
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 5
+    },
+    {
+      "source": "The American Journal of Managed Care",
+      "count": 5
+    },
+    {
+      "source": "CNBC",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "News Medical",
+      "count": 3
+    },
+    {
+      "source": "Nasdaq",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "FDA 신약 승인 러시 — 항생제·독감약·유전자치료제",
+    "미·독 약가 무역분쟁 — 트럼프 행정부의 독일 약가 개혁 조사",
+    "한국 신약 개발·품목허가 활황 — CAR-T·방사성의약품·기술수출",
+    "GLP-1 적응증 확대 — 비만에서 암·심장병·중독으로",
+    "전통의학 국제 교류 — 한의약·중의학·일본 Kampo 부상"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "keywords": [
+        "FDA",
+        "fda",
+        "drug",
+        "completes"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "source": "Reuters on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "New antibiotic pill shows promise against drug-resistant gonorrhea",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "A one-dose oral drug called zoliflodacin has proven highly effective against gonorrhoea in a major international trial. The pill matched the success of current treatments while avoiding injections and",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "5mon",
+          "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"
+        },
+        {
+          "title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득",
+          "source": "Maeil Business Newspaper",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "💡 AI 분석 FDA의 소아 대상 1형 당뇨 치료제 추가 승인은 Tzield의 시장 확대 가능성을 보여주는 긍정적 요소입니다. 기존 성인 적응증에 이어 8~17세 소아 환자군까지 포함되면서 잠재 시장이 확대되었고, 글로벌 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://www.mk.co.kr/news/stock/12080387"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        },
+        {
+          "title": "Jaguar Health Completes Submission of New Animal Drug Application for Full FDA Approval of Crofelemer for Treatment of Chemotherapy-Induced Diarrhea (CID) in Dogs",
+          "source": "USA TODAY",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Jaguar's recently completed pivotal effectiveness study of crofelemer for the treatment of CID in dogs demonstrates ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.usatoday.com/press-release/story/35327/jaguar-health-completes-submission-of-new-animal-drug-application-for-full-fda-approval-of-crofelemer-for-treatment-of-chemotherapy-induced-diarrhea-cid-in-dogs/"
+        },
+        {
+          "title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval",
+          "source": "GlobalData on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The FDA has cleared several oncology products over the past few days, ranging from therapies to diagnostic and imaging tools.",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "8d",
+          "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "drug",
+        "proposed",
+        "trade",
+        "spending",
+        "reforms",
+        "investigate",
+        "germany"
+      ],
+      "articles": [
+        {
+          "title": "Merz pushes back on US drug probe, citing EU trade pact",
+          "source": "Bloomberg on MSN",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Chancellor Friedrich Merz said he expects the US to stand by its trade commitments with Europe after Donald Trump’s administration launched a tariff investigation into Germany’s drug pricing.",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "",
+          "url": "https://www.msn.com/en-us/money/general/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "source": "Fierce Pharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "1d",
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "source": "Fierce Pharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "1d",
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Not all PFAS have hazardous properties, with some considered of low concern, according to Europe's pharma federation. (sharrocks/iStock/Getty Images Plus/Getty Images) A proposed restriction on the ..",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "pharma",
+        "says",
+        "drugs",
+        "trump"
+      ],
+      "articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "European patient access to new drugs worsens, pharma lobby says",
+          "source": "Reuters on MSN",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+        },
+        {
+          "title": "In UK trade deal, Trump administration excludes drugs from tariffs and secures promise of more pharma investment",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Monday morning, the U.S. government unveiled an agreement in principle with the U.K. that will &quot;exempt U.K.-origin pharmaceuticals, pharmaceutical ingredients, and medical technology&quot; from t",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "6mon",
+          "url": "https://www.fiercepharma.com/pharma/trump-administration-locks-trade-deal-setting-uk-drug-tariffs-zero"
+        },
+        {
+          "title": "As Trump arrives in China, Big Pharma CEOs are notably absent",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "President Trump arrives in Beijing with a 17-member delegation of chief executives. (Alex Wong/Getty Images) As President Donald Trump lands in Beijing, one major industry is missing from his business",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "1mon",
+          "url": "https://www.fiercepharma.com/pharma/trump-arrives-china-big-pharma-ceos-are-notably-absent"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "식약처",
+        "허가"
+      ],
+      "articles": [
+        {
+          "title": "식약처, 생성형 AI 의료기기 시대 대비 본격화…'허가'에서 '거버넌스'로",
+          "source": "Yakup",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "생성형 인공지능(AI) 기술이 의료현장으로 빠르게 확산되면서 규제당국의 역할도 새로운 전환점을 맞고 있다. 과거 의료영상 판독이나 진단보조 기능에 집중됐던 AI 의료기기가 이제는 거대언어모델(LLM)을 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "27분",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328890"
+        },
+        {
+          "title": "식약처 허가 의약품, 멕시코 심사 ‘45일 패스트트랙’ 탄다",
+          "source": "Seoul Economic Daily",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "멕시코가 한국 식품의약품안전처를 의약품 분야 참조규제기관으로 인정하면서 우리나라에서 허가받은 의약품의 현지 허가 문턱이 낮아진다. 품질과 안전성, 유효성에 대한 기술 심사가 간소화돼 국내 제약&#183;바이오 기업의 중남미 진출에도 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://www.sedaily.com/article/20059120"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "[2026 100대 CEO]존 림 삼성바이오로직스 대표, 글로벌 CDMO 초격차 전략 본격화",
+      "source": "Magazine Hankyung",
+      "importance": 70,
+      "snippet": "존 림 삼성바이오로직스 대표는 글로벌 제약&#183;바이오 업계를 대표하는 전문 경영인으로 꼽힌다. 제넨텍과 로슈 등 세계적인 제약 기업에서 37년 이상 연구개발과 생산 운영, 재무 분야를 두루 경험하며 글로벌 사업 역량과 네트워크를 ...",
+      "url": "https://magazine.hankyung.com/business/article/202606169998b"
+    },
+    {
+      "title": "GLP-1 drugs expand to treat cancer, heart disease, addiction",
+      "source": "The Chosun Ilbo on MSN",
+      "importance": 65,
+      "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond mere obesity treatments to ...",
+      "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
+    },
+    {
+      "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+      "source": "Science Daily",
+      "importance": 65,
+      "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+      "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+    },
+    {
+      "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
+      "source": "연합뉴스",
+      "importance": 62,
+      "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
+      "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+    },
+    {
+      "title": "US announces zero tariff pharmaceutical deal with Britain",
+      "source": "Reuters",
+      "importance": 62,
+      "snippet": "WASHINGTON/LONDON, Dec 1 (Reuters) - The United States and Britain announced a deal on Monday to securezero tariffs on British pharmaceutical products and medical technology in return for Britain ...",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-uk-agree-zero-tariffs-pharmaceuticals-announcement-expected-sources-say-2025-12-01/"
+    },
+    {
+      "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+      "source": "FiercePharma",
+      "importance": 61,
+      "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+      "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+    },
+    {
+      "title": "תעשיית התרופות מגלה את המיחזור",
+      "source": "globes.co.il",
+      "importance": 58,
+      "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+      "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+    },
+    {
+      "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
+      "source": "Financial News",
+      "importance": 55,
+      "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
+      "url": "https://www.fnnews.com/news/202606230701592618"
+    },
+    {
+      "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+      "source": "聯合新聞網",
+      "importance": 55,
+      "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+      "url": "https://udn.com/news/story/7270/8851185"
+    },
+    {
+      "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
+      "source": "اخبار 24",
+      "importance": 55,
+      "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 10
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 12,
+      "en_count": 3
+    }
+  ]
+}

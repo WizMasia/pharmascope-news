@@ -1,0 +1,113 @@
+{
+  "date": "2026-06-24",
+  "total_articles": 412,
+  "language_breakdown": {
+    "korean": 107,
+    "english": 145,
+    "multilingual": 160
+  },
+  "issues": [
+    {
+      "topic": "FDA 신약 승인·규제 검사 활기 — 항생제·소아당뇨·항암 분야 다각화",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 56,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "New antibiotic pill shows promise against drug-resistant gonorrhea", "importance": 65, "url": "https://www.sciencedaily.com/releases/2025/12/251227004149.htm"},
+        {"title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득", "importance": 55, "url": "https://www.mk.co.kr/news/stock/12080387"},
+        {"title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval", "importance": 47, "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"},
+        {"title": "GLP-1 drugs expand to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염증용 경구용 항생제를 승인하고, zoliflodacin의 임균 감염증 치료 효과를 확인하는 등 항생제 분야에서 활발한 규제 활동을 보였다. 사노피의 소아 1형 당뇨 치료제 Tzield가 FDA 승인을 받았으며, FDA 종양학 분야에서도 다수의 치료제·영상진단제가 일제히 승인되었다. GLP-1 계열 약물의 적용증이 비만에서 암·심장병·중독으로 확대되는 추세도 주목된다.",
+      "summary_en": "FDA approved GSK's oral antibiotic for drug-resistant UTIs and confirmed zoliflodacin's efficacy against gonorrhea. Sanofi's Tzield gained approval for pediatric type 1 diabetes. Multiple oncology products cleared FDA review. GLP-1 drugs continue expanding beyond obesity to cancer, heart disease, and addiction."
+    },
+    {
+      "topic": "미·독 약가 무역 갈등과 글로벌 제약 통상 재편",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "Merz pushes back on US drug probe, citing EU trade pact", "importance": 67, "url": "https://www.msn.com/en-us/money/general/merz-pushes-back-on-us-drug-probe-citing-eu-trade-pact/ar-AA26595O?ocid=BingNewsVerp"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 61, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "US announces zero tariff pharmaceutical deal with Britain", "importance": 62, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-uk-agree-zero-tariffs-pharmaceuticals-announcement-expected-sources-say-2025-12-01/"},
+        {"title": "In UK trade deal, Trump administration excludes drugs from tariffs and secures promise of more pharma investment", "importance": 56, "url": "https://www.fiercepharma.com/pharma/trump-administration-locks-trade-deal-setting-uk-drug-tariffs-zero"},
+        {"title": "As Trump arrives in China, Big Pharma CEOs are notably absent", "importance": 51, "url": "https://www.fiercepharma.com/pharma/trump-arrives-china-big-pharma-ceos-are-notably-absent"}
+      ],
+      "summary_kr": "트럼프 행정부가 독일의 약가 개혁 법안에 대한 관세 조사(Tariff Investigation)를 개시하면서 미·독 간 제약 통상 마찰이 격화되고 있다. 독일 총리 Merz는 EU 무역 협정을 근거로 반발했으며, 한편 미국은 영국과 제약품 무관세 협정을 체결하는 차별적 통상 전략을 구사하고 있다. 빅파마 CEO들이 트럼프의 중국 방문에 참석하지 않은 점도 주목된다.",
+      "summary_en": "The Trump administration launched a tariff investigation into Germany's proposed drug pricing reforms, escalating US-Germany pharma trade tensions. Chancellor Merz pushed back citing EU trade commitments. Meanwhile, the US secured a zero-tariff pharmaceutical deal with Britain, signaling a selective trade strategy. Big Pharma CEOs notably absent from Trump's China visit."
+    },
+    {
+      "topic": "식약처 규제 현대화 — AI 의료기기 거버넌스·멕시코 패스트트랙",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 55,
+      "key_articles": [
+        {"title": "식약처, 생성형 AI 의료기기 시대 대비 본격화…'허가'에서 '거버넌스'로", "importance": 56, "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=328890"},
+        {"title": "식약처 허가 의약품, 멕시코 심사 '45일 패스트트랙' 탄다", "importance": 55, "url": "https://www.sedaily.com/article/20059120"},
+        {"title": "삼성바이오로직스, 글로벌 CDMO 초격차 전략 본격화", "importance": 70, "url": "https://magazine.hankyung.com/business/article/202606169998b"}
+      ],
+      "summary_kr": "식약처가 생성형 AI 의료기기 규제 방식을 기존 품목허가 중심에서 거버넌스(사용·품질·윤리) 중심으로 전환하고 있다. 멕시코가 식약처를 참조규제기관으로 인정하면서 국내 허가 의약품의 멕시코 심사가 45일 패스트트랙으로 간소화되어 중남미 수출에 청신호가 켜졌다. 존 림 삼성바이오로직스 대표의 CDMO 초격차 전략도 조명받았다.",
+      "summary_en": "South Korea's MFDS is shifting from product-by-product approval to governance-based regulation for AI medical devices. Mexico recognized MFDS as a reference regulatory authority, enabling 45-day fast-track for Korean-approved drugs. Samsung Biologics' CDMO strategy also featured prominently."
+    },
+    {
+      "topic": "유럽 제약 생태계 위기 — 혁신·환자 접근성·규제 부담 3중고",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 62, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 56, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"},
+        {"title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC", "importance": 61, "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"}
+      ],
+      "summary_kr": "EU의 제약 규제 개혁안이 유럽의 글로벌 R&D 비중을 21%까지 축소시킬 것이라는 업계 경고가 나왔다. 유럽 환자들의 신약 접근성은 계속 악화되고 있으며, PFAS 화학물질 사용 제한 제안이 의약품 제조에 심각한 차질을 초래할 수 있다는 우도 제기되었다. 한편 아시아 제약사들의 움직임은 활발해 Kyowa Kirin의 OX40 중단, Sanofi의 First-in-class 라이선스, BioNTech의 ADC 개발 등이 주목된다.",
+      "summary_en": "EU pharma legislative reform could shrink Europe's global R&D share to 21%, industry groups warn. Patient access to new medicines is worsening across Europe. Proposed PFAS chemical bans threaten to disrupt drug manufacturing. Meanwhile, Asian pharma activity remains robust with Kyowa ending OX40 program, Sanofi licensing first-in-class drugs, and BioNTech advancing ADC pipeline."
+    },
+    {
+      "topic": "글로벌 전통의학 부상 — Kampo·한의약·중의약·사우디 규제 현대화",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 59,
+      "key_articles": [
+        {"title": "Tracing the origin of Kampo, Japan's traditional medicine", "importance": 65, "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"},
+        {"title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花", "importance": 55, "url": "https://udn.com/news/story/7270/8851185"},
+        {"title": "\"نظام المنشآت والمستحضرات الصيدلانية والعشبية\" يزيد تنافسية سوق الأدوية في المملكة", "importance": 55, "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"}
+      ],
+      "summary_kr": "일본 전통의학 Kampo의 기원을 추적하는 연구가 발표되어 8세기 중국 승려 감진(Jianzhen)이 일본으로 전래한 과정이 조명받았다. 서울에서 열린 K-MEX 박람회에서는 한의약과 중의약의 침술 과학화를 주제로 교류가 이루어졌다. 사우디아라비아는 의약품·생약 규제 체계를 현대화하는 법안을 승인하여 전통의약 시장 경쟁력 강화에 나섰다.",
+      "summary_en": "Research tracing Kampo's origins to 8th-century Chinese monk Jianzhen sheds light on traditional medicine's cross-cultural journey. The K-MEX exhibition in Seoul featured Korean-Chinese traditional medicine exchanges on acupuncture scientification. Saudi Arabia approved a modernized herbal and pharmaceutical regulatory framework to boost market competitiveness."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 10, "en_count": 10, "significance": "high — 양국 모두 FDA/식약처 허가 관련 기사 집중"},
+    {"keyword": "임상/clinical trial", "kr_count": 12, "en_count": 3, "significance": "medium — 한국 임상 활발, 영어는 상대적 저조"}
+  ],
+  "notable_absences": [
+    "약국·약사 카테고리 0건 — 국내 약국·약사 관련 이슈 부재",
+    "중국어 간체 0건 — Bing 미지원 언어로 수집 불가 (지속적 이슈)"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 신약 승인 러시 지속 — 전일 항생제·독감약·유전자치료제 → 금일 항생제·소아당뇨·항암",
+      "미·독 약가 무역분쟁 심화 — 전일 조사 발표 → 금일 Merz의 반발·EU 무역협정 논쟁",
+      "GLP-1 적응증 확대 지속 — 비만→암·심장병·중독으로 범위 확대",
+      "전통의학 국제 교류 지속 — Kampo 기원 연구·K-MEX 전시회·사우디 규제 현대화"
+    ],
+    "changes": [
+      "식약처 규제 혁신 새로운 이슈 — AI 의료기기 거버넌스 전환, 멕시코 패스트트랙 (전일 대비 신규)",
+      "유럽 제약 생태계 위기 심화 — 환자 접근성 악화·화학물질 규제·혁신 둔화 (전일 대비 신규)",
+      "삼성바이오로직스 CEO 프로필 — CDMO 초격차 전략 조명 (신규)"
+    ]
+  },
+  "connections": [
+    "미·독 약가 마찰과 미·영 무관세 협정은 트럼프 행정부의 '선별적 통상 전략'이라는 일관된 패턴",
+    "FDA 승인 활기와 유럽 규제 강화는 대서양 양안의 제약 규제 방향성 차이를 시사",
+    "식약처의 멕시코 패스트트랙과 삼성바이오로직스 CDMO 전략은 한국 제약바이오 수출 확대라는 공통 테마"
+  ],
+  "generated_at": "2026-06-24T07:35:00+09:00"
+}
