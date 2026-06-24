@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-25",
+  "total_articles": 363,
+  "language_breakdown": {"korean": 91, "english": 130, "multilingual": 142},
+  "issues": [
+    {
+      "topic": "글로벌 의약품 가격 규제 위기 — 영국·EU·미국 삼각 갈등 격화",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 63,
+      "key_articles": [
+        {"title": "British pharma industry says drug pricing stance hurts foreign investment", "importance": 80, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/british-pharma-industry-says-drug-pricing-stance-hurts-foreign-investment-2025-09-10/"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 70, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 64, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "Democrats unveil drug pricing policy road map ahead of midterms", "importance": 65, "url": "https://www.yahoo.com/news/politics/articles/democrats-unveil-drug-pricing-policy-184104124.html"},
+        {"title": "US Pricing Reform Reshapes Drug Launch Strategies: Dee Chaudhary", "importance": 60, "url": "https://www.ajmc.com/view/us-pricing-reform-reshapes-drug-launch-strategies-dee-chaudhary"},
+        {"title": "Drug pricing policy in Japan, U.S. delays sales of new drugs", "importance": 60, "url": "https://www.asahi.com/ajw/articles/16632763"}
+      ],
+      "summary_kr": "영국 제약협회(ABPI)는 약가 정책이 외국인 투자 감소를 초래했다고 경고했으며, EU에서는 환자의 신약 접근성이 악화되고 혁신 R&D가 미국으로 이전될 위기에 처했다. 미국 민주당은 중간선거를 앞두고 약가 인하 로드맵을 발표했고, 독일의 약가 개혁안에 대한 미국의 조사가 시작되는 등 글로벌 약가 규제를 둘러싼 삼각 갈등이 심화되고 있다. 비만치료제 약가 논란과 일본·미국의 가격 정책이 신약 출시를 지연시키는 사례도 포착됐다.",
+      "summary_en": "The UK pharma lobby (ABPI) warns drug pricing stance is deterring foreign investment, while EU patient access to new drugs continues to worsen. US Democrats unveiled a pricing reform roadmap ahead of midterms, and the US is investigating Germany's proposed drug spending reforms, intensifying a triangular conflict over pharmaceutical pricing across the Atlantic. Obesity drug economics and Japan-US pricing delays further compound the crisis."
+    },
+    {
+      "topic": "FDA 신약 승인 러시 — 항생제·소아당뇨·항암 다각화",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 9,
+      "avg_importance": 65,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 83, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득", "importance": 68, "url": "https://www.mk.co.kr/news/stock/12080387"},
+        {"title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval", "importance": 60, "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"},
+        {"title": "HHS and FDA propose clinical trial reforms to expedite drug development", "importance": 60, "url": "https://www.raps.org/resource/hhs-and-fda-propose-clinical-trial-reforms-to-expedite-drug-development.html"},
+        {"title": "FDA Draft Guidance Proposes CR, MRD to Accelerate MM Drug Approval", "importance": 60, "url": "https://www.ajmc.com/view/fda-draft-guidance-proposes-cr-mrd-to-accelerate-mm-drug-approval"}
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염증 경구용 항생제를 승인하고, 사노피의 Tzield(테플리주맙)를 8~17세 소아 1형 당뇨로 확대 승인했다. 항암 분야에서는 multiple myeloma 조기승인을 위한 MRD/CR 가이드라인이 초안으로 발표되었고, HHS-FDA는 임상시험 혁신을 위한 파일럿 프로그램을 추진 중이다. 여러 항암제·진단기기의 승인이 함께 이루어져 FDA 규제 현대화 흐름이 가속화되고 있다.",
+      "summary_en": "The FDA approved GSK's oral antibiotic for drug-resistant UTIs and expanded Sanofi's Tzield (teplizumab) to pediatric T1D patients aged 8-17. In oncology, a draft guidance proposed MRD and CR as accelerated approval endpoints for multiple myeloma. HHS and FDA jointly launched clinical trial reform pilots, signaling a broader regulatory modernization push."
+    },
+    {
+      "topic": "한국 제약·의료 — 신약 2종 동시 승인, 말라리아 주의보, 약국 생태계 변화",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 66,
+      "key_articles": [
+        {"title": "South Korea approves two domestic new drugs, setting record pace", "importance": 65, "url": "https://www.msn.com/en-xl/news/other/domestic-new-drug-approvals-surge-record-year-anticipated/ar-AA22SAzD?ocid=BingNewsVerp"},
+        {"title": "말라리아 주의보 발령…대한약사회, 전국 약국 상담 대응 강화", "importance": 79, "url": "https://www.yakup.com/news/index.html?mode=view&cat=all&nid=328962"},
+        {"title": "피알지에스앤텍 희귀질환 신약, 허가 전 환자 치료에 사용", "importance": 61, "url": "https://www.msn.com/ko-kr/news/other/%ED%94%BC%EC%95%8C%EC%A7%80%EC%97%90%EC%8A%A4%EC%95%A4%ED%85%8D-%ED%9D%AC%EA%B7%80%EC%A7%88%ED%99%98-%EC%8B%A0%EC%95%BD-%ED%97%88%EA%B0%80-%EC%A0%84-%ED%99%98%EC%9E%90-%EC%B9%98%EB%A3%8C%EC%97%90-%EC%82%AC%EC%9A%A9/ar-AA26djwa?ocid=BingNewsVerp"},
+        {"title": "창고형 약국에 동네약국 생존 위협받는데… 손 놓은 정부", "importance": 63, "url": "https://www.fnnews.com/news/202606241832128555"},
+        {"title": "세계 의약품시장 '2조 달러' 연다…사상 최대 매출 약물은?", "importance": 81, "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537332"}
+      ],
+      "summary_kr": "식약처가 국내 개발 CAR-T 항암제 '림카르토'(안발캅타진오토류셀)를 포함한 신약 2종을 동시 승인하며 국내 신약 승인 기록을 경신했다. 피알지에스앤텍의 NF2 희귀질환 치료제 '트리뉴민'은 허가 전 치료목적 사용승인을 획득했다. 한편 질병관리청이 전국 말라리아 주의보를 발령, 대한약사회가 약국 상담 체계를 강화했으며, 대형 창고형 약국 증가로 동네약국 생존이 위협받고 있다. 글로벌 의약품 시장은 2032년 2조 달러 전망 속에 비만치료제와 염증성 질환 치료제가 주도할 것으로 분석됐다.",
+      "summary_en": "South Korea's MFDS approved two domestic new drugs simultaneously, including the CAR-T anticancer agent 'Rimqarto', setting a record pace for domestic drug approvals. PRGS&NTECH's NF2 rare disease drug 'Trineumin' received pre-approval therapeutic use authorization. The KDCA issued a nationwide malaria alert, and the Korean Pharmaceutical Association strengthened pharmacy counseling protocols. Warehouse-style pharmacies are threatening community pharmacies as the government remains passive. Global pharma market projected to reach $2T by 2032, led by obesity and inflammatory disease treatments."
+    },
+    {
+      "topic": "GLP-1 혁명 확장 — 비만에서 암·심장병·중독 치료로 영역 확대",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 63,
+      "key_articles": [
+        {"title": "GLP-1 drugs expand to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/money/general/glp-1-drugs-expand-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"},
+        {"title": "The economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate", "importance": 60, "url": "https://www.msn.com/en-ca/money/general/the-economics-of-obesity-drugs-reimbursement-pricing-power-and-the-next-healthcare-cost-debate/ar-AA26pBOL?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "GLP-1 계열 약물(위고비·마운자로)이 비만 치료를 넘어 암, 심장병, 중독 치료로 적용 범위를 확장하고 있다. 이에 따라 급여 적용과 약가 책정을 둘러싼 새로운 의료비 논쟁이 예고된다. Evaluate 보고서는 2032년 글로벌 의약품 시장 2조 달러를 전망하며 비만치료제와 염증성 질환 치료제가 주요 성장 동력이 될 것이라고 분석했다.",
+      "summary_en": "GLP-1 drugs (Wegovy, Mounjaro) are expanding beyond obesity to treat cancer, heart disease, and addiction, sparking new debates on reimbursement and pricing. Evaluate's 2026 World Preview forecasts the global pharma market will reach $2T by 2032, with obesity and inflammatory disease drugs as primary growth drivers."
+    },
+    {
+      "topic": "美·EU 제약 통상 전쟁 — 관세·화학물질 규제·R&D 이탈",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 61,
+      "key_articles": [
+        {"title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US", "importance": 61, "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 64, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"},
+        {"title": "Biotech IPO revival faces competition from cash-rich big pharma buyers", "importance": 60, "url": "https://www.cnbc.com/2026/06/16/biotech-deals-ipo-pharma-dealmaking-2026.html"},
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"}
+      ],
+      "summary_kr": "미국의 제약 관세 위협에 EU 제약산업계는 R&D와 제조시설이 미국으로 1,000억 달러 이상 이탈할 수 있다고 경고했다. EU의 PFAS 화학물질 사용 제한 제안은 의약품 제조 중단 위기를 초래할 수 있으며, 바이오텍 IPO 시장이 회복세를 보이는 가운데 대형 제약사들의 M&A 자금력과 경쟁 구도가 형성되고 있다. EU의 의약품 규제 개혁안이 혁신 위축을 가속화할 것이란 업계 반발도 지속되고 있다.",
+      "summary_en": "Trump's tariff threats on pharmaceuticals may trigger a $100B+ exodus of R&D and manufacturing from EU to the US. A proposed EU PFAS chemical ban could halt drug manufacturing entirely. Biotech IPO revival is emerging but faces competition from cash-rich big pharma acquirers. The broader EU pharma regulatory overhaul continues to draw industry criticism for accelerating innovation decline."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 5, "en_count": 11, "significance": "FDA·MFDS 동시다발 승인 — 한국 신약 2종 동시 승인과 FDA의 GSK·사노피 승인이 같은 시기 집중"},
+    {"keyword": "임상/clinical", "kr_count": 11, "en_count": 2, "significance": "국내 임상시험 관련 기사 급증, FDA 임상시험 혁신 제안과 대비"},
+    {"keyword": "특허/patent", "kr_count": 1, "en_count": 4, "significance": "특허 만료 앞둔 블록버스터 대비 M&A·바이오시밀러 논의"}
+  ],
+  "notable_absences": [
+    "일본 개호보험 개정·약가 개혁 관련 기사 부재 (전일 대비 감소)",
+    "전통의학·한의약 관련 기사 0건 (6/24: Kampo·한의약·중의약·사우디 이슈 있었으나 오늘은 전통의학 카테고리 0건)",
+    "코로나19·백신 관련 기사 현저히 감소"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 신약 승인·규제 검사 → FDA 승인 + 임상시험 혁신 제안으로 방향 전환",
+      "미·독 약가 무역 갈등 → 영국·EU·미국 삼각 갈등으로 확장",
+      "유럽 제약 생태계 위기 → EU 화학물질 규제(PFAS)가 새로운 위협으로 부상"
+    ],
+    "changes": []
+  },
+  "connections": [
+    "글로벌 약가 규제(이슈1)와 GLP-1 약가 논란(이슈4) — 비만치료제의 고비용 구조가 약가 규제 논쟁의 새로운 중심축으로 부상",
+    "FDA 승인(이슈2)과 한국 신약 승인(이슈3) — 한미 동시 신약 승인 러시는 글로벌 규제 조화 가능성 시사",
+    "EU 제약 이탈(이슈5)과 영국 약가 갈등(이슈1) — 브렉시트 이후 영국의 독자적 약가 정책과 EU의 규제 부담이 대륙 전체의 경쟁력 약화로 연결"
+  ],
+  "generated_at": "2026-06-25T06:30:00+09:00"
+}
