@@ -1,8 +1,8 @@
 # 🔬 PharmaScope — 의약업계 글로벌 동향
 
-**마지막 갱신:** 2026-06-26 06:33 KST
+**마지막 갱신:** 2026-06-26 07:34 KST
 **최근 수집 (2026-06-26):** 🇰🇷89 🌐129 🌏147 = **365건**
-**출처:** Bing News HTML (직접 URL 100%, URL page verification)
+**출처:** Bing News (직접 URL 100%, CBM 0건)
 
 ---
 
@@ -42,3 +42,4 @@ pharmascope-news/
 - [2026-06-19](daily/2026-06-19/report.md)
 - [2026-06-18](daily/2026-06-18/report.md)
 - [2026-06-17](daily/2026-06-17/report.md)
+

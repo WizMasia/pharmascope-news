@@ -1,0 +1,203 @@
+{
+  "date": "2026-06-26",
+  "total_articles": 365,
+  "language_breakdown": {
+    "korean": 89,
+    "english": 129,
+    "multilingual": 147
+  },
+  "issues": [
+    {
+      "topic": "FDA 신약 승인 러시 — 항생제·소아당뇨·고혈압까지 다각화",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 23,
+      "avg_importance": 63,
+      "key_articles": [
+        {
+          "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+          "importance": 83,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+        },
+        {
+          "title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득",
+          "importance": 63,
+          "url": "https://www.mk.co.kr/news/stock/12080387"
+        },
+        {
+          "title": "AstraZeneca Gets U.S. Approval for Hypertension Drug",
+          "importance": 60,
+          "url": "https://www.morningstar.com/news/dow-jones/20260518498/astrazeneca-gets-us-approval-for-hypertension-drug"
+        },
+        {
+          "title": "HHS and FDA propose clinical trial reforms to expedite drug development",
+          "importance": 60,
+          "url": "https://www.raps.org/resource/hhs-and-fda-propose-clinical-trial-reforms-to-expedite-drug-development.html"
+        },
+        {
+          "title": "FDA to speed up approvals of generic biologic medicines as Trump targets high drug costs",
+          "importance": 60,
+          "url": "https://www.cnbc.com/2025/10/29/fda-to-speed-up-generic-drug-approvals-as-trump-targets-drug-costs.html"
+        }
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염 경구용 항생제 승인, 사노피의 소아 1형 당뇨병 치료제 Tzield(8~17세) 확대 승인, 아스트라제네카 고혈압 신약 승인 등 다양한 치료제 영역에서 신약 허가를 이어가고 있다. 동시에 FDA는 바이오시밀러 개발 가속화와 임상시험 혁신 파일럿 프로그램을 추진 중이며, 마카리 국장 사임 후 재발매를 추진하는 Replimune의 사례는 FDA 리더십 변화가 규제 환경에 미치는 영향을 보여준다.",
+      "summary_en": "FDA continues a wave of drug approvals across therapeutic areas: GSK's oral antibiotic for drug-resistant UTIs, Sanofi's Tzield expanded to pediatric T1D (ages 8-17), and AstraZeneca's new hypertension drug. Concurrently, FDA is accelerating biosimilar development and launching clinical trial reform pilots, while Replimune's resubmission post-Commissioner Makary's departure signals regulatory environment shifts."
+    },
+    {
+      "topic": "글로벌 의약품 가격 규제 격화 — 미·EU 통상 갈등 고조",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 62,
+      "key_articles": [
+        {
+          "title": "Democrats unveil drug pricing policy road map ahead of midterms",
+          "importance": 65,
+          "url": "https://www.yahoo.com/news/politics/articles/democrats-unveil-drug-pricing-policy-184104124.html"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "importance": 64,
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "US patent infringement investigation targets German drug price control measures",
+          "importance": 60,
+          "url": "https://finance.yahoo.com/healthcare/articles/us-patent-infringement-investigation-targets-095337486.html"
+        },
+        {
+          "title": "Appeals Court resurrects PhRMA's lawsuit challenging pricing provisions in IRA",
+          "importance": 59,
+          "url": "https://www.fiercepharma.com/pharma/appeals-court-resurrects-phrmas-lawsuit-challenging-drug-pricing-provisions-ira"
+        },
+        {
+          "title": "US prices for new drugs fell in 2025 as fewer costly gene therapies were launched",
+          "importance": 85,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-prices-new-drugs-fell-2025-fewer-costly-gene-therapies-were-launched-2026-06-25/"
+        }
+      ],
+      "summary_kr": "미국 민주당이 중간선거를 앞두고 처방약 가격 인하 로드맵을 발표했으며, 상원 HELP 위원회 청문회도 예정되어 있다. USTR은 독일의 약가 규제 개혁에 대해 특허 침해 조사를 개시했고, 항소법원은 PhRMA의 IRA 약가 협상 조항 소송을 부활시켰다. 한편 2025년 미국 신약 출시 가격은 전년 대비 하락했으나(중간값 $216,000), 여전히 높은 수준이다.",
+      "summary_en": "Democrats released a drug pricing roadmap ahead of midterms, with Senate HELP hearings scheduled. USTR launched a patent infringement investigation into Germany's drug pricing reforms, and the Appeals Court revived PhRMA's IRA lawsuit. US new drug launch prices fell in 2025 (median $216,000) but remain elevated."
+    },
+    {
+      "topic": "GLP-1 혁명 확장 — 비만에서 암·심장병·중독 치료로 영역 확대",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 63,
+      "key_articles": [
+        {
+          "title": "GLP-1 drugs expand beyond obesity to treat cancer, heart disease, addiction",
+          "importance": 65,
+          "url": "https://www.msn.com/en-xl/money/general/glp-1-drugs-expand-beyond-obesity-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
+        },
+        {
+          "title": "The economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate",
+          "importance": 60,
+          "url": "https://www.msn.com/en-ca/money/general/the-economics-of-obesity-drugs-reimbursement-pricing-power-and-the-next-healthcare-cost-debate/ar-AA26pBOL?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "GLP-1 계열 약물(위고비, 마운자로)이 비만 치료를 넘어 암, 심장병, 중독 치료로 적응증을 확장하고 있다. 그러나 높은 약가로 인한 보험 급여 및 접근성 문제가 새로운 의료비 논쟁을 촉발하고 있으며, 비만약 시장의 경제학이 글로벌 제약업계의 핵심 의제로 부상하고 있다.",
+      "summary_en": "GLP-1 drugs (Wegovy, Mounjaro) are expanding beyond obesity into cancer, heart disease, and addiction treatment. However, high pricing creates reimbursement and accessibility challenges, making obesity drug economics a central pharma industry debate."
+    },
+    {
+      "topic": "한국 제약·규제 동향 — GMP 현장 지원, K신약 프로젝트, 희귀질환 치료제 접근성",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 66,
+      "key_articles": [
+        {
+          "title": "\"무균의약품 GMP 개선점은?\"…현장에서 답찾는 식약처",
+          "importance": 73,
+          "url": "https://www.fnnews.com/news/202606251652382018"
+        },
+        {
+          "title": "\"K신약 찾자\"…정부·제약바이오 '국가사업' 맞손",
+          "importance": 68,
+          "url": "https://www.newsis.com/view/NISX20260624_0003682329"
+        },
+        {
+          "title": "피알지에스앤텍 희귀질환 신약, 허가 전 환자 치료에 사용",
+          "importance": 61,
+          "url": "https://www.msn.com/ko-kr/news/other/%ED%94%BC%EC%95%8C%EC%A7%80%EC%97%90%EC%8A%A4%EC%95%A4%ED%85%8D-%ED%9D%AC%EA%B7%80%EC%A7%88%ED%99%98-%EC%8B%A0%EC%95%BD-%ED%97%88%EA%B0%80-%EC%A0%84-%ED%99%98%EC%9E%90-%EC%B9%98%EB%A3%8C%EC%97%90-%EC%82%AC%EC%9A%A9/ar-AA26djwa?ocid=BingNewsVerp"
+        },
+        {
+          "title": "K의약품, 멕시코 판매 쉬워진다",
+          "importance": 61,
+          "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=359272"
+        }
+      ],
+      "summary_kr": "식약처가 무균의약품 GMP 강화에 따라 현장 중심의 제조업체 지원 정책을 추진 중이다. 정부와 제약바이오 업계가 'K신약' 국가사업에 공동 협력하기로 했으며, 피알지에스앤텍의 희귀질환 신약(트리뉴민, NF2 치료제)이 허가 전 치료목적 승인을 획득했다. 또한 한-멕시코 협력을 통해 국내 의약품의 멕시코 시장 진출이 용이해질 전망이다.",
+      "summary_en": "MFDS is pursuing field-centered GMP support for sterile drug manufacturers. Government and pharma/biotech sectors are collaborating on a 'K-ShinYak' national project. PRG S&Tec's rare disease drug (Trinumin, NF2) received pre-approval expanded access. Korea-Mexico cooperation will facilitate Korean drug exports to Mexico."
+    },
+    {
+      "topic": "약국·의료현장 현안 — 창고형 약국 시도, 의료분쟁 예방, 항생제 내성 대응",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 63,
+      "key_articles": [
+        {
+          "title": "대형마트 이어 아울렛도 150평 규모 창고형약국 시도",
+          "importance": 64,
+          "url": "https://www.dailypharm.com/user/news/339746"
+        },
+        {
+          "title": "의료배상공제조합 2026 상반기 의료분쟁예방 연수교육 6월 27일 개최",
+          "importance": 63,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EB%B0%B0%EC%83%81%EA%B3%B5%EC%A0%9C%EC%A1%B0%ED%95%A9-2026-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81%EC%98%88%EB%B0%A9-%EC%97%B0%EC%88%98%EA%B5%90%EC%9C%A1-6%EC%9B%94-27%EC%9D%BC-%EA%B0%9C%EC%B5%9C/ar-AA25Um7S?ocid=BingNewsVerp"
+        },
+        {
+          "title": "항생제 내성 대응, 이제는 이행과 성과의 단계다 [건강한겨레]",
+          "importance": 63,
+          "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1265212.html"
+        },
+        {
+          "title": "약사·약사가족 지방선거 당선인 한자리…\"지역 건강 위해 뛸 것\"",
+          "importance": 67,
+          "url": "https://www.dailypharm.com/user/news/339816"
+        }
+      ],
+      "summary_kr": "국내 약국 업계에서는 대형마트에 이어 아울렛에도 150평 규모의 창고형 약국이 시도되는 등 유통 채널 다각화 움직임이 이어지고 있다. 대한의사협회는 의료분쟁 예방 연수교육을 개최하며, 항생제 내성 대응의 이행 단계 필요성이 제기됐다. 지방선거에서 당선된 약사 및 가족들이 지역 건강 증진을 위한 활동 계획을 밝혔다.",
+      "summary_en": "Korean pharmacy distribution channels are diversifying with warehouse-style pharmacies (150 pyeong) appearing in outlet malls following large mart entries. KMA hosts medical dispute prevention training. Antimicrobial resistance response enters implementation phase. Pharmacist-elected local officials pledge community health initiatives."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가/approval",
+      "kr_count": 5,
+      "en_count": 10,
+      "significance": "높음 — FDA 승인 뉴스가 한국어/영어 양쪽에서 주요 이슈로 부각"
+    },
+    {
+      "keyword": "임상/trial",
+      "kr_count": 6,
+      "en_count": 2,
+      "significance": "중간 — 한국어권 임상 관련 기사 비중이 영어권보다 높음"
+    }
+  ],
+  "notable_absences": [
+    "중국 CDMO/바이오텍 관련 주요 기사 부재 (zh-cn Bing 미지원)",
+    "코로나19 관련 기사 0건 — 팬데믹 이슈 완전히 소멸"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일 '글로벌 의약품 가격 규제 위기 — 영국·EU·미국 삼각 갈등 격화' → 금일 독일 약가 규제 조사로 구체화",
+      "전일 'FDA 신약 승인 러시' → 금일 GSK 항생제·소아 당뇨·고혈압까지 승인 확대 지속",
+      "전일 'GLP-1 혁명 확장' → 금일 비만약 경제학 논쟁으로 진화",
+      "전일 '한국 제약·의료 — 신약 2종 동시 승인, 말라리아 주의보' → 금일 K신약 국가사업·GMP 현장 지원으로 전환"
+    ],
+    "changes": [
+      "미-독 간 의약품 가격 규제를 둘러싼 통상 마찰이 특허 침해 조사 단계로 격상",
+      "FDA 바이오시밀러 가속화 정책 재부각 (작년 10월 발표가 최근 재조명)",
+      "베트남 전통의학·제약 산업 관련 기사가 소규모 클러스터로 형성"
+    ]
+  },
+  "connections": [
+    "미국 민주당의 약가 인하 로드맵과 PhRMA의 IRA 소송 부활은 IRA 약가 협상 조항의 헌법적 논쟁이 2026년 중간선거까지 이어질 것임을 시사",
+    "FDA 바이오시밀러 가속화 정책과 GLP-1 비만약의 고가 논란은 바이오의약품 접근성이라는 공통 의제로 연결",
+    "식약처의 무균의약품 GMP 현장 지원은 글로벌 GMP 규제 강화 추세(미·EU)에 대응한 선제적 조치로 분석"
+  ],
+  "generated_at": "2026-06-26T07:32:00+09:00"
+}
