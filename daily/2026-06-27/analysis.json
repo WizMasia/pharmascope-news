@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-27",
+  "total_articles": 351,
+  "language_breakdown": {
+    "korean": 74,
+    "english": 134,
+    "multilingual": 143
+  },
+  "issues": [
+    {
+      "topic": "FDA 신약 승인·규제 활성화 — 소아당뇨·항암·RWE 가이드라인까지",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 25,
+      "avg_importance": 62,
+      "key_articles": [
+        {"title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득", "importance": 68, "url": "https://www.mk.co.kr/news/stock/12080387"},
+        {"title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval", "importance": 60, "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"},
+        {"title": "FDA official offers examples of RWE being used to secure drug approval", "importance": 63, "url": "https://www.raps.org/resource/fda-official-offers-examples-of-rwe-being-used-to-secure-drug-approval.html"},
+        {"title": "HHS and FDA propose clinical trial reforms to expedite drug development", "importance": 60, "url": "https://www.raps.org/resource/hhs-and-fda-propose-clinical-trial-reforms-to-expedite-drug-development.html"},
+        {"title": "FDA Draft Guidance Proposes CR, MRD to Accelerate MM Drug Approval", "importance": 60, "url": "https://www.ajmc.com/view/fda-draft-guidance-proposes-cr-mrd-to-accelerate-mm-drug-approval"}
+      ],
+      "summary_kr": "FDA가 소아 1형 당뇨 치료제 Tzield(사노피)의 적응증 확대 승인, 항암제·영상진단기기 승인 러시, RWE(실제임상자료) 활용 사례 공개, 임상시험 개혁안 발의, 다발골수종 MRD/CR 평가지침 초안 등 규제·승인 전방위 활성화. 한국에서도 허가 관련 기사가 20건에 달해 한미 동시 규제 관심 고조.",
+      "summary_en": "The FDA is in a period of heightened regulatory activity: Sanofi's Tzield expanded to pediatric type 1 diabetes, oncology approval roundup, RWE case studies for drug approval, HHS/FDA clinical trial reform proposals, and draft guidance on MRD/CR endpoints for multiple myeloma. Korean parallel coverage (7 KR + 13 EN 'approval' mentions) shows cross-border regulatory attention."
+    },
+    {
+      "topic": "글로벌 의약품 가격 규제 격화 — IRA 소송·PBM 개혁·약가인하",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 65,
+      "key_articles": [
+        {"title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched", "importance": 83, "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vO2L?ocid=BingNewsVerp"},
+        {"title": "Democrats unveil drug pricing policy road map ahead of midterms", "importance": 65, "url": "https://www.yahoo.com/news/politics/articles/democrats-unveil-drug-pricing-policy-184104124.html"},
+        {"title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대", "importance": 73, "url": "https://www.yna.co.kr/view/AKR20260626135200530"},
+        {"title": "Federal and State Policymakers Push Forward with PBM and Drug Pricing Reform", "importance": 60, "url": "https://www.jdsupra.com/legalnews/federal-and-state-policymakers-push-9638611/"},
+        {"title": "Appeals Court resurrects PhRMA's lawsuit challenging pricing provisions in IRA", "importance": 59, "url": "https://www.fiercepharma.com/pharma/appeals-court-resurrects-phrmas-lawsuit-challenging-drug-pricing-provisions-ira"}
+      ],
+      "summary_kr": "미국 신약 출시 가격이 2025년 하락(유전자치료제 출시 감소 영향), 민주당 중간선거 앞두고 약가 인하 로드맵 발표, IRA(인플레이션감축법) 약가협상 조항에 대한 PhRMA 소송 항소법원 부활, 연방·주정부 PBM 개혁 지속. 한국도 R&D 투자 기업 약가인하 30% 감면·국산 신약 환급계약 확대 정책 발표로 글로벌 약가 규제 공조.",
+      "summary_en": "Global drug pricing reform intensifies: US new drug launch prices fell in 2025 as fewer gene therapies reached market; Democrats unveil pre-midterm pricing roadmap; PhRMA's IRA lawsuit resurrected on appeal; federal/state PBM reforms continue. Korea joins the trend with R&D investment-based price cut relief (30% reduction) and expanded domestic drug rebate contracts."
+    },
+    {
+      "topic": "GLP-1 혁명 확장 — 비만 넘어 암·심장병·중독 치료로",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 63,
+      "key_articles": [
+        {"title": "GLP-1 drugs expand beyond obesity to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/money/general/glp-1-drugs-expand-beyond-obesity-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"},
+        {"title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer", "importance": 68, "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"}
+      ],
+      "summary_kr": "GLP-1 계열 약물(Wegovy·Mounjaro)이 비만 치료를 넘어 암·심장병·중독 치료로 적응증 확대 중. 또한 AMD3100(plerixafor)이라는 FDA 승인 약물이 희귀 간암의 면역치료 저항성 극복에 도움을 줄 수 있다는 연구 결과 발표. GLP-1 혁명이 단순 비만약을 넘어 전방위 치료제로 진화 중.",
+      "summary_en": "The GLP-1 revolution continues expanding beyond obesity: Wegovy and Mounjaro now being studied for cancer, heart disease, and addiction. Concurrently, FDA-approved AMD3100 shows promise in overcoming immunotherapy resistance in rare liver cancer by freeing trapped T cells from fibrous tumor tissue."
+    },
+    {
+      "topic": "한국 제약·의료 정책 — 약가 개혁·희귀질환·디지털의료기기·PA 간호사",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 8,
+      "avg_importance": 64,
+      "key_articles": [
+        {"title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대", "importance": 73, "url": "https://www.yna.co.kr/view/AKR20260626135200530"},
+        {"title": "피알지에스앤텍 희귀질환 신약, 허가 전 환자 치료에 사용", "importance": 61, "url": "https://www.msn.com/ko-kr/news/other/%ED%94%BC%EC%95%8C%EC%A7%80%EC%97%90%EC%8A%A4%EC%95%A4%ED%85%8D-%ED%9D%AC%EA%B7%80%EC%A7%88%ED%99%98-%EC%8B%A0%EC%95%BD-%ED%97%88%EA%B0%80-%EC%A0%84-%ED%99%98%EC%9E%90-%EC%B9%98%EB%A3%8C%EC%97%90-%EC%82%AC%EC%9A%A9/ar-AA26djwa?ocid=BingNewsVerp"},
+        {"title": "[바이오스냅] 디지털의료기기 변경관리 심사 가이드라인 제정", "importance": 60, "url": "https://www.yna.co.kr/view/AKR20260626049900017"},
+        {"title": "간호사 \"PA 교육 체계 일원화 필요\"...'선수 심판론'은 과제", "importance": 63, "url": "https://www.mk.co.kr/esg/news/view/2026/397306/"},
+        {"title": "의료배상공제조합 2026 상반기 의료분쟁예방 연수교육 6월 27일 개최", "importance": 63, "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EB%B0%B0%EC%83%81%EA%B3%B5%EC%A0%9C%EC%A1%B0%ED%95%A9-2026-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81%EC%98%88%EB%B0%A9-%EC%97%B0%EC%88%98%EA%B5%90%EC%9C%A1-6%EC%9B%94-27%EC%9D%BC-%EA%B0%9C%EC%B5%9C/ar-AA25Um7S?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "한국 제약·의료 분야 다각적 정책 변화: 건강보험공단 R&D 투자 제약사 약가인하 30% 감면·국산 신약 환급계약 확대, 식약처 디지털의료기기 변경관리 가이드라인 제정·첨단바이오 eCRF 가이드 발간, 피알지에스앤텍 NF2 치료제 치료목적 사용승인, PA 간호사 교육체계 일원화 논의, 의료분쟁예방 연수교육 개최.",
+      "summary_en": "Korea's multi-faceted pharma/healthcare policy developments: NHIS R&D investment-linked price cut relief (30%), expanded domestic drug rebate contracts; MFDS digital medical device change management guidelines and advanced biologics eCRF guidance; PRGS&NTech's NF2 treatment gets pre-approval therapeutic use authorization; PA nurse training system reform debate; medical dispute prevention education."
+    },
+    {
+      "topic": "글로벌 제약 공급망 재편 — 미국 관세·EU 규제·BIOSECURE",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "BIOSECURE and beyond: What it really means for pharma supply chains", "importance": 60, "url": "https://pharmaphorum.com/rd/biosecure-and-beyond-what-it-really-means-pharma-supply-chains"},
+        {"title": "Fierce Pharma Asia—Trump's 100% drug tariff; Takeda layoffs; Lilly, Insilico's AI deal", "importance": 61, "url": "https://www.fiercepharma.com/pharma/trumps-100-drug-tariff-takeda-layoffs-lilly-insilico-ai-deal"},
+        {"title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US", "importance": 61, "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"},
+        {"title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says", "importance": 59, "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 70, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "미국 트럼프 행정부의 의약품 100% 관세 위협에 유럽 제약사 미국 이전 우려 확대($1,000억+ 규모). BIOSECURE 법안으로 제약 공급망 재편 본격화. EU 신규 의약품 규제 패키지에 업계 '혁신 기회 상실' 비판. 유럽 내 신약 접근성 악화 지속. Lilly-Insilico $27.5억 AI 신약개발 제휴, Takeda 미국 구조조정 등 제약산업 재편 가속화.",
+      "summary_en": "Global pharma supply chain under transformation: Trump's threatened 100% drug tariff driving fears of $100B+ pharma exodus from EU to US; BIOSECURE Act reshaping supply chain dependencies; EU pharma package criticized as 'missed opportunity' by EFPIA; European patient access to new drugs continues deteriorating; Lilly-Insilico $2.75B AI drug discovery deal and Takeda US layoffs signal industry restructuring."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 7, "en_count": 13, "significance": "high",
+     "note": "FDA 승인·허가 관련 기사가 한영 동시 급증. 소아 당뇨 Tzield 승인, 항암제 승인, RWE 가이드라인 등이 주제."},
+    {"keyword": "약가/pricing", "kr_count": 1, "en_count": 8, "significance": "high",
+     "note": "미국 IRA·PBM 개혁과 한국 R&D 연계 약가인하 감면 정책이 동시 보도. 글로벌 약가 규제 공조 흐름."},
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 3, "significance": "medium",
+     "note": "바이오시밀러 관련 기사 소폭 증가. 한미 동시 관심사."},
+    {"keyword": "임상/clinical", "kr_count": 3, "en_count": 2, "significance": "low",
+     "note": "FDA 임상시험 개혁안과 한국 임상 관련 기사."}
+  ],
+  "notable_absences": [
+    "중국·일본 규제 동향 (0건) — 일중 규제 기관 움직임 전무",
+    "항생제 내성 관련 심층 기사 부재",
+    "전통의학/한의학 관련 기사 소폭 (KR 2건, EN 20건 but 대부분 일반 전통의학)"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 신약 승인 러시 (지속 — 어제보다 승인·규제 기사 증가)",
+      "GLP-1 혁명 확장 (지속 — 비만→암·심장병·중독으로 확대 주제 유지)",
+      "글로벌 약가 규제 격화 (심화 — IRA 소송 부활, PBM 개혁 지속)"
+    ],
+    "changes": [
+      "한국 약가 개혁 구체화 — R&D 투자 연계 약가인하 감면 정책 등장 (신규)",
+      "글로벌 공급망 이슈 부각 — BIOSECURE + EU 규제 패키지 + 관세 3중 압박 (신규)",
+      "희귀질환 치료목적 사용승인 한국 사례 등장 (신규)",
+      "디지털의료기기 규제 가이드라인 — 식약처 첫 정식 가이드 (신규)"
+    ]
+  },
+  "connections": [
+    "미국 FDA 규제 활성화 ↔ 한국 식약처 디지털의료기기 가이드라인 제정 — 양국 규제기관 동시 움직임",
+    "글로벌 약가 규제 ↔ 한국 R&D 연계 약가인하 감면 — 한국이 글로벌 약가 규제 흐름에 맞춰 차별화 전략",
+    "미·EU 통상 마찰 ↔ BIOSECURE 공급망 재편 — 제약사들의 생산기지 이전 압박 가속화",
+    "GLP-1 혁명 확장 ↔ 비만·심장병·암 치료 패러다임 전환 — 기존 치료제 시장 구조 변화 예고"
+  ],
+  "generated_at": "2026-06-27T07:30:00+09:00"
+}
