@@ -1,0 +1,670 @@
+{
+  "date": "2026-06-27",
+  "total": 351,
+  "version": 1,
+  "generated_at": "2026-06-27T06:30:46.423573+09:00",
+  "korean": {
+    "total": 74,
+    "categories": {
+      "의약품": 10,
+      "의약산업": 12,
+      "의약정책": 8,
+      "의약단체": 6,
+      "의약관련정부기관": 8,
+      "의료현장": 3,
+      "약국·약사": 0,
+      "의료정책·인력": 11,
+      "전통의학": 2,
+      "감염·보건": 14
+    },
+    "top_articles": [
+      {
+        "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+        "source": "연합뉴스",
+        "importance": 73,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "(서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 덜어주고, 국산 신약은 환급 계약을 확대해 수출경쟁력을 지원한다.",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.yna.co.kr/view/AKR20260626135200530"
+      },
+      {
+        "title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득",
+        "source": "Maeil Business Newspaper",
+        "importance": 68,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "💡 AI 분석 FDA의 소아 대상 1형 당뇨 치료제 추가 승인은 Tzield의 시장 확대 가능성을 보여주는 긍정적 요소입니다. 기존 성인 적응증에 이어 8~17세 소아 환자군까지 포함되면서 잠재 시장이 확대되었고, 글로벌 ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.mk.co.kr/news/stock/12080387"
+      },
+      {
+        "title": "[릴레이 집회-281일차] 멈추지 않은 한약사 문제 해결 촉구…&quot;정부, 약속 이행해야&quot;",
+        "source": "약사공론",
+        "importance": 68,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:20시간+10 | 키워드+20 | 순위:1위+20",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 대한약사회 제공. 대한약사회의 한약사 문제 해결을 촉구하는 청와대 앞 릴레이 집회가 무더위 속에서도 이어지고 있다. 대한약사회는 25일 청와대 앞에서 '한약사 문제 해결 촉구 ...",
+        "time": "20시간",
+        "time_kst": "2026-06-26 10:30 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537470"
+      },
+      {
+        "title": "의료배상공제조합 2026 상반기 의료분쟁예방 연수교육 6월 27일 개최",
+        "source": "Hankyung on MSN",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Hankyung on MSN+28 | 최신:+5 | 키워드+10 | 순위:1위+20",
+        "snippet": "최근 의료현장에서 의료분쟁 및 악성 민원 등으로 인해 의료진의 고충이 심화되고 있다. 이에 대한 법적&#183;제도적 예방책 제시를 통해 안전한 진료환경을 조성할 수 있는 자리가 마련된다.대한의사협회(회장&#183;김택우)와 대한의사협회 ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EB%B0%B0%EC%83%81%EA%B3%B5%EC%A0%9C%EC%A1%B0%ED%95%A9-2026-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81%EC%98%88%EB%B0%A9-%EC%97%B0%EC%88%98%EA%B5%90%EC%9C%A1-6%EC%9B%94-27%EC%9D%BC-%EA%B0%9C%EC%B5%9C/ar-AA25Um7S?ocid=BingNewsVerp"
+      },
+      {
+        "title": "간호사 “PA 교육 체계 일원화 필요”...‘선수 심판론’은 과제",
+        "source": "Maeil Business Newspaper",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+10 | 순위:3위+20",
+        "snippet": "간호사 “PA 교육 체계 일원화 필요”...‘선수 심판론’은 과제, 작성자-최원석 기자, 섹션- ESG, 요약-진료지원(PA) 간호사를 위한 교육체계가 일원화해야 한다는 현장 간호사들의 목소리가 높은 것으로 나타났다. 다만 ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.mk.co.kr/esg/news/view/2026/397306/"
+      },
+      {
+        "title": "피알지에스앤텍 희귀질환 신약, 허가 전 환자 치료에 사용",
+        "source": "Hankyung on MSN",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Hankyung on MSN+28 | 최신:+5 | 키워드+10 | 순위:4위+18",
+        "snippet": "국내 희귀 유전질환 치료제 개발 기업 피알지에스앤텍이 개발 중인 제2형 신경섬유종증(NF2) 치료제 ‘트리뉴민’이 식품의약품안전처로부터 치료목적 사용승인을 획득했다고 22일 밝혔다.이번 승인에 따라 국내 만 19세 이상 성인 ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%94%BC%EC%95%8C%EC%A7%80%EC%97%90%EC%8A%A4%EC%95%A4%ED%85%8D-%ED%9D%AC%EA%B7%80%EC%A7%88%ED%99%98-%EC%8B%A0%EC%95%BD-%ED%97%88%EA%B0%80-%EC%A0%84-%ED%99%98%EC%9E%90-%EC%B9%98%EB%A3%8C%EC%97%90-%EC%82%AC%EC%9A%A9/ar-AA26djwa?ocid=BingNewsVerp"
+      },
+      {
+        "title": "한국제약바이오협회, AI 기반 DI 솔루션&#183;CSV 실무 교육 신설",
+        "source": "전자신문",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:전자신문+10 | 최신:14시간+10 | 키워드+20 | 순위:2위+20",
+        "snippet": "제약 공정 현장 데이터 완전성 확보와 전산화시스템 검증 역량을 끌어올리기 위한 체험형 특화 과정이 열린다. 한국제약바이오협회는 오는 8월 25일부터 26일까지 양일간 협회에서 'AI 바이브코딩 기반 DI 솔루션 구축 및 ...",
+        "time": "14시간",
+        "time_kst": "2026-06-26 16:30 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.etnews.com/20260626000271"
+      },
+      {
+        "title": "[바이오스냅] 디지털의료기기 변경관리 심사 가이드라인 제정",
+        "source": "Yonhap News Agency",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+10 | 순위:9위+15",
+        "snippet": "(서울=연합뉴스) 박상현 기자 = 식품의약품안전처가 디지털 의료기기 변경관리 계획서 허가&#183;심사 가이드라인을 만들고 첨단 바이오의약품 관련 전자증례기록서(eCRF) 길라잡이를 발간했다. 광동제약[009290]은 창사 이래 ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.yna.co.kr/view/AKR20260626049900017"
+      },
+      {
+        "title": "지역&#183;필수의료에 연 3조6천억원 건강보험 투입",
+        "source": "지디넷코리아 on MSN",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:지디넷코리아 on MSN+10 | 최신:18시간+10 | 키워드+20 | 순위:5위+18",
+        "snippet": "(지디넷코리아=조민규 기자)정부가 지역&#183;필수의료에 연간 3조6천억원의 건강보험을 투입해 지원하겠다는 계획을 밝혔다. 비수도권과 수도권 취약지에는 연 4천억원의 지역 우대수가를 적용하는 등 지역과 필수의료를 강화하기 위해 연 ...",
+        "time": "18시간",
+        "time_kst": "2026-06-26 12:30 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A7%80%EC%97%AD-%ED%95%84%EC%88%98%EC%9D%98%EB%A3%8C%EC%97%90-%EC%97%B0-3%EC%A1%B06%EC%B2%9C%EC%96%B5%EC%9B%90-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%ED%88%AC%EC%9E%85/ar-AA26zpH8?ocid=BingNewsVerp"
+      },
+      {
+        "title": "“마약 없는 사회, 약국에서 시작된다”…세계마약퇴치의 날, 약사사회 예방 역할 부각",
+        "source": "KPA News",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:KPA News+18 | 최신:17시간+10 | 키워드+10 | 순위:4위+18",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 제40회 세계마약퇴치의 날 기념식의 무게중심은 단속과 처벌을 넘어 ‘예방’과 ‘회복’, 그리고 지역사회 안전망으로 옮겨가 있었다. 26일 식품의약품안전처(처장 오유경)는 서울 ...",
+        "time": "17시간",
+        "time_kst": "2026-06-26 13:30 (+0900)",
+        "time_kst_source": "estimated",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=537507"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        12
+      ],
+      [
+        "허가",
+        7
+      ],
+      [
+        "식약처",
+        5
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "급여",
+        3
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "CDMO",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "Seoul Economic Daily on MSN",
+        4
+      ],
+      [
+        "이데일리 on MSN",
+        4
+      ],
+      [
+        "파이낸셜뉴스 on MSN",
+        4
+      ],
+      [
+        "KPA News",
+        4
+      ],
+      [
+        "Segye Ilbo on MSN",
+        3
+      ],
+      [
+        "이투데이 on MSN",
+        3
+      ],
+      [
+        "Hankyung on MSN",
+        2
+      ],
+      [
+        "서울경제 on MSN",
+        2
+      ],
+      [
+        "매일경제 on MSN",
+        2
+      ],
+      [
+        "Maeil Business Newspaper",
+        2
+      ],
+      [
+        "Yonhap News Agency",
+        2
+      ],
+      [
+        "Financial News on MSN",
+        2
+      ],
+      [
+        "뉴시스 on MSN",
+        2
+      ],
+      [
+        "Maeil Business Newspaper on MSN",
+        1
+      ],
+      [
+        "뉴스토마토",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 134,
+    "categories": {
+      "Drugs & Therapies": 24,
+      "Pharma Industry": 20,
+      "Pharma Policy": 23,
+      "Pharma Associations": 23,
+      "Regulatory Agencies": 24,
+      "Traditional & Complementary Medicine": 20
+    },
+    "top_articles": [
+      {
+        "title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched",
+        "source": "Reuters on MSN",
+        "importance": 83,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:4위+18",
+        "snippet": "By Deena Beasley June 25 (Reuters) - Launch prices for prescription medicines approved by U.S. regulators in 2025 fell from ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vO2L?ocid=BingNewsVerp"
+      },
+      {
+        "title": "European patient access to new drugs worsens, pharma lobby says",
+        "source": "Reuters on MSN",
+        "importance": 70,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+25 | 순위:15위+10",
+        "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+        "source": "Science Daily",
+        "importance": 68,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3d+5 | 키워드+30 | 순위:20위+5",
+        "snippet": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping them in nearby fibrous tissue. An FDA-approved drug called AMD3100 freed those",
+        "time": "3d",
+        "time_kst": "3d",
+        "time_kst_source": "raw",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+      },
+      {
+        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:21위+2",
+        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+        "time": "2y",
+        "time_kst": "2y",
+        "time_kst_source": "raw",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+      },
+      {
+        "title": "Alembic Pharma gets USFDA nod for generic influenza treatment drug",
+        "source": "The Economic Times on MSN",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:The Economic Times on MSN+10 | 최신:+5 | 키워드+30 | 순위:1위+20",
+        "snippet": "Alembic Pharmaceuticals has secured USFDA approval for its generic oseltamivir phosphate oral suspension, a key treatment for ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-usfda-nod-for-generic-influenza-treatment-drug/ar-AA26AQIN?ocid=BingNewsVerp"
+      },
+      {
+        "title": "GLP-1 drugs expand beyond obesity to treat cancer, heart disease, addiction",
+        "source": "The Chosun Ilbo on MSN",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:The Chosun Ilbo on MSN+28 | 최신:5d+5 | 키워드+30 | 순위:24위+2",
+        "snippet": "GLP-1 (glucagon-like peptide-1) drugs, represented by ‘Wegovy’ and ‘Mounjaro’, are evolving beyond simple obesity treatments ...",
+        "time": "5d",
+        "time_kst": "5d",
+        "time_kst_source": "raw",
+        "url": "https://www.msn.com/en-xl/money/general/glp-1-drugs-expand-beyond-obesity-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Biotech And Pharma Industry Locations: Life-Saving Innovations",
+        "source": "Business Facilities",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Business Facilities+10 | 최신:8mon+5 | 키워드+30 | 순위:1위+20",
+        "snippet": "T he biotech and pharmaceutical sectors stand at the brink of innovation and strategic transformation. Market momentum continues to build, with the global biotechnology market valued at around $2 ...",
+        "time": "8mon",
+        "time_kst": "8mon",
+        "time_kst_source": "raw",
+        "url": "https://businessfacilities.com/biotech-and-pharma-industry-locations-life-saving-innovations/"
+      },
+      {
+        "title": "Democrats unveil drug pricing policy road map ahead of midterms",
+        "source": "Yahoo",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Yahoo+10 | 최신:+5 | 키워드+30 | 순위:2위+20",
+        "snippet": "Senate Democrats on Tuesday released a blueprint of proposals to lower prescription drug costs, as Democrats focus on ...",
+        "time": "",
+        "time_kst": "",
+        "time_kst_source": "raw",
+        "url": "https://www.yahoo.com/news/politics/articles/democrats-unveil-drug-pricing-policy-184104124.html"
+      },
+      {
+        "title": "Marathon Pharmaceutical resigns from industry lobbying group PhRMA following pricing controversy",
+        "source": "Healthcare Finance News",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Healthcare Finance News+10 | 최신:9y+5 | 키워드+30 | 순위:1위+20",
+        "snippet": "With the sale of its controversial rare-disease drug finalized, Marathon Pharmaceuticals has taken the unusual step of resigning from the powerful industry lobbying group PhRMA.| Marathon had been a .",
+        "time": "9y",
+        "time_kst": "9y",
+        "time_kst_source": "raw",
+        "url": "https://www.healthcarefinancenews.com/news/marathon-pharmaceutical-resigns-industry-lobbying-group-phrma-following-pricing-controversy"
+      },
+      {
+        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:21위+2",
+        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+        "time": "3y",
+        "time_kst": "3y",
+        "time_kst_source": "raw",
+        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        26
+      ],
+      [
+        "approval",
+        13
+      ],
+      [
+        "pricing",
+        8
+      ],
+      [
+        "inspection",
+        7
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "GMP",
+        5
+      ],
+      [
+        "patent",
+        5
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "biosimilar",
+        3
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "FiercePharma",
+        10
+      ],
+      [
+        "RAPS",
+        9
+      ],
+      [
+        "Yahoo Finance",
+        7
+      ],
+      [
+        "JD Supra",
+        7
+      ],
+      [
+        "MSN",
+        6
+      ],
+      [
+        "CNBC",
+        4
+      ],
+      [
+        "Business Wire",
+        4
+      ],
+      [
+        "Markets Insider",
+        3
+      ],
+      [
+        "Medical Xpress",
+        3
+      ],
+      [
+        "Seeking Alpha",
+        3
+      ],
+      [
+        "The American Journal of Managed Care",
+        3
+      ],
+      [
+        "Regulatory Affairs Professionals Society",
+        3
+      ],
+      [
+        "Reuters on MSN",
+        2
+      ],
+      [
+        "Science Daily",
+        2
+      ],
+      [
+        "CNN",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 143,
+    "languages": {
+      "French / 프랑스어": 7,
+      "German / 독일어": 10,
+      "Spanish / 스페인어": 7,
+      "Italian / 이탈리아어": 5,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 7,
+      "Swedish / 스웨덴어": 10,
+      "Polish / 폴란드어": 10,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 8,
+      "Japanese / 일본어": 6,
+      "Chinese Simplified / 중국어": 0,
+      "Chinese Traditional / 대만": 6,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 8,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 3
+    },
+    "top_articles": [
+      {
+        "title": "Kỳ lạ ng&#224;nh c&#244;ng nghiệp dược phẩm tại Haiti: Ai cũng c&#243; thể trở th&#224;nh dược sỹ v&#224; đi b&#225;n thuốc ngo&#224;i chợ",
+        "source": "Kenh14",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Kenh14+10 | 최신:7 năm+5 | 키워드+30 | 순위:4위+18",
+        "snippet": "Ở Haiti, thuốc chữa bệnh được giao dịch dễ d&#224;ng giống như việc mua một mớ rau hoặc c&#226;n thịt ngo&#224;i chợ. Ngo&#224;i ra, người b&#225;n thuốc kh&#244;ng phải ngồi một chỗ chờ người bệnh tớ",
+        "time": "7 năm",
+        "time_kst": "7 năm",
+        "time_kst_source": "raw",
+        "url": "https://kenh14.vn/ky-la-nganh-cong-nghiep-duoc-pham-tai-haiti-ai-cung-co-the-tro-thanh-duoc-sy-va-di-ban-thuoc-ngoai-cho-20180819181655505.chn"
+      },
+      {
+        "title": "H&#224;ng ngh&#236;n dược sĩ tốt nghiệp mỗi năm nhưng Việt Nam chưa c&#243; thuốc ph&#225;t minh",
+        "source": "VietNamNet",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:VietNamNet+10 | 최신:2 năm+5 | 키워드+30 | 순위:5위+18",
+        "snippet": "So với thị trường thế giới, c&#225;c doanh nghiệp dược ở Việt Nam vẫn chưa c&#243; thuốc ph&#225;t minh, trong khi đ&#243; c&#244;ng nghệ sản xuất lại cổ điển. Tại Hội thảo &quot;Triển khai Nghị quyết",
+        "time": "2 năm",
+        "time_kst": "2 năm",
+        "time_kst_source": "raw",
+        "url": "https://vietnamnet.vn/hang-nghin-duoc-si-tot-nghiep-moi-nam-nhung-viet-nam-chua-co-thuoc-biet-duoc-2167622.html"
+      },
+      {
+        "title": "Przemysł farmaceutyczny wymyśla choroby, a na nie leki",
+        "source": "Newsweek",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Newsweek+10 | 최신:16 lat+5 | 키워드+25 | 순위:1위+20",
+        "snippet": "Według prof. Joan Busfield z uniwersytetu w Essex powodem jest to, iż przemysł farmaceutyczny wymyśla coraz nowe leki dla przeciwdziałania stanom, kt&#243;rych jeszcze niedawno w og&#243;le nie znano,",
+        "time": "16 lat",
+        "time_kst": "16 lat",
+        "time_kst_source": "raw",
+        "url": "https://www.newsweek.pl/swiat/przemysl-farmaceutyczny-wymysla-choroby-a-na-nie-leki/mx5713l"
+      },
+      {
+        "title": "Ph&#225;t triển thuốc generic chất lượng cao củng cố nội lực, n&#226;ng tầm vị thế ng&#224;nh dược",
+        "source": "Dau Tu",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Dau Tu+10 | 최신:7 th&#225;ng+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "Thuốc generic chất lượng cao đang trở th&#224;nh “động cơ k&#233;p” cho y tế v&#224; kinh tế Việt Nam. Với tiềm năng tăng trưởng mạnh, nếu c&#243; ch&#237;nh s&#225;ch ph&#249; hợp, lĩnh vực n&#224;y ",
+        "time": "7 th&#225;ng",
+        "time_kst": "7 th&#225;ng",
+        "time_kst_source": "raw",
+        "url": "https://baodautu.vn/phat-trien-thuoc-generic-chat-luong-cao-cung-co-noi-luc-nang-tam-vi-the-nganh-duoc-d429420.html"
+      },
+      {
+        "title": "Dược Nam H&#224; tri &#226;n c&#225;n bộ ng&#224;nh y nh&#226;n ng&#224;y Thầy thuốc Việt Nam",
+        "source": "VietNamNet",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:VietNamNet+10 | 최신:3 năm+5 | 키워드+30 | 순위:6위+15",
+        "snippet": "C&#244;ng ty Cổ phần Dược phẩm Nam H&#224; đồng h&#224;nh tổ chức Lễ Tri &#226;n Thầy thuốc Việt Nam nh&#226;n ng&#224;y 27/2 nhằm t&#244;n vinh c&#225;c y b&#225;c sĩ, dược sĩ, nh&#226;n vi&#234;n y ",
+        "time": "3 năm",
+        "time_kst": "3 năm",
+        "time_kst_source": "raw",
+        "url": "https://vietnamnet.vn/duoc-nam-ha-tri-an-can-bo-nganh-y-nhan-ngay-thay-thuoc-viet-nam-2114103.html"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "dw",
+        3
+      ],
+      [
+        "Les Echos",
+        2
+      ],
+      [
+        "Pressemitteilungen",
+        2
+      ],
+      [
+        "Ärzteblatt",
+        2
+      ],
+      [
+        "ZEIT",
+        2
+      ],
+      [
+        "Interempresas",
+        2
+      ],
+      [
+        "Diário de Notícias",
+        2
+      ],
+      [
+        "Estado de Minas",
+        2
+      ],
+      [
+        "Volkskrant",
+        2
+      ],
+      [
+        "Yle",
+        2
+      ],
+      [
+        "Dagens PS",
+        2
+      ],
+      [
+        "BLOOMBERG HT",
+        2
+      ],
+      [
+        "t24.com.tr",
+        2
+      ],
+      [
+        "PR TIMES",
+        2
+      ],
+      [
+        "VietNamNet",
+        2
+      ]
+    ]
+  }
+}
