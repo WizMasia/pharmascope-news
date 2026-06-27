@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-28",
+  "total_articles": 413,
+  "language_breakdown": {
+    "korean": 93,
+    "english": 150,
+    "multilingual": 170
+  },
+  "issues": [
+    {
+      "topic": "식약처 허가심사 혁신 및 글로벌 규제 협력 가속화",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 53,
+      "key_articles": [
+        {"title": "식약처, 의료제품 '240일 허가' 추진… 전주기 심사체계 혁신", "importance": 55, "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164259"},
+        {"title": "식약처, EMA와 첫 의약품 공동심사 완료…\"해외 허가 문턱 낮춘다\"", "importance": 55, "url": "https://www.sedaily.com/article/20056713"},
+        {"title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처", "importance": 55, "url": "https://www.fnnews.com/news/202606191311316576"},
+        {"title": "\"무균의약품 GMP 개선점은?\"…현장에서 답찾는 식약처", "importance": 55, "url": "https://www.fnnews.com/news/202606251652382018"}
+      ],
+      "summary_kr": "식품의약품안전처가 의료제품 허가심사 체계를 전면 개편해 신약·바이오시밀러·첨단의료기기의 허가기간을 240일로 단축하는 방안을 추진 중이다. EMA(유럽의약품청)와 최초로 의약품 국제 공동심사를 완료해 국내 기업의 해외 허가 부담을 낮췄으며, CEO 간담회를 통해 업계와 허가 신속화 방안을 논의했다. 또한 무균의약품 GMP 강화에 대응한 현장 지원 정책도 병행 추진 중이다.",
+      "summary_en": "South Korea's MFDS is undergoing a major regulatory overhaul, pushing a '240-day approval' system for drugs, biosimilars, and advanced medical devices. It completed its first joint drug review with the EMA, reducing the burden for Korean companies seeking overseas approval. MFDS also held CEO meetings to discuss expedited review pathways and launched field support programs for sterile GMP compliance."
+    },
+    {
+      "topic": "글로벌 의약품 가격 규제 격화 — 미국·유럽·한국 동시 압박",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 58,
+      "key_articles": [
+        {"title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched", "importance": 67, "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vO2L?ocid=BingNewsVerp"},
+        {"title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대", "importance": 55, "url": "https://www.fnnews.com/news/202606270611049823"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 56, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs", "importance": 56, "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 62, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26i5PE?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "미국 신약 출시 가격이 2025년 하락세를 기록한 가운데, 트럼프 행정부의 약가 압박이 지속되며 PhRMA가 업계 직접구매 프로그램 홍보 웹사이트를 개설하는 등 대응에 나섰다. 미국은 독일의 약가 개혁안에 대한 조사에 착수했고, 유럽에서는 신약 접근성이 악화되고 있다는 제약 로비단체의 경고가 나왔다. 한국에서는 건강보험공단이 R&D 투자 제약사에 약가인하를 30% 감면하고 국산 신약 환급계약을 확대하는 정책을 발표했다.",
+      "summary_en": "US launch prices for new drugs fell in 2025 amid continued Trump administration pricing pressure, prompting PhRMA to launch a website highlighting industry direct-purchase programs. The US launched an investigation into Germany's proposed drug spending reforms, while European pharma lobby warned of worsening patient access to new medicines. In South Korea, the NHIS announced a policy to reduce drug price cuts by 30% for R&D-investing pharma companies and expand rebate contracts for domestic new drugs."
+    },
+    {
+      "topic": "FDA 신약 승인 및 규제 활성화 — 항암·소아당뇨·고혈압·독감 치료제",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 9,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer", "importance": 65, "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"},
+        {"title": "FDA oncology roundup: drugs, imaging agents and diagnostics gain approval", "importance": 47, "url": "https://www.msn.com/en-us/health/other/fda-oncology-roundup-drugs-imaging-agents-and-diagnostics-gain-approval/ar-AA25IkaX?ocid=BingNewsVerp"},
+        {"title": "사노피, FDA로부터 소아 1형 당뇨 치료제 Tzield 승인 획득", "importance": 55, "url": "https://www.mk.co.kr/news/stock/12080387"},
+        {"title": "AstraZeneca Gets U.S. Approval for Hypertension Drug", "importance": 47, "url": "https://www.morningstar.com/news/dow-jones/20260518498/astrazeneca-gets-us-approval-for-hypertension-drug"},
+        {"title": "Alembic Pharma gets USFDA nod for generic influenza treatment drug", "importance": 47, "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-usfda-nod-for-generic-influenza-treatment-drug/ar-AA26AQIN?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "FDA가 최근 항암제, 소아 1형 당뇨 치료제(Tzield), 고혈압 치료제(아스트라제네카), 독감 치료제(알렘빅 제네릭) 등 다양한 영역에서 신규 승인을 내놓았다. 특히 희귀 간암이 면역세포를 종양 주변 섬유조직에 가두는 면역회피 기전을 발견하고, FDA 승인 약물 AMD3100이 이를 극복할 수 있다는 연구 결과가 주목받았다. FDA 종양학 승인 라운드업에서는 치료제·영상진단제·체외진단기기가 포함됐다.",
+      "summary_en": "The FDA granted several new approvals across therapeutic areas including oncology, pediatric type 1 diabetes (Sanofi's Tzield expanded to ages 8-17), hypertension (AstraZeneca), and generic influenza treatment (Alembic). Notable research revealed that an FDA-approved drug (AMD3100) may help overcome immunotherapy resistance in rare liver cancer by preventing T-cell trapping in fibrous tissue. The FDA oncology roundup included new drug approvals alongside imaging and diagnostic tools."
+    },
+    {
+      "topic": "EU 제약 규제 개혁의 역풍 — 혁신 위기·PFAS 금지·환자 접근성 악화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 58,
+      "key_articles": [
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 56, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"}
+      ],
+      "summary_kr": "EU의 제약 규제 개혁안이 유럽의 글로벌 R&D 비중을 현재 32%에서 21%로 축소시킬 수 있다는 업계 경고가 제기됐다. 동시에 EU의 포괄적 PFAS(과불화화합물) 화학물질 금지 제안이 유럽 내 의약품 제조를 사실상 중단시킬 위기에 처했다는 제약연맹(EFPIA)의 반발이 이어지고 있다. 규제 환경 악화로 유럽 내 신약 접근성도 지속 악화 추세다.",
+      "summary_en": "EU pharmaceutical regulatory reforms are facing mounting industry criticism. A trade group warned that the proposed overhaul could shrink Europe's share of global R&D from 32% to 21%, while a sweeping PFAS chemical ban could effectively halt drug manufacturing across Europe. Patient access to new medicines continues to worsen across the continent, according to the pharma lobby."
+    },
+    {
+      "topic": "GLP-1 혁명 확장 — 비만 넘어 암·심장병·중독 치료 혁신",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "GLP-1 drugs expand beyond obesity to treat cancer, heart disease, addiction", "importance": 65, "url": "https://www.msn.com/en-xl/news/other/glp-1-drugs-expand-beyond-obesity-to-treat-cancer-heart-disease-addiction/ar-AA26auvx?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "GLP-1 계열 약물(위고비·마운자로 등)이 비만 치료를 넘어 암, 심장병, 중독 치료 등으로 적응증 확장이 가속화되고 있다. 이는 GLP-1 수용체가 다양한 조직에서 항염증·대사 조절 기능을 수행함에 따라 가능해진 혁신으로, 차세대 블록버스터 시장을 형성할 전망이다.",
+      "summary_en": "GLP-1 drugs such as Wegovy and Mounjaro are rapidly expanding beyond obesity into new therapeutic areas including cancer, cardiovascular disease, and addiction treatment. This expansion is driven by GLP-1 receptor's anti-inflammatory and metabolic regulatory functions across multiple tissue types, positioning these drugs as the next-generation blockbuster market."
+    },
+    {
+      "topic": "한국 제약산업 R&D 투자·임상 활성화 및 ESG 경영 강화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 54,
+      "key_articles": [
+        {"title": "셀비온, 국가신약개발사업단과 전립선암 병용임상 과제 협약 체결", "importance": 55, "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645484344"},
+        {"title": "\"ESG, 실적만큼 중요\"…제약사, 보고서 잇단 발간", "importance": 55, "url": "https://www.fnnews.com/news/202606230701592618"}
+      ],
+      "summary_kr": "셀비온이 국가신약개발사업단(KDDF)과 전이성 거세저항성 전립선암(mCRPC) 대상 방사성의약품 병용 임상 1상 협약을 체결하며 국내 신약개발 생태계가 활기를 띠고 있다. 한편 제약바이오 기업들의 ESG 경영 공시가 확대되면서 지속가능경영보고서 발간이 잇따르고 있으며, ESG가 실적 못지않은 핵심 경영 가치로 자리잡고 있다.",
+      "summary_en": "Korean pharma Cellbion signed a clinical trial agreement with KDDF for a Phase 1 combination study using radiopharmaceuticals in metastatic castration-resistant prostate cancer (mCRPC), signaling continued momentum in domestic drug development. Meanwhile, ESG reporting is becoming standard practice among Korean pharmaceutical companies, with sustainability reports now considered as important as financial performance disclosures."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 9, "en_count": 9, "significance": "높음 — 식약처·FDA 동시 규제 혁신"},
+    {"keyword": "약가/pricing", "kr_count": 6, "en_count": 9, "significance": "높음 — 한·미·EU 동시 약가 압박"},
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 5, "significance": "중간 — FDA 바이오시밀러 정책·특허 장벽"},
+    {"keyword": "임상/clinical trial", "kr_count": 5, "en_count": 2, "significance": "중간 — 국내 임상 활성화·글로벌 R&D 환경"}
+  ],
+  "notable_absences": [
+    "중국 바이오제약 동향 — 중국어 간체 Bing 미지원으로 0건",
+    "전통의학(한의학) — 한국어 '전통의학' 카테고리 0건, 글로벌 커버리지 부족"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 소아 당뇨 Tzield 승인 — 전일 미국 규제 이슈에 포함되었으나 오늘 구체화",
+      "EU PFAS 화학물질 금지 — 전일 언급되지 않은 새로운 규제 리스크 부각"
+    ],
+    "changes": [
+      "의료분쟁·배상 이슈 — 병원협회 의료사고배상공제조합 추진 (신규)",
+      "이스라엘·이란 전통의약 — 히브리어·페르시아어 기사 다수 발견 (신규)"
+    ]
+  },
+  "connections": [
+    {"between": ["한국 약가 개혁", "미국 약가 압박", "EU 약가 규제"], "note": "한·미·EU 3개국이 동시에 약가 규제를 강화하는 글로벌 동조화 현상. 각국의 접근법은 상이하지만 의약품 가격 인하 압력은 전 세계적 추세."},
+    {"between": ["FDA 승인 활성화", "식약처 허가 혁신"], "note": "한국과 미국 규제기관이 각각 허가심사 혁신을 추진하며 글로벌 신약 출시 가속화에 기여."},
+    {"between": ["EU 제약 규제 개혁 역풍", "한국 R&D 투자 인센티브"], "note": "EU가 규제 강화로 R&D 위축 위기를 겪는 반면, 한국은 R&D 투자 제약사에 약가인하 감면 혜택을 제공하며 대조적 정책 방향."}
+  ],
+  "generated_at": "2026-06-28T07:30:00+09:00"
+}
