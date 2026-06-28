@@ -1,0 +1,616 @@
+{
+  "date": "2026-06-29",
+  "total": 402,
+  "version": 1,
+  "generated_at": "2026-06-29T06:34:41.280765+09:00",
+  "korean": {
+    "total": 86,
+    "categories": {
+      "의약품": 16,
+      "의약산업": 15,
+      "의약정책": 6,
+      "의약단체": 5,
+      "의약관련정부기관": 13,
+      "의료현장": 7,
+      "약국·약사": 1,
+      "의료정책·인력": 12,
+      "전통의학": 0,
+      "감염·보건": 11
+    },
+    "top_articles": [
+      {
+        "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
+        "source": "연합뉴스",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:38위+2",
+        "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+      },
+      {
+        "title": "&quot;K-의약품 신속 허가&quot;…'규제 장벽' 낮춘 멕시코",
+        "source": "뉴시스",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:33분+20 | 키워드+10 | 순위:85위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 멕시코 연방보건안전보호위원회(COFEPRIS)가 최근 우리나라 식품의약품안전처를 의약품 분야 참조규제기관으로 인정하며 수출 시 허가 심사 절차가 간소화된 가운데, 국내 제약바이오 기업들이 신속 ...",
+        "time": "33분",
+        "url": "https://www.newsis.com/view/NISX20260626_0003685609"
+      },
+      {
+        "title": "&quot;K-의약품 신속 허가&quot;…'규제 장벽' 낮춘 멕시코",
+        "source": "뉴시스",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:33분+20 | 키워드+10 | 순위:74위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 멕시코 연방보건안전보호위원회(COFEPRIS)가 최근 우리나라 식품의약품안전처를 의약품 분야 참조규제기관으로 인정하며 수출 시 허가 심사 절차가 간소화된 가운데, 국내 제약바이오 기업들이 신속 ...",
+        "time": "33분",
+        "url": "https://www.newsis.com/view/NISX20260626_0003685609"
+      },
+      {
+        "title": "창고형 약국에 동네약국 생존 위협받는데… 손 놓은 정부",
+        "source": "Financial News",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+10 | 순위:6위+15",
+        "snippet": "부산에서도 대형 약국인 '창고형 약국'이 잇따라 등장하는 가운데, 미국에서 창고형 약국에 비해 동네 약국 폐업률이 높다는 보고가 나왔지만 정부는 전국의 창고형 약국 현황조차 파악하지 못하고 있는 것으로 나타났다. 24일 국회 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606241832128555"
+      },
+      {
+        "title": "국립대병원 임상데이터 한곳에 모은다…전공의 배정 20%로 확대",
+        "source": "Yonhap News Agency",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:36위+2",
+        "snippet": "정부가 국립대학병원 육성을 위해 공공병원 임상데이터를 한 곳에 모아 첨단 치료기술 개발의 기반을 마련하고, 지역별 의료수요를 고려해 특화 분야를 육성하는 방안을 추진한다. 전체 국립대병원과 국립암센터 등 공공병원 임상데이터를 ...",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260615106500530"
+      },
+      {
+        "title": "셀비온, 국가신약개발사업단과 전립선암 병용임상 과제 협약 체결",
+        "source": "Edaily",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Edaily+28 | 최신:+5 | 키워드+20 | 순위:96위+2",
+        "snippet": "방사성의약품 신약개발기업 셀비온(308430)이 전이성 거세저항성 전립선암(mCRPC) 환자를 대상으로 하는 병용요법 임상 1상 과제에 대해 국가신약개발사업단(KDDF, 단장 박영민)과 협약을 체결했다고 22일 밝혔다. (사진=셀비온)이번 협약은 국가신약개발사업의 ...",
+        "time": "",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645484344"
+      },
+      {
+        "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
+        "source": "Financial News",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:76위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606230701592618"
+      },
+      {
+        "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+        "source": "파이낸셜뉴스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:80위+2",
+        "snippet": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대 (서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606270611049823"
+      },
+      {
+        "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+        "source": "파이낸셜뉴스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:34위+2",
+        "snippet": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대 (서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606270611049823"
+      },
+      {
+        "title": "식약처, EMA와 첫 의약품 공동심사 완료…“해외 허가 문턱 낮춘다”",
+        "source": "Seoul Economic Daily",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Seoul Economic Daily+28 | 최신:+5 | 키워드+20 | 순위:69위+2",
+        "snippet": "유럽의약품청(EMA)과 식품의약품안전처가 처음으로 의약품 국제 공동심사를 완료했다. 국내 기업은 유럽과 한국 규제기관에 각각 다른 자료를 제출해야 하는 부담을 덜 수 있게 됐고, 식약처는 이번 심사를 통해 글로벌 수준의 규제 ...",
+        "time": "",
+        "url": "https://www.sedaily.com/article/20056713"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        17
+      ],
+      [
+        "허가",
+        11
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "FDA",
+        7
+      ],
+      [
+        "식약처",
+        6
+      ],
+      [
+        "심사",
+        5
+      ],
+      [
+        "CDMO",
+        4
+      ],
+      [
+        "급여",
+        3
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "파이낸셜뉴스",
+        6
+      ],
+      [
+        "Yonhap News Agency",
+        6
+      ],
+      [
+        "뉴시스",
+        3
+      ],
+      [
+        "Financial News",
+        3
+      ],
+      [
+        "EBN",
+        3
+      ],
+      [
+        "Seoul Economic Daily on MSN",
+        3
+      ],
+      [
+        "eToday",
+        3
+      ],
+      [
+        "파이낸셜뉴스 on MSN",
+        3
+      ],
+      [
+        "IT Chosun",
+        3
+      ],
+      [
+        "Segye Ilbo on MSN",
+        3
+      ],
+      [
+        "연합뉴스",
+        3
+      ],
+      [
+        "Edaily",
+        2
+      ],
+      [
+        "매일경제 on MSN",
+        2
+      ],
+      [
+        "Financial News on MSN",
+        2
+      ],
+      [
+        "아시아경제 on MSN",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 150,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 25
+    },
+    "top_articles": [
+      {
+        "title": "Gilead's drug wins first-ever US approval for deadly liver infection",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:1mon+5 | 키워드+30 | 순위:124위+2",
+        "snippet": "May 22 (Reuters) - Gilead Sciences (GILD.O), opens new tab said on Friday that its experimental drug for a rare and deadly liver infection that had no approved treatment has won U.S. approval. Shares ",
+        "time": "1mon",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-gileads-drug-deadly-liver-infection-2026-05-22/"
+      },
+      {
+        "title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:125위+2",
+        "snippet": "By Deena Beasley June 25 (Reuters) - Launch prices for prescription medicines approved by U.S. regulators in 2025 fell from ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vO2L?ocid=BingNewsVerp"
+      },
+      {
+        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:131위+2",
+        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+        "time": "2y",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+      },
+      {
+        "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3d+5 | 키워드+30 | 순위:140위+2",
+        "snippet": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping ...",
+        "time": "3d",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+      },
+      {
+        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:108위+2",
+        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+        "time": "3y",
+        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      },
+      {
+        "title": "European patient access to new drugs worsens, pharma lobby says",
+        "source": "Reuters on MSN",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+25 | 순위:122위+2",
+        "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
+        "source": "Reuters",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:4mon+5 | 키워드+25 | 순위:140위+2",
+        "snippet": "SAN FRANCISCO, Feb 11 (Reuters) - Some pharmaceutical companies not targeted by President Donald Trump for agreements to lower their U.S. drug pricing are looking to craft their own deals in an ...",
+        "time": "4mon",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+      },
+      {
+        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:127위+2",
+        "snippet": "Kyowa Kirin's ill-fated OX40 autoimmune program, Sanofi and Sino Biopham's first-in-class licensing deal, and BioNTech and DualityBio's B7-H3 update made our news this week. (sankai/iStoc /Getty ...",
+        "time": "3mon",
+        "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+      },
+      {
+        "title": "FDA’s plan to boost biosimilar drugs could stall at the patent office",
+        "source": "FiercePharma",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+24 | 최신:7mon+5 | 키워드+30 | 순위:122위+2",
+        "snippet": "FDA regulation is often the least of the three major hurdles biosimilar makers must confront, industry officials say. (Sarah Silbiger/Stringer/Getty Images) While the FDA is streamlining regulation of",
+        "time": "7mon",
+        "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+      },
+      {
+        "title": "Pharma majors put lobbyists to work to stagger tariff rollout: Reuters",
+        "source": "FiercePharma",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:FiercePharma+30 | 최신:1y+5 | 키워드+20 | 순위:136위+2",
+        "snippet": "President Donald Trump isn’t expected to announce pharma-focused duties during the rollout of reciprocal tariffs on Wednesday, though the president could unveil a study looking at how the ...",
+        "time": "1y",
+        "url": "https://www.fiercepharma.com/pharma/pharma-majors-lobby-trump-delay-industry-targeted-tariffs-reciprocal-duties-loom-reuters"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        28
+      ],
+      [
+        "approval",
+        11
+      ],
+      [
+        "pricing",
+        10
+      ],
+      [
+        "inspection",
+        8
+      ],
+      [
+        "GMP",
+        7
+      ],
+      [
+        "biosimilar",
+        5
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "patent",
+        4
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "generic",
+        3
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "obesity",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "FiercePharma",
+        12
+      ],
+      [
+        "RAPS",
+        8
+      ],
+      [
+        "JD Supra",
+        7
+      ],
+      [
+        "Yahoo Finance",
+        5
+      ],
+      [
+        "Nature",
+        4
+      ],
+      [
+        "MSN",
+        4
+      ],
+      [
+        "Reuters",
+        3
+      ],
+      [
+        "CNBC",
+        3
+      ],
+      [
+        "Morningstar",
+        3
+      ],
+      [
+        "Medical Xpress",
+        3
+      ],
+      [
+        "EurekAlert!",
+        3
+      ],
+      [
+        "Nasdaq",
+        3
+      ],
+      [
+        "Markets Insider",
+        3
+      ],
+      [
+        "MarketWatch",
+        3
+      ],
+      [
+        "Forbes",
+        3
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 166,
+    "languages": {
+      "French / 프랑스어": 10,
+      "German / 독일어": 10,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 10,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 10,
+      "Swedish / 스웨덴어": 10,
+      "Polish / 폴란드어": 10,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 10,
+      "Chinese Simplified / 중국어": 0,
+      "Chinese Traditional / 대만": 6,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 8,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 3
+    },
+    "top_articles": [
+      {
+        "title": "תעשיית התרופות מגלה את המיחזור",
+        "source": "globes.co.il",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:globes.co.il+10 | 최신:23 שנים+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+        "time": "23 שנים",
+        "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+      },
+      {
+        "title": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की ...",
+        "source": "Navbharat Times",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Navbharat Times+10 | 최신:4वर्ष+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की रफ्तार भाषा • 23 Dec 2021, 6:44 pm IST ...",
+        "time": "4वर्ष",
+        "url": "https://navbharattimes.indiatimes.com/business/business-news/the-pharmaceutical-health-industry-expects-growth-to-continue-in-the-year-2022/articleshow/88456346.cms"
+      },
+      {
+        "title": "&quot;להביא את רפואת הצמחים המסורתית למאה ה-21&quot;",
+        "source": "TheMarker",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:TheMarker+10 | 최신:1 חודשים+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "&quot;ברא צמחים&quot;, חברת צמחי המרפא הגדולה בישראל, משלבת בין ידע מחקרי וקליני עדכני לבין מסורת עתיקה. גיל צלר, מנכ&quot;ל החברה מספר על הביקוש למוצרי החברה ...",
+        "time": "1 חודשים",
+        "url": "https://www.themarker.com/labels/otzmaisraelit0426/2026-05-03/ty-article-labels/0000019d-d8b3-db1b-a9ff-ffbfb9f50000"
+      },
+      {
+        "title": "می‌خواهند صنعت ماده اولیه دارو را زمین بزنند؛ نیازمند هند و چین نیستیم",
+        "source": "Mehr News Agency",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Mehr News Agency+10 | 최신:12 روز+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "رئیس و اعضای هیئت مدیره سندیکای تولیدکنندگان مواد دارویی، شیمیایی و بسته‌بندی دارویی؛ با اشاره به وضعیت بازار دارویی کشور، به ...",
+        "time": "12 روز",
+        "url": "https://www.mehrnews.com/news/6862208/%D9%85%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%D9%86%D8%AF-%D8%B5%D9%86%D8%B9%D8%AA-%D9%85%D8%A7%D8%AF%D9%87-%D8%A7%D9%88%D9%84%DB%8C%D9%87-%D8%AF%D8%A7%D8%B1%D9%88-%D8%B1%D8%A7-%D8%B2%D9%85%DB%8C%D9%86-%D8%A8%D8%B2%D9%86%D9%86%D8%AF-%D9%86%DB%8C%D8%A7%D8%B2%D9%85%D9%86%D8%AF-%D9%87%D9%86%D8%AF-%D9%88-%DA%86%DB%8C%D9%86"
+      },
+      {
+        "title": "&#171;دارو&#187; زیر فشار بی‌ثباتی ارزی و اجرایی / امنیت دارویی کشور در گرو ثبات سیاست‌گذاری",
+        "source": "ISNA News Agency",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:ISNA News Agency+10 | 최신:8 روز+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "رئیس انجمن تولیدکنندگان محصولات بیوتکنولوژی پزشکی با هشدار نسبت به آنچه که &#171;پیامدهای تغییرات مکرر سیاست‌های ارزی و اجرایی در ...",
+        "time": "8 روز",
+        "url": "https://www.isna.ir/news/1405033017971/%D8%AF%D8%A7%D8%B1%D9%88-%D8%B2%DB%8C%D8%B1-%D9%81%D8%B4%D8%A7%D8%B1-%D8%A8%DB%8C-%D8%AB%D8%A8%D8%A7%D8%AA%DB%8C-%D8%A7%D8%B1%D8%B2%DB%8C-%D9%88-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%DB%8C%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AF%D8%B1"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "dw",
+        3
+      ],
+      [
+        "Les Echos",
+        2
+      ],
+      [
+        "Pressemitteilungen",
+        2
+      ],
+      [
+        "Ärzteblatt",
+        2
+      ],
+      [
+        "ZEIT",
+        2
+      ],
+      [
+        "Interempresas",
+        2
+      ],
+      [
+        "ANSA",
+        2
+      ],
+      [
+        "Diário de Notícias",
+        2
+      ],
+      [
+        "Estado de Minas",
+        2
+      ],
+      [
+        "Volkskrant",
+        2
+      ],
+      [
+        "Waterkant",
+        2
+      ],
+      [
+        "Yle",
+        2
+      ],
+      [
+        "Dagens PS",
+        2
+      ],
+      [
+        "Expressen",
+        2
+      ],
+      [
+        "Niezalezna",
+        2
+      ]
+    ]
+  }
+}
