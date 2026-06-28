@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-29",
+  "total_articles": 402,
+  "language_breakdown": {"korean": 86, "english": 150, "multilingual": 166},
+  "issues": [
+    {
+      "topic": "K-의약품 규제 장벽 낮춘다 — 멕시코 COFEPRIS 인정·식약처-EMA 공동심사·240일 허가",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 56,
+      "key_articles": [
+        {"title": "\"K-의약품 신속 허가\"…'규제 장벽' 낮춘 멕시코", "importance": 60, "url": "https://www.newsis.com/view/NISX20260626_0003685609"},
+        {"title": "식약처, EMA와 첫 의약품 공동심사 완료…\"해외 허가 문턱 낮춘다\"", "importance": 55, "url": "https://www.sedaily.com/article/20056713"},
+        {"title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처", "importance": 55, "url": "https://www.fnnews.com/news/202606191311316576"},
+        {"title": "식약처, 의료제품 '240일 허가' 추진… 전주기 심사체계 혁신", "importance": 55, "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164259"}
+      ],
+      "summary_kr": "멕시코 COFEPRIS가 식약처(MFDS)를 의약품 참조규제기관으로 인정, 한국 제약사의 멕시코 수출 허가 절차가 간소화됐다. 식약처는 EMA와 첫 국제 공동심사를 완료했으며, 의료제품 허가심사 기간을 240일로 단축하는 전주기 심사체계 혁신을 추진 중이다. 식약처장이 직접 제약사 CEO들을 만나 신속 허가 협력을 당부하는 등 K-바이오 글로벌 진출을 위한 규제 외교가 활발하다.",
+      "summary_en": "Mexico's COFEPRIS has recognized South Korea's MFDS as a reference regulatory authority, streamlining drug approval for Korean pharma exports. MFDS completed its first joint review with EMA and is pushing a 240-day approval timeline reform. Active regulatory diplomacy is accelerating K-Bio global market access."
+    },
+    {
+      "topic": "미·EU 약가 규제 전선 확대 — Medicare 영구협상·최혜국정책·Supreme Court 기각",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "CMS issues first proposed rule for the IRA's Drug Price Negotiation Program, for IPAY 2029 and beyond", "importance": 47, "url": "https://www.jdsupra.com/legalnews/cms-issues-first-proposed-rule-for-the-1288213/"},
+        {"title": "Supreme Court declines to hear drugmakers' challenge to price negotiations", "importance": 47, "url": "https://www.healthcarefinancenews.com/news/supreme-court-declines-hear-drugmakers-challenge-price-negotiations"},
+        {"title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched", "importance": 67, "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vO2L"},
+        {"title": "Savings from Most-Favored-Nation Drug Pricing Policy", "importance": 47, "url": "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 62, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0"}
+      ],
+      "summary_kr": "CMS가 IRA 약가협상 프로그램의 첫 시행규칙을 제안하면서 Medicare 약가협상의 영구화를 추진 중이다. Supreme Court는 제약사들의 약가협상 위헌 소송을 심리불수용 기각했다. 민주당은 중간선거를 앞두고 약가인하 정책 로드맵을 발표했고, 백악관은 최혜국(MFN) 정책이 44% 절감 효과를 냈다고 주장한다. 유럽에서는 신약 접근성이 지속 악화되고 있어 제약산업 전반에 가격 압박이 거세지고 있다.",
+      "summary_en": "CMS proposed permanent rules for IRA drug price negotiations; Supreme Court rejected pharma industry challenges. Democrats released a pricing road map ahead of midterms. The White House claims MFN policy achieved 44% savings. In Europe, patient access to new drugs continues to worsen amid regulatory and pricing pressures on the pharma industry."
+    },
+    {
+      "topic": "FDA 규제 혁신 가속 — 바이오시밀러 장벽·RWE 허가·임상시험 개혁·대서양 협력",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 9,
+      "avg_importance": 49,
+      "key_articles": [
+        {"title": "FDA's plan to boost biosimilar drugs could stall at the patent office", "importance": 61, "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"},
+        {"title": "FDA official offers examples of RWE being used to secure drug approval", "importance": 47, "url": "https://www.raps.org/resource/fda-official-offers-examples-of-rwe-being-used-to-secure-drug-approval.html"},
+        {"title": "HHS and FDA propose clinical trial reforms to expedite drug development", "importance": 42, "url": "https://www.raps.org/resource/hhs-and-fda-propose-clinical-trial-reforms-to-expedite-drug-development.html"},
+        {"title": "FDA, UK drug regulator deepen transatlantic ties with new liaison program", "importance": 41, "url": "https://www.fiercepharma.com/pharma/fda-uk-drug-regulator-deepen-transatlantic-ties-new-liaison-program"},
+        {"title": "Pharmaceutical Executive Daily: FDA Pilot Targets Faster Early-Stage Drug Trial Starts", "importance": 47, "url": "https://www.pharmexec.com/view/daily-fda-pilot-targets-faster-early-stage-drug-trial-starts"}
+      ],
+      "summary_kr": "FDA의 바이오시밀러 활성화 계획이 특허청(USPTO)에서 제동될 위기에 처했다. FDA는 RWE(실사용증거)를 약물 승인에 활용한 사례를 공개하고, HHS와 공동으로 임상시험 개혁안을 제안했다. 영국 MHRA와의 대서양 간 liaison 프로그램도 신설되어 국제 규제 협력이 강화되고 있다. 이 같은 규제 혁신은 바이오시밀러·RWE·신속심사 등 다각도로 진행 중이나, 특허 장벽이 여전히 주요 걸림돌이다.",
+      "summary_en": "FDA's biosimilar push may hit patent office hurdles. The agency showcased RWE-based approvals, proposed clinical trial reforms with HHS, and launched a transatlantic liaison with UK MHRA. Multi-pronged regulatory innovation faces patent system bottlenecks."
+    },
+    {
+      "topic": "GLP-1 비만약 시장 확장과 생산능력 위기 — 보험적용·CDMO 수요 폭증·가격 논쟁",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 50,
+      "key_articles": [
+        {"title": "GLP-1 rush exposes capacity crunch at India's drug manufacturing firms", "importance": 47, "url": "https://www.business-standard.com/industry/news/glp-1-boom-exposes-capacity-crunch-at-india-cdmos-126062800353_1.html"},
+        {"title": "The economics of obesity drugs: Reimbursement, pricing power, and the next healthcare cost debate", "importance": 47, "url": "https://www.msn.com/en-ca/money/general/the-economics-of-obesity-drugs-reimbursement-pricing-power-and-the-next-healthcare-cost-debate/ar-AA26pBOL"},
+        {"title": "'Bubble effect': Weight loss drug fueled growth is putting the pharma sector at risk, report finds", "importance": 47, "url": "https://www.cnbc.com/2026/05/04/wegovy-glp1-weight-loss-drugs-pharma-growth-bubble.html"},
+        {"title": "GLP1s weight-loss drugs may soon be covered by health insurance under new Washington court ruling", "importance": 47, "url": "https://insurancenewsnet.com/oarticle/glp1s-weight-loss-drugs-may-soon-be-covered-by-health-insurance-under-new-washington-court-ruling"},
+        {"title": "Estonia considers expanding coverage for weight-management drug", "importance": 47, "url": "https://news.err.ee/1610062774/estonia-considers-expanding-coverage-for-weight-management-drug"}
+      ],
+      "summary_kr": "GLP-1 비만약 수요 폭증이 인도 CDMO 업계의 펩타이드 API 생산능력 한계를 드러냈다. 워싱턴주 법원은 GLP-1 비만약 보험커버리지 차별을 금지하는 판결을 내렸고, 에스토니아도 건강보험 적용을 검토 중이다. 그러나 CNBC는 비만약이 제약업계 성장의 '거품(bubble)'을 만들고 있다는 보고서를 인용했으며, 고가 약가 대비 보험 적용 범위 확대를 둘러싼 경제학적 논쟁이 격화되고 있다.",
+      "summary_en": "GLP-1 obesity drug demand surge exposes capacity crunch at Indian peptide API CDMOs. A Washington court ruled against blanket insurance denials for GLP-1s; Estonia considers coverage expansion. CNBC flags a potential 'bubble effect' as obesity drugs reshape pharma pipelines and pricing debates intensify."
+    },
+    {
+      "topic": "K-바이오 FDA 문턱 — HLB 리보세라닙·렉라자·네이처셀·삼성에피스 동시 도전",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 46,
+      "key_articles": [
+        {"title": "항암신약 FDA 허가 도전한 HLB, '운명의 날' 다가온다", "importance": 27, "url": "https://www.etoday.co.kr/news/view/2597370"},
+        {"title": "'렉라자' 승인 2년만에…K신약, FDA 문턱 넘나", "importance": 27, "url": "https://www.msn.com/ko-kr/news/other/%EB%A0%89%EB%9D%BC%EC%9E%90-%EC%8A%B9%EC%9D%B8-2%EB%85%84%EB%A7%8C%EC%97%90-k%EC%8B%A0%EC%95%BD-fda-%EB%AC%B8%ED%84%B1-%EB%84%98%EB%82%98/ar-AA26imJS"},
+        {"title": "네이처셀, 줄기세포 치료제 美 FDA 정식 허가 신청 가능 소식에 2연상[특징주]", "importance": 45, "url": "https://www.edaily.co.kr/News/Read?newsId=02387846645452856"},
+        {"title": "\"약효 같은데 왜 오리지널만\"…삼성에피스 바이오시밀러, 효과·안전성 입증", "importance": 27, "url": "http://newstomato.com/ReadNews.aspx?no=1305356"},
+        {"title": "'복제약' 빗장 푸는 미국…K바이오에 열린 '황금의 10년'", "importance": 41, "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713000"}
+      ],
+      "summary_kr": "HLB의 간암 신약 리보세라닙이 7월 FDA 허가 결정을 앞두고 있다. 렉라자 승인 2년 후 추가 K-신약들의 FDA 심사도 연내 결론이 예상된다. 네이처셀은 퇴행성관절염 줄기세포치료제의 FDA 정식 허가신청이 가능하다는 입장을 받아 주가가 급등했다. 삼성에피스의 자가면역질환 바이오시밀러 에피즈텍은 오리지널 대비 동등한 효과·안전성을 입증했다. 미국의 바이오시밀러 인터체인저블 제도 폐지 움직임은 K-바이오에 '황금의 10년' 기회라는 분석이 나온다.",
+      "summary_en": "HLB's liver cancer drug rivoceranib faces July FDA decision. Multiple K-drugs await FDA review including Naturecell's stem cell therapy. Samsung Bioepis' SB5 (adalimumab biosimilar) proves equivalence. US biosimilar interchangeability abolition could open a 'golden decade' for Korean biosimilars."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 11, "en_count": 11, "significance": "한미 양국 규제기관이 동시에 의약품 허가심사 혁신을 추진 — 식약처 240일 허가·FDA RWE 허가 확대"},
+    {"keyword": "약가/pricing", "kr_count": 2, "en_count": 10, "significance": "미국 Medicare·MFN·민주당 약가 규제 3중 압박이 한국 약가정책(R&D 감면·환급계약)과 연결"},
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 5, "significance": "미국 인터체인저블 폐지·FDA 바이오시밀러 활성화가 한국 수출 기회로 직결"},
+    {"keyword": "임상/clinical trial", "kr_count": 7, "en_count": 3, "significance": "FDA·HHS 임상시험 개혁과 한국 국립대병원 임상데이터 통합·AI 임상이 동시 진행"}
+  ],
+  "notable_absences": [
+    "중국 간체 Bing 0건으로 중국 바이오테크 시장 동향 부재",
+    "전통의학(한의학) 관련 기사 0건 — 천연물신약 약가 문제는 있었으나 한의계 이슈 없음"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "GLP-1 관련 기사가 비만약 거품 논란·생산능력 위기·보험적용 확대로 주제 분화",
+      "한국 규제 외교(멕시코·EMA)가 전일 식약처 허가혁신에서 확장됨"
+    ],
+    "changes": []
+  },
+  "connections": [
+    "FDA 바이오시밀러 활성화(특허청 장벽) ↔ 미국 인터체인저블 폐지 움직임 ↔ K-바이오시밀러 황금기",
+    "미국 약가 규제(Medicare·MFN) ↔ 한국 약가인하 감면·R&D 인센티브 — 양국 모두 '가치 기반 약가'로 수렴",
+    "GLP-1 생산능력 위기(인도 CDMO) ↔ 한국 CDMO 수출 기회 (바이오 USA 100건 미팅)"
+  ],
+  "generated_at": "2026-06-29T07:30:00+09:00"
+}
