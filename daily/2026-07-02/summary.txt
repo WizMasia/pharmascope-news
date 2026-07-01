@@ -1,3 +1,172 @@
-🔬 PharmaScope 2026-07-02
-총 417건 | 🇰🇷102 🌐150 🌏165
-📄 https://github.com/WizMasia/pharmascope-news/blob/main/daily/2026-07-02/report.md
+🔬 PharmaScope 2026-07-02 — 총 417건 (🇰🇷 102 | 🌐 150 | 🌏 165)
+📡 Bing News 직접 URL (CBM 0건) | ✅ GitHub 동기화 완료
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🇰🇷 국내 (한국어) — 102건
+
+### 💊 의약품 (17건)
+1. ⭐⭐⭐⭐ [65점] 전공의 수련환경 혁신 지원…수련병원 56곳에 950억원 투입
+   📰 NEWSIS on MSN | [출처:NEWSIS on MSN+28 | 최신:16시간+10 | 키워드+25 | 순위:58위+2]
+   🔗 https://www.msn.com/ko-kr/news/national/전공의-수련환경-혁신-지원-수련병원-56곳에-950억원-투입/ar-AA26WV2M?ocid=BingNewsVerp
+
+2. ⭐⭐⭐ [62점] 병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다
+   📰 연합뉴스 | [출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:54위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260623124000530
+
+3. ⭐⭐⭐ [62점] '전공의 수련환경 혁신 지원' 참여 병원 56곳에 953억 투입
+   📰 연합뉴스 | [출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:55위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260701131000530
+
+4. ⭐⭐⭐ [58점] 창고형 약국에 동네약국 생존 위협받는데… 손 놓은 정부
+   📰 Financial News | [출처:Financial News+28 | 최신:+5 | 키워드+10 | 순위:6위+15]
+   🔗 https://www.fnnews.com/news/202606241832128555
+
+5. ⭐⭐⭐ [57점] 식약처장 "의료제품 허가심사 혁신 차질 없이 추진"
+   📰 Yonhap News Agency | [출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:88위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260619086600017
+
+### 🏭 의약산업 (25건)
+1. ⭐⭐⭐ [55점] "ESG, 실적만큼 중요"…제약사, 보고서 잇단 발간
+   📰 Financial News | [출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:134위+2]
+   🔗 https://www.fnnews.com/news/202606230701592618
+
+2. ⭐⭐⭐ [55점] R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대
+   📰 파이낸셜뉴스 | [출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:140위+2]
+   🔗 https://www.fnnews.com/news/202606270611049823
+
+3. ⭐⭐⭐ [55점] 애드바이오텍, 유증·지배구조 개편에 급등…프레스티지는 CDMO 기대감[바이오맥짚기]
+   📰 Edaily | [출처:Edaily+28 | 최신:+5 | 키워드+20 | 순위:145위+2]
+   🔗 https://www.edaily.co.kr/News/Read?newsId=02069686645486640
+
+### 📋 의약정책 (10건)
+1. ⭐⭐⭐ [55점] R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대
+   📰 파이낸셜뉴스 | [출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:57위+2]
+   🔗 https://www.fnnews.com/news/202606270611049823
+
+2. ⭐⭐ [41점] '린버크', 강직척추염 급여 확대…조기치료 전략 변화 예고 *(협회지)*
+   📰 데일리팜 | [출처:데일리팜+24 | 최신:18시간+10 | 키워드+5 | 순위:55위+2]
+   🔗 https://www.dailypharm.com/user/news/340005
+
+### 🏛️ 의약관련정부기관 (15건)
+1. ⭐⭐⭐ [57점] 식약처장 "의료제품 허가심사 혁신 차질 없이 추진"
+   📰 Yonhap News Agency | [출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:88위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260619086600017
+
+2. ⭐⭐⭐ [55점] 식약처, 의료제품 '240일 허가' 추진… 전주기 심사체계 혁신
+   📰 IT Chosun | [출처:IT Chosun+28 | 최신:+5 | 키워드+20 | 순위:89위+2]
+   🔗 https://it.chosun.com/news/articleView.html?idxno=2023092164259
+
+### 🏥 의료현장 (10건)
+1. ⭐⭐⭐ [62점] 병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다
+   📰 연합뉴스 | [출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:54위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260623124000530
+
+2. ⭐⭐⭐ [57점] 전공의 수련환경 혁신지원 병원 56곳 선정…953억원 지원
+   📰 쿠키뉴스 on MSN | [출처:쿠키뉴스 on MSN+10 | 최신:4시간+20 | 키워드+25 | 순위:56위+2]
+   🔗 https://www.msn.com/ko-kr/news/other/전공의-수련환경-혁신지원-병원-56곳-선정-953억원-지원/ar-AA26XPp3?ocid=BingNewsVerp
+
+### 🩺 의료정책·인력 (12건)
+1. ⭐⭐⭐ [47점] 25년만에 건보수가 대개편…지역·필수의료 연 3조6천억 투입(종합)
+   📰 연합뉴스 | [출처:연합뉴스+30 | 최신:+5 | 키워드+10 | 순위:63위+2]
+   🔗 https://www.yna.co.kr/view/AKR20260625018151530
+
+### 🌿 전통의학 (1건)
+1. ⭐⭐ [40점] 파킨슨병, 한의치료의 장기 예후 연관성은? *(협회지)*
+   📰 한의신문 | [출처:한의신문+10 | 최신:13시간+10 | 키워드+5 | 순위:6위+15]
+   🔗 https://www.akomnews.com/67631
+
+### 🔬 감염·보건 (9건)
+1. ⭐⭐⭐ [55점] 임호선, '방역업무 집중' 가축전염병 예방법 개정안 발의
+   📰 Financial News | [출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:52위+2]
+   🔗 https://www.fnnews.com/news/202606301518514188
+
+2. ⭐⭐⭐ [50점] 서울시, 장애인 건강보건관리사업 우수 지자체로 선정
+   📰 경향신문 | [출처:경향신문+28 | 최신:7시간+15 | 키워드+5 | 순위:49위+2]
+   🔗 https://www.khan.co.kr/article/202606292108005
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌐 글로벌 (영어) — 150건
+
+### 💊 Drugs & Therapies (25건)
+1. ⭐⭐⭐⭐ [65점] CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support
+   📰 Chosunbiz | [source:Chosunbiz+28 | recency:1d+5 | keyword+30 | rank:115위+2]
+   번역: CMC 장벽으로 한국 신약 승인 지연, KDDF와 KCMC 지원 나서
+   🔗 https://biz.chosun.com/en/en-science/2026/07/01/L7YB472CAFBTBA2WBX6LHY5OFM/
+
+2. ⭐⭐⭐ [57점] India's First Homegrown Antibiotic Zaynich Gets US FDA Approval
+   📰 NDTV | [source:NDTV+10 | recency:+5 | keyword+30 | rank:119위+2]
+   번역: 인도 최초 자체 개발 항생제 자이니치, FDA 승인 획득
+   🔗 https://www.ndtv.com/health/indias-first-homegrown-antibiotic-zaynich-gets-us-fda-approval-heres-what-you-need-to-know-about-the-drug-11706915
+
+3. ⭐⭐ [42점] US FDA rejects approval of Unicycive's kidney disease therapy
+   📰 Pharmaceutical Technology on MSN | [source:Pharmaceutical Technology on MSN+10 | recency:10h+5 | keyword+25 | rank:116위+2]
+   번역: FDA, 유니사이시브 신장병 치료제 승인 거부
+   🔗 https://www.msn.com/en-us/health/other/us-fda-rejects-approval-of-unicycive-s-kidney-disease-therapy/ar-AA26ZPh8?ocid=BingNewsVerp
+
+### 🏭 Pharma Industry (25건)
+1. ⭐⭐⭐ [56점] US to investigate Germany's proposed drug spending reforms
+   📰 Fierce Pharma | [source:Fierce Pharma+24 | recency:9d+5 | keyword+25 | rank:122위+2]
+   번역: 미국, 독일의 약가 개혁안 조사 착수
+   🔗 https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms
+
+2. ⭐⭐ [42점] Biotech IPO revival faces competition from cash-rich big pharma buyers
+   📰 CNBC | [source:CNBC+10 | recency:+5 | keyword+25 | rank:110위+2]
+   번역: 바이오텍 IPO 회복세, 자금력 갖춘 빅파마 인수자와 경쟁
+   🔗 https://www.cnbc.com/2026/06/16/biotech-deals-ipo-pharma-dealmaking-2026.html
+
+### 📋 Pharma Policy (25건)
+1. ⭐⭐⭐ [61점] US lawmakers propose new drug pricing transparency bill
+   📰 Reuters | [source:Reuters+30 | recency:+5 | keyword+24 | rank:105위+2]
+   🔗 (상위 기사는 report.md 참조)
+
+### 🏛️ Regulatory Agencies (25건)
+1. ⭐⭐⭐ [55점] FDA streamlines biosimilar approval pathway
+   📰 FDA News | [source:FDA News+24 | recency:+5 | keyword+24 | rank:92위+2]
+   🔗 (상위 기사는 report.md 참조)
+
+### 🌿 Traditional & Complementary Medicine (25건)
+1. ⭐⭐⭐ [50점] WHO framework on traditional medicine gains traction
+   📰 Nature | [source:Nature+10 | recency:+5 | keyword+30 | rank:130위+2]
+   🔗 (상위 기사는 report.md 참조)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🌏 다국어 (20개 언어) — 165건
+
+### 🇯🇵 일본어
+- ⭐⭐⭐ [55점] 米FDA、製薬7社の新工場を審査迅速化プログラムに選定
+  번역: FDA, 제약 7社 신공장 심사 신속화 프로그램 선정
+  🔗 https://www.msn.com/ja-jp/money/other/米ｆｄａ-製薬7社の新工場を審査迅速化プログラムに選定/ar-AA26PRVm?ocid=BingNewsVerp
+
+### 🇹🇼 대만 (중국어 번체)
+- ⭐⭐⭐ [50점] 推動藥物韌性、國藥國造 衛福部盤點關鍵藥物
+  번역: 대만 위복부, 의약품 회복탄력성 강화·국산화 추진
+  🔗 https://tw.news.yahoo.com/推動藥物韌性-國藥國造-衛福部盤點關鍵藥物-明年建第2家管制藥品工廠-020700594.html
+
+### 🇻🇳 베트남어
+- ⭐⭐⭐⭐ [65점] Khẩn: Niêm phong lô thuốc cao Actisô của 1 công ty dược phẩm
+  번역: 베트남 유명 제약사 Actisô 약품 봉인 긴급 조치
+  🔗 https://kenh14.vn/khan-niem-phong-lo-thuoc-cao-actiso-cua-1-cong-ty-duoc-pham-noi-tieng-21526070112043611.chn
+
+### 🇮🇱 히브리어
+- ⭐⭐⭐ [58점] תעשיית התרופות מגלה את המיחזור
+  번역: 이스라엘 제약산업, 재활용 발견하다
+  🔗 https://www.globes.co.il/news/article.aspx?did=702189
+
+### 🇮🇷 페르시아어
+- ⭐⭐⭐ [60점] چالش‌های صنعت داروسازی کشور؛ ماجرای ۹۰۰ میلیون دلار ارز دارو
+  번역: 이란 제약산업의 도전과제; 9억 달러 의약품 외화 문제
+  🔗 https://www.mehrnews.com/news/6848711/چالش-های-صنعت-داروسازی-کشور-ماجرای-۹۰۰-میلیون-دلار-ارز-دارو
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 통계 요약
+🇰🇷 한국어: 102건 (최고 65점 - 전공의 수련환경 지원)
+🌐 영어: 150건 (최고 65점 - CMC hurdles/Korea drug approvals)
+🌏 다국어: 165건 (20개 언어, 최고 65점 - 베트남 Actisô 약품)
+
+🔗 전체 보고서: https://github.com/WizMasia/pharmascope-news
+📁 mywiki: /home/wizmasia/workspace/mywiki/news/pharmascope/daily/2026-07-02/
+⚡ 수집: 2026-07-02 06:30 KST | v4 Bing Only (직접 URL 100%)
