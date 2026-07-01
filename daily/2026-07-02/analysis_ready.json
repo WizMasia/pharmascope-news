@@ -1,0 +1,704 @@
+{
+  "date": "2026-07-02",
+  "total_articles": 417,
+  "language_breakdown": {
+    "korean": {
+      "total": 102,
+      "categories": {
+        "의약품": 17,
+        "의약산업": 25,
+        "의약정책": 10,
+        "의약단체": 2,
+        "의약관련정부기관": 15,
+        "의료현장": 10,
+        "약국·약사": 1,
+        "의료정책·인력": 12,
+        "전통의학": 1,
+        "감염·보건": 9
+      }
+    },
+    "english": {
+      "total": 150,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 25
+      }
+    },
+    "multilingual": {
+      "total": 165,
+      "languages": {
+        "French / 프랑스어": 10,
+        "German / 독일어": 10,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 10,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 9,
+        "Polish / 폴란드어": 10,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 10,
+        "Chinese Simplified / 중국어": 0,
+        "Chinese Traditional / 대만": 7,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 7,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 2
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 19
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "허가",
+      "count": 9
+    },
+    {
+      "keyword": "FDA",
+      "count": 8
+    },
+    {
+      "keyword": "급여",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "약가",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 3
+    },
+    {
+      "keyword": "CDMO",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 1
+    },
+    {
+      "keyword": "천연물",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 24
+    },
+    {
+      "keyword": "approval",
+      "count": 10
+    },
+    {
+      "keyword": "GMP",
+      "count": 9
+    },
+    {
+      "keyword": "pricing",
+      "count": 9
+    },
+    {
+      "keyword": "inspection",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 4
+    },
+    {
+      "keyword": "patent",
+      "count": 3
+    },
+    {
+      "keyword": "recall",
+      "count": 3
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "파이낸셜뉴스",
+      "count": 8
+    },
+    {
+      "source": "연합뉴스",
+      "count": 5
+    },
+    {
+      "source": "이투데이",
+      "count": 4
+    },
+    {
+      "source": "Financial News",
+      "count": 4
+    },
+    {
+      "source": "Yonhap News Agency",
+      "count": 4
+    },
+    {
+      "source": "뉴스토마토",
+      "count": 3
+    },
+    {
+      "source": "서울경제 on MSN",
+      "count": 3
+    },
+    {
+      "source": "한국경제 on MSN",
+      "count": 3
+    },
+    {
+      "source": "파이낸셜뉴스 on MSN",
+      "count": 3
+    },
+    {
+      "source": "Segye Ilbo on MSN",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FiercePharma",
+      "count": 10
+    },
+    {
+      "source": "RAPS",
+      "count": 9
+    },
+    {
+      "source": "JD Supra",
+      "count": 7
+    },
+    {
+      "source": "Markets Insider",
+      "count": 6
+    },
+    {
+      "source": "MSN",
+      "count": 4
+    },
+    {
+      "source": "Forbes",
+      "count": 4
+    },
+    {
+      "source": "Business Wire",
+      "count": 4
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 4
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "Medical Xpress",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "식약처, 신약개발 전주기 규제지원 혁신 — 후보물질 단계부터 허가까지 밀착 지원",
+    "한약사-약사 갈등 격화 — 전문약 조제 두고 공개 법리전으로 비화",
+    "미·EU 약가 규제 격화 — 독일 개혁 조사·신약 접근성 악화·제약 로비 총력전",
+    "FDA 신약 승인·바이오시밀러 규제 — GSK 항생제 승인·면역항암제 연구 진전",
+    "GLP-1 중국 NRDL 진입·미국 신약 출시 가격 하락 — 글로벌 약가 패러다임 전환"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "keywords": [
+        "pharma",
+        "trump"
+      ],
+      "articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "European patient access to new drugs worsens, pharma lobby says",
+          "source": "Reuters on MSN",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "",
+          "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
+          "source": "Reuters",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "SAN FRANCISCO, Feb 11 (Reuters) - Some pharmaceutical companies not targeted by President Donald Trump for agreements to lower their U.S. drug pricing are looking to craft their own deals in an ...",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "4mon",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+        },
+        {
+          "title": "Fierce Pharma Asia—Trump’s 100% drug tariff; Takeda layoffs; Lilly, Insilico's AI deal",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump's tariff on drug imports, Takeda's U.S. layoff round, and Lilly and Insilico's $2.75 billion AI partnership made our news this week. (sankai/iStoc /Getty Images Plus) The U.S. will impose a 100%",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "2mon",
+          "url": "https://www.fiercepharma.com/pharma/trumps-100-drug-tariff-takeda-layoffs-lilly-insilico-ai-deal"
+        },
+        {
+          "title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Unless Europe delivers “rapid, radical policy change,” pharmaceutical R&amp;D and manufacturing is “increasingly likely to be directed towards the U.S.,” an industry group warned European Commission .",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "1y",
+          "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"
+        },
+        {
+          "title": "Pharma majors put lobbyists to work to stagger tariff rollout: Reuters",
+          "source": "FiercePharma",
+          "importance": 57,
+          "stars": "⭐⭐⭐",
+          "snippet": "President Donald Trump isn’t expected to announce pharma-focused duties during the rollout of reciprocal tariffs on Wednesday, though the president could unveil a study looking at how the ...",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "1y",
+          "url": "https://www.fiercepharma.com/pharma/pharma-majors-lobby-trump-delay-industry-targeted-tariffs-reciprocal-duties-loom-reuters"
+        },
+        {
+          "title": "Should pharma scrap per-pill pricing completely?",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "What if, instead of cutting drug prices, the pharma industry threw out the rulebook altogether? That’s just what a European trade group is proposing, Reuters reports, in a plan that would dump ...",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "10y",
+          "url": "https://www.fiercepharma.com/pharma/should-pharma-scrap-per-pill-pricing-for-results-based-payments-efpia-paper-suggests-so"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "keywords": [
+        "FDA",
+        "fda",
+        "임상",
+        "임상시험계획",
+        "신약",
+        "completes",
+        "inspection"
+      ],
+      "articles": [
+        {
+          "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "6d",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+        },
+        {
+          "title": "FDA’s plan to boost biosimilar drugs could stall at the patent office",
+          "source": "FiercePharma",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA regulation is often the least of the three major hurdles biosimilar makers must confront, industry officials say. (Sarah Silbiger/Stringer/Getty Images) While the FDA is streamlining regulation of",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "7mon",
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "'美정부 임상시험계획&#183;1상 절차 간소화'...셀트리온, 신약 20종 가동력 커진다",
+          "source": "이데일리",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "이 기사는 2026년06월29일 08시10분에 팜이데일리 프리미엄 콘텐츠로 선공개 되었습니다. 셀트리온(068270)이 미국 보건당국의 전격적인 임상개발 혁신 정책에 힘입어 글로벌 신약개발 행보에 한층 속도를 낼 전망이다.",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03079926645486640"
+        },
+        {
+          "title": "LG화학, 고형암 신약후보물질 美FDA 임상시험계획 승인",
+          "source": "아시아경제",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "LG00313112는 LG화학이 지난 4월 미국 프론티어 메디신즈로부터 도입한 신약 후보물질이다. LG화학은 중화권을 제외한 글로벌 독점 개발 및 상업화 권리를 확보했다. 이 물질은 전체 암 환자의 1~3%에서 나타나는 'TP53 Y220C' 변이를 표적한다. TP53은 암 발생을 억제하는 대표적인 종양 억제 유전자로, 해당 변이가 발생하면 p53 단백질 ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "",
+          "url": "https://www.asiae.co.kr/article/2026063008154861585"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "식약처",
+        "심사",
+        "quot",
+        "허가",
+        "허가심사",
+        "추진",
+        "혁신",
+        "의료제품"
+      ],
+      "articles": [
+        {
+          "title": "식약처장 &quot;의료제품 허가심사 혁신 차질 없이 추진&quot;",
+          "source": "Yonhap News Agency",
+          "importance": 57,
+          "stars": "⭐⭐⭐",
+          "snippet": "식약처의 의료제품 허가&#183;심사 혁신방안에는 자료 준비 단계에서 '체크리스트'를 제공하고 허가 신청 전 대면회의를 하며 허가&#183;심사 단계에서 수시 검토&#183;보완체계를 도입하는 등 구체적인 사업계 지원 내용이 담겼다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        },
+        {
+          "title": "&quot;무균의약품 GMP 개선점은?&quot;…현장에서 답찾는 식약처",
+          "source": "Financial News",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "[오송=뉴시스]황재희 기자 = 식품의약품안전처가 무균의약품 GMP(제조&#183;품질관리기준) 강화에 따라 제조업체들을 지원하기 위해 직접 나섰다. 식약처는 산업계 등과 소통하는 현장 중심의 무균의약품 GMP 정책을 추진하기 위해 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://www.fnnews.com/news/202606251652382018"
+        },
+        {
+          "title": "&quot;빠른 허가심사 위한 협력&quot;…CEO들 만난 식약처",
+          "source": "파이낸셜뉴스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울=뉴시스]이소헌 기자 = &quot;240일 허가&#183;심사는 '이인삼각'과 같은 일이라고 생각합니다. 업계가 식약처와 소통하고 힘을 모아주시면서 함께 뛰어야 K-바이오가 더 발전하고 신약을 통해 환자의 치료 기회가 더 빨리 확대되는 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://www.fnnews.com/news/202606191311316576"
+        },
+        {
+          "title": "식약처, 의료제품 ‘240일 허가’ 추진… 전주기 심사체계 혁신",
+          "source": "IT Chosun",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "식품의약품안전처가 신약과 바이오시밀러, 신기술 의료기기의 신속한 시장 진입을 지원하기 위해 의료제품 허가&#183;심사 체계를 전면 개편한다. 허가자료 준비부터 신청 이후 심사까지 전 과정에 걸친 규제 지원을 강화해 허가&#183;심사의 예측 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164259"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "approvals",
+        "approval",
+        "cmc",
+        "kcmc",
+        "kddf",
+        "hurdles",
+        "korea",
+        "mobilize",
+        "stall",
+        "support"
+      ],
+      "articles": [
+        {
+          "title": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support National push aims to build end‑to‑end CMC capacity ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "1d",
+          "url": "https://biz.chosun.com/en/en-science/2026/07/01/L7YB472CAFBTBA2WBX6LHY5OFM/"
+        },
+        {
+          "title": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support National push aims to build end‑to‑end CMC capacity ...",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "1d",
+          "url": "https://biz.chosun.com/en/en-science/2026/07/01/L7YB472CAFBTBA2WBX6LHY5OFM/"
+        },
+        {
+          "title": "Approvals News | Today's Latest Stories | Reuters",
+          "source": "Reuters",
+          "importance": 57,
+          "stars": "⭐⭐⭐",
+          "snippet": "Reuters.com is your online source for the latest news stories and current events, ensuring our readers up to date with any ...",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/approvals/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "proposed",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "source": "Fierce Pharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Amid efforts in Germany to retool the country’s drug spending, the U.S. is launching an investigation into what the Office of ...",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "9d",
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "source": "FiercePharma",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "Not all PFAS have hazardous properties, with some considered of low concern, according to Europe's pharma federation. (sharrocks/iStock/Getty Images Plus/Getty Images) A proposed restriction on the ..",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "2y",
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "환급계약",
+        "투자",
+        "확대",
+        "국산",
+        "amp",
+        "약가인하",
+        "제약사",
+        "약가",
+        "감면",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+          "source": "파이낸셜뉴스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대 (서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "",
+          "url": "https://www.fnnews.com/news/202606270611049823"
+        },
+        {
+          "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+          "source": "파이낸셜뉴스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대 (서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "",
+          "url": "https://www.fnnews.com/news/202606270611049823"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle",
+      "source": "Reuters on MSN",
+      "importance": 67,
+      "snippet": "By Andrew Silver SHANGHAI, June 29 (Reuters) - GLP-1 drugs from Pfizer and Innovent Biologics have passed a preliminary ...",
+      "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"
+    },
+    {
+      "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+      "source": "Science Daily",
+      "importance": 65,
+      "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+      "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+    },
+    {
+      "title": "Khẩn: Ni&#234;m phong l&#244; thuốc cao Actis&#244; của 1 c&#244;ng ty dược phẩm nổi tiếng",
+      "source": "Kenh14.vn",
+      "importance": 65,
+      "snippet": "Một l&#244; thuốc cao do C&#244;ng ty Cổ phần Dược L&#226;m Đồng (Ladophar) sản xuất vừa bị ph&#225;t hiện kh&#244;ng đạt y&#234;u cầu chất lượng về chỉ ...",
+      "url": "https://kenh14.vn/khan-niem-phong-lo-thuoc-cao-actiso-cua-1-cong-ty-duoc-pham-noi-tieng-21526070112043611.chn"
+    },
+    {
+      "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
+      "source": "연합뉴스",
+      "importance": 62,
+      "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
+      "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+    },
+    {
+      "title": "'전공의 수련환경 혁신 지원' 참여 병원 56곳에 953억 투입",
+      "source": "연합뉴스",
+      "importance": 62,
+      "snippet": "(서울=연합뉴스) 성서호 기자 = 보건복지부는 2026년도 전공의 수련환경 혁신지원 사업 참여 수련병원 56곳을 선정했다고 1일 밝혔다. 이 사업은 인턴 및 8개 ...",
+      "url": "https://www.yna.co.kr/view/AKR20260701131000530"
+    },
+    {
+      "title": "چالش‌های صنعت داروسازی کشور؛ ماجرای ۹۰۰ میلیون دلار ارز دارو",
+      "source": "Mehr News Agency",
+      "importance": 60,
+      "snippet": "به گزارش خبرنگار مهر، رئیس و اعضای هیئت مدیره سندیکای صاحبان صنایع داروهای انسانی ایران، روز چهارشنبه ۱۳ خرداد ۱۴۰۵، در نشست خبری که در محل ...",
+      "url": "https://www.mehrnews.com/news/6848711/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B9%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88"
+    },
+    {
+      "title": "창고형 약국에 동네약국 생존 위협받는데… 손 놓은 정부",
+      "source": "Financial News",
+      "importance": 58,
+      "snippet": "부산에서도 대형 약국인 '창고형 약국'이 잇따라 등장하는 가운데, 미국에서 창고형 약국에 비해 동네 약국 폐업률이 높다는 보고가 나왔지만 정부는 전국의 창고형 약국 현황조차 파악하지 못하고 있는 것으로 나타났다. 24일 국회 ...",
+      "url": "https://www.fnnews.com/news/202606241832128555"
+    },
+    {
+      "title": "תעשיית התרופות מגלה את המיחזור",
+      "source": "globes.co.il",
+      "importance": 58,
+      "snippet": "פעמים רבות נראה שחברות התרופות יוצאות מגדרן בחיפוש אחר תרופות חדשות בתכלית. אבל רוב התרופות שמתחילות את הניסויים הקליניים אינן מצליחות ...",
+      "url": "https://www.globes.co.il/news/article.aspx?did=702189"
+    },
+    {
+      "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+      "source": "FiercePharma",
+      "importance": 56,
+      "snippet": "President Donald Trump has asked Big Pharma CEOs to provide &quot;binding commitments&quot; to several of his drug pricing priorities by today. (lucky-photographer/GettyImages ...",
+      "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+    },
+    {
+      "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
+      "source": "Financial News",
+      "importance": 55,
+      "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
+      "url": "https://www.fnnews.com/news/202606230701592618"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 4
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 3,
+      "en_count": 3
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 9,
+      "en_count": 10
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 4
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 3,
+      "en_count": 9
+    }
+  ]
+}

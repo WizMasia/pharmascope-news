@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-02",
+  "total_articles": 417,
+  "language_breakdown": {
+    "korean": 102,
+    "english": 150,
+    "multilingual": 165
+  },
+  "issues": [
+    {
+      "topic": "트럼프 관세·EU 제약 규제 격화 — 글로벌 제약 공급망 재편 신호",
+      "domain": "global",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 60,
+      "key_articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "importance": 67,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "As Trump threatens tariffs on drugs, industry warns EU of $100B-plus pharma exodus to US",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/trump-tariffs-drugs-industry-warns-eu-100b-plus-pharma-exodus-us"
+        },
+        {
+          "title": "Fierce Pharma Asia—Trump's 100% drug tariff; Takeda layoffs; Lilly, Insilico's AI deal",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/trumps-100-drug-tariff-takeda-layoffs-lilly-insilico-ai-deal"
+        },
+        {
+          "title": "Pharma majors put lobbyists to work to stagger tariff rollout: Reuters",
+          "importance": 57,
+          "url": "https://www.fiercepharma.com/pharma/pharma-majors-lobby-trump-delay-industry-targeted-tariffs-reciprocal-duties-loom-reuters"
+        },
+        {
+          "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
+          "importance": 62,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+        }
+      ],
+      "summary_kr": "트럼프 행정부의 100% 의약품 관세 부과 위협과 EU의 제약 규제 개혁안이 충돌하면서 글로벌 제약사들이 생산·R&D 입지 재편을 고민 중. 업계 로비단체(EFPIA)는 EU 규제 강화 시 미국으로 R&D 이탈이 가속화될 것이라고 경고. 미국은 독일의 약가 개혁까지 조사 대상에 올리는 등 약가 규제를 다각도로 확대 중. PhRMA는 약가 압박에 대응해 직접구매 프로그램 홍보 웹사이트를 개설하며 대응.",
+      "summary_en": "Trump administration's 100% drug tariff threat and EU pharma regulatory overhaul are forcing global pharma majors to reconsider manufacturing and R&D footprints. EFPIA warns of accelerated R&D exodus to the US under stricter EU rules. The US is also investigating Germany's drug spending reforms. PhRMA launched a new website highlighting direct purchasing programs in response to pricing pressure."
+    },
+    {
+      "topic": "식약처, 의료제품 허가심사 혁신 가속 — 240일 목표·전주기 지원",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 56,
+      "key_articles": [
+        {
+          "title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        },
+        {
+          "title": "식약처, 의료제품 '240일 허가' 추진… 전주기 심사체계 혁신",
+          "importance": 55,
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164259"
+        },
+        {
+          "title": "\"빠른 허가심사 위한 협력\"…CEO들 만난 식약처",
+          "importance": 55,
+          "url": "https://www.fnnews.com/news/202606191311316576"
+        },
+        {
+          "title": "\"무균의약품 GMP 개선점은?\"…현장에서 답찾는 식약처",
+          "importance": 55,
+          "url": "https://www.fnnews.com/news/202606251652382018"
+        }
+      ],
+      "summary_kr": "식약처가 의료제품 허가·심사 기간을 240일로 단축하는 혁신방안을 추진 중. 허가 전 체크리스트 제공·사전 대면회의·수시 보완체계 등 전주기 규제지원을 도입. 무균의약품 GMP 개선을 위해 현장 중심 정책도 병행. 오연호 식약처장은 제약사 CEO들과 간담회를 열어 K-바이오 발전을 위한 협력을 강조.",
+      "summary_en": "MFDS (Korea FDA) is pushing forward regulatory innovation to shorten drug review timelines to 240 days. The plan includes pre-submission checklists, face-to-face meetings, and flexible supplementation systems throughout the review cycle. MFDS is also strengthening aseptic drug GMP compliance through field-based policy support, meeting with pharma CEOs to accelerate K-Bio growth."
+    },
+    {
+      "topic": "FDA 신약 승인·임상 규제 동향 — 바이오시밀러 특허 장벽·항암제 진전",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 57,
+      "key_articles": [
+        {
+          "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+          "importance": 65,
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+        },
+        {
+          "title": "FDA's plan to boost biosimilar drugs could stall at the patent office",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "'美정부 임상시험계획·1상 절차 간소화'...셀트리온, 신약 20종 가동력 커진다",
+          "importance": 55,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03079926645486640"
+        },
+        {
+          "title": "LG화학, 고형암 신약후보물질 美FDA 임상시험계획 승인",
+          "importance": 55,
+          "url": "https://www.asiae.co.kr/article/2026063008154861585"
+        }
+      ],
+      "summary_kr": "FDA 승인 약물이 희귀 간암 면역항암 치료의 새 가능성을 열었고, 바이오시밀러 활성화를 위한 FDA 규제 간소화 계획이 특허청에서 좌초될 위기에 처함. 미국 정부의 임상시험계획(IND)·1상 절차 간소화 정책에 셀트리온이 신약 20종 개발 가속화 기대. LG화학은 TP53 Y220C 변이 표적 고형암 신약 후보물질의 FDA IND 승인을 획득.",
+      "summary_en": "An FDA-approved drug opens new possibilities for rare liver cancer immunotherapy. FDA's biosimilar streamlining plan faces potential stall at the US Patent Office. Celltrion expects to accelerate 20 new drug candidates under US clinical trial simplification. LG Chem obtained FDA IND approval for a solid tumor drug candidate targeting TP53 Y220C mutation."
+    },
+    {
+      "topic": "한국 약가제도 개편 — R&D 투자 인센티브·CMC 역량 강화",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 57,
+      "key_articles": [
+        {
+          "title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+          "importance": 55,
+          "url": "https://www.fnnews.com/news/202606270611049823"
+        },
+        {
+          "title": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support",
+          "importance": 65,
+          "url": "https://biz.chosun.com/en/en-science/2026/07/01/L7YB472CAFBTBA2WBX6LHY5OFM/"
+        },
+        {
+          "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+        }
+      ],
+      "summary_kr": "건강보험공단이 약가인하 제도를 손질, R&D 투자 제약사에는 인하율 30% 감면을 적용하고 국산 신약에는 환급계약(rebate)을 확대한다. 한편 한국 의약품 승인에서 CMC(Chemistry, Manufacturing, and Controls) 역량 부족이 주요 병목으로 지목되면서 KDDF(한국신약개발사업단)와 KCMC(한국CMC개발지원센터)가 역량 강화에 나섰다. 글로벌 약가 압력에 PhRMA도 자체 대응에 돌입.",
+      "summary_en": "Korea's NHIS is reforming drug pricing: R&D-investing companies get 30% reduction on price cuts, while domestic new drugs get expanded rebate contracts. Meanwhile, CMC (Chemistry, Manufacturing, and Controls) capacity gaps are stalling Korean drug approvals, prompting KDDF and KCMC to mobilize support. PhRMA is also responding to global pricing pressure with a new industry website."
+    },
+    {
+      "topic": "GLP-1 동향 — 중국 NRDL 진입·글로벌 약가 경쟁 심화",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 62,
+      "key_articles": [
+        {
+          "title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "European patient access to new drugs worsens, pharma lobby says",
+          "importance": 62,
+          "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "화이자와 이노벤트의 GLP-1 계열 약물이 중국 국가医保(NRDL) 예비심사를 통과, 중국 비만·당뇨 시장 진입 청신호. 미국이 독일의 약가 개혁 법안에 대한 조사에 착수한 가운데, 유럽 전역에서 신약 환자 접근성이 악화되고 있다는 업계 보고도 잇따름.",
+      "summary_en": "Pfizer and Innovent's GLP-1 drugs have passed preliminary China NRDL screening, signaling potential entry into China's obesity/diabetes market. As the US investigates Germany's drug spending reforms, industry reports show worsening patient access to new drugs across Europe."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 4, "significance": "FDA 규제 간소화 vs 특허 장벽 — 한국과 미국 모두 바이오시밀러 활성화 논의"},
+    {"keyword": "특허/patent", "kr_count": 3, "en_count": 3, "significance": "한미 특허 이슈 동시 부각 — FDA 바이오시밀러 계획이 특허청에서 지연 위기"},
+    {"keyword": "허가/approval", "kr_count": 9, "en_count": 10, "significance": "한국 식약처 240일 혁신 + FDA 승인 동향 — 양국 규제기관 모두 허가 속도화 논의"},
+    {"keyword": "임상/clinical trial", "kr_count": 10, "en_count": 4, "significance": "미국 임상 간소화 정책이 한국 기업(셀트리온·LG화학)에 직결"},
+    {"keyword": "약가/pricing", "kr_count": 3, "en_count": 9, "significance": "한국 약가 개혁 + 미국-EU 약가 규제 확대 — 글로벌 약가 패러다임 전환"}
+  ],
+  "notable_absences": [
+    "바이오보안법(Biosecure Act) 관련 후속 논의 — 이전 주에 비해 관련 기사 급감",
+    "국내 의료개혁 관련 대규모 정책 발표 — 전공의 수련환경 지원 외에 큰 이슈 없음",
+    "중국 바이오제약 규제 변화 — Bing 간체 미지원으로 관련 기사 0건",
+    "COVID-19 백신 부스터샷·변종 대응 — 최근 관련 기사 감소 추세"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일 '식약처 신약개발 전주기 규제지원 혁신' → 금일 '240일 허가 구체화 및 현장 GMP 지원'으로 이어짐",
+      "전일 '미·EU 약가 규제 격화' → 금일 '트럼프 100% 관세 + 독일 약가 조사 + PhRMA 대응'으로 구체화",
+      "전일 'FDA 신약 승인·GLP-1 NRDL 진입' → 금일 'FDA 간암 연구 진전 + 바이오시밀러 특허 장벽 + 셀트리온·LG화학 IND'로 확장"
+    ],
+    "changes": [
+      "GLP-1 관련 기사 증가 — 화이자·이노벤트 중국 NRDL 예비 통과",
+      "CMC(화학·제조·품질관리) 이슈 새롭게 부각 — 한국 의약품 승인 병목으로 지목",
+      "협회지(협회매체) 비중 10% 이하로 양호"
+    ]
+  },
+  "connections": [
+    "식약처 240일 허가 혁신 + CMC 역량 강화(KDDF/KCMC) + R&D 투자 인센티브 = 한국 제약산업 규제·인프라 동시 개편",
+    "트럼프 관세 + EU 규제 강화 + 독일 약가 조사 = 미·EU 간 제약 무역·규제 갈등 심화",
+    "FDA 바이오시밀러 규제 간소화 + 특허 장벽 = 바이오시밀러 활성화의 구조적 한계",
+    "한국 약가 개혁(R&D 감면·환급계약) + 미국-EU 약가 압력 = 글로벌 약가 결정 메커니즘 전환"
+  ],
+  "generated_at": "2026-07-02T07:35:00+09:00"
+}
