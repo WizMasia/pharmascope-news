@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-03",
+  "total_articles": 428,
+  "language_breakdown": {
+    "korean": 112,
+    "english": 150,
+    "multilingual": 166
+  },
+  "issues": [
+    {
+      "topic": "식약처 '60대 과제' 대국민 보고 — 임상승인 10일 단축·240일 허가 체계 가시화",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "식약처 60대 과제, 제약·바이오 허가심사·공급 안정에 초점",
+          "importance": 66,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=414020"
+        },
+        {
+          "title": "임상시험 승인 10일로 단축… 의약품 원료물질 인증제 도입",
+          "importance": 52,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EC%83%81%EC%8B%9C%ED%97%98-%EC%8A%B9%EC%9D%B8-10%EC%9D%BC%EB%A1%9C-%EB%8B%A8%EC%B6%95-%EC%9D%98%EC%95%BD%ED%92%88-%EC%9B%90%EB%A3%8C%EB%AC%BC%EC%A7%88-%EC%9D%B8%EC%A6%9D%EC%A0%9C-%EB%8F%84%EC%9E%85/ar-AA275CPQ"
+        },
+        {
+          "title": "'의약품 규제혁신' 뭘 담았나",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007516"
+        },
+        {
+          "title": "식약처, 의료제품 '240일 허가' 추진… 전주기 심사체계 혁신",
+          "importance": 55,
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092164259"
+        },
+        {
+          "title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260619086600017"
+        }
+      ],
+      "summary_kr": "식약처가 2일 충북 청주에서 '2026 식의약 안심 60대 과제 대국민 보고회'를 열고 임상시험 승인기간을 현행 30일에서 10일로 대폭 단축하고, 바이오의약품 원료물질 인증제를 도입하겠다고 발표했다. 의료제품 허가심사 기간을 240일로 단축하는 전주기 심사체계 혁신과 함께 이중제형 비타민 신속 출시 지원, 디지털융합의약품 원스톱 통합심사 도입, 무균의약품 GMP 현장 지원 및 한약제제 GMP 효율화 방안도 논의됐다. 식약처장 오유경은 '차질 없는 추진'을 강조하며 제약업계와 협력을 다짐했다.",
+      "summary_en": "Korea's MFDS held a major public briefing on the '60-point Food/Drug Safety Agenda' in Cheongju, announcing a reduction of clinical trial approval from 30 to 10 days and a raw material certification system for biopharmaceuticals. The agency's comprehensive reform includes a 240-day drug review target, one-stop review for digital-convergence drugs, aseptic GMP field support, and traditional medicine GMP efficiency measures. Commissioner Oh Yu-kyung emphasized seamless implementation and industry collaboration."
+    },
+    {
+      "topic": "FDA 유전자치료제·항암제 진전 — Vertex 소아 확대, 희귀 간암 면역항법, 바이오시밀러 특허 장벽",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 58,
+      "key_articles": [
+        {
+          "title": "US FDA approves Vertex's gene therapy for sickle cell disease in children as young as two",
+          "importance": 57,
+          "url": "https://www.msn.com/en-us/health/other/us-fda-approves-vertex-s-gene-therapy-for-sickle-cell-disease-in-children-as-young-as-two/ar-AA274xvN"
+        },
+        {
+          "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+          "importance": 65,
+          "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+        },
+        {
+          "title": "FDA's plan to boost biosimilar drugs could stall at the patent office",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        },
+        {
+          "title": "Regulatory tracker: FDA sets decision date for Sarepta's DMD drugs",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"
+        },
+        {
+          "title": "BridgeBio gets funding for drug launch; United buys into cell therapy",
+          "importance": 61,
+          "url": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/"
+        },
+        {
+          "title": "LG화학, 고형암 신약후보물질 美FDA 임상시험계획 승인",
+          "importance": 55,
+          "url": "https://www.asiae.co.kr/article/2026063008154861585"
+        }
+      ],
+      "summary_kr": "FDA가 버텍스 파마슈티컬스의 겸상적혈구병 유전자치료제 카스게비(Casgevy)의 적응증을 만 2세 이상 소아로 확대 승인했다. 사이언스 데일리는 FDA 승인 약물이 희귀 간암의 면역항암 치료에서 T세포 종양 회피 메커니즘을 차단하는 새 가능성을 보고했다. 한편 FDA의 바이오시밀러 규제 간소화 계획이 특허청(USPTO)에서 좌초될 위기에 처했다. 사렙타의 뒤시엔느근디스트로피(DMD) 약물에 대한 FDA 결정일이 공개됐고, 브릿지바이오는 신약 론칭 자금을 확보했다. LG화학은 TP53 Y220C 변이 표적 고형암 신약의 FDA IND 승인을 획득했다.",
+      "summary_en": "FDA expanded Vertex's Casgevy gene therapy for sickle cell disease to children as young as two. A Science Daily study shows an FDA-approved drug may block T-cell evasion mechanisms in rare liver cancer immunotherapy. However, FDA's biosimilar streamlining plan risks stalling at the USPTO. Sarepta's DMD drug decision dates were set in the H2 regulatory tracker, BridgeBio secured launch funding, and LG Chem obtained FDA IND approval for a TP53 Y220C-targeted solid tumor candidate."
+    },
+    {
+      "topic": "트럼프 약가 정책 — 중견 제약사와의 마찰·100% 관세·PhRMA 대응",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 62,
+      "key_articles": [
+        {
+          "title": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/news/other/trumps-push-for-the-worlds-lowest-drug-prices-hits-snag-with-mid-sized-companies/ar-AA26Txwo"
+        },
+        {
+          "title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"
+        },
+        {
+          "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
+          "importance": 62,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+        },
+        {
+          "title": "US to investigate Germany's proposed drug spending reforms",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"
+        },
+        {
+          "title": "Fierce Pharma Asia—Trump's 100% drug tariff; Takeda layoffs; Lilly, Insilico's AI deal",
+          "importance": 61,
+          "url": "https://www.fiercepharma.com/pharma/trumps-100-drug-tariff-takeda-layoffs-lilly-insilico-ai-deal"
+        }
+      ],
+      "summary_kr": "트럼프 대통령의 '세계 최저 약가' 정책이 중견 제약사들과의 마찰로 난항을 겪고 있다. 로이터 통신은 빅파마가 아닌 중견기업들이 MFN(Most Favored Nation) 요구에 저항하면서 협상이 교착 상태에 빠졌다고 보도했다. 반면 일부 배제된 제약사들은 자체 협상을 모색 중이다. PhRMA는 직접구매 프로그램을 홍보하는 새 웹사이트를 개설하며 업계 입장을 방어 중. 미국은 독일의 약가 개혁 법안에 대한 조사도 개시했으며, 의약품 100% 관세 부과 위협도 지속되고 있다.",
+      "summary_en": "Trump's 'world's lowest drug prices' push is hitting resistance from mid-sized pharma companies that are pushing back against MFN demands, leading to negotiation gridlock per Reuters. Meanwhile, companies left out of the deals are seeking their own paths. PhRMA launched a new website promoting direct purchasing programs. The US also launched an investigation into Germany's drug spending reforms, and the 100% drug tariff threat remains active."
+    },
+    {
+      "topic": "EU 제약 규제 개혁 — 혁신 위기·화학물질 금지 우려·환자 접근성 악화",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 58,
+      "key_articles": [
+        {
+          "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+          "importance": 67,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+        },
+        {
+          "title": "European patient access to new drugs worsens, pharma lobby says",
+          "importance": 62,
+          "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0"
+        },
+        {
+          "title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"
+        },
+        {
+          "title": "Newly proposed EU drug regulations a 'missed opportunity' to support innovation, industry says",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/newly-proposed-eu-drug-regulations-missed-opportunity-innovation-efpia-says"
+        },
+        {
+          "title": "CMC hurdles stall Korea drug approvals as KDDF and KCMC mobilize support",
+          "importance": 65,
+          "url": "https://biz.chosun.com/en/en-science/2026/07/01/L7YB472CAFBTBA2WBX6LHY5OFM/"
+        }
+      ],
+      "summary_kr": "EU의 제약 규제 개혁안이 업계 반발에 직면했다. EFPIA(유럽제약산업연맹)는 현행 법안이 EU의 글로벌 R&D 비중을 3분의 1로 축소시킬 수 있다고 경고하며 '혁신 기회 상실' 비판을 제기했다. EU 시의회가 제안한 과불화합물(PFAS) 사용 제한은 의약품 제조 자체를 중단시킬 위험이 있다는 업계 우려도 나왔다. 한편 유럽 전역에서 신약 환자 접근성은 계속 악화되고 있으며, 한국의 CMC 역량 부족이 의약품 승인의 주요 병목으로 재확인되면서 KDDF와 KCMC가 대응에 나섰다.",
+      "summary_en": "EU pharma regulatory reform faces strong industry pushback. EFPIA warns the current legislation could shrink Europe's global R&D share by a third, calling it a 'missed opportunity for innovation.' A proposed PFAS chemical ban threatens to halt drug manufacturing entirely. Patient access to new drugs continues to worsen across Europe. Separately, Korea's CMC capacity gaps remain a critical bottleneck for drug approvals, with KDDF and KCMC mobilizing targeted support."
+    },
+    {
+      "topic": "GLP-1 시장 — 화이자·이노벤트 중국 NRDL 진입, 글로벌 경쟁 가속",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 63,
+      "key_articles": [
+        {
+          "title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK"
+        },
+        {
+          "title": "셀비온, 국가신약개발사업단과 전립선암 병용임상 과제 협약 체결",
+          "importance": 55,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03512886645484344"
+        },
+        {
+          "title": "'렉라자' 승인 2년만에…K신약, FDA 문턱 넘나",
+          "importance": 27,
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%A0%89%EB%9D%BC%EC%9E%90-%EC%8A%B9%EC%9D%B8-2%EB%85%84%EB%A7%8C%EC%97%90-k%EC%8B%A0%EC%95%BD-fda-%EB%AC%B8%ED%84%B1-%EB%84%98%EB%82%98/ar-AA26imJS"
+        }
+      ],
+      "summary_kr": "화이자와 이노벤트의 GLP-1 계열 약물이 중국 국가의약품보험(NRDL) 예비심사를 통과했다. 이는 1억 명 이상의 비만·당뇨 환자를 보유한 중국 시장 진입의 첫 관문으로, 중국 내 GLP-1 시장 경쟁이 더욱 치열해질 전망이다. 한편 HLB의 간암 신약 리보세라닙과 HK이노엔의 케이캡, 렉라자 등 K-신약들의 FDA 허가 여부도 하반기 주요 관심사로 부상했다.",
+      "summary_en": "Pfizer and Innovent's GLP-1 drugs have passed preliminary screening for China's National Reimbursement Drug List (NRDL), opening the door to a market with over 100 million obesity/diabetes patients. This intensifies GLP-1 competition in China. Meanwhile, Korean new drugs including HLB's rivoceranib, HK Inno.N's K-Cab, and lazertinib face FDA decisions in H2 2026, marking a critical period for K-drug global expansion."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가/approval", "kr_count": 9, "en_count": 7, "significance": "한국 식약처 60대 과제·240일 허가 혁신 + FDA 바이오시밀러·유전자치료제 승인 — 양국 규제기관 모두 허가 속도화 가시화"},
+    {"keyword": "임상/clinical trial", "kr_count": 18, "en_count": 3, "significance": "한국 임상 관련 기사 대폭 증가 — 식약처 승인 10일 단축·셀트리온·LG화학 IND 등"},
+    {"keyword": "약가/pricing", "kr_count": 4, "en_count": 10, "significance": "트럼프 MFN + 독일 조사 + GLP-1 NRDL 진입 — 글로벌 약가 패러다임 전환 지속"},
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 2, "en_count": 5, "significance": "FDA 규제 간소화 vs 특허 장벽 + 한국 전통 제약사 바이오시밀러 진출 가속화"},
+    {"keyword": "특허/patent", "kr_count": 2, "en_count": 5, "significance": "FDA 바이오시밀러 계획 USPTO 지연 위기 + 블록버스터 특허만료 대응"}
+  ],
+  "notable_absences": [
+    "바이오보안법(Biosecure Act) — 관련 기사 급감, 이슈 소강 상태",
+    "COVID-19 백신 부스터샷·변종 대응 — 최근 기사 거의 없음",
+    "중국 바이오제약 규제 — Bing 간체 미지원으로 0건",
+    "국내 의사 집단행동·의료개혁 법안 — 이전 대비 기사 감소"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일 '식약처 의료제품 허가심사 혁신 가속' → 금일 '60대 과제 대국민 보고회 구체화 — 임상 10일·240일 허가·GMP 개선'",
+      "전일 '트럼프 관세·EU 규제 격화' → 금일 '중견기업 MFN 저항 + PhRMA 웹사이트 대응 + 독일 약가 조사'로 구체화",
+      "전일 'FDA 신약 승인·임상 규제 동향' → 금일 'Vertex 소아 확대 승인 + 간암 면역항법 진전 + 바이오시밀러 특허 장벽'으로 확장"
+    ],
+    "changes": [
+      "한국 임상(의약품) 관련 기사 급증 — 식약처 60대 과제 발표로 18건 (전일 10건)",
+      "GLP-1 — 중국 NRDL 진입 본격화 (화이자·이노벤트)",
+      "전통의학 — 한약제제 GMP 개선 논의 (식약처 현장 간담회) — 조명도 증가",
+      "협회지 비중 양호 — 10% 이하 유지"
+    ]
+  },
+  "connections": [
+    "식약처 60대 과제(임상10일·240일허가·GMP개선) + CMC 역량 강화(KDDF/KCMC) + R&D 약가 인센티브 = 한국 제약 규제·인프라 전면 개편 패키지",
+    "트럼프 MFN·100% 관세 + 독일 약가 조사 + EU 규제 개혁(PFAS·환자접근성) = 글로벌 제약 무역 3대 축(미·EU·아시아) 간 규제 경쟁 심화",
+    "FDA 유전자치료제 승인(Casgevy 소아 확대) + 항암제 진전 + K-신약 FDA 허가 도전(LB-HLB·렉라자·케이캡) = 유전자·세포치료제와 항암제가 글로벌 신약 승인의 주류로 자리잡는 추세",
+    "GLP-1 중국 NRDL 진입 + 창고형 약국 확산 + 약가 인하 압력 = 가격 경쟁이 제약·유통 전반의 변혁을 주도",
+    "한의약 GMP 개선 논의(식약처) + 일본 Kampo 전통의약 기원 연구(Science Daily) = 전통의약의 현대적 규제·과학적 검증 동시 진행"
+  ],
+  "generated_at": "2026-07-03T07:35:00+09:00"
+}
