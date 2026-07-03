@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-04",
+  "total_articles": 408,
+  "language_breakdown": {"korean": 93, "english": 148, "multilingual": 167},
+  "issues": [
+    {
+      "topic": "FDA 승인 러시 — 항생제·유전자치료제·고혈압 신약 잇따라 허가",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 55,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "US FDA approves Vertex's gene therapy for sickle cell disease in children as young as two", "importance": 57, "url": "https://www.msn.com/en-us/health/medical/us-fda-approves-vertex-s-gene-therapy-for-sickle-cell-disease-in-children-as-young-as-two/ar-AA270v5h?ocid=BingNewsVerp"},
+        {"title": "AstraZeneca Gets U.S. Approval for Hypertension Drug", "importance": 47, "url": "https://www.morningstar.com/news/dow-jones/20260518498/astrazeneca-gets-us-approval-for-hypertension-drug"},
+        {"title": "India's First Homegrown Antibiotic Zaynich Gets US FDA Approval", "importance": 47, "url": "https://www.ndtv.com/health/indias-first-homegrown-antibiotic-zaynich-gets-us-fda-approval-heres-what-you-need-to-know-about-the-drug-11706915"},
+        {"title": "Alembic Pharma gets USFDA nod for generic influenza treatment drug", "importance": 47, "url": "https://www.msn.com/en-in/health/other/alembic-pharma-gets-usfda-nod-for-generic-influenza-treatment-drug/ar-AA26AQIN?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "FDA가 GSK의 내성 요로감염 경구용 항생제, Vertex의 겸상적혈구병 유전자치료제 소아 확대, AstraZeneca 고혈압 신약, 인도 Wockhardt의 첫 자체개발 항생제 Zaynich 등 다수의 신약을 연이어 승인했다. 항생제 내성 위기 대응과 희귀질환 치료제 접근성 확대가 두드러진다.",
+      "summary_en": "The FDA approved multiple new drugs this period: GSK's oral antibiotic for drug-resistant UTIs, Vertex's gene therapy expansion for sickle cell disease to children aged 2+, AstraZeneca's hypertension drug, and India's first domestically developed antibiotic Zaynich (Wockhardt). Antimicrobial resistance and rare disease access are key themes."
+    },
+    {
+      "topic": "트럼프 약가 정책 — 최혜국대우 압박·미-독 무역갈등·PhRMA 대응",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 58,
+      "key_articles": [
+        {"title": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies", "importance": 67, "url": "https://www.msn.com/en-us/news/other/trumps-push-for-the-worlds-lowest-drug-prices-hits-snag-with-mid-sized-companies/ar-AA26Txwo?ocid=BingNewsVerp"},
+        {"title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs", "importance": 56, "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 56, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "UK signs off on US pharma deal, ensuring tariff reprieve as Britain aims to reattract investments", "importance": 56, "url": "https://www.fiercepharma.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract"},
+        {"title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched", "importance": 67, "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vOjQ?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "트럼프 행정부의 최혜국대우(MFN) 약가 정책이 중견 제약사의 반발에 부딪혔다. PhRMA는 직접구매 프로그램 홍보용 웹사이트를 준비 중이며, 미국은 독일의 약가 개혁에 대한 무역 조사를 개시했다. 영국은 미-영 제약협정에 서명하며 관세 면제를 확보했다. 2025년 신약 출시 가격은 유전자치료제 감소로 전년 대비 하락했다.",
+      "summary_en": "Trump administration's Most Favored Nation (MFN) drug pricing push faces pushback from mid-sized pharma companies. PhRMA is launching a new website highlighting industry direct-purchase programs. The US launched a trade investigation into Germany's drug spending reforms, while the UK signed the US-UK pharma deal securing tariff reprieve. New drug launch prices fell in 2025 due to fewer costly gene therapies."
+    },
+    {
+      "topic": "K-제약바이오 글로벌 도전 — FDA 임상·허가·파이프라인 확대",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 48,
+      "key_articles": [
+        {"title": "'美정부 임상시험계획·1상 절차 간소화'...셀트리온, 신약 20종 가동력 커진다", "importance": 55, "url": "https://www.edaily.co.kr/News/Read?newsId=03079926645486640"},
+        {"title": "LG화학, 고형암 신약후보물질 美FDA 임상시험계획 승인", "importance": 55, "url": "https://www.asiae.co.kr/article/2026063008154861585"},
+        {"title": "‘렉라자’ 승인 2년만에…K신약, FDA 문턱 넘나", "importance": 27, "url": "https://www.msn.com/ko-kr/news/other/%EB%A0%89%EB%9D%BC%EC%9E%90-%EC%8A%B9%EC%9D%B8-2%EB%85%84%EB%A7%8C%EC%97%90-k%EC%8B%A0%EC%95%BD-fda-%EB%AC%B8%ED%84%B1-%EB%84%98%EB%82%98/ar-AA26imJS?ocid=BingNewsVerp"},
+        {"title": "‘FDA 3수’ HLB, 운명의 7월…진양곤 의장, 계열사 챙기며 '투트랙' 행보", "importance": 27, "url": "https://www.msn.com/ko-kr/news/other/fda-3%EC%88%98-hlb-%EC%9A%B4%EB%AA%85%EC%9D%98-7%EC%9B%94-%EC%A7%84%EC%96%91%EA%B3%A4-%EC%9D%98%EC%9E%A5-%EA%B3%84%EC%97%B4%EC%82%AC-%EC%B1%99%EA%B8%B0%EB%A9%B0-%ED%88%AC%ED%8A%B8%EB%9E%99-%ED%96%89%EB%B3%B4/ar-AA271BMO?ocid=BingNewsVerp"},
+        {"title": "식약처장 \"의료제품 허가심사 혁신 차질 없이 추진\"", "importance": 57, "url": "https://www.yna.co.kr/view/AKR20260619086600017"}
+      ],
+      "summary_kr": "셀트리온은 미 정부의 임상개발 혁신 정책(IND·1상 간소화)에 힘입어 글로벌 신약 20종의 파이프라인 가동력을 확대했다. LG화학은 TP53 Y220C 변이 표적 고형암 신약의 FDA 임상승인을 획득했다. HLB는 간암 1차 치료제 리보세라닙의 FDA 3수 도전 중. 식약처는 의료제품 허가심사 혁신방안(240일 허가 체계)을 차질 없이 추진 중이다.",
+      "summary_en": "Celltrion is accelerating its global pipeline of 20 new drugs following US clinical trial simplification policies (IND/Phase 1 streamlining). LG Chem obtained FDA IND approval for a TP53 Y220C-targeting solid tumor drug. HLB faces its third FDA attempt for liver cancer drug rivoceranib in July. MFDS is pushing ahead with its medical product approval innovation plan including a 240-day review target."
+    },
+    {
+      "topic": "한국 의료개혁 — 건보 수가 25년 만의 대개편·의료인력 확충",
+      "domain": "clinical",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 40,
+      "key_articles": [
+        {"title": "25년만에 건보수가 대개편…지역·필수의료 연 3조6천억 투입(종합)", "importance": 47, "url": "https://www.yna.co.kr/view/AKR20260625018151530"},
+        {"title": "복지부, 전공의 수련환경 개선에 950억 원 투입…56개 병원 선정", "importance": 42, "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%B6%80-%EC%A0%84%EA%B3%B5%EC%9D%98-%EC%88%98%EB%A0%A8%ED%99%98%EA%B2%BD-%EA%B0%9C%EC%84%A0%EC%97%90-950%EC%96%B5-%EC%9B%90-%ED%88%AC%EC%9E%85-56%EA%B0%9C-%EB%B3%91%EC%9B%90-%EC%84%A0%EC%A0%95/ar-AA271cJQ?ocid=BingNewsVerp"},
+        {"title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다", "importance": 62, "url": "https://www.yna.co.kr/view/AKR20260623124000530"},
+        {"title": "[단독] 요양병원 의사가 직접 어르신 집으로… 방문진료 허용", "importance": 52, "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EB%8B%A8%EB%8F%85-%EC%9A%94%EC%96%91%EB%B3%91%EC%9B%90-%EC%9D%98%EC%82%AC%EA%B0%80-%EC%A7%81%EC%A0%91-%EC%96%B4%EB%A5%B4%EC%8B%A0-%EC%A7%91%EC%9C%BC%EB%A1%9C-%EB%B0%A9%EB%AC%B8%EC%A7%84%EB%A3%8C-%ED%97%88%EC%9A%A9/ar-AA279Glj?ocid=BingNewsVerp"},
+        {"title": "국립의전원 설립 본격화…공공의료 인력 양성체계 구축 '첫발'", "importance": 27, "url": "https://www.rapportian.com/news/articleView.html?idxno=237802"}
+      ],
+      "summary_kr": "정부가 건강보험 수가 체계를 25년 만에 전면 개편, 지역·필수의료에 연 3조 6천억 원을 투입한다. CT·MRI 등 과보상 검사 수가를 조정해 재원을 마련했다. 전공의 수련환경 혁신 지원사업에 950억 원, 56개 병원 선정. 병원협회는 의료사고배상공제조합 설립을 추진 중이며, 요양병원 방문진료도 허용된다. 국립의학전문대학원 설립도 본격화됐다.",
+      "summary_en": "South Korea is undertaking the largest health insurance fee schedule reform in 25 years, investing 3.6 trillion won annually in regional and essential medical care by reallocating funds from overcompensated CT/MRI fees. A 95 billion won resident training innovation project selected 56 hospitals. The hospital association is pushing for a medical accident compensation mutual aid association, and nursing hospital home-visit care is being permitted."
+    },
+    {
+      "topic": "글로벌 바이오시밀러·항생제·규제 역학 — FDA 규제 간소화와 특허 장벽",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 50,
+      "key_articles": [
+        {"title": "FDA’s plan to boost biosimilar drugs could stall at the patent office", "importance": 61, "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"},
+        {"title": "Proposed chemical ban would cause EU drug manufacturing to 'grind to a halt,' trade group warns", "importance": 56, "url": "https://www.fiercepharma.com/pharma/sweeping-chemical-ban-could-cause-european-drug-manufacturing-grind-halt-and-put-critical"},
+        {"title": "[블록버스터 특허만료③] \"우리도 나선다\"⋯전통 제약사도 바이오시밀러 전격 가세", "importance": 27, "url": "https://www.inews24.com/view/1981397"},
+        {"title": "EU proposal may accelerate pharma innovation decline, industry group says", "importance": 67, "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"},
+        {"title": "European patient access to new drugs worsens, pharma lobby says", "importance": 62, "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "FDA의 바이오시밀러 규제 간소화 계획이 특허청(USPTO)의 장벽에 부딪힐 위기에 처했다. 한편, EU의 불소화합물 사용 제한 제안은 유럽 제약 제조의 중단을 초래할 수 있다는 업계 경고가 나왔다. 국내에서도 종근당·대웅제약 등 전통 제약사들이 듀피젠트·스텔라라 등 블록버스터 특허 만료에 대응해 바이오시밀러 개발에 본격 진출하고 있다.",
+      "summary_en": "FDA's biosimilar streamlining plan faces potential stalling at the USPTO due to patent thickets. The EU's proposed restriction on fluorinated substances threatens to halt European drug manufacturing. South Korean traditional pharma companies (Chong Kun Dang, Daewoong) are entering the biosimilar race targeting blockbusters like Dupixent and Stelara as patents expire."
+    },
+    {
+      "topic": "GLP-1 시장·항암제 AI·우주 제약 — 신약개발 패러다임 전환",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle", "importance": 67, "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"},
+        {"title": "'Bubble effect': Weight loss drug fueled growth is putting the pharma sector at risk, report finds", "importance": 47, "url": "https://www.cnbc.com/2026/05/04/wegovy-glp1-weight-loss-drugs-pharma-growth-bubble.html"},
+        {"title": "Breakthrough pancreatic cancer drug nearly doubles survival in trial", "importance": 47, "url": "https://www.usatoday.com/story/graphics/2026/06/08/new-pancreatic-cancer-drug-treatment-daraxonrasib/90419728007/"},
+        {"title": "AI tool improves prediction of who will respond to cancer immunotherapy drugs", "importance": 47, "url": "https://www.msn.com/en-us/health/other/ai-tool-improves-prediction-of-who-will-respond-to-cancer-immunotherapy-drugs/ar-AA2793vp?ocid=BingNewsVerp"},
+        {"title": "The space race is coming for pharma: Why drug development is heading to lower Earth orbit", "importance": 47, "url": "https://www.msn.com/en-us/money/companies/the-space-race-is-coming-for-pharma-why-drug-development-is-heading-to-lower-earth-orbit/ar-AA25aQ3o?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "화이자와 이노벤트의 GLP-1 비만치료제가 중국 국가医保(NRDL) 예비심사를 통과했다. CNBC 보고서는 GLP-1 주도 성장이 제약업 버블 위험을 초래한다고 경고. 췌장암 신약 daraxonrasib이 임상에서 생존율을 거의 두 배로 개선했다. AI 도구는 면역항암제 반응 예측 정확도를 높이고 있으며, 우주환경을 활용한 신약개발도 상업화 단계에 접어들고 있다.",
+      "summary_en": "Pfizer and Innovent's GLP-1 drugs passed preliminary China NRDL insurance review. A CNBC report warns of a GLP-1-driven pharma growth bubble. Pancreatic cancer drug daraxonrasib nearly doubled survival in clinical trials. AI tools are improving immunotherapy response prediction, and space-based drug development is entering commercialization."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 1, "en_count": 3, "significance": "FDA 바이오시밀러 규제 간소화와 한국 전통 제약사의 바이오시밀러 진출이 동시에 포착. USPTO 특허 장벽이 글로벌 공통 과제."},
+    {"keyword": "특허", "kr_count": 5, "en_count": 4, "significance": "한국에서는 블록버스터 특허만료 대응 바이오시밀러 개발, 미국에서는 FDA 바이오시밀러 계획 대 특허청 장벽."},
+    {"keyword": "허가", "kr_count": 6, "en_count": 6, "significance": "FDA 다중 신약 승인과 식약처 허가 혁신 추진이 양국 규제 트렌드로 포착."},
+    {"keyword": "임상", "kr_count": 10, "en_count": 4, "significance": "한국 기업의 글로벌 임상 확대 (셀트리온·LG화학·삼성제약)와 FDA 임상 간소화 정책의 교차점."},
+    {"keyword": "약가", "kr_count": 3, "en_count": 9, "significance": "트럼프 MFN 정책, 독일 약가 개혁, 영국-미국 협정, 한국 건보 수가 개편 등 전 세계적 약가 압박 흐름."}
+  ],
+  "notable_absences": [
+    "약국·약사 카테고리 0건 — 일반의약품·조제·약국운영 관련 뉴스 부재",
+    "중국어 간체 0건 — Bing 미지원 문제 지속",
+    "GLP-1 관련 한국어 기사 부재 (중국 NRDL 관련 화이자·이노벤트 소식은 영어에서만 수집됨)"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "어제: FDA 유전자치료제·항암제 진전 → 오늘: 추가 FDA 승인 랠리 (GSK 항생제, AZ 고혈압 등)",
+      "어제: 트럼프 약가 정책 중견 제약사 마찰 → 오늘: 독일 약가 개혁 조사, PhRMA 웹사이트 대응, UK 협정 체결로 확장",
+      "어제: 식약처 '60대 과제' → 오늘: 식약처 허가심사 혁신 차질없는 추진 확인"
+    ],
+    "changes": [
+      "신규: GLP-1 중국 NRDL 진입 (화이자·이노벤트) — 2026년 중국 비만치료제 시장 게임체인저 가능성",
+      "신규: 인도 최초 자체개발 항생제 Zaynich FDA 승인 — 인도 제약의 혁신형 전환 신호",
+      "신규: AI 기반 면역항암제 반응 예측 — 정밀의료와 AI 결합 가속화",
+      "신규: 건보 수가 25년만 대개편 — 의료계 반발과 상충"
+    ]
+  },
+  "connections": [
+    {"from": "트럼프 약가 정책", "to": "글로벌 약가 압박 (독일·한국·EU)", "note": "미국의 MFN 정책이 독일 약가 개혁 조사, 영국 협정, 글로벌 약가 규제 연쇄를 촉발"},
+    {"from": "FDA 바이오시밀러 규제 간소화", "to": "특허청 장벽 — 한국 전통 제약사 바이오시밀러 진출", "note": "미국 규제 간소화와 특허 장벽의 충돌이 한국 기업 진출 기회로 연결"},
+    {"from": "K-신약 FDA 도전 (셀트리온·LG화학·HLB)", "to": "미 FDA 임상 간소화 정책", "note": "美 정책 변화가 한국 기업의 글로벌 임상 비용·시간을 낮추는 촉매제"}
+  ],
+  "generated_at": "2026-07-04T07:33:00+09:00"
+}
