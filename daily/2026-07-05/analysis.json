@@ -1,0 +1,120 @@
+{
+  "date": "2026-07-05",
+  "total_articles": 398,
+  "language_breakdown": {"korean": 87, "english": 148, "multilingual": 163},
+  "issues": [
+    {
+      "topic": "트럼프 약가 정책 확대 — 최혜국대우·CMS 협상·PBM 규제로 제약업계 압박 가중",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 52,
+      "key_articles": [
+        {"title": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies", "importance": 67, "url": "https://www.msn.com/en-us/news/other/trumps-push-for-the-worlds-lowest-drug-prices-hits-snag-with-mid-sized-companies/ar-AA26Txwo?ocid=BingNewsVerp"},
+        {"title": "Facing pricing pressure, PhRMA plans new website to highlight industry's direct purchasing programs", "importance": 56, "url": "https://www.fiercepharma.com/pharma/facing-pricing-pressure-phrma-rolls-out-new-website-highlight-industrys-direct-purchase"},
+        {"title": "Trump Administration To Close Loophole And Codify Medicare Drug Price Regulations", "importance": 47, "url": "https://www.forbes.com/sites/joshuacohen/2026/07/03/trump-administration-to-close-loophole-and-codify-medicare-drug-price-regulations/"},
+        {"title": "CMS proposes codifying, strengthening Medicare drug price negotiations", "importance": 47, "url": "https://thehill.com/newsletters/healthcare/5925435-cms-proposes-codifying-strengthening-medicare-drug-price-negotiations/"},
+        {"title": "Federal and State Policymakers Push Forward with PBM and Drug Pricing Reform", "importance": 47, "url": "https://www.jdsupra.com/legalnews/federal-and-state-policymakers-push-9638611/"}
+      ],
+      "summary_kr": "트럼프 행정부의 약가 인하 압박이 중간 규모 제약사에 현실적 걸림돌로 작용하고 있다. CMS는 메디케어 약가 협상 규정을 법제화하는 방안을, 행정부는 최혜국대우(MFN) 방식의 약가 강제 인하를 추진 중이다. 이에 PhRMA는 직접구매 프로그램을 홍보하는 웹사이트를 개설하며 업계 입장을 대변하고 있다. 연방·주 정부 차원의 PBM(처방약 급여 관리자) 규제도 병행 추진되면서 제약사들의 약가 전략 전반에 영향을 미칠 전망이다.",
+      "summary_en": "The Trump administration's drug pricing pressure is creating real obstacles for mid-sized pharmaceutical companies. CMS is moving to codify Medicare drug price negotiation rules, while the administration pursues Most Favored Nation (MFN)-style mandatory price reductions. PhRMA has launched a website promoting industry direct-purchase programs. Concurrent federal and state-level PBM reforms are reshaping the entire drug pricing landscape."
+    },
+    {
+      "topic": "FDA 승인 러시 — 항생제·유전자치료제·항암제·전립선암 신약 잇따라 허가",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 14,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs", "importance": 67, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"},
+        {"title": "US FDA approves Vertex's gene therapy for sickle cell disease in children as young as two", "importance": 57, "url": "https://www.msn.com/en-us/health/other/us-fda-approves-vertexs-gene-therapy-for-sickle-cell-disease-in-children-as-young-as-two/ar-AA274xvN?ocid=BingNewsVerp"},
+        {"title": "A targeted drug won approval for a hard-to-treat form of advanced prostate cancer", "importance": 47, "url": "https://www.msn.com/en-us/science/biochemistry/a-targeted-drug-won-approval-for-a-hard-to-treat-form-of-advanced-prostate-cancer/ar-AA27drEg?ocid=BingNewsVerp"},
+        {"title": "Breakthrough pancreatic cancer drug nearly doubles survival in trial", "importance": 47, "url": "https://www.usatoday.com/story/graphics/2026/06/08/new-pancreatic-cancer-drug-treatment-daraxonrasib/90419728007/"},
+        {"title": "India's First Homegrown Antibiotic Zaynich Gets US FDA Approval", "importance": 47, "url": "https://www.ndtv.com/health/indias-first-homegrown-antibiotic-zaynich-gets-us-fda-approval-heres-what-you-need-to-know-about-the-drug-11706915"}
+      ],
+      "summary_kr": "FDA가 다양한 분야에서 신속한 승인 행보를 이어가고 있다. GSK의 내성 요로감염 경구용 항생제와 Vertex의 겸상적혈구병 유전자치료제(2세 이상 확대)가 대표적이다. 난치성 전립선암 표적치료제와 RAS 변이 췌장암 치료제(다라크소라십)도 주목할 만한 승인·임상 결과를 발표했다. 인도 최초 자체개발 항생제 자이니치(Zaynich)의 FDA 승인은 신흥국 혁신의 이정표다. CDER는 2025년 46개 혁신신약을 승인했으며, 절반이 희귀질환 치료제였다.",
+      "summary_en": "FDA continues its rapid approval momentum across multiple therapeutic areas. Key approvals include GSK's oral antibiotic for drug-resistant UTIs and Vertex's expanded gene therapy approval for sickle cell disease in children aged 2+. Notable milestones include a targeted prostate cancer drug approval, a RAS-mutant pancreatic cancer breakthrough (daraxonrasib), and India's first homegrown antibiotic Zaynich receiving FDA clearance. CDER approved 46 novel drugs in 2025, half for rare diseases."
+    },
+    {
+      "topic": "K-제약바이오 글로벌 도약 — 의약품 수출 100억 달러·CDMO 확장·FDA 진출 본격화",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 18,
+      "avg_importance": 38,
+      "key_articles": [
+        {"title": "작년 의약품 수출 첫 100억달러 돌파…역대 최대 실적", "importance": 45, "url": "https://www.fnnews.com/news/202607021042484282"},
+        {"title": "셀트리온 2분기 영업이익 77% 성장⋯매출 최대 실적", "importance": 27, "url": "https://www.inews24.com/view/1982234"},
+        {"title": "K제약바이오, 'R&D 넘어 상업화' 나스닥 축소판으로 진화", "importance": 45, "url": "https://www.fnnews.com/news/202607011436151071"},
+        {"title": "송도와 美공장 연결한 K-CDMO…글로벌 수주 총력전", "importance": 37, "url": "https://www.msn.com/ko-kr/news/other/%EC%86%A1%EB%8F%84%EC%99%80-%E7%BE%8E%EA%B3%B5%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%9C-k-cdmo-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%88%98%EC%A3%BC-%EC%B4%9D%EB%A0%A5%EC%A0%84-%EB%B0%94%EC%9D%B4%EC%98%A4-usa/ar-AA26iYki?ocid=BingNewsVerp"},
+        {"title": "HLB, FDA 3수 운명의 7월…진양곤 의장, 계열사 챙기며 투트랙 행보", "importance": 27, "url": "https://www.msn.com/ko-kr/news/other/fda-3%EC%88%98-hlb-%EC%9A%B4%EB%AA%85%EC%9D%98-7%EC%9B%94-%EC%A7%84%EC%96%91%EA%B3%A4-%EC%9D%98%EC%9E%A5-%EA%B3%84%EC%97%B4%EC%82%AC-%EC%B1%99%EA%B8%B0%EB%A9%B0-%ED%88%AC%ED%8A%B8%EB%9E%99-%ED%96%89%EB%B3%B4/ar-AA271BMO?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "지난해 국내 의약품 수출이 사상 첫 100억 달러를 돌파했으며, 생산실적도 33조 8천억 원으로 역대 최대를 기록했다. 바이오의약품과 CDMO가 성장을 주도했으며, 삼성바이오로직스는 BIO USA에서 AI·생산혁신 기반 글로벌 파트너십 확대와 바이오 밸류체인 구축 계획을 발표했다. 셀트리온은 2분기 영업이익 77% 급증(4,300억 원), 유한양행은 R&D 조직을 NewCo로 분사하는 구조개편을 추진 중이다. HLB는 간암 1차 치료제 리보세라닙의 FDA 3차 도전이라는 운명의 7월을 맞고 있다.",
+      "summary_en": "South Korea's pharmaceutical exports surpassed $10 billion for the first time last year, with production reaching a record 33.8 trillion won. Biopharmaceuticals and CDMO drove growth. Samsung Biologics announced plans for AI-driven partnership expansion and bio value chain construction at BIO USA. Celltrion posted 77% Q2 operating profit growth (430 billion won). Yuhan Corporation is spinning off its R&D organization into a NewCo. HLB faces a pivotal July with its third FDA attempt for liver cancer drug rivoceranib."
+    },
+    {
+      "topic": "한국 의료개혁 동시다발 — 약가·수가·전공의·의료사고·보건부 분리 논의",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 14,
+      "avg_importance": 39,
+      "key_articles": [
+        {"title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대", "importance": 55, "url": "https://www.fnnews.com/news/202606270611049823"},
+        {"title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다", "importance": 62, "url": "https://www.yna.co.kr/view/AKR20260623124000530"},
+        {"title": "복지부, 전공의 수련환경 개선에 950억 원 투입…56개 병원 선정", "importance": 42, "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%B5%EC%A7%80%EB%B6%80-%EC%A0%84%EA%B3%B5%EC%9D%98-%EC%88%98%EB%A0%A8%ED%99%98%EA%B2%BD-%EA%B0%9C%EC%84%A0%EC%97%90-950%EC%96%B5-%EC%9B%90-%ED%88%AC%EC%9E%85-56%EA%B0%9C-%EB%B3%91%EC%9B%90-%EC%84%A0%EC%A0%95/ar-AA271cJQ?ocid=BingNewsVerp"},
+        {"title": "의협회장 \"보건복지부 분리하고 보건의료 '의민정위' 설치해야\"", "importance": 27, "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%98%ED%98%91%ED%9A%8C%EC%9E%A5-%EB%B3%B4%EA%B1%B4%EB%B3%B5%EC%A7%80%EB%B6%80-%EB%B6%84%EB%A6%AC%ED%95%98%EA%B3%A0-%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C-%EC%9D%98%EB%AF%BC%EC%A0%95%EC%9C%84-%EC%84%A4%EC%B9%98%ED%95%B4%EC%95%BC/ar-AA26jykE?ocid=BingNewsVerp"},
+        {"title": "창고형 약국에 동네약국 생존 위협받는데… 손 놓은 정부", "importance": 58, "url": "https://www.fnnews.com/news/202606241832128555"}
+      ],
+      "summary_kr": "한국 의료계는 전방위적 변화를 겪고 있다. 건강보험공단이 사용량 급증 의약품 약가 조정 제도를 손질, R&D 투자 제약사에는 약가인하 30% 감면 혜택을 주고 국산 신약에는 환급계약을 확대한다. 병원협회는 의료사고배상공제조합 설립을 추진 중이며, 복지부는 전공의 수련환경 혁신에 950억 원을 투입해 56개 병원을 선정했다. 반면 의사협회는 보건복지부 분리와 대통령실 보건의료수석 신설을 요구하고 있고, 창고형 약국 확산에 대한 정부의 무대응이 동네약국의 위기를 심화시키고 있다. 수가 개편안(CT 보상 축소·도수치료 관리급여 전환)을 둘러싼 의료계 반발도 지속되는 중이다.",
+      "summary_en": "South Korea's healthcare sector is undergoing multifaceted reforms. NHIS is restructuring drug pricing adjustment for high-usage drugs, offering 30% reduction relief for R&D-investing companies and expanding rebate contracts for domestic new drugs. The hospital association is pushing for a medical accident compensation mutual aid association. The Ministry of Health plans to invest 95 billion won in resident training environment innovation across 56 hospitals. Meanwhile, the Korean Medical Association demands separating the Ministry of Health and Welfare, and regulatory inaction on warehouse-style pharmacies threatens community pharmacy viability."
+    },
+    {
+      "topic": "글로벌 바이오시밀러·특허·약가 규제 역학 — FDA 규제 간소화 vs 특허청 장벽",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 10,
+      "avg_importance": 49,
+      "key_articles": [
+        {"title": "FDA’s plan to boost biosimilar drugs could stall at the patent office", "importance": 61, "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"},
+        {"title": "FDA Aims to Streamline Biosimilar Drug Development", "importance": 47, "url": "https://www.medscape.com/viewarticle/fda-aims-streamline-biosimilar-drug-development-2025a1000whe"},
+        {"title": "US to investigate Germany's proposed drug spending reforms", "importance": 56, "url": "https://www.fiercepharma.com/pharma/us-investigate-germanys-proposed-drug-spending-reforms"},
+        {"title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle", "importance": 67, "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"},
+        {"title": "UK signs off on US pharma deal, ensuring tariff reprieve as Britain aims to reattract investments", "importance": 56, "url": "https://www.fiercepharma.com/pharma/uk-government-signs-us-uk-pharma-deal-ensuring-0-drug-tariffs-britain-looks-re-attract"},
+        {"title": "[블록버스터 특허만료③] \"우리도 나선다\"⋯전통 제약사도 바이오시밀러 전격 가세", "importance": 27, "url": "https://www.inews24.com/view/1981397"}
+      ],
+      "summary_kr": "FDA는 바이오시밀러 규제 간소화를 추진 중이나, 미국 특허청(USPTO)이 시밀러 승인을 가로막는 특허 장벽을 강화하고 있어 진통이 예상된다. 듀피젠트(32조 시장)의 2028년 특허 만료를 앞두고 종근당·대웅제약·차임바이오로직스 등이 바이오시밀러 개발에 전격 참여하고 있다. 미국은 독일의 약가 개혁 제도를 조사하고, 영국은 미국과 제약 관세 면제 협정을 체결했다. 중국에서는 화이자·이노벤트의 GLP-1 약물이 보험 등재 관문을 통과하는 등 글로벌 약가·특허 규제 지형이 급변 중이다.",
+      "summary_en": "The FDA is pushing to streamline biosimilar regulations, but the USPTO is simultaneously strengthening patent barriers that could block biosimilar approvals. Ahead of Dupixent's 2028 patent expiration (32 trillion won market), Korean companies including Chong Kun Dang, Daewoong, and Chimera Biologics are entering biosimilar development. The US is investigating Germany's drug spending reforms while the UK signed a tariff-free pharma deal with the US. In China, Pfizer and Innovent's GLP-1 drugs passed insurance hurdles, illustrating the rapidly shifting global pricing and patent landscape."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러/biosimilar", "kr_count": 1, "en_count": 4, "significance": "FDA 규제 간소화와 USPTO 특허 장벽 사이의 긴장 — 한국 기업들의 시밀러 진출 본격화와 연결"},
+    {"keyword": "약가/pricing", "kr_count": 4, "en_count": 8, "significance": "한국 약가제도 개편과 트럼프 MFN 정책이 동시 진행 — 글로벌 약가 압박의 확산"},
+    {"keyword": "특허/patent", "kr_count": 4, "en_count": 4, "significance": "블록버스터 특허 만료를 앞두고 한미 양국에서 시밀러·특허 회피 전략 고도화"},
+    {"keyword": "허가/approval", "kr_count": 4, "en_count": 5, "significance": "FDA와 MFDS 모두 신속허가·규제간소화 방향 — HLB, 셀트리온, 오토텔릭바이오 등 직접 영향"},
+    {"keyword": "임상/clinical trial", "kr_count": 10, "en_count": 3, "significance": "미국 임상 1상 간소화 정책이 셀트리온 등 한국 기업 신약개발에 직접적利好"}
+  ],
+  "notable_absences": [
+    "전통의학(한의학) 관련 기사 0건 — 지속적인 dead zone",
+    "중국어 간체 0건 — Bing 미지원으로 인한 구조적 공백",
+    "코로나19 백신 신규 개발/변이 관련 기사 부재 (과거 논란 재점화 기사만 있음)"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 승인 러시 지속 — 신규: 아동 겸상적혈구 유전자치료제 확대승인, GSK 요로감염 항생제",
+      "트럼프 약가 정책 — 최혜국대우 압박에 PhRMA 웹사이트 대응, CMS 법제화 움직임 추가",
+      "K-제약바이오 — 수출 100억 달러 돌파가 새로운 키 이슈로 부상, 셀트리온·삼성바이오 실적 호조",
+      "한국 의료개혁 — 전공의 수련환경 950억 투입 확정, 수가 개편 본격화"
+    ],
+    "changes": [
+      "약가 개편 후폭풍 심층보도 등장 — 연봉 줄여서라도 R&D 인력 이탈 가속화",
+      "GLP-1 비만약 시장 — '버블 효과' 분석 리포트 등장, 파이프라인 1위 비만약으로 교체(16년 만에 항암제 추월)",
+      "멕시코, 한국 식약처를 의약품 참조규제기관으로 공식 인정 — 8개국으로 확대"
+    ]
+  },
+  "connections": [
+    "FDA 바이오시밀러 규제 간소화 ↔ 한국 기업 듀피젠트·스텔라라 시밀러 개발 본격화 (종근당·대웅·동아에스티)",
+    "트럼프 MFN 약가 압박 ↔ 한국 약가인하 감면 제도 — 양국 모두 R&D 투자 유인 장치와 약가 통제 사이 균형 모색",
+    "BIO USA에서 확인된 K-바이오 위상 ↔ 의약품 수출 100억 달러 돌파 — CDMO 중심에서 신약개발·상업화로 진화 중",
+    "중국 GLP-1 약가·보험 등재 ↔ Pfizer·Innovent 글로벌 확장 — 韓 기업 비만약 시장 진출 전략에 시사점"
+  ],
+  "generated_at": "2026-07-05T07:30:00+09:00"
+}
