@@ -1,0 +1,210 @@
+{
+  "pipeline": "pharmascope-v2-aggregate",
+  "period": "weekly",
+  "label": "Week 27",
+  "folder": "2026-W26",
+  "start": "2026-06-29",
+  "end": "2026-07-05",
+  "total_articles": 2888,
+  "total_days": 7,
+  "dates_covered": [
+    "2026-06-29",
+    "2026-06-30",
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03",
+    "2026-07-04",
+    "2026-07-05"
+  ],
+  "korean": {
+    "total": 687,
+    "categories": {
+      "의약산업": 156,
+      "의약품": 114,
+      "의약관련정부기관": 89,
+      "의료정책·인력": 82,
+      "감염·보건": 72,
+      "의약정책": 64,
+      "의료현장": 59,
+      "의약단체": 31,
+      "전통의학": 11,
+      "약국·약사": 9
+    },
+    "top_keywords": [
+      [
+        "신약",
+        125
+      ],
+      [
+        "임상",
+        81
+      ],
+      [
+        "식약처",
+        60
+      ],
+      [
+        "허가",
+        59
+      ],
+      [
+        "FDA",
+        47
+      ],
+      [
+        "급여",
+        34
+      ],
+      [
+        "심사",
+        27
+      ],
+      [
+        "CDMO",
+        26
+      ],
+      [
+        "약가",
+        21
+      ],
+      [
+        "항암",
+        16
+      ],
+      [
+        "특허",
+        14
+      ],
+      [
+        "백신",
+        12
+      ],
+      [
+        "수출",
+        11
+      ],
+      [
+        "한약",
+        9
+      ],
+      [
+        "바이오시밀러",
+        7
+      ],
+      [
+        "GMP",
+        5
+      ],
+      [
+        "천연물",
+        4
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "생약",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 1044,
+    "categories": {
+      "Drugs & Therapies": 175,
+      "Pharma Industry": 175,
+      "Pharma Policy": 175,
+      "Pharma Associations": 175,
+      "Regulatory Agencies": 173,
+      "Traditional & Complementary Medicine": 171
+    },
+    "top_keywords": [
+      [
+        "FDA",
+        179
+      ],
+      [
+        "pricing",
+        65
+      ],
+      [
+        "GMP",
+        60
+      ],
+      [
+        "approval",
+        54
+      ],
+      [
+        "inspection",
+        53
+      ],
+      [
+        "manufacturing",
+        32
+      ],
+      [
+        "biosimilar",
+        30
+      ],
+      [
+        "patent",
+        28
+      ],
+      [
+        "clinical trial",
+        23
+      ],
+      [
+        "generic",
+        15
+      ],
+      [
+        "recall",
+        12
+      ],
+      [
+        "quality",
+        11
+      ],
+      [
+        "GLP-1",
+        9
+      ],
+      [
+        "obesity",
+        8
+      ],
+      [
+        "regulation",
+        3
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 1157,
+    "languages": {
+      "French / 프랑스어": 70,
+      "German / 독일어": 70,
+      "Spanish / 스페인어": 70,
+      "Italian / 이탈리아어": 70,
+      "Portuguese / 포르투갈어": 70,
+      "Dutch / 네덜란드어": 70,
+      "Polish / 폴란드어": 70,
+      "Turkish / 터키어": 70,
+      "Vietnamese / 베트남어": 70,
+      "Thai / 태국어": 70,
+      "Indonesian / 인도네시아어": 70,
+      "Swedish / 스웨덴어": 69,
+      "Japanese / 일본어": 69,
+      "Russian / 러시아어": 68,
+      "Hindi / 힌디어": 52,
+      "Chinese Traditional / 대만": 43,
+      "Arabic / 아랍어": 43,
+      "Hebrew / 히브리어": 28,
+      "Persian / 페르시아어": 15,
+      "Chinese Simplified / 중국어": 0
+    }
+  }
+}

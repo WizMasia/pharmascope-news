@@ -1,0 +1,620 @@
+{
+  "date": "2026-07-06",
+  "total": 401,
+  "version": 1,
+  "generated_at": "2026-07-06T06:33:18.261980+09:00",
+  "korean": {
+    "total": 88,
+    "categories": {
+      "의약품": 14,
+      "의약산업": 25,
+      "의약정책": 5,
+      "의약단체": 6,
+      "의약관련정부기관": 5,
+      "의료현장": 10,
+      "약국·약사": 3,
+      "의료정책·인력": 11,
+      "전통의학": 0,
+      "감염·보건": 9
+    },
+    "top_articles": [
+      {
+        "title": "복합제 기등재 약가인하 후속 논의...16% 일괄하락 기로",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:33분+20 | 키워드+20 | 순위:26위+2",
+        "snippet": "기등재 약가인하를 앞두고 복합제에 대한 후속 실무협의가 예정된 가운데, 인하 산식에 따라 복합제 약가도 일괄하락 기로에 놓였다. 만약 복합제 현 최고가를 53.55% 기준으로 놓고, 45% 산정률로 인하하는 방식으로 ...",
+        "time": "33분",
+        "url": "https://www.dailypharm.com/user/news/340129"
+      },
+      {
+        "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
+        "source": "연합뉴스",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:54위+2",
+        "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+      },
+      {
+        "title": "'전공의 수련환경 혁신 지원' 참여 병원 56곳에 953억 투입",
+        "source": "연합뉴스",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:57위+2",
+        "snippet": "(서울=연합뉴스) 성서호 기자 = 보건복지부는 2026년도 전공의 수련환경 혁신지원 사업 참여 수련병원 56곳을 선정했다고 1일 밝혔다. 이 사업은 인턴 및 8개 ...",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260701131000530"
+      },
+      {
+        "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+        "source": "연합뉴스",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+20 | 순위:27위+2",
+        "snippet": "(서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 덜어주고, 국산 신약은 환급 계약을 확대해 수출경쟁력을 지원한다.",
+        "time": "",
+        "url": "https://www.yna.co.kr/view/AKR20260626135200530"
+      },
+      {
+        "title": "'美정부 임상시험계획&#183;1상 절차 간소화'...셀트리온, 신약 20종 가동력 커진다",
+        "source": "이데일리",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:이데일리+28 | 최신:+5 | 키워드+20 | 순위:80위+2",
+        "snippet": "이 기사는 2026년06월29일 08시10분에 팜이데일리 프리미엄 콘텐츠로 선공개 되었습니다. 셀트리온(068270)이 미국 보건당국의 전격적인 임상개발 혁신 정책에 힘입어 글로벌 신약개발 행보에 한층 속도를 낼 전망이다.",
+        "time": "",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03079926645486640"
+      },
+      {
+        "title": "[약가개편 후폭풍]②'발등에 불' 제약사들, '품목 다이어트' 골머리",
+        "source": "아시아경제",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:아시아경제+28 | 최신:+5 | 키워드+20 | 순위:166위+2",
+        "snippet": "편집자주정부의 약가 개편안이 발표된 이후 제약업계의 혼란이 가중되고 있다. 제네릭 의존도가 높은 중소&#183;중견 제약사들 사이에선 연구개발(R&amp;D) 프로젝트를 중단하거나 투자 계획을 전면 재검토하고, 이에 따라 관련 인력이 ...",
+        "time": "",
+        "url": "https://www.asiae.co.kr/article/2026061816375008832"
+      },
+      {
+        "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
+        "source": "Financial News",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:178위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606230701592618"
+      },
+      {
+        "title": "커프리나 홀딩스 (CAYMAN), FDA 매독제거 유충제품 승인 획득",
+        "source": "Maeil Business Newspaper",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Maeil Business Newspaper+28 | 최신:+5 | 키워드+20 | 순위:29위+2",
+        "snippet": "미국 시장 최초 Lucilia cuprina 유충제품 FDA 승인 획득 두 유충 종 미국 상업권 보유 유일 기업으로 경쟁력 강화 사우디&#183;홍콩&#183;중국 등 글로벌 시장 확대 기대 FDA 510(k) 승인은 미국 의료기기 시장 진입을 위한 핵심 관문으로, 이번 승인으로 커프리나는 만성 상처 치료 시장에서 독점적 지위를 확보했습니다. 두 가지 유충",
+        "time": "",
+        "url": "https://www.mk.co.kr/news/stock/12074901"
+      },
+      {
+        "title": "임호선, '방역업무 집중' 가축전염병 예방법 개정안 발의",
+        "source": "Financial News",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:53위+2",
+        "snippet": "(증평=뉴스1) 이성기 기자 = 반복적인 현장 방역업무에 따른 가축방역관의 부담을 덜어줘 수의 전문성이 필요한 핵심 방역업무에 집중하도록 하는 법안이 추진된다.국회 더불어민주당 임호선 의원(충북 증평&#183;진천&#183;음성)은 30일 ...",
+        "time": "",
+        "url": "https://www.fnnews.com/news/202606301518514188"
+      },
+      {
+        "title": "서스틴베스트 ESG 평가 베스트 제약사는",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:33분+20 | 키워드+20 | 순위:151위+2",
+        "snippet": "[의학신문&#183;일간보사=김정일 기자] 서스틴베스트 ESG 평가 베스트 기업에 제약사 및 지주사 11개사가 이름을 올렸다. 서스틴베스트는 최근 유가증권시장 상장 기업 741개, 코스닥 상장 기업 329개, 비상장 기업 235개 등 ...",
+        "time": "33분",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007673"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        15
+      ],
+      [
+        "임상",
+        9
+      ],
+      [
+        "FDA",
+        6
+      ],
+      [
+        "허가",
+        5
+      ],
+      [
+        "약가",
+        5
+      ],
+      [
+        "식약처",
+        4
+      ],
+      [
+        "CDMO",
+        4
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "연합뉴스",
+        7
+      ],
+      [
+        "파이낸셜뉴스",
+        6
+      ],
+      [
+        "Yonhap News Agency",
+        5
+      ],
+      [
+        "한국경제",
+        4
+      ],
+      [
+        "서울경제 on MSN",
+        4
+      ],
+      [
+        "이투데이 on MSN",
+        4
+      ],
+      [
+        "뉴스토마토",
+        3
+      ],
+      [
+        "아시아투데이 on MSN",
+        3
+      ],
+      [
+        "이투데이",
+        3
+      ],
+      [
+        "아시아경제",
+        3
+      ],
+      [
+        "Financial News",
+        3
+      ],
+      [
+        "한국경제 on MSN",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "아이뉴스24",
+        2
+      ],
+      [
+        "Maeil Business Newspaper",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 150,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 25
+    },
+    "top_articles": [
+      {
+        "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:111위+2",
+        "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated urinary tract infections, the regulator said on Wednesday, giving patients a ",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:113위+2",
+        "snippet": "By Deena Beasley June 25 (Reuters) - Launch prices for prescription medicines approved by U.S. regulators in 2025 fell from ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vOjQ?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:110위+2",
+        "snippet": "By Michael Erman and Deena Beasley NEW YORK/SAN DIEGO, June 30 (Reuters) - President Donald Trump has promised to make U.S.",
+        "time": "",
+        "url": "https://www.msn.com/en-us/news/other/trumps-push-for-the-worlds-lowest-drug-prices-hits-snag-with-mid-sized-companies/ar-AA26Txwo?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle",
+        "source": "Reuters on MSN",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:118위+2",
+        "snippet": "By Andrew Silver SHANGHAI, June 29 (Reuters) - GLP-1 drugs from Pfizer and Innovent Biologics have passed a preliminary ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"
+      },
+      {
+        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:137위+2",
+        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
+        "time": "2y",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
+      },
+      {
+        "title": "FDA-approved drug may finally help immunotherapy defeat rare liver cancer",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:10d+5 | 키워드+30 | 순위:127위+2",
+        "snippet": "Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping ...",
+        "time": "10d",
+        "url": "https://www.sciencedaily.com/releases/2026/06/260623014014.htm"
+      },
+      {
+        "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+        "source": "Science Daily",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Science Daily+28 | 최신:3y+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+        "time": "3y",
+        "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+      },
+      {
+        "title": "European patient access to new drugs worsens, pharma lobby says",
+        "source": "Reuters on MSN",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+25 | 순위:133위+2",
+        "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
+        "time": "",
+        "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
+        "source": "Reuters",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:4mon+5 | 키워드+25 | 순위:147위+2",
+        "snippet": "SAN FRANCISCO, Feb 11 (Reuters) - Some pharmaceutical companies not targeted by President Donald Trump for agreements to lower their U.S. drug pricing are looking to craft their own deals in an ...",
+        "time": "4mon",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+      },
+      {
+        "title": "A PureTech startup banks $180M for a new IPF drug",
+        "source": "BioPharma Dive",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:BioPharma Dive+24 | 최신:3d+5 | 키워드+30 | 순위:117위+2",
+        "snippet": "Celea, backed by investors such as RA Capital and Leaps by Bayer, is making what it says is an improved version of Roche's ...",
+        "time": "3d",
+        "url": "https://www.biopharmadive.com/news/celea-puretech-idiopathic-pulmonary-fibrosis-raise/824330/"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        25
+      ],
+      [
+        "GMP",
+        9
+      ],
+      [
+        "pricing",
+        9
+      ],
+      [
+        "inspection",
+        7
+      ],
+      [
+        "approval",
+        6
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "biosimilar",
+        4
+      ],
+      [
+        "clinical trial",
+        4
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "FiercePharma",
+        10
+      ],
+      [
+        "JD Supra",
+        9
+      ],
+      [
+        "Reuters on MSN",
+        6
+      ],
+      [
+        "RAPS",
+        6
+      ],
+      [
+        "MSN",
+        4
+      ],
+      [
+        "News Medical",
+        4
+      ],
+      [
+        "Yahoo Finance",
+        4
+      ],
+      [
+        "Medical Xpress",
+        3
+      ],
+      [
+        "EurekAlert!",
+        3
+      ],
+      [
+        "Forbes",
+        3
+      ],
+      [
+        "The American Journal of Managed Care",
+        3
+      ],
+      [
+        "CNN",
+        3
+      ],
+      [
+        "Science Daily",
+        2
+      ],
+      [
+        "Nature",
+        2
+      ],
+      [
+        "Morningstar",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 163,
+    "languages": {
+      "French / 프랑스어": 10,
+      "German / 독일어": 10,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 10,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 10,
+      "Swedish / 스웨덴어": 10,
+      "Polish / 폴란드어": 10,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 10,
+      "Chinese Simplified / 중국어": 0,
+      "Chinese Traditional / 대만": 5,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 7,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 1
+    },
+    "top_articles": [
+      {
+        "title": "Khẩn: Ni&#234;m phong l&#244; thuốc cao Actis&#244; của 1 c&#244;ng ty dược phẩm nổi tiếng",
+        "source": "Kenh14.vn",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Kenh14.vn+28 | 최신:4 ngày+5 | 키워드+30 | 순위:30위+2",
+        "snippet": "Một l&#244; thuốc cao do C&#244;ng ty Cổ phần Dược L&#226;m Đồng (Ladophar) sản xuất vừa bị ph&#225;t hiện kh&#244;ng đạt y&#234;u cầu chất lượng về chỉ ...",
+        "time": "4 ngày",
+        "url": "https://kenh14.vn/khan-niem-phong-lo-thuoc-cao-actiso-cua-1-cong-ty-duoc-pham-noi-tieng-21526070112043611.chn"
+      },
+      {
+        "title": "چالش‌های صنعت داروسازی کشور؛ ماجرای ۹۰۰ میلیون دلار ارز دارو",
+        "source": "Mehr News Agency",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Mehr News Agency+10 | 최신:22 روز+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "به گزارش خبرنگار مهر، رئیس و اعضای هیئت مدیره سندیکای صاحبان صنایع داروهای انسانی ایران، روز چهارشنبه ۱۳ خرداد ۱۴۰۵، در نشست خبری که در محل ...",
+        "time": "22 روز",
+        "url": "https://www.mehrnews.com/news/6848711/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B9%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88"
+      },
+      {
+        "title": "米ＦＤＡ、製薬7社の新工場を審査迅速化プログラムに選定",
+        "source": "Reuters Japan on MSN",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters Japan on MSN+30 | 최신:+5 | 키워드+10 | 순위:13위+10",
+        "snippet": "[２９日 ロイター] - ...",
+        "time": "",
+        "url": "https://www.msn.com/ja-jp/money/other/%E7%B1%B3%EF%BD%86%EF%BD%84%EF%BD%81-%E8%A3%BD%E8%96%AC7%E7%A4%BE%E3%81%AE%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%AF%A9%E6%9F%BB%E8%BF%85%E9%80%9F%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E9%81%B8%E5%AE%9A/ar-AA26PRVm?ocid=BingNewsVerp"
+      },
+      {
+        "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+        "source": "聯合新聞網",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:聯合新聞網+10 | 최신:1 年+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+        "time": "1 年",
+        "url": "https://udn.com/news/story/7270/8851185"
+      },
+      {
+        "title": "中醫助抗癌路更平穩！針灸、中藥減輕化療副作用 舒緩7成癌性疲憊",
+        "source": "中時新聞網",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:中時新聞網+10 | 최신:2 個月+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "抗癌過程是一場長期抗戰，彰化基督教醫院中醫部主治醫師呂平安強調，中醫並非取代現代醫學，而是透過「扶正」、「去邪」，在不同治療階段提供支持，提升生活品質，藉由針灸或中藥調理 ...",
+        "time": "2 個月",
+        "url": "https://www.chinatimes.com/realtimenews/20260502001267-260418"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "PR TIMES",
+        3
+      ],
+      [
+        "VietNamNet",
+        3
+      ],
+      [
+        "Le Figaro",
+        2
+      ],
+      [
+        "Pressemitteilungen",
+        2
+      ],
+      [
+        "dw",
+        2
+      ],
+      [
+        "Ärzteblatt",
+        2
+      ],
+      [
+        "ZEIT",
+        2
+      ],
+      [
+        "Interempresas",
+        2
+      ],
+      [
+        "Quotidianosanità.it",
+        2
+      ],
+      [
+        "The Conversation",
+        2
+      ],
+      [
+        "Waterkant",
+        2
+      ],
+      [
+        "Yle",
+        2
+      ],
+      [
+        "Dagens PS",
+        2
+      ],
+      [
+        "Rynek Aptek",
+        2
+      ],
+      [
+        "BLOOMBERG HT",
+        2
+      ]
+    ]
+  }
+}
