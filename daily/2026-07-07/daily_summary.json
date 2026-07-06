@@ -1,0 +1,536 @@
+{
+  "date": "2026-07-07",
+  "total": 394,
+  "version": 1,
+  "generated_at": "2026-07-07T06:30:58.351042+09:00",
+  "korean": {
+    "total": 173,
+    "categories": {
+      "의약품": 19,
+      "의약산업": 21,
+      "의약정책": 16,
+      "의약단체": 21,
+      "의약관련정부기관": 13,
+      "의료현장": 25,
+      "약국·약사": 8,
+      "의료정책·인력": 25,
+      "전통의학": 4,
+      "감염·보건": 21
+    },
+    "top_articles": [
+      {
+        "title": "대한약사회, 포털 약국정보 정비 착수…추석 전 1차 완료 추진",
+        "source": "약업닷컴",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:27분+20 | 키워드+20 | 순위:123위+2",
+        "snippet": "대한약사회가 국민의 약국 이용 편의를 높이기 위해 포털사이트에 표시되는 약국 영업정보와 전문서비스 정보를 최신화하는 작업에 본격 착수한다. 이달부터 회원 대상 정보 점검 캠페인을 시작하고, 추석 전까지 1차 정비를 ...",
+        "published_time": "27분",
+        "modified_time": "",
+        "time": "27분",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=329475"
+      },
+      {
+        "title": "[단독]공중보건장학 올해도 참담…12명 모집에 선발은 3명 뿐",
+        "source": "뉴시스",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:32분+20 | 키워드+10 | 순위:124위+2",
+        "snippet": "[서울=뉴시스] 구무서 기자 = 지역공공의료기관에 복무할 공중보건장학제도가 올해도 학생 선발이 미진한 것으로 나타났다. 7일 국회 보건복지위원회 소속 서미화 더불어민주당 의원이 보건복지부로부터 제출받은 자료에 따르면 올해 ...",
+        "published_time": "32분",
+        "modified_time": "",
+        "time": "32분",
+        "url": "https://www.newsis.com/view/NISX20260706_0003697843"
+      },
+      {
+        "title": "복합제 기등재 약가인하 후속 논의...16% 일괄하락 기로",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+20 | 순위:95위+2",
+        "snippet": "기등재 약가인하를 앞두고 복합제에 대한 후속 실무협의가 예정된 가운데, 인하 산식에 따라 복합제 약가도 일괄하락 기로에 놓였다. 만약 복합제 현 최고가를 53.55% 기준으로 놓고, 45% 산정률로 인하하는 방식으로 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.dailypharm.com/user/news/340129"
+      },
+      {
+        "title": "셀트리온, 코센틱스 시밀러 허가 추진…신속심사 혜택 받나",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:31분+20 | 키워드+10 | 순위:78위+2",
+        "snippet": "셀트리온이 글로벌 매출 10조원 규모의 자가면역질환 치료제 ‘코센틱스(성분명 세쿠키누맙)’ 바이오시밀러 시장을 선점하기 위해 초고속 상업화 레이스에 돌입했다. 국내 식품의약품안전처의 규제 혁신에 따른 신속심사 혜택과 공격적인 ...",
+        "published_time": "31분",
+        "modified_time": "",
+        "time": "31분",
+        "url": "https://www.dailypharm.com/user/news/340166"
+      },
+      {
+        "title": "약가인하 '한파' 앞두고 국내제약 조직정비 바람 분다",
+        "source": "메디칼업저버",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디칼업저버+10 | 최신:28분+20 | 키워드+20 | 순위:93위+2",
+        "snippet": "[메디칼업저버 문윤희 기자] 정부의 약가인하 개편안 발표 이후 우려됐던 제약업계 구조조정이 현실화되고 있다. 지난 4월 LG화학이 조직 개편에 나선 데 이어 하반기 광동제약과 종근당까지 조직 개편과 인력 조정에 나서며 위기 ...",
+        "published_time": "28분",
+        "modified_time": "",
+        "time": "28분",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=412387"
+      },
+      {
+        "title": "김좌진 마더스제약 대표의 핵심 진용…IPO 조직 경쟁력 완성",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:31분+20 | 키워드+5 | 순위:125위+2",
+        "snippet": "마더스제약이 코스닥 상장을 앞두고 김좌진(64) 대표를 중심으로 핵심 조직을 완성해가고 있다. 재무와 생산, 품질, 마케팅, 연구개발(R&amp;D) 등 각 분야에 경험 많은 전문가를 배치하며 상장 이후 성장을 위한 조직 기반을 ...",
+        "published_time": "31분",
+        "modified_time": "",
+        "time": "31분",
+        "url": "https://www.dailypharm.com/user/news/340170"
+      },
+      {
+        "title": "휴베이스, '약국 퀀텀점프' 앵콜 개최…약국 개국&#183;양수도 전략 총망라",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:12시간+15 | 키워드+10 | 순위:48위+2",
+        "snippet": "&#169;휴베이스약국체인 휴베이스(대표 김현익)가 지난 6월 개최한 '약국 퀀텀점프' 컨퍼런스에 대한 높은 관심과 참가자들의 재개최 요청에 힘입어 오는 7월 26일 서울 서초구 휴베이스 본사 3층에서 '휴베이스 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=329467"
+      },
+      {
+        "title": "글로벌 바이오의약품 규제, ‘심사기관 경쟁’ 시대 개막",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:13시간+10 | 키워드+20 | 순위:77위+2",
+        "snippet": "[헬스코리아뉴스 / 임도이] 세포&#183;유전자치료제(CGT)를 비롯 혁신 신약 개발이 본격적인 성장 궤도에 올라서면서, 각국의 의약품 규제기관이 산업 경쟁력을 좌우하는 핵심 정책 변수로 부상하고 있다.특히 최근 중국이 ...",
+        "published_time": "13시간",
+        "modified_time": "",
+        "time": "13시간",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=350283"
+      },
+      {
+        "title": "한국산업약사회, 제12회 PYLA 개막…차세대 제약바이오 인재 양성 본격화",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:16시간+10 | 키워드+10 | 순위:122위+2",
+        "snippet": "&#169;한국산업약사회한국산업약사회가 제약&#183;바이오 산업을 이끌 차세대 약사 인재 양성을 위한 대표 교육 프로그램인 'PYLA(Pharm Young Leader Academy)'를 본격적으로 시작했다. 특히 올해부터 주최가 ...",
+        "published_time": "16시간",
+        "modified_time": "",
+        "time": "16시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=329452"
+      },
+      {
+        "title": "약사 전문성으로 K-뷰티 키운다…한국약국화장품학회 출범 시동",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:125위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국약국화장품학회 발기인 대회. 사진=조해진 기자 [메디파나뉴스 = 조해진 기자] 한국약국화장품학회(KSPC)가 '약사의 전문성을 바탕으로 K-뷰티를 선도한다'는 슬로건을 걸고 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=414099"
+      }
+    ],
+    "top_keywords": [
+      [
+        "약가",
+        10
+      ],
+      [
+        "임상",
+        10
+      ],
+      [
+        "급여",
+        8
+      ],
+      [
+        "신약",
+        7
+      ],
+      [
+        "심사",
+        6
+      ],
+      [
+        "FDA",
+        6
+      ],
+      [
+        "R&D",
+        5
+      ],
+      [
+        "한약",
+        4
+      ],
+      [
+        "백신",
+        4
+      ],
+      [
+        "허가",
+        2
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "특허",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "메디칼업저버",
+        2
+      ],
+      [
+        "코메디닷컴",
+        1
+      ],
+      [
+        "지디넷코리아 on MSN",
+        1
+      ],
+      [
+        "메디컬투데이 on MSN",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "의학신문",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "강원도민일보",
+        1
+      ],
+      [
+        "약사공론",
+        1
+      ],
+      [
+        "한의신문",
+        1
+      ],
+      [
+        "제주의소리",
+        1
+      ],
+      [
+        "뉴시스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 128,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 3
+    },
+    "top_articles": [
+      {
+        "title": "CSPC Pharmaceutical Group (SEHK:1093) Expands AstraZeneca Ties, Is The Upside Already Priced In? - simplywall.st",
+        "source": "",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:+28 | 최신:Mon, 06 Jul 2026 16:22:44 GMT+5 | 키워드+30 | 순위:204위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTnctOV85eFo2b0MweFZMN3hmVUtFY3ZkQ0tfTE9pX1R0Y20tamxLOHAzamUyX2RKSFExR1ptWVE3ZlZ3N2xBQXBqdzYzdm1TWXpjTVNTLXp5Mm1QTXV6T0dYWFNEVTAzV0dIWnNaZn",
+        "published_time": "Mon, 06 Jul 2026 16:22:44 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 16:22:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTnctOV85eFo2b0MweFZMN3hmVUtFY3ZkQ0tfTE9pX1R0Y20tamxLOHAzamUyX2RKSFExR1ptWVE3ZlZ3N2xBQXBqdzYzdm1TWXpjTVNTLXp5Mm1QTXV6T0dYWFNEVTAzV0dIWnNaZnptT1JPeHMySk1NQ3dFNkFHN0Jra2p2LXVwZHB5TVpBVHY2bHJiRVVRbTE3MHJoX29kYTNJU2dHaXNybXhSc2xMZFlMQU9STXAxQk9HOWptTjY5SEI3SHJNenlkbUtOZ2NDQ190b1I4NkJudFZpQzFHZVRXd21ORER3akljTDQwMEdSWEg00gH6AUFVX3lxTE9PTkhCc1drcGVTM1BrN21pbWlYSEFuMEU2NkZ1OXp5QVVPaFRDN0twazM5SkNLaU02b0tsbXRmbzc2eVE0SVpLWHlZM3dvZzlvM3ZyTkNWekFPNEN0S1BaSXcta2hINXBGMU54eWZDUWVPa1pVdG5PUlk1Mk55SDNURmJKLWpNQ1BoNXBVMDJ6VEIwQWpCdDcxYjZsaU1zUVFfT2tSSDVsbGNhQ3pfWThIRXJnakNNSkhaNkk5andWRnN5MlB3QzRacFI1Wm5zeEllRnl6M2FqbmNkQmdLX3RfRjFsdUdOMmw4dVBZOTFWb1YzWUFXRnlHenc?oc=5"
+      },
+      {
+        "title": "CSPC Pharmaceutical Group (SEHK:1093) Expands AstraZeneca Ties, Is The Upside Already Priced In? - simplywall.st",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+28 | 최신:Mon, 06 Jul 2026 16:22:45 GMT+5 | 키워드+25 | 순위:396위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT05IQnNXa3BlUzNQazdtaW1pWEhBbjBFNjZGdTl6eUFVT2hUQzdLcGszOUpDS2lNNm9LbG10Zm83NnlRNElaS1h5WTN3b2c5bzN2ck5DVnpBTzRDdEtQWkl3LWtoSDVwRjFOeHlmQ1",
+        "published_time": "Mon, 06 Jul 2026 16:22:45 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 16:22:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT05IQnNXa3BlUzNQazdtaW1pWEhBbjBFNjZGdTl6eUFVT2hUQzdLcGszOUpDS2lNNm9LbG10Zm83NnlRNElaS1h5WTN3b2c5bzN2ck5DVnpBTzRDdEtQWkl3LWtoSDVwRjFOeHlmQ1FlT2taVXRuT1JZNTJOeUgzVEZiSi1qTUNQaDVwVTAyelRCMEFqQnQ3MWI2bGlNc1FRX09rUkg1bGxjYUN6X1k4SEVyZ2pDTUpIWjZJOWp3VkZzeTJQd0M0WnBSNVpuc3hJZUZ5ejNham5jZEJnS190X0YxbHVHTjJsOHVQWTkxVm9WM1lBV0Z5R3p30gH6AUFVX3lxTE9PTkhCc1drcGVTM1BrN21pbWlYSEFuMEU2NkZ1OXp5QVVPaFRDN0twazM5SkNLaU02b0tsbXRmbzc2eVE0SVpLWHlZM3dvZzlvM3ZyTkNWekFPNEN0S1BaSXcta2hINXBGMU54eWZDUWVPa1pVdG5PUlk1Mk55SDNURmJKLWpNQ1BoNXBVMDJ6VEIwQWpCdDcxYjZsaU1zUVFfT2tSSDVsbGNhQ3pfWThIRXJnakNNSkhaNkk5andWRnN5MlB3QzRacFI1Wm5zeEllRnl6M2FqbmNkQmdLX3RfRjFsdUdOMmw4dVBZOTFWb1YzWUFXRnlHenc?oc=5"
+      },
+      {
+        "title": "Sowa Rigpa: India’s Tibetan medicine students must know the language before they treat patients - Careers360",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 07:30:12 GMT+5 | 키워드+30 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTnlqNjlTOWx4QXNRY1JxVlNDSDZnd2FJVFlFZkJ2V21FMlNqQm9JRkVTU3VUTXRpaGF4UTY5WVlQUUg4VGRld2x4bWV4bzRYcC0tSWRnYVBYNmJPSzVTck5mMU5HTUFEOWFOU241a1",
+        "published_time": "Mon, 06 Jul 2026 07:30:12 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 07:30:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTnlqNjlTOWx4QXNRY1JxVlNDSDZnd2FJVFlFZkJ2V21FMlNqQm9JRkVTU3VUTXRpaGF4UTY5WVlQUUg4VGRld2x4bWV4bzRYcC0tSWRnYVBYNmJPSzVTck5mMU5HTUFEOWFOU241a1dpZ2Jjb1hLT3pfejdsUWVuZFhrZWJpTHctZDVuQ0lkUHlJdFlFUWRSbjNXUTBacDRTa3VvRWtBWFRMVUNpeEs2YlhXN1VfaURQV2Z0MVdFWkRfeElRaWNQY2VMV2Z1Qlc2MUZrUUJ1Q3BQUTJ2SHJsN0NFdk5QLUg20gHuAUFVX3lxTE9mcmdCNVpPZXFfSHRibnB6TGpqVFhhUkJsTXZKOWI1QW9FM1ppNzJMQjYwbXZaM3M3S2M5eHV2dUhKTGVrU2dCYTlMZFMtYUVQMlFJMEFUYzBwN3A3OGxPcHNJSTdZcUZZalJWY2Z1S1A5R3g0cTN3Z2h0SWo1MmhfbzU4emw4MHp4Rk1PQnZYZWNfQTk1OHdzQXBGUkdpSmh4QXBJRGlTSVlHYXc3TjV0aHdJTXZoaGhHZEVzeG11RlpqRHY4SW8yWmV0UEg5anl1WFllelpGOUVFODhyeGxMNmhYNVoxMU5HN0huWmc?oc=5"
+      },
+      {
+        "title": "Access to Care and Drug Prices: Recent Department of Health and Human Services Guidance - CancerNetwork",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 16:07:54 GMT+5 | 키워드+30 | 순위:286위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0RZMWR5RlVoTHlmdnVCRmFaVTNBeElFQkFwb2gtb1o3aDllb3p1WS1SVHlMLWNHZURibTg3UFJJb3pYU3JDb1pDNjhBQzl1Z3Q4eG5TcmZzWVJRbVhKSVVaMHUtTl9QQ1ZBZmRmdT",
+        "published_time": "Mon, 06 Jul 2026 16:07:54 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 16:07:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ0RZMWR5RlVoTHlmdnVCRmFaVTNBeElFQkFwb2gtb1o3aDllb3p1WS1SVHlMLWNHZURibTg3UFJJb3pYU3JDb1pDNjhBQzl1Z3Q4eG5TcmZzWVJRbVhKSVVaMHUtTl9QQ1ZBZmRmdThRcHJhcWtSVjV3OGF5XzM3QkxndUJ0OHYwZ2FTRzhFSkxoSjZNdUliYTZ0c28zMWh0bFRiZ1pDTzFVZE9WeUNQbWI5aXE?oc=5"
+      },
+      {
+        "title": "FDA approvals outrun staff cuts: 23 novel drugs mark the best first half in three years - Endpoints News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 17:27:00 GMT+5 | 키워드+30 | 순위:289위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVpDWmgxRVhtTG1kZ1lKaEVSVmFOMHZxVjRnZ05rZl9RdmpZclAtdGNMWTFSYllBbTdHOTEwM3U1RExvNFRseXBEWG5iSUEtbEFFdFVITzgxQzVKRkNqLVNaVWJJajk0QlpqQUdZVk",
+        "published_time": "Mon, 06 Jul 2026 17:27:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 17:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVpDWmgxRVhtTG1kZ1lKaEVSVmFOMHZxVjRnZ05rZl9RdmpZclAtdGNMWTFSYllBbTdHOTEwM3U1RExvNFRseXBEWG5iSUEtbEFFdFVITzgxQzVKRkNqLVNaVWJJajk0QlpqQUdZVk43Y3R2T014UzBMYmhEcS1XeUw0YkxySEk0bzdRckJrQjNpaFpQRWx3NQ?oc=5"
+      },
+      {
+        "title": "How a Swiss lab is finding new cures in old drugs - SWI swissinfo.ch",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 07:00:00 GMT+5 | 키워드+30 | 순위:296위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkY1aTQ2TkVIbnFGeVJnMjZaOXZYYi1heGQ0c3pGakFMSkg1dkR1TE5vYjh5VXFmSnpUeXZ5Rk1lbl8xUll2Y3U0VkxxamIwUW5FdUNKb29TMkI4TlZzZi01aTBFcWJoYl9Cc256Wl",
+        "published_time": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkY1aTQ2TkVIbnFGeVJnMjZaOXZYYi1heGQ0c3pGakFMSkg1dkR1TE5vYjh5VXFmSnpUeXZ5Rk1lbl8xUll2Y3U0VkxxamIwUW5FdUNKb29TMkI4TlZzZi01aTBFcWJoYl9Cc256WlhEVFVBbVk3TXkyTXRvZTNjQzFaWWlZeVhjQkZIT0NMUllHU0xjY2c1b2w3OHRTSmNrSWpsTw?oc=5"
+      },
+      {
+        "title": "MIRA Pharmaceuticals Reports Successful Formulation Results for SKNY-1, Its Oral Drug Candidate for Obesity and Addiction - ACCESS Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 13:06:03 GMT+5 | 키워드+30 | 순위:297위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR3RpYllyZHNnSEhWVFJLWURuNHM3Q19aREZZNnVMZEh5Q2s2WlV5Z201TVlXWnlmU012d3lNMHdXQm5LdUVxZURvNmkxR2tKU2tOZzFFNGxWNktzQjNiTzUxRVN4NXV2RkhBbER4Vj",
+        "published_time": "Mon, 06 Jul 2026 13:06:03 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 13:06:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR3RpYllyZHNnSEhWVFJLWURuNHM3Q19aREZZNnVMZEh5Q2s2WlV5Z201TVlXWnlmU012d3lNMHdXQm5LdUVxZURvNmkxR2tKU2tOZzFFNGxWNktzQjNiTzUxRVN4NXV2RkhBbER4Vjl2UjdfVWZlTzE0MHZROVVkQzFlNENHNjNiMG9hT1ZhekVDZENiZ1A3UlVWUGx0d1V3U3NTYmh0dFd2dE5PSE10b21rODhSd2tvS0s1ZXdudnEzX2Z5ZW5ia3lhY3llY2FHSWx4TkVNV1Q2QWRnS05tZGM3OA?oc=5"
+      },
+      {
+        "title": "Pharvaris Announces FDA Acceptance of New Drug Application for Deucrictibant IR for On-Demand Treatment of Hereditary Angioedema Attacks - The Manila Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 11:07:37 GMT+5 | 키워드+30 | 순위:299위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAJBVV95cUxQSXFmeU1rWXNyRVNvaEZRMzNibmFJZ01oTlJYOExYbzlyUnFVVlBoc0lXd1JpY0dTRUtPUzdtUDlSaThmV1FUUUpCeXowSTVhT2dtSnlQUEJmVHpJYkRUTWR5TTZOdk9QUDdjU2lKWn",
+        "published_time": "Mon, 06 Jul 2026 11:07:37 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 11:07:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQSXFmeU1rWXNyRVNvaEZRMzNibmFJZ01oTlJYOExYbzlyUnFVVlBoc0lXd1JpY0dTRUtPUzdtUDlSaThmV1FUUUpCeXowSTVhT2dtSnlQUEJmVHpJYkRUTWR5TTZOdk9QUDdjU2lKWnVVVHZ1cUZNVWh5Z3Y0VjMzM042X0YyQ2l4Yk90Z1hraURCemZzTUwtV2JobkloY3ZNal9iRlRoXzQxbW52TGl4MUFXNkU2WmlMWDFoWmhGRnRYbU1ITm1aNjZWZnpRVG5pQnBzeWtnNGhPSk5lSUdTeFZ4SFhhbEQ1ODY5eTV1eTFFay1DR3dVMFNtdVFhYWdwSHRKbXdjQTVycEdJRUtNRWpGTUh0SkJLamdYcl9sTzFydER3eHlmMTM3Z3RxTC1pYXhseNIBugJBVV95cUxNZmNtMS1IQjJrQzNmUlBzWXI0MUlKY2JTQmFSX0xaUVNUNHgzSzFDS0hTVG5OOVljalY4UmZUUWJRQ1BwSDRZczZCdUJjRmRFN0VBY3JQX3RfWXp0RmlqanA1UHdRYUVNYlNaMC1fT25hd0wxUmVOYUROOGpJaENqT3pvdnpTTHBXM0pxdzRTVjA2QzBkRVZWcWxiZk5PWV9IMlZjcXVJNUl4cVY2VkFld3lkNlMxd2cwTnJtcmF2M2pYVkZuZU9FUk5JSklSUWJZT1k1cXZweUtoSW1vUWJKY081NnZ6NGtkUl9ZZVAyMnlqUEx3N0w0cXFPM3B3NU56MHFaaS0talpfdmZEMHJwR3FidGxfWWlZSWJiaVJHY2IwVURPcU85VEQwNU8yVngyeEtiU1RNV24tQQ?oc=5"
+      },
+      {
+        "title": "Vertex strikes $10B deal for Crinetics and its endocrine drug portfolio - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 20:05:22 GMT+5 | 키워드+30 | 순위:302위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjlNUFgzdzNLZXg2dlllYnVNa0RsSjMweWFVUFZzWkxnblpzdmZuX3h5TWIyWTRLLUdlQ0lFQl9JM21FNkFsLVp5RHJianJUTVlyUkZKSmZVSVNaTjFJbTVHWHZFZ0ZRSG1WRm5vUl",
+        "published_time": "Mon, 06 Jul 2026 20:05:22 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 20:05:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjlNUFgzdzNLZXg2dlllYnVNa0RsSjMweWFVUFZzWkxnblpzdmZuX3h5TWIyWTRLLUdlQ0lFQl9JM21FNkFsLVp5RHJianJUTVlyUkZKSmZVSVNaTjFJbTVHWHZFZ0ZRSG1WRm5vUlFDeGt5U1MtTVNfMzdYakp4S21aOFdHbEVva2c?oc=5"
+      },
+      {
+        "title": "MIRA's obesity-and-addiction drug shows brain and liver exposure - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 13:00:00 GMT+5 | 키워드+30 | 순위:304위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmJLM3h3MjZFclFPd1VuSlBHVTRWYmdLeGNiN0otRzZNLVREazBpVHczVHgxVTV5aEdxOUVOZ1VRVTJOWUxoTndPX2Y1c3o2R0dhNkVyeUZjeXBQcXRZMWFtRGJsYW5wTlhBZll1TC",
+        "published_time": "Mon, 06 Jul 2026 13:00:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 13:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmJLM3h3MjZFclFPd1VuSlBHVTRWYmdLeGNiN0otRzZNLVREazBpVHczVHgxVTV5aEdxOUVOZ1VRVTJOWUxoTndPX2Y1c3o2R0dhNkVyeUZjeXBQcXRZMWFtRGJsYW5wTlhBZll1TC04VVROdUEyT21nejlHZU9UaE5tek5zZWloMWMxV0s3NnZOeEsyLVBxYXF2MGJrNDFneUhjdjE5aEFHTTVZYWs0U3doRmcwZ3IxZ1l4Q213WlI?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        16
+      ],
+      [
+        "manufacturing",
+        12
+      ],
+      [
+        "obesity",
+        4
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "approval",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 93,
+    "languages": {
+      "French / 프랑스어": 7,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 5,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 10,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 2,
+      "Arabic / 아랍어": 2,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "דונג ת'אפ מפתחת את תעשיית התרופות שלה, במטרה ליצור שרשרת ערך של צמחי מרפא ותרופות. - Vietnam.vn",
+        "source": "",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 11:50:41 GMT+5 | 키워드+30 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWxfWlBWMVdFZERvM29yMk5qNFRjdlo1UXBrN0VNZ3puX0REWThjUXBxZHV1QWlCZzRqRXFjNlpxX21VLVZRT3NaNjVzaFRabmF6WFNZelMwT1hBMUMtdjJjUjVOS3owMkw5cUc5RF",
+        "published_time": "Mon, 06 Jul 2026 11:50:41 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 11:50:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeWxfWlBWMVdFZERvM29yMk5qNFRjdlo1UXBrN0VNZ3puX0REWThjUXBxZHV1QWlCZzRqRXFjNlpxX21VLVZRT3NaNjVzaFRabmF6WFNZelMwT1hBMUMtdjJjUjVOS3owMkw5cUc5RF9CS1NZeHlCR2hJWFhhUUZuU0M4aEJBRUVlSGNmMno1SmlWZDNrTjd3N2VNUWhYMnVBWHNYdktBdDJwakFHTkYwSF93?oc=5"
+      },
+      {
+        "title": "Dong Thap utvecklar sin läkemedelsindustri med målet att skapa en värdekedja för medicinalväxter och läkemedel. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 11:52:32 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2l0YUJIamhqbmk3S1dNT3JGdEJDb3Q1dDNRN25BaTRXOS1weUJ0dWJ5azB0bW84MmxPLWdPb0hSRFM4WVhweWVYOE9TWENGNHk4TWtUSTdWN1JadklWMzZxbDJfSTFoX1piN0JmZG",
+        "published_time": "Mon, 06 Jul 2026 11:52:32 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 11:52:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM2l0YUJIamhqbmk3S1dNT3JGdEJDb3Q1dDNRN25BaTRXOS1weUJ0dWJ5azB0bW84MmxPLWdPb0hSRFM4WVhweWVYOE9TWENGNHk4TWtUSTdWN1JadklWMzZxbDJfSTFoX1piN0JmZG53T29IUXFqMEc0YUktMTB6ckU4TXBvOFVrUC1VNUZUeEhPdWozTmpFTWt5d05VSjcxdVlyNVdzWk12alFMRHZHV093?oc=5"
+      },
+      {
+        "title": "Dong Thap sedang mengembangkan industri farmasinya, dengan tujuan membentuk rantai nilai obat herbal dan farmasi. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 11:50:21 GMT+5 | 키워드+30 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnkzTDlLWFFZdlpRcnRGWHNjSDNOSl9oWlRNSFlqODhQTENscWNHWVRKM0pFaU1CamJpS0FuTHZaUW9zNjRjSG1tc1BxbzJaUGpLSk80UlFnWmNZWWVpYXFlc1U2Zm8tWEx3M3F5TE",
+        "published_time": "Mon, 06 Jul 2026 11:50:21 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 11:50:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnkzTDlLWFFZdlpRcnRGWHNjSDNOSl9oWlRNSFlqODhQTENscWNHWVRKM0pFaU1CamJpS0FuTHZaUW9zNjRjSG1tc1BxbzJaUGpLSk80UlFnWmNZWWVpYXFlc1U2Zm8tWEx3M3F5TEZTeFhFUnM0NjRIeWhRamF0RDh6ZjhZTmJHWllwZDQtbVVvQVFEb3R0RHZIUF9qSnM0WkxoMDVOWGFUcF9kbTJ4RGl3?oc=5"
+      },
+      {
+        "title": "डोंग थाप अपने दवा उद्योग का विकास कर रहा है, जिसका उद्देश्य औषधीय जड़ी-बूटी-औषधीय मूल्य श्रृंखला का निर्माण करना है। - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 11:54:35 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1Q2V3hlaExncHZCZVpvNHZrYy1WUldIcExZV3luSTRsWXB5NmlaaGJBVzloX0Fva1N0cFgwbmJGdlAzVnlyd0YtaTdIVURidmtFRnIwUDBmZXppQ0J6cVVLZkwzWmNYOGt5bS14cy",
+        "published_time": "Mon, 06 Jul 2026 11:54:35 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 11:54:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR1Q2V3hlaExncHZCZVpvNHZrYy1WUldIcExZV3luSTRsWXB5NmlaaGJBVzloX0Fva1N0cFgwbmJGdlAzVnlyd0YtaTdIVURidmtFRnIwUDBmZXppQ0J6cVVLZkwzWmNYOGt5bS14cy1PWGt0MV9GaFJtWGxNTDI0MnBRRkhhTG1lUTRUVElyc3RJc3BVNkVaMm9XMUx6WlRXMEJRdTJpdXlzWlFxOF9nSmpn?oc=5"
+      },
+      {
+        "title": "Industrie pharmaceutique : «La réforme du Code du médicament prépare le Maroc aux standards internationaux» - Finances News Hebdo",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 06 Jul 2026 19:02:00 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQQktVempGYm9FUWN4bExIR012dlhoSk05R2xtcWxQRlRtV0VraTJZS3Z1WjFTUGJGa0E5UTNIR2E0bG9WVnF4ZXNsWFM2cGRwTXRLRU9oQnd3a2ZSRExNNzZCX1NZSndNdXFVem05ZF",
+        "published_time": "Mon, 06 Jul 2026 19:02:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 06 Jul 2026 19:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQktVempGYm9FUWN4bExIR012dlhoSk05R2xtcWxQRlRtV0VraTJZS3Z1WjFTUGJGa0E5UTNIR2E0bG9WVnF4ZXNsWFM2cGRwTXRLRU9oQnd3a2ZSRExNNzZCX1NZSndNdXFVem05ZFZsYmw5cmJ6VHF5MVVySmt0TXRFVG10WFFodzBsZ3FnamxhZ2lJWnVMRkRvdkZvUVBSeDAxSzV3?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

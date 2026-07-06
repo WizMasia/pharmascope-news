@@ -1,0 +1,273 @@
+{
+  "date": "2026-07-07",
+  "total_articles": 394,
+  "language_breakdown": {
+    "korean": {
+      "total": 173,
+      "categories": {
+        "의약품": 19,
+        "의약산업": 21,
+        "의약정책": 16,
+        "의약단체": 21,
+        "의약관련정부기관": 13,
+        "의료현장": 25,
+        "약국·약사": 8,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 21
+      }
+    },
+    "english": {
+      "total": 128,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 93,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 2,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "약가",
+      "count": 10
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "급여",
+      "count": 8
+    },
+    {
+      "keyword": "신약",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 6
+    },
+    {
+      "keyword": "R&D",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "식약처",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    },
+    {
+      "keyword": "특허",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 16
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 12
+    },
+    {
+      "keyword": "obesity",
+      "count": 4
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 3
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 2
+    },
+    {
+      "source": "코메디닷컴",
+      "count": 1
+    },
+    {
+      "source": "지디넷코리아 on MSN",
+      "count": 1
+    },
+    {
+      "source": "메디컬투데이 on MSN",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "의학신문",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 1
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "약가·급여 재편 압박 — 복합제 인하, R&D 감면, 필수 항암제 품절",
+    "식약처·GMP·규제과학 강화 — 심사원 관리, 예산 확대, 허가 속도전",
+    "국산 신약·희귀의약품·임상 진척 — ODD 확대와 파이프라인 전진",
+    "전통의학 국제화 — 한의학 견학, 해외 연수, 통합치료 확산"
+  ],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "대한약사회, 포털 약국정보 정비 착수…추석 전 1차 완료 추진",
+      "source": "약업닷컴",
+      "importance": 66,
+      "snippet": "대한약사회가 국민의 약국 이용 편의를 높이기 위해 포털사이트에 표시되는 약국 영업정보와 전문서비스 정보를 최신화하는 작업에 본격 착수한다. 이달부터 회원 대상 정보 점검 캠페인을 시작하고, 추석 전까지 1차 정비를 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=329475"
+    },
+    {
+      "title": "[단독]공중보건장학 올해도 참담…12명 모집에 선발은 3명 뿐",
+      "source": "뉴시스",
+      "importance": 60,
+      "snippet": "[서울=뉴시스] 구무서 기자 = 지역공공의료기관에 복무할 공중보건장학제도가 올해도 학생 선발이 미진한 것으로 나타났다. 7일 국회 보건복지위원회 소속 서미화 더불어민주당 의원이 보건복지부로부터 제출받은 자료에 따르면 올해 ...",
+      "url": "https://www.newsis.com/view/NISX20260706_0003697843"
+    },
+    {
+      "title": "셀트리온, 코센틱스 시밀러 허가 추진…신속심사 혜택 받나",
+      "source": "데일리팜",
+      "importance": 56,
+      "snippet": "셀트리온이 글로벌 매출 10조원 규모의 자가면역질환 치료제 ‘코센틱스(성분명 세쿠키누맙)’ 바이오시밀러 시장을 선점하기 위해 초고속 상업화 레이스에 돌입했다. 국내 식품의약품안전처의 규제 혁신에 따른 신속심사 혜택과 공격적인 ...",
+      "url": "https://www.dailypharm.com/user/news/340166"
+    },
+    {
+      "title": "약가인하 '한파' 앞두고 국내제약 조직정비 바람 분다",
+      "source": "메디칼업저버",
+      "importance": 52,
+      "snippet": "[메디칼업저버 문윤희 기자] 정부의 약가인하 개편안 발표 이후 우려됐던 제약업계 구조조정이 현실화되고 있다. 지난 4월 LG화학이 조직 개편에 나선 데 이어 하반기 광동제약과 종근당까지 조직 개편과 인력 조정에 나서며 위기 ...",
+      "url": "https://www.monews.co.kr/news/articleView.html?idxno=412387"
+    },
+    {
+      "title": "김좌진 마더스제약 대표의 핵심 진용…IPO 조직 경쟁력 완성",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "마더스제약이 코스닥 상장을 앞두고 김좌진(64) 대표를 중심으로 핵심 조직을 완성해가고 있다. 재무와 생산, 품질, 마케팅, 연구개발(R&amp;D) 등 각 분야에 경험 많은 전문가를 배치하며 상장 이후 성장을 위한 조직 기반을 ...",
+      "url": "https://www.dailypharm.com/user/news/340170"
+    },
+    {
+      "title": "이식 수혜자 백신 예방질환 부담 여전",
+      "source": "메디칼업저버",
+      "importance": 37,
+      "snippet": "[메디칼업저버 양영구 기자] 장기 이식 수혜자에서 백신으로 예방 가능한 감염질환 부담이 여전히 크다는 국내 분석 결과가 나왔다. 특히 침습성 폐렴구균 발생률은 이식 수혜자가 일반인 대비 약 20배 높게 나타나면서 이식 전후로 ...",
+      "url": "https://www.monews.co.kr/news/articleView.html?idxno=412379"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 2
+    }
+  ]
+}
