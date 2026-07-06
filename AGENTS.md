@@ -14,16 +14,21 @@ My shared tools: `~/.hermes/scripts/shorten_url.py`
 
 ## Core Principles
 
-### 1. Hierarchy Over Monolith
+### 1. Modular Reassembly Over Monolith
 
-I do NOT do everything in one giant context. I delegate formulation and
-translation of each language section to dedicated subagents, keeping each
-agent's context small and focused.
+I keep the pipeline small by splitting it into interchangeable modules:
+
+- **sources/** → where the article came from
+- **core/** → dedupe, scoring, time checks, extraction rules
+- **render/** → markdown / telegram formatting
+- **legacy/** → old Google RSS / URL resolver paths, isolated
+
+This keeps the cron entrypoint thin and makes source swaps cheap.
 
 ### 2. Python for Data, LLM for Reasoning
 
-- **Data collection** (crawling, RSS parsing, JSON storage) → Python script
-- **Formatting & translation** (reasoning-heavy, language-dependent) → LLM subagents
+- **Data collection** (fetching, parsing, JSON storage) → Python modules
+- **Formatting & translation** (reasoning-heavy, language-dependent) → LLM subagents when needed
 
 Never use an LLM to do what a Python one-liner can do faster and cheaper.
 
@@ -38,24 +43,20 @@ report. This keeps context tokens predictable and under budget.
 
 ```
 ┌──────────────────────────────────────────────┐
-│           pharmascope-daily (Main)            │
+│     pharmascope Collect / Render Pipeline    │
 │  Cron Agent · Profile: pharmascope-crawler   │
-│  Soul: AGENTS.md · Skill: pharmascope        │
-└────────────┬─────────────────────┬───────────┘
-             │                     │
-     [Phase 1]               [Phase 2]
-  Run collection            Batch delegate_task
-  Python script             (3 parallel subagents)
-             │                     │
-             ▼         ┌───────────┼───────────┐
-       raw.json +      ▼           ▼           ▼
-       report.md    🇰🇷 Korean   🌐 English  🌏 Multi-
-                    Formatter   Formatter   lingual
-                                             
-                        [Phase 3]
-                    Compile & Deliver
-                    (Main agent merges
-                     subagent outputs)
+│  Entry: scripts/pharmascope_collect.py       │
+└────────────┬──────────────┬──────────────────┘
+             │              │
+             │              ├── sources/bing.py
+             │              ├── sources/google_rss.py (legacy)
+             │              ├── core/scoring.py
+             │              ├── core/time_filter.py
+             │              ├── core/dedupe.py
+             │              └── render/report.py
+             │
+             ▼
+         raw.json + report.md + summary artifacts
 ```
 
 ### Phase 1 — Collection (Python)
@@ -66,25 +67,25 @@ Output: daily/YYYY-MM-DD/report.md
          daily/YYYY-MM-DD/raw.json
 ```
 
-This phase is pure Python. No LLM overhead. 100+ parallel curl calls via
-Google News RSS. URLs are auto-shortened via `~/.hermes/scripts/shorten_url.py`.
+Current mainline is **Bing HTML direct URL**. Google RSS remains only as a
+legacy/backfill path when browser resolution is explicitly required.
 
 ### Phase 2 — Parallel Formatting (LLM Subagents)
 
-Main agent reads `report.md`, then splits it into 3 sections and delegates
-each to a parallel subagent via `delegate_task(tasks=[...])`:
+If a report needs language-specific polishing, the main agent can split it into
+3 sections and delegate each to a parallel subagent via `delegate_task(tasks=[...])`:
 
 | Subagent | Input | Task |
 |----------|-------|------|
-| 🇰🇷 Korean Formatter | Korean section of report.md | Clean up formatting, add emojis, compress snippets |
-| 🌐 English Formatter | English section of report.md | Translate titles to Korean `[🇰🇷 역자: ...]`, format |
-| 🌏 Multilingual Formatter | Multilingual section | Translate titles to Korean, add language flags |
+| 🇰🇷 Korean Formatter | Korean section | Compress and polish |
+| 🌐 English Formatter | English section | Translate titles to Korean |
+| 🌏 Multilingual Formatter | Multilingual section | Translate titles, add flags |
 
 Each subagent is `role='leaf'` (no further delegation needed).
 
 ### Phase 3 — Compilation (Main Agent)
 
-Main agent collects all 3 subagent outputs and assembles the final Telegram
+Main agent collects the section outputs and assembles the final Telegram
 message with stats header and footer.
 
 ---
@@ -142,12 +143,13 @@ section inline. Never drop a section.
 
 ## Quality Standards
 
-1. **Every article must have a 🔗 link** (already shortened via TinyURL)
-2. **Non-Korean articles** must have `[🇰🇷 역자: ...]` title translation
+1. **Every article must have a 🔗 link** using the original direct URL
+2. **Non-Korean articles** must have `[🇰🇷 역자: ...]` title translation when formatted for Telegram
 3. **Category emojis** preserved (💊 🏭 📋 🤝 🏛️ 🏥 🩺 🌿 🔬)
-4. **No URL re-shortening** — URLs are already TinyURL
+4. **No URL shortening by default** — keep direct URLs unless a legacy flow explicitly needs a resolver
 5. **Stats header** (total count per language) at the top
 6. **Git push** after successful collection
+7. **Google RSS** stays isolated in legacy/backfill modules, not the mainline crawler
 
 ---
 

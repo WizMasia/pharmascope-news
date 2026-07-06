@@ -1,0 +1,163 @@
+{
+  "date": "2026-07-06",
+  "total_articles": 571,
+  "language_breakdown": {
+    "korean": 250,
+    "english": 150,
+    "multilingual": 171
+  },
+  "issues": [
+    {
+      "topic": "약가·급여 재편 압박 — 복합제 인하, R&D 감면, 필수 항암제 품절",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 58,
+      "key_articles": [
+        {
+          "title": "복합제 기등재 약가인하 후속 논의...16% 일괄하락 기로",
+          "importance": 66,
+          "url": "https://www.dailypharm.com/user/news/340129"
+        },
+        {
+          "title": "R&D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+          "importance": 57,
+          "url": "https://www.yna.co.kr/view/AKR20260626135200530"
+        },
+        {
+          "title": "항암 신약 출시로 ‘필수 항암제’ 가격 내려도…원가 아래면 품절 반복 [건강한겨레]",
+          "importance": 51,
+          "url": "https://www.hani.co.kr/arti/hanihealth/medical/1252467.html"
+        }
+      ],
+      "summary_kr": "복합제 기등재 약가인하 후속 논의가 본격화되면서, 제네릭·복합제 전반의 가격 재조정 가능성이 커졌다. 건강보험공단의 R&D 투자 제약사 감면과 국산 신약 환급계약 확대는 재정절감과 혁신 유인 사이의 균형을 다시 짜는 시도다. 항암 신약 확대로 필수 항암제의 가격이 내려가더라도 실제 공급이 원가 이하로 압박받으면 품절이 반복될 수 있다는 점이 병목으로 지적된다.",
+      "summary_en": "Drug pricing reform is moving on several fronts at once: follow-up discussions on listed combination-drug price cuts, a 30% relief scheme for R&D-investing firms, and expanded rebate contracts for domestic new drugs. At the same time, the essential-cancer-drug shortage story highlights that lower prices do not automatically solve access if supply economics break down."
+    },
+    {
+      "topic": "식약처·GMP·규제과학 강화 — 심사원 관리, 예산 확대, 허가 속도전",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "“의료기기 GMP 심사원 부정 적발 시 임명 취소”",
+          "importance": 55,
+          "url": "https://www.newsis.com/view/NISX20260702_0003693502"
+        },
+        {
+          "title": "[2026 R&D⑥]식품의약품안전처, 1719억 원 편성…규제과학 투자 확대 본격화",
+          "importance": 52,
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=11&nid=322091"
+        },
+        {
+          "title": "의료기기 GMP 심사원 전문성 글로벌 수준으로 높인다…식약처, 임명·교육 체계화",
+          "importance": 50,
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350259"
+        },
+        {
+          "title": "식약처, 멕시코 참조규제기관 인정…국산 의약품 허가 “속도전”",
+          "importance": 34,
+          "url": "https://www.newspim.com/news/view/20260623000895"
+        }
+      ],
+      "summary_kr": "식약처는 의료기기 GMP 심사원의 부정행위를 엄단하는 동시에, 임명·교육 체계를 표준화하며 심사 신뢰도를 끌어올리고 있다. 규제과학 예산 1719억 원 편성은 디지털융합의약품, 원료물질 인증제, 국제공동심사 같은 중장기 규제 인프라를 넓히는 신호다. 멕시코가 식약처를 참조규제기관으로 인정한 점은 K-바이오 허가 절차의 해외 연계가 더 빨라질 수 있음을 보여준다.",
+      "summary_en": "MFDS is tightening the discipline around medical-device GMP assessors while expanding regulatory-science investment. The budget increase and the Mexico reference-authority recognition both point to a more internationalized, standardized approval environment that could accelerate overseas market access for Korean drugs and devices."
+    },
+    {
+      "topic": "국산 신약·희귀의약품·임상 진척 — ODD 확대와 파이프라인 전진",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "유한양행, 고셔병 신약후보 유럽 희귀의약품 지정",
+          "importance": 53,
+          "url": "https://www.dailypharm.com/user/news/339689"
+        },
+        {
+          "title": "국산 신약, 美 FDA 희귀의약품 지정 잇따라…글로벌 경쟁력 입증",
+          "importance": 52,
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1705851"
+        },
+        {
+          "title": "빌릭스,'BX-001N' 국가신약개발사업 임상 2상 과제 선정",
+          "importance": 51,
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=all&nid=329362"
+        }
+      ],
+      "summary_kr": "유한양행의 고셔병 후보물질 YH35995가 유럽 희귀의약품 지정을 받으며 미국에 이어 규제 이점을 넓혔다. 국내 기업의 FDA 희귀의약품 지정이 잇따르는 것은 국산 신약의 개발 단계가 “허가 도전”에서 “글로벌 희귀질환 포지셔닝”으로 이동하고 있음을 뜻한다. 빌릭스의 국가신약개발사업 2상 과제 선정은 초기 임상 진입이 여전히 한국 바이오의 핵심 관문임을 보여준다.",
+      "summary_en": "Yuhan’s rare-disease candidate expanded its regulatory moat in Europe after a U.S. orphan-drug designation, while Korean companies continue to notch FDA rare-disease wins. Bilix’s phase-2 public project selection underscores that early clinical execution remains a key gate for domestic innovation assets."
+    },
+    {
+      "topic": "전통의학 국제화 — 한의학 견학, 해외 연수, 통합치료 확산",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "“약침·추나 신기해요”…한의학 배우러 온 미국 대학생들",
+          "importance": 56,
+          "url": "https://www.newsis.com/view/NISX20260305_0003535675"
+        },
+        {
+          "title": "자생한방병원, 교통사고 환자 심신 돌봐…약침·한약 활용 한의통합치료",
+          "importance": 51,
+          "url": "https://www.hankyung.com/article/2025111286261"
+        },
+        {
+          "title": "자생한방병원, 해외 의료진 대상 한의학 임상연수 진행",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02827366639089328"
+        }
+      ],
+      "summary_kr": "미국 의대생·교수진의 한의치료 견학, 교통사고 환자를 겨냥한 한의통합치료, 해외 의료진 대상 임상연수까지 이어지며 전통의학의 해외 확산 시도가 눈에 띈다. 단순 체험형 기사에 그치지 않고 교육·임상·산업적 연결고리를 넓히는 방향으로 소개된 점이 특징이다.",
+      "summary_en": "Traditional Korean medicine is being presented less as a niche cultural topic and more as an exportable clinical/education model. The stories range from a U.S. university visit to overseas clinician training and integrated trauma care, suggesting a gradual institutionalization of the field."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "약가/pricing",
+      "kr_count": 14,
+      "en_count": 2,
+      "significance": "한국 약가·급여 개편과 글로벌 가격 압박이 동시에 진행되며, 환급계약·직접구매·품절 문제가 함께 부각된다."
+    },
+    {
+      "keyword": "허가/approval",
+      "kr_count": 10,
+      "en_count": 5,
+      "significance": "MFDS·FDA 모두 허가 간소화와 국제공조를 강화하는 방향으로 움직이고 있어 국내 기업의 해외 진출 변수로 작동한다."
+    },
+    {
+      "keyword": "임상/clinical trial",
+      "kr_count": 9,
+      "en_count": 3,
+      "significance": "국산 신약의 임상 2상 진입과 글로벌 임상정책 변화가 겹치며, 개발 속도와 규제 전략이 함께 중요해졌다."
+    }
+  ],
+  "notable_absences": [
+    "의료인력/병원경영 이슈는 존재하지만 상위 4개 주제만큼 강하지 않음",
+    "감염병·보건 단독 이슈는 이번 묶음에서 상대적으로 약세",
+    "중국어 간체는 수집되지만 다른 언어권 대비 비중이 낮아 보조 신호 수준"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일의 FDA 승인 러시 중심에서 오늘은 국내 약가·규제과학·희귀의약품으로 무게중심이 이동",
+      "미국 정책 이슈보다 한국 MFDS의 규제 인프라 강화와 해외 참조규제기관 확대가 더 두드러짐",
+      "전통의학은 어제와 달리 오늘 묶음에서 교육·연수형 기사로 다시 존재감 회복"
+    ],
+    "changes": [
+      "복합제 가격조정과 필수 항암제 품절이 함께 떠오르며 “저가화=접근성 개선” 공식이 흔들림",
+      "국산 신약은 일반 허가보다 희귀의약품·규제특례를 통해 글로벌 포지셔닝을 강화하는 흐름",
+      "한의학은 내수 논쟁보다 해외 교육·임상 전파 서사로 재구성되는 중"
+    ]
+  },
+  "connections": [
+    "약가 감면과 희귀질환 접근성 확대는 같은 축에서 움직이며 재정 절감과 혁신 유인을 동시에 요구한다.",
+    "식약처의 규제과학 투자와 멕시코 참조규제기관 인정은 K-바이오의 허가 리스크를 낮추는 상호보완 신호다.",
+    "전통의학 기사들은 교육·임상·관광을 잇는 소프트파워형 수출 서사로 읽을 수 있다."
+  ],
+  "generated_at": "2026-07-06T10:21:26.222906+09:00"
+}

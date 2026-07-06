@@ -1,0 +1,714 @@
+{
+  "date": "2026-07-06",
+  "total_articles": 571,
+  "language_breakdown": {
+    "korean": {
+      "total": 250,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 25,
+        "의료정책·인력": 25,
+        "전통의학": 25,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 150,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 25
+      }
+    },
+    "multilingual": {
+      "total": 171,
+      "languages": {
+        "French / 프랑스어": 10,
+        "German / 독일어": 10,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 10,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 10,
+        "Polish / 폴란드어": 10,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 10,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 7,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 1
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "식약처",
+      "count": 24
+    },
+    {
+      "keyword": "신약",
+      "count": 21
+    },
+    {
+      "keyword": "약가",
+      "count": 14
+    },
+    {
+      "keyword": "허가",
+      "count": 10
+    },
+    {
+      "keyword": "심사",
+      "count": 10
+    },
+    {
+      "keyword": "임상",
+      "count": 9
+    },
+    {
+      "keyword": "항암",
+      "count": 7
+    },
+    {
+      "keyword": "급여",
+      "count": 6
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "위고비",
+      "count": 2
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    },
+    {
+      "keyword": "CRO",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 14
+    },
+    {
+      "keyword": "GMP",
+      "count": 8
+    },
+    {
+      "keyword": "inspection",
+      "count": 7
+    },
+    {
+      "keyword": "generic",
+      "count": 6
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 8
+    },
+    {
+      "source": "조선일보",
+      "count": 8
+    },
+    {
+      "source": "이투데이",
+      "count": 7
+    },
+    {
+      "source": "KPA News",
+      "count": 5
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "count": 5
+    },
+    {
+      "source": "헤럴드경제",
+      "count": 5
+    },
+    {
+      "source": "아시아경제",
+      "count": 5
+    },
+    {
+      "source": "아시아투데이",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 3
+    },
+    {
+      "source": "뉴시스",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "News Medical",
+      "count": 3
+    },
+    {
+      "source": "FiercePharma",
+      "count": 2
+    },
+    {
+      "source": "JD Supra",
+      "count": 2
+    },
+    {
+      "source": "Regulatory Affairs Professionals Society",
+      "count": 2
+    },
+    {
+      "source": "Nature",
+      "count": 2
+    },
+    {
+      "source": "PharmTech",
+      "count": 2
+    },
+    {
+      "source": "Indiatimes",
+      "count": 2
+    },
+    {
+      "source": "National Geographic news",
+      "count": 2
+    },
+    {
+      "source": "CNN",
+      "count": 2
+    },
+    {
+      "source": "Rolling Out",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "트럼프 약가 정책 확대 — 최혜국대우·CMS 협상·PBM 규제로 제약업계 압박 가중",
+    "FDA 승인 러시 — 항생제·유전자치료제·항암제·전립선암 신약 잇따라 허가",
+    "K-제약바이오 글로벌 도약 — 의약품 수출 100억 달러·CDMO 확장·FDA 진출 본격화",
+    "한국 의료개혁 동시다발 — 약가·수가·전공의·의료사고·보건부 분리 논의",
+    "글로벌 바이오시밀러·특허·약가 규제 역학 — FDA 규제 간소화 vs 특허청 장벽"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 22,
+      "keywords": [
+        "medicine",
+        "traditional",
+        "chinese"
+      ],
+      "articles": [
+        {
+          "title": "Tracing the origin of Kampo, Japan's traditional medicine",
+          "source": "Science Daily",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Popular alternative Japanese medicine, Kampo, can trace its origins back to China. Researchers suggest, Jianzhen or Ganjin, the famous 8th century Chinese monk responsible for introducing the ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "3y",
+          "url": "https://www.sciencedaily.com/releases/2022/11/221111103009.htm"
+        },
+        {
+          "title": "Lyophilization Services of New England Completes FDA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "MANCHESTER, N.H., Jan. 8, 2014 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a New Hampshire based contract manufacturing organization is pleased to announce that the Food and Drug ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/pharma/lyophilization-services-of-new-england-completes-fda-inspection"
+        },
+        {
+          "title": "LSNE Successfully Completes MHRA Inspection",
+          "source": "FiercePharma",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "LSNE's Bedford, New Hampshire Manufacturing Facility Receives Certificate of GMP Compliance from MHRA MANCHESTER, N.H., Aug. 7, 2013 /PRNewswire/ -- Lyophilization Services of New England (LSNE), a ..",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "12y",
+          "url": "https://www.fiercepharma.com/manufacturing/lsne-successfully-completes-mhra-inspection"
+        },
+        {
+          "title": "FDA Advisory No.2026-0678 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KATHRINA WILD EAU DE PARFUM (MIMOSA & CARDAMOM)” - Food and Drug Administration - fda.gov.ph",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxOSlJfM1pRcUNHYzRJVTk0QlR6emNIWW9NTkdmRzUxU0dVZU95WHdUZHQ2RGtWMXhEOFpVYm1ZU210RWVaTjd1TmZBNlhRbTFURTY2TXBsMnpDTzRCZk9jQXg1V1lBd2k2UlFSY3hsd1",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 06 Jul 2026 01:03:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSlJfM1pRcUNHYzRJVTk0QlR6emNIWW9NTkdmRzUxU0dVZU95WHdUZHQ2RGtWMXhEOFpVYm1ZU210RWVaTjd1TmZBNlhRbTFURTY2TXBsMnpDTzRCZk9jQXg1V1lBd2k2UlFSY3hsd1hiMEYxN2p5bjk4c3FMVURiY1llRHBZaFBreGNwYVFHYjJaam81WFU0MFVwV3FpTmt5dEFRWnhXMmZacFAxc2VIc2ZleHJ2YTB6aEpwWWZOcTBCZ2llNF9IRjdPQUlxVi1LV3ptZV94X2lZOWFHVFdfLVJ4eGYtLTk4SE5zbGFtdC1ub0t4WmFmcFFwbk0zMEp6bWNiWE44Q21WTlgwS0E?oc=5"
+        },
+        {
+          "title": "FDA 21 CFR Part 11 and the importance of regulatory compliance in GMP and GLP labs",
+          "source": "BioTechniques",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The regulations for food and drugs in the United States, described in Title 21 of the Code of Federal Regulations (CFR), are critical in ensuring safe and ethical drug administration. Whether you are ",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "5y",
+          "url": "https://www.biotechniques.com/diagnostics-preclinical/fda-21-cfr-part-11-and-the-importance-of-regulatory-compliance-in-gmp-and-glp-labs/"
+        },
+        {
+          "title": "FDA expands mutual reliance and harmonization with trusted foreign regulators for inspectional oversight - PIC/S GMP guide aims to strengthen the resiliency of globalized drug ...",
+          "source": "JD Supra",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The U.S. Food and Drug Administration’s (FDA) commitment to expand mutual reliance with trusted regulatory partners may be a silver lining for biomedical innovation during an unprecedented public ...",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "5y",
+          "url": "https://www.jdsupra.com/legalnews/fda-expands-mutual-reliance-and-3462941/"
+        },
+        {
+          "title": "Mabwell Passes On-site GMP Inspection by Regulatory Authority of PIC/S Member Country (Jordan) for the First Time",
+          "source": "Kosmo",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "SHANGHAI, April 21, 2026 /PRNewswire/ — Mabwell (688062.SH), an innovation-driven biopharmaceutical company with a fully integrated industry chain, announced that its wholly-owned subsidiary, T-mab, .",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "2mon",
+          "url": "https://www.kosmo.com.my/2026/04/21/mabwell-passes-on-site-gmp-inspection-by-regulatory-authority-of-pic-s-member-country-jordan-for-the-first-time/"
+        },
+        {
+          "title": "Traditional kadhas for upcoming monsoon season 2026: 5 herbal drinks to stay healthy naturally",
+          "source": "News9Live on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Looking for the best traditional kadhas for the upcoming monsoon season 2026? Discover five popular Ayurvedic herbal drinks, ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "8d",
+          "url": "https://www.msn.com/en-in/health/other/traditional-kadhas-for-upcoming-monsoon-season-2026-5-hchirtaerbal-drinks-to-stay-healthy-naturally/ar-AA26ELcT?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Study reveals how traditional herbal remedy “Jinfeng Pills” may improve fertility",
+          "source": "EurekAlert!",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Morphological changes in each group (&#215;100). The boxes indicate the thickness of the endometrium. (A) The morphology and thickness of the endometrium in the control group. (B) The model group exhi",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "7mon",
+          "url": "https://www.eurekalert.org/news-releases/1105999"
+        },
+        {
+          "title": "A review of Traditional Chinese herbal medicine in management of COVID-19",
+          "source": "News Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The COVID-19 pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has infected over 59.65 million people worldwide and claimed the lives of over 1.4 million. The virus, ",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "5y",
+          "url": "https://www.news-medical.net/news/20201124/A-review-of-Traditional-Chinese-herbal-medicine-in-management-of-COVID-19.aspx"
+        },
+        {
+          "title": "Global Ayurveda registry, Times Square centres, courses abroad—govt plans big push for traditional medicine",
+          "source": "The Print on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "NITI Aayog roadmap shifts Ayurveda strategy from product export to global institution-building, drawing from China's success in taking traditional medicine abroad. It also acknowledges challenges.",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "2d",
+          "url": "https://www.msn.com/en-in/health/other/global-ayurveda-registry-times-square-centres-courses-abroad-govt-plans-big-push-for-traditional-medicine/ar-AA2779Cu?ocid=BingNewsVerp"
+        },
+        {
+          "title": "WHO’s misguided push for complementary and alternative medicine",
+          "source": "The BMJ",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Use of traditional medicine must follow evidence of efficacy and safety The BRICS economies, including India and China, ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "5d",
+          "url": "https://www.bmj.com/content/393/bmj-2026-100062"
+        },
+        {
+          "title": "How Unani Medicine Is Different From Ayurveda, Allopathy? Abdul Majeed Clarifies...",
+          "source": "Indiatimes",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Esha Deol reunites with ex-husband Bharat Takhtani at lunch outing; fans praise their cordial bond Esha Deol and her former husband Bharat Takhtani recently reunited for a lunch outing with close ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "1mon",
+          "url": "https://timesofindia.indiatimes.com/videos/toi-original/how-unani-medicine-is-different-from-ayurveda-allopathy-abdul-majeed-clarifies-/videoshow/131313965.cms"
+        },
+        {
+          "title": "What Is Ayurveda? A Detailed Beginner’s Guide to Traditional Ayurvedic Medicine",
+          "source": "Everyday Health",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Who hasn’t felt burned out, exhausted, imbalanced, or devoid of self-care at one point or another? In today’s fast-paced world, stress and fatigue can creep into daily life, causing disease in the ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "3y",
+          "url": "https://www.everydayhealth.com/integrative-health/ayurveda/guide/"
+        },
+        {
+          "title": "Unani camp held to raise awareness on system of medicine",
+          "source": "Indiatimes",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Madurai: The Tamil Nadu Unani Medical Association organised a free medical camp at the Madurai collectorate on Monday, aimed at providing traditional healthcare services and raising public awareness .",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "4mon",
+          "url": "https://timesofindia.indiatimes.com/city/madurai/unani-camp-held-to-raise-awareness-on-system-of-medicine/articleshow/128126576.cms"
+        },
+        {
+          "title": "Ayurveda yet to match global reach of traditional Chinese medicine, says NITI Aayog report",
+          "source": "The Tribune",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Report suggests India should expand MRAs with friendly countries and groups such as the G20, BRICS and ASEAN.",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "",
+          "url": "https://www.tribuneindia.com/news/health/ayurveda-yet-to-match-global-reach-of-traditional-chinese-medicine-says-niti-aayog-report"
+        },
+        {
+          "title": "Why traditional Chinese medicine treats the whole person differently",
+          "source": "Mind Body Globe on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Most people seeking medical help in the modern world are accustomed to describing a symptom, receiving a diagnosis, and ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "3d",
+          "url": "https://www.msn.com/en-us/health/other/why-traditional-chinese-medicine-treats-the-whole-person-differently/ar-AA273ao0?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Researchers trace the origin of Japan’s traditional Kampo medicines",
+          "source": "News Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Traditional Chinese medicine (TCM) has been around for centuries. With a history of almost 3000 years dating back to the early Zhou Dynasty, it has been incorporated into China's present medical ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "3y",
+          "url": "https://www.news-medical.net/news/20221111/Researchers-trace-the-origin-of-Japane28099s-traditional-Kampo-medicines.aspx"
+        },
+        {
+          "title": "Can traditional Chinese medicine complement rehabilitation?",
+          "source": "Nature",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Bringing together traditional Chinese medicine and contemporary medicine could improve outcomes for patients with chronic disease. In this Q&amp;A, Lidian Chen, professor and chief physician at Fujian",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "1mon",
+          "url": "https://www.nature.com/articles/d42473-023-00279-2"
+        },
+        {
+          "title": "The Efficacy of Traditional Chinese Medicine",
+          "source": "News Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Traditional Chinese medicine (TCM) encompasses a variety of herbal medicines and mind-body practices, such as acupuncture. While popular in China and in many other countries as a primary or ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "7y",
+          "url": "https://www.news-medical.net/health/The-Efficacy-of-Traditional-Chinese-Medicine.aspx"
+        },
+        {
+          "title": "Traditional Chinese medicine and wildlife",
+          "source": "National Geographic news",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Traditional Chinese medicine, often referred to as TCM, is a system of health care that dates back to the third century B.C. It grew out of the writings of ancient healers, who began recording their .",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "7y",
+          "url": "https://www.nationalgeographic.com/animals/article/traditional-chinese-medicine"
+        },
+        {
+          "title": "Some European doctors think Chinese medicine should come with a health warning",
+          "source": "CNN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Herbs to increase breast milk supply and heal the spleen. Traditional remedies which promise to cure insomnia and acne. Secret cancer treatments that have been ignored or suppressed by Western ...",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "6y",
+          "url": "https://www.cnn.com/2019/11/16/health/traditional-chinese-medicine-facebook-intl-hnk-wellness"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "drug",
+        "independent",
+        "cancer"
+      ],
+      "articles": [
+        {
+          "title": "Editorial | Independent drug approvals are key to Hong Kong’s biotech ambitions - South China Morning Post",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk5LZ0FZV083SE42b2FtaTdDZDItaDJzX3FoWnMzTEFmLVBHUG1pbFVDMFpENnNIdG1fdkJVck1BUmVyR0Y2RXZsUFE2bFAyVGQzWXpCT3JKLVlEYmtMNXV0aHZRNHdYMnZNSXU4ZE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 05 Jul 2026 22:45:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk5LZ0FZV083SE42b2FtaTdDZDItaDJzX3FoWnMzTEFmLVBHUG1pbFVDMFpENnNIdG1fdkJVck1BUmVyR0Y2RXZsUFE2bFAyVGQzWXpCT3JKLVlEYmtMNXV0aHZRNHdYMnZNSXU4ZEJjMUlBMU83RzVoNGRobTY1VzQ1SU11MndnYUNad3FqaXF0M3BkZGZpVXFwVnFSRlJubVo1VDk2NDZkU01MSE50MHlDX2VWWDDSAbcBQVVfeXFMTlVpa0dfeTl2bGJySGRIOU00RHR4WkhONHVhZHBwQ0lvVHpUR1h1dTJPV2d5VWlIeFFNemVNeFh1dzFTWEVSV0VfaXkwOTF5S0NUdHdKUXJlVW1uMENKOEYwOG11ZVBuc0pPWURFMmFGcEJQTGk4dmVWQnVFNVlCQUZ2TWs5cFFwOUo4ZlRyVnUtRGVvT1I3aFRfU0VzeEFIZHgzbnZCdTcwMGxSUjJ4Ql9ieXZ0RUVB?oc=5"
+        },
+        {
+          "title": "New drug for cancer patients with ‘limited’ treatment options enters clinical trial - The Independent",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNM21UYmRVemxyN2RPcFJUTnBQM3ZnYUhxTmw1MXV6azBYVWlNMWt2R0FJNl9SejJuR21IQVA4LXd3QVE0a0JoV0o0VWhSb1RyQzJ3blY4aGdianl3WjBrSzgwdmFVV2VtUEdBQ19YSE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 05 Jul 2026 23:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM21UYmRVemxyN2RPcFJUTnBQM3ZnYUhxTmw1MXV6azBYVWlNMWt2R0FJNl9SejJuR21IQVA4LXd3QVE0a0JoV0o0VWhSb1RyQzJ3blY4aGdianl3WjBrSzgwdmFVV2VtUEdBQ19YSE93U1lNTVROd0NVajBTRGdYRWZXa2RieEVWOU9icjVlblk0cEowb2c?oc=5"
+        },
+        {
+          "title": "Lilly quietly hands Chinese partner its cancer drug - MEXC",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE14VmxTLVZLNGNKSUVGMU9pM3BpTy04d3pjejRPbW5qLVN2NnR4SzA0VWtzMFRCVnZDT0NuSWJDMnZIWjVVb0MxbA?oc=5\" target=\"_blank\">Lilly quietly hands Chinese p",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 05 Jul 2026 22:55:26 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14VmxTLVZLNGNKSUVGMU9pM3BpTy04d3pjejRPbW5qLVN2NnR4SzA0VWtzMFRCVnZDT0NuSWJDMnZIWjVVb0MxbA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "recommendation",
+        "marketsmojo",
+        "analysis",
+        "share",
+        "ltd",
+        "price",
+        "stock"
+      ],
+      "articles": [
+        {
+          "title": "SUNPHARMA Share Price | Sun Pharmaceutical Industries Ltd Stock Analysis & Recommendation - MarketsMojo",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE80ZDBlX1RFRmJBb0gxeDVJaU1xZjh0dzdQdEQwQ0RuZFNhcEF6WjNGaHdBck5TNkdYTjRKOGRBR0o0NHh0VUpBNko2cDVaSEpfSWUtQUdHaW9lME9pOGZaTVB0Tk8wREhNZTNoSDAyUk",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 05 Jul 2026 22:35:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80ZDBlX1RFRmJBb0gxeDVJaU1xZjh0dzdQdEQwQ0RuZFNhcEF6WjNGaHdBck5TNkdYTjRKOGRBR0o0NHh0VUpBNko2cDVaSEpfSWUtQUdHaW9lME9pOGZaTVB0Tk8wREhNZTNoSDAyUkdSam5WWEE?oc=5"
+        },
+        {
+          "title": "GLENMARK Share Price | Glenmark Pharmaceuticals Ltd. Stock Analysis & Recommendation - MarketsMojo",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBic1FxYkZlVnRVMkxHRDhfMmUzREdaRFMtemlCWG1ObWZrVmlUX0lVdURwRFRzYkN6cFpGQnRIcXk2eHN1SnN3MU5LTmxOWnpvdGY3ZFZwWF9ReTFwdkkwWXBROXp3OWdERjQzUFZMbX",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 05 Jul 2026 21:47:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBic1FxYkZlVnRVMkxHRDhfMmUzREdaRFMtemlCWG1ObWZrVmlUX0lVdURwRFRzYkN6cFpGQnRIcXk2eHN1SnN3MU5LTmxOWnpvdGY3ZFZwWF9ReTFwdkkwWXBROXp3OWdERjQzUFZMbXhValBXQ1hJ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "자생한방병원",
+        "한의학",
+        "임상연수",
+        "의료진",
+        "해외",
+        "진행",
+        "임상"
+      ],
+      "articles": [
+        {
+          "title": "자생한방병원, 해외 의료진 대상 한의학 임상연수 진행",
+          "source": "이데일리",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "[이데일리 이순용 기자] 자생한방병원(병원장 이진호)이 지난 18일부터 22일까지 의사와 침술가로 구성된 해외 의료진 대상 ‘2024 한의학 임상연수 오프라인 프로그램’을 진행했다고 25일 밝혔다.",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1년",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02827366639089328"
+        },
+        {
+          "title": "한의학 배우러 해외 의료진 왔다… 자생한방병원, 임상연수 진행",
+          "source": "조선일보",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "자생한방병원이 지난 18일부터 22일까지 의사와 침술가로 구성된 해외 의료진을 대상으로 ‘2024 한의학 임상연수 오프라인 프로그램’을 진행했다고 25일 밝혔다. 이번에 처음으로 진행된 본 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1년",
+          "url": "https://health.chosun.com/site/data/html_dir/2024/11/25/2024112501748.html"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "چالش‌های صنعت داروسازی کشور؛ ماجرای ۹۰۰ میلیون دلار ارز دارو",
+      "source": "Mehr News Agency",
+      "importance": 60,
+      "snippet": "به گزارش خبرنگار مهر، رئیس و اعضای هیئت مدیره سندیکای صاحبان صنایع داروهای انسانی ایران، روز چهارشنبه ۱۳ خرداد ۱۴۰۵، در نشست خبری که در محل ...",
+      "url": "https://www.mehrnews.com/news/6848711/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B9%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88"
+    },
+    {
+      "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
+      "source": "연합뉴스",
+      "importance": 57,
+      "snippet": "(서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 덜어주고, 국산 신약은 환급 계약을 확대해 수출경쟁력을 지원한다.",
+      "url": "https://www.yna.co.kr/view/AKR20260626135200530"
+    },
+    {
+      "title": "米ＦＤＡ、製薬7社の新工場を審査迅速化プログラムに選定",
+      "source": "Reuters Japan on MSN",
+      "importance": 55,
+      "snippet": "[２９日 ロイター] - ...",
+      "url": "https://www.msn.com/ja-jp/money/other/%E7%B1%B3%EF%BD%86%EF%BD%84%EF%BD%81-%E8%A3%BD%E8%96%AC7%E7%A4%BE%E3%81%AE%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%AF%A9%E6%9F%BB%E8%BF%85%E9%80%9F%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E9%81%B8%E5%AE%9A/ar-AA26PRVm?ocid=BingNewsVerp"
+    },
+    {
+      "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
+      "source": "聯合新聞網",
+      "importance": 55,
+      "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
+      "url": "https://udn.com/news/story/7270/8851185"
+    },
+    {
+      "title": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की ...",
+      "source": "Navbharat Times",
+      "importance": 50,
+      "snippet": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की रफ्तार भाषा • 23 Dec 2021, 6:44 pm IST ...",
+      "url": "https://navbharattimes.indiatimes.com/business/business-news/the-pharmaceutical-health-industry-expects-growth-to-continue-in-the-year-2022/articleshow/88456346.cms"
+    },
+    {
+      "title": "Indian pharma crisis: भारतीय दवा उद्योग पर बड़ा संकट, बढ़ सकती हैं पैरासिटामोल ...",
+      "source": "MSN",
+      "importance": 50,
+      "snippet": "ईरान और अमेरिका के बीच चल रहे युद्ध और खाड़ी क्षेत्र में बढ़ती अस्थिरता का बुरा असर अब आम इंसान की ...",
+      "url": "https://www.msn.com/hi-in/money/economy/indian-pharma-crisis-%E0%A4%AD-%E0%A4%B0%E0%A4%A4-%E0%A4%AF-%E0%A4%A6%E0%A4%B5-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF-%E0%A4%97-%E0%A4%AA%E0%A4%B0-%E0%A4%AC%E0%A4%A1%E0%A4%BC-%E0%A4%B8%E0%A4%82%E0%A4%95%E0%A4%9F-%E0%A4%AC%E0%A4%A2%E0%A4%BC-%E0%A4%B8%E0%A4%95%E0%A4%A4-%E0%A4%B9%E0%A5%88%E0%A4%82-%E0%A4%AA%E0%A5%88%E0%A4%B0-%E0%A4%B8-%E0%A4%9F-%E0%A4%AE-%E0%A4%B2-%E0%A4%94%E0%A4%B0-%E0%A4%8F%E0%A4%82%E0%A4%9F-%E0%A4%AC-%E0%A4%AF-%E0%A4%9F-%E0%A4%95%E0%A5%8D%E0%A4%B8-%E0%A4%95-%E0%A4%95-%E0%A4%AE%E0%A4%A4%E0%A5%87%E0%A4%82/ar-AA23Mnkz?ocid=BingNewsVerp"
+    },
+    {
+      "title": "حجم سوق المستحضرات الصيدلانية الإشعاعية، الحصة السوقية والتوقعات (2026 - 2036)",
+      "source": "Mena FN",
+      "importance": 50,
+      "snippet": "في عام 2026، تُقدَّر قيمة سوق المستحضرات الصيدلانية الإشعاعية العالمية بنحو 7.82 مليار دولار أمريكي، ومن المتوقع أن تصل إلى 13.78 مليار دولار أمريكي بحلول عام 2036، مسجلة معدل نمو سنوي مركب يبلغ 5.48%",
+      "url": "https://menafn.com/arabic/1111113890/%D8%AD%D8%AC%D9%85-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AD%D8%B6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%8A%D8%AF%D9%84%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%82%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-2026-2036"
+    },
+    {
+      "title": "&quot;نظام المنشآت والمستحضرات الصيدلانية والعشبية&quot; يزيد تنافسية سوق الأدوية في المملكة",
+      "source": "اخبار 24",
+      "importance": 50,
+      "snippet": "يعزّز نظام المنشآت والمستحضرات الصيدلانية والعشبية الذي وافق عليه مجلس الوزراء مؤخراً , أداء اقتصاد المملكة العربية السعودية، ويزيد القدرة ...",
+      "url": "https://www.argaam.com/ar/article/articledetail/id/1368902"
+    },
+    {
+      "title": "Nordic initiative signals new approach to tackling drug resistance - Euractiv",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVTlmclBDazYyOFB2am1scHMxX2REaDUyclk1SjVuazgzNDlTeVgyODFVcmxTN3luWHRuQjE1NUtxUFZqV25uajd5SXY5QXRMbmJQaFRXWWlHcDZoTDVrdWVxLTNOVU5fY2dMUGtWUT",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVTlmclBDazYyOFB2am1scHMxX2REaDUyclk1SjVuazgzNDlTeVgyODFVcmxTN3luWHRuQjE1NUtxUFZqV25uajd5SXY5QXRMbmJQaFRXWWlHcDZoTDVrdWVxLTNOVU5fY2dMUGtWUTA3alh4V2FKRXRneXNleW84eVNtWEFfN182cXRrZVNscmwyNWE2UUtFNHoxM291dw?oc=5"
+    },
+    {
+      "title": "Towa Pharma to Acquire Tanabe Pharma Factory and Expand Off‑Patent Drug Portfolio - TipRanks",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUJTLWxkRWp3VVM4dnJyTEZQYUVMcmNHeF93UnIxamxQTExvbnNOWERvOWNfdnBmZHdNMF9RZk40Uk1UOWtPQzRpQkV0XzdVeUZvMWJIMGpoS1lya2tKMHNCX1FtRXdEQ3gwbVJ0NU",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdUJTLWxkRWp3VVM4dnJyTEZQYUVMcmNHeF93UnIxamxQTExvbnNOWERvOWNfdnBmZHdNMF9RZk40Uk1UOWtPQzRpQkV0XzdVeUZvMWJIMGpoS1lya2tKMHNCX1FtRXdEQ3gwbVJ0NUZfc0Zfb0F2d1BaRk90YTItRnRQcU5yazZHX1RMcjFfQW9tZldEUVRkb3VrcDJBMFlQQnQzU3VWYndjekRXeUttYW43WXlqYWJJSWQyMkhKMmhvUktxWVJMNXAtZk4?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 9,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 14,
+      "en_count": 2
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-PharmaScope (의약스코프) - v4 Bing Only
-========================================
-Bing News HTML 단독 수집 (직접 URL, CBM 없음)
-Google News RSS 제거 -> CBM URL 0건
+PharmaScope (의약스코프) - v4 Google RSS Main
+==============================================
+Google News RSS 메인 수집 + 브라우저 해석 대기열 생성
+Bing News HTML은 보조/백업 소스
 Adapter Pattern + 중요도 평가(정수)
 """
 import sys, os
@@ -31,6 +31,24 @@ ASSOCIATION_MEDIA = [
 ]
 def is_association_media(source):
     return any(name.lower() in (source or '').lower() for name in ASSOCIATION_MEDIA)
+
+
+def article_source(item):
+    return item.get('source', '') or '-'
+
+
+def article_uploaded(item):
+    return item.get('published_time') or item.get('time') or '-'
+
+
+def article_modified(item):
+    return item.get('modified_time') or item.get('updated_time') or '-'
+
+
+def article_summary(item, limit=200):
+    text = item.get('body_summary') or item.get('snippet') or item.get('title', '') or ''
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:limit] if text else '-'
 
 # ===================================================================
 # GIT PUSH
@@ -92,8 +110,8 @@ kr_categories = {
     '감염·보건': {'keywords': ['감염병 항생제내성 감염관리', '예방접종 국가예방접종', '공중보건 보건복지 지역보건', '환자안전 의료감염 손위생', '코로나19 독감 인플루엔자', '전염병 방역']},
 }
 
-kr_primary = BingNewsHTMLAdapter()
-kr_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
+kr_primary = GoogleNewsRSSAdapter()
+kr_secondary = [BingNewsHTMLAdapter()]  # Google RSS 메인, Bing 백업
 
 kr_data = {}
 for cat_name, cfg in kr_categories.items():
@@ -121,8 +139,8 @@ en_categories = {
     'Traditional & Complementary Medicine': {'keywords': ['traditional medicine herbal remedy natural', 'Ayurveda Unani Siddha traditional Indian medicine', 'Kampo traditional Chinese medicine TCM acupuncture', 'Sowa-Rigpa Tibetan medicine complementary medicine']},
 }
 
-en_primary = BingNewsHTMLAdapter()
-en_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
+en_primary = GoogleNewsRSSAdapter()
+en_secondary = [BingNewsHTMLAdapter()]  # Google RSS 메인, Bing 백업
 
 en_data = {}
 for cat_name, cfg in en_categories.items():
@@ -163,8 +181,8 @@ lang_configs = [
     (['دارو صنعت داروسازی', 'طب سنتی گیاهان دارویی'], 'fa-ir', 'IR', 'Persian / 페르시아어'),
 ]
 
-ml_primary = BingNewsHTMLAdapter()
-ml_secondary = []  # Google RSS 제거 → CBM URL 발생 차단
+ml_primary = GoogleNewsRSSAdapter()
+ml_secondary = [BingNewsHTMLAdapter()]  # Google RSS 메인, Bing 백업
 
 ml_data = {}
 for keywords, lang, region, label in lang_configs:
@@ -202,7 +220,7 @@ with open(os.path.join(DAILY_DIR, 'raw.json'), 'w', encoding='utf-8') as f:
 # ===================================================================
 L = []
 L.append(f"# 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트")
-L.append(f"**수집일:** {DATE_STR}  |  **소스:** Bing News (직접 URL)  |  **어댑터 패턴**  |  **총 {total_all}건**")
+L.append(f"**수집일:** {DATE_STR}  |  **소스:** Google News RSS + Bing fallback  |  **어댑터 패턴**  |  **총 {total_all}건**")
 L.append(f"**평가:** ⭐⭐⭐⭐⭐(85↑) ⭐⭐⭐⭐(65↑) ⭐⭐⭐(45↑) ⭐⭐(25↑) ⭐(0↑)  |  **정수 계산**")
 L.append("")
 
@@ -226,11 +244,15 @@ def write_section(data, emoji_map):
             assn_tag = ' *(협회지)*' if is_association_media(item.get('source','')) else ''
             imp = item.get('importance', 50)
             stars = item.get('stars', '⭐⭐⭐')
+            source = article_source(item)
+            uploaded = article_uploaded(item)
+            modified = article_modified(item)
+            summary = article_summary(item)
             L.append(f"{i}. {stars} **[{imp}점]** {t}{assn_tag}")
-            L.append(f"   📰 {item.get('source','')} | 🕐 {item.get('time','')}")
+            L.append(f"   📰 출처: {source}")
+            L.append(f"   ⏫ 업로드: {uploaded} | ♻️ 갱신: {modified}")
+            L.append(f"   🧾 요약: {summary}")
             L.append(f"   📊 {item.get('evidence','')}")
-            if item.get('snippet'):
-                L.append(f"   💬 {item['snippet'][:100]}")
             L.append(f"   🔗 {item['url']}")
 
 L.append("## 🇰🇷 국내 (한국어)")
@@ -257,8 +279,14 @@ for label, items in ml_data.items():
     for item in items[:5]:
         imp = item.get('importance', 50)
         stars = item.get('stars', '⭐⭐⭐')
+        source = article_source(item)
+        uploaded = article_uploaded(item)
+        modified = article_modified(item)
+        summary = article_summary(item)
         L.append(f"- {stars} **[{imp}점]** {item['title'][:80]}")
-        L.append(f"  📰 {item.get('source','')} | 🕐 {item.get('time','')}")
+        L.append(f"  📰 출처: {source}")
+        L.append(f"  ⏫ 업로드: {uploaded} | ♻️ 갱신: {modified}")
+        L.append(f"  🧾 요약: {summary}")
         L.append(f"  🔗 {item['url']}")
 
 L.append("\n---")
@@ -282,7 +310,7 @@ for label, items in ml_data.items():
 L.append(f"\n**📊 총계: {total_all}건**")
 L.append(f"**💾 저장:** `{DAILY_DIR}/`")
 L.append(f"**🔗 GitHub:** https://github.com/WizMasia/pharmascope-news")
-L.append(f"**⚡ 수집:** {NOW.strftime('%Y-%m-%d %H:%M')} KST | v3 Adapter Pattern")
+L.append(f"**⚡ 수집:** {NOW.strftime('%Y-%m-%d %H:%M')} KST | Google RSS Main + Browser Resolution")
 
 report = '\n'.join(L)
 with open(os.path.join(DAILY_DIR, 'report.md'), 'w', encoding='utf-8') as f:
@@ -346,7 +374,9 @@ def build_lang_summary(lang_data, top_n, keywords, name_field='categories'):
             'importance': a.get('importance', 0),
             'stars': a.get('stars', ''),
             'evidence': a.get('evidence', ''),
-            'snippet': (a.get('snippet', '') or '')[:200],
+            'snippet': (a.get('body_summary') or a.get('snippet', '') or '')[:200],
+            'published_time': a.get('published_time') or a.get('time', ''),
+            'modified_time': a.get('modified_time') or a.get('updated_time', ''),
             'time': a.get('time', ''),
             'url': a.get('url', ''),
         })
@@ -381,7 +411,7 @@ with open(readme_path, 'w', encoding='utf-8') as f:
     f.write(f"""# 🔬 PharmaScope — 의약업계 글로벌 동향
 
 **마지막 갱신:** {NOW.strftime('%Y-%m-%d %H:%M')} KST
-**아키텍처:** Adapter Pattern (다중 소스, 언어별 전략)
+**아키텍처:** Google RSS Main + Browser Resolution
 **평가:** 정수 중요도 0~100
 
 ## 수집 전략
@@ -409,15 +439,17 @@ pharmascope/
 ├── README.md
 ├── scripts/
 │   ├── adapters.py               # News Source Adapters
+│   ├── url_resolver.py           # Google RSS 브라우저 해석/병합
 │   └── pharmascope_collect.py    # 메인 파이프라인
 ├── daily/
 │   └── {DATE_STR}/
 │       ├── report.md
-│       └── raw.json
+│       ├── raw.json
+│       └── urls_to_resolve.json
 └── AGENTS.md
 ```
 
-*PharmaScope v3 — Adapter Pattern | 정수 중요도 | 다중 소스 하이브리드*
+*PharmaScope v4 — Google RSS Main | 정수 중요도 | 브라우저 해석 대기열*
 """)
 
 log(f"✅ README.md 갱신 완료")
@@ -434,13 +466,14 @@ for section_name, section_data in all_data.get('category', {}).items():
                     if art.get('cbm_id', '') and 'google.com' in art.get('url', ''):
                         cbm_count += 1
 
-if cbm_count:
-    log(f"⚠️ CBM URL {cbm_count}건 발견 (Google RSS가 없는데 발생? → Bing 이슈)")
-    from url_resolver import extract_urls_for_resolution
-    needs = extract_urls_for_resolution()
-    log(f"   → Phase 2(브라우저)에서 {len(needs)}건 처리 예정")
-else:
-    log("  ✅ CBM URL 0건 — 모든 기사가 직접 URL")
+log("Google RSS 브라우저 해석 대기열 생성 중...")
+from url_resolver import extract_urls_for_resolution, merge_resolved
+needs = extract_urls_for_resolution()
+log(f"   → 브라우저 단계에서 {len(needs)}건 최종 URL/본문 해석 필요")
+resolved_path = os.path.join(DAILY_DIR, 'resolved_urls.json')
+if os.path.exists(resolved_path):
+    merge_resolved()
+    log("   → resolved_urls.json 반영 완료")
 
 # ===================================================================
 # GIT PUSH

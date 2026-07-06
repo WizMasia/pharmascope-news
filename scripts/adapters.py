@@ -8,8 +8,11 @@ Article = {
   'title': str,
   'url': str,         # 실제 기사 URL (직접 접근 가능)
   'source': str,       # 출처명
-  'time': str,         # 상대시간 (예: "2시간", "3일")
-  'snippet': str,      # 요약
+  'time': str,         # 상대시간/게시시각
+  'published_time': str,
+  'modified_time': str,
+  'body_summary': str,
+  'snippet': str,
   'cbm_id': str,       # Google News CBM ID (있는 경우)
 }
 """
@@ -129,6 +132,9 @@ class GoogleNewsRSSAdapter:
                 'url': article_url,
                 'source': source,
                 'time': date_m.group(1) if date_m else '',
+                'published_time': date_m.group(1) if date_m else '',
+                'modified_time': '',
+                'body_summary': snippet,
                 'snippet': snippet,
                 'cbm_id': cbm_id,
             })
@@ -217,6 +223,9 @@ class BingNewsHTMLAdapter:
                 'url': url_m.group(1),
                 'source': unescape(auth_m.group(1)) if auth_m else '',
                 'time': time_m.group(1).strip() if time_m else '',
+                'published_time': '',
+                'modified_time': '',
+                'body_summary': snippet,
                 'snippet': snippet,
                 'cbm_id': '',
             })

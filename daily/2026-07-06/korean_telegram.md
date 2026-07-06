@@ -234,7 +234,7 @@
 ⭐ **[22점] 외국인 환자 30% 급감… 변곡점 맞은 K-의료관광, 부가세 환급 부활·규제 혁신 촌각 다툰다**
 📰 이투데이 on MSN
 📊 출처:이투데이 on MSN+10 | 최신:+5 | 키워드+5 | 순위:59위+2
-🔗 https://www.msn.com/ko-kr/news/other/%EC%99%B8%EA%B5%AD%EC%9D%B8-%ED%99%98%EC%9E%90-30-%EA%B8%89%EA%B0%90-%EB%B3%80%EA%B3%A1%EC%A0%90-%EB%A7%9E%EC%9D%80-k-%EC%9D%98%EB%A3%8C%EA%B4%80%EA%B4%91-%EB%B6%80%EA%B0%80%EC%84%B8-%ED%99%98%EA%B8%89-%EB%B6%80%ED%99%9C-%EA%B7%9C%EC%A0%9C-%ED%98%81%EC%8B%A0-%EC%B4%8C%EA%B0%81-%EB%8B%A4%ED%88%B0%EB%8B%A4-%EC%84%9C%EC%9A%B8-%EC%9D%98%EB%A3%8C%EA%B4%80%EA%B4%91%EC%A0%95%EC%9E%85-%ED%8F%AC%EB%9F%BC/ar-AA272J7a?ocid=BingNewsVerp
+🔗 https://www.msn.com/ko-kr/news/other/%EC%99%B8%EA%B5%AD%EC%9D%B8-%ED%99%98%EC%9E%90-30-%EA%B8%89%EA%B0%90-%EB%B3%80%EA%B3%A1%EC%A0%90-%EB%A7%9E%EC%9D%80-k-%EC%9D%98%EB%A3%8C%EA%B4%80%EA%B4%91-%EB%B6%80%EA%B0%80%EC%84%B8-%ED%99%98%EA%B8%89-%EB%B6%80%ED%99%9C-%EA%B7%9C%EC%A0%9C-%ED%98%81%EC%8B%A0-%EC%B4%8C%EA%B0%81-%EB%8B%A4%ED%88%B0%EB%8B%A4-%EC%84%9C%EC%9A%B8-%EC%9D%98%EB%A3%8C%EA%B4%80%EA%B4%91%EC%A0%95%EC%B1%85-%ED%8F%AC%EB%9F%BC/ar-AA272J7a?ocid=BingNewsVerp
 
 ### 💊 약국·약사
 ⭐⭐⭐ **[49점] "전문성이 곧 약사의 힘"…대구시약사회, 미래 약국 경쟁력 키운다**

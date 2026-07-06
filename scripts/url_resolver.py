@@ -75,6 +75,9 @@ def extract_urls_for_resolution():
                     'source': source,
                     'section': section,
                     'category': category,
+                    'published_time': item.get('published_time') or item.get('time', ''),
+                    'modified_time': item.get('modified_time') or item.get('updated_time', ''),
+                    'body_summary': item.get('body_summary') or item.get('snippet', ''),
                 })
                 idx += 1
     
@@ -203,11 +206,15 @@ def regenerate_report(data):
                 imp = item.get('importance', 50)
                 stars = item.get('stars', '⭐⭐⭐')
                 resolved_tag = ' 🔄' if item.get('url_resolved') else ''
+                source = item.get('source', '') or '-'
+                uploaded = item.get('published_time') or item.get('time') or '-'
+                modified = item.get('modified_time') or item.get('updated_time') or '-'
+                summary = (item.get('body_summary') or item.get('snippet') or item.get('title', '') or '').strip()[:200] or '-'
                 L.append(f"{i}. {stars} **[{imp}점]** {t}{resolved_tag}")
-                L.append(f"   📰 {item.get('source','')} | 🕐 {item.get('time','')}")
+                L.append(f"   📰 출처: {source}")
+                L.append(f"   ⏫ 업로드: {uploaded} | ♻️ 갱신: {modified}")
+                L.append(f"   🧾 요약: {summary}")
                 L.append(f"   📊 {item.get('evidence','')}")
-                if item.get('snippet'):
-                    L.append(f"   💬 {item['snippet'][:100]}")
                 L.append(f"   🔗 {item['url']}")
     
     L.append("## 🇰🇷 국내 (한국어)")
@@ -233,8 +240,14 @@ def regenerate_report(data):
             imp = item.get('importance', 50)
             stars = item.get('stars', '⭐⭐⭐')
             resolved_tag = ' 🔄' if item.get('url_resolved') else ''
+            source = item.get('source', '') or '-'
+            uploaded = item.get('published_time') or item.get('time') or '-'
+            modified = item.get('modified_time') or item.get('updated_time') or '-'
+            summary = (item.get('body_summary') or item.get('snippet') or item.get('title', '') or '').strip()[:200] or '-'
             L.append(f"- {stars} **[{imp}점]** {item['title'][:80]}{resolved_tag}")
-            L.append(f"  📰 {item.get('source','')} | 🕐 {item.get('time','')}")
+            L.append(f"  📰 출처: {source}")
+            L.append(f"  ⏫ 업로드: {uploaded} | ♻️ 갱신: {modified}")
+            L.append(f"  🧾 요약: {summary}")
             L.append(f"  🔗 {item['url']}")
     
     L.append("\n---")
