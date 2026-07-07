@@ -1,0 +1,313 @@
+{
+  "date": "2026-07-08",
+  "total_articles": 388,
+  "language_breakdown": {
+    "korean": {
+      "total": 175,
+      "categories": {
+        "의약품": 20,
+        "의약산업": 22,
+        "의약정책": 25,
+        "의약단체": 21,
+        "의약관련정부기관": 15,
+        "의료현장": 15,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 7,
+        "감염·보건": 19
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 82,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 18
+    },
+    {
+      "keyword": "임상",
+      "count": 9
+    },
+    {
+      "keyword": "약가",
+      "count": 8
+    },
+    {
+      "keyword": "급여",
+      "count": 8
+    },
+    {
+      "keyword": "한약",
+      "count": 8
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 5
+    },
+    {
+      "keyword": "제네릭",
+      "count": 5
+    },
+    {
+      "keyword": "항암",
+      "count": 4
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "식약처",
+      "count": 2
+    },
+    {
+      "keyword": "CDMO",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "FDA",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 21
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "inspection",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 4
+    },
+    {
+      "source": "약업닷컴",
+      "count": 3
+    },
+    {
+      "source": "한의신문",
+      "count": 2
+    },
+    {
+      "source": "히트뉴스",
+      "count": 1
+    },
+    {
+      "source": "데일리팜",
+      "count": 1
+    },
+    {
+      "source": "아시아타임즈 on MSN",
+      "count": 1
+    },
+    {
+      "source": "코리아헬스로그",
+      "count": 1
+    },
+    {
+      "source": "더팩트",
+      "count": 1
+    },
+    {
+      "source": "허프포스트코리아 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "공공의료 인력난과 약국 정보 정비 — 현장 서비스 공백이 드러난 날",
+    "약가인하 압박이 촉발한 제약사 재편 — 바이오시밀러·IPO 전략 동시 가속",
+    "이식 환자 백신 취약성 — 예방가능 감염질환 부담이 계속 남아 있다"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 2,
+      "keywords": [
+        "한약사",
+        "릴레이집회",
+        "약사",
+        "정비하라",
+        "일차",
+        "quot",
+        "면허체계",
+        "한약"
+      ],
+      "articles": [
+        {
+          "title": "[릴레이집회-293일차] &quot;약사&#183;한약사 면허체계 정비하라&quot;",
+          "source": "약사공론",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 찜통 더위가 한창인 가운데 한약사 문제 해결을 촉구하는 약사들의 목소리가 계속되고 있다(사진_대한약사회). 찜통 무더위 속 한약사 문제 해결을 촉구하는 대한약사회의 릴레이집회가 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "33분",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+        },
+        {
+          "title": "[릴레이집회-293일차] &quot;약사&#183;한약사 면허체계 정비하라&quot;",
+          "source": "약사공론",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 찜통 더위가 한창인 가운데 한약사 문제 해결을 촉구하는 약사들의 목소리가 계속되고 있다(사진_대한약사회). 찜통 무더위 속 한약사 문제 해결을 촉구하는 대한약사회의 릴레이집회가 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "33분",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "대세",
+        "눈길",
+        "전문의약품",
+        "영토",
+        "확장",
+        "k-신약",
+        "바이오",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "전문의약품 바이오 대세 속 ‘K-신약’ 영토 확장 '눈길'",
+          "source": "의학신문",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김상일 기자]국내 완제의약품 시장이 전문의약품(ETC)과 일반의약품(OTC)의 고른 성장 속에 역대 최고 실적을 경신했다. 특히 전문의약품 시장은 바이오의약품의 가파른 성장세 속에서 국산 신약들이 괄목할 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "30분",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007890"
+        },
+        {
+          "title": "전문의약품 바이오 대세 속 ‘K-신약’ 영토 확장 '눈길'",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김상일 기자]국내 완제의약품 시장이 전문의약품(ETC)과 일반의약품(OTC)의 고른 성장 속에 역대 최고 실적을 경신했다. 특히 전문의약품 시장은 바이오의약품의 가파른 성장세 속에서 국산 신약들이 괄목할 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "30분",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007890"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "제약바이오협, 제네릭 산업 발전 전략 모색",
+      "source": "의학신문",
+      "importance": 37,
+      "snippet": "[의학신문&#183;일간보사=김정일 기자] 제약바이오협회가 국내 제네릭 산업의 구조적 특성과 문제점을 진단하고, 이를 기반으로 근본적인 산업구조 개편 방안을 마련하기로 해 주목된다. 한국제약바이오협회는 최근 ‘국내 제네릭 산업구조 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007879"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 9,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 8,
+      "en_count": 2
+    }
+  ]
+}

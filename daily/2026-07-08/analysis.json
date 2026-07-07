@@ -1,0 +1,158 @@
+{
+  "date": "2026-07-08",
+  "total_articles": 388,
+  "language_breakdown": {
+    "korean": {
+      "total": 175,
+      "categories": {
+        "의약품": 20,
+        "의약산업": 22,
+        "의약정책": 25,
+        "의약단체": 21,
+        "의약관련정부기관": 15,
+        "의료현장": 15,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 7,
+        "감염·보건": 19
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 82,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "약사·한약사 면허체계 정비 요구가 다시 부상",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "[릴레이집회-293일차] \"약사·한약사 면허체계 정비하라\"",
+          "importance": 60,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+        },
+        {
+          "title": "[릴레이집회-293일차] \"약사·한약사 면허체계 정비하라\"",
+          "importance": 50,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+        }
+      ],
+      "summary_kr": "약사·한약사 면허체계 논쟁이 다시 전면에 올라오며 직능 경계와 제도 정비 이슈가 동시에 부각됐다. 이번 보도는 단순한 직능 갈등이 아니라 조제·복약지도·면허 범위에 대한 제도적 재정의 요구로 읽힌다.",
+      "summary_en": "The renewed debate over pharmacy and traditional medicine licensing highlights a structural policy issue, not a one-off professional dispute. It points to a broader need to clarify scope of practice, dispensing authority, and regulatory boundaries."
+    },
+    {
+      "topic": "K-신약과 전문의약품 성장세가 바이오 시장 확장을 견인",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "전문의약품 바이오 대세 속 ‘K-신약’ 영토 확장 '눈길'",
+          "importance": 52,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007890"
+        },
+        {
+          "title": "전문의약품 바이오 대세 속 ‘K-신약’ 영토 확장 '눈길'",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007890"
+        }
+      ],
+      "summary_kr": "국산 신약과 바이오의약품의 동반 성장 기대가 다시 확인됐고, 전문의약품 시장의 확대가 산업계의 핵심 화두로 재부상했다. 상용화 속도와 포트폴리오 전환 능력이 국내 제약사의 경쟁력을 가를 가능성이 크다.",
+      "summary_en": "Domestic new-drug development and biologics continue to drive the specialty-drug market. The story reinforces that commercialization speed and portfolio transition remain key competitive levers for Korean pharma companies."
+    },
+    {
+      "topic": "제네릭 산업구조 개편 논의가 본격화",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "제약바이오협, 제네릭 산업 발전 전략 모색",
+          "importance": 37,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007879"
+        }
+      ],
+      "summary_kr": "제네릭 산업의 구조적 문제를 다시 손보려는 움직임이 나타났다. 이는 단순한 품목 경쟁이 아니라 생산, 품질, 유통, 가격 구조를 함께 재설계해야 한다는 업계의 자기진단으로 볼 수 있다.",
+      "summary_en": "The generic-drug sector is moving toward a broader structural overhaul. This is less about individual products and more about redesigning production, quality, distribution, and pricing dynamics together."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 4,
+      "significance": "daily signal shared across KR/EN coverage"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 9,
+      "en_count": 2,
+      "significance": "daily signal shared across KR/EN coverage"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 8,
+      "en_count": 2,
+      "significance": "daily signal shared across KR/EN coverage"
+    }
+  ],
+  "notable_absences": [
+    "이번 분석창에는 총 5건만 들어와 클러스터가 2개로만 형성됐다.",
+    "영어/다국어 신호는 일간 요약에는 충분하지만 시간필터 구간에는 거의 남지 않았다.",
+    "규제·허가·임상 이슈는 존재하지만 이날 오전 창에서는 직능/산업 이슈가 더 강했다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일의 약국 정보 정비·공공의료 인력 이슈보다 오늘은 직능 면허체계와 제네릭 구조개편 논의가 더 선명하다.",
+      "전문의약품과 신약 성장 서사가 유지되면서도, 현재 창에서는 산업 확장보다 제도 정비 신호가 더 강하게 읽힌다."
+    ],
+    "changes": [
+      "직능/면허 문제와 산업구조 조정이 같은 날 주요 신호로 묶였다.",
+      "클러스터 수가 적어 개별 기사의 상징성이 상대적으로 커졌다."
+    ]
+  },
+  "connections": [
+    "면허체계 정비 요구와 제네릭 구조개편 논의는 모두 제도 정비 없이는 산업/현장 효율화가 어렵다는 점을 보여준다.",
+    "전문의약품 성장세는 신약·바이오 전략과 연결되고, 제네릭 재편은 가격·품질 경쟁력과 맞물린다.",
+    "허가·임상·약가 키워드는 한국어/영어 기사에서 동시에 포착돼 규제와 상업화가 함께 움직이고 있음을 시사한다."
+  ],
+  "generated_at": "2026-07-08T07:31:51.686170+09:00"
+}

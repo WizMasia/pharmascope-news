@@ -1,0 +1,552 @@
+{
+  "date": "2026-07-08",
+  "total": 388,
+  "version": 1,
+  "generated_at": "2026-07-08T06:30:33.637889+09:00",
+  "korean": {
+    "total": 175,
+    "categories": {
+      "의약품": 20,
+      "의약산업": 22,
+      "의약정책": 25,
+      "의약단체": 21,
+      "의약관련정부기관": 15,
+      "의료현장": 15,
+      "약국·약사": 6,
+      "의료정책·인력": 25,
+      "전통의학": 7,
+      "감염·보건": 19
+    },
+    "top_articles": [
+      {
+        "title": "[릴레이집회-293일차] &quot;약사&#183;한약사 면허체계 정비하라&quot;",
+        "source": "약사공론",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:33분+20 | 키워드+20 | 순위:42위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 찜통 더위가 한창인 가운데 한약사 문제 해결을 촉구하는 약사들의 목소리가 계속되고 있다(사진_대한약사회). 찜통 무더위 속 한약사 문제 해결을 촉구하는 대한약사회의 릴레이집회가 ...",
+        "published_time": "33분",
+        "modified_time": "",
+        "time": "33분",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+      },
+      {
+        "title": "&quot;바이넥스, 고객&#183;환자 모두 안심할 수 있는 의약품 CDMO 발돋움&quot;",
+        "source": "히트뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:132위+2",
+        "snippet": "바이오의약품 의약품 위탁 개발 및 생산기업(CDMO) 바이넥스가 올해 바이오 USA 2026에 참가해 자사 제조 생산 능력과 국내&#183;외 규제기관 품질 인증을 바탕으로 글로벌 고객사 유치에 나섰다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77402"
+      },
+      {
+        "title": "전문의약품 바이오 대세 속 ‘K-신약’ 영토 확장 '눈길'",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:30분+20 | 키워드+20 | 순위:120위+2",
+        "snippet": "[의학신문&#183;일간보사=김상일 기자]국내 완제의약품 시장이 전문의약품(ETC)과 일반의약품(OTC)의 고른 성장 속에 역대 최고 실적을 경신했다. 특히 전문의약품 시장은 바이오의약품의 가파른 성장세 속에서 국산 신약들이 괄목할 ...",
+        "published_time": "30분",
+        "modified_time": "",
+        "time": "30분",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007890"
+      },
+      {
+        "title": "&quot;전문성 높이고 정책 역량 강화&quot;…대구시약사회 팜페어&#183;연수교육 성황",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:2시간+20 | 키워드+5 | 순위:34위+2",
+        "snippet": "금병미 대구광역시약사회장이 5일 대구 엑스코에서 열린 ‘2026 대구광역시 약사 팜페어 및 회원 연수교육’ 개회식에서 인사말을 전하고 있다. &#169;약업신문=전하연 기자'편안한 약사, 안정된 약국, 단합된 ...",
+        "published_time": "2시간",
+        "modified_time": "",
+        "time": "2시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=329397"
+      },
+      {
+        "title": "[릴레이집회-293일차] &quot;약사&#183;한약사 면허체계 정비하라&quot;",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:33분+20 | 키워드+10 | 순위:122위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 찜통 더위가 한창인 가운데 한약사 문제 해결을 촉구하는 약사들의 목소리가 계속되고 있다(사진_대한약사회). 찜통 무더위 속 한약사 문제 해결을 촉구하는 대한약사회의 릴레이집회가 ...",
+        "published_time": "33분",
+        "modified_time": "",
+        "time": "33분",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+      },
+      {
+        "title": "글로벌 바이오의약품 규제, ‘심사기관 경쟁’ 시대 개막",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:1일+10 | 키워드+20 | 순위:89위+2",
+        "snippet": "[헬스코리아뉴스 / 임도이] 세포&#183;유전자치료제(CGT)를 비롯 혁신 신약 개발이 본격적인 성장 궤도에 올라서면서, 각국의 의약품 규제기관이 산업 경쟁력을 좌우하는 핵심 정책 변수로 부상하고 있다.특히 최근 중국이 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=350283"
+      },
+      {
+        "title": "'의정갈등'에 존재감 드러난 PA간호사 제도 안착 '난항'",
+        "source": "동아사이언스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:동아사이언스+28 | 최신:16시간+10 | 키워드+10 | 순위:90위+2",
+        "snippet": "진료지원(PA)간호사(전담간호사)를 교육하는 기관과 교육기관을 평가하는 기관을 분리하겠다는 정부의 교육&#183;평가 이원화 추진으로 간호계와 의사단체 간 감정의 골이 깊어지고 있다. PA간호사는 의사의 진료 업무를 보조하는 비공식 ...",
+        "published_time": "16시간",
+        "modified_time": "",
+        "time": "16시간",
+        "url": "https://www.dongascience.com/en/news/78812"
+      },
+      {
+        "title": "복지부, 17개 시도와 지역필수의료특별회계 방향 논의",
+        "source": "뉴시스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:16시간+10 | 키워드+10 | 순위:148위+2",
+        "snippet": "[세종=뉴시스] 강진아 기자 = 보건복지부가 7일 '제3차 지역&#183;필수&#183;공공의료 추진전략 중앙&#183;지방 협의체' 회의를 열고 내년 신설되는 지역필수의료특별회계의 추진방향 등을 논의했다.이형훈 제2차관 주재로 열린 회의에는 17개 ...",
+        "published_time": "16시간",
+        "modified_time": "",
+        "time": "16시간",
+        "url": "https://www.newsis.com/view/NISX20260707_0003698544"
+      },
+      {
+        "title": "‘감염병 차단에 총력’…함평군 장마철 방역 강화",
+        "source": "전남타임스",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:전남타임스+10 | 최신:10시간+15 | 키워드+20 | 순위:113위+2",
+        "snippet": "전남 함평군이 장마철을 맞아 해충 활동이 늘어남에 따라 대대적인 방역 작업에 착수했다. 함평군은 6일부터 31일까지 숲, 하천, 관광지 등 200여 곳에 집중하여 해충 번식지와 인구 밀집 지역을 중심으로 방역 소독을 벌이고 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "http://www.jntimes.kr/news/articleView.html?idxno=83468"
+      },
+      {
+        "title": "한국산업약사회, 제12회 PYLA 개막…차세대 제약바이오 인재 양성 본격화",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+10 | 순위:124위+2",
+        "snippet": "&#169;한국산업약사회한국산업약사회가 제약&#183;바이오 산업을 이끌 차세대 약사 인재 양성을 위한 대표 교육 프로그램인 'PYLA(Pharm Young Leader Academy)'를 본격적으로 시작했다. 특히 올해부터 주최가 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=329452"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        18
+      ],
+      [
+        "임상",
+        9
+      ],
+      [
+        "약가",
+        8
+      ],
+      [
+        "급여",
+        8
+      ],
+      [
+        "한약",
+        8
+      ],
+      [
+        "백신",
+        6
+      ],
+      [
+        "허가",
+        5
+      ],
+      [
+        "제네릭",
+        5
+      ],
+      [
+        "항암",
+        4
+      ],
+      [
+        "심사",
+        3
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "CDMO",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "FDA",
+        1
+      ],
+      [
+        "CRO",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        7
+      ],
+      [
+        "약사공론",
+        4
+      ],
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "한의신문",
+        2
+      ],
+      [
+        "히트뉴스",
+        1
+      ],
+      [
+        "데일리팜",
+        1
+      ],
+      [
+        "아시아타임즈 on MSN",
+        1
+      ],
+      [
+        "코리아헬스로그",
+        1
+      ],
+      [
+        "더팩트",
+        1
+      ],
+      [
+        "허프포스트코리아 on MSN",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "DailyPharm",
+        1
+      ],
+      [
+        "썬뉴스",
+        1
+      ],
+      [
+        "동아사이언스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 131,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 6
+    },
+    "top_articles": [
+      {
+        "title": "Weakening drug patents won't lower costs; it will slow innovation | Opinion - The Detroit News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 20:23:00 GMT+5 | 키워드+30 | 순위:311위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORkt6MVFBR3Qxdkh3MmhHM21PaE1yYlg0dGV0SlZGYmVpSE96NmNvLUljWkJ4Si04LTg4UnN5M09SdjJxSGdXdjZZZE5tT2dlVjhUUEczUkVweFRoQ19Rb2s5U0lYQjQ3ZFd3LS1TS3",
+        "published_time": "Tue, 07 Jul 2026 20:23:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 20:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORkt6MVFBR3Qxdkh3MmhHM21PaE1yYlg0dGV0SlZGYmVpSE96NmNvLUljWkJ4Si04LTg4UnN5M09SdjJxSGdXdjZZZE5tT2dlVjhUUEczUkVweFRoQ19Rb2s5U0lYQjQ3ZFd3LS1TS3hvRS1qSzcwZndVZUJzZDhWM3pVS1k1dV9BZ1dwSkpYbFdrdHZFajY4clV1NVNWdlo3MERWR3EzTnR3SkZ6M3g5LWtoZ0ZlbHBFaWhyWg?oc=5"
+      },
+      {
+        "title": "US FDA approves Vera's kidney disease drug - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 17:09:46 GMT+5 | 키워드+30 | 순위:313위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnNqbi1qZXFlbXZOb2NiX2xpZUx6bkJIekQyRDRzeFZLdllzWHFLTXJQNXhYVDRmT0NObUJJRjZCcVZyZWFmdzlOblE0TXhkT014VjFJZksyR1F2a05HNVk3eTJlNU9aNXVOTkN3cH",
+        "published_time": "Tue, 07 Jul 2026 17:09:46 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 17:09:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdnNqbi1qZXFlbXZOb2NiX2xpZUx6bkJIekQyRDRzeFZLdllzWHFLTXJQNXhYVDRmT0NObUJJRjZCcVZyZWFmdzlOblE0TXhkT014VjFJZksyR1F2a05HNVk3eTJlNU9aNXVOTkN3cHFCck1PVk5wak1qVHQyUG9zSVFaWmJYV1k0Q1BEaXRsaFcyNXg3RG5rNjI1MXhhai0zUjlvX0g5bE5ldHp2emlJdzhMaw?oc=5"
+      },
+      {
+        "title": "De-risking drug formulation with AI predictive modelling - Pharmaceutical Technology",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 12:26:34 GMT+5 | 키워드+30 | 순위:314위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0JfZHNPZXRDVDduVmduQlVHaGRLalV2ZkVjdTFDWnNYOGJpbGJMcktBbDdNT3ozRkEwZGNKZm5VNTI0MkdsUDdwRHZKcVZac0tkZHpGVTNMdUhaZ1ZyOU14UXd1VnVlNnNNZXQ4R2",
+        "published_time": "Tue, 07 Jul 2026 12:26:34 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 12:26:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0JfZHNPZXRDVDduVmduQlVHaGRLalV2ZkVjdTFDWnNYOGJpbGJMcktBbDdNT3ozRkEwZGNKZm5VNTI0MkdsUDdwRHZKcVZac0tkZHpGVTNMdUhaZ1ZyOU14UXd1VnVlNnNNZXQ4R2xCUktHTjk4bS1IWXdaZlZ6U1daQ1RIOVRCZ2d5VENIcklVXzhxUndEdHFZWllXQ1FfUW9iTkJ3bWpJVzJvYVE?oc=5"
+      },
+      {
+        "title": "Saol Therapeutics Resubmits the New Drug Application for SL1009 (DCA) for the Treatment of Pyruvate Dehydrogenase Complex Deficiency (PDCD), an Ultra-Rare Disease - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 12:00:00 GMT+5 | 키워드+30 | 순위:317위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAJBVV95cUxQb3JJcHAwNVowdWVDRzJuNktRVWdscXJsUjVfZHdnTjBmcGg5UUQtc1Zja2U3cW9vZG9HQTBlSTlXS1JuM1NBYWVVZU9LUTFXUC1kYWRrVlhFMTY5OTZMLS1rd2hLVXlUYjhoR0lkMU",
+        "published_time": "Tue, 07 Jul 2026 12:00:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 12:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQb3JJcHAwNVowdWVDRzJuNktRVWdscXJsUjVfZHdnTjBmcGg5UUQtc1Zja2U3cW9vZG9HQTBlSTlXS1JuM1NBYWVVZU9LUTFXUC1kYWRrVlhFMTY5OTZMLS1rd2hLVXlUYjhoR0lkMUJvNGpPYjRhOEdjZkpWcU1GUDFic0cwRjR2cGhnNlBZTWpTNTk5QkJUZHA3RWxmMjBlUXlCcW9qTTNsdUhrWFFueE9fcE1OWlh6Unlab09iSHBDSjFqOU9veEFiNkp5cTUwcmNUOElxNG5DeV9CNXU2SjdzUU12LTNyVDRSOXVnQzY3eV9Nd0ZIZFpoTmVjUENLbURVQVY0Mm51V0daX0tqMF81Z1AxdUpub0VIdEVrQzZMUVN2dFFETm9UY041MGtuc0lzSkkwWTU?oc=5"
+      },
+      {
+        "title": "Eupraxia Pharmaceuticals (EPRX) adds three drug development and commercialization experts to board - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 20:21:07 GMT+5 | 키워드+30 | 순위:318위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek5xa1prdkhmaGJUdXZmc0VSdGFtRzhSR2s3TXdMSF9TRzNUTk9ManNacW5wMXlxMThNZS0xc2dxNzMtM1huZUxUYmN5VUNtY0RueHh4VTRvSkhWQjNCT2dVNWhGVGdnU2lzcDFnTG",
+        "published_time": "Tue, 07 Jul 2026 20:21:07 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 20:21:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOek5xa1prdkhmaGJUdXZmc0VSdGFtRzhSR2s3TXdMSF9TRzNUTk9ManNacW5wMXlxMThNZS0xc2dxNzMtM1huZUxUYmN5VUNtY0RueHh4VTRvSkhWQjNCT2dVNWhGVGdnU2lzcDFnTGtzRGxNc3RjU1hvM3ozUnNRVjF2b3NGeng5amx2S0w1dU84QXFfbW92Z0Nha0phcnZadDY0aHZuc2xlc01ENllfdnBlUmwzb1htZkFXVjAzOF9RQQ?oc=5"
+      },
+      {
+        "title": "Daraxonrasib Review Signals Shift in EU Drug Assessment Rules - PharmTech.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 17:13:31 GMT+5 | 키워드+30 | 순위:319위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHlMdWgzQ1dfNXQ3OGZmOVBWZVNicHIxdkdaT3NyYk1RLUhURGNxZGxRSDZ3RkdvQTg5bm42MWtmZzMtV0VQc05vdW1DUTFvUWNQc0syQ01pRzR4ODJKQnpBa2o0MXJBemF4bjZpZF",
+        "published_time": "Tue, 07 Jul 2026 17:13:31 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 17:13:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHlMdWgzQ1dfNXQ3OGZmOVBWZVNicHIxdkdaT3NyYk1RLUhURGNxZGxRSDZ3RkdvQTg5bm42MWtmZzMtV0VQc05vdW1DUTFvUWNQc0syQ01pRzR4ODJKQnpBa2o0MXJBemF4bjZpZFZqa3pjMFJ1XzVFQm9DRmtVSjkyNzFJb3RXVHZFRkJfV0pzRjQ?oc=5"
+      },
+      {
+        "title": "Sustained Release Polymers Market Advances as Drug Delivery Innovation Reshapes Pharmaceutical Formulation Strategies with USD 7.8 Billion in 2036 | Future Market Insights - 24-7 Press Release Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 07:01:55 GMT+5 | 키워드+30 | 순위:322위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAJBVV95cUxQeWZNYk9sTF9SQ0NsTkRoY1d4V25QckVsM0h4QTlyeU5ySVRTQjlhS2VTakxueFdhSmJCTS1zczNVeXB6OUg5UGluY1NDbnVUVXpmMC1taVlvcGZfam1zbi1zNGFlb3lKSktjRXhwSH",
+        "published_time": "Tue, 07 Jul 2026 07:01:55 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 07:01:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQeWZNYk9sTF9SQ0NsTkRoY1d4V25QckVsM0h4QTlyeU5ySVRTQjlhS2VTakxueFdhSmJCTS1zczNVeXB6OUg5UGluY1NDbnVUVXpmMC1taVlvcGZfam1zbi1zNGFlb3lKSktjRXhwSHVWRDhXRlo1eTk0N0k3QTFaem9UdHl5bWxZVnBoMDZJUUl1aWFLSmFieWd4SjRDbUFPQllEZGVvZXdYTWxYSUhEbXdRYVBvSUs0YWlNNHNmaWpTTXkxc0ZoXy1ZSVlJeW1zZ1gtOGZrWUpCdkdTMnoyTHJubGthMlliaDFMVGZhdkNVeWN3bmhFNm5DVzdIYXF4Ql8xTzJxQXZ3UU1WUU8xYnhDZ1FZd181V1hDQ3ZqNEIya2ExTEhWR1JWU1ZDRTNtUEJiTlMwOUxXWHpiUWhiNWpFOGI?oc=5"
+      },
+      {
+        "title": "Island Pharma drug cleared for Bundibugyo Ebola use - pharmaphorum",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 13:04:53 GMT+5 | 키워드+30 | 순위:323위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9fczZIVWZmUzByaWppU0NkRXdpVTgtazdNOXphOUM1aVVObzVhSlZnbVRnUVBkRWt4UkR6QUMwRVhjQmd4am9PcHp3U3gwUWU1dWRfdlpscnlmNGtQejZPeFJCNmFQNXRUeEVGdD",
+        "published_time": "Tue, 07 Jul 2026 13:04:53 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 13:04:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQek9fczZIVWZmUzByaWppU0NkRXdpVTgtazdNOXphOUM1aVVObzVhSlZnbVRnUVBkRWt4UkR6QUMwRVhjQmd4am9PcHp3U3gwUWU1dWRfdlpscnlmNGtQejZPeFJCNmFQNXRUeEVGdDR3ODRsMkRKQkVmV0xIWDFjeVhLUQ?oc=5"
+      },
+      {
+        "title": "Drug price disputes swamp medicine approvals committee - The Australian",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 19:05:17 GMT+5 | 키워드+30 | 순위:324위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYlAyUzFMdjgzZ3N0YjhPdHhZbzdXTWJoUmpCNnhvNVZHWWw0SDI4S3dBcWR4NTlnOUlyRWFqdFkxTS1aZTRPbTRjVUpvVl92bEt5T2FfVzlJLWVOX2FHYlc4aUEtb016YkZoWmlNZX",
+        "published_time": "Tue, 07 Jul 2026 19:05:17 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 19:05:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYlAyUzFMdjgzZ3N0YjhPdHhZbzdXTWJoUmpCNnhvNVZHWWw0SDI4S3dBcWR4NTlnOUlyRWFqdFkxTS1aZTRPbTRjVUpvVl92bEt5T2FfVzlJLWVOX2FHYlc4aUEtb016YkZoWmlNZXZrY3lhelNyLTFxR09ZczF3OUFXem1sVUZIU29UblE0ZTQ5WF8wWnBjZ0Nob1poVEZXbVlfYVk1VzVVLWZ2RTdEdjdJRlhtN0ZLRWV4OXpxXzVBazFVbEQ1eHFMS3FscnIzWG1vUUxhTHVDRnVfT3hZemdEdk5NOTRSa1I2U9IB8gFBVV95cUxPQTlEQUI2ZUFsVlFENUt6VmU1SnBxZEFfMmN2OWUzcTJUMTlOdXZwUFVpRHI3S2dVOXBLeHVvTDRKcGxoZThaVzJqUW5HWXRQempKOWMtVUpxQkJ3Q3dUZmhjOEZBeUY5clN4dW5MUlhIS18tcXM1SlRjbWJDTnNQOEFsT0FGTGZHRVFHV0VKN2dPNE1xazkyNFNVVXJEZXZXdjZzaVRSb01vRDdjR2xGZVpxRkpyQmFCNVhOSlQ2eGlId2dsOWx0Xzhnd3BtWmtoNTZpLXBUblVRRkRBd3RuaHVHZGdta0hhYUVTUTA1OVJFdw?oc=5"
+      },
+      {
+        "title": "HK cancer patients flock to Shenzhen for cheaper drugs and faster treatment access - The Standard (HK)",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 14:38:30 GMT+5 | 키워드+30 | 순위:328위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXNwZDZpY256aFl2X0wwMzNxN3NHRUJxaW5GYzdldlZzVXB5NUM1WElqSVo4ZUJpWllGajdjaTZmTVZOSS1mWFlKQ29rS2ZQb2xFeHpGUEQ2OUpYUEgwZ2Jwa2tEcmduMUlKRnBsLW",
+        "published_time": "Tue, 07 Jul 2026 14:38:30 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 14:38:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXNwZDZpY256aFl2X0wwMzNxN3NHRUJxaW5GYzdldlZzVXB5NUM1WElqSVo4ZUJpWllGajdjaTZmTVZOSS1mWFlKQ29rS2ZQb2xFeHpGUEQ2OUpYUEgwZ2Jwa2tEcmduMUlKRnBsLWVhNDNyWTJKcDBaeHNNdkd0RWVtR19ieEMxeUJwQjg3eFp0OFd2bktpblpGVUVkRGUtMXFTS24zSDdVcTB4QUZEdkh6QUpPRWhoT3JDTjNYV3BVcEVHZS1UX0ZKY0tpUQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        21
+      ],
+      [
+        "GLP-1",
+        4
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "manufacturing",
+        3
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "inspection",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "patent",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 82,
+    "languages": {
+      "French / 프랑스어": 1,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 7,
+      "Japanese / 일본어": 1,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 4,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 2,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Doktorlar, zehirli yılan ısırması sonucu hastaları defalarca tedavi ettikten sonra, halk ilaçlarına güvenmenin \"altın zamanı\" kaybetme tehlikesine karşı uyarıda bulunuyor. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 10:39:41 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUpLaU9ES01DNS1qWEFJWG5VR3BjbVhIY1k4YU5rTF8xSlVTSG5MQThOd09fb3BYOXhoLXNPZktTV3FqdXYwUTB0TFI2ZF9Ra3JFTnlkVUtDLVdKUk9iOWxmWHBsZ1JyeGU1TXBwcE",
+        "published_time": "Tue, 07 Jul 2026 10:39:41 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 10:39:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUUpLaU9ES01DNS1qWEFJWG5VR3BjbVhIY1k4YU5rTF8xSlVTSG5MQThOd09fb3BYOXhoLXNPZktTV3FqdXYwUTB0TFI2ZF9Ra3JFTnlkVUtDLVdKUk9iOWxmWHBsZ1JyeGU1TXBwcExsRWZLbG9OUFRRMG0yT3VKZUsyY3gwQ1U4QjgwN1RjUFlDX2gyaDBNcXFFU211RnYzRlJ6RGZ1UU52Y2xJNjVraGZRUWUxYXhXMWhzUA?oc=5"
+      },
+      {
+        "title": "中國菲律賓中醫藥中心“三伏灸”特色療法開始預約啦 - United News Ph",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 16:08:02 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YU3Z2Q0tvNXUyMVJGY2phTmsyc1kxSklHMzRKVGt0ZFZ3dklMS1dhQlhFRWxlamxwaGNSeXNxNlBXTUtsajhsMFFPaE52QU5ERW1xSWZSa3NxZGYxWHc?oc=5\" target=\"_blank\">",
+        "published_time": "Tue, 07 Jul 2026 16:08:02 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 16:08:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YU3Z2Q0tvNXUyMVJGY2phTmsyc1kxSklHMzRKVGt0ZFZ3dklMS1dhQlhFRWxlamxwaGNSeXNxNlBXTUtsajhsMFFPaE52QU5ERW1xSWZSa3NxZGYxWHc?oc=5"
+      },
+      {
+        "title": "Cegah Obat Ilegal, BPOM Minta Logistik Farmasi Terapkan Pelacakan Digital - Tribunnews.com",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 08:40:54 GMT+5 | 키워드+25 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXRYQU9KeGpPVGRDbGN2NDBSaVpwS3JsbGFmbEhYMHBBQzFQYVgxNTVqb2ZYNktOaGFiTnV1YzBfTE55WUZSRVQ5UDRUbVk0SHFTVHpOYkl4MGg2NDRub0JnT25GSWhWTnltTWZfRW",
+        "published_time": "Tue, 07 Jul 2026 08:40:54 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 08:40:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXRYQU9KeGpPVGRDbGN2NDBSaVpwS3JsbGFmbEhYMHBBQzFQYVgxNTVqb2ZYNktOaGFiTnV1YzBfTE55WUZSRVQ5UDRUbVk0SHFTVHpOYkl4MGg2NDRub0JnT25GSWhWTnltTWZfRWM2cTBHaVVKaEZRd2xuekVPUkI4N3pJWHlpd0p6TGdQU0Vycnp2RmtPYmh1Z19UN0JtdjNOalJMLUpXUUo3bUVhRU9CNDd2cU90eVZJ0gG7AUFVX3lxTE1ZdFhBT0p4ak9UZENsY3Y0MFJpWnBLcmxsYWZsSFgwcEFDMVBhWDE1NWpvZlg2S05oYWJOdXVjMF9MTnlZRlJFVDlQNFRtWTRIcVNUek5iSXgwaDY0NG5vQmdPbkZJaFZOeW1NZl9FYzZxMEdpVUpoRlF3bG56RU9SQjg3eklYeWl3SnpMZ1BTRXJyenZGa09iaHVnX1Q3Qm12M05qUkwtSldRSjdtRWFFT0I0N3ZxT3R5Vkk?oc=5"
+      },
+      {
+        "title": "Una News: बल्क ड्रग पार्क में बॉयलर से स्टीम लेने पर उद्योगों को देना होगा शुल्क - Amar Ujala",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 19:11:22 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTDFZZUZGcnFWYWVRQm9LUVlxS2hCY0NPbmt2R2QwcERveE55T3BWQjNoQ21PY25uRjZXS081c0JPN09KcVItS2JmdjJ5bmloYU9ndVI3YnZGWUdIeS1QVi13VmYzYkd3bGNhV3M0Z1",
+        "published_time": "Tue, 07 Jul 2026 19:11:22 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 19:11:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTDFZZUZGcnFWYWVRQm9LUVlxS2hCY0NPbmt2R2QwcERveE55T3BWQjNoQ21PY25uRjZXS081c0JPN09KcVItS2JmdjJ5bmloYU9ndVI3YnZGWUdIeS1QVi13VmYzYkd3bGNhV3M0Z1Z0T0d4cEtVQ0R4WExXSEtSWWRGYVVtZFN2cFlsM3hpYmJzWlZfUmtjaTctTjM0ZTk1dUVPTk5oU2FfQWJEOXNuQmFrN1hTdHM3RHZNODFIdGI1ZzZPWTk4S2RFUk1EVkZTajg1cU5HY0daMkNCaWN0MmNHQXQzQmJhUmpwQ0FUNWtLV0pJbmNZbUt3Rm9hcUNzc2REcHo2TXZaT2fSAZACQVVfeXFMT0VCQkhQTHhkMlBvdlQ4OERNVXpOelVpMUd2VkZvc1J0anI0VVVHYlBkZTJFTHJHeXR0WENSLUJXZ1E0M1gyNXVFaDF2alZRcWVLMi0yN0p6YkVEV09xWHAxUWVQbWd6T3ZvVTNpaEliMW5KcVJkSUp3UmYyMkNnYmNaTzNZeHNuRm1lelc5SUdyMjR5dGRURUl5Um44dXY1WWtaRWJ4Z0I1WXMwNE1ROTJQbW5LTllQUVJwazBzS05GUG8tX2lINmVudy1jQy1PMVYydGd5V2VOSURhSEhpV0JuSk1zSE1PLXZJbVZySmZTNkRxNWxpX3BqOVpmZGl0X21ZN29IU0twb2ZXajB2MDc?oc=5"
+      },
+      {
+        "title": "Russie : La société marocaine Galenica réalise sa première livraison pharmaceutique - Yabiladi.com",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 07 Jul 2026 16:05:16 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmRsMVVvaGdDT1A5dmg3eHg0Qzl2azhvV25lMzQtTEVIbW5wM3Z3c3pERUp0LUg2bTZRcTVhSjlRRHVJTTFuQ25TNUhZaGJVN1FTR3JXbk5TX0ZpaVpFMEFZTG1nM1JJWFFlLUJPem",
+        "published_time": "Tue, 07 Jul 2026 16:05:16 GMT",
+        "modified_time": "",
+        "time": "Tue, 07 Jul 2026 16:05:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmRsMVVvaGdDT1A5dmg3eHg0Qzl2azhvV25lMzQtTEVIbW5wM3Z3c3pERUp0LUg2bTZRcTVhSjlRRHVJTTFuQ25TNUhZaGJVN1FTR3JXbk5TX0ZpaVpFMEFZTG1nM1JJWFFlLUJPempNY2gyTTNzMWtiNUlndHFQVTREbXRSY21NdXJrZ0N4MHFIa1JEVmR3NzFuRQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
