@@ -1,0 +1,164 @@
+{
+  "date": "2026-07-09",
+  "total_articles": 416,
+  "language_breakdown": {
+    "korean": {
+      "total": 190,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 24,
+        "의약정책": 25,
+        "의약단체": 12,
+        "의약관련정부기관": 25,
+        "의료현장": 15,
+        "약국·약사": 13,
+        "의료정책·인력": 25,
+        "전통의학": 5,
+        "감염·보건": 21
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 96,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "급여·약가 재편이 치료 접근성과 시장 규칙을 다시 쓰는 중",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "‘무모한 엄마’의 저인산혈증 치료제 급여 확정 투쟁기 [건강한겨레]",
+          "importance": 55,
+          "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1267397.html"
+        },
+        {
+          "title": "[기자의 눈] 복잡한 약가 제도와 씁쓸한 로펌의 특수",
+          "importance": 51,
+          "url": "https://www.dailypharm.com/user/news/340266"
+        },
+        {
+          "title": "국산 첫 CAR-T '림카토' 급여기준 설정…암질심 문턱 넘었다",
+          "importance": 51,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77520"
+        }
+      ],
+      "summary_kr": "저인산혈증 치료제 급여 확정, 약가 제도 개편, 국산 CAR-T 급여기준 설정이 같은 날 묶이며 치료 접근성과 가격·등재 규칙이 동시에 재정비되는 흐름이 드러났다. 개별 품목 이슈가 아니라 보험·급여·법률 자문 수요까지 함께 움직이는 구조 변화로 읽힌다.",
+      "summary_en": "Coverage, pricing, and reimbursement are being reset together, from a rare-disease therapy and pricing reform to CAR-T reimbursement criteria. The signal is structural: access, legal review, and payer rules are moving in tandem."
+    },
+    {
+      "topic": "글로벌 암약물 연구가 신약개발의 다음 질문을 던진다",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Scientists finally crack nature's secret for building better cancer drugs - ScienceDaily",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVnM3dkVQX1BwX0ZhVHVVcXpsOFdYMmVWck1sMk1KbWRoU1U2OE1hbkJZdlJiSTZwSUN0WFgtNmJSTTRyVzZocVRpSGdzb3Jha0RJdk9ma0NMVUYzTmdpYzZnRDREYUZ3NWNoMGln?oc=5"
+        }
+      ],
+      "summary_kr": "ScienceDaily 기반 보도는 더 나은 항암제 설계의 원리를 다시 푸는 연구 신호를 담고 있다. 다만 원문은 Google News RSS 경로만 남아 있어 직접 URL 검증은 이번 창에서 완료되지 않았다.",
+      "summary_en": "The ScienceDaily item points to a basic-research signal about designing better cancer drugs. The feed item remained a Google News RSS URL in this run, so publisher-link verification was not completed in the analysis window."
+    },
+    {
+      "topic": "CDMO 성적표가 갈린다 — 생산 투자와 상업화 속도 경쟁",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "삼성바이오&#183;롯데바이오&#183;셀트리온, 엇갈린 상반기 CDMO 성적표",
+          "importance": 42,
+          "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607080956153290357"
+        }
+      ],
+      "summary_kr": "삼성바이오로직스·롯데바이오로직스·셀트리온의 상반기 CDMO 성적표는 같은 업계라도 투자 타이밍과 상업화 속도에 따라 결과가 갈릴 수 있음을 보여준다. 생산능력 확대와 수주 전환 사이의 간격이 다시 핵심 경쟁요소로 부상했다.",
+      "summary_en": "The mixed first-half CDMO results for Samsung Biologics, Lotte Biologics, and Celltrion show that timing and commercialization speed matter as much as capacity expansion. The gap between investment and revenue conversion is back in focus."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1,
+      "significance": "daily signal shared across KR/EN coverage"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 6,
+      "significance": "daily signal shared across KR/EN coverage"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 2,
+      "significance": "daily signal shared across KR/EN coverage"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 3,
+      "en_count": 1,
+      "significance": "daily signal shared across KR/EN coverage"
+    }
+  ],
+  "notable_absences": [
+    "시간필터 구간에는 5건만 남아 클러스터가 형성되지 않았다.",
+    "Google News RSS 기반 기사 1건은 이번 창에서 직접 URL 검증 대신 피드 URL 상태로 남았다.",
+    "전체 수집량은 416건이지만 06:30~익일 06:29 창에서는 오전 신호가 압축적으로 나타났다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일의 면허체계·제네릭 구조개편보다 오늘은 급여·약가와 CAR-T 등재 기준처럼 즉시 집행 가능한 제도 이슈가 더 강하다.",
+      "산업 확장 서사보다 접근성·보험·규정 준수 중심의 제도 신호가 전면에 나왔다."
+    ],
+    "changes": [
+      "치료 접근성(급여/약가)과 상업화(CDMO) 사이의 간극이 다시 강조됐다.",
+      "한영 교차 키워드는 허가·임상·약가·백신으로 유지되지만, 이번 창에서는 정책 신호가 더 뚜렷하다."
+    ]
+  },
+  "connections": [
+    "저인산혈증 급여, CAR-T 기준, 약가 제도 개편은 모두 보험자-제약사-환자 사이의 협상 규칙을 바꾸는 이슈다.",
+    "항암 신약 연구와 CDMO 성적표는 연구 → 생산 → 상업화의 이어진 밸류체인을 보여준다.",
+    "허가·임상·약가·백신의 한영 교차 신호는 규제와 임상 근거가 글로벌 의약 뉴스의 공통 언어임을 시사한다."
+  ],
+  "generated_at": "2026-07-09T07:35:04.501003+09:00"
+}

@@ -1,0 +1,548 @@
+{
+  "date": "2026-07-09",
+  "total": 416,
+  "version": 1,
+  "generated_at": "2026-07-09T06:31:09.544249+09:00",
+  "korean": {
+    "total": 190,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 24,
+      "의약정책": 25,
+      "의약단체": 12,
+      "의약관련정부기관": 25,
+      "의료현장": 15,
+      "약국·약사": 13,
+      "의료정책·인력": 25,
+      "전통의학": 5,
+      "감염·보건": 21
+    },
+    "top_articles": [
+      {
+        "title": "‘무모한 엄마’의 저인산혈증 치료제 급여 확정 투쟁기 [건강한겨레]",
+        "source": "한겨레",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:1시간+20 | 키워드+5 | 순위:144위+2",
+        "snippet": "엄마는 무모했다. 그 무모함이 딸아이의 치료제를 급여로 사용할 수 있도록 세상을 바꿨다. 지난 7월1일, 엑스(X) 염색체 연관 저인산혈증(XLH) 치료제 ‘크리스비타(성분명 부로수맙)’가 건강보험심사평가원의 ...",
+        "published_time": "1시간",
+        "modified_time": "",
+        "time": "1시간",
+        "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1267397.html"
+      },
+      {
+        "title": "[기자의 눈] 복잡한 약가 제도와 씁쓸한 로펌의 특수",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:31분+20 | 키워드+5 | 순위:140위+2",
+        "snippet": "대규모 약가제도 개편을 앞두고 제약바이오 업계의 발걸음은 세종시가 아닌 서울 서초동과 광화문의 대형 로펌으로 향하고 있다. 국내 제약사들은 새로 도입될 혁신형&#183;준혁신형 기준 충족 여부를 따져 손실을 최소화하기 위해, ...",
+        "published_time": "31분",
+        "modified_time": "",
+        "time": "31분",
+        "url": "https://www.dailypharm.com/user/news/340266"
+      },
+      {
+        "title": "국산 첫 CAR-T '림카토' 급여기준 설정…암질심 문턱 넘었다",
+        "source": "히트뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:24분+20 | 키워드+5 | 순위:147위+2",
+        "snippet": "국내 기업이 개발한 첫 번째 CAR-T 치료제인 큐로셀 '림카토주(성분명 안발캅타젠오토류셀)'가 건강보험 급여기준을 설정하며 건강보험 등재를 위한 첫 관문을 통과했다. 지난 암질환심의위원회에서 임상 근거 부족으로 급여기준이 ...",
+        "published_time": "24분",
+        "modified_time": "",
+        "time": "24분",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77520"
+      },
+      {
+        "title": "[릴레이집회-293일차] &quot;약사&#183;한약사 면허체계 정비하라&quot;",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:30위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 찜통 더위가 한창인 가운데 한약사 문제 해결을 촉구하는 약사들의 목소리가 계속되고 있다(사진_대한약사회). 찜통 무더위 속 한약사 문제 해결을 촉구하는 대한약사회의 릴레이집회가 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=538167"
+      },
+      {
+        "title": "함평군, 장마철 해충 차단 총력…방역소독 대폭 강화",
+        "source": "스포츠동아",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:스포츠동아+28 | 최신:15시간+10 | 키워드+10 | 순위:126위+2",
+        "snippet": "■ 숲&#183;하천&#183;관광지 등 200여 곳 집중 소독…해충 선제 대응■ 복지시설 위생 점검 병행…여름철 감염병 예방체계 강화함평군이 장마철 이후 급증하는 모기와 파리 등 위생 해충으로부터 군민과 관광객을 보호하기 위해 대대적인 방역 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://sports.donga.com/region/article/all/20260708/134255594/1"
+      },
+      {
+        "title": "대전성모병원, 전공의 수련환경 혁신지원사업 선정",
+        "source": "의학신문",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:17시간+10 | 키워드+25 | 순위:89위+2",
+        "snippet": "[의학신문&#183;일간보사=정광성 기자] 대전성모병원(원장 강전용)이 최근 보건복지부가 주관한 ‘2026년 전공의 수련환경 혁신지원 사업’에 선정됐다. 사진제공= 대전성모병원 전공의 수련환경 혁신지원 사업은 양질의 수련 교육을 통해 ...",
+        "published_time": "17시간",
+        "modified_time": "",
+        "time": "17시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007941"
+      },
+      {
+        "title": "디앤디파마텍, FAP 타깃 라이선스 제품 유럽 2상 개시",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:15시간+10 | 키워드+10 | 순위:144위+2",
+        "snippet": "디앤디파마텍이 FAP 타깃 원천 특허 기반 라이선스 제품의 임상 진전에 따라 마일스톤을 수령할 예정이다. 자체 개발한 FAP 타깃 PET 조영제 'PMI07'과 별도로 파트너사의 후속 파이프라인이 임상 2상에 진입하며 특허 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=414290"
+      },
+      {
+        "title": "국산 CAR-T '림카토주' 급여기준 설정…DCEP 확대&#183;퍼제타 재논의",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:11시간+15 | 키워드+5 | 순위:148위+2",
+        "snippet": "&#169;건강보험심사평가원국산 CAR-T 세포치료제 '림카토주(안발캅타젠오토류셀)'의 건강보험 급여기준이 마련됐다.재발&#183;불응성 다발골수종 환자에 사용하는 DCEP 병용요법도 급여기준이 설정된 반면, 한국로슈의 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=329572"
+      },
+      {
+        "title": "약사회, 공직약사 진로설명회 개최…약대생 진로탐색 지원",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:16시간+10 | 키워드+10 | 순위:69위+2",
+        "snippet": "대한약사회가 약대생들에게 공직약사의 다양한 진로를 소개하고 실무 경험을 공유하는 진로설명회를 열었다. 대한약사회는 지난 2일부터 3일까지 이틀간 약사회관 4층 강당에서 약대생을 대상으로 '공직약사 진로설명회'를 개최했다고 ...",
+        "published_time": "16시간",
+        "modified_time": "",
+        "time": "16시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=329561"
+      },
+      {
+        "title": "신약개발 윤리 강화 나선 유한양행…임상시험 안전관리 체계 고도화 - PRESS9",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 07:31:57 GMT+5 | 키워드+25 | 순위:227위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JNHQ4cWNtdDBTMG9tYmNJbGJVQzVhM1JhUlRCcHZ6SUxpS2VoS1A5U1ZtRGl0eF9hR3d2U0RFRGtDU29qQmNCVlJfcXRmbFROekk1ZUNRdDYwT1pxaG5iRzEyakU?oc=5\" target=\"",
+        "published_time": "Wed, 08 Jul 2026 07:31:57 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 07:31:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JNHQ4cWNtdDBTMG9tYmNJbGJVQzVhM1JhUlRCcHZ6SUxpS2VoS1A5U1ZtRGl0eF9hR3d2U0RFRGtDU29qQmNCVlJfcXRmbFROekk1ZUNRdDYwT1pxaG5iRzEyakU?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        22
+      ],
+      [
+        "급여",
+        19
+      ],
+      [
+        "비만",
+        13
+      ],
+      [
+        "식약처",
+        12
+      ],
+      [
+        "수출",
+        10
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "오남용",
+        6
+      ],
+      [
+        "한약",
+        5
+      ],
+      [
+        "임상",
+        4
+      ],
+      [
+        "허가",
+        3
+      ],
+      [
+        "약가",
+        3
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "CDMO",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "바이오시밀러",
+        2
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "FDA",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        7
+      ],
+      [
+        "약사공론",
+        5
+      ],
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "히트뉴스",
+        2
+      ],
+      [
+        "문화뉴스",
+        2
+      ],
+      [
+        "데일리팜",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "대한경제",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ],
+      [
+        "뉴스1 on MSN",
+        1
+      ],
+      [
+        "머니투데이 on MSN",
+        1
+      ],
+      [
+        "데일리메디",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "한의신문",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 130,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 5
+    },
+    "top_articles": [
+      {
+        "title": "Experts call for more evidence as WHO pushes complementary, alternative medicine - Juta MedicalBrief",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 15:00:20 GMT+5 | 키워드+30 | 순위:16위+5",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkJSYnhBcF9NWUFuczBmdWRqUkZWcktHNnRRQ25JcFA5WFEyTkQtNlc2MVkwcWJ3VWZFX2hCb1JOM1pseFRJX0kyTVV5SWFNd0J3bkt2Rm5VMk9UZUZzcUZjMXA1ZVVkU2xoa1N0Q3",
+        "published_time": "Wed, 08 Jul 2026 15:00:20 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 15:00:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkJSYnhBcF9NWUFuczBmdWRqUkZWcktHNnRRQ25JcFA5WFEyTkQtNlc2MVkwcWJ3VWZFX2hCb1JOM1pseFRJX0kyTVV5SWFNd0J3bkt2Rm5VMk9UZUZzcUZjMXA1ZVVkU2xoa1N0Q3dpSzZsYl91TlF1dlozbW01QXBwb2JsWGhsejcwSmM4RmcyM050RTEtUHhCdGNIdEpPOUwxd3hoaTNoYm1lcUNTNQ?oc=5"
+      },
+      {
+        "title": "How in vivo CAR T is reshaping advanced therapy manufacturing - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 13:22:46 GMT+5 | 키워드+30 | 순위:253위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDhGX2sybzQ3aHZrSE44Zmw1TTB1NHMtdlNkeEc0YV8xQmZjM09sMjF4OXJBN0lzQTNLM05QMUZ3bFhCVnFQbW4tVTNrOFphX2JyaWtSanNfbWlWVENyWVIyczRTZUNGZTk0OU96Rk",
+        "published_time": "Wed, 08 Jul 2026 13:22:46 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 13:22:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDhGX2sybzQ3aHZrSE44Zmw1TTB1NHMtdlNkeEc0YV8xQmZjM09sMjF4OXJBN0lzQTNLM05QMUZ3bFhCVnFQbW4tVTNrOFphX2JyaWtSanNfbWlWVENyWVIyczRTZUNGZTk0OU96RkVrb043RTE0azdPUTZKX05ZQU1kYmU3N3AyVXVybHpFQmRqd2hoQlNUa2J1ai1ybkJuTzZ3?oc=5"
+      },
+      {
+        "title": "Regulatory update on the 2026 Drugs to Watch - Clarivate",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 15:05:52 GMT+5 | 키워드+30 | 순위:254위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1NSUXRocm56S3gxb01PZ1pEVUY5LVppTDdRckJ6VVk3TFZ0UHltZ0t0ZC1HdmI0Q194QlRObEc3UFN5X1djamFzR0NkOHJ2S2k5UkdlMDh0b0h0NmhweWptUzlkSlE5UnZ3cjRNbH",
+        "published_time": "Wed, 08 Jul 2026 15:05:52 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 15:05:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1NSUXRocm56S3gxb01PZ1pEVUY5LVppTDdRckJ6VVk3TFZ0UHltZ0t0ZC1HdmI0Q194QlRObEc3UFN5X1djamFzR0NkOHJ2S2k5UkdlMDh0b0h0NmhweWptUzlkSlE5UnZ3cjRNbHI5ZENpbU1PVXFlb25tSzN4UGF3RWVGYTJqRTV6azRWc2M5ckRrYmM4b3Bld1JIT1NTMFlxazM5V2E0RWtqSTZN?oc=5"
+      },
+      {
+        "title": "Europe will accelerate its review of RevMed’s drug - STAT",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 15:11:11 GMT+5 | 키워드+30 | 순위:255위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FUUzl6UjgwSGR2UmdMRVB4d2VEMlpzZi1HNjlhVUhCRFF5aDNYM3A0R0I3SFNySjYxcHlWZmJnZV9JdFRENHFkLW5jRGoyNU5vZUVSTjNaal9ZVTBvdXJrT0pEWDR6S3pIU1pnRE",
+        "published_time": "Wed, 08 Jul 2026 15:11:11 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 15:11:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FUUzl6UjgwSGR2UmdMRVB4d2VEMlpzZi1HNjlhVUhCRFF5aDNYM3A0R0I3SFNySjYxcHlWZmJnZV9JdFRENHFkLW5jRGoyNU5vZUVSTjNaal9ZVTBvdXJrT0pEWDR6S3pIU1pnREF4UExsR2lWUnliM2ZJaDVSTE5tenFUSjdtUVZ5QUsxbUdNU1Z5anpyTmRCVmQ5RnNnSUhoWWZ1bFQ?oc=5"
+      },
+      {
+        "title": "AstraZeneca bets $200m on Chinese COPD drug - European Medical Journal",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 17:20:47 GMT+5 | 키워드+30 | 순위:259위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzVMY1lrUkNxTGtvYW9LNXkwTGtpcTdjcnBSZlRzMWFXQ2Q5MmJQVVVDYVAzY0FScGZBY3hVZlhJT1ZrNk93bThxOWpJQ0RfN0JZUlFpd1dfZlhZZ181XzlQVU1rdXY0XzhZVnZFU0",
+        "published_time": "Wed, 08 Jul 2026 17:20:47 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 17:20:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzVMY1lrUkNxTGtvYW9LNXkwTGtpcTdjcnBSZlRzMWFXQ2Q5MmJQVVVDYVAzY0FScGZBY3hVZlhJT1ZrNk93bThxOWpJQ0RfN0JZUlFpd1dfZlhZZ181XzlQVU1rdXY0XzhZVnZFU09GZVBLbFdWblNfazVtZFRqaTFkRjcxb3psMElMQg?oc=5"
+      },
+      {
+        "title": "BridgeBio Stock Outlook Hinges on Attruby & New Drug Catalysts - TradingView",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 16:23:00 GMT+5 | 키워드+30 | 순위:261위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3V2QmpWbzNleWdPTXFNcWxzdU5fZGE2MHcwdFEwQm1hel9BejVHUUU3eUR2Q3VXQnFycXFBV0lMaEsyMUxHWnlObTM5M1ZOdVoybW5aY0hwMjJ4ZUZfcVRGZGhwb3ZaY0sxZHB3RF",
+        "published_time": "Wed, 08 Jul 2026 16:23:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 16:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3V2QmpWbzNleWdPTXFNcWxzdU5fZGE2MHcwdFEwQm1hel9BejVHUUU3eUR2Q3VXQnFycXFBV0lMaEsyMUxHWnlObTM5M1ZOdVoybW5aY0hwMjJ4ZUZfcVRGZGhwb3ZaY0sxZHB3RFBZWmtSRy1ZckpWV3g4Zko2d3RqbUpqVU9BZDBEbVNELUhwV01pWDZUSVJZREFVZDhiNlh1TUdsbmdPOW5uUkZJU1VqcVhhRzA?oc=5"
+      },
+      {
+        "title": "Rhythm’s obesity drug data lands in NEJM after 52-week Phase 3 trial - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 21:07:00 GMT+5 | 키워드+30 | 순위:262위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRy1vemRhWDhLYm9VbkU3M1BGcEpXY1l0bWduTzI1d2w5MzhldzQ0ZVZaYjJyU2hVMm9Ld2hxVWdlNmtVYTJTLXhMbHgwdU1WMTNPY3ZpMHI2bDlrSmNKTUJXMFR3LWVzV3lWU1hEc0",
+        "published_time": "Wed, 08 Jul 2026 21:07:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 21:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRy1vemRhWDhLYm9VbkU3M1BGcEpXY1l0bWduTzI1d2w5MzhldzQ0ZVZaYjJyU2hVMm9Ld2hxVWdlNmtVYTJTLXhMbHgwdU1WMTNPY3ZpMHI2bDlrSmNKTUJXMFR3LWVzV3lWU1hEc0V3ZnV6eUQwOFkyb3VNYlBTLVBEaVU4cUsteHJIY3VpUVp5NEhQN2ZzLWlzMFQ2OFAtMUEzY0U0dnNyOGNSOGtxdUJMdEhHUXZadmJucDBZVmY?oc=5"
+      },
+      {
+        "title": "Syria Eyes Jordan FDA-Style Drug Authority, Holds Talks on Regulation & Drug Registration - NAVLIN DAILY",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 09:36:00 GMT+5 | 키워드+30 | 순위:265위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5TGMzOV9WNEU3VWl3UF91ZHJOdHhuNGUwU2Y1MS1rcElDeVM5ZGE5Y1ZrOWhCN0FrYUhSa0xSckRXR0Mxa0phaW5vY1dPandBSG82MDBkQng4eEtDSHJkVEFHeVRYRTR2d2lqSV",
+        "published_time": "Wed, 08 Jul 2026 09:36:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 09:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5TGMzOV9WNEU3VWl3UF91ZHJOdHhuNGUwU2Y1MS1rcElDeVM5ZGE5Y1ZrOWhCN0FrYUhSa0xSckRXR0Mxa0phaW5vY1dPandBSG82MDBkQng4eEtDSHJkVEFHeVRYRTR2d2lqSVU4cC1HaU1OdW1XRVY3aFRXVko5VHhhNC0za05LLTFnZERaT3RNZ1F0Q2t4eENxclFmMG15OUlWX01rZDVKdjJka2FDVm1OUGMxUW9ZY1JUMktvS3lyemdB?oc=5"
+      },
+      {
+        "title": "Daiichi Sankyo focuses on oncology growth. Long-term drug pipeline remains key - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 18:12:07 GMT+5 | 키워드+30 | 순위:277위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2huaGV5ZXA2UEtfaC1ESVNpUUxUTXRfQzFWUFA5eFZpMjVfc25fNkFmdWxyQVBMRWFRcWYyTzFad1RnZ0hPenF3bUdjRmlDcWxBMUxuMWE0OWpjVHF4RXlHWGpnSW5ocEJMUlNaUm",
+        "published_time": "Wed, 08 Jul 2026 18:12:07 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 18:12:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2huaGV5ZXA2UEtfaC1ESVNpUUxUTXRfQzFWUFA5eFZpMjVfc25fNkFmdWxyQVBMRWFRcWYyTzFad1RnZ0hPenF3bUdjRmlDcWxBMUxuMWE0OWpjVHF4RXlHWGpnSW5ocEJMUlNaUmtfYTdqSENMNllUek1KUnJKSFgzclFGSTBPa0RTQ2RWZEx2MHhZZVhidlFaclI4S2taZU85eVAySWNvVk13Vk9rOUZuVXNfZjRxNnBlck9xdFJKVjFJM0U2bHpOTUs?oc=5"
+      },
+      {
+        "title": "New Cancer Drug Vepdegestrant Gets FDA Approval - GK Today",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 07:07:11 GMT+5 | 키워드+30 | 순위:280위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBnN0tDWXljZ1VSd3BQZDA4b2ZpT0tQaEk2MzQzRTJGMTgzdHBWLVRVR2FMNkUzYkNQQ1doeVRFaFlWM0Q1YzI5UG9FUFZsNHlxc2I1X24zR2oybE9UQy1CWnZKSVF4Mkhidmt1NTYzQU",
+        "published_time": "Wed, 08 Jul 2026 07:07:11 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 07:07:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnN0tDWXljZ1VSd3BQZDA4b2ZpT0tQaEk2MzQzRTJGMTgzdHBWLVRVR2FMNkUzYkNQQ1doeVRFaFlWM0Q1YzI5UG9FUFZsNHlxc2I1X24zR2oybE9UQy1CWnZKSVF4Mkhidmt1NTYzQUpGUGtJT2FBa2RUQQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        23
+      ],
+      [
+        "approval",
+        6
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "obesity",
+        5
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "regulation",
+        2
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 96,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 5,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 2,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Geleneksel tıp ve eczacılık alanında dört yeni idari prosedür duyuruldu. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 12:04:56 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2VGdEdYT1FxaEdFa2FqdTJMMGZ2OWh4Mi0xYXNCdEZvRTByaTVoakpjRXhNQ1dfSmdIdlphcGtnSzVaSWVJMTJ1dnZyczVycFpFVWtSb3Y4OUJ4b3hLNVZSeWQybEJ1dVVybEJkdz",
+        "published_time": "Wed, 08 Jul 2026 12:04:56 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 12:04:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2VGdEdYT1FxaEdFa2FqdTJMMGZ2OWh4Mi0xYXNCdEZvRTByaTVoakpjRXhNQ1dfSmdIdlphcGtnSzVaSWVJMTJ1dnZyczVycFpFVWtSb3Y4OUJ4b3hLNVZSeWQybEJ1dVVybEJkdzhTME5saDBNcFB2NDkzNXRUSHJJdU1OZTBMdWczZw?oc=5"
+      },
+      {
+        "title": "Utbildningsministeriet tillkännager de lägsta antagningspoängen för medicin, läkemedelsindustrin, lärarutbildningen och juridik. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 10:21:05 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPemozYWdLbkRvM2FEOEZuUGxZZW5WQWc1OHg4WlFlNEUySkwtaGcxTFNVNWdlczZMUEFSZWZXSUhhcVpmRkpKSEh6WkZvWUREcndFQW05Q19uRExKOVBuQ3o3Sk4ybDlyaHNrbHJ3UW",
+        "published_time": "Wed, 08 Jul 2026 10:21:05 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 10:21:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemozYWdLbkRvM2FEOEZuUGxZZW5WQWc1OHg4WlFlNEUySkwtaGcxTFNVNWdlczZMUEFSZWZXSUhhcVpmRkpKSEh6WkZvWUREcndFQW05Q19uRExKOVBuQ3o3Sk4ybDlyaHNrbHJ3UWk1YUYxZm1KcXJ2bG1uR0RJdGM1ckVqYVh0ekNKOXh2VQ?oc=5"
+      },
+      {
+        "title": "”Läkemedelsindustrin är en tillväxtmotor” - Lif – de forskande läkemedelsföretagen",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 14:03:44 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE16MXlRS2o1X2d2QUstb001X2gyRlk4SFZRX3N4UmtrTkJaX1hYSnhDLUp2UGxDd0hPdlRJZk54MW9QeGVmZFRmdjdlbF9sb2haMWhQUEZ4ZmtBVjJnRXd5ZV8xX0ZYRTFjSktyUWRtNV",
+        "published_time": "Wed, 08 Jul 2026 14:03:44 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 14:03:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MXlRS2o1X2d2QUstb001X2gyRlk4SFZRX3N4UmtrTkJaX1hYSnhDLUp2UGxDd0hPdlRJZk54MW9QeGVmZFRmdjdlbF9sb2haMWhQUEZ4ZmtBVjJnRXd5ZV8xX0ZYRTFjSktyUWRtNVUwTU9QSll3T2hyUEFKc28?oc=5"
+      },
+      {
+        "title": "הוכרזו ארבעה הליכים מנהליים חדשים בתחום הרפואה המסורתית והרוקחות. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 12:48:58 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW5VMmRGaFFXQmNRSXdCc1haZFh3UTJxVXpBMjRLTUJqVjJaWjN3VTRIM29SQ3ZyZk5xNlRQN1JsTzNEZmhpczcwYzRJUkxzVndmRl81TWZQeG9hd1AySWRVVkkyZXZsRHZIclMtU0",
+        "published_time": "Wed, 08 Jul 2026 12:48:58 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 12:48:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVW5VMmRGaFFXQmNRSXdCc1haZFh3UTJxVXpBMjRLTUJqVjJaWjN3VTRIM29SQ3ZyZk5xNlRQN1JsTzNEZmhpczcwYzRJUkxzVndmRl81TWZQeG9hd1AySWRVVkkyZXZsRHZIclMtU0s3ZmFMbV96YkZaUWxqNlA4Wkg5VlJ2MlhuSXFSQw?oc=5"
+      },
+      {
+        "title": "تم الإعلان عن أربعة إجراءات إدارية جديدة في مجال الطب التقليدي والصيدلة. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 08 Jul 2026 10:47:03 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTBmc1htdHZTZXMxUmRGN2s4aUtfcVRpLU1GSElKR0FaRVlUZVh6Y0pZNWx2bVBUdE1nTUVnZGhRaURiNHE3VnhjcGFPLTJmb1lUeWE3aHk4YWxSSHhzX2pkWFdVbDNoYzdQMWRyMH",
+        "published_time": "Wed, 08 Jul 2026 10:47:03 GMT",
+        "modified_time": "",
+        "time": "Wed, 08 Jul 2026 10:47:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQTBmc1htdHZTZXMxUmRGN2s4aUtfcVRpLU1GSElKR0FaRVlUZVh6Y0pZNWx2bVBUdE1nTUVnZGhRaURiNHE3VnhjcGFPLTJmb1lUeWE3aHk4YWxSSHhzX2pkWFdVbDNoYzdQMWRyMHZPOTQ5bFRNbFlXNjRJMjJxZElVNGlnVzRnVnJKdA?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

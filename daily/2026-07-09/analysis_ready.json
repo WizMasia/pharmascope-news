@@ -1,0 +1,265 @@
+{
+  "date": "2026-07-09",
+  "total_articles": 416,
+  "language_breakdown": {
+    "korean": {
+      "total": 190,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 24,
+        "의약정책": 25,
+        "의약단체": 12,
+        "의약관련정부기관": 25,
+        "의료현장": 15,
+        "약국·약사": 13,
+        "의료정책·인력": 25,
+        "전통의학": 5,
+        "감염·보건": 21
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 96,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 22
+    },
+    {
+      "keyword": "급여",
+      "count": 19
+    },
+    {
+      "keyword": "비만",
+      "count": 13
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "수출",
+      "count": 10
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 6
+    },
+    {
+      "keyword": "오남용",
+      "count": 6
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "약가",
+      "count": 3
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "CDMO",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 23
+    },
+    {
+      "keyword": "approval",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "obesity",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "pricing",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "히트뉴스",
+      "count": 2
+    },
+    {
+      "source": "문화뉴스",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "대한경제",
+      "count": 1
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 1
+    },
+    {
+      "source": "한겨레",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "약사·한약사 면허체계 정비 요구가 다시 부상",
+    "K-신약과 전문의약품 성장세가 바이오 시장 확장을 견인",
+    "제네릭 산업구조 개편 논의가 본격화"
+  ],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "‘무모한 엄마’의 저인산혈증 치료제 급여 확정 투쟁기 [건강한겨레]",
+      "source": "한겨레",
+      "importance": 55,
+      "snippet": "엄마는 무모했다. 그 무모함이 딸아이의 치료제를 급여로 사용할 수 있도록 세상을 바꿨다. 지난 7월1일, 엑스(X) 염색체 연관 저인산혈증(XLH) 치료제 ‘크리스비타(성분명 부로수맙)’가 건강보험심사평가원의 ...",
+      "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1267397.html"
+    },
+    {
+      "title": "[기자의 눈] 복잡한 약가 제도와 씁쓸한 로펌의 특수",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "대규모 약가제도 개편을 앞두고 제약바이오 업계의 발걸음은 세종시가 아닌 서울 서초동과 광화문의 대형 로펌으로 향하고 있다. 국내 제약사들은 새로 도입될 혁신형&#183;준혁신형 기준 충족 여부를 따져 손실을 최소화하기 위해, ...",
+      "url": "https://www.dailypharm.com/user/news/340266"
+    },
+    {
+      "title": "국산 첫 CAR-T '림카토' 급여기준 설정…암질심 문턱 넘었다",
+      "source": "히트뉴스",
+      "importance": 51,
+      "snippet": "국내 기업이 개발한 첫 번째 CAR-T 치료제인 큐로셀 '림카토주(성분명 안발캅타젠오토류셀)'가 건강보험 급여기준을 설정하며 건강보험 등재를 위한 첫 관문을 통과했다. 지난 암질환심의위원회에서 임상 근거 부족으로 급여기준이 ...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77520"
+    },
+    {
+      "title": "Scientists finally crack nature's secret for building better cancer drugs - ScienceDaily",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVnM3dkVQX1BwX0ZhVHVVcXpsOFdYMmVWck1sMk1KbWRoU1U2OE1hbkJZdlJiSTZwSUN0WFgtNmJSTTRyVzZocVRpSGdzb3Jha0RJdk9ma0NMVUYzTmdpYzZnRDREYUZ3NWNoMGln?o",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVnM3dkVQX1BwX0ZhVHVVcXpsOFdYMmVWck1sMk1KbWRoU1U2OE1hbkJZdlJiSTZwSUN0WFgtNmJSTTRyVzZocVRpSGdzb3Jha0RJdk9ma0NMVUYzTmdpYzZnRDREYUZ3NWNoMGln?oc=5"
+    },
+    {
+      "title": "삼성바이오&#183;롯데바이오&#183;셀트리온, 엇갈린 상반기 CDMO 성적표",
+      "source": "대한경제",
+      "importance": 42,
+      "snippet": "지난달 22일 사용승인을 받은 송도 바이오 캠퍼스 1공장은 연내 글로벌 CDMO 사업 첫 상업화 물량 수주계약을 목표로 투자를 지속하고 있다. 롯데바이오로직스는 지난 7일 2553억원 규모의 유상증자를 결정했다. 지난 3월 ...",
+      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607080956153290357"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 3,
+      "en_count": 1
+    }
+  ]
+}
