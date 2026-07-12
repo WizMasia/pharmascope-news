@@ -1,0 +1,286 @@
+{
+  "date": "2026-07-13",
+  "total_articles": 269,
+  "language_breakdown": {
+    "korean": {
+      "total": 109,
+      "categories": {
+        "의약품": 14,
+        "의약산업": 10,
+        "의약정책": 4,
+        "의약단체": 9,
+        "의약관련정부기관": 5,
+        "의료현장": 22,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 15
+      }
+    },
+    "english": {
+      "total": 114,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 13,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 46,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 0,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 0,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 0,
+        "Russian / 러시아어": 5,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 17
+    },
+    {
+      "keyword": "R&D",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "ADC",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 10
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "recall",
+      "count": 4
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "약업닷컴",
+      "count": 1
+    },
+    {
+      "source": "광주매일신문 on MSN",
+      "count": 1
+    },
+    {
+      "source": "데일리스포츠한국",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "글로벌 빅파마, 파이프라인·배당·주가 방어력 재부각",
+    "인도 제약, AI·면역항암·만성질환 중심으로 전략 전환",
+    "중국 바이오텍·ADC·위탁개발, 밸류체인 재편 신호",
+    "전통의학, 국가 브랜드·보건체계 편입 논의 확대",
+    "백신·방역·약가 정책, 공중보건 리스크와 접근성 이슈 동시 부각"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 2,
+      "keywords": [
+        "절차",
+        "신약",
+        "카운트",
+        "p-cab",
+        "자큐보",
+        "다운",
+        "출격",
+        "시장",
+        "제일약품",
+        "보완"
+      ],
+      "articles": [
+        {
+          "title": "제일약품 P-CAB 신약 ‘자큐보’, 中 보완 절차 돌입 … 6조 시장 출격 ‘카운트 다운’ - 헬스코리아뉴스",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWN2F4b3BhVFJCd1R4MUkySnNDaE9QYndUbWw1Ri1ZTUxkR0dlVDVCdXBtUktNeTg5blU1eENycWtNc1JwWVpqTDNtWXNSbUFzQWVYM1RCaUpQbjB2WS00V3lfX0l2WEU?oc=5\" targ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Sun, 12 Jul 2026 21:42:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWN2F4b3BhVFJCd1R4MUkySnNDaE9QYndUbWw1Ri1ZTUxkR0dlVDVCdXBtUktNeTg5blU1eENycWtNc1JwWVpqTDNtWXNSbUFzQWVYM1RCaUpQbjB2WS00V3lfX0l2WEU?oc=5"
+        },
+        {
+          "title": "제일약품 P-CAB 신약 ‘자큐보’, 中 보완 절차 돌입 … 6조 시장 출격 ‘카운트 다운’ - 헬스코리아뉴스",
+          "source": "",
+          "importance": 22,
+          "stars": "⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWN2F4b3BhVFJCd1R4MUkySnNDaE9QYndUbWw1Ri1ZTUxkR0dlVDVCdXBtUktNeTg5blU1eENycWtNc1JwWVpqTDNtWXNSbUFzQWVYM1RCaUpQbjB2WS00V3lfX0l2WEU?oc=5\" targ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Sun, 12 Jul 2026 21:42:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWN2F4b3BhVFJCd1R4MUkySnNDaE9QYndUbWw1Ri1ZTUxkR0dlVDVCdXBtUktNeTg5blU1eENycWtNc1JwWVpqTDNtWXNSbUFzQWVYM1RCaUpQbjB2WS00V3lfX0l2WEU?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "휴온스, 개량신약 기반 넓혀 안과&#183;비만 신약 R&amp;D 확장",
+      "source": "메디파나 뉴스",
+      "importance": 56,
+      "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. R&amp;D 3년 해부 기획. 사진=메디파나뉴스 '3년'. 짧다면 짧은 시간이지만, 신약 연구개발(R&amp;D) 전략에 변화가 생기기엔 충분한 시간이기도 합니다. 어떤 기업은 R&amp;D 투자를 ...",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=414443"
+    },
+    {
+      "title": "Hồ sơ bệnh án điện tử, bước chuyển trong khám, chữa bệnh tại Bệnh viện Y học cổ truyền - Báo Cao Bằng",
+      "source": "",
+      "importance": 42,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU9JS2UteTVoU1FuMEwyTFNOT0FJQ3NMbUszQUZOV2tSWS1jZXRxanhZaF9uWmdFWlk0V1QzNGZJemcxUUxBWDl2RUxUbnRnZUZpOUFIS0FyOXZxeDBqbDFibWx1NndEbVZDX0tPd2",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOU9JS2UteTVoU1FuMEwyTFNOT0FJQ3NMbUszQUZOV2tSWS1jZXRxanhZaF9uWmdFWlk0V1QzNGZJemcxUUxBWDl2RUxUbnRnZUZpOUFIS0FyOXZxeDBqbDFibWx1NndEbVZDX0tPd2JOYkc1bFhVZkdNM2F1andaUU5HdDFjLXVXeDQ5S29kMVZ2MU9sSDdVdXB1QmE5TjBFY1c4cTJEYUNYNm1lZEU3TFF0cU9ITXBtMXNV?oc=5"
+    },
+    {
+      "title": "Южнокорейские биотехнологические компании выводят разработку лекарств в космос — The Korea Herald - Дзеркало тижня",
+      "source": "",
+      "importance": 35,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFE0M3U4bF9jY1B1TFFiQW8yR2tWUkJ0WEVXcXFqWU81X1cwZ0ZwY2VGTTlkd3VscVN5c1RybkFURy1Ta0hIcTllU3M0R21zZzhQTFU4WHpydmpjTEJQMGFTNkJnblJSaTJQWjBwOG",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFE0M3U4bF9jY1B1TFFiQW8yR2tWUkJ0WEVXcXFqWU81X1cwZ0ZwY2VGTTlkd3VscVN5c1RybkFURy1Ta0hIcTllU3M0R21zZzhQTFU4WHpydmpjTEJQMGFTNkJnblJSaTJQWjBwOG9oWXFqVlBXUU16WTdVM2tpdHlzSjZXUFVpcXlEbFpzX2NmQ2FTNGI5czBHaEVYRzd3cWJ2NkF3Ri1CeHVWVTdrZnJoMlhxQTVBU3ZvRXpVYUJfVHJQam5yZkdWQ07SAdIBQVVfeXFMTnRNMXVmVElQaTdJYk9CNXN0QUhUSFRHOVBxdmxjcWdJdnIyVnVuS1JFa2VDc1lfUktGZHJDc3NhZllsMmRMaFNtd1U5cW9sR1pfYzRNSVVCOGZHQVF4MkVsblpDZG9KWXNxN0ZKZEJndVFrbzk3RDJYVEJsUFlMeGF5R2lZN2lQVWY0bWhKT2V1Vnl3Mmo2WnhSOF9ERkdEbmJrX0tYOW52QlVoSXpseVNTd0pFcUhjTUZaZ0ZmWmpHWTRZbVBmWVBWbzRjQXBwM3FR?oc=5"
+    },
+    {
+      "title": "전공의 수련 관건은 결국 ‘지도 전문의’ - 데일리메디",
+      "source": "",
+      "importance": 27,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bWFHUHlJTDBPamJPd1k1N294WEt0RHN6UHZwOGFFb3dUc1M2OE10TnBNSzc1ZVRvUmtuX3Jxb3RUSzJiVUQ2aFFBclVCSHV6MktrUmpocDBQVTNBNkR1NnZLajBUTGxD?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bWFHUHlJTDBPamJPd1k1N294WEt0RHN6UHZwOGFFb3dUc1M2OE10TnBNSzc1ZVRvUmtuX3Jxb3RUSzJiVUQ2aFFBclVCSHV6MktrUmpocDBQVTNBNkR1NnZLajBUTGxD?oc=5"
+    },
+    {
+      "title": "대웅·삼진·JW중외·종근당·한국유나이티드 ‘호재’ - 데일리메디",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNFdVYkpSQ3lvZjFFdWo2TG9SWDZjbUN6Y1VPMWJ2SHkwa2xZeGxVajZuRTljbm5pNEVEbnJNeTctSnRfRnE3ZEY0bGVYeXpUZ3ItalZEamtIQUVzdWw4djRPeERCNUli?oc=5\" tar",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qNFdVYkpSQ3lvZjFFdWo2TG9SWDZjbUN6Y1VPMWJ2SHkwa2xZeGxVajZuRTljbm5pNEVEbnJNeTctSnRfRnE3ZEY0bGVYeXpUZ3ItalZEamtIQUVzdWw4djRPeERCNUli?oc=5"
+    },
+    {
+      "title": "보령, 혁신형 인증 취소 규정 바뀌어 '탈락위기' 모면 - 사이언스엠디뉴스",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzM3pkZ19PTDBrR3hERnZBRjhRM1JRU1BfajE1MXN0bjlxNzk2ZVpobzJTWEhUczVYS29paTNlTVlqRzVCRlFyNzVEanpEWkxYUXdwRDQ5bjhjM0k?oc=5\" target=\"_blank\">보령, ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzM3pkZ19PTDBrR3hERnZBRjhRM1JRU1BfajE1MXN0bjlxNzk2ZVpobzJTWEhUczVYS29paTNlTVlqRzVCRlFyNzVEanpEWkxYUXdwRDQ5bjhjM0k?oc=5"
+    },
+    {
+      "title": "의협, 정부 시범사업 해부...FFS 넘어 지불제도 개편 큰 그림 - 의학신문",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBnckR4eHFmajlrTnp1eGhxUnlnT25wRS1kM2VHMkFrYnhWR19PVVV3U1JoRG9vcG5SeEUzWGtPMUZEcjhKZzYxRFZEQW0xMlhOXzBiMFNpQ0FRX2lGQzRIRVVzM3JxNlV3UFE?oc=5\" ",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnckR4eHFmajlrTnp1eGhxUnlnT25wRS1kM2VHMkFrYnhWR19PVVV3U1JoRG9vcG5SeEUzWGtPMUZEcjhKZzYxRFZEQW0xMlhOXzBiMFNpQ0FRX2lGQzRIRVVzM3JxNlV3UFE?oc=5"
+    },
+    {
+      "title": "지역의사제 시행 앞두고 남은 과제는? \"교육·정착·지역병원 유지대책 등 마련해야\" - MEDI:GATE NEWS",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRlFSbmZnZ1BMMDhIRWFKamhzLWU4UUhMVEQ4SHJ6cXJpMlBDZzlqR3QyOVpxV3VCOGtMZWRlQjlkZFZtcEJDNUZzQjhMYzVxeVE3NDlkQQ?oc=5\" target=\"_blank\">지역의사제 시행 ",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRlFSbmZnZ1BMMDhIRWFKamhzLWU4UUhMVEQ4SHJ6cXJpMlBDZzlqR3QyOVpxV3VCOGtMZWRlQjlkZFZtcEJDNUZzQjhMYzVxeVE3NDlkQQ?oc=5"
+    },
+    {
+      "title": "폭염과 재가노인 돌봄 위기 - 한국AI부동산신문",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtbVVrYWVhQmtQR08zalUxM3A0T1R4NTJXYVlzZ2paOWRhdUNSLXZtbERXYWwzV3YyZUItQ2hmX05OYVFMcEU4N0prcHc?oc=5\" target=\"_blank\">폭염과 재가노인 돌봄 위기</a>&nbsp;",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtbVVrYWVhQmtQR08zalUxM3A0T1R4NTJXYVlzZ2paOWRhdUNSLXZtbERXYWwzV3YyZUItQ2hmX05OYVFMcEU4N0prcHc?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 8
+    }
+  ]
+}

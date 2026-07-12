@@ -1,0 +1,476 @@
+{
+  "date": "2026-07-12",
+  "total": 278,
+  "version": 1,
+  "generated_at": "2026-07-12T15:30:59.676139+09:00",
+  "korean": {
+    "total": 92,
+    "categories": {
+      "의약품": 12,
+      "의약산업": 6,
+      "의약정책": 2,
+      "의약단체": 5,
+      "의약관련정부기관": 5,
+      "의료현장": 17,
+      "약국·약사": 6,
+      "의료정책·인력": 25,
+      "전통의학": 0,
+      "감염·보건": 14
+    },
+    "top_articles": [
+      {
+        "title": "FDA, 신약 심사 보완요구서한(CRL) 공개 확대 ‘일시 중단’…영업기밀 논란에 재검토",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:1일+10 | 키워드+20 | 순위:30위+2",
+        "snippet": "[헬스코리아뉴스 / 임도이] 미국 식품의약국(FDA)이 의약품 허가 심사 결과와 보완 필요 사항을 담은 신약 허가 심사 보완요구서한(Complete Response Letter&#183;CRL) 공개 확대 정책 시행을 잠정 중단했다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=350334"
+      },
+      {
+        "title": "삼성바이오에피스, 신약개발 방식 넓힌다 … 후보물질 확보 다각화",
+        "source": "뉴데일리 경제",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴데일리 경제+10 | 최신:1일+10 | 키워드+20 | 순위:72위+2",
+        "snippet": "삼성바이오에피스가 신약후보물질 확보 전략을 다변화하고 있다. 자체 항체-약물접합체(ADC) 개발과 글로벌 연구개발 거점 구축에 이어 공동연구와 라이선스 옵션계약을 활용해 외부 유망기술을 신약 파이프라인으로 연결하는 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000078.html"
+      },
+      {
+        "title": "바흐마이 병원과 비엣득 우정 병원(닌빈 분원)의 의사 및 의료진을 위한 장기 주택 확보. - Vietnam.vn",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 09:49:53 GMT+5 | 키워드+25 | 순위:99위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtUYTh6RHNfN0pPdVozY0VUOXlmMXpjemVpWmJUT3RPUU1ZZTBIQnZpWE9FeGFRUU1QOEpCUVZhU3d1UEdYc1hiQUNMN0hKXzN4WnBEWGpTZTRKRjJ5bzJYTlpzNW5QQTY1d2lMQ2",
+        "published_time": "Sat, 11 Jul 2026 09:49:53 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 09:49:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZUtUYTh6RHNfN0pPdVozY0VUOXlmMXpjemVpWmJUT3RPUU1ZZTBIQnZpWE9FeGFRUU1QOEpCUVZhU3d1UEdYc1hiQUNMN0hKXzN4WnBEWGpTZTRKRjJ5bzJYTlpzNW5QQTY1d2lMQ2tSQWFFM3ZxWDRRVGI2SXVCblZTazM5ZS1SOGNmVS16dktrcjdUakZzYS1STFFKMmcwUWRKMHpfenByXzR2R01tUl84a2hMaVVSZEdTU29ZTW9WQU80YmJzWDVn?oc=5"
+      },
+      {
+        "title": "전남광주동물위생시험소, 여름철 가축전염병 신고센터 운영",
+        "source": "데일리스포츠한국",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:데일리스포츠한국+10 | 최신:3시간+20 | 키워드+10 | 순위:84위+2",
+        "snippet": "[데일리스포츠한국 이석희 기자] 전남광주통합특별시 동물위생시험소는 여름철 폭염, 집중호우 등 자연재해에 따른 가축 전염병 발생과 확산을 방지하고 신속 대응하기 위해 8월까지 두 달간 여름철 가축전염병 신고센터를 운영한다.",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430993"
+      },
+      {
+        "title": "[Pharma Report] 한미 ‘벨바라페닙’ 흑색종 치료제 개발 박차 外…셀트리온 유럽 바이오시밀러 질주·대웅 AI 내시경 시장 진출 - 헬스케어N - 헬스조선 - 헬스케어N",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 09:45:00 GMT+5 | 키워드+20 | 순위:64위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBmWWk3WlhiZ0hEbmRJdmZUUUdwWG80UTN3ekZzbHpoaGNheGFqVmx5VEpzZHZjY25lTDY2T2RwbGFqdkQ5TXlTdm9vd1U3WjVRZkJLa3dxbElUcXBrQU1ubFV1OS04clJCaUYyY2prVT",
+        "published_time": "Sat, 11 Jul 2026 09:45:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 09:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmWWk3WlhiZ0hEbmRJdmZUUUdwWG80UTN3ekZzbHpoaGNheGFqVmx5VEpzZHZjY25lTDY2T2RwbGFqdkQ5TXlTdm9vd1U3WjVRZkJLa3dxbElUcXBrQU1ubFV1OS04clJCaUYyY2prVTZxNnlC?oc=5"
+      },
+      {
+        "title": "로슈 GPU 3500개···신약개발이 AI 공장으로 - 자본시장뉴스",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 15:05:00 GMT+5 | 키워드+20 | 순위:68위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdVBpMmpjTUljaUZPME4tQzVrS01mSG1IR2xZRndkb3pIbGF3Znh6MW9JV0V4TUxKMTlIV3Qydjc1Y3RnT1A0V0o0b0J2blFhamp6dDVhVnZXNGRpQ3AyeWgzRlB2elk?oc=5\" targ",
+        "published_time": "Sat, 11 Jul 2026 15:05:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 15:05:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqdVBpMmpjTUljaUZPME4tQzVrS01mSG1IR2xZRndkb3pIbGF3Znh6MW9JV0V4TUxKMTlIV3Qydjc1Y3RnT1A0V0o0b0J2blFhamp6dDVhVnZXNGRpQ3AyeWgzRlB2elk?oc=5"
+      },
+      {
+        "title": "K제약바이오 원팀 뜬다… ADC·비만신약 글로벌 빅딜 정조준 - MSN",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 16:46:26 GMT+5 | 키워드+20 | 순위:34위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxPTW5IY29sdGgyS19NSWJLRk92dDcwbGNhQTBpWWRoWUc0VDRSdWZFbG5WajJzaG5UUE1xa3B3S1p4OWd6azhVc3FfaEFLQldoZWRRc3RFSHJiS3BRRVAtWldpTWtqSUZ1dzJDaDdsN0",
+        "published_time": "Sat, 11 Jul 2026 16:46:26 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 16:46:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPTW5IY29sdGgyS19NSWJLRk92dDcwbGNhQTBpWWRoWUc0VDRSdWZFbG5WajJzaG5UUE1xa3B3S1p4OWd6azhVc3FfaEFLQldoZWRRc3RFSHJiS3BRRVAtWldpTWtqSUZ1dzJDaDdsN0lQUmN1dG5BUTdyNGtvQkZUc0Q5dDU1YzlBb2dVTVJrSkd0OEFQQ2c3MEQ4NkhkZmFzRHRhZlUwMWgwVXBJakJsVXR2TC1YeFgzY0hTY1J1bDByeFZuTG9yYUJucmdfb3pJYkhOUEFGN054aDlXTW8wbUpJOC0wZHRWckpTajJxN2FLYUFmM0dsZ1ZLRTFwVjRxTVlLX0c3UFo3QlZ2U3R5VlZESklFOUxZUXItZGdadFU0eURDNnpMRlpYVnRKN3Bjb0Q5anlhd3ROQnJrN3NTQUlCakE0eXFubmFvdFp2WHdPT1FnUDZVZl9hYWNsc2lWNTVFb09UM3NkNVFnNWJrTThIbEZDY1pWNnlTaVRnYUJ5dUpBOTdNNThaSkxSR1A2NEVBM09QNkc4Sk4zUlVQSjlMV3FEdEpPRHZFREdEdXV6SlRscUh6Uk12Z2REZDV2ODUzUGNWdkRuMVRaeDVHTzdOVExmazN6WGFXUFlvTXVzLUtTTXBoaGpoRjY4TUQzRnpvV0dYUE9naUJGX1Vr?oc=5"
+      },
+      {
+        "title": "미 FDA, 20여 년 만에 새 자외선차단 성분 승인 - MSN",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 07:53:12 GMT+5 | 키워드+20 | 순위:27위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivANBVV95cUxPMlhES3JHdnhrMjZnV1czVzZpOUI0Uzd3Z0NGMDNrNTl6VVFXWFRpNzdTTEc1LVZ1RmR1aTR4N0VsWERXVENQdFJ5MDBFZl9GUFZzbWJnaTBLczgxdl9CZG43TThYNmNxMTJndWZyMF",
+        "published_time": "Sat, 11 Jul 2026 07:53:12 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 07:53:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPMlhES3JHdnhrMjZnV1czVzZpOUI0Uzd3Z0NGMDNrNTl6VVFXWFRpNzdTTEc1LVZ1RmR1aTR4N0VsWERXVENQdFJ5MDBFZl9GUFZzbWJnaTBLczgxdl9CZG43TThYNmNxMTJndWZyMFNULVBTVUxhVER3U1JDWTBmT2tnSTBjcHpGejRLM2FuOTdVTXVkTzVWQ1hheldKaWlhd3g4VE55SWxMeU5Tb0NlbE1La2dmd2libFVqUEdGVmN6cG5YUlIwalNkcmpic1ZON1RwZ1lfbnVZMHBtNld6em9TS3Q3UUtCaXBhcFNvcFV0TkFOdEhKUXV1QllEakZ4TElwNk4zYjB3dnFMa2RxRUxEN2JDMUR0Q1pzc2cyUkRVZnNBLTYyVmYwa3hWQmU1UGxxaUxxLWJBdDVvblBITXRSaXotQ3pVUHNzZTBBcTVEdHI4RTBLQzhURmlVUnA0Zl9FRzNKVDQzUl8tQTRyNmRLdVZ6dU5XSXl4OXdlWXEwVUVTY3ZyRHRfNWxyQ3FmV2M2VmYwaXVaQ0hFMlpsSnlhLXdBTkZqM2xsMHBtdDFTaWd6X21UQXZDOTc?oc=5"
+      },
+      {
+        "title": "“전북대병원 NICU 위기 시작일 뿐, 대한민국 분만의료체계 동시 붕괴 중” - 의사신문",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 15:00:00 GMT+5 | 키워드+20 | 순위:87위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFA1MGRvRnJZQjlYa3NETnhKNDBDUVlDZmxXbEgzcGNnbFhmcHN1dGZPYTloa2ZzenF4OGU4R0t2eDBCS29LdkcySjI1aHNXUk9TUjNSOHF3ZzFRY2JDZnRESHIxS0JLSW11bzYxNVNfRQ",
+        "published_time": "Sat, 11 Jul 2026 15:00:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1MGRvRnJZQjlYa3NETnhKNDBDUVlDZmxXbEgzcGNnbFhmcHN1dGZPYTloa2ZzenF4OGU4R0t2eDBCS29LdkcySjI1aHNXUk9TUjNSOHF3ZzFRY2JDZnRESHIxS0JLSW11bzYxNVNfRQ?oc=5"
+      },
+      {
+        "title": "전공의 공백 메운 PA 간호사…법적 보호 장치 마련됐다 - 충청게릴라뉴스",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 06:00:38 GMT+5 | 키워드+20 | 순위:88위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjRjVEa0QwYlJvQ1FyaW0xUjZOUEhnQzBYTUI1U0hScV8xWlF6cS1fdUp4R1dnSmgxN1E1Y2xnVzFFQ3pDMnVnY1pCVkdJcHFDc19zaTdsVW9fUXRod2d5R2ZQSkR4UQ?oc=5\" targe",
+        "published_time": "Sun, 12 Jul 2026 06:00:38 GMT",
+        "modified_time": "",
+        "time": "Sun, 12 Jul 2026 06:00:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjRjVEa0QwYlJvQ1FyaW0xUjZOUEhnQzBYTUI1U0hScV8xWlF6cS1fdUp4R1dnSmgxN1E1Y2xnVzFFQ3pDMnVnY1pCVkdJcHFDc19zaTdsVW9fUXRod2d5R2ZQSkR4UQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        12
+      ],
+      [
+        "바이오시밀러",
+        4
+      ],
+      [
+        "특허",
+        4
+      ],
+      [
+        "ADC",
+        3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "오남용",
+        2
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "급여",
+        1
+      ],
+      [
+        "한약",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "뉴데일리 경제",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "데일리스포츠한국",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 122,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 18,
+      "Traditional & Complementary Medicine": 4
+    },
+    "top_articles": [
+      {
+        "title": "The Performance Art of Traditional Medicine Diplomacy - Lavender Hotel",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 12:14:00 GMT+5 | 키워드+30 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlk1Y3dDQzVSNUxsYzN6X2xrcW51Wm5aNU42S19TWXlhOF9jbXdHXzJFYlV1WkYwTFZzTTYwZ2tBR0ZBd0txVzNMMkZ5U1UzUks5X21iMDJNaWxWMEVMVkFwWTlrdFFWWXhpQ3hEQm",
+        "published_time": "Sat, 11 Jul 2026 12:14:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 12:14:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlk1Y3dDQzVSNUxsYzN6X2xrcW51Wm5aNU42S19TWXlhOF9jbXdHXzJFYlV1WkYwTFZzTTYwZ2tBR0ZBd0txVzNMMkZ5U1UzUks5X21iMDJNaWxWMEVMVkFwWTlrdFFWWXhpQ3hEQmd6VEVDTG5yNUl0WHVjTjJlV092LU1hRHo1SjRFRg?oc=5"
+      },
+      {
+        "title": "Bi Ming Yan Bao Herbal Capsules - Traditional Herb Formulation, New & Unused - santoandre.biz",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 19:09:02 GMT+5 | 키워드+25 | 순위:13위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG8xVHVncUhNNkNzUGMzVjlUeXlOcUo5SjROd3FaVHUtZlJZYTl4VTF1WC1nQVdUNXQyS0hCM251MUxjNE1JMDJGMVlTVXk4emViNTR5M3JKNHBOcXNSZkxRc0hDTGd4RVVSaWUxRE",
+        "published_time": "Sat, 11 Jul 2026 19:09:02 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 19:09:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG8xVHVncUhNNkNzUGMzVjlUeXlOcUo5SjROd3FaVHUtZlJZYTl4VTF1WC1nQVdUNXQyS0hCM251MUxjNE1JMDJGMVlTVXk4emViNTR5M3JKNHBOcXNSZkxRc0hDTGd4RVVSaWUxREphTGdlTWhVek5Ob0tuQnYtcUg3akF3aDRkSlRxYWxoZw?oc=5"
+      },
+      {
+        "title": "Experimental drug reverses severe fatty liver disease by repairing the gut - ScienceDaily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 13:23:41 GMT+5 | 키워드+30 | 순위:165위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcjRWb1VKRFRrRTB6QnVrQkZsckt0UnRZZXROUjVvTWdMVDRXVDdJU3U2cEZQeDRZVUp4VXdETXB3NHNLTktuWWVZNVNIT25NWUlOX3BwRUlJRVpBQV83RzBDY0dEa1IyTHhIYUpFaw",
+        "published_time": "Sat, 11 Jul 2026 13:23:41 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 13:23:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NcjRWb1VKRFRrRTB6QnVrQkZsckt0UnRZZXROUjVvTWdMVDRXVDdJU3U2cEZQeDRZVUp4VXdETXB3NHNLTktuWWVZNVNIT25NWUlOX3BwRUlJRVpBQV83RzBDY0dEa1IyTHhIYUpFaw?oc=5"
+      },
+      {
+        "title": "Colby Cosh: The drug that was approved on fake data - National Post",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 10:02:24 GMT+5 | 키워드+30 | 순위:169위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9SZjlLQ3ZubHdEbGdVbUFPakNqZWpaMTc3UnZJUXhUdl8xUExUOHI2RVRUYlVWUmd4YXl4eUZTWWRjTnd6aHBOSUpaNXFRSEQwdzFPLWtHNzVROVJrb1AwSXNuaWw2bF9JdURkWUJxNU",
+        "published_time": "Sat, 11 Jul 2026 10:02:24 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 10:02:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SZjlLQ3ZubHdEbGdVbUFPakNqZWpaMTc3UnZJUXhUdl8xUExUOHI2RVRUYlVWUmd4YXl4eUZTWWRjTnd6aHBOSUpaNXFRSEQwdzFPLWtHNzVROVJrb1AwSXNuaWw2bF9JdURkWUJxNUE1aml5VXYxOE90eEk?oc=5"
+      },
+      {
+        "title": "New Drug Shows Promising Results in the Treatment of Type 2 Diabetes - BGNES",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 17:32:19 GMT+5 | 키워드+30 | 순위:175위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTFRZ2VhbU4zSGZ1MEpfcHhObVBTWWVqdzRpdnRGVmxEZ0FvM3Jic0FNbWpRR1ZrMV9lSWM0anFldmJyY0ZGTC14QTkwcUxjQk9CTmhZSW0waF9ESFJqc2pzQ2gtajg4aXpZbS0ySz",
+        "published_time": "Sat, 11 Jul 2026 17:32:19 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 17:32:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOTFRZ2VhbU4zSGZ1MEpfcHhObVBTWWVqdzRpdnRGVmxEZ0FvM3Jic0FNbWpRR1ZrMV9lSWM0anFldmJyY0ZGTC14QTkwcUxjQk9CTmhZSW0waF9ESFJqc2pzQ2gtajg4aXpZbS0ySzJKQVp1MUlna3hhdnFZdml4SWpvQ2JrdzlNemJhc2l6Ul9ObWI2czFDUnFhdDg?oc=5"
+      },
+      {
+        "title": "GSK Scores Key Win as Hansoh's Lung Cancer Drug Meets Phase III Survival Goal - Medical Dialogues",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 12:45:47 GMT+5 | 키워드+30 | 순위:178위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2RHZ2xLRVM5Ml9XWmJtUi0xTHl4MEpCZWxoS2c3QzFtUEQxamljX1NlSmZjcEhCM1AwNWRQRFN0SGlheG01NHREU3ZHSHdLQnF1OTJfWk1GMm1IYWZJckwtVVlhNkRXd0VoblAwNk",
+        "published_time": "Sat, 11 Jul 2026 12:45:47 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 12:45:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM2RHZ2xLRVM5Ml9XWmJtUi0xTHl4MEpCZWxoS2c3QzFtUEQxamljX1NlSmZjcEhCM1AwNWRQRFN0SGlheG01NHREU3ZHSHdLQnF1OTJfWk1GMm1IYWZJckwtVVlhNkRXd0VoblAwNkFMQW92NGJQYzBVdUwzOGJ1cEx4LVllM2tYMEZ5OGhxMV9Wa3hHdkZGUHFpMURVbzFkY0VsRDBjaFJUUkRIMWhsbjE3VlE4MVRIVTlCQkFwMTlpdGEwR2V5andKSDXSAdIBQVVfeXFMTXBHZE1pTkFucU9mQ3N0MTdybDE3VlFYRXJNV0hCRjhrc3R5d200cUp4em9VVy1odUt4VGhET0JYX19OaV9JRExMS3VKeERxOXBlcTE3bEhKdXBwVHZ0LW85MXl3LXN6bC1mc3JFX29ZWnBpZmk4Sm9rM0xhX3llSE9VQ2NSQzhwYURnV2pMQWJId2JzVlZwb25iXzBRWWhmZm9WeHZIbmk2MHNLdWN2RVZYNTV6X2dUS3FWTXBtUWZvY1NwYURVX045b2d2ejUteHBn?oc=5"
+      },
+      {
+        "title": "Health: New drug cleared for compassionate use in Bundibugyo - NewVision.co.ug",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 19:00:05 GMT+5 | 키워드+30 | 순위:183위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlTUnQwY09FaUJnQXF5N2ZseTBSLWxFMWttd3dhMk9YRVFRV0NsNWkzemxGbTlfQnI0OTBfaXdBRGY0enl1akstWlVES3M1alRieDVvWFZlMG5ZWHJHVTN2bm8wb0VPdVB0bHd0Zn",
+        "published_time": "Sat, 11 Jul 2026 19:00:05 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 19:00:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlTUnQwY09FaUJnQXF5N2ZseTBSLWxFMWttd3dhMk9YRVFRV0NsNWkzemxGbTlfQnI0OTBfaXdBRGY0enl1akstWlVES3M1alRieDVvWFZlMG5ZWHJHVTN2bm8wb0VPdVB0bHd0ZnNWdjFDT1MyR3o5Q3hPWWszdk5oN1hrOFQ5aEt1WEp2S3pnYXFCX3ZFTGN5ZVR1bm1DdGpHUkloaXpUZw?oc=5"
+      },
+      {
+        "title": "These 'Trojan horse' drugs could completely change the future of cancer treatment - MSN",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 20:39:26 GMT+5 | 키워드+30 | 순위:193위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFptZXN4N2V4dlgtNmZHM0k5S01xT2xDMENkaE5RMFJwQm91SGswMVVPdnROekRDMTJpNV9TUl9zblM0S3VyU0RQZndQdTFIRVlFMEl1Z040bDFyTEY5UHAwcmVad2lDczNVMlJpZG",
+        "published_time": "Sat, 11 Jul 2026 20:39:26 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 20:39:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeFptZXN4N2V4dlgtNmZHM0k5S01xT2xDMENkaE5RMFJwQm91SGswMVVPdnROekRDMTJpNV9TUl9zblM0S3VyU0RQZndQdTFIRVlFMEl1Z040bDFyTEY5UHAwcmVad2lDczNVMlJpZGdkazVJbzBiNFpyRUFvRnlNdjRhU3BJUWM0aFZ3d01ObzJyaUVma0FjOFpBWmRtYmdSWTZWT1ZsSkItSDk2VUYzWVEzVHdCWC1CajZVRVl0V2Y4ZG54eGh6WHZ3?oc=5"
+      },
+      {
+        "title": "Scientists Use Blue Light to Build Complex Drug Molecules Faster, Could Speed Up Drug Discovery - International Business Times, Singapore Edition",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 12:20:01 GMT+5 | 키워드+30 | 순위:194위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZU1VTFVWN3oxNUVZZWVBbDFnWl9vWFN6bEVPUkEwaVl2RzgyZGszSDF5Tm9UMjJ1T1FMNXFBNzBrMFBwMnZTMGp1TUlkcjhGOHVwOW5TZENDRU5IVGo5SXY5eGlPOVF3dHpibkYyRm",
+        "published_time": "Sat, 11 Jul 2026 12:20:01 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 12:20:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZU1VTFVWN3oxNUVZZWVBbDFnWl9vWFN6bEVPUkEwaVl2RzgyZGszSDF5Tm9UMjJ1T1FMNXFBNzBrMFBwMnZTMGp1TUlkcjhGOHVwOW5TZENDRU5IVGo5SXY5eGlPOVF3dHpibkYyRmtrX0VuU210MG1NbjAwTkMwcGJ1UzBDLUxXcGt0V25UZ1ZBTDlkbktGQmhGZjBxOWluMTdkVmtjaXc4TGc2OFk1QmZHVmlFenZS?oc=5"
+      },
+      {
+        "title": "Maharashtra FDA Bans Cadila Pharma Drugs Over Branding Risks - Whalesbook",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 14:07:44 GMT+5 | 키워드+30 | 순위:196위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVzhET3ppUVdoVXU3bFc2M3dFbV9nbzktdVJqbTY5ZjhtNHlMdlRyVXM0b0pibFZ1UGJmbzdacVdqSVJVc3ZIbEtzc1RrWlZ6Vk9tYm02c3ZyUm9WN2JZNlRHTjNvdEgybmQwOURkRj",
+        "published_time": "Sat, 11 Jul 2026 14:07:44 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 14:07:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVzhET3ppUVdoVXU3bFc2M3dFbV9nbzktdVJqbTY5ZjhtNHlMdlRyVXM0b0pibFZ1UGJmbzdacVdqSVJVc3ZIbEtzc1RrWlZ6Vk9tYm02c3ZyUm9WN2JZNlRHTjNvdEgybmQwOURkRjNwRjRWWG1OS3FMN3pPaE9aYUdpTkdkZlM4RmZjWE4tTVNJVl9DWmY2VHhGNG53UzN3NGh6Yl95aWJFUDA0eWNKTVc2WTRYZjRyT2FZMTE2bFIxNjEwUzFSOWlnQkc5b1VaNmZLdElwNTVtV0U?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        13
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "approval",
+        3
+      ],
+      [
+        "vaccine",
+        3
+      ],
+      [
+        "recall",
+        3
+      ],
+      [
+        "generic",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 64,
+    "languages": {
+      "French / 프랑스어": 0,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 4,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 4,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 6,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 7,
+      "Indonesian / 인도네시아어": 8,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 2,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "بناء علامة تجارية وطنية للأعشاب الطبية الفيتنامية والطب التقليدي. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 01:28:18 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMXh0M09OWlJDQWlFS0ZTM0tzUzRoTFNLSnlGXzVjVU5kM3NiZFhsZkhqVjRUOXNxTWlXY3lVcWtzZkpKM1BsMkJsSUtLeU1SMTg3ajBvM1cwTVNMRjJKbl9fMmk0bDFQOG9NUWF6b0",
+        "published_time": "Sun, 12 Jul 2026 01:28:18 GMT",
+        "modified_time": "",
+        "time": "Sun, 12 Jul 2026 01:28:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXh0M09OWlJDQWlFS0ZTM0tzUzRoTFNLSnlGXzVjVU5kM3NiZFhsZkhqVjRUOXNxTWlXY3lVcWtzZkpKM1BsMkJsSUtLeU1SMTg3ajBvM1cwTVNMRjJKbl9fMmk0bDFQOG9NUWF6b0x5dG15TTdmY2VzRTBsU2NrUXNyWlRSTUU0emc5Y0VjUkR1OEcwalJIeFdkRHhaUQ?oc=5"
+      },
+      {
+        "title": "Turistlere yönelik geleneksel tıp hizmetleri ve ürünleri geliştirin. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 17:13:18 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTZZQ3pVZEZfTnItdEdjZ184d0tMbTFRdFNVMTNXRkZCcW5uclJIZHBVT2xpOXIxaDhFb3Y0MEUwQkdLem9XdUZLcE5aT2hxRWFFeERETmdMZFlPQjlmaWl3MWJBcDFuQjU0Ul9Idk",
+        "published_time": "Sat, 11 Jul 2026 17:13:18 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 17:13:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTZZQ3pVZEZfTnItdEdjZ184d0tMbTFRdFNVMTNXRkZCcW5uclJIZHBVT2xpOXIxaDhFb3Y0MEUwQkdLem9XdUZLcE5aT2hxRWFFeERETmdMZFlPQjlmaWl3MWJBcDFuQjU0Ul9Idk5PdWxlWDJiUmVEMm44anhob1pfMDZ6MVZxQlNLV2o2MGk1OFdKNDdKX09peVBYQ2JOc0tlb1c4cks?oc=5"
+      },
+      {
+        "title": "פיתוח שירותים ומוצרים מרפואה מסורתית שיתאימו לתיירים. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 17:06:12 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczVRazFaQXFKUGU1cXRtWFB0UUtpRkJuU041ZzItTWdWeDBiSndhNkdWZ1FORlJ2WTBzVldkTjRHUjk4V2FKNWd5eXpMdXNNR0owWFVERzUtN0wwWmM2NHpsSWpNQks1NXQ4SjEtWF",
+        "published_time": "Sat, 11 Jul 2026 17:06:12 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 17:06:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczVRazFaQXFKUGU1cXRtWFB0UUtpRkJuU041ZzItTWdWeDBiSndhNkdWZ1FORlJ2WTBzVldkTjRHUjk4V2FKNWd5eXpMdXNNR0owWFVERzUtN0wwWmM2NHpsSWpNQks1NXQ4SjEtWFdWNkgydTJ5ZlNmclZlQXFrT2JaOHoxaXFiMk10N0ZvYTBId1psWDRiVWJmWjlYUW5LMkNWUkZWbjc?oc=5"
+      },
+      {
+        "title": "Desarrollar servicios y productos de medicina tradicional para atender a los turistas. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 17:00:55 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVNka09YTU5QbmNIbnNGU1BUd1g3czhKbXEwaTJuNmQ1MkZ3NWY0RnpiZ0RndVFaMm9DZHFob0toT0FRblE3WF9xRGJMY3VxUl9iVkhwLTJqSEs1UTFQb0czRVZXT1dpYm1XUDJjb1",
+        "published_time": "Sat, 11 Jul 2026 17:00:55 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 17:00:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVNka09YTU5QbmNIbnNGU1BUd1g3czhKbXEwaTJuNmQ1MkZ3NWY0RnpiZ0RndVFaMm9DZHFob0toT0FRblE3WF9xRGJMY3VxUl9iVkhwLTJqSEs1UTFQb0czRVZXT1dpYm1XUDJjb1V3b0FPLVR6Q1VFdnVNTXk0YlhYNjZuM1dLTHNtNHZ3UnczNkNYWnlNRnExemFaMEtoTDVpRjVfZWE?oc=5"
+      },
+      {
+        "title": "BPOM: Regulasi adaptif jadi kunci hilirisasi riset farmasi RI - ANTARA News Yogyakarta",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 12:38:53 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXZQMlpiakxOelBTSXFYQnYwQmNTRHVoSkcyM2tCakYzcldQSXZVaDM1bGpqdU05SFlOUVRhOWRjMTdESHNsNC1mckZxdnhCaGUydHpPM3E2RW1yc1B2THZVR2lNVmVaZDVNd05CLT",
+        "published_time": "Sat, 11 Jul 2026 12:38:53 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 12:38:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbXZQMlpiakxOelBTSXFYQnYwQmNTRHVoSkcyM2tCakYzcldQSXZVaDM1bGpqdU05SFlOUVRhOWRjMTdESHNsNC1mckZxdnhCaGUydHpPM3E2RW1yc1B2THZVR2lNVmVaZDVNd05CLTIzX0xuQXhCVTZKUzZuMDE5UXQ0UmN4cHpfZzhfWDB6dFlET2tjZ2tyQ2U0am1icHdWTUtucUZ3?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

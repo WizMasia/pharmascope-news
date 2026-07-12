@@ -1,0 +1,598 @@
+{
+  "date": "2026-07-11",
+  "total_articles": 385,
+  "language_breakdown": {
+    "korean": {
+      "total": 140,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 11,
+        "의약정책": 4,
+        "의약단체": 11,
+        "의약관련정부기관": 19,
+        "의료현장": 25,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 13
+      }
+    },
+    "english": {
+      "total": 135,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 10
+      }
+    },
+    "multilingual": {
+      "total": 110,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 8,
+        "Portuguese / 포르투갈어": 8,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 9,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 18
+    },
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "임상",
+      "count": 6
+    },
+    {
+      "keyword": "식약처",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "마운자로",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "실사",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "한약",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 18
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "recall",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "obesity",
+      "count": 3
+    },
+    {
+      "keyword": "vaccine",
+      "count": 3
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "헬스코리아뉴스",
+      "count": 1
+    },
+    {
+      "source": "CMN(Cosmetic Mania News)",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "HLB 간암 신약 FDA CRL 재발과 바이오 규제 리스크 확대",
+    "질환유효성평가·AI 항체 도입 등 신약개발 방식 다변화",
+    "진료지원간호사 제도 시행과 병원 운영·인력 배치 재편",
+    "국산 CAR-T 급여와 해외 보험개편이 고가치료 접근성을 압박"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "farmasi",
+        "nasional",
+        "industri",
+        "impor",
+        "dpr",
+        "bahan",
+        "obat",
+        "komisi",
+        "baku",
+        "penguatan"
+      ],
+      "articles": [
+        {
+          "title": "Komisi VI DPR Dorong Penguatan Industri Farmasi Nasional untuk Kurangi Impor Bahan Baku Obat - pantau.com",
+          "source": "",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWpZSzVja1FZdzRrSTY5QnBFVUhBNExfS0JveThTSWxFLVFSaDVGSEI5SnZ3ZHRMWmhjMFUtTXJ0LWdZMmRMS0IxbmJmZ1lxenNjVzhVWERhYl9oZGdRTTNjSWFMV2F0eVRVU1o0Z2",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sat, 11 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWpZSzVja1FZdzRrSTY5QnBFVUhBNExfS0JveThTSWxFLVFSaDVGSEI5SnZ3ZHRMWmhjMFUtTXJ0LWdZMmRMS0IxbmJmZ1lxenNjVzhVWERhYl9oZGdRTTNjSWFMV2F0eVRVU1o0Z2F4MVZNblZvYkF2aW4taGhMSWlFb0gyWnFYSXdJN1NobVZVc1VsRmR2NTRUMFpOOEgtbmVKQk5lVVluUGFlWkdpOXBabzA1ZjFSeVNfNGl0M0kwTTZQZXV3LUVjVQ?oc=5"
+        },
+        {
+          "title": "Komisi VI Optimistis Industri Farmasi Nasional Mampu Kurangi Impor Bahan Baku - garuda tv",
+          "source": "",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjZhOWdaNXBNUUhTWVFzekcwampuTTA2b3hxTnlodnpERVNoVUo5Qkw3ZHdMeF80SFZicXFkc2lXU0oweWQ2cTlwUnJIQTdxcExEd0dGYUhxZGFmQ1g5TmRaWWVGM3RvaGZXSUNXMW",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sat, 11 Jul 2026 06:07:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjZhOWdaNXBNUUhTWVFzekcwampuTTA2b3hxTnlodnpERVNoVUo5Qkw3ZHdMeF80SFZicXFkc2lXU0oweWQ2cTlwUnJIQTdxcExEd0dGYUhxZGFmQ1g5TmRaWWVGM3RvaGZXSUNXMWlGRlpITjFGN091UU44MW5udFZwc1h0MUR1TVA4RWZuNFpFbTB2OUdGT2c3Tzc?oc=5"
+        },
+        {
+          "title": "Guru Besar UGM Prof. Rumiyati Dorong Kemandirian Obat Nasional Berbasis Rekayasa Farmasi Makromolekul Makanan - Melintas - Melintas",
+          "source": "",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0VfT3N0ckVtRzR5ZVgzXzJnQ1BTc0tTWU4zSWdHb0dKUlZDN0ljVm5aVEZaOXhXSFpNaUZxRVlod29LTF95WGtVQ3pkQ293Nk5zUHZjMlZsT3hpT3pyUmNJTVI4dzhoZksyaHp5ZX",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sat, 11 Jul 2026 00:04:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS0VfT3N0ckVtRzR5ZVgzXzJnQ1BTc0tTWU4zSWdHb0dKUlZDN0ljVm5aVEZaOXhXSFpNaUZxRVlod29LTF95WGtVQ3pkQ293Nk5zUHZjMlZsT3hpT3pyUmNJTVI4dzhoZksyaHp5ZXBubWlxYXIxVnNfQ0xjRDRpdmtJaklkQXZWY3BwVkNjU1hSaEo0eE1yc0I0M3FwdHhudnFOQ2h6UGd5M3B5NE1vSEZvaHFKQXY5QXZnWTc4UGJzZUcwbVVyRWV4d2xKWjYtX25QVTZZTFZVamotZVJlMUdR0gHnAUFVX3lxTE56S2JRQ2paLWN6aEU0MHcyMnJGLU9IUm5mRGkwQjBJWFlPZ2phXzBEZFFSbEJZeFgwOExQbWJRYXBQLVRIMmNUNXlzYkQ5N3RRX0w5RnczS0JZOUZWVlh1VE5HdllnZUNZQlo1cENYT2hGSE0tNUtqb3lvTkt1QTFiRWZRY05yT3lha2s3VjIySUpqMFNKTEZGVndYX1JlSGRCNUJ0NXljZlNHME45cVNMbU1UVmpDTUJLRU1nRVFkaFA5M3RSR0tFaDVoQ3ZTWHIzRHZNOXZSUjRVTHptbk03akZlTlhuVQ?oc=5"
+        },
+        {
+          "title": "Komisi VI Bidik Pengurangan Impor Bahan Baku Obat Lewat Penguatan Industri Nasional - DPR RI",
+          "source": "",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3dQX0ZWWmI0VlBpWERhUGZ6enZPQkM3VXo5UkdjX1hSWVdvbEsxaGZmWTJueWJweThYcW1GcTlHc0dxaDhZMlNDLVdFZEhBcjEzVGZEMHVvZjlFaXJKb0pGYV83Z2RWMms4MWY2QW",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sat, 11 Jul 2026 02:39:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3dQX0ZWWmI0VlBpWERhUGZ6enZPQkM3VXo5UkdjX1hSWVdvbEsxaGZmWTJueWJweThYcW1GcTlHc0dxaDhZMlNDLVdFZEhBcjEzVGZEMHVvZjlFaXJKb0pGYV83Z2RWMms4MWY2QW1pNllqMFFGWjVqR2c5eVByMWdEZnR5ZDN5dWdWRFBCLXZITWxyMmltQVYwaERTelRRazIybFdZTkRuWHBWLVJUM0Fyc1Z6dnFxS040QkY3eG1ScjlZRzAxc2ZjUQ?oc=5"
+        },
+        {
+          "title": "Dua Abad Berdiri, Sturman Nilai Farmasi BUMN Belum Tampil sebagai Pemimpin Pasar - DPR RI",
+          "source": "",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQOThRUnEyQTV3OEZRSnRaVXJjOXJfVWlLcG9taTFZZ1JKTmFFX181ZjV4SmZuc1E0azRTMTRIMkNVRkNCbTRwenBGemlqNW5jblBMNHNEd0NWSDhITkVJYmZOQnFLLTBnV2REWkFPeG",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sat, 11 Jul 2026 02:54:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOThRUnEyQTV3OEZRSnRaVXJjOXJfVWlLcG9taTFZZ1JKTmFFX181ZjV4SmZuc1E0azRTMTRIMkNVRkNCbTRwenBGemlqNW5jblBMNHNEd0NWSDhITkVJYmZOQnFLLTBnV2REWkFPeGowdTAzSFY4ZElhZzFLV20wXzk0bUN3RUVtV1d3SU9FNXZMTUhHbGdROFM1QnhaZzRfZzhhXzFxUnFUZUNBcldTWTU4UHZsVnQwM0s0cDRHRjh3NVYzY2c?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "신고센터",
+        "운영",
+        "여름철",
+        "가축전염병",
+        "전남광주",
+        "전남타임스",
+        "전남광주동물위생시험소"
+      ],
+      "articles": [
+        {
+          "title": "‘단일 의대·2개 병원’... 전남광주 의료체계 혁신 - 전남타임스",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zMG93VlJYaVBsOFZTU25TZlMzMTdMMXgxY1cwdW5XeWpCSXJLVUlQYXdnWFNlUFpmZk4yTUYyZHA0Z2lSNUxHWW1ScTdBSlB4aXoydVlKLVNDU2lxdWljWmR5YUZyUQ?oc=5\" targe",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sat, 11 Jul 2026 01:42:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zMG93VlJYaVBsOFZTU25TZlMzMTdMMXgxY1cwdW5XeWpCSXJLVUlQYXdnWFNlUFpmZk4yTUYyZHA0Z2lSNUxHWW1ScTdBSlB4aXoydVlKLVNDU2lxdWljWmR5YUZyUQ?oc=5"
+        },
+        {
+          "title": "[D-BIZ 지역뉴스] 전남광주동물위생시험소, 여름철 가축전염병 신고센터 운영 - 데일리비즈온",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVFpGRkphSUVCVk9DNnpIdmhKRXNsaDhkT0NOR3FEWXRUQ0ZxYXJfQWNtT2FkeWU3UDRmbzRjQUltNGc3OHByMzVZWkJ1R0IydVlfd1dPcGlnd2lISTZxbERjY0JfTHdnYlB4Rw?oc=",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 11 Jul 2026 04:24:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOVFpGRkphSUVCVk9DNnpIdmhKRXNsaDhkT0NOR3FEWXRUQ0ZxYXJfQWNtT2FkeWU3UDRmbzRjQUltNGc3OHByMzVZWkJ1R0IydVlfd1dPcGlnd2lISTZxbERjY0JfTHdnYlB4Rw?oc=5"
+        },
+        {
+          "title": "‘여름철 가축전염병 신고센터’ 전남광주 동물위생시험소 운영 - 전남타임스",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVmRCZ2hVdUpsOTRsREhndXphMWNST0p4a2tHcEROVEdnaG92eHZIeW81TVhuM0VWYWZpTjBndUVhc09EMURSZnVsaHhJcU5fcEF0MERVanRUTnVuTm1yaE96MHNnWkU?oc=5\" targ",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 11 Jul 2026 01:26:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zVmRCZ2hVdUpsOTRsREhndXphMWNST0p4a2tHcEROVEdnaG92eHZIeW81TVhuM0VWYWZpTjBndUVhc09EMURSZnVsaHhJcU5fcEF0MERVanRUTnVuTm1yaE96MHNnWkU?oc=5"
+        },
+        {
+          "title": "여름철 가축 전염병 대응…전남광주특별시 신고센터 운영 - 뉴스1",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE14SXJCelk0ZDFTcFhNSGFyWFhCdTlodEN2SDUyM0RJRFZkbUFfN0xIXzQ1Mks5cnk3eks4dk1GcXpfRWFiOEJoQ1d4VC1HTWpKS1FCeVU1UFJHaGowQi1F?oc=5\" target=\"_blank\"",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 11 Jul 2026 01:12:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14SXJCelk0ZDFTcFhNSGFyWFhCdTlodEN2SDUyM0RJRFZkbUFfN0xIXzQ1Mks5cnk3eks4dk1GcXpfRWFiOEJoQ1d4VC1HTWpKS1FCeVU1UFJHaGowQi1F?oc=5"
+        },
+        {
+          "title": "전남광주동물위생시험소, 여름철 가축전염병 신고센터 운영 - 네이트",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pamJSZzBMOW92VXJ5UUxSWWc5S3RDTHl1UHRBVGVnYjU3a041TW82RDF5MUs3RmZlWEFDTGVYb2pzWU5nWWVYTXJpSUcwbWVPVFdv?oc=5\" target=\"_blank\">전남광주동물위생시험소, 여름",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 11 Jul 2026 04:12:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pamJSZzBMOW92VXJ5UUxSWWc5S3RDTHl1UHRBVGVnYjU3a041TW82RDF5MUs3RmZlWEFDTGVYb2pzWU5nWWVYTXJpSUcwbWVPVFdv?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "진료지원간호사",
+        "제도",
+        "시행",
+        "업무",
+        "규칙",
+        "확정",
+        "경제투데이",
+        "목록",
+        "행위"
+      ],
+      "articles": [
+        {
+          "title": "진료지원간호사(PA) 제도 본격 시행…자격·업무기준 명확해진다 - 연천뉴스",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAtb0pQVHhXY0hkUUdLYW00eTA3d3hXTGhXeF9jVEcybWRTZV9qc0dUcWNibHlYc3B6V3ZBdnllOXlGNEE2WnUzdzJ6eVplRFJaYTZ0RjdMLU5WYWZ4cFNtVFY1MlRSU2p1S1o5Y29KYw",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Sat, 11 Jul 2026 00:57:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtb0pQVHhXY0hkUUdLYW00eTA3d3hXTGhXeF9jVEcybWRTZV9qc0dUcWNibHlYc3B6V3ZBdnllOXlGNEE2WnUzdzJ6eVplRFJaYTZ0RjdMLU5WYWZ4cFNtVFY1MlRSU2p1S1o5Y29KYw?oc=5"
+        },
+        {
+          "title": "진료지원간호사 제도 본격 시행…업무 규칙, 행위 목록 확정 - 경제투데이",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWFlLZ21OVGZYNFhzc3RhcldWWGkyYlBVbVU3Y3ZnVjdXNHltTU9aRlFOaWlwdzYxbjFvZm5EMlYyUGZ5UDRxREdWMDNfeXF1NGxhc1RvS3M4dmVLZTZfQWhNYks2dHRzMXg40gFrQV",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Sat, 11 Jul 2026 01:58:47 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yWFlLZ21OVGZYNFhzc3RhcldWWGkyYlBVbVU3Y3ZnVjdXNHltTU9aRlFOaWlwdzYxbjFvZm5EMlYyUGZ5UDRxREdWMDNfeXF1NGxhc1RvS3M4dmVLZTZfQWhNYks2dHRzMXg40gFrQVVfeXFMTjJYWUtnbU5UZlg0WHNzdGFyV1ZYaTJiUFVtVTdjdmdWN1c0eW1NT1pGUU5paXB3NjFuMW9mbkQyVjJQZnlQNHFER1YwM195cXU0bGFzVG9Lczh2ZUtlNl9BaE1iSzZ0dHMxeDg?oc=5"
+        },
+        {
+          "title": "진료지원간호사 제도 시행, 환자안전 높이고 의료현장 혼선 줄인다 - 한국의약통신",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE52NEdWMXcxcWpxMnZqdV9lcUJqTzd5TFRQSTNobWx6SllIcU9kOWRXUUx4Q29vc0xUeHJMNGlwZFFmdUw0Ym9vMnhLdy1wRER6Zjg3WE9wRl9ITzNET3BVQzM5VjBpODdsRVBZ?oc=5\"",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Fri, 10 Jul 2026 21:52:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52NEdWMXcxcWpxMnZqdV9lcUJqTzd5TFRQSTNobWx6SllIcU9kOWRXUUx4Q29vc0xUeHJMNGlwZFFmdUw0Ym9vMnhLdy1wRER6Zjg3WE9wRl9ITzNET3BVQzM5VjBpODdsRVBZ?oc=5"
+        },
+        {
+          "title": "진료지원간호사 제도 본격 시행…업무 규칙, 행위 목록 확정 - 경제투데이",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNEpzdVRDSHBFWk9kaGgtZ1p6SVQ4b0dKeFc4VDRhWWxDSGJQSkFIWk9tVUtTdW9pTHphMHdwY3BZaEw4ZlBfVy1yTXZld1pua2NPYzdjdVBIMFhSVkQxNnNQVDlmc1HSAWtBVV95cU",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sat, 11 Jul 2026 00:22:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LNEpzdVRDSHBFWk9kaGgtZ1p6SVQ4b0dKeFc4VDRhWWxDSGJQSkFIWk9tVUtTdW9pTHphMHdwY3BZaEw4ZlBfVy1yTXZld1pua2NPYzdjdVBIMFhSVkQxNnNQVDlmc1HSAWtBVV95cUxOMlhZS2dtTlRmWDRYc3N0YXJXVlhpMmJQVW1VN2N2Z1Y3VzR5bU1PWkZRTmlpcHc2MW4xb2ZuRDJWMlBmeVA0cURHVjAzX3lxdTRsYXNUb0tzOHZlS2U2X0FoTWJLNnR0czF4OA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "FDA",
+        "fda",
+        "무연",
+        "넘었다",
+        "필립",
+        "담배",
+        "모리스",
+        "뉴스핌",
+        "gam"
+      ],
+      "articles": [
+        {
+          "title": "Landmark Clinical Trial Results in First FDA-Approved Treatment for Rare Form of Obesity Caused by Brain Injury | Newswise - Newswise",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZFdyOUFVRlZIUHNVdVFpclM2X0F4cEpxM19rcG5BVFh6bVBNUHZKQm1idFhzMmcxNzBlRE9xQldrRWlmazEtLW5BWmJRYzFOQUg1QW9pMnl6R3gxR3JLNDBhZGpBTWV3Y19oUWZjZE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 10 Jul 2026 22:50:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZFdyOUFVRlZIUHNVdVFpclM2X0F4cEpxM19rcG5BVFh6bVBNUHZKQm1idFhzMmcxNzBlRE9xQldrRWlmazEtLW5BWmJRYzFOQUg1QW9pMnl6R3gxR3JLNDBhZGpBTWV3Y19oUWZjZExWanVWbXZ1MmNsTmwxWV9ramdrQ2haekxTTm9pQUN1emd5dTE4YWZBQWxGUWtCajNXVVVXVGlnUkxOUjVSY2lWc1BzOVRzcWdPYml0U2VhQy1JYmVqeWV5TkpiQlVKWS01ekhlRFpXaVpYR0lkNmfSAd4BQVVfeXFMTmRXcjlBVUZWSFBzVXVRaXJTNl9BeHBKcTNfa3BuQVRYem1QTVB2SkJtYnRYczJnMTcwZURPcUJXa0VpZmsxLS1uQVpiUWMxTkFINUFvaTJ5ekd4MUdySzQwYWRqQU1ld2NfaFFmY2RMVmp1Vm12dTJjbE5sMVlfa2pna0NoWnpMU05vaUFDdXpneXUxOGFmQUFsRlFrQmozV1VVV1RpZ1JMTlI1UmNpVnNQczlUc3FnT2JpdFNlYUMtSWJlanlleU5KYkJVSlktNXpIZURaV2laWEdJZDZn?oc=5"
+        },
+        {
+          "title": "[GAM]필립 모리스 무연 담배 FDA 벽 넘었다 ① 주가 재평가 이제 시작 - 뉴스핌",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSU9Va19iUUNoRkpZSWg1N2tpZmFZNWkydXVoYWpyT3JnWjhWQWpLOTF0V2RTQktPdE1EREw5QjdFN2lnWDdzSU1xclE1R3F6M2g3MDdPN0NLNzFt?oc=5\" target=\"_blank\">[GA",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 10 Jul 2026 23:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtSU9Va19iUUNoRkpZSWg1N2tpZmFZNWkydXVoYWpyT3JnWjhWQWpLOTF0V2RTQktPdE1EREw5QjdFN2lnWDdzSU1xclE1R3F6M2g3MDdPN0NLNzFt?oc=5"
+        },
+        {
+          "title": "[GAM]필립 모리스 무연 담배 FDA 벽 넘었다 ② 성장·방어 '두마리 토끼' - 뉴스핌",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2dUJkM0lRUEo4Rm1NY0d2Wk82MTZVbkNqOGU0M0poSzdDUjZ5MWFUQ092UVY5WUhYaldYeUpxbHhTUzZBWlhDS3NFeTZ5cEZQcE85ZDVfeTN2UHZy?oc=5\" target=\"_blank\">[GA",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 10 Jul 2026 23:06:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2dUJkM0lRUEo4Rm1NY0d2Wk82MTZVbkNqOGU0M0poSzdDUjZ5MWFUQ092UVY5WUhYaldYeUpxbHhTUzZBWlhDS3NFeTZ5cEZQcE85ZDVfeTN2UHZy?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "medicijnen",
+        "uit"
+      ],
+      "articles": [
+        {
+          "title": "Medicijnen uit Europa duurder? Teva waarschuwt voor prijsdruk - De Telegraaf",
+          "source": "",
+          "importance": 38,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEc2Sm4wUnJWZkNqdWRpY0t2NndSMTIxVWEtYXNrNFo4YW9uZlFlaExKYlNKSHNrTTY5b01tc2liamFwRHVtVmNka3JvRUlqdW5DV1o5ME9mM3Q2bWc1YXpmUEtNSW9HaTJsOUJ5cF",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sat, 11 Jul 2026 05:32:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQdEc2Sm4wUnJWZkNqdWRpY0t2NndSMTIxVWEtYXNrNFo4YW9uZlFlaExKYlNKSHNrTTY5b01tc2liamFwRHVtVmNka3JvRUlqdW5DV1o5ME9mM3Q2bWc1YXpmUEtNSW9HaTJsOUJ5cFZsTjNIdFZqY0tTMXNCYWtyRFFmYVMyVENrMF9HaEwyNnFBa095c2dxamd5VVpZVnN2TjJMaFpUMDFvWGw5WHN2Z0huWlBjS29nWHdxd3lxX0NtTVVvSEdxelhtMGdpbGdmZTQ4RXpkdjRYOGJsQzhJY1pCcE1LLWpsOW5DQzM0c1drUE0xbWtFNGpkMDhiWjg?oc=5"
+        },
+        {
+          "title": "Medicijnen uit Marokko veroveren Rusland - Bladna",
+          "source": "",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZaHdWVHJWcmYxaWN4eHJNQXFsTXZSVDhzTnpqY3psRXB2OFVkMm1Ib01xckJJaG81UnUxLTlzVUdIQW1JWnRyYUFDUGJpNGtFaXZsbVJuT0hBYUd3SnlJbDhuZVlZTzliTXZidEU5a1",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sat, 11 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZaHdWVHJWcmYxaWN4eHJNQXFsTXZSVDhzTnpqY3psRXB2OFVkMm1Ib01xckJJaG81UnUxLTlzVUdIQW1JWnRyYUFDUGJpNGtFaXZsbVJuT0hBYUd3SnlJbDhuZVlZTzliTXZidEU5a1haUXhBUzZnZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "한약사",
+        "한약",
+        "문제"
+      ],
+      "articles": [
+        {
+          "title": "[릴레이집회-296일차] \"정부, 한약사 문제 해결에 적극 나서야\" - 약사공론",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE84aGNJTFZIRUNUWXZiQWt0R21TVi04YkJIdG9mblJkbWMwd2xEMEU4SkkyOGhla2ZIY1loRk5YRG52VVlDZjRPdS0yNGE5d2FjQnA5TTdnT0dWWFFJOVBMdzhuclQwWTM2Q0FQaw?oc=",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Sat, 11 Jul 2026 06:16:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aGNJTFZIRUNUWXZiQWt0R21TVi04YkJIdG9mblJkbWMwd2xEMEU4SkkyOGhla2ZIY1loRk5YRG52VVlDZjRPdS0yNGE5d2FjQnA5TTdnT0dWWFFJOVBMdzhuclQwWTM2Q0FQaw?oc=5"
+        },
+        {
+          "title": "\"D+296, 한약사 문제 해결하라\" 대구시약-학생들 시위 - 데일리팜",
+          "source": "",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWelRLV0NLal95VV9KTlR1bFluSUQwZE5jMzFYeFR6WE9rQk1kMldvRkN1am1FWHVQdklLcFpzWGhwSlg2ZXlrd0xIV1hQS2M3ejl5NmRB?oc=5\" target=\"_blank\">\"D+296, 한약사",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Sat, 11 Jul 2026 01:15:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWelRLV0NLal95VV9KTlR1bFluSUQwZE5jMzFYeFR6WE9rQk1kMldvRkN1am1FWHVQdklLcFpzWGhwSlg2ZXlrd0xIV1hQS2M3ejl5NmRB?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "AstraZeneca stock steadies on its global drug pipeline - ad-hoc-news.de",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHU1ZkE0NERhRG1YWldZN0VxVHhBamRGNWxsWFQ0Sl83cE1Uakdvczc3SEZERmFxQ3cwLXlZYTZqZDItaHZxTFQzakZTN05haUZqTjZWQ1dkRUVGd0NWTlZjWjFUY2F2SU1KV29FLV",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHU1ZkE0NERhRG1YWldZN0VxVHhBamRGNWxsWFQ0Sl83cE1Uakdvczc3SEZERmFxQ3cwLXlZYTZqZDItaHZxTFQzakZTN05haUZqTjZWQ1dkRUVGd0NWTlZjWjFUY2F2SU1KV29FLVd0T1ZSazBDNXl4ZDYzT2ctbEJjeng1UnkzM3FZZG9kMEJ5T0k2aGZrVlJ4QnF2VkUxLTVMaWZOYlRWcDZRemEtX1o1bw?oc=5"
+    },
+    {
+      "title": "Copay assistance is meant to defray patient drug costs. Some insurers keep it instead - The Guam Daily Post",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQNTlUclRtS05xMXozWHJuMk5MLUFFci1VX05jVm5PT2QwN1JuUWxESkJJaWJJZE80b1dFSkZrSlIyYjUyeE9qdHlCNlNvMy0wLW9xd05nLXpEWEdEVWEwbUFudHd3TjVZTC05SllEeV",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNTlUclRtS05xMXozWHJuMk5MLUFFci1VX05jVm5PT2QwN1JuUWxESkJJaWJJZE80b1dFSkZrSlIyYjUyeE9qdHlCNlNvMy0wLW9xd05nLXpEWEdEVWEwbUFudHd3TjVZTC05SllEeVFaeUQ0RW1NNkwxY21DR2RQSkk5cm1JbzNPSlNETmxQcTFiMGtzaGx5dF9LeU4ya0UzT1J6d3cwMTRFQ2c1NlJfU0toZWFxMUJYRVYwN1d0cXJiQ2JCekZCcS1LeVBRS0JBQ244WmQtdy02eGp1UzNUNUE0aUJYZ0o1b2JuZVZNY0hhNWd6bjRZTlZnendRWk5Ja1dHbg?oc=5"
+    },
+    {
+      "title": "Orthodox, complementary medicine should work together, not compete – Coker - The Guardian Nigeria News",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUJtQk4xWktBV3hvcDVDNW80RXkzdVhNdjVhU3NuQVhEbFlVNDRJTVZjbm51OENTTXR5SUhEdXNHX3dKa0pDUzBkWE50OGpza2htVENLdUcza2ZkSTZ2UHZ2Z3ZLSE1odnVMdUk5Rl",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMUJtQk4xWktBV3hvcDVDNW80RXkzdVhNdjVhU3NuQVhEbFlVNDRJTVZjbm51OENTTXR5SUhEdXNHX3dKa0pDUzBkWE50OGpza2htVENLdUcza2ZkSTZ2UHZ2Z3ZLSE1odnVMdUk5RlEtM1NqQ2J2TlZlcGpPaTg2ckRMMUpUbHlGQTNBb2ZpVkFsb293YVJqZ0ZhMzhMZ29qU0VR?oc=5"
+    },
+    {
+      "title": "Phó Giáo sư, Tiến sĩ Nguyễn Quốc Huy quê Bắc Ninh được bổ nhiệm Giám đốc Học viện Y - Dược học cổ truyền Việt Nam - Báo Bắc Ninh",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3Wl",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3WlVpeE9KU2ZVVUllM1NZWTlxVTNHN2NyYW1DNDNLTlBZcEd2dFN1VlQ5eGw1MUwzMng3OUdVcllOYlJaSUpxZnl2SU9SMHBjQW9FclBVWGtsZWhib05WZDhlU3BNbDh2N3BsWXZtLTJMZUlLSjVhUlVMWXdCOVBDdw?oc=5"
+    },
+    {
+      "title": "‘수련생’ 넘어 노동자로…전공의 단체교섭 시대 열렸다 - 청년의사",
+      "source": "",
+      "importance": 42,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9TN3lwbjN4V1pwdG9VOUZ3Q1JpZjNuWlNhU3B5RzVaeW10OXpUeWVEdktydHdrN0RXMUF2SlhGekdVemJ4Ympkc1E1X1A5VHZOazdJV25jM1ZBT21JRml1cXZfNy1yN09mNlI1Z25FcV",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TN3lwbjN4V1pwdG9VOUZ3Q1JpZjNuWlNhU3B5RzVaeW10OXpUeWVEdktydHdrN0RXMUF2SlhGekdVemJ4Ympkc1E1X1A5VHZOazdJV25jM1ZBT21JRml1cXZfNy1yN09mNlI1Z25FcVDSAXNBVV95cUxPMFhQRUtmcHFlS0xQdlVDaUZma1RielVFUFlGamZNOWJjaDZtbDdMNE1BbE1Kdm02ZkQ3WTNNQk5YWDNVdkRfektQcmdZV2pvUnpxc2pkWDdTaFN1NDFyQ19DYmpkZkVaZnJ6cVlrRkpFUHRZ?oc=5"
+    },
+    {
+      "title": "Warburg Pincus nears $7 billion deal for PANTHERx Rare, WSJ reports - ETPharma.com",
+      "source": "",
+      "importance": 42,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVnIxd2hVQVJQTVExZjB3U2dhQUFaSlJvTUlaR2ZidkxlRHFseHVrQURGdVd2U29fMkxqQkhzSlZhc1oyVThKc0FDOXpWY3JXbk96OEVyNTM5TDhhbFFUMFRncy1lSlI1YTUzR2NLeF",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVnIxd2hVQVJQTVExZjB3U2dhQUFaSlJvTUlaR2ZidkxlRHFseHVrQURGdVd2U29fMkxqQkhzSlZhc1oyVThKc0FDOXpWY3JXbk96OEVyNTM5TDhhbFFUMFRncy1lSlI1YTUzR2NLeFF4d1FpY210b2JqQUxwZUJ6cVhOMDl2Q2xwM0I2S1FyRGROekM3azJnMDFoMEZfR0hMakpkNHR6bm05QXpfTVRqUDhOVlp4QktkbTFTNm9laUdqN3JzM25Pd2l2eHNOU085NDhWdTBkMGc4eXpSWFVWendEMkp2TXM10gHoAUFVX3lxTE9WcjF3aFVBUlBNUTFmMHdTZ2FBQVpKUm9NSVpHZmJ2TGVEcWx4dWtBREZ1V3ZTb18yTGpCSHNKVmFzWjJVOEpzQUM5elZjclduT3o4RXI1MzlMOGFsUVQwVGdzLWVKUjVhNTNHY0t4UXh3UWljbXRvYmpBTHBlQnpxWE4wOXZDbHAzQjZLUXJEZE56QzdrMmcwMWgwRl9HSExqSmQ0dHpubTlBel9NVGpQOE5WWnhCS2RtMVM2b2VpR2o3cnMzbk93aXZ4c05TTzk0OFZ1MGQwZzh5elJYVVZ6d0QySnZNczU?oc=5"
+    },
+    {
+      "title": "Kế hoạch mới của Chính phủ: Đánh thức tiềm năng ngành dược liệu Việt Nam - thuonghieusanpham.vn",
+      "source": "",
+      "importance": 42,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUhqbm5DQVlnNmduU09CWnJJalY0WV9KYVhjdk9aTmwzU3BuRlFENWdfS2JVQjZGR3NXZy1tWnZXbzVqSDlmYkdmWVFVTVpCZDZVQ1dCNFJtbm5LQXRhT0EtUDUwSXM2VHJQRHRrZT",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUhqbm5DQVlnNmduU09CWnJJalY0WV9KYVhjdk9aTmwzU3BuRlFENWdfS2JVQjZGR3NXZy1tWnZXbzVqSDlmYkdmWVFVTVpCZDZVQ1dCNFJtbm5LQXRhT0EtUDUwSXM2VHJQRHRrZTFnQ09OTVdRcm91Yy03U1VnZTdLMUU4Q09FcFBFRGV1NFFraThJekhsY0dXQkRBSUh3TlE?oc=5"
+    },
+    {
+      "title": "德國聯邦參議院通過醫療改革法案 藥廠強烈反對憂衝擊投資 - 四季線上4gTV",
+      "source": "",
+      "importance": 40,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xOU8wNGpldVMtRkhSbjNFZXJRb1ZRTHNzazJadjFwNU1KaXJ4NWNEcll1UzQzZ2ZjdUNvU1pMeGRtaVJYYmd1ZzVZV18tQW9iajdkNXhwVQ?oc=5\" target=\"_blank\">德國聯邦參議院通過",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xOU8wNGpldVMtRkhSbjNFZXJRb1ZRTHNzazJadjFwNU1KaXJ4NWNEcll1UzQzZ2ZjdUNvU1pMeGRtaVJYYmd1ZzVZV18tQW9iajdkNXhwVQ?oc=5"
+    },
+    {
+      "title": "למעלה מ-500 תושבים בקהילת טרונג לי קיבלו בדיקות רפואיות ותרופות בחינם. - Vietnam.vn",
+      "source": "",
+      "importance": 40,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzE4UEdFMENQQzd4R2Q1UllkQ2lhakxsYWgxLWxhdmRsVDhkVjl3SG4wRUVadExWb1JEeUdTUk1VeDFyb0JDMS1ENWNBMm5CR0NTcGtDeDBRVFdZS1NEZnd0S1Brb2YwSURqSWxubE",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzE4UEdFMENQQzd4R2Q1UllkQ2lhakxsYWgxLWxhdmRsVDhkVjl3SG4wRUVadExWb1JEeUdTUk1VeDFyb0JDMS1ENWNBMm5CR0NTcGtDeDBRVFdZS1NEZnd0S1Brb2YwSURqSWxubEZrTUxDVlBBNk9SaVM5bXdtTVVGSjYxUHFQQ2xIWEJqRXhEZWM?oc=5"
+    },
+    {
+      "title": "شجع على استخدام أساليب الرعاية الصحية الفعالة غير الدوائية. - Vietnam.vn",
+      "source": "",
+      "importance": 38,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkZjdjkxS3hBMUMzamdhNUszT2VLZGtUOXNqNXBycWxUMmROa3JwYkJkUlJyVU56bklpV2x2RjNkSDFvamU3VXJzcDB2NUR5a1ktdVBhWUpyU0Z1SXZaX2xoVGpXNFVCUkZlYlNEUm",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkZjdjkxS3hBMUMzamdhNUszT2VLZGtUOXNqNXBycWxUMmROa3JwYkJkUlJyVU56bklpV2x2RjNkSDFvamU3VXJzcDB2NUR5a1ktdVBhWUpyU0Z1SXZaX2xoVGpXNFVCUkZlYlNEUm03UWN3RUJqSTZRTWQxb2xuQ3g3eWpybldkRUtuV19HNlRuR01pRXFxQzYzNjZjWENyUC16OWEyM2F3R2hT?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 3
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 2
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-07-13",
+  "total_articles": 269,
+  "language_breakdown": {
+    "korean": {
+      "total": 109,
+      "categories": {
+        "의약품": 14,
+        "의약산업": 10,
+        "의약정책": 4,
+        "의약단체": 9,
+        "의약관련정부기관": 5,
+        "의료현장": 22,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 15
+      }
+    },
+    "english": {
+      "total": 114,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 13,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 46,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 0,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 0,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 0,
+        "Russian / 러시아어": 5,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "허가·CMC·중국 보완절차가 단기 모멘텀을 좌우",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 31,
+      "key_articles": [
+        {
+          "title": "FDA CRL 뜯어보니, 최종 허가 가른 CMC…규격·제조소·완제공정 핵심 - 약업신문",
+          "importance": 56,
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=photo&nid=329685"
+        },
+        {
+          "title": "제일약품 P-CAB 신약 ‘자큐보’, 中 보완 절차 돌입 … 6조 시장 출격 ‘카운트 다운’ - 헬스코리아뉴스",
+          "importance": 22,
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWN2F4b3BhVFJCd1R4MUkySnNDaE9QYndUbWw1Ri1ZTUxkR0dlVDVCdXBtUktNeTg5blU1eENycWtNc1JwWVpqTDNtWXNSbUFzQWVYM1RCaUpQbjB2WS00V3lfX0l2WEU?oc=5"
+        },
+        {
+          "title": "'K보톡스 수출' 발목잡는 규제 풀어주세요 - v.daum.net",
+          "importance": 27,
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rV3g5eTNpSFRqT3c0V3Fyc3VjU1FVVFVPQ1V4WHh5U2RoeGFzeWVwVm9QMjNXbzBzVnlEVFJUUEJib3Z6SVdXbklGZVdvWU11cGZyUQ?oc=5"
+        }
+      ],
+      "summary_kr": "FDA CRL 사례와 제일약품 자큐보의 중국 보완 절차가 함께 포착되며, 허가 단계에서 CMC·제조소·자료 완성도가 실제 병목이라는 점이 재확인됐다. 수출형 신약은 효능만이 아니라 규제 대응 속도가 상업화 타이밍을 좌우한다.",
+      "summary_en": "Regulatory execution, not just efficacy, remains the bottleneck. CMC, manufacturing-site readiness, and dossier completeness are increasingly decisive as Korean assets move through US and China approval paths."
+    },
+    {
+      "topic": "K바이오 R&D는 제형·ADC·오픈이노베이션으로 재편",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 30,
+      "key_articles": [
+        {
+          "title": "휴온스, 개량신약 기반 넓혀 안과·비만 신약 R&D 확장",
+          "importance": 56,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=414443"
+        },
+        {
+          "title": "홍유석 지놈앤컴퍼니 대표 \"ADC 신약 기술이전 논의 본격화\" - 한국경제",
+          "importance": 27,
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43Ym0wN3I1dkFpaWNoY2xZLXN0Tk9Gb3ktNXU1TGlMMnRMeVY4VUYtd0ZnWXZJc2dzb0h3Ui1sSHBsd1lsdkJpUVdRT0w1XzJDNkFtUmFzR1QyZ9IBVEFVX3lxTFBTZFdnV0M4YWdnMjZTeGx3eHpJUkd0VDlnejNiRHBZTURMSVVQNmRBYkxFQktFYWNvOWJxYXNNdzhYWDhNM3dCY3BUV19XdDU0a085RQ?oc=5"
+        },
+        {
+          "title": "신약 상용화 위한 ‘제형’ 기술로 승부수 [강원대 앵커사업단] - 매일경제",
+          "importance": 27,
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpenF3c0tyMnZhQmJQQ0RrRTNFLXlnZEc5RDIxZmFYMlRTQllZRFd3b21wVUc0bkFKem1qNnZianZDTElBSm45eFpFNVBuVHVxbmpDQw?oc=5"
+        },
+        {
+          "title": "종근당, 5000억 연구기지 짓고 R&D 조직 분화 ′자체 신약 무게′ - 토요경제",
+          "importance": 27,
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUJ0VnR2d2VuVXBvWVpPd3VXUm9ZcDk2cldncTZ0YTl6Q1V1eWp0M3hULXFfR2t2T3BuUFZfZU1fcUh0eHhZWllrQlEyMHFVcVNpS2h0QVlhd01Id0dZc9IBb0FVX3lxTE5QYkN5TUpmUQ?oc=5"
+        }
+      ],
+      "summary_kr": "휴온스의 개량신약·안과·비만 R&D 확장, 지놈앤컴퍼니의 ADC 기술이전 논의, 제형 기술, 종근당의 연구기지와 조직 분화가 동시에 부각됐다. K바이오는 단순 파이프라인 확대보다 플랫폼·제형·오픈이노베이션으로 내부 역량을 재배치하는 단계로 보인다.",
+      "summary_en": "Korean pharma is shifting from pure pipeline expansion toward platform science, formulation work, and structured open innovation. The common thread is better control over differentiation and manufacturability."
+    },
+    {
+      "topic": "의료전달체계·수련·지불제도 개편 논의가 재점화",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 24,
+      "key_articles": [
+        {
+          "title": "전공의 수련 관건은 결국 ‘지도 전문의’ - 데일리메디",
+          "importance": 27,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04bWFHUHlJTDBPamJPd1k1N294WEt0RHN6UHZwOGFFb3dUc1M2OE10TnBNSzc1ZVRvUmtuX3Jxb3RUSzJiVUQ2aFFBclVCSHV6MktrUmpocDBQVTNBNkR1NnZLajBUTGxD?oc=5"
+        },
+        {
+          "title": "의협, 정부 시범사업 해부...FFS 넘어 지불제도 개편 큰 그림 - 의학신문",
+          "importance": 22,
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnckR4eHFmajlrTnp1eGhxUnlnT25wRS1kM2VHMkFrYnhWR19PVVV3U1JoRG9vcG5SeEUzWGtPMUZEcjhKZzYxRFZEQW0xMlhOXzBiMFNpQ0FRX2lGQzRIRVVzM3JxNlV3UFE?oc=5"
+        },
+        {
+          "title": "지역의사제 시행 앞두고 남은 과제는? \"교육·정착·지역병원 유지대책 등 마련해야\" - MEDI:GATE NEWS",
+          "importance": 22,
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TRlFSbmZnZ1BMMDhIRWFKamhzLWU4UUhMVEQ4SHJ6cXJpMlBDZzlqR3QyOVpxV3VCOGtMZWRlQjlkZFZtcEJDNUZzQjhMYzVxeVE3NDlkQQ?oc=5"
+        }
+      ],
+      "summary_kr": "전공의 수련의 핵심이 지도전문의 확보로 수렴되고, 의협은 지불제도 개편을 다시 전면에 올렸다. 지역의사제까지 겹치면서 의료현장은 인력 배치보다 지속가능한 운영·보상 구조를 먼저 설계해야 하는 국면이다.",
+      "summary_en": "Training, payment reform, and regional workforce design are re-entering the spotlight together. The policy conversation is shifting from temporary fixes to the structure needed for long-run staffing and reimbursement stability."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 8,
+      "significance": "high"
+    }
+  ],
+  "notable_absences": [
+    "대형 글로벌 빅파마 방어주 테마는 전일 대비 비중이 낮아졌고, 오늘은 개별 허가·R&D 실행 이슈가 중심이었다.",
+    "전통의학은 직접적인 산업/정책 이슈보다 의료 디지털 전환 기사로만 제한적으로 포착됐다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "광범위한 글로벌 제약·백신 테마에서 개별 품목 허가와 CMC 실행 이슈로 초점이 이동",
+      "대형 스토리보다 기업별 R&D 재편과 기술이전 논의가 더 두드러짐"
+    ],
+    "changes": [
+      "허가/CMC/보완절차",
+      "R&D 조직 재편과 제형 개발",
+      "지불제도·지역의사제 논의 재점화"
+    ]
+  },
+  "connections": [
+    "허가 단계의 자료 완성도와 제조소/완제공정 관리가 기술력 못지않게 중요해짐",
+    "오픈이노베이션과 플랫폼형 R&D가 단일 후보물질 의존도를 낮추는 방향으로 재편",
+    "의료정책은 수련·지불·지역인력 이슈가 함께 묶여 논의되는 구조로 전환"
+  ],
+  "generated_at": "2026-07-13T07:04:59+09:00"
+}

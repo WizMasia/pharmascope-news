@@ -1,0 +1,520 @@
+{
+  "date": "2026-07-11",
+  "total": 385,
+  "version": 1,
+  "generated_at": "2026-07-11T15:30:55.172063+09:00",
+  "korean": {
+    "total": 140,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 11,
+      "의약정책": 4,
+      "의약단체": 11,
+      "의약관련정부기관": 19,
+      "의료현장": 25,
+      "약국·약사": 6,
+      "의료정책·인력": 25,
+      "전통의학": 1,
+      "감염·보건": 13
+    },
+    "top_articles": [
+      {
+        "title": "FDA, 신약 심사 보완요구서한(CRL) 공개 확대 ‘일시 중단’…영업기밀 논란에 재검토",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:21시간+10 | 키워드+20 | 순위:114위+2",
+        "snippet": "[헬스코리아뉴스 / 임도이] 미국 식품의약국(FDA)이 의약품 허가 심사 결과와 보완 필요 사항을 담은 신약 허가 심사 보완요구서한(Complete Response Letter&#183;CRL) 공개 확대 정책 시행을 잠정 중단했다.",
+        "published_time": "21시간",
+        "modified_time": "",
+        "time": "21시간",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=350334"
+      },
+      {
+        "title": "‘수련생’ 넘어 노동자로…전공의 단체교섭 시대 열렸다 - 청년의사",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 22:32:54 GMT+5 | 키워드+25 | 순위:197위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9TN3lwbjN4V1pwdG9VOUZ3Q1JpZjNuWlNhU3B5RzVaeW10OXpUeWVEdktydHdrN0RXMUF2SlhGekdVemJ4Ympkc1E1X1A5VHZOazdJV25jM1ZBT21JRml1cXZfNy1yN09mNlI1Z25FcV",
+        "published_time": "Fri, 10 Jul 2026 22:32:54 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 22:32:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TN3lwbjN4V1pwdG9VOUZ3Q1JpZjNuWlNhU3B5RzVaeW10OXpUeWVEdktydHdrN0RXMUF2SlhGekdVemJ4Ympkc1E1X1A5VHZOazdJV25jM1ZBT21JRml1cXZfNy1yN09mNlI1Z25FcVDSAXNBVV95cUxPMFhQRUtmcHFlS0xQdlVDaUZma1RielVFUFlGamZNOWJjaDZtbDdMNE1BbE1Kdm02ZkQ3WTNNQk5YWDNVdkRfektQcmdZV2pvUnpxc2pkWDdTaFN1NDFyQ19DYmpkZkVaZnJ6cVlrRkpFUHRZ?oc=5"
+      },
+      {
+        "title": "[Pharma Report] 한미 ‘벨바라페닙’ 흑색종 치료제 개발 박차 外…셀트리온 유럽 바이오시밀러 질주·대웅 AI 내시경 시장 진출 - 헬스코리아뉴스",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 07:05:00 GMT+5 | 키워드+20 | 순위:141위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yaUVicVZnVmV4OS1tZEN5MVlMalA3ZUl2OTlZMnNORGFoNEFOQXVybDZDOEpteW82NDREYmtXTEhiSy10bXZRYWpjendTSHFYWDNrRWZPeEVYRjJBNE0tNnQ4aXBYeVE?oc=5\" targ",
+        "published_time": "Fri, 10 Jul 2026 07:05:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 07:05:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yaUVicVZnVmV4OS1tZEN5MVlMalA3ZUl2OTlZMnNORGFoNEFOQXVybDZDOEpteW82NDREYmtXTEhiSy10bXZRYWpjendTSHFYWDNrRWZPeEVYRjJBNE0tNnQ4aXBYeVE?oc=5"
+      },
+      {
+        "title": "희귀질환 APDS 치료제 '조엔자정' 품목허가 - 데일리팜",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 16:31:15 GMT+5 | 키워드+20 | 순위:150위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdEZyaXIxTzBLLUVtVmp3YUNxMW9SdHJKNEVDbk9BUWdfMHROblJuRzZ1MmJTbkp0cmNKRjJXSmQ5X25jVFlHZjJtcGRmeDd5czhYd0d3?oc=5\" target=\"_blank\">희귀질환 APDS 치",
+        "published_time": "Fri, 10 Jul 2026 16:31:15 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 16:31:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUdEZyaXIxTzBLLUVtVmp3YUNxMW9SdHJKNEVDbk9BUWdfMHROblJuRzZ1MmJTbkp0cmNKRjJXSmQ5X25jVFlHZjJtcGRmeDd5czhYd0d3?oc=5"
+      },
+      {
+        "title": "병원 기반 질환유효성평가, 신약개발 성공률 높인다 - 메디팜뉴스",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 09:21:55 GMT+5 | 키워드+20 | 순위:156위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBROUJRN2FyWkVIa2hqWTFsSlRXOThnbHI3Q2ZmUThwZGVXVjExcFZMelhQRXF3aWJ2S1A0bGcyMVN6UkNGN1hrUDkzM0VzVkREY1hycURIWlUweDMxak9xWHJCU05xMTJsdUpnNkdzcm",
+        "published_time": "Fri, 10 Jul 2026 09:21:55 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 09:21:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBROUJRN2FyWkVIa2hqWTFsSlRXOThnbHI3Q2ZmUThwZGVXVjExcFZMelhQRXF3aWJ2S1A0bGcyMVN6UkNGN1hrUDkzM0VzVkREY1hycURIWlUweDMxak9xWHJCU05xMTJsdUpnNkdzcmVfeW0tY0HSAXZBVV95cUxQUTlCUTdhclpFSGtoalkxbEpUVzk4Z2xyN0NmZlE4cGRlV1YxMXBWTHpYUEVxd2lidktQNGxnMjFTelJDRjdYa1A5MzNFc1ZERGNYcnFESFpVMHgzMWpPcVhyQlNOcTEybHVKZzZHc3JlX3ltLWNB?oc=5"
+      },
+      {
+        "title": "제약사, 건기식 차별화 경쟁…천연물 기반 원료 확보 속도 - 데일리한국",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 08:31:51 GMT+5 | 키워드+20 | 순위:59위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB0X1NoR3U5TG1jcnR3ekhGSEFaT2duRWNwZ3kzbnpvUXd5cW9TbExXbGpZYzFUOUluQkVwMWxhNlVmb1QzenIwSExKX29jcV95WlhCeVpJcmRJY1hZZG1iNS1yTk95TVlKajRFM1pwNN",
+        "published_time": "Fri, 10 Jul 2026 08:31:51 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 08:31:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0X1NoR3U5TG1jcnR3ekhGSEFaT2duRWNwZ3kzbnpvUXd5cW9TbExXbGpZYzFUOUluQkVwMWxhNlVmb1QzenIwSExKX29jcV95WlhCeVpJcmRJY1hZZG1iNS1yTk95TVlKajRFM1pwNNIBc0FVX3lxTFA2eTEyU3F2MDNuTkZkUl9DX1JXTC0yLVhXRW83N0hpVjM1NmJKRUk4RXZaX1kwdXJzdUJsNm0zVDNkMTFrSWJNOEZsSXJtRlFkTEZvVjJjNUZfZFZlMkVWSTl1ZjZHUU5OYnZaMG5KVkE0THM?oc=5"
+      },
+      {
+        "title": "강스템바이오텍, 아토피 모델에 정부성과 탑재…오가노이드 매출화 검증대 - 블로터",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 09:17:53 GMT+5 | 키워드+20 | 순위:62위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYXFTZ1VjQ0xHbGRYS1hYNy1zWU9QZGl4REl6cm56SDhiUHVDeWxDbHBudWJTYWt3TnNzcHU3VmRhODN4b3U1RnFfNzgwd0lSMTg0RGJYRDhxRFNwU29nWnRUVzQtNEhC0gFsQVVfeX",
+        "published_time": "Fri, 10 Jul 2026 09:17:53 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 09:17:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYXFTZ1VjQ0xHbGRYS1hYNy1zWU9QZGl4REl6cm56SDhiUHVDeWxDbHBudWJTYWt3TnNzcHU3VmRhODN4b3U1RnFfNzgwd0lSMTg0RGJYRDhxRFNwU29nWnRUVzQtNEhC0gFsQVVfeXFMTnB6cm9mUUJjMU9qMjdqU0VPYnhleUlvR2VEeHhMeTZwOFM5TXlKM2pzaHpodlBhUHFVVTdrNy1XU2VhNlV4dWZOZ1RhbTZBeFJtUEFRakFlR2V6ZnpaOG9oVDZQSE82R0JESE4x?oc=5"
+      },
+      {
+        "title": "中 약가인하 입찰 앞두고 ‘의사 서명 조작’…외국계 오리지널사 적발 파장 - 약사공론",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 20:49:00 GMT+5 | 키워드+20 | 순위:21위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5EU3A4ZEZnblRnNTNFWnZHSFM0RlRCSHA2c1pTWTY2UWM5ZTRoZ080cGg5SkpkV09jUFJrZE9lTE40SDBwUGFzYzRXRXViTG1nSlpHYUlKNTRlRW5JOE1kODQxbld6SHNwaGc1eA?oc=",
+        "published_time": "Fri, 10 Jul 2026 20:49:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 20:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EU3A4ZEZnblRnNTNFWnZHSFM0RlRCSHA2c1pTWTY2UWM5ZTRoZ080cGg5SkpkV09jUFJrZE9lTE40SDBwUGFzYzRXRXViTG1nSlpHYUlKNTRlRW5JOE1kODQxbld6SHNwaGc1eA?oc=5"
+      },
+      {
+        "title": "오리지널·국산 후발약 함께 약가협상 오른 보노프라잔 제제 - 약사공론",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 20:54:00 GMT+5 | 키워드+20 | 순위:23위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNzEwRWFFRVdieDlVNGE3aHQycUd0b0liNXhXU1hKTE1LdFhpekxpMTlVQmJDcmJ2cURIb2RKbTlwaTJLQm5YVy1lYkc0elFpSjRYRHVTaTIzeXJLa0k3LUVxR2VrYUVoeFZGOA?oc=",
+        "published_time": "Fri, 10 Jul 2026 20:54:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 20:54:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kNzEwRWFFRVdieDlVNGE3aHQycUd0b0liNXhXU1hKTE1LdFhpekxpMTlVQmJDcmJ2cURIb2RKbTlwaTJLQm5YVy1lYkc0elFpSjRYRHVTaTIzeXJLa0k3LUVxR2VrYUVoeFZGOA?oc=5"
+      },
+      {
+        "title": "FDA, 신약 심사 보완요구서한(CRL) 공개 확대 ‘일시 중단’…영업기밀 논란에 재검토 - 헬스코리아뉴스",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 08:39:12 GMT+5 | 키워드+20 | 순위:102위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sa0FJb2sxWmhrY0FqeHd0WktHbFpUNGllVnN2b1NvZlZaOEI1emNnN3Z0cVBaaTRuZUxDR2lLRWJtZm4ySUpLZkpzV0V1YVBFeWZqXy1sZGNrM0wtd25QNl84RXlldnc?oc=5\" targ",
+        "published_time": "Fri, 10 Jul 2026 08:39:12 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 08:39:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sa0FJb2sxWmhrY0FqeHd0WktHbFpUNGllVnN2b1NvZlZaOEI1emNnN3Z0cVBaaTRuZUxDR2lLRWJtZm4ySUpLZkpzV0V1YVBFeWZqXy1sZGNrM0wtd25QNl84RXlldnc?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        18
+      ],
+      [
+        "FDA",
+        12
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "임상",
+        6
+      ],
+      [
+        "식약처",
+        6
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "마운자로",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "실사",
+        2
+      ],
+      [
+        "바이오시밀러",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "한약",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "CMN(Cosmetic Mania News)",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 135,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 10
+    },
+    "top_articles": [
+      {
+        "title": "US FDA approves Sanofi's wearable injector form of blood cancer drug - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 17:49:22 GMT+5 | 키워드+30 | 순위:263위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnF5Sl9QS0o0Y0ZZS2dyWXRqR29fdlRMQldNV0p5TVBSc2VZaU95R0xZSVF0d1NLanRCRjdvNjFvbzkwS09sSDFQOFJ5NDIwQWd3ekZINTJMY1hBTEd2OVlZMnNSSEdFZkpfTHFUOD",
+        "published_time": "Fri, 10 Jul 2026 17:49:22 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 17:49:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZnF5Sl9QS0o0Y0ZZS2dyWXRqR29fdlRMQldNV0p5TVBSc2VZaU95R0xZSVF0d1NLanRCRjdvNjFvbzkwS09sSDFQOFJ5NDIwQWd3ekZINTJMY1hBTEd2OVlZMnNSSEdFZkpfTHFUODk4Umlaazk3Q2M4bnptbHZpR2VJeTRvNV9ESmJkcUYzRE9tMWlfMVZRREs1MHUzNG1lNFU2a05sazN6RGRvS1BicG11bWVSVjhlVmo2Um5HaE1hTTB2Sk1oMG1CcUk5RVJObmc?oc=5"
+      },
+      {
+        "title": "Landmark Clinical Trial Results in First FDA-Approved Treatment for Rare Form of Obesity Caused by Brain Injury | Newswise - Newswise",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 22:50:00 GMT+5 | 키워드+30 | 순위:264위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZFdyOUFVRlZIUHNVdVFpclM2X0F4cEpxM19rcG5BVFh6bVBNUHZKQm1idFhzMmcxNzBlRE9xQldrRWlmazEtLW5BWmJRYzFOQUg1QW9pMnl6R3gxR3JLNDBhZGpBTWV3Y19oUWZjZE",
+        "published_time": "Fri, 10 Jul 2026 22:50:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 22:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZFdyOUFVRlZIUHNVdVFpclM2X0F4cEpxM19rcG5BVFh6bVBNUHZKQm1idFhzMmcxNzBlRE9xQldrRWlmazEtLW5BWmJRYzFOQUg1QW9pMnl6R3gxR3JLNDBhZGpBTWV3Y19oUWZjZExWanVWbXZ1MmNsTmwxWV9ramdrQ2haekxTTm9pQUN1emd5dTE4YWZBQWxGUWtCajNXVVVXVGlnUkxOUjVSY2lWc1BzOVRzcWdPYml0U2VhQy1JYmVqeWV5TkpiQlVKWS01ekhlRFpXaVpYR0lkNmfSAd4BQVVfeXFMTmRXcjlBVUZWSFBzVXVRaXJTNl9BeHBKcTNfa3BuQVRYem1QTVB2SkJtYnRYczJnMTcwZURPcUJXa0VpZmsxLS1uQVpiUWMxTkFINUFvaTJ5ekd4MUdySzQwYWRqQU1ld2NfaFFmY2RMVmp1Vm12dTJjbE5sMVlfa2pna0NoWnpMU05vaUFDdXpneXUxOGFmQUFsRlFrQmozV1VVV1RpZ1JMTlI1UmNpVnNQczlUc3FnT2JpdFNlYUMtSWJlanlleU5KYkJVSlktNXpIZURaV2laWEdJZDZn?oc=5"
+      },
+      {
+        "title": "FDA discloses why drugs don’t make it to market. A pharma company says it’s bad for business - MassLive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 20:00:00 GMT+5 | 키워드+30 | 순위:266위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjJlcHJRb1BCdS1JZlVKVFNsR0pUcXRPdHNoelRsQnlKNEhoTVJtcWZneUN1eDYxdkdmWS01M1Z4OGZiX2dNM0pZLU1jYXh0S2hjY3VYeUNJV1FZX3hEWngzTGxnQWdzdGg2TndwNl",
+        "published_time": "Fri, 10 Jul 2026 20:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbjJlcHJRb1BCdS1JZlVKVFNsR0pUcXRPdHNoelRsQnlKNEhoTVJtcWZneUN1eDYxdkdmWS01M1Z4OGZiX2dNM0pZLU1jYXh0S2hjY3VYeUNJV1FZX3hEWngzTGxnQWdzdGg2TndwNl9oMnlLMUc0WDRxTWMzR1kxeW1XVDB4Uk5rSGlkMzJOYk5YTHFtelRYYzZpRE92dm5YZFd4cnVmU0ZZMU1HY2RuVUI4R2l4azB2Zk84eXBZbWtyM2NmRnNFaURGdkvSAeABQVVfeXFMTnowa1p0dzBLUllMdTkwSzZrRUxrazVkNUtaamw3aV9lZ3NzNzlkdWNEVFhYTDcxR3FoeUI5LWQ0TkF0eklvR19uRXdGQ3dDRzRGcjlOd2pYTnlwbzJTejBxR2RNdUNMdW15c2EzaXFXSnJmdXMzakctdS1nSDdkWHpOeVlTejUtd2RONy1kX1I3UlBHaGJwQ3lvQ0FnWXRkOElDdkpYYXJzbkJvTkYxOFNVWGVoUG9wS29xQkNXSHdRSUFLZlV5LXh1SEItdEJIU256a2FTWEV1MVdTS21JN2c?oc=5"
+      },
+      {
+        "title": "Korea’s HLB fails to win FDA approval on liver cancer drug for 3rd time; stocks hit 9-month low - The Korea Economic Daily Global Edition",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 19:05:06 GMT+5 | 키워드+30 | 순위:269위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWXRTYUxIcm0zNmZzdzdSOENMSFFUTWJGQk1vNFRjb01STmVoVE42a3FhRzJQUXhGdWxvWDNtS1Z4RjdmZmp4N1ZBQzEwMUxLZExjY1pFZUZqNVphdURjNzNOLXliTHhKNExRSEZB?o",
+        "published_time": "Fri, 10 Jul 2026 19:05:06 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 19:05:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWXRTYUxIcm0zNmZzdzdSOENMSFFUTWJGQk1vNFRjb01STmVoVE42a3FhRzJQUXhGdWxvWDNtS1Z4RjdmZmp4N1ZBQzEwMUxLZExjY1pFZUZqNVphdURjNzNOLXliTHhKNExRSEZB?oc=5"
+      },
+      {
+        "title": "Apnimed, Sleep Apnea Drug Developer, Files for Nasdaq Global Market IPO - TradingView",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 20:18:01 GMT+5 | 키워드+30 | 순위:271위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxON3o2Z3dzaDZjSFJVeHA0Q2dWcVdYUlVYUXZvM1RWUDc2RVhyRGp0b1ZzNFZzXzkyTktZaEtFSmxyYkFFT09FX1FTeEk2SE5JOWNzMUhma0hZZUtITVd3WDRsRDY2Ym5yYldYeGpEMl",
+        "published_time": "Fri, 10 Jul 2026 20:18:01 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 20:18:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON3o2Z3dzaDZjSFJVeHA0Q2dWcVdYUlVYUXZvM1RWUDc2RVhyRGp0b1ZzNFZzXzkyTktZaEtFSmxyYkFFT09FX1FTeEk2SE5JOWNzMUhma0hZZUtITVd3WDRsRDY2Ym5yYldYeGpEMlZTNUJnVlRDWm8yNkRPNkpIbEM1am9uTWRaeExucmJPYUoyNWt3QkVwenF2Z1daNldaWHprZ2RrcmVnRzFIekVwU0tjT0xhSVJ2azAwRENvbTB6R0RURkxpUEZfVQ?oc=5"
+      },
+      {
+        "title": "Spain Approves Access Protocol for Complex Drugs Costing EUR 80k or More Per Patient - NAVLIN DAILY",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 14:23:57 GMT+5 | 키워드+30 | 순위:273위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEEwSFltQVV2d2Y2UV9lN2xTY1RqN2pQa0JrM3dGVlVXZFFFMkN5X3pNNzBrYk02Z1R4bndBWVJaQk9PV0hPMjlsNjdqcHFkRVNkMG1QZUZNNE0tNG9pbFdFT0JoQTJ5QXRSdGt5UG",
+        "published_time": "Fri, 10 Jul 2026 14:23:57 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 14:23:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVEEwSFltQVV2d2Y2UV9lN2xTY1RqN2pQa0JrM3dGVlVXZFFFMkN5X3pNNzBrYk02Z1R4bndBWVJaQk9PV0hPMjlsNjdqcHFkRVNkMG1QZUZNNE0tNG9pbFdFT0JoQTJ5QXRSdGt5UG0xdXdzM2FrcEV0SEQ3TUhIZnA1QjQ0ZXVSWC0tVElLOVZva2o4YjFteS02dVJ1VTFLRmhGSTBZRDZyNkFYbl8zRXV1b2lwdXpOTWt4U0J2YjRXRVZw?oc=5"
+      },
+      {
+        "title": "GSK, Hansoh's targeted cancer drug hits main survival goal in China trial - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 13:46:35 GMT+5 | 키워드+30 | 순위:280위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXlQTnc4VFk4Uk1DZ194V2xNcEhDVkF4aDNmRXhtbnBaZVJ2TFpjSFRSUmF2Skh6R3FVZGNpWUVUckQxdDB3a1lOdVlPNk45REYzRzBLdk5sSnM3X3owa0EtN0k3VWVTODRkQ3JfVz",
+        "published_time": "Fri, 10 Jul 2026 13:46:35 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 13:46:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUXlQTnc4VFk4Uk1DZ194V2xNcEhDVkF4aDNmRXhtbnBaZVJ2TFpjSFRSUmF2Skh6R3FVZGNpWUVUckQxdDB3a1lOdVlPNk45REYzRzBLdk5sSnM3X3owa0EtN0k3VWVTODRkQ3JfVzFDOHNhNm5DWXF3Vm5rX0lJNVN5YVV6a1dLX3JNVFprZnZTMDJIOGlJV0hab21VLWxycDR6ZFNFV1E2cHR1REtkckVVd0szMFNMY25fN0w0YnpiV0NpdGdBbW1TSE90V0xxYko1eTZ4TQ?oc=5"
+      },
+      {
+        "title": "Sanofi snags FDA thumbs up for Sarclisa as 1st cancer drug delivered by on-body injector - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 13:18:21 GMT+5 | 키워드+30 | 순위:281위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE1WUmVJZ3pXazFNRmJpWjE5ZWtKYmI5UGk1MlhQOHR0c3NFM3c5TmZOTzc5RERsVkpfTGpwd0JmUnVQLTJuZzJVcGQxVC0yYjBYUmlySXNobmlRZGtCblMxRWdEQUVGYWxvU2hzQn",
+        "published_time": "Fri, 10 Jul 2026 13:18:21 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 13:18:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUE1WUmVJZ3pXazFNRmJpWjE5ZWtKYmI5UGk1MlhQOHR0c3NFM3c5TmZOTzc5RERsVkpfTGpwd0JmUnVQLTJuZzJVcGQxVC0yYjBYUmlySXNobmlRZGtCblMxRWdEQUVGYWxvU2hzQnhXUTlPak1pblFnTVJBWUM1Q2NoajBsMnJOdFBudVFjUHpOeV9TSi0tazFMM2hoVVk0RnpqM0FoT0N3SmlPeHRVVg?oc=5"
+      },
+      {
+        "title": "NPPA caps retail price of Boehringer Ingelheim’s clot-buster tenecteplase and 38 other drugs - ETPharma.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 10:59:17 GMT+5 | 키워드+30 | 순위:285위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxQOVVGMlNBYmU1bWFDV3NMUjM1N1NPa05rNktQTmFaUXhjQ3l6TVlHSUxrOVNkT1FhN0NLalRCNi1JRmwzRG9Rclg0bl9HZ2ZrWGpiLWhZamt0aGY4OTdRM2l1b1VkbU9oTkZRY0hIcF",
+        "published_time": "Fri, 10 Jul 2026 10:59:17 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 10:59:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOVVGMlNBYmU1bWFDV3NMUjM1N1NPa05rNktQTmFaUXhjQ3l6TVlHSUxrOVNkT1FhN0NLalRCNi1JRmwzRG9Rclg0bl9HZ2ZrWGpiLWhZamt0aGY4OTdRM2l1b1VkbU9oTkZRY0hIcFN5YjVJdFJQb0k2LXMtTnBmazB1bXJNNEVJRnYtMHE4aDhpSzQ3dXRPUU00VVhFelR0aG9RSDZsenQ4dTRBOFY5cXpnRV9Hb091ZTdUUnFSUkppbUVIUzhFTVF2eVVVR0kxWE8xcXQ2QTlqRnlPRFRfNU9obWZod0ZCaURFNnBtbExRXy1OUXFGcm8xdG02NFRvR1HSAYICQVVfeXFMUDlVRjJTQWJlNW1hQ1dzTFIzNTdTT2tOazZLUE5hWlF4Y0N5ek1ZR0lMazlTZE9RYTdDS2pUQjYtSUZsM0RvUXJYNG5fR2dma1hqYi1oWWprdGhmODk3UTNpdW9VZG1PaE5GUWNISHBTeWI1SXRSUG9JNi1zLU5wZmswdW1yTTRFSUZ2LTBxOGg4aUs0N3V0T1FNNFVYRXpUdGhvUUg2bHp0OHU0QThWOXF6Z0VfR29PdWU3VFJxUlJKaW1FSFM4RU1RdnlVVUdJMVhPMXF0NkE5akZ5T0RUXzVPaG1maHdGQmlERTZwbWxMUV8tTlFxRnJvMXRtNjRUb0dR?oc=5"
+      },
+      {
+        "title": "West Pharmaceutical stock reflects steady demand for drug delivery components - ad-hoc-news.de",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 13:10:55 GMT+5 | 키워드+30 | 순위:286위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2ZxdXhFaFRRUTJSaWtxZTZHclppWmZhZlVmYlR6YXQ1VzlLU1BqZGdvazU5NVVTSkVaM0M4RlpaSmowVjJMOTV1YXVFNU9NcjRRcldlaUdhZXZubFh6YzFpUHpCejZSWXg5bmU1WV",
+        "published_time": "Fri, 10 Jul 2026 13:10:55 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 13:10:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2ZxdXhFaFRRUTJSaWtxZTZHclppWmZhZlVmYlR6YXQ1VzlLU1BqZGdvazU5NVVTSkVaM0M4RlpaSmowVjJMOTV1YXVFNU9NcjRRcldlaUdhZXZubFh6YzFpUHpCejZSWXg5bmU1WVRITURsaXI1bzZpVnNFQ3BmMndncDZISEM1YlJxTU1JLVpfcHI4X2VvbEN4ZExiR1YyeDV0d214RFN1blZKeG14VXBQYmRhTVBlRjg0NUJwZVZGR00?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        18
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "recall",
+        5
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "obesity",
+        3
+      ],
+      [
+        "vaccine",
+        3
+      ],
+      [
+        "approval",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 110,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 8,
+      "Portuguese / 포르투갈어": 8,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 2,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 9,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 10,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 9,
+      "Arabic / 아랍어": 2,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "نقيب الصيادلة يدعو لعدم الانجرار وراء مروجي الأدوية أو المستحضرات الصحية عبر شبكات التواصل - قناة المملكة",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 09:46:51 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbU9DMGRXLW81THdOZTM3UGpDWXUxTE43ZDV1c0w4TVR4U2ZlRGJrVFFWODZnV1VlanRHYjhEdXdRV0htOUxsTG5fMVVaZUl2LXc?oc=5\" target=\"_blank\">نقيب الصيادلة يد",
+        "published_time": "Fri, 10 Jul 2026 09:46:51 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 09:46:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zbU9DMGRXLW81THdOZTM3UGpDWXUxTE43ZDV1c0w4TVR4U2ZlRGJrVFFWODZnV1VlanRHYjhEdXdRV0htOUxsTG5fMVVaZUl2LXc?oc=5"
+      },
+      {
+        "title": "קידום תפקידה של הרפואה המסורתית בטיפול ובשיפור בריאותם של האנשים. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 10:50:28 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZU9fSkZ0VG9Ed0pNR253OUs0SnlhV2luRXpkY0pVajgwTms4NjM1UTJSaWJYdkZsLTNyVmk5b3htR29LeEtSeExrU3FELUtVcjdQVWNoeWlGYWFFT083djFpQmYyRkl5cnZlX0pvWU",
+        "published_time": "Fri, 10 Jul 2026 10:50:28 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 10:50:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZU9fSkZ0VG9Ed0pNR253OUs0SnlhV2luRXpkY0pVajgwTms4NjM1UTJSaWJYdkZsLTNyVmk5b3htR29LeEtSeExrU3FELUtVcjdQVWNoeWlGYWFFT083djFpQmYyRkl5cnZlX0pvWU9GaEZhdDRFWnVxMVhpanFaRUozUXZXTWtPeDFhaURGOTl4UDVKcVZQQjFXTDMtY0xBUWNpWm9Nbw?oc=5"
+      },
+      {
+        "title": "Medicamento caro não nasce na farmácia: a tributação invisível que pesa sobre toda a cadeia da saúde - Monitor Mercantil",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 20:21:53 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUxJVjRaWFVPaXhYZDMweWoxMGE2S1lJYl9GOUQxZVlfc3NMX1EwU1RFT25TRXVFVzJuMS1QUlY5UXZMTUczNXB2TUVsb20yZmFNUVNNT3AtRzNqNDVEWXpIZ2pISmxURWFkRms1Sm",
+        "published_time": "Fri, 10 Jul 2026 20:21:53 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 20:21:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWUxJVjRaWFVPaXhYZDMweWoxMGE2S1lJYl9GOUQxZVlfc3NMX1EwU1RFT25TRXVFVzJuMS1QUlY5UXZMTUczNXB2TUVsb20yZmFNUVNNT3AtRzNqNDVEWXpIZ2pISmxURWFkRms1SmRWdUJKcXc3aU45R3k5ZnE3OEZlSVVzZE9JdFJRWDVHXzFBTjJBc08zRVdkbjluV2dDUVotMHNKaEExOXptcDR1cTFxV3Uzckt3eU83bEMyd3hOcnZwSGVyU2lKVjE?oc=5"
+      },
+      {
+        "title": "Phó Giáo sư, Tiến sĩ Nguyễn Quốc Huy quê Bắc Ninh được bổ nhiệm Giám đốc Học viện Y - Dược học cổ truyền Việt Nam - Báo Bắc Ninh",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 11 Jul 2026 04:28:34 GMT+5 | 키워드+30 | 순위:48위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3Wl",
+        "published_time": "Sat, 11 Jul 2026 04:28:34 GMT",
+        "modified_time": "",
+        "time": "Sat, 11 Jul 2026 04:28:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3WlVpeE9KU2ZVVUllM1NZWTlxVTNHN2NyYW1DNDNLTlBZcEd2dFN1VlQ5eGw1MUwzMng3OUdVcllOYlJaSUpxZnl2SU9SMHBjQW9FclBVWGtsZWhib05WZDhlU3BNbDh2N3BsWXZtLTJMZUlLSjVhUlVMWXdCOVBDdw?oc=5"
+      },
+      {
+        "title": "Học viện Y - Dược học cổ truyền Việt Nam khen thưởng kịp thời nam sinh viên cứu người giữa đường - Báo Sức khỏe & Đời sống",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 10 Jul 2026 11:43:00 GMT+5 | 키워드+30 | 순위:67위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZFpkNTlpdnR3M1g1SnV3X3lnYlptSHdBWUVaVklveElrb3hJWGl5ZzdrQWZCQUpUN2UxOHdiaVZuR2Z2d2EyRGJOcXlCMGpxM0NraXhMaG41bm1pTkQzdlgwZVFucWJiQWgwbTJPTU",
+        "published_time": "Fri, 10 Jul 2026 11:43:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 10 Jul 2026 11:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZFpkNTlpdnR3M1g1SnV3X3lnYlptSHdBWUVaVklveElrb3hJWGl5ZzdrQWZCQUpUN2UxOHdiaVZuR2Z2d2EyRGJOcXlCMGpxM0NraXhMaG41bm1pTkQzdlgwZVFucWJiQWgwbTJPTU9UTG9PY0l2OXpWZ21ma09QT0dfYVJReWZrc0VGZWUyVERCRE91MTRsQXA1dlZjWnI2LVliNVBEM1hTTWliX0lqRmFIVjNtVmRlMEtZNzdfWFI0YVNNQkVXRnAxRjIwVlR4bFQzTFZMWDd5eHc?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
