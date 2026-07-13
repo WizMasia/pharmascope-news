@@ -173,14 +173,25 @@
       "size": 17,
       "keywords": [
         "news",
-        "stock",
         "hoc",
         "ad-hoc",
-        "holds",
+        "stock",
         "steady",
+        "holds",
         "pharma"
       ],
       "articles": [
+        {
+          "title": "FDA, 신약 심사 보완요구서한(CRL) 공개 확대 ‘일시 중단’…영업기밀 논란에 재검토",
+          "source": "헬스코리아뉴스",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "[헬스코리아뉴스 / 임도이] 미국 식품의약국(FDA)이 의약품 허가 심사 결과와 보완 필요 사항을 담은 신약 허가 심사 보완요구서한(Complete Response Letter&#183;CRL) 공개 확대 정책 시행을 잠정 중단했다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350334"
+        },
         {
           "title": "Novartis stock holds steady as drug pipeline and global footprint underpin long-term story - ad-hoc-news.de",
           "source": "",
@@ -356,17 +367,6 @@
           "category": "Regulatory Agencies",
           "time": "Sun, 12 Jul 2026 05:47:14 GMT",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2txa2JqQ2RXSkVLdjNoejN2bWJKczlfTHk3LUpsTzVZOXZVcTl2bkRKT0wzX3dHWHV0N0VRTFhDUjg3ZUJBLWRnb1MxMllncEd2MzdIY3ktbGxXbUl3Ni1tRVJGUFRhWHV3bU5iRmJwZXQwS2NXQWhnZkgyU2QzMTFrVkNPMmI3MmMzV3N1N0RMeXpSV0pCU0dzU3c1d2U1RE9kSlZKa1hzV1Y0UUJoR2hPUHFRcUk2b0w2aE9IT0JWejNUMHo0RE53?oc=5"
-        },
-        {
-          "title": "महाराष्ट्र FDA ने कैडिला फार्मा की कुछ दवाओं की बिक्री पर रोक लगाई, 2.45 करोड़ रुपये का स्टॉक जब्त - India TV Hindi",
-          "source": "",
-          "importance": 30,
-          "stars": "⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWRValM3TlhaZlRnenZOay1ySzd4OXJiZjFIdlIzQjJHTDFDRGV4WTRqZkhYSnVGRzc1RHdsMS1fSFJXRGlnbGJaaU5wek53ZUNSQ3ZrdDcwMUpRcHZNMy1yT2hzS0pId3pQYS01Vk",
-          "section": "multilingual",
-          "category": "Hindi / 힌디어",
-          "time": "Sun, 12 Jul 2026 04:23:33 GMT",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOWRValM3TlhaZlRnenZOay1ySzd4OXJiZjFIdlIzQjJHTDFDRGV4WTRqZkhYSnVGRzc1RHdsMS1fSFJXRGlnbGJaaU5wek53ZUNSQ3ZrdDcwMUpRcHZNMy1yT2hzS0pId3pQYS01VkpzaGlfNU1tVmtTcjZkSDRrVmV1ellfVDM3Ui04WW9SZV96Q3RpZHVSU2hMTE5aQTdFakh5QVZlaWpYRUhuWUpBYmxrcEV1dDBEZGZadzFiSEhBYWJTX2NxSTBLcERNTEI4SC1VcWFZZHZ3aV9MdHJvS19hSHlXNFFjQnlnNnktaFNUbVXSAfgBQVVfeXFMUEsyalRpbmRad29UY21ScHlnRGUta3FrQm92T2lZUUltUmRIVnRaLW1YT3ZpTjl4TU8zNHBCblU5aFM2c2tKbWVORXFRSUVRMUJBZmp5dWRCWWMxbldlVERhV2RITDhuRjNEY3dTMGtvLS05VW5sai1fU3g1R2RVekU2T0pYZUZBNGI4NzVKUUdEbzhyYkpPazVUZTRaX1B4Q2JTZmRtMGNPYlNZcU4wZnVvb1U3aEVmc3NVRTBCTktpQU5CSkhQOEZwN3FmVTlkcU5YN1Q1RkxUS3FRb0V3LTlNbVhqaVBzcXZKTVRZd3lQbmw2NV8wbUs?oc=5"
         }
       ]
     },
@@ -374,8 +374,8 @@
       "cluster_id": 2,
       "size": 3,
       "keywords": [
-        "pharma",
         "india",
+        "pharma",
         "drug"
       ],
       "articles": [
@@ -418,13 +418,13 @@
       "cluster_id": 3,
       "size": 3,
       "keywords": [
-        "daily",
         "pharmaron",
-        "more",
         "brief",
+        "more",
+        "daily",
         "smartkarma",
-        "pharmaceutical",
         "ziyond",
+        "pharmaceutical",
         "china"
       ],
       "articles": [
@@ -558,11 +558,11 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkcxOVlCWDRkX0Fqc0pEeUxuc0dPNy1NaENlZF9OWExfNmU0Z1dadHdTM1MzUVNWYVJ0QmxCR19uTC03cHYzaGZtaU45a3hwc0FvRHVFWTZfTjBlSmRvLVdWWDVwQlVlNzJpYm5UTlhxTDlJLURmZ0VGbXF6TFlqdTE4eGFENjNvVmc1MkxrOTlpT3pjY3VyQzZsQ3c3NFk5WjJBWlU3UVFMQjJjQUdhZU5HMFo4a2xTd1hkVFE3cURBQWtZVmg5dzBRTE5fUXNvMHc?oc=5"
     },
     {
-      "title": "전남광주동물위생시험소, 여름철 가축전염병 신고센터 운영",
-      "source": "데일리스포츠한국",
+      "title": "삼성바이오에피스, 신약개발 방식 넓힌다 … 후보물질 확보 다각화",
+      "source": "뉴데일리 경제",
       "importance": 42,
-      "snippet": "[데일리스포츠한국 이석희 기자] 전남광주통합특별시 동물위생시험소는 여름철 폭염, 집중호우 등 자연재해에 따른 가축 전염병 발생과 확산을 방지하고 신속 대응하기 위해 8월까지 두 달간 여름철 가축전염병 신고센터를 운영한다.",
-      "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430993"
+      "snippet": "삼성바이오에피스가 신약후보물질 확보 전략을 다변화하고 있다. 자체 항체-약물접합체(ADC) 개발과 글로벌 연구개발 거점 구축에 이어 공동연구와 라이선스 옵션계약을 활용해 외부 유망기술을 신약 파이프라인으로 연결하는 ...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000078.html"
     },
     {
       "title": "The next drug lab is in orbit - The Korea Herald",
