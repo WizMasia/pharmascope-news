@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-14",
+  "total_articles": 443,
+  "language_breakdown": {
+    "korean": {
+      "total": 203,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 17,
+        "의약단체": 23,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 14,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 111,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 8,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 6,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "허가·임상·FDA가 하루 뉴스 흐름을 주도",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 6,
+      "summary_kr": "FDA의 레켐비(Leqembi) 자가 시작용량 승인과 국내 식약처의 희귀질환·관절염 신약 허가/임상 승인, 그리고 HLB의 3차 CRL이 동시에 포착됐다. 승인 여부보다 CMC, 제조소, 바이오마커·임상설계 완성도가 실제 승부처라는 메시지가 강하다.",
+      "summary_en": "Regulatory execution dominated the day: FDA approval for at-home Leqembi initiation, MFDS approvals for rare-disease and knee-osteoarthritis programs, and HLB’s third CRL. The market is being reminded that CMC, manufacturing readiness, and biomarker/clinical design quality decide outcomes.",
+      "key_articles": [
+        {
+          "title": "FDA approves at-home starter dose of Eisai-Biogen Alzheimer's drug - Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "HLB 간암 병용요법 3차 CRL…FDA \"cGMP 결함 해소·PAI 통과해야 승인\" - 메디코파마",
+          "importance": 42,
+          "url": "https://www.medicopharma.co.kr"
+        },
+        {
+          "title": "바이오솔루션, 식약처 주사형 무릎 관절염 신약 '스페로큐어' 국내 임상 1/2a상 IND 승인 - 파이낸셜뉴스",
+          "importance": 27,
+          "url": "https://www.fnnews.com"
+        },
+        {
+          "title": "식약처, 새로운 다발신경병증 희귀 치료제 허가 수입…희귀신약 한국아스트라제네카 '와이누아오토인젝터주45밀리그램(에플론테르센나트륨)' 허가 - 메디컬헤럴드",
+          "importance": 37,
+          "url": "http://www.mediherald.com"
+        }
+      ],
+      "insight": [
+        "Leqembi at-home initiation signals that even blockbuster neurology assets are now competing on patient convenience and post-approval execution, not only efficacy.",
+        "HLB의 CRL은 한국 바이오의 미국 시장 진입에서 CMC와 제조소 실사가 여전히 가장 큰 병목임을 재확인한다.",
+        "식약처의 희귀질환·골관절염 허가는 국내 파이프라인도 초기 임상 진입과 허가 전략을 동시에 맞춰야 한다는 뜻이다."
+      ],
+      "avg_importance": 43
+    },
+    {
+      "topic": "복지부 개편과 국민연금, 그리고 인력 부족 경고가 맞물림",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 4,
+      "summary_kr": "보건복지부 조직 전면개편과 국민연금 운용 전담부서 신설, 지역필수의료 기능 강화가 한 묶음으로 등장했다. 여기에 응급의학 전임의 부족 문제가 겹치며 의료정책은 재정·조직·인력의 동시 개편 국면에 들어갔다.",
+      "summary_en": "Health policy is shifting on three fronts at once: ministry reorganization, pension-management capability, and a worsening emergency-medicine staffing gap. The message is that financing, governance, and workforce planning are becoming inseparable.",
+      "key_articles": [
+        {
+          "title": "복지부 조직 전면개편…지역필수의료·국민연금 운용 기능 키운다 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr"
+        },
+        {
+          "title": "1670兆 국민연금 굴릴 전담부서 만든다…복지부, 지역의료·연금 개혁 맞춰 조직 대수술 - 조선비즈 - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "전국 수련병원에 응급의학 전임의 15명뿐···“인력 골든타임 초읽기” - 의사신문",
+          "importance": 42,
+          "url": "http://www.doctorstimes.com"
+        }
+      ],
+      "insight": [
+        "복지부의 조직개편은 단순한 부처 슬림화가 아니라 지역의료, 연금, 의료개혁을 한 축으로 묶는 재설계로 읽힌다.",
+        "전문의 인력 부족은 정책 발표보다 실행력이 더 중요하다는 신호로, 의료현장 체감도는 당분간 개선이 쉽지 않다.",
+        "정책 뉴스가 금융·인력·조직 이슈와 결합하면서 보건의료가 단독 섹터가 아니라 거시정책 의제로 이동하고 있다."
+      ],
+      "avg_importance": 42
+    },
+    {
+      "topic": "제약산업은 실적·투자·AI 신약개발 난점이 동시에 부각",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 5,
+      "summary_kr": "빅5 제약사의 실적 순항, 펩트론의 자사주 매입, 국민연금의 제약주 비중 조정, AI 신약개발의 조기 탈락 어려움까지 산업 뉴스가 넓게 퍼졌다. 돈은 들어오지만 후보물질을 걸러내는 데이터·협업 인프라는 아직 부족하다는 경고가 함께 나온다.",
+      "summary_en": "Industry coverage spans strong big-pharma earnings, insider buying, institutional portfolio shifts, and the limits of AI-driven drug discovery. Capital is present, but the filtering infrastructure for early candidate failure remains weak.",
+      "key_articles": [
+        {
+          "title": "비수기 잊은 '빅5' 제약사…기술수출·신제품 힘입어 실적 순항 - ebn.co.kr",
+          "importance": 51,
+          "url": "https://www.ebn.co.kr"
+        },
+        {
+          "title": "펩트론 최호일 대표 자사주 1만주 매입…“릴리 공동연구·기술력 자신” - 조선비즈 - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "국민연금 제약株 투자, 한미약품·한올바이오파마 늘리고 동아에스티 줄였다 - 조선비즈 - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "[단독]데이터·협업 없는 AI 신약개발…중소 제약 92% “실패할 후보 초기에 거르기 어렵다” - 동아일보",
+          "importance": 37,
+          "url": "https://www.donga.com"
+        }
+      ],
+      "insight": [
+        "실적과 기술수출은 여전히 제약업계의 현금창출 축이지만, 투자자들은 이제 파이프라인의 질과 실행 리스크를 더 세밀하게 보게 된다.",
+        "AI 신약개발 기사들은 ‘모델 성능’보다 데이터·협업 체계가 더 중요하다는 점을 드러낸다.",
+        "기관투자와 경영진 매입이 동시에 등장한 것은 한국 제약사에 대한 기대가 여전히 유효하다는 의미다."
+      ],
+      "avg_importance": 42
+    },
+    {
+      "topic": "약사회·한약·지역 일차의료 현안이 조용하지만 꾸준히 이어짐",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 4,
+      "summary_kr": "대한약사회와 복지부의 협의체, 점자라벨 실증약국, 한약사 및 창고형 약국 현안이 함께 다뤄졌다. 성동구 한의원 사례는 지역 일차의료의 역할을 다시 부각시켰다.",
+      "summary_en": "Community pharmacy, accessibility labels, and traditional-medicine governance continued to surface, alongside a local primary-care story. These are smaller in volume but still important for day-to-day patient access.",
+      "key_articles": [
+        {
+          "title": "대한약사회-복지부 협의체 - 한국의약통신",
+          "importance": 37,
+          "url": "https://www.kmpnews.co.kr"
+        },
+        {
+          "title": "대한약사회, 점자라벨 실증약국 모집 - 한국의약통신",
+          "importance": 37,
+          "url": "https://www.kmpnews.co.kr"
+        },
+        {
+          "title": "대한약사회-보건복지부, 제3차 약정협의체 개최... 한약사 및 창고형 약국 현안 논의 - 팜뉴스",
+          "importance": 37,
+          "url": "https://www.pharmnews.com"
+        },
+        {
+          "title": "양소은 소은한의원 대표원장, 성동구 주민 일상 지키는 일차의료의 이정표 - news-report.co.kr",
+          "importance": 40,
+          "url": "https://www.news-report.co.kr"
+        }
+      ],
+      "insight": [
+        "점자라벨 실증은 약국 서비스가 조제 중심에서 접근성·복약안전 중심으로 이동하고 있음을 보여준다.",
+        "한약사·창고형 약국 논의는 유통구조와 직능 갈등이 여전히 정책 의제로 남아 있음을 뜻한다.",
+        "전통의학은 기사 수는 적지만 지역 의료와 맞물릴 때 정책 파급력이 커진다."
+      ],
+      "avg_importance": 37
+    },
+    {
+      "topic": "글로벌 협력·규제 재편·전시회가 해외 섹션을 채움",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 5,
+      "summary_kr": "베트남 Medi-Pharm Expo, 파키스탄-중국 보건 협력, 아일랜드 허가제 개편, 중국의 보험·유통 단속, 신흥시장 암 치료 투자 확대가 묶였다. 글로벌 기사들은 전시·정책·집행이 동시에 움직이는 “제도 재정렬” 국면을 보여준다.",
+      "summary_en": "International coverage centers on trade fairs, cross-border health cooperation, approval-system reform, and enforcement actions. The pattern suggests a broader reordering of pharma rules and market access outside Korea.",
+      "key_articles": [
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026: Den internationella handelns centrum för Vietnams läkemedelsindustri. - Vietnam.vn",
+          "importance": 55,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Pakistan, China to hold healthcare summit this week to boost pharma cooperation - Arab News",
+          "importance": 42,
+          "url": "https://www.arabnews.com"
+        },
+        {
+          "title": "Ireland's drug approval system needs major overhaul - Irish Examiner",
+          "importance": 47,
+          "url": "https://www.irishexaminer.com"
+        },
+        {
+          "title": "China launches joint inspections into suspected medical insurance and drug distribution irregularities - Asia Insurance Review",
+          "importance": 47,
+          "url": "https://www.asiainsurancereview.com"
+        }
+      ],
+      "insight": [
+        "해외 뉴스는 단순 행사가 아니라 허가·유통·보험감시가 동시에 재편되는 규제 신호로 읽어야 한다.",
+        "동남아와 중동, 유럽의 정책 변화는 한국 제약사의 수출 전략에도 직접적인 참조점이 된다.",
+        "암 치료제 라이선스와 보험 단속이 함께 보인다는 점에서 글로벌 시장은 가격보다 접근성과 집행 강도를 더 중시하는 방향으로 이동 중이다."
+      ],
+      "avg_importance": 47
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 5,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 23,
+      "en_count": 7,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 13,
+      "en_count": 3,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 4,
+      "en_count": 5,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "전통의학 기사 비중은 1건으로 매우 낮아, 전체 흐름은 허가·정책·산업 뉴스가 압도했다.",
+    "대형 M&A나 국내 상장사 굵직한 자본시장 이슈는 비교적 적었고, 대신 규제·실적·인력 이슈가 두드러졌다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "총 기사 수가 전일 대비 62건 증가했다.",
+      "허가·임상·FDA 축이 더 강해졌고, 복지부·국민연금 관련 정책 뉴스가 새로 부각됐다.",
+      "글로벌/다국어 기사에서는 베트남·중동·유럽 규제 이슈가 더 눈에 띄었다."
+    ],
+    "changes": [
+      "국내 정책과 산업 뉴스의 결합도가 높아졌다.",
+      "AI 신약개발 한계와 실제 허가/실사 이슈가 함께 등장하며 실행 리스크가 강조됐다."
+    ]
+  },
+  "connections": [
+    "FDA·식약처·제조소 실사 이슈가 국내외 허가 스토리를 관통한다.",
+    "복지부 개편과 인력 부족 뉴스는 의료현장의 구조 문제를 드러낸다.",
+    "기관투자와 기술수출은 산업 실적을 지지하지만, AI 신약개발의 데이터 격차가 향후 병목으로 남아 있다."
+  ],
+  "generated_at": "2026-07-14T17:13:17.521398+09:00"
+}
