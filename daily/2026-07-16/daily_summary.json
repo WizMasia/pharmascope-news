@@ -1,0 +1,924 @@
+{
+  "date": "2026-07-16",
+  "total": 427,
+  "version": 1,
+  "generated_at": "2026-07-16T15:30:32.431139+09:00",
+  "korean": {
+    "total": 194,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 20,
+      "의약단체": 16,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 6,
+      "의료정책·인력": 25,
+      "전통의학": 2,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "[건강뉴스] 황만기키본한의원 대표원장 황만기 박사, 골절·골다공증 비수술 한약 치료 임상 한의사 대상 원데이 특강 개최 外 - 베이비뉴스",
+        "source": "베이비뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:베이비뉴스+10 | 최신:Thu, 16 Jul 2026 05:35:45 GMT+5 | 키워드+25 | 순위:11위+10",
+        "snippet": "[건강뉴스] 황만기키본한의원 대표원장 황만기 박사, 골절·골다공증 비수술 한약 치료 임상 한의사 대상 원데이 특강 개최 外 - 베이비뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[건강뉴스] 황만기키본한의원 대표원장 황만기 박사, 골절·골다공증 비수술 한약 치료 임상 한의사 대상 원데이 특강 개최 外 - 베이비뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[건강뉴스] 황만기키본한의원 대표원장 황만기 박사, 골절·골다공증 비수술 한약 치료 임상 한의사 대상 원데이 특강 개최 外 - 베이비뉴스",
+        "content_length": 76,
+        "published_time": "Thu, 16 Jul 2026 05:35:45 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 05:35:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9teVl5VmRBQ2hmb3E5bmdxWlVxZV9KZVkySUpiZUVXNXZPVjc4WmxJOHFvakhGWFRINm0tN216ellseUpYanRlMXZERUQ1UXNPdWRFM1FLU3k4dTFZRTE1SXhTeWJTOTA4VERHaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ibabynews.com"
+      },
+      {
+        "title": "대한한약사회, “한약사 배제한 전문의약품 논의 중단해야” 정책 결정 과정에 공식 참여 보장 촉구 - 케이에스피뉴스",
+        "source": "케이에스피뉴스",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:케이에스피뉴스+10 | 최신:Thu, 16 Jul 2026 06:25:00 GMT+5 | 키워드+20 | 순위:12위+10",
+        "snippet": "대한한약사회, “한약사 배제한 전문의약품 논의 중단해야” 정책 결정 과정에 공식 참여 보장 촉구 - 케이에스피뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "대한한약사회, “한약사 배제한 전문의약품 논의 중단해야” 정책 결정 과정에 공식 참여 보장 촉구 - 케이에스피뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "대한한약사회, “한약사 배제한 전문의약품 논의 중단해야” 정책 결정 과정에 공식 참여 보장 촉구 - 케이에스피뉴스",
+        "content_length": 63,
+        "published_time": "Thu, 16 Jul 2026 06:25:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 06:25:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5naUpZNW41S0Z1Rm53a1h3czd0WnJXSXl2Tl9UX2Rhc2lncnpOa3U1WENsZUlPNVY3XzlNYjV2OTVZYXd0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.kspnews.com"
+      },
+      {
+        "title": "연 2회 투여 중증 천식 신약, 희귀의약품 지정 문턱 못 넘었다 - 메디소비자뉴스",
+        "source": "메디소비자뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:메디소비자뉴스+10 | 최신:Wed, 15 Jul 2026 20:19:08 GMT+5 | 키워드+25 | 순위:303위+2",
+        "snippet": "연 2회 투여 중증 천식 신약, 희귀의약품 지정 문턱 못 넘었다 - 메디소비자뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "연 2회 투여 중증 천식 신약, 희귀의약품 지정 문턱 못 넘었다 - 메디소비자뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "연 2회 투여 중증 천식 신약, 희귀의약품 지정 문턱 못 넘었다 - 메디소비자뉴스",
+        "content_length": 45,
+        "published_time": "Wed, 15 Jul 2026 20:19:08 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 20:19:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sT0pDMUVOc0trTTZhc2FBejV2NHpLQVlBQXM4VDVWUjlLM19VTW5JcWh4aGFTVXVDajV2Q19LckdKblJ1VXE5bVF6VnlkcGg2MGx3RVlRSVctQ3QySjhYb21EMlVxWGNKM2RyUmU2bzdhZ9IBdkFVX3lxTE5fZ19PR2J0d216S0VIMklyUWhlMDZvcDFCSnVXcTA1UkpBblhOVW1oczVmQi1scm9KM2VTQzJraUY5eGtBRlZPSVFua016d0JLc3FyaEx1Zm8xQVNqUS01NFY2MGxuUDFWZ2ZtdTNvejFCVmk5VFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.medisobizanews.com"
+      },
+      {
+        "title": "[OpenAI 연구원 마일스 왕, 20억 달러 가치 AI 신약개발 스타트업 창업 추진] 왕이 준비 중인 스타트업은 기존 의약품이나 과거 임상시험에서 실패한 약물의 새로운 활용 가능성을 탐색하는 AI 모델 개발에 초점을 맞출 것으로 - AI넷",
+        "source": "AI넷",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:AI넷+10 | 최신:Wed, 15 Jul 2026 16:01:00 GMT+5 | 키워드+25 | 순위:359위+2",
+        "snippet": "[OpenAI 연구원 마일스 왕, 20억 달러 가치 AI 신약개발 스타트업 창업 추진] 왕이 준비 중인 스타트업은 기존 의약품이나 과거 임상시험에서 실패한 약물의 새로운 활용 가능성을 탐색하는 AI 모델 개발에 초점을 맞출 것으로 - AI넷 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[OpenAI 연구원 마일스 왕, 20억 달러 가치 AI 신약개발 스타트업 창업 추진] 왕이 준비 중인 스타트업은 기존 의약품이나 과거 임상시험에서 실패한 약물의 새로운 활용 가능성을 탐색하는 AI 모델 개발에 초점을 맞출 것으로 - AI넷",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[OpenAI 연구원 마일스 왕, 20억 달러 가치 AI 신약개발 스타트업 창업 추진] 왕이 준비 중인 스타트업은 기존 의약품이나 과거 임상시험에서 실패한 약물의 새로운 활용 가능성을 탐색하는 AI 모델 개발에 초점을 맞출 것으로 - AI넷",
+        "content_length": 134,
+        "published_time": "Wed, 15 Jul 2026 16:01:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 16:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1QRm96TVlBYXVVb0k1N19lWHVwZWM4aHNUQ0I4emp6aXgzdWxGQlF1VFAwTklJRzVfNGIxVUE3eGU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.ainet.link"
+      },
+      {
+        "title": "강스템바이오텍 \"모낭 오가노이드, 글로벌 모 제약사 신약개발에 적용\" - 히트뉴스",
+        "source": "히트뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:히트뉴스+10 | 최신:Thu, 16 Jul 2026 03:09:18 GMT+5 | 키워드+25 | 순위:152위+2",
+        "snippet": "강스템바이오텍 \"모낭 오가노이드, 글로벌 모 제약사 신약개발에 적용\" - 히트뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "강스템바이오텍 \"모낭 오가노이드, 글로벌 모 제약사 신약개발에 적용\" - 히트뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "강스템바이오텍 \"모낭 오가노이드, 글로벌 모 제약사 신약개발에 적용\" - 히트뉴스",
+        "content_length": 45,
+        "published_time": "Thu, 16 Jul 2026 03:09:18 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 03:09:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZnB4OHJnbDFNOGZaandHNWdrakRKa2V2ZzV3VDljU2NSQmNkemdESlc3ZDFaa055clpLWERfOU02U2lvT2pxYzNQT3dhejZKcFdVWWRDZWpNNVBKbEo3M0hTOUU4RGY2cmJB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.hitnews.co.kr"
+      },
+      {
+        "title": "한의계 \"PA 간호사 업무 대상서 한방병원 제외…명백한 차별\" - 청년의사",
+        "source": "청년의사",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:Thu, 16 Jul 2026 03:43:15 GMT+5 | 키워드+25 | 순위:257위+2",
+        "snippet": "한의계 \"PA 간호사 업무 대상서 한방병원 제외…명백한 차별\" - 청년의사 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "한의계 \"PA 간호사 업무 대상서 한방병원 제외…명백한 차별\" - 청년의사",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "한의계 \"PA 간호사 업무 대상서 한방병원 제외…명백한 차별\" - 청년의사",
+        "content_length": 41,
+        "published_time": "Thu, 16 Jul 2026 03:43:15 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 03:43:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHUm9jNE0xTFUwbW5WUGNKRFZlM0hyMEExaXJlWmxVZG5iY3NieC02WnhReEV2a195ZWRIVTBINk05Z0hCQ0ptajV1RUhhOHJlLVVzVHhnbldnYnZWbUZDVkZudklySVE2NWlRSTgwbzbSAXNBVV95cUxQLU9DUi1nd25RT1VOeFBVZkRLZzFGTElfVUY3SmpmNkFVVTNtdF9oMWJqeHlRRXlJc3UyR1Rkc2tvSXVnUFN5WkJmX1Rkd18zRmlWSUZiRFpOM2VZWmZBa1ZXRXNLWlRVUGc1c2VzS011RmZr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.docdocdoc.co.kr"
+      },
+      {
+        "title": "보라매병원, 서북병원 미개설 진료과 의료진 파견 등 의료 협력 강화 - 매일일보",
+        "source": "매일일보",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:매일일보+10 | 최신:Thu, 16 Jul 2026 05:48:04 GMT+5 | 키워드+25 | 순위:294위+2",
+        "snippet": "보라매병원, 서북병원 미개설 진료과 의료진 파견 등 의료 협력 강화 - 매일일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "보라매병원, 서북병원 미개설 진료과 의료진 파견 등 의료 협력 강화 - 매일일보",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "보라매병원, 서북병원 미개설 진료과 의료진 파견 등 의료 협력 강화 - 매일일보",
+        "content_length": 44,
+        "published_time": "Thu, 16 Jul 2026 05:48:04 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 05:48:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GQWZVb19TUUFjaDVQeGdPaGN0My1KTEw4T3JQRzU5eVhsUERfZ29EQ01zaHVESHBoOTJ0dEZqY0thUjFXM3lKN3huOVpCeGtUUmJYSnA0Ujg3UTBRTHhwTzlCeDg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.m-i.kr"
+      },
+      {
+        "title": "보건복지부, 지역·필수·공공의료 전면 개편…지역의료정책관·필수의료지원국 신설 - 얼리어답터뉴스",
+        "source": "얼리어답터뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:얼리어답터뉴스+10 | 최신:Wed, 15 Jul 2026 08:04:24 GMT+5 | 키워드+25 | 순위:346위+2",
+        "snippet": "보건복지부, 지역·필수·공공의료 전면 개편…지역의료정책관·필수의료지원국 신설 - 얼리어답터뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "보건복지부, 지역·필수·공공의료 전면 개편…지역의료정책관·필수의료지원국 신설 - 얼리어답터뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "보건복지부, 지역·필수·공공의료 전면 개편…지역의료정책관·필수의료지원국 신설 - 얼리어답터뉴스",
+        "content_length": 52,
+        "published_time": "Wed, 15 Jul 2026 08:04:24 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 08:04:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pajJmX3dHNnhEMlBrR3hMVTJnQzJuZEx3WlRqZXBhU1RFZXUzdDNwbG81MnVQYk1paFNrU0Vnaks3Y1Vlb2gtaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.eanews.kr"
+      },
+      {
+        "title": "실적·신약·증설 '삼박자' 맞춰…에스티팜 '쾌속 질주' - ebn.co.kr",
+        "source": "ebn.co.kr",
+        "importance": 41,
+        "stars": "⭐⭐",
+        "evidence": "출처:ebn.co.kr+24 | 최신:Thu, 16 Jul 2026 04:33:37 GMT+5 | 키워드+10 | 순위:311위+2",
+        "snippet": "실적·신약·증설 '삼박자' 맞춰…에스티팜 '쾌속 질주' - ebn.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "실적·신약·증설 '삼박자' 맞춰…에스티팜 '쾌속 질주' - ebn.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "실적·신약·증설 '삼박자' 맞춰…에스티팜 '쾌속 질주' - ebn.co.kr",
+        "content_length": 42,
+        "published_time": "Thu, 16 Jul 2026 04:33:37 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 04:33:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLdTEwWTg0dXpyXzJ5V1owS180VWIwMDlvZnhuODJtdGxzaWJmWWE3NDdZZ2xIN0tLazZLd3hQR2hDMFpuWVJOMkdqUDdUUzRXel9MaVJtRGZUQ1F4Wk9xeEZLaE8wTlNT?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ebn.co.kr"
+      },
+      {
+        "title": "HLB바이오스텝, 통합 비임상 서비스로 파킨슨병 신약 IND 승인 지원 - ebn.co.kr",
+        "source": "ebn.co.kr",
+        "importance": 41,
+        "stars": "⭐⭐",
+        "evidence": "출처:ebn.co.kr+24 | 최신:Thu, 16 Jul 2026 05:45:46 GMT+5 | 키워드+10 | 순위:313위+2",
+        "snippet": "HLB바이오스텝, 통합 비임상 서비스로 파킨슨병 신약 IND 승인 지원 - ebn.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "HLB바이오스텝, 통합 비임상 서비스로 파킨슨병 신약 IND 승인 지원 - ebn.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "HLB바이오스텝, 통합 비임상 서비스로 파킨슨병 신약 IND 승인 지원 - ebn.co.kr",
+        "content_length": 51,
+        "published_time": "Thu, 16 Jul 2026 05:45:46 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 05:45:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1vZzBOZUhpYS01Q3NQQ2NvWF9MSk9ZeHJrXy05T2JEeWw2eHBjSVY3QllSeUlTWHk2c0ZWc1RfR0JONWpwNVpFSW5hNnhNSlQzMHJyOTBteEtsTVkwQUh0dUhGLUoydTNN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ebn.co.kr"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        29
+      ],
+      [
+        "허가",
+        13
+      ],
+      [
+        "식약처",
+        9
+      ],
+      [
+        "임상",
+        8
+      ],
+      [
+        "FDA",
+        8
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "한약",
+        5
+      ],
+      [
+        "수출",
+        5
+      ],
+      [
+        "약가",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "바이오시밀러",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "실사",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "데일리팜",
+        11
+      ],
+      [
+        "네이트",
+        8
+      ],
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "딜사이트",
+        5
+      ],
+      [
+        "Vietnam.vn",
+        5
+      ],
+      [
+        "edaily.co.kr",
+        4
+      ],
+      [
+        "뉴스1",
+        4
+      ],
+      [
+        "청년의사",
+        4
+      ],
+      [
+        "히트뉴스",
+        4
+      ],
+      [
+        "약업신문",
+        4
+      ],
+      [
+        "메디컬투데이",
+        4
+      ],
+      [
+        "핀포인트뉴스",
+        3
+      ],
+      [
+        "PRESS9",
+        3
+      ],
+      [
+        "병원신문",
+        3
+      ],
+      [
+        "MSN",
+        3
+      ]
+    ]
+  },
+  "english": {
+    "total": 130,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 19,
+      "Traditional & Complementary Medicine": 11
+    },
+    "top_articles": [
+      {
+        "title": "India's Sun Pharma wins South Africa approval to launch generic Ozempic - Reuters",
+        "source": "Reuters",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Wed, 15 Jul 2026 17:46:08 GMT+5 | 키워드+20 | 순위:220위+2",
+        "snippet": "India's Sun Pharma wins South Africa approval to launch generic Ozempic - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "India's Sun Pharma wins South Africa approval to launch generic Ozempic - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "India's Sun Pharma wins South Africa approval to launch generic Ozempic - Reuters",
+        "content_length": 81,
+        "published_time": "Wed, 15 Jul 2026 17:46:08 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 17:46:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNGpfeVB1Z3U0cnE4RnliaV9lbExCdDF5ZEhXaTNhVkFhV1YzTS1lMEV1ZE1PS1BpTW9iSmp3SmI5N0x0aW1qdjhvRlNzQVU4eXIxX25jZ0RKV0RUcU9FclhXRXRRQWsxRVlDei1YZkl6WUpCQjFfUkQwLWZrZjJ0T1lPazJfU19Ib3BOYTgweXJqNTRDYmt5SmZkNkFSbkg4WGhEWGNqV0dlVHdkSXlhaXFJdjlfa3lSajZraA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - themercury.com",
+        "source": "themercury.com",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:themercury.com+10 | 최신:Wed, 15 Jul 2026 13:04:08 GMT+5 | 키워드+30 | 순위:172위+2",
+        "snippet": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - themercury.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - themercury.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - themercury.com",
+        "content_length": 144,
+        "published_time": "Wed, 15 Jul 2026 13:04:08 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 13:04:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRGYyeXNrcHdxcTJHbVc3VEQ3UDdYQldkUmhfSXdobXY0Q1dOV3hnd3doOHJXWFN4bVM5WDFWM1NWc3N1dGtERXZ1ZzA2bDcwc1oxMnNTNUduS1FaVnNuR2FaTi1HODJjY04wUHlMN1JLeVhXZzVIczhwbjEzMExndkJ3MzktWjhCWTh5REFrR1doUVhibWhfY1ZHRkxIaV9RMmV6anNFTVk3ejRDdXdvbGFEMTdyZ3BsLUJkcTFUYVBQbVdLWThXcVhUcHFKa3FCODh5dWdrREFRZ3d3MXZRVDdiSFFsam9TZlRScGJiMEpBOVE0a3dSOTJtTkNoNm43emI2YVFKZUdVaTVsUXFDLXRSM0M?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://themercury.com"
+      },
+      {
+        "title": "ORASIS PHARMACEUTICALS ANNOUNCES AUSTRALIA SUBMISSION OF A NEW DRUG APPLICATION FOR BESKA FOR THE TREATMENT OF PRESBYOPIA - PR Newswire",
+        "source": "PR Newswire",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:PR Newswire+10 | 최신:Wed, 15 Jul 2026 13:15:00 GMT+5 | 키워드+30 | 순위:173위+2",
+        "snippet": "ORASIS PHARMACEUTICALS ANNOUNCES AUSTRALIA SUBMISSION OF A NEW DRUG APPLICATION FOR BESKA FOR THE TREATMENT OF PRESBYOPIA - PR Newswire | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "ORASIS PHARMACEUTICALS ANNOUNCES AUSTRALIA SUBMISSION OF A NEW DRUG APPLICATION FOR BESKA FOR THE TREATMENT OF PRESBYOPIA - PR Newswire",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "ORASIS PHARMACEUTICALS ANNOUNCES AUSTRALIA SUBMISSION OF A NEW DRUG APPLICATION FOR BESKA FOR THE TREATMENT OF PRESBYOPIA - PR Newswire",
+        "content_length": 135,
+        "published_time": "Wed, 15 Jul 2026 13:15:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 13:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWUF0NzUtLUhGWHdDOEJ1dXEyejg0QVEzVFpqbVg1d3M1bG9OWm9GVHhaTHdvMmdidTdqQ2VidlVSZXJXZ2pmekoyN0lCVDkzclUxdW1hRm5ZOFFPajJDUkx1amdDUVVuSXkxZkRWVnNLUnVFTmJUcGtaRjA2UkY0RzMzaUt0LVJ0djFtTVdqQmlTUVNYX1dQSmFUVFlZOXlYVEluQkZneGZ0LVZtRlQzNXA5Z09jMlNzeTBMNTV5OUJWQ3dLQVl5VlR4cm1xUzIwLWFqYTlWTURSV1B2TGZ1Q3JFWnJTYldoRXNnVHBOcjVxZnJ6WVFKNDVjVnYzQV8tTTJPaVJ4RUg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.prnewswire.com"
+      },
+      {
+        "title": "New approach to designing drugs supercharges cancer medication - WashU Medicine",
+        "source": "WashU Medicine",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:WashU Medicine+10 | 최신:Wed, 15 Jul 2026 15:02:21 GMT+5 | 키워드+30 | 순위:175위+2",
+        "snippet": "New approach to designing drugs supercharges cancer medication - WashU Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "New approach to designing drugs supercharges cancer medication - WashU Medicine",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "New approach to designing drugs supercharges cancer medication - WashU Medicine",
+        "content_length": 79,
+        "published_time": "Wed, 15 Jul 2026 15:02:21 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 15:02:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEdCY3NHMVdWQnZlLTdnMTlQbjN6U2hQUnhJWWk4aHp2VHVnV20tcHZxT0V3RV9jTXRqZkdINXp3Tmd0cXhERVVVdElxQUExWEpNc1NtRUNwZnlrei1hOWxoS2VmRTc4VWhzZ3NwSm16bEpyaGNpRmVHSzJId1QtbWdJMGpObjRQT3liT1pMSGxSZjg3cC10V3N0VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://medicine.washu.edu"
+      },
+      {
+        "title": "HealthKois eyes biotech bets as new drug pipelines expand - livemint.com",
+        "source": "livemint.com",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:livemint.com+10 | 최신:Wed, 15 Jul 2026 07:50:48 GMT+5 | 키워드+30 | 순위:179위+2",
+        "snippet": "HealthKois eyes biotech bets as new drug pipelines expand - livemint.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "HealthKois eyes biotech bets as new drug pipelines expand - livemint.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "HealthKois eyes biotech bets as new drug pipelines expand - livemint.com",
+        "content_length": 72,
+        "published_time": "Wed, 15 Jul 2026 07:50:48 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 07:50:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3Rya1o5RXE2WXBFeExCcVZXMVpxV2lpWnloLVRIOVh1RHB5R2tYeUNoTURmTl8tWkJkdEVLLWpmeXJwZGdWS2RYSFpLRjRWclhvNkFFYWF1bEhUc1JLMG1UZ1dsNEUwb2EwSS1VRlVJWkJTMXpZQ1FQZlY0OWkyYnJ5VHhXX21WNEk0MXVvcXM0WTlIT1Y4SWhnMGRDRXJWc1pXOXNWWk_SAa4BQVVfeXFMUDd3UG1wRG1hQlVpRE4xNE9XSWFyUlpfd2VXWGswQUFLQTJZNzhzbzJUdkoxQWlDWGpGYk94TlJCQTdscktHaGxfZWZLdzZ0QkY2V1lxczZfcWdBemxvZmI3ZEg5RHJTY2NQS3M1WF9TN2NPU3RLM2F4VkFUTGV5NmV4cmFibFdiUlBMeTVZSjNKNFQzM19xRzNQWk54aU9FYW5ybUpQekFOQkk2dVRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.livemint.com"
+      },
+      {
+        "title": "Celcuity’s breast cancer drug approved, its first - STAT",
+        "source": "STAT",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:STAT+10 | 최신:Wed, 15 Jul 2026 15:09:37 GMT+5 | 키워드+30 | 순위:181위+2",
+        "snippet": "Celcuity’s breast cancer drug approved, its first - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Celcuity’s breast cancer drug approved, its first - STAT",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Celcuity’s breast cancer drug approved, its first - STAT",
+        "content_length": 56,
+        "published_time": "Wed, 15 Jul 2026 15:09:37 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 15:09:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZE9CRUp3RmlHWjVHbUJxRGY3OVE2VjlvOENLdnBYc1pBUmpHU1NlVU5oSVBhNExBTW0xc3o5alEycGF5T3A1TWc1aVQ1Tm84azZISTV3eFhHLWJISkFFYmxRbkxwMkxxU1Z6TEs0cDJwRk9TY1hfdFR2NnBkbEZSMW53TGE5NUY3TmV3SkNpS2RHN0Y0MkxBQ1JRbE5Ldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.statnews.com"
+      },
+      {
+        "title": "Parkinson’s Drug Candidate Enhances Levodopa Therapy While Reducing Side Effects - Inside Precision Medicine",
+        "source": "Inside Precision Medicine",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Inside Precision Medicine+10 | 최신:Wed, 15 Jul 2026 19:45:57 GMT+5 | 키워드+30 | 순위:182위+2",
+        "snippet": "Parkinson’s Drug Candidate Enhances Levodopa Therapy While Reducing Side Effects - Inside Precision Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Parkinson’s Drug Candidate Enhances Levodopa Therapy While Reducing Side Effects - Inside Precision Medicine",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Parkinson’s Drug Candidate Enhances Levodopa Therapy While Reducing Side Effects - Inside Precision Medicine",
+        "content_length": 108,
+        "published_time": "Wed, 15 Jul 2026 19:45:57 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 19:45:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGJuMmlMcU52cmVuV08ydHRnWmVVb3BVMjdYTWppelYtRW1VOHFxZjNXeGp2U2VNWFlVT09vRUZLbmZocmVGeFZaMTRLUTZnaGZhdWdEdFptU3hrYjZzNGhZX1ZZdjAtd3hVX01JMzB4WURJS1N6aWpZZkFZenN4cnZKbVRQazN5QU9xcnM2TlA2UGp2WlZQNXBCalRMUEhVa2RkQ2RaNkNVbnV0aFIwaHFSNFNFdnd5QU1rejdiNWFER0ZWME8xQ2tPLWN4OHU1WnlQWnU1TnBVcVB0ZUVaQU5BbXE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.insideprecisionmedicine.com"
+      },
+      {
+        "title": "Insilico revenue soars above $100 million on AI drug partnerships - thebambooworks.com",
+        "source": "thebambooworks.com",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:thebambooworks.com+10 | 최신:Thu, 16 Jul 2026 00:04:22 GMT+5 | 키워드+30 | 순위:193위+2",
+        "snippet": "Insilico revenue soars above $100 million on AI drug partnerships - thebambooworks.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Insilico revenue soars above $100 million on AI drug partnerships - thebambooworks.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Insilico revenue soars above $100 million on AI drug partnerships - thebambooworks.com",
+        "content_length": 86,
+        "published_time": "Thu, 16 Jul 2026 00:04:22 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 00:04:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVlxdlBZVnVJdW1QTWlFd29nQmtza1RiVFQ0UkVmdGVBd21mTHhPQW5qR3p3R0oyaHZERklGeG42Rk56UWFKa0l6YVZiYjFiUXZYbm1vd0JRVkM0MVY4ZVluUEpRbnpad1otdmYxNFB0ZUpoMmJZajJQSHhxbkFlLTdDZ3pxeVB2bmU5T2ttYUp0ZUpHeUdz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://thebambooworks.com"
+      },
+      {
+        "title": "How the most favored nation drug pricing policy is quietly reshaping drug development and clinical research - Managed Healthcare Executive",
+        "source": "Managed Healthcare Executive",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Managed Healthcare Executive+10 | 최신:Wed, 15 Jul 2026 12:59:10 GMT+5 | 키워드+30 | 순위:203위+2",
+        "snippet": "How the most favored nation drug pricing policy is quietly reshaping drug development and clinical research - Managed Healthcare Executive | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "How the most favored nation drug pricing policy is quietly reshaping drug development and clinical research - Managed Healthcare Executive",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "How the most favored nation drug pricing policy is quietly reshaping drug development and clinical research - Managed Healthcare Executive",
+        "content_length": 138,
+        "published_time": "Wed, 15 Jul 2026 12:59:10 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 12:59:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUzBVYWwyUk9kejl2eXF4R2tEbXhiN0JnWk1SVzJxekU0T2ZjZ29xdjVMM1dQdldfTTM1RjRyY2pJR1ZEc0FBcW1yTjNNUUYzOG1kdHN3TEZ0QkZraTltOExMUmZvanhub3FfWFRJa01QeVd6NUZvX3N3Zl9vR2RRU2t6WGdRZ1ZMN1JwYUtJOU0wbUZTanhCNkYyeVRfd0J0eUVDTk9iWTZoZTc4SW9mUkJyUjhlTVRUUk9TdWJZYjBuel9tTmV5ME5BYTRDYVBkdUl6V1FDSDFHcXZNaVdwRE5zU1p5TXJNbXpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.managedhealthcareexecutive.com"
+      },
+      {
+        "title": "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News",
+        "source": "Drug Discovery News",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Drug Discovery News+10 | 최신:Wed, 15 Jul 2026 13:37:57 GMT+5 | 키워드+30 | 순위:204위+2",
+        "snippet": "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News",
+        "content_length": 94,
+        "published_time": "Wed, 15 Jul 2026 13:37:57 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 13:37:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkYtRUpDc1Q1YnNaaE5SNXBqaVhLVU12Wk1oaWl6WExTTC1HQnlodzBLTC16OTZOaDNjcFRZS2Y5OEV3X09DZVZobkFfTGRqeEpISGY2VVdPb2JTa2lNWUczdUJzRlZsRFdvYXBpbjB4ajRaTXU5TV93dWZxM3RTNWQ4Rks5TUpHTVRtNG5SVGo2d1lQWVdFV09Na3JIdksxVDRmVUo0OFkySVdMM01wZjRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.drugdiscoverynews.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        10
+      ],
+      [
+        "approval",
+        7
+      ],
+      [
+        "pricing",
+        7
+      ],
+      [
+        "generic",
+        6
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "recall",
+        3
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "AOL.com",
+        5
+      ],
+      [
+        "IndexBox",
+        4
+      ],
+      [
+        "ETPharma.com",
+        4
+      ],
+      [
+        "Managed Healthcare Executive",
+        3
+      ],
+      [
+        "Ad-hoc-news.de",
+        3
+      ],
+      [
+        "openPR.com",
+        3
+      ],
+      [
+        "PharmTech.com",
+        3
+      ],
+      [
+        "Medical Xpress",
+        2
+      ],
+      [
+        "SugerMint",
+        2
+      ],
+      [
+        "Kalkine Media",
+        2
+      ],
+      [
+        "finance.biggo.com",
+        2
+      ],
+      [
+        "TradingView",
+        2
+      ],
+      [
+        "Business Standard",
+        2
+      ],
+      [
+        "RTE.ie",
+        2
+      ],
+      [
+        "LawFold.com",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 103,
+    "languages": {
+      "French / 프랑스어": 1,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 3,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 9,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 8,
+      "Chinese Traditional / 대만": 7,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 8,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 6,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "AI stormar in i läkemedelsindustrin: AstraZeneca redan där - Dagens PS",
+        "source": "Dagens PS",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Dagens PS+10 | 최신:Thu, 16 Jul 2026 03:34:32 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "AI stormar in i läkemedelsindustrin: AstraZeneca redan där - Dagens PS | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "AI stormar in i läkemedelsindustrin: AstraZeneca redan där - Dagens PS",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "AI stormar in i läkemedelsindustrin: AstraZeneca redan där - Dagens PS",
+        "content_length": 70,
+        "published_time": "Thu, 16 Jul 2026 03:34:32 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 03:34:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONFMzMVhOU21WTmNURGRneUxOV0NBd3BhSklpSzlnWlBkREVFSk9HSi0tczh2TjVTTV9YbkVnRGpvaWhQbEwwV3ZwbUNvbUpzOWFLYWo2WExZZ0NpcHZ0SkRKSFYxaWRKd0l3YTA4TFBnMVNKcFlONmFjT21LVDc3TWxhRmJaMnlJc3o4M0FEbUpCQTQtejdPVXE5MjBMYXpCc0dkNnZIRlJnRG1Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.dagensps.se"
+      },
+      {
+        "title": "Geleneksel tıp ürünlerinin üretimi ve ticaretiyle uğraşan işletmelerle diyalog çalıştayı. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 16 Jul 2026 04:08:30 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "Geleneksel tıp ürünlerinin üretimi ve ticaretiyle uğraşan işletmelerle diyalog çalıştayı. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Geleneksel tıp ürünlerinin üretimi ve ticaretiyle uğraşan işletmelerle diyalog çalıştayı.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Geleneksel tıp ürünlerinin üretimi ve ticaretiyle uğraşan işletmelerle diyalog çalıştayı. - Vietnam.vn",
+        "content_length": 102,
+        "published_time": "Thu, 16 Jul 2026 04:08:30 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 04:08:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdl9KMkdSOWF4SU5wWmN5b1JyZ0N3U20yMHJFaU9lUXpzb09BV2FfUW1lczY5Wl9qV3VFMjRjTndRTV8tUm90VTR4aE9nRUt1c2M1bzV5UHVxNms1WFNkVXBRTWFsdWFXS25KSWN3d0JQRW05UmZZc0xIMV9WNGxCTVZNYnFxNDNRMWxKN0p2Wk50WktTbEdtczRzWE9mRjZObXdjWENQNkk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026: จุดศูนย์กลางการค้าระหว่างประเทศสำหรับอุตสาหกรรมยาของเวียดนาม - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Wed, 15 Jul 2026 11:45:43 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026: จุดศูนย์กลางการค้าระหว่างประเทศสำหรับอุตสาหกรรมยาของเวียดนาม - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026: จุดศูนย์กลางการค้าระหว่างประเทศสำหรับอุตสาหกรรมยาของเวียดนาม - Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026: จุดศูนย์กลางการค้าระหว่างประเทศสำหรับอุตสาหกรรมยาของเวียดนาม - Vietnam.vn",
+        "content_length": 117,
+        "published_time": "Wed, 15 Jul 2026 11:45:43 GMT",
+        "modified_time": "",
+        "time": "Wed, 15 Jul 2026 11:45:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjN3dDluUTIwaXE4bkZ4N2F2eFA2ZVU3TXVSUmpWRmJTZm1Jc1JuR0syc2M0S3BIZDgta3RVbmlxNkU3V2RNWnY2NVJyMTRGOGpkR0dFb3MwdTc0c2tvNG9EMHFnVGhPUEtWMWc0RFktcGs3NHkxTVF6bi01YXljZ1N4TlBxWlYtNmtsSzlsY0J4bXItWFFadzlwbUZSTUtzTTlaOXhZYlpGVl8zcmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "המזכיר הכללי והנשיא טו לאם ניהל ישיבת עבודה עם ועדת המפלגה של משרד הבריאות בנושא עבודת הרפואה המסורתית הווייטנאמית. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 16 Jul 2026 02:22:29 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "המזכיר הכללי והנשיא טו לאם ניהל ישיבת עבודה עם ועדת המפלגה של משרד הבריאות בנושא עבודת הרפואה המסורתית הווייטנאמית. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "המזכיר הכללי והנשיא טו לאם ניהל ישיבת עבודה עם ועדת המפלגה של משרד הבריאות בנושא עבודת הרפואה המסורתית הווייטנאמית.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "המזכיר הכללי והנשיא טו לאם ניהל ישיבת עבודה עם ועדת המפלגה של משרד הבריאות בנושא עבודת הרפואה המסורתית הווייטנאמית. - Vietnam.vn",
+        "content_length": 128,
+        "published_time": "Thu, 16 Jul 2026 02:22:29 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 02:22:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlFTUG5GdHJIOG9JVnpFXzNQaGFGQlgwQ05RNV9sTkFSbWVEb0ZEUlZLdTBXZ1V3YWVlcjFqWHV5dFQwTkk0NWkyWXpmT1dWQWJfajlqYVVZYnp5S2thRVJydWFRbFpONUdYcV9JYmtZcU9PNXg4MnNDNG1xcUtoUTN1T1FDQjV3SGlXSm5MMTE4eXd3eXBFNU8zLVdhWHpPWkotT2V3SmhfSE0yb2xBZ19QNE83SEFDSUFFalpTQkpmcmtab2hSZk92R0NyWXZhbWNv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "M&A Ngành Dược: Cơ Hội Tăng Trưởng Cổ Phiếu Việt Nam - VnBusiness",
+        "source": "VnBusiness",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:VnBusiness+10 | 최신:Thu, 16 Jul 2026 01:27:17 GMT+5 | 키워드+30 | 순위:51위+2",
+        "snippet": "M&A Ngành Dược: Cơ Hội Tăng Trưởng Cổ Phiếu Việt Nam - VnBusiness | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "M&A Ngành Dược: Cơ Hội Tăng Trưởng Cổ Phiếu Việt Nam - VnBusiness",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "M&A Ngành Dược: Cơ Hội Tăng Trưởng Cổ Phiếu Việt Nam - VnBusiness",
+        "content_length": 65,
+        "published_time": "Thu, 16 Jul 2026 01:27:17 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 01:27:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQW1oT1lNLTk1OUFRdVdNWWNVaktNVTcxQVRGYm1KdEFxa3BFbWxLV0JsUWx5czF4Y29MRXZIN3hCN2o2NkQ5TVBTc1lXdW5nbHY3RWpTMzNKSGlfek15cGNlZ2pPT0RxSEZvM1F3M1U2SnFKMWhoQmZ6N1kzd08zcVlCaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://vnbusiness.vn"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        15
+      ],
+      [
+        "手机网易网",
+        4
+      ],
+      [
+        "El Globalfarma",
+        3
+      ],
+      [
+        "TradingKey",
+        3
+      ],
+      [
+        "NeoFeed",
+        2
+      ],
+      [
+        "Guia da Farmácia",
+        2
+      ],
+      [
+        "新浪网",
+        2
+      ],
+      [
+        "thaitabloid.com",
+        2
+      ],
+      [
+        "Bisnis.com - Ekonomi",
+        2
+      ],
+      [
+        "aps.dz",
+        1
+      ],
+      [
+        "Ad-hoc-news.de",
+        1
+      ],
+      [
+        "Redacción Médica",
+        1
+      ],
+      [
+        "EFE Servicios",
+        1
+      ],
+      [
+        "Interempresas Media",
+        1
+      ],
+      [
+        "iSanidad",
+        1
+      ]
+    ]
+  }
+}
