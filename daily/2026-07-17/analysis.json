@@ -1,0 +1,267 @@
+{
+  "date": "2026-07-17",
+  "total_articles": 433,
+  "language_breakdown": {
+    "korean": {
+      "total": 185,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 22,
+        "의약정책": 19,
+        "의약단체": 9,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 5,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 135,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 10
+      }
+    },
+    "multilingual": {
+      "total": 113,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 8,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 4,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 7,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 5,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 허가·FDA 승인 랠리와 안전성 경고",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 106,
+      "avg_importance": 38,
+      "key_articles": [
+        {
+          "title": "Merck gets US FDA nod for first-in-its-class oral cholesterol drug - Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "FDA Advisory No.2026-0763 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SCENT THERAPY PH EAU DE PARFUM (PEACE)” - Food and Drug Administration - fda.gov.ph",
+          "importance": 67,
+          "url": "https://www.fda.gov.ph"
+        },
+        {
+          "title": "Merck Secures FDA Approval for Powerful New Cholesterol Pill - Bloomberg.com",
+          "importance": 62,
+          "url": "https://www.bloomberg.com"
+        },
+        {
+          "title": "Kalshi to allow bets on clinical trials, FDA decisions - Reuters",
+          "importance": 57,
+          "url": "https://www.reuters.com"
+        }
+      ],
+      "summary_kr": "Merck의 경구 LDL 약물 승인, FDA/EMA 관련 공지, 허가·경고가 동시에 등장하며 상업화 기대와 안전성 관리가 함께 부각됐다.",
+      "summary_en": "Merck’s oral cholesterol approval, FDA/EMA notices, and safety warnings kept the day anchored in regulatory action and post-approval oversight."
+    },
+    {
+      "topic": "AI·파트너십·딜메이킹이 혁신 생태계를 재편",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 60,
+      "avg_importance": 39,
+      "key_articles": [
+        {
+          "title": "AI 활용 신약개발 확대…글로벌 R&amp;D 경쟁 새 국면",
+          "importance": 51,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=414683"
+        },
+        {
+          "title": "How Lilly's AtaiBeckley Deal Accelerates Psychedelic Drug Commercialization Push - Pharmaceutical Commerce",
+          "importance": 47,
+          "url": "https://www.pharmaceuticalcommerce.com"
+        },
+        {
+          "title": "Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal - inkl",
+          "importance": 47,
+          "url": "https://www.inkl.com"
+        },
+        {
+          "title": "Lilly enters psychedelic drug race with up to $3.8 billion AtaiBeckley deal - ETPharma.com",
+          "importance": 47,
+          "url": "https://pharma.economictimes.indiatimes.com"
+        }
+      ],
+      "summary_kr": "AI 기반 신약개발, 오가노이드 검증, 대형 딜과 파트너십이 맞물리며 혁신 생태계의 투자·협업 축이 다시 짜였다.",
+      "summary_en": "AI drug discovery, organoid validation, and large partnership/deal flows continued to reshape the innovation ecosystem."
+    },
+    {
+      "topic": "의료 접근성·필수의료·약가 논쟁이 정책 축을 흔듦",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 48,
+      "avg_importance": 28,
+      "key_articles": [
+        {
+          "title": "Is This Drug Pricing Program Actually Making US Healthcare Affordability Crisis, Hospital Consolidation Worse? - AOL.com",
+          "importance": 47,
+          "url": "https://www.aol.com"
+        },
+        {
+          "title": "직장 내 괴롭힘 사망 간호사 49재 개최…“병원 공식사과해야” - 청년의사",
+          "importance": 42,
+          "url": "https://www.docdocdoc.co.kr"
+        },
+        {
+          "title": "10년 걸친 약가인하…제약-유통-약국, 차액정산 전쟁 예고 - 데일리팜",
+          "importance": 37,
+          "url": "https://www.dailypharm.com"
+        },
+        {
+          "title": "제약·바이오 약가인하 딛고 '글로벌 5강' 갈까 … 政, 1조 펀드·규제 혁신 박차 - 메디팜스투데이",
+          "importance": 37,
+          "url": "https://www.apsk.co.kr"
+        }
+      ],
+      "summary_kr": "응급·지역의료 투자, 필수의료 강화, 약가/접근성 논쟁이 의료체계와 재정의 균형을 둘러싼 정책 이슈로 부상했다.",
+      "summary_en": "Emergency and regional care spending, essential-care reinforcement, and pricing/access debates remained the core policy fault line."
+    },
+    {
+      "topic": "후기 임상·읽기(readout)·상업화 기대가 파이프라인을 견인",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 20,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "Small molecules still do the heavy lifting in drug development - The Pharma Letter",
+          "importance": 47,
+          "url": "https://www.thepharmaletter.com"
+        },
+        {
+          "title": "Amylyx nears pivotal endocrine drug study readout - STAT",
+          "importance": 47,
+          "url": "https://www.statnews.com"
+        },
+        {
+          "title": "Heart Failure Drugs Market Size To Exceed $37.93 Billion By 2035 - SNS Insider",
+          "importance": 47,
+          "url": "https://www.snsinsider.com"
+        },
+        {
+          "title": "New cholesterol drug could ‘transform treatment’ — but statins aren’t going anywhere, doctors say - TribLIVE.com",
+          "importance": 47,
+          "url": "https://community.triblive.com"
+        }
+      ],
+      "summary_kr": "임상 readout, 후기 개발, 치료 경로 재편이 묶이면서 파이프라인의 성패를 좌우하는 데이터 이벤트가 전면에 섰다.",
+      "summary_en": "Late-stage readouts, trial milestones, and evolving treatment pathways dominated the pipeline narrative."
+    },
+    {
+      "topic": "전통의학·한약·TCM의 국제화와 제도화",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 14,
+      "avg_importance": 32,
+      "key_articles": [
+        {
+          "title": "Da Nang Geleneksel Tıp Hastanesi: Tıbbi muayene ve tedavi kalitesini artırmak için Doğu ve Batı tıbbını birleştiriyor. - Vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Ayush Ministry Moves To Align Traditional Medicine With International Health Standards - BW Businessworld",
+          "importance": 47,
+          "url": "https://www.businessworld.in"
+        },
+        {
+          "title": "안양시, '2026년 청소년 월경통 한방진료 지원사업' 추진…지정 한의원서 침·뜸·한약 지원 - 뉴스N연합",
+          "importance": 37,
+          "url": "https://newsyonhap.com"
+        },
+        {
+          "title": "한약사회 \"한약사 배제 약정협의체, 정당성 가질 수 없다\" - 데일리팜",
+          "importance": 37,
+          "url": "https://dailypharm.com"
+        }
+      ],
+      "summary_kr": "베트남·남아시아·한국의 전통의학 기사들이 국제 협력, 표준화, 현장 적용 확대 흐름을 보여줬다.",
+      "summary_en": "Traditional medicine coverage from Vietnam, South Asia, and Korea pointed to ongoing internationalization and standardization."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 12,
+      "significance": "high"
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 15,
+      "en_count": 1,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 8,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 3,
+      "significance": "medium"
+    },
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "AI 신약개발 컨소시엄과 글로벌 파트너십 재편",
+      "허가·FDA·임상 축이 여전히 시장을 견인",
+      "CDMO·펩타이드 외주화가 개발 모델의 기본값으로",
+      "미프진·국내 규제 반응이 주가와 정책을 흔듦",
+      "약가·리베이트·소송이 미국 정책 축으로 재점화",
+      "신흥시장 규제·유통 재정비와 전통의학 국제화"
+    ],
+    "changes": [
+      "규제·허가 축은 전일 대비 계속 강세였고, Merck 계열 승인/경고 뉴스가 중심을 유지했다.",
+      "AI 신약개발과 파트너십은 이어졌지만, 오늘은 임상 readout와 의료 접근성·약가 이슈의 존재감이 더 커졌다."
+    ]
+  },
+  "connections": [
+    "허가·임상·보험/접근성 이슈가 서로 맞물리며 상업화 시점과 실제 시장 접근 사이의 간극을 드러냈다.",
+    "AI 및 딜메이킹은 후기 임상 데이터와 연결될 때 가장 큰 주가/전략 반응을 유발했다.",
+    "전통의학 국제화는 신흥시장 규제·보건정책과 함께 움직였다."
+  ],
+  "generated_at": "2026-07-17T16:35:07.845768+09:00"
+}

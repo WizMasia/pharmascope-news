@@ -1,0 +1,932 @@
+{
+  "date": "2026-07-17",
+  "total": 433,
+  "version": 1,
+  "generated_at": "2026-07-17T15:30:48.609339+09:00",
+  "korean": {
+    "total": 185,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 22,
+      "의약정책": 19,
+      "의약단체": 9,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 5,
+      "의료정책·인력": 25,
+      "전통의학": 5,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "AI 활용 신약개발 확대…글로벌 R&amp;D 경쟁 새 국면",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:7시간+15 | 키워드+10 | 순위:132위+2",
+        "snippet": "AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면 | AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 입력 2026.07.16 12:18 | 기사의 본문 내용은 이 글자크기로 변경됩니다.",
+        "summary_lines": [
+          "AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면",
+          "AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면",
+          "기사의 본문 내용은 이 글자크기로 변경됩니다.",
+          "입력 2026.07.16 12:18",
+          "기사의 본문 내용은 이 글자크기로 변경됩니다."
+        ],
+        "content": "AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면\n 이전 기사보기\n 다음 기사보기\n AI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n 복사하기\n 스크롤 이동 상태바\n 조해진 기자\n입력 2026.07.16 12:18\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n 복사하기\n 구독\n이 기사를 공유합니다\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n 사진=ChatGPT\n[메디파나뉴스 = 조해진 기자] 인공지능(AI)이 후보물질 탐색과 표적 발굴을 넘어 임상시험 설계와 제조, 시판 후 안전관리까지 의약품 개발 전 과정으로 활용 범위를 넓히고 있다. 이에 글로벌 제약·바이오산업에서도 AI를 중심으로 연구개발(R&D) 패러다임 전환이 본격화하고 있다는 분석이 나왔다.\n한국바이오협회 한국바이오경제연구센터가 16일 발간한 '글로벌 헬스케어 AI 산업 동향 분석 : 북미와 유럽을 중심으로' 보고서에 따르면 글로벌 AI 헬스케어 시장은 2025년 약 393억4000만달러 규모에서 연평균 44.0% 성장해 2034년에는 1조332억7000만달러에 이를 것으로 전망된다.\n특히 생성형 AI를 넘어 스스로 업무를 계획하고 수행하는 '에이전틱 AI(Agentic AI)'가 등장하면서, AI는 후보물질 발굴을 넘어 임상시험 설계와 제조, 시판 후 안전관리 등 신약개발 전 과정의 설계와 의사결정을 지원하는 플랫폼으로 진화하고 있다.\n글로벌 헬스케어 AI 시장의 44.5%를 차지하는 북미에서는 구글이 올해 3월 오픈 AI 모델 세트 'TxGemma'를 공개하며 AI 기반 신약개발 경쟁을 본격화했다. TxGemma는 단백질과 화학물질, 텍스트 데이터를 통합 분석해 치료 특성을 예측하도록 설계됐다.\n빅테크 기업들의 AI 기술력과 제약·바이오산업이 결합하는 형태로 빠르게 진화하고 있으며, 대규모 연구개발 투자와 개방형 협력(Open Innovation)을 기반으로 신약 후보물질 발굴부터 임상 개발까지 AI 적용 범위를 확대하고 있다.\n보고서는 북미가 빅테크 기업의 AI 기술력과 제약·바이오산업의 연구 역량이 결합된 혁신 생태계를 기반으로 후보물질 발굴과 정밀의료 분야에서 빠른 상용화를 이어가고 있다고 분석했다.\n글로벌 시장의 28.1%를 차지하는 두 번째 시장으로 성장한 유럽에서도 제약·바이오기업들의 AI 기반 신약개발도 활발해지고 있다.\n영국의 BenevolentAI는 머신러닝과 대규모 생명과학 데이터를 활용해 신규 표적 발굴(Target Identification)과 후보물질 탐색, 자체 파이프라인 개발을 동시에 추진하는 대표 사례로 꼽힌다.\n스위스 AI 헬스케어 스타트업 Ahead Health는 유럽 전역에서 AI 기반 예방 건강 플랫폼을 확대하기 위해 600만 달러 규모의 시드 투자를 유치했다.\n보고서는 AI 기반 바이오 스타트업에 대한 투자가 활발하게 진행되고 있다고 분석했다. 민간 투자 확대와 스타트업 성장세는 유럽 헬스케어 AI 혁신 생태계를 강화하는 핵심 동력으로 평가된다.\nAI는 연구개발을 넘어 임상시험 설계와 제조, 시판 후 안전관리까지 의약품 개발 전 과정으로 활용 범위를 넓혀가고 있다. 이에 맞춰 규제기관들도 AI 활용 기준과 관리체계 마련에 속도를 내는 모습이다.\n올해 초 유럽의약품청(EMA)과 미국 식품의약국(FDA)은 AI 기반 의료 개발 및 활용 과정에서의 모범 관행(good practice)을 위한 10가지 공동 원칙을 발표했다. 해당 원칙은 초기 연구와 임상시험, 제조, 시판 후 안전성 모니터링까지 AI를 활용한 근거 생성과 품질관리 방안을 포괄하고 있다.\n미국 FDA는 AI 의료기기가 허가 이후에도 지속적으로 성능을 개선할 수 있도록 사전결정된 변경관리계획(PCCP) 제도를 마련하는 등 AI 특성을 반영한 규제 체계도 구축하고 있다.\n유럽 역시 AI Act와 EHDS를 기반으로 안전성과 데이터 활용을 동시에 강화하는 방향으로 정책을 추진하고 있어, 기술 혁신뿐 아니라 규제 환경 역시 AI 중심으로 빠르게 재편되는 모습이다.\n보고서는 국내 역시 올해 AI 기본법 시행으로 제도적 기반은 마련됐지만, 글로벌 시장을 목표로 하는 헬스케어 AI 산업 특성상 국내 규제 준수만으로는 한계가 있다고 진단했다.\n특히 미국 FDA와 EU AI Act 등 글로벌 규제 체계를 동시에 고려할 수 있는 통합 대응 전략이 필요하며, 공공 의료데이터 활용 확대와 함께 국제 표준(FHIR)에 기반한 데이터 상호운용성을 확보해야 글로벌 임상과 연구 생태계에 경쟁력 있게 참여할 수 있다고 제언했다.\n이 기사를 공유합니다\n #AI\n #인공지능\n #미국\n #유럽\n #구글\n #캐나다\n #북미\n #EMA\n #FDA\n #데이터 활용\n #AI 기본법\n #공공데이터\n #AI 규제\n #스타트업\n 조해진 기자\n jhj@medipana.com\n 다국적 제약사, 약학회, 약사회, 의약품 유통 분야를 출입하고 있습니다. 모두가 건강한 사회에서 건강한 삶을 살아가길 희망합니다.\n 다른기사 보기\n© 2025 메디파나뉴스 무단전재 및 재배포, AI학습 및 활용 금지\n관련기사\n AI 신약 특허 확대에도…한국, 美 등록 1.6%·권리범위 협소\n AI가 바꿀 신약개발 패러다임…\"1인 제약사도 가능할 것\"\n \"AI가 가설부터 실험까지\"…신약개발 혁신 본격화\n건보공단 신임 이사장에 강청희…급여상임이사 출신\n의료 AI·제약바이오 1조원대 투자…산업 성과 전환 '과제'\n[제약공시 책갈피] 7월 3주차 - 알테오젠·에스티팜 外\nCT·MRI 재촬영 제한…탈모·고도비만 급여 검토\nAI 활용 신약개발 확대…글로벌 R&D 경쟁 새 국면\n[초점] 탈모 이어 미프진까지, 대통령 언급에…의료계가 묻는 '정책 순서'\n 댓글 내용입력\n 더보기\n 삭제한 댓글은 다시 복구할 수 없습니다.\n 그래도 삭제하시겠습니까?\n 비밀번호\n 댓글 수정은 작성 후 1분내에만 가능합니다.\n 본문\n / 400\n 비밀번호\n내 댓글 모음\n 닫기\n 모바일버전",
+        "content_length": 2912,
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=414683",
+        "source_url": "https://www.medipana.com/news/articleView.html?idxno=414683"
+      },
+      {
+        "title": "응급·지역의료 대수술…정부, 필수의료 투자 본격화 - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Thu, 16 Jul 2026 07:50:03 GMT+5 | 키워드+10 | 순위:254위+2",
+        "snippet": "응급·지역의료 대수술…정부, 필수의료 투자 본격화 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "응급·지역의료 대수술…정부, 필수의료 투자 본격화 - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "응급·지역의료 대수술…정부, 필수의료 투자 본격화 - edaily.co.kr",
+        "content_length": 42,
+        "published_time": "Thu, 16 Jul 2026 07:50:03 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 07:50:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelByTUVTSV9ZOVpOcm5uV050RURFeTVDejFxNDZ2cUNQd0NzYV9kUzBSVnlWa01yTjdPQVpxUV9NNUFrd256bHFxall1NE9TSHkxamhsT1dWTGY4NnljRFUtLXdCYmZjZlJicG12cGhiM21WMzNtQU5IV1oxRWVtVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
+      },
+      {
+        "title": "에스티팜, 유럽 글로벌 제약사와 119억 규모 원료의약품 공급 계약 체결 - 인사이트코리아",
+        "source": "인사이트코리아",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:인사이트코리아+10 | 최신:Thu, 16 Jul 2026 08:16:59 GMT+5 | 키워드+25 | 순위:112위+2",
+        "snippet": "에스티팜, 유럽 글로벌 제약사와 119억 규모 원료의약품 공급 계약 체결 - 인사이트코리아 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "에스티팜, 유럽 글로벌 제약사와 119억 규모 원료의약품 공급 계약 체결 - 인사이트코리아",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "에스티팜, 유럽 글로벌 제약사와 119억 규모 원료의약품 공급 계약 체결 - 인사이트코리아",
+        "content_length": 50,
+        "published_time": "Thu, 16 Jul 2026 08:16:59 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 08:16:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VN2pJOVRqQWFtd0VYVUZxUlJ5aF9ROTFGMEYxbERQRTlZdGxoU0sxQ1h0M2RyMlA4cFRLWEdqQzcwSWtXTm42bHVwNW92RktsU1AtR2xLN2RzUUFMZVBBTUtVWWtxcE1UZUdSYWFkRE5mZjTSAXdBVV95cUxQcExQaHo2eDRVV2JFNVhlb0t3cDhzbmQ3YTBIb3FFb2hhLXpFbXl0WVNJV2xDVmN6X1cyMmcwRmhuOFdsZ09EMTA2WXRMSFFpalg2ZlpUMTNuU09CcVdBOG05Sm5Oam93NXNHQXJ3WXRoMjBvQ1M0aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.insightkorea.co.kr"
+      },
+      {
+        "title": "직장 내 괴롭힘 사망 간호사 49재 개최…“병원 공식사과해야” - 청년의사",
+        "source": "청년의사",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:Thu, 16 Jul 2026 20:56:36 GMT+5 | 키워드+25 | 순위:183위+2",
+        "snippet": "직장 내 괴롭힘 사망 간호사 49재 개최…“병원 공식사과해야” - 청년의사 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "직장 내 괴롭힘 사망 간호사 49재 개최…“병원 공식사과해야” - 청년의사",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "직장 내 괴롭힘 사망 간호사 49재 개최…“병원 공식사과해야” - 청년의사",
+        "content_length": 41,
+        "published_time": "Thu, 16 Jul 2026 20:56:36 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 20:56:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Z2lCajZsM1pBbFBWOVZvMUhaNVNHUmtsTFdYa2RpSUttd242T1lPdlRSX0lrTG1jbmo1ZXl6Y0FKeDh4dEJiVEkxdEdlVjlKcG04OXlCTWhEZkdhSVlkRXNzWUF4NU5GNTBxSFlrbC3SAXNBVV95cUxNNGVkUzVyMHFsMXhuZjYta0J0dFhBck9NNHd5d21McTVZTHhhWk5GMVZBWktEVHRCcHVTRUxDV1dYLUE3bmUzNTZaSTlMRVcwa2RXUjVxdG9UYmxEX29CMWlpeDlVd0dlN0VCSDJMcUtSTnpV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.docdocdoc.co.kr"
+      },
+      {
+        "title": "“더 보장하되 더 아낀다”…복지부 ‘건보 재원 배분’ 우선순위 시험대 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Thu, 16 Jul 2026 07:36:00 GMT+5 | 키워드+5 | 순위:109위+2",
+        "snippet": "“더 보장하되 더 아낀다”…복지부 ‘건보 재원 배분’ 우선순위 시험대 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "“더 보장하되 더 아낀다”…복지부 ‘건보 재원 배분’ 우선순위 시험대 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "“더 보장하되 더 아낀다”…복지부 ‘건보 재원 배분’ 우선순위 시험대 - 조선비즈 - Chosunbiz",
+        "content_length": 57,
+        "published_time": "Thu, 16 Jul 2026 07:36:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 07:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUlJEVFJaUGlCYkNob2lxUU5iY1VZT29GekZpNzVVOGQ1SUYwMEQ1dlNQdThuaDVrWVBNamVWY2ZBUW5NZjZEbnJ6TW1hRXdHZ1VsaUFKdmxOVmNpcTNWenNRUjVQbmRYdENHUzRxS09zemUwQVp3VnI5aWxZN0EtMXdTSG1xOTkzQi1qNzJzcW5qRDZFa0JR0gGrAUFVX3lxTE54M3JfVU9mZ3pHRjhzbkJZWWhvdWQwNjhYcmowNmZZdnRfNGRKLTdtSlV5bzQ5ZllkYi1pM1FFVEx3SW1vTTQxZTcwRllBeldxSDc3dW8wM2l0UThYblRrSGR3M0MxMG8tTG43YnhoNktxRHAzR1ZiUURURzhxemNnbWJGbjlUclR5anZoalBaVmhVcmk4RnlIVkZnN1A3VGFtckR0NUhfd094RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "식약처, 의약품 제조업자 등의 준수 위반 정우신약(주) '정우이진탕산(허가번호: 제858호) 등 4품목에 제조업무정지 1개월의 행정처분 - 데일리메디팜",
+        "source": "데일리메디팜",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:데일리메디팜+10 | 최신:Fri, 17 Jul 2026 03:47:30 GMT+5 | 키워드+20 | 순위:206위+2",
+        "snippet": "식약처, 의약품 제조업자 등의 준수 위반 정우신약(주) '정우이진탕산(허가번호: 제858호) 등 4품목에 제조업무정지 1개월의 행정처분 - 데일리메디팜 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "식약처, 의약품 제조업자 등의 준수 위반 정우신약(주) '정우이진탕산(허가번호: 제858호) 등 4품목에 제조업무정지 1개월의 행정처분 - 데일리메디팜",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "식약처, 의약품 제조업자 등의 준수 위반 정우신약(주) '정우이진탕산(허가번호: 제858호) 등 4품목에 제조업무정지 1개월의 행정처분 - 데일리메디팜",
+        "content_length": 84,
+        "published_time": "Fri, 17 Jul 2026 03:47:30 GMT",
+        "modified_time": "",
+        "time": "Fri, 17 Jul 2026 03:47:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WbFNkMUx6VGpVcUF3Sk5XSVI5dWtQWVRCNGNQNnRrblg4OXV2ejdyaXBFS0l1Rlh5djl2N3RCdGxua19wYTBUdC1tbnFuX242TG84M3VmQjRlbTlzTHM2UFRoTGd0N1JiNWhpb1I4bDQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.dailymedipharm.com"
+      },
+      {
+        "title": "루닛, 글로벌 AI 컨소시엄 합류로 신약개발 지원 - 데일리팜",
+        "source": "데일리팜",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:데일리팜+10 | 최신:Thu, 16 Jul 2026 15:30:05 GMT+5 | 키워드+20 | 순위:211위+2",
+        "snippet": "루닛, 글로벌 AI 컨소시엄 합류로 신약개발 지원 - 데일리팜 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "루닛, 글로벌 AI 컨소시엄 합류로 신약개발 지원 - 데일리팜",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "루닛, 글로벌 AI 컨소시엄 합류로 신약개발 지원 - 데일리팜",
+        "content_length": 34,
+        "published_time": "Thu, 16 Jul 2026 15:30:05 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 15:30:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hdDU3RkxxTUNGRnF6NGhUTjk0WUFLcW5MN3J1alUzQ0FuaXBNWUpsUUM2RDNDc2stRmRwZy0tM0h0MkpURXFCU2RXcjRNWDYxMEc1OWN3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.dailypharm.com"
+      },
+      {
+        "title": "루닛, 글로벌 신약개발 AI 컨소시엄 합류 - 청년의사",
+        "source": "청년의사",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:Thu, 16 Jul 2026 07:28:40 GMT+5 | 키워드+20 | 순위:213위+2",
+        "snippet": "루닛, 글로벌 신약개발 AI 컨소시엄 합류 - 청년의사 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "루닛, 글로벌 신약개발 AI 컨소시엄 합류 - 청년의사",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "루닛, 글로벌 신약개발 AI 컨소시엄 합류 - 청년의사",
+        "content_length": 30,
+        "published_time": "Thu, 16 Jul 2026 07:28:40 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 07:28:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PZDJqcldkLXh2SlRZc21xby1SdDJsck0wXzR1elZXTzlIU25nNXh1TC1NRlBfVzFqWFRma0RzVXhueThJWDZ0cllucUswazdLa1E5UHV0dUJLcGJfdkZTWGlWTHVWTHBibHdVQnlWWdIBc0FVX3lxTFAzZ2ZhWFVMQ3MxSi1GUXdPZUd6SEtmME1iSUt4U19ybUNacmM5WER2NWxyWk14Rk9OcVR6S3JFUzgzcGdubE5rNnZMT2ZBNHlqRHdQSkV4aHdPVmhPZFJQZGFDaWdSMnQ4Z1dzekNKZm9ONG8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.docdocdoc.co.kr"
+      },
+      {
+        "title": "루닛, 글로벌 신약개발 AI 컨소시엄 합류…AI 바이오마커 협력 확대 - 테크월드",
+        "source": "테크월드",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:테크월드+10 | 최신:Thu, 16 Jul 2026 07:27:39 GMT+5 | 키워드+20 | 순위:214위+2",
+        "snippet": "루닛, 글로벌 신약개발 AI 컨소시엄 합류…AI 바이오마커 협력 확대 - 테크월드 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "루닛, 글로벌 신약개발 AI 컨소시엄 합류…AI 바이오마커 협력 확대 - 테크월드",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "루닛, 글로벌 신약개발 AI 컨소시엄 합류…AI 바이오마커 협력 확대 - 테크월드",
+        "content_length": 45,
+        "published_time": "Thu, 16 Jul 2026 07:27:39 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 07:27:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tSnh3aHFSN29FZnBrbU0yX0cwQWdiVlV0TU42el9lWTJVbF9LOGE4Qm5KbHdYa1VxdjZfR2Y2TjlVeGQ0dVFzaDA1NksyNHlSTm5XRXJHeU1xN0xnWDMzNHF4dTdxQk9X?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.epnc.co.kr"
+      },
+      {
+        "title": "[헬스 HOT 뉴스] 루닛, '신약개발 AI 컨소시엄' 합류…\"글로벌 8개사와 역량 결합\" - 비즈월드",
+        "source": "비즈월드",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:비즈월드+10 | 최신:Thu, 16 Jul 2026 07:14:00 GMT+5 | 키워드+20 | 순위:215위+2",
+        "snippet": "[헬스 HOT 뉴스] 루닛, '신약개발 AI 컨소시엄' 합류…\"글로벌 8개사와 역량 결합\" - 비즈월드 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[헬스 HOT 뉴스] 루닛, '신약개발 AI 컨소시엄' 합류…\"글로벌 8개사와 역량 결합\" - 비즈월드",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[헬스 HOT 뉴스] 루닛, '신약개발 AI 컨소시엄' 합류…\"글로벌 8개사와 역량 결합\" - 비즈월드",
+        "content_length": 57,
+        "published_time": "Thu, 16 Jul 2026 07:14:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 07:14:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FQkpIV0pJdWZzM19XOGNfSmJQcVRxOXh2Z1g1akoxdUFvaVZvWm1vaEZobHRfQkVSZU5LT0dQMzRHMVRzR2VmMC1kNlpsRFJXVkR0SXhGRjNhWnloeS13UHlhbnZPNEdlbW1N?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.bizwnews.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        31
+      ],
+      [
+        "식약처",
+        19
+      ],
+      [
+        "백신",
+        15
+      ],
+      [
+        "허가",
+        10
+      ],
+      [
+        "한약",
+        7
+      ],
+      [
+        "약가",
+        6
+      ],
+      [
+        "심사",
+        5
+      ],
+      [
+        "급여",
+        5
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "비만",
+        4
+      ],
+      [
+        "임상",
+        4
+      ],
+      [
+        "수출",
+        4
+      ],
+      [
+        "제네릭",
+        3
+      ],
+      [
+        "CDMO",
+        3
+      ],
+      [
+        "바이오시밀러",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "실사",
+        1
+      ],
+      [
+        "원료의약품",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "데일리팜",
+        21
+      ],
+      [
+        "Vietnam.vn",
+        10
+      ],
+      [
+        "네이트",
+        9
+      ],
+      [
+        "v.daum.net",
+        7
+      ],
+      [
+        "의약뉴스",
+        6
+      ],
+      [
+        "의학신문",
+        6
+      ],
+      [
+        "뉴스1",
+        5
+      ],
+      [
+        "메디팜스투데이",
+        4
+      ],
+      [
+        "히트뉴스",
+        4
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "직썰",
+        3
+      ],
+      [
+        "헬스코리아뉴스",
+        3
+      ],
+      [
+        "약업신문",
+        3
+      ],
+      [
+        "약사공론",
+        3
+      ],
+      [
+        "뉴시스",
+        3
+      ]
+    ]
+  },
+  "english": {
+    "total": 135,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 10
+    },
+    "top_articles": [
+      {
+        "title": "Merck gets US FDA nod for first-in-its-class oral cholesterol drug - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 16 Jul 2026 15:53:36 GMT+5 | 키워드+30 | 순위:321위+2",
+        "snippet": "Merck gets US FDA nod for first-in-its-class oral cholesterol drug - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Merck gets US FDA nod for first-in-its-class oral cholesterol drug - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Merck gets US FDA nod for first-in-its-class oral cholesterol drug - Reuters",
+        "content_length": 76,
+        "published_time": "Thu, 16 Jul 2026 15:53:36 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 15:53:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLVVrMEhiYUJsRW5aTnhRMjJsMHpYTEdsUC00dzdUNUNGYXljTzNTeEc3Nmw2ZkV5RmZHRmhabHBub0FhZDVWTW83dmUwMkJoaGJYT1dmZndsUmNjenlQOWxFQzF4engwMktlb1pEQzJHU0ZQelhoVTQ0aFZtX3AyY1ozOEF1MmgzX3JvQlVfWENtcGJFYXppS0l1cmRQZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "FDA Advisory No.2026-0763 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SCENT THERAPY PH EAU DE PARFUM (PEACE)” - Food and Drug Administration - fda.gov.ph",
+        "source": "fda.gov.ph",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:fda.gov.ph+30 | 최신:Fri, 17 Jul 2026 01:44:59 GMT+5 | 키워드+30 | 순위:144위+2",
+        "snippet": "FDA Advisory No.2026-0763 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SCENT THERAPY PH EAU DE PARFUM (PEACE)” - Food and Drug Administration - fda.gov.ph | 요약문 생성 불가 | 요약문 ",
+        "summary_lines": [
+          "FDA Advisory No.2026-0763 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SCENT THERAPY PH EAU DE PARFUM (PEACE)” - Food and Drug Administration - fda.gov.ph",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "FDA Advisory No.2026-0763 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “SCENT THERAPY PH EAU DE PARFUM (PEACE)” - Food and Drug Administration - fda.gov.ph",
+        "content_length": 201,
+        "published_time": "Fri, 17 Jul 2026 01:44:59 GMT",
+        "modified_time": "",
+        "time": "Fri, 17 Jul 2026 01:44:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd2h6OTB1Z3IxUzNYc2FQZHNjSGE5UmNZU083YjBmMGRGclBkbWpwUWVJVHZMdzZHdjNiLWRkdGZ1MHEwazV0SmItSDlENHZfVWFZOGplWVJjLW9mMEJyMnVaNWxXYkxlYVZ2OWx1Rngxc09ENlJlQlctcWtOa1FMcmJ1Uk5wcHkyT1JVZGs5TFFHNDlLN3pkNmJCOWtqaDctYVFTYmd3MXQyZ2pfU2xobktkMVNGNVN4bTI2U2c3QnVNTmlMMFZxR2VDUkFNbVlxQkdJXzRhVWVpTVhVbE9QN0FnYjJXMlNMeTNPTG9wRWtFUnlOM1FDX010d1kzcXNJNFhVMQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.fda.gov.ph"
+      },
+      {
+        "title": "Merck Secures FDA Approval for Powerful New Cholesterol Pill - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "importance": 62,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Bloomberg.com+30 | 최신:Thu, 16 Jul 2026 11:03:14 GMT+5 | 키워드+25 | 순위:138위+2",
+        "snippet": "Merck Secures FDA Approval for Powerful New Cholesterol Pill - Bloomberg.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Merck Secures FDA Approval for Powerful New Cholesterol Pill - Bloomberg.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Merck Secures FDA Approval for Powerful New Cholesterol Pill - Bloomberg.com",
+        "content_length": 76,
+        "published_time": "Thu, 16 Jul 2026 11:03:14 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 11:03:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2lvZFJaSjRUR1hFNW1YbTU1dUFpNk5rLUlvOFZGeS12RVBvTW41RkFVd09NRTRLaHhab0JiaXhBa1JkNUVIZHZTZXY2dzl1dzdYUVY0eng0LWtvQ0JBQ1lxaW9EM0dkUDYya3lQQVg1WEtQTnl3NTAwSk1IYUlnNTd3NXBLNHRmS3IwbWd2d2U5WDVDT3pFZW1TcnlzMFoyaGE3QlJXdHh4XzhFWFhoVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.bloomberg.com"
+      },
+      {
+        "title": "Kalshi to allow bets on clinical trials, FDA decisions - Reuters",
+        "source": "Reuters",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 16 Jul 2026 16:06:00 GMT+5 | 키워드+20 | 순위:371위+2",
+        "snippet": "Kalshi to allow bets on clinical trials, FDA decisions - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Kalshi to allow bets on clinical trials, FDA decisions - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Kalshi to allow bets on clinical trials, FDA decisions - Reuters",
+        "content_length": 64,
+        "published_time": "Thu, 16 Jul 2026 16:06:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 16:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVRoRHYyMk9HNTJuZ2VIZ085LWZTaVhFWWZUS1JfOFhkTXFHMEtROGlienlyaWg1LWVVTk9iT3lLYktoYS1YLXVTRjdzS2oyS2RKZ1VSUS1sUldDWVNLa2NOV1ZybDYxU1EyTzJYZFZaLTVTZUtmVmRhNE1ybmFXMTJfSnZRMnFXYm85Mzk2OGlVakpTNFZRMlhtTl9VWkRwbHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "Vanda Pharmaceuticals Announces EMA Positive Opinion for Orphan Drug Designation of Imsidolimab for Generalized Pustular Psoriasis - A Milestone Recognition of GPP as a Distinct Rare Disease in Europe - PR Newswire",
+        "source": "PR Newswire",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:PR Newswire+10 | 최신:Thu, 16 Jul 2026 20:30:00 GMT+5 | 키워드+30 | 순위:323위+2",
+        "snippet": "Vanda Pharmaceuticals Announces EMA Positive Opinion for Orphan Drug Designation of Imsidolimab for Generalized Pustular Psoriasis - A Milestone Recognition of GPP as a Distinct Rare Disease in Europe - PR Newswire | 요약문",
+        "summary_lines": [
+          "Vanda Pharmaceuticals Announces EMA Positive Opinion for Orphan Drug Designation of Imsidolimab for Generalized Pustular Psoriasis - A Milestone Recognition of GPP as a Distinct Rare Disease in Europe - PR Newswire",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Vanda Pharmaceuticals Announces EMA Positive Opinion for Orphan Drug Designation of Imsidolimab for Generalized Pustular Psoriasis - A Milestone Recognition of GPP as a Distinct Rare Disease in Europe - PR Newswire",
+        "content_length": 214,
+        "published_time": "Thu, 16 Jul 2026 20:30:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 20:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNVm0tcC1nYld0X1ktWVlGaGxDOGRmZl9SckdlUDFiVnRMb0FRR3MweVVHbjc5b0xjRExyRWNJLUZsY3QtNTlKVWd0cjZyMDRsUkk3TTQxV09iSDRIYXc4Qk9IN3NHaWltRmpIVDFGSjR1WjUxLW0taU1EajdRQVQzLXQ5ZGpOXzF2RUZXWVJudE4wOUU4QzFGWjJtZUZnRW9adTJjcFQ5RkFfLVpURk5yc09iSHdMZGxIZWNPRUlaVU5HX3dvMjJ4MHhrZ3htSFZVcWhWVzVMS2ZGT3Vza1pXSl9OOFNsdGVDNEVCUXpqMVF0TjAyb0wwTmRRXzZTckJ1UGVFQUNiVGtNLUh5bGY5dGhWLUF2UG1iVmVzTEVxVzNNRHhabnkyVVRTRm9yX19uZnpVQ2hqR1dTOWZTNVpSOWltZVkzTzlRZFVNcHNlVE5iZjZIU1gzNzFkUnZkNy1oNjJJcUxFYU01eW9MTkQ2dA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.prnewswire.com"
+      },
+      {
+        "title": "FDA approves Merck’s oral PCSK9 drug, a first - STAT",
+        "source": "STAT",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:STAT+10 | 최신:Thu, 16 Jul 2026 13:06:07 GMT+5 | 키워드+30 | 순위:324위+2",
+        "snippet": "FDA approves Merck’s oral PCSK9 drug, a first - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "FDA approves Merck’s oral PCSK9 drug, a first - STAT",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "FDA approves Merck’s oral PCSK9 drug, a first - STAT",
+        "content_length": 52,
+        "published_time": "Thu, 16 Jul 2026 13:06:07 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 13:06:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGM0WmhnOHg1aHlKUk9RdHFYYmk3dDYtZUpRbDk3d20tNHhmbzBtbFZDV1RTdXJCSUVXdmNmU0x3MUxQc0lFaTlPVUo3NXlDc0JQZ2pqdGRWSnZBMmw5Yzh0MGpZSkN4Q2N2ZnNpOC14TlV0bVNEM29VdXBINVlGNG9UdWRUNS1fVWZwamRHZU5heEliS0M1ZGtadw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.statnews.com"
+      },
+      {
+        "title": "Small molecules still do the heavy lifting in drug development - The Pharma Letter",
+        "source": "The Pharma Letter",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:The Pharma Letter+10 | 최신:Thu, 16 Jul 2026 08:49:03 GMT+5 | 키워드+30 | 순위:329위+2",
+        "snippet": "Small molecules still do the heavy lifting in drug development - The Pharma Letter | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Small molecules still do the heavy lifting in drug development - The Pharma Letter",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Small molecules still do the heavy lifting in drug development - The Pharma Letter",
+        "content_length": 82,
+        "published_time": "Thu, 16 Jul 2026 08:49:03 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 08:49:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlhGaEVJVFdGX2NxeW8wVzJWWDhzOW9yWERVVmF2Nzg5X0Rla0hHNk05OGZpY3FqblVHMWwtN2l6QkRIX2ZjRXFrME9sOFV5bzRNU1hLdWYxb2JFUHItcUNndHVENXc0VjJPdHVEc0U0YVAtcENSeVBmd3U4WkZkU2lpMA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.thepharmaletter.com"
+      },
+      {
+        "title": "Korea Denies GSK’s Severe Asthma Drug Orphan Status - NAVLIN DAILY",
+        "source": "NAVLIN DAILY",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NAVLIN DAILY+10 | 최신:Thu, 16 Jul 2026 18:21:29 GMT+5 | 키워드+30 | 순위:334위+2",
+        "snippet": "Korea Denies GSK’s Severe Asthma Drug Orphan Status - NAVLIN DAILY | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Korea Denies GSK’s Severe Asthma Drug Orphan Status - NAVLIN DAILY",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Korea Denies GSK’s Severe Asthma Drug Orphan Status - NAVLIN DAILY",
+        "content_length": 66,
+        "published_time": "Thu, 16 Jul 2026 18:21:29 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 18:21:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMWNyMW0xem9uSUs0aWVIc1VONzI0VkhYOWlpTVNOU2ZBbEdCdURkYWxoSUpFVV82dWl0NDlBNkotdnN4ZGtYR05kSFFvd0Fmd3Q3cDJ1d2JxSEhOaENVTWczN1FRYWNXZmhxQWpkY293ajFNQkFQaHgtR2hPcnJDbXhjNjFmek9lVVEtd2NRR3FyWkNOZHJuYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.navlindaily.com"
+      },
+      {
+        "title": "Amylyx nears pivotal endocrine drug study readout - STAT",
+        "source": "STAT",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:STAT+10 | 최신:Thu, 16 Jul 2026 10:35:33 GMT+5 | 키워드+30 | 순위:335위+2",
+        "snippet": "Amylyx nears pivotal endocrine drug study readout - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Amylyx nears pivotal endocrine drug study readout - STAT",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Amylyx nears pivotal endocrine drug study readout - STAT",
+        "content_length": 56,
+        "published_time": "Thu, 16 Jul 2026 10:35:33 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 10:35:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHQtQ0VFa2d2Rm8zZFVFRVgxM29kYU1EMEVMbXhweFFZT3dtMmp5Vjl3QUFoMlU4RU8tSzJESURnalg1ZkZTODZBVXpocWtEbHZvOHg4SnIwd2cxSURscWFLaHE5WUQtSFdlUlB2QzFONzNfWFdFb2E2ejNFTExrRE9sNVd4cWZI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.statnews.com"
+      },
+      {
+        "title": "Swiss firm Swixx registers new drug for lymphoma in Russian market - The Pharma Letter",
+        "source": "The Pharma Letter",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:The Pharma Letter+10 | 최신:Thu, 16 Jul 2026 14:55:51 GMT+5 | 키워드+30 | 순위:336위+2",
+        "snippet": "Swiss firm Swixx registers new drug for lymphoma in Russian market - The Pharma Letter | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Swiss firm Swixx registers new drug for lymphoma in Russian market - The Pharma Letter",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Swiss firm Swixx registers new drug for lymphoma in Russian market - The Pharma Letter",
+        "content_length": 86,
+        "published_time": "Thu, 16 Jul 2026 14:55:51 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 14:55:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUy1JLVBVdnFFRURHeUhqSWU3YzlYbTI0RkVVYUx1X0loSEV2cmlsUVp6RTktOVZVQ2NtU0pJdU5zVFBXZ2RQSVdPcXREMkFYNGE2TlZxZ0d0ZHpKWGViM004dl9nRHR3TDZkQTFrM01kazZ6LTE0NWFTZ2h6SnZJczRDbXFVckdOcFdtdGdOcU83LWx2a2Iyck5uUWVzSHhE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.thepharmaletter.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        28
+      ],
+      [
+        "approval",
+        12
+      ],
+      [
+        "clinical trial",
+        8
+      ],
+      [
+        "manufacturing",
+        8
+      ],
+      [
+        "GLP-1",
+        4
+      ],
+      [
+        "pricing",
+        3
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "openPR.com",
+        7
+      ],
+      [
+        "Reuters",
+        5
+      ],
+      [
+        "The Pharma Letter",
+        4
+      ],
+      [
+        "NAVLIN DAILY",
+        4
+      ],
+      [
+        "ad-hoc-news.de",
+        4
+      ],
+      [
+        "Indian Pharma Post",
+        4
+      ],
+      [
+        "PR Newswire",
+        3
+      ],
+      [
+        "STAT",
+        3
+      ],
+      [
+        "Pharmaceutical Commerce",
+        3
+      ],
+      [
+        "AOL.com",
+        3
+      ],
+      [
+        "BioSpace",
+        3
+      ],
+      [
+        "finance.biggo.com",
+        3
+      ],
+      [
+        "Manufacturing Chemist",
+        3
+      ],
+      [
+        "Kalkine Media",
+        2
+      ],
+      [
+        "Forbes",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 113,
+    "languages": {
+      "French / 프랑스어": 8,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 8,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 5,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 4,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 7,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 7,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 7,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 5,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Da Nang Geleneksel Tıp Hastanesi: Tıbbi muayene ve tedavi kalitesini artırmak için Doğu ve Batı tıbbını birleştiriyor. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 16 Jul 2026 17:08:21 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "Da Nang Geleneksel Tıp Hastanesi: Tıbbi muayene ve tedavi kalitesini artırmak için Doğu ve Batı tıbbını birleştiriyor. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Da Nang Geleneksel Tıp Hastanesi: Tıbbi muayene ve tedavi kalitesini artırmak için Doğu ve Batı tıbbını birleştiriyor.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Da Nang Geleneksel Tıp Hastanesi: Tıbbi muayene ve tedavi kalitesini artırmak için Doğu ve Batı tıbbını birleştiriyor. - Vietnam.vn",
+        "content_length": 131,
+        "published_time": "Thu, 16 Jul 2026 17:08:21 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 17:08:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONU9qWjZ6cU5RdHlIeDI3ODdfYW95dTYyV0VVX3BEcjQ5TndiMlJ4LU43YkU4ZmhyTTV2MVYzLXdma3Q0c3JxX1NTVWtBeTFub2NyNU85YTVRa0kxeGlRRGdpVXNYcHdIS0IyTTV3MHNFdGtBd1FBczV2Vklob2JLSGdvc2paVjZwdzh3Ym1fc3h0UGpVU0VyaHluaFhqZ0xRUml6YUs1aHJFd3lDcWdzSG9Saw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "5 צמחי מרפא נפוצים שעוזרים לאמהות חדשות לייצר חלב אם מהר יותר. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 16 Jul 2026 08:36:24 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "5 צמחי מרפא נפוצים שעוזרים לאמהות חדשות לייצר חלב אם מהר יותר. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "5 צמחי מרפא נפוצים שעוזרים לאמהות חדשות לייצר חלב אם מהר יותר.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "5 צמחי מרפא נפוצים שעוזרים לאמהות חדשות לייצר חלב אם מהר יותר. - Vietnam.vn",
+        "content_length": 75,
+        "published_time": "Thu, 16 Jul 2026 08:36:24 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 08:36:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQenUzY0FhVzFVUjNFbGZyZ1k4dGRNa043cGU0U3g5VER4MDlsME9KYUM5aHA5M3JyRWpkV3ItajlBZkRGNHlZZi1ZaDQwanh2TjBGb0E1R2xyVXRhbEdxWnNUVkUxLUxUQUdDenVHT0sxX3NsY0pFTVlwUFJNU1M4TEd6ZWp5eXZkdEkzeXZFSHk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "TP.HCM xử phạt 11 cơ sở dược, mỹ phẩm liên quan chất lượng và bán thuốc sai quy định - Thế giới tiếp thị",
+        "source": "Thế giới tiếp thị",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Thế giới tiếp thị+10 | 최신:Fri, 17 Jul 2026 03:15:00 GMT+5 | 키워드+30 | 순위:62위+2",
+        "snippet": "TP.HCM xử phạt 11 cơ sở dược, mỹ phẩm liên quan chất lượng và bán thuốc sai quy định - Thế giới tiếp thị | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "TP.HCM xử phạt 11 cơ sở dược, mỹ phẩm liên quan chất lượng và bán thuốc sai quy định - Thế giới tiếp thị",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "TP.HCM xử phạt 11 cơ sở dược, mỹ phẩm liên quan chất lượng và bán thuốc sai quy định - Thế giới tiếp thị",
+        "content_length": 104,
+        "published_time": "Fri, 17 Jul 2026 03:15:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 17 Jul 2026 03:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2hmc0NrYUxGX1dnMjhpcXlwQ2llU1k3aTYxM19LMjZncElJUE9OcUJjWmNya1Ezb2d2T3NlV0FoeVpTcnhUVG83dmxzRktXa2FId21LYkxvUmtoRG5qa0tUeGY5Y0FmMUM0a3lIYklWWmRzMVhpYXEzcUxHZUx1U3FMU2NXS0cyMjViTFRTUGRZcWZ0TDFFN1UwSzk4VFdWU0psVDNzMTRDMGhCeV83amE1OU0xY2VoWW1mdVQyaXVuZ2FwUVRnLXF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://thegioitiepthi.danviet.vn"
+      },
+      {
+        "title": "Pourquoi les grands groupes pharmaceutiques ne produiront jamais de médicaments anti-âge bon marché - Futuro Prossimo",
+        "source": "Futuro Prossimo",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Futuro Prossimo+10 | 최신:Thu, 16 Jul 2026 15:16:08 GMT+5 | 키워드+20 | 순위:12위+10",
+        "snippet": "Pourquoi les grands groupes pharmaceutiques ne produiront jamais de médicaments anti-âge bon marché - Futuro Prossimo | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Pourquoi les grands groupes pharmaceutiques ne produiront jamais de médicaments anti-âge bon marché - Futuro Prossimo",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Pourquoi les grands groupes pharmaceutiques ne produiront jamais de médicaments anti-âge bon marché - Futuro Prossimo",
+        "content_length": 117,
+        "published_time": "Thu, 16 Jul 2026 15:16:08 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 15:16:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUpEczE0OUpsWU1sRjhJYjBqa1J5aXVlb1hKbHhWRDlnNi1nS0JRVG5lUVlndXM5UTZOVlRnano3azN1UDdjd1RSQjNFTnV5aXFtYTNUb1I4SFBteVcwYktsNU1DSjR1N2RRZ29uTkVFOFhiZFBpYWpzU2VTQUpXZlBMZnBEaG9PT241SnBUeG5wT1JuMmpXa1lvMElhWkgwcEZpRkxNWnFCazFnQUdB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://fr.futuroprossimo.it"
+      },
+      {
+        "title": "Atelier de dialogue avec les entreprises impliquées dans la production et le commerce de la médecine traditionnelle. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 16 Jul 2026 13:36:27 GMT+5 | 키워드+20 | 순위:14위+10",
+        "snippet": "Atelier de dialogue avec les entreprises impliquées dans la production et le commerce de la médecine traditionnelle. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Atelier de dialogue avec les entreprises impliquées dans la production et le commerce de la médecine traditionnelle.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Atelier de dialogue avec les entreprises impliquées dans la production et le commerce de la médecine traditionnelle. - Vietnam.vn",
+        "content_length": 129,
+        "published_time": "Thu, 16 Jul 2026 13:36:27 GMT",
+        "modified_time": "",
+        "time": "Thu, 16 Jul 2026 13:36:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSG81ejAyck5YLUItSWdKMFNWYlY1ckFBTmcxQ2I5dUJ5dk5xYkVwWkhoVkEzbk81OVFDNjdwNThvWW00Z0d3SXVlOEF1OF9ydHo3NlN6ZXhkOUNDRlE3UUZfY2VhaUFEZFpyNDVTeFlHYzUwMDJvRlExYzY2dGx2VkRYUHhHMGZOVnF4WldjVnJPaXIxdUNROVd5Mm9rOEtiTlMtMlhrc0U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        21
+      ],
+      [
+        "Whalesbook",
+        5
+      ],
+      [
+        "The Watcher Post",
+        4
+      ],
+      [
+        "El Globalfarma",
+        3
+      ],
+      [
+        "手机网易网",
+        3
+      ],
+      [
+        "Spherical Insights",
+        2
+      ],
+      [
+        "IM Farmacias",
+        2
+      ],
+      [
+        "Panorama Farmacêutico",
+        2
+      ],
+      [
+        "Wiadomości Handlowe",
+        2
+      ],
+      [
+        "新浪财经",
+        2
+      ],
+      [
+        "TradingKey",
+        2
+      ],
+      [
+        "facebook.com",
+        2
+      ],
+      [
+        "Dainik Bhaskar",
+        2
+      ],
+      [
+        "ביזפורטל",
+        2
+      ],
+      [
+        "Futuro Prossimo",
+        1
+      ]
+    ]
+  }
+}
