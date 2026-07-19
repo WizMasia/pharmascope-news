@@ -1,0 +1,252 @@
+{
+  "date": "2026-07-19",
+  "total_articles": 300,
+  "language_breakdown": {
+    "korean": {
+      "total": 101,
+      "categories": {
+        "의약품": 16,
+        "의약산업": 11,
+        "의약정책": 3,
+        "의약단체": 7,
+        "의약관련정부기관": 5,
+        "의료현장": 21,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 10
+      }
+    },
+    "english": {
+      "total": 117,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 16,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 82,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 6,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    { "keyword": "신약", "count": 11 },
+    { "keyword": "임상", "count": 3 },
+    { "keyword": "R&D", "count": 3 },
+    { "keyword": "비만", "count": 2 },
+    { "keyword": "허가", "count": 2 },
+    { "keyword": "약가", "count": 2 },
+    { "keyword": "백신", "count": 2 },
+    { "keyword": "심사", "count": 1 },
+    { "keyword": "한약", "count": 1 },
+    { "keyword": "항암", "count": 1 },
+    { "keyword": "식약처", "count": 1 }
+  ],
+  "top_en_keywords": [
+    { "keyword": "FDA", "count": 14 },
+    { "keyword": "approval", "count": 8 },
+    { "keyword": "obesity", "count": 6 },
+    { "keyword": "patent", "count": 4 },
+    { "keyword": "vaccine", "count": 3 },
+    { "keyword": "recall", "count": 3 },
+    { "keyword": "GLP-1", "count": 2 },
+    { "keyword": "generic", "count": 2 },
+    { "keyword": "regulation", "count": 2 },
+    { "keyword": "manufacturing", "count": 2 }
+  ],
+  "issues": [
+    {
+      "topic": "글로벌 비만약 모멘텀과 제약주 밸류에이션 재평가",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 16,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de",
+          "importance": 47,
+          "url": "https://www.ad-hoc-news.de"
+        },
+        {
+          "title": "Novo Nordisk stock trades near record levels as obesity drug momentum supports earnings outlook - ad-hoc-news.de",
+          "importance": 47,
+          "url": "https://www.ad-hoc-news.de"
+        },
+        {
+          "title": "SC platforms gain as Korea and global players race to build biosimilars - CHOSUNBIZ - Chosunbiz",
+          "importance": 45,
+          "url": "https://www.chosunbiz.com"
+        },
+        {
+          "title": "Double standard over weight loss drugs hits women especially hard - The Boston Globe",
+          "importance": 47,
+          "url": "https://www.bostonglobe.com"
+        }
+      ],
+      "summary_kr": "비만치료제 모멘텀과 바이오시밀러 확산이 함께 작동하면서, 제약주와 플랫폼 기업의 밸류에이션이 다시 재평가되는 흐름이 이어졌다.",
+      "summary_en": "Obesity-drug momentum and biosimilar expansion continued to re-rate pharma equities and platform plays across markets."
+    },
+    {
+      "topic": "지역필수의료법 하위법령 입법예고와 진료협력체계 구체화",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 39,
+      "key_articles": [
+        {
+          "title": "지역완결형 필수의료 속도…정부, 하위법령 입법예고 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고...진료권별 협력체계·성과평가 기준 마련 - 의학신문",
+          "importance": 37,
+          "url": "https://www.bosa.co.kr"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고...진료권별 진료협력체계 등 구체화 - 라포르시안",
+          "importance": 37,
+          "url": "https://www.rapportian.com"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고…진료협력체계·거점병원 기준 구체화 - 쿠키뉴스",
+          "importance": 37,
+          "url": "https://www.kukinews.com"
+        }
+      ],
+      "summary_kr": "정부가 지역필수의료 체계를 하위법령으로 구체화하면서 진료권별 협력, 거점병원, 성과평가 기준이 본격적으로 제도화되고 있다.",
+      "summary_en": "The government is turning regional essential-care policy into operational rules through sub-legislation, hub-hospital criteria, and performance metrics."
+    },
+    {
+      "topic": "FDA 허가 논쟁과 규제 신뢰성에 대한 경계",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - Princeton Clarion",
+          "importance": 47,
+          "url": "https://www.pdclarion.com"
+        },
+        {
+          "title": "Trump purge at FDA and USDA triggers food safety ‘brain drain’ - FoodNavigator.com",
+          "importance": 42,
+          "url": "https://www.foodnavigator.com"
+        },
+        {
+          "title": "Merck (MRK) Wins FDA Approval For First Once Daily Oral PCSK9 Drug - simplywall.st",
+          "importance": 47,
+          "url": "https://www.simplywall.st"
+        }
+      ],
+      "summary_kr": "FDA 허가와 정치적 압박을 둘러싼 논쟁이 다시 부각되며, 규제 신뢰성과 국제적 파급력 사이의 균형이 핵심 쟁점으로 떠올랐다.",
+      "summary_en": "FDA approval debates and political pressure resurfaced as a core issue, putting regulatory credibility and global spillovers back in focus."
+    },
+    {
+      "topic": "Vietnam Medi-Pharm Expo로 본 신흥시장 전시·통상 연결",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - En mötesplats för inhemska och internationella läkemedels- och medicinsk utrustningsföretag. - Vietnam.vn",
+          "importance": 55,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - Titik pertemuan bagi bisnis farmasi dan peralatan medis domestik dan internasional. - Vietnam.vn",
+          "importance": 50,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - Điểm hẹn của doanh nghiệp dược phẩm và thiết bị y tế trong nước, quốc tế - Báo An Giang Online",
+          "importance": 42,
+          "url": "https://www.angiang.gov.vn"
+        },
+        {
+          "title": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026 - จุดนัดพบสำหรับธุรกิจยาและอุปกรณ์การแพทย์ทั้งในและต่างประเทศ - Vietnam.vn",
+          "importance": 40,
+          "url": "https://www.vietnam.vn"
+        }
+      ],
+      "summary_kr": "베트남 전시회 기사들이 다국어로 확산되며, 의약품·의료기기 유통과 행사 기반 네트워크가 신흥시장 확장 축으로 부각됐다.",
+      "summary_en": "The Vietnam Medi-Pharm Expo spread across multiple languages, highlighting trade fairs and distribution networks as an emerging-market growth channel."
+    },
+    {
+      "topic": "비만약·보험부담·바이오시밀러가 드러낸 접근성·가격 이슈",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Copay assistance is meant to defray patient drug costs. Some insurers keep it instead - Arizona Daily Sun",
+          "importance": 47,
+          "url": "https://www.arizonadailysun.com"
+        },
+        {
+          "title": "Double standard over weight loss drugs hits women especially hard - The Boston Globe",
+          "importance": 47,
+          "url": "https://www.bostonglobe.com"
+        },
+        {
+          "title": "SC platforms gain as Korea and global players race to build biosimilars - CHOSUNBIZ - Chosunbiz",
+          "importance": 45,
+          "url": "https://www.chosunbiz.com"
+        }
+      ],
+      "summary_kr": "환자 부담금, 체형/성별에 따른 비만약 접근성, 바이오시밀러 경쟁이 겹치며 가격과 보장성 이슈가 정책 의제로 재부상했다.",
+      "summary_en": "Patient cost-sharing, access disparities in obesity drugs, and biosimilar competition brought pricing and coverage back to the policy agenda."
+    }
+  ],
+  "cross_language_issues": [
+    { "keyword": "백신", "kr_count": 2, "en_count": 3, "significance": "high" },
+    { "keyword": "허가", "kr_count": 2, "en_count": 8, "significance": "high" },
+    { "keyword": "임상", "kr_count": 3, "en_count": 1, "significance": "medium" }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "허가·비만약 모멘텀은 유지됐지만, 지역필수의료 하위법령과 진료협력체계 이슈가 한국어권에서 더 또렷해졌다.",
+      "다국어권에서는 Vietnam Medi-Pharm Expo 같은 전시·통상성 기사 비중이 높아져 신흥시장 흐름이 드러났다.",
+      "접근성·보험부담·바이오시밀러 가격 이슈가 단순 제품 뉴스보다 더 정책적인 문맥으로 묶였다."
+    ],
+    "changes": [
+      "전일 대비 규제·허가 축은 계속 강세였고, 비만약 밸류에이션 이슈가 투자자 관점에서 더 크게 부각됐다.",
+      "정책 측면에서는 지역필수의료법 하위법령이 본격적으로 세부화되며 한국 내 실무 이슈가 확대됐다."
+    ]
+  },
+  "connections": [
+    "허가·임상·접근성 이슈는 비만약과 바이오시밀러를 통해 하나의 가격/보장성 프레임으로 연결된다.",
+    "전시회·통상·다국어 기사 증가는 신흥시장 진출이 병원/제조/유통의 동시 확장과 결합하고 있음을 보여준다.",
+    "규제 신뢰성 논쟁은 FDA 승인과 정치적 메시지가 시장 밸류에이션에 직접 전이되는 구조를 강화한다."
+  ],
+  "generated_at": "2026-07-19T16:33:47+09:00"
+}

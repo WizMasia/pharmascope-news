@@ -1,0 +1,730 @@
+{
+  "date": "2026-07-19",
+  "total_articles": 300,
+  "language_breakdown": {
+    "korean": {
+      "total": 101,
+      "categories": {
+        "의약품": 16,
+        "의약산업": 11,
+        "의약정책": 3,
+        "의약단체": 7,
+        "의약관련정부기관": 5,
+        "의료현장": 21,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 10
+      }
+    },
+    "english": {
+      "total": 117,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 16,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 82,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 6,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 11
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "심사",
+      "count": 1
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "항암",
+      "count": 1
+    },
+    {
+      "keyword": "식약처",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 14
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "obesity",
+      "count": 6
+    },
+    {
+      "keyword": "patent",
+      "count": 4
+    },
+    {
+      "keyword": "vaccine",
+      "count": 3
+    },
+    {
+      "keyword": "recall",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "Vietnam.vn",
+      "count": 14
+    },
+    {
+      "source": "MSN",
+      "count": 10
+    },
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "데일리팜",
+      "count": 8
+    },
+    {
+      "source": "simplywall.st",
+      "count": 4
+    },
+    {
+      "source": "더구루",
+      "count": 3
+    },
+    {
+      "source": "블로터",
+      "count": 3
+    },
+    {
+      "source": "MEDI:GATE NEWS",
+      "count": 3
+    },
+    {
+      "source": "경제투데이",
+      "count": 2
+    },
+    {
+      "source": "IT타임스",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "ad-hoc-news.de",
+      "count": 29
+    },
+    {
+      "source": "openPR.com",
+      "count": 6
+    },
+    {
+      "source": "IndexBox",
+      "count": 6
+    },
+    {
+      "source": "MSN",
+      "count": 3
+    },
+    {
+      "source": "The Express Tribune",
+      "count": 3
+    },
+    {
+      "source": "Princeton Clarion",
+      "count": 2
+    },
+    {
+      "source": "simplywall.st",
+      "count": 2
+    },
+    {
+      "source": "Travel And Tour World",
+      "count": 2
+    },
+    {
+      "source": "Business Upturn",
+      "count": 2
+    },
+    {
+      "source": "Tekedia",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 16,
+      "keywords": [
+        "news",
+        "ad-hoc",
+        "hoc",
+        "stock",
+        "trades",
+        "supports",
+        "near",
+        "drug",
+        "momentum",
+        "growth"
+      ],
+      "articles": [
+        {
+          "title": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 19 Jul 2026 05:58:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDhpWUFYYVI3X0lCTWRNTm9vYXEzcEJGcEo1MjlscWdRekUzSEFfZmNXR2Z2OVNja1hjRDllWlhBRXB4UGtleFN2WWVsWlZhbVFNYVVqREhWSVZ1eExNaXh1am84ZUd6d1J6eHpGWU1CazJFNHVBWWN6WUNvakdvZU9UQS1yX1BmTzRqRHVScGFvU3NpMTVLeENwekhWc2ZBQmg2NlNqNWpiaHcxT3lKR0VtUHhFWlI2bDM3LV9DaWxfaWE1bmVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Schott Pharma stock trades near recent highs as injectable drug container demand supports growth - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Schott Pharma stock trades near recent highs as injectable drug container demand supports growth - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 05:02:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2p2aUVia2gxVW9XYnZCdVdUcy1aNlpwWG1mMFVPWnJRYkdfbm9MNlBodnZHZ0ljX0lrXzNvRVBIc3hFblpldjV5dkFrWVpzYTBYanY3WW1kd24zUjg0UGkwVDV5NEFVa211WjhGUVk5eXlTMmNBaWtqS1NId2pOajRPbHIyTER1VWEzdkJBQXpMS01Fb1piVmdZT3diOEFyb1A4WXhpenFscjlTa0JVYThNSDNyU3BieVlsSFhPY0hLMlI0RnJQN01oNjc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Novo Nordisk stock trades near record levels as obesity drug momentum supports earnings outlook - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Novo Nordisk stock trades near record levels as obesity drug momentum supports earnings outlook - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 19 Jul 2026 05:40:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObDJ6T2syTlZLd3N4dFJGUll4LUVoWlhyNFVuSFlSUmc4ODRPb0VGSUpHUjZzUS11MFh5bWo0RkNObmV6YXdnYkVDNUV1M2U5emZJZlZvajBHUFpjc2xaV2JnM3BlRVZjdzlLNjBFWWlNNk1Ob2E2LTA3QnhUY1ZuNnp4NEhIamxzUzgzVEhnOERwNG8tNHdtbXNyU09tc0F1RFhRZmRsaWZvcVNVNk1DamNFU2s2MFlRd3ZBSUM1S09NOV9OSGxv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 19 Jul 2026 05:58:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDhpWUFYYVI3X0lCTWRNTm9vYXEzcEJGcEo1MjlscWdRekUzSEFfZmNXR2Z2OVNja1hjRDllWlhBRXB4UGtleFN2WWVsWlZhbVFNYVVqREhWSVZ1eExNaXh1am84ZUd6d1J6eHpGWU1CazJFNHVBWWN6WUNvakdvZU9UQS1yX1BmTzRqRHVScGFvU3NpMTVLeENwekhWc2ZBQmg2NlNqNWpiaHcxT3lKR0VtUHhFWlI2bDM3LV9DaWxfaWE1bmVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AstraZeneca stock steady as oncology and rare disease pipeline supports growth - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "AstraZeneca stock steady as oncology and rare disease pipeline supports growth - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 19 Jul 2026 03:15:58 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlNobkZ2Z0VfMlN3bU1nU0l5M2tPMkJ3bUM0OFg2REJudlJLMnFuTjhfbldSczVyTkhBZGd5N3dPQWM2and2NmFLUkY2Z1ZYQzF6dzJPU3lFbFNCUG9MalBHZkhlSXpDaVlwcnk5MVlpNUJlU3laZEc0TzA2eERxODNnNnhtaVFxSGM3UXdhOHFaRUFsbkkxRnZKY05ROEp5LURMelFwZVBNcUM4S3BGbERNZUpmNHFBTURjLVBxNmdTVlBNWVI4cE5B?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Vertex Pharma stock steadies as cystic fibrosis franchise drives revenue and investors watch next da - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Vertex Pharma stock steadies as cystic fibrosis franchise drives revenue and investors watch next da - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 01:46:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVldfa3EtS21TRmsyaTJ3Ml9xRmpJTTdMS2k5Zkd2U3JQam42Tk5oaTdUdEZ6X3dMNS1HWWVUcUZVLXN0SzcxUHVkc2ZQX2Jqbl9OQ21XWERQbGNqMnVzVkdwZEQydTd5Z1J6M245bk4yYU5CNVcyRHlUYjJhYnI1ZTVhRXBCNnpMZGtOeC04QUw2SEo2SV9aa2JMRXJwN213ZUtCWTVjLUJnbkhSQ0RfeWxGd3RJNDJKaVJGdThfc01XSmMtVG1IdDkybw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Lonza stock trades steady as investors weigh margin trends and biopharma demand - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Lonza stock trades steady as investors weigh margin trends and biopharma demand - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 02:56:13 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUdhQUNVMklWeWtlemJXWG9KbktlM3p5Wm1CaHNORXJDRlBSUVZiSFpQQVBHRjcxZzdfdDd4ckhsX2tkOEY2NFQwWGF6X19laDJ4djdqRTVSZ1FxaXR1SHBoTTRuZWUtSko1emVZcURnQmhyRTN2UWNzcm9YdjFoaFRhOHAzc0JqeUhRTXlzWmlSZEYxdlY0Y05LaGZFSUM0c1FvVmo3OGw2aFQ5dzh4RUpWQzBBTXl6dUZtbU5vYm5vRTNQLUxHMkxBVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Eli Lilly stock trades near record territory as obesity drug momentum supports valuation - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 05:58:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdDhpWUFYYVI3X0lCTWRNTm9vYXEzcEJGcEo1MjlscWdRekUzSEFfZmNXR2Z2OVNja1hjRDllWlhBRXB4UGtleFN2WWVsWlZhbVFNYVVqREhWSVZ1eExNaXh1am84ZUd6d1J6eHpGWU1CazJFNHVBWWN6WUNvakdvZU9UQS1yX1BmTzRqRHVScGFvU3NpMTVLeENwekhWc2ZBQmg2NlNqNWpiaHcxT3lKR0VtUHhFWlI2bDM3LV9DaWxfaWE1bmVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pakistan, China sign over $1bn pharma deals - The News Pakistan",
+          "source": "The News Pakistan",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Pakistan, China sign over $1bn pharma deals - The News Pakistan | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 01:19:34 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWdNYmRoSkwxWjRja3pFbUpWbGpFM3RvdWFYSFZZbmJpaVNtMkNIWXRLZ2Vmc1hoU3dUdDk0VVBRZDIzWC1DeHhlbmlCdzJkUkhBeWhwX2p2U1hkb3hkWC1ab2ZXakdHWGJKMjBRZW1kVmF0RkpmWnRTRndnVkNqa01VRXE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Schott Pharma stock trades near recent highs as injectable drug container demand supports growth - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Schott Pharma stock trades near recent highs as injectable drug container demand supports growth - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 19 Jul 2026 05:02:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd2p2aUVia2gxVW9XYnZCdVdUcy1aNlpwWG1mMFVPWnJRYkdfbm9MNlBodnZHZ0ljX0lrXzNvRVBIc3hFblpldjV5dkFrWVpzYTBYanY3WW1kd24zUjg0UGkwVDV5NEFVa211WjhGUVk5eXlTMmNBaWtqS1NId2pOajRPbHIyTER1VWEzdkJBQXpMS01Fb1piVmdZT3diOEFyb1A4WXhpenFscjlTa0JVYThNSDNyU3BieVlsSFhPY0hLMlI0RnJQN01oNjc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eicosapentaenoic Acid Market Growth Forecast to 2035: Pharmaceutical Demand and Algal Fermentation Drive Expansion - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Eicosapentaenoic Acid Market Growth Forecast to 2035: Pharmaceutical Demand and Algal Fermentation Drive Expansion - News and Statistics - IndexBox | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 19 Jul 2026 00:36:14 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRXRDX2tQQnVQOGxpaGY1QzRjNXRqRlNJTzJ6N09uNDMxQ3gyX3FhX1FwdFJ5a3ltd3J2TUhKOGVVdmlXeUlheERyQk85YUFiMnVmbVRkdDFXWXRXZDFQRVRCQU52ZXRxQ2hSOHdrMXVwS1NaUS13WFBNVWoydFg3VW1WN3U2elotOERnaGFNQzVnY2JzSVI5S05mcm1WSndGVGdQa3kwQ1drOUhLcUM3anYyLWltUGpLeUFDT2k2bkJMemVuY2ZKamJKTVpPNjFYZlNkd0JqR21iVmhOMXV5NjZPNHpVdHdScEgybWVrM0dHLUZoR2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Lonza stock trades steady as investors weigh margin trends and biopharma demand - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Lonza stock trades steady as investors weigh margin trends and biopharma demand - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 19 Jul 2026 02:56:13 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcUdhQUNVMklWeWtlemJXWG9KbktlM3p5Wm1CaHNORXJDRlBSUVZiSFpQQVBHRjcxZzdfdDd4ckhsX2tkOEY2NFQwWGF6X19laDJ4djdqRTVSZ1FxaXR1SHBoTTRuZWUtSko1emVZcURnQmhyRTN2UWNzcm9YdjFoaFRhOHAzc0JqeUhRTXlzWmlSZEYxdlY0Y05LaGZFSUM0c1FvVmo3OGw2aFQ5dzh4RUpWQzBBTXl6dUZtbU5vYm5vRTNQLUxHMkxBVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Qigong: Studie zeigt signifikante Verbesserung bei Brustkrebs-Patientinnen - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 38,
+          "stars": "⭐⭐",
+          "snippet": "Qigong: Studie zeigt signifikante Verbesserung bei Brustkrebs-Patientinnen - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "German / 독일어",
+          "time": "Sun, 19 Jul 2026 04:30:45 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMmdhZ3FyQ2tBemI1Vjh6ajY0d2d0eTNxYnhVb3hBTFRSTDF4RVgzaUMzZk5PRjNob013N2N4bm9WQlYwbzdyT0U3ZFQzNzVzM2pkYk5OMmxZYkpyeHhqR3oycUNGek1rNmNjckIxR3VxVkFGd2YyR0Q5MzgzRU9RVl9XZUhLajh2aUhxcDFRZG0zQ1NUdWNZNzRacDdGdGdCX3FTNE1NcF94Y1ZsQjNfT0hsYk5LVEU2Qm15V0pfaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AstraZeneca stock steadies as oncology growth and pipeline offset patent headwinds - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "AstraZeneca stock steadies as oncology growth and pipeline offset patent headwinds - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 19 Jul 2026 05:19:37 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVRfcDk5WXlsbkxXQmQwN3BMVHlRYXdNMWtWc2FuZGx2bDVMSThJbFc2WFY0TVhHSk1MYmMxeXZIUzljVFpwNXdESmFTR0VpRnhPZmYxRFhRRkh6MkQ3bGVUbWgycjRBTElycF9lV1Vnbl9UdmV6LXhjbUFzR3lsUm9MQ0dVSFhpcTFvb2ZtRk00c2I0SDBpWDNLak9mTi1UT2RhYnhCU0FzZndNcGNJcE05OTM0VjR0ejZIbmo0dmhselFVUWVVYk1GTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Sanofi stock trades steady as latest quarterly results highlight vaccine and specialty care momentum - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Sanofi stock trades steady as latest quarterly results highlight vaccine and specialty care momentum - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 19 Jul 2026 05:09:08 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbE5PZjlPWjIxWFhMVnBnNHZ6bS1HVWZTdEhvcXc5ZVZBcURSYVJJSUtfWTNoVXFRblNWaWhNb2lybnZPdXduR2ZrQk9VcXNBSXhnUmhoZXFUVEI3ZnFWcF9QUjVSQmFCSmN4dzRpcWlhR3JxOVlkZVhOSXRSZWY3TnZfRFpzX200c2xYZDhfS0puaGxHd2xXWmludlNLRHRRUW1ncDJyZS01M3ROOXJ3Q0pCRnNzcEJJdUowY0pBd0plVVNVdHRHTmFwVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Lonza Group stock edges higher as investors weigh 2025 recovery prospects - ad-hoc-news.de",
+          "source": "ad-hoc-news.de",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Lonza Group stock edges higher as investors weigh 2025 recovery prospects - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 19 Jul 2026 06:03:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkxfcVFJb2FxT1NjMDhKanJkampOSWpRQWFvV1BJSmNpLVpKUTI5V1pGc25xdlpRV0gxeVFZNU53V1RMb1JMSXdZT0Y5UmZQRDdyOGI4NmZWMGpIRXo2Z1lhTFQzN1lteTd5d3E3SHFHMGVES1FTTjc0WnBoTk9CTXoycngwWnJiUnFwQmZNOG13ZDdEa0NndTFraE0wR2ZfekhRUkJaNFFCazBwSWtPeGdjWmZlaU5OSmtnUFVjNkxnSDNiM1pEekFXcGM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "하위법령",
+        "입법예고",
+        "지역필수의료법",
+        "기준",
+        "진료협력체계",
+        "구체화",
+        "진료권별",
+        "거점병원"
+      ],
+      "articles": [
+        {
+          "title": "지역완결형 필수의료 속도…정부, 하위법령 입법예고 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "지역완결형 필수의료 속도…정부, 하위법령 입법예고 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sun, 19 Jul 2026 03:00:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1hBOHJ5LTNfOTRaRnhDUDFFdkZxcWNuWHFuY2tGT1Y4RDNXZ2NDSXhmYllnMGRkenY0YWdyMGhYb3FvRXpwZnl2OXdZUnhMTkEyRkdXZFdCZXNmbzFCampxVXZ2eDgzRWkzNXlSZFJ5OUVmYVFUVzlVd19NQzNfUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고...진료권별 협력체계·성과평가 기준 마련 - 의학신문",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "지역필수의료법 하위법령 입법예고...진료권별 협력체계·성과평가 기준 마련 - 의학신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sun, 19 Jul 2026 04:58:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95NDZhazAzcW5pYzhTaWpfdzJqd2dOQk1MUXBSRlBkSVBxQVc5ZF8xTmtxTUh1Q1hwTjZCb1RPTnJQN2QzS18xajhpdE9iMU5OUTlYOFpVRm9vLUFaOE5xUDJ4dEhwTER6SUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고...진료권별 진료협력체계 등 구체화 - 라포르시안",
+          "source": "라포르시안",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "지역필수의료법 하위법령 입법예고...진료권별 진료협력체계 등 구체화 - 라포르시안 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sun, 19 Jul 2026 03:50:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83U3VXM3QzMUNEbmJKRDFVLXJPc043LWUwZ0xrSWpkQ01xUzVpVmtEUXN3aUpoaXIzS1JIa1pNTEVMbDNUWEZTN1RtRl91Z2p6TXhDV1NaOG1xd3ctNmhlbmdWdXhzbTB1b3Q3VQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고…진료협력체계·거점병원 기준 구체화 - 쿠키뉴스",
+          "source": "쿠키뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "지역필수의료법 하위법령 입법예고…진료협력체계·거점병원 기준 구체화 - 쿠키뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sun, 19 Jul 2026 03:05:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16TE1MZWhpY0FYQ0pSMElHekRfVGFEX2VwVGFsVTNYUlNyZFU0MjJaZmk4T21sbEg5X0RBaTVINVdYNkpycnJwaF9yMk5PQi14SHNscDBrOXBSU0p4dTBDR09Vdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "지역필수의료법 하위법령 입법예고…진료협력체계·거점병원 기준 구체화 - 네이트",
+          "source": "네이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "지역필수의료법 하위법령 입법예고…진료협력체계·거점병원 기준 구체화 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Sun, 19 Jul 2026 03:06:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mdU9WVHlKUll6bkJzU0xZQ2NLNWRoR0J4ZDZ4ckc3YUpIM25wdnpXdWdxUXB5MTE3aDNNTTM4TXlqODB2RFB6Nzg0bDRxMjFrdndidXp1aXJaYlJTRzF3Qw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "pharm",
+        "vietnam",
+        "medi",
+        "expo",
+        "medi-pharm"
+      ],
+      "articles": [
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - En mötesplats för inhemska och internationella läkemedels- och medicinsk utrustningsföretag. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "Vietnam Medi-Pharm Expo 2026 - En mötesplats för inhemska och internationella läkemedels- och medicinsk utrustningsföretag. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Sun, 19 Jul 2026 05:19:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNms1REhxVUs1MVU3dGk3N3I0OFAwbTZ6YVZfOG1QMkdHd0J0NXRybnppNUdURjBwb3gzaVZDOWd1ZVNVOHR5bnJDYkwyTy1QYXVKNWtSTXdRRnI4emYyaDh2QW5sS2NnLTVHcnlsWnUyR0VXR2sxbUxTcVdjeTFWTXdNYl92NFYxaEg0Zi1mWm1nZVI4MGpEVDRwZWVwTHVWUkcyOWQyTHo0NnAwT1RGMnpNZDl1RHh5R3FabXRrenNkNE8x?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - Titik pertemuan bagi bisnis farmasi dan peralatan medis domestik dan internasional. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Vietnam Medi-Pharm Expo 2026 - Titik pertemuan bagi bisnis farmasi dan peralatan medis domestik dan internasional. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sun, 19 Jul 2026 05:17:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONko3ejhrYTJxbHBoOE1EZWFjcERVZUVBX0QzSzVGXzNyejdxM0JkdUJtMUVsdUFJZWVDM2dDOUpYUnQ0UjJDM3BSUWdmTHUzVll2bUhqbVp3eDdKZXlrZkdrMl9XUDNfNHNRMnZPNzNXclNkNE9Gd0ZtajZVa2I0dHhxN3hvdlItb1l4a0VOZm1Kd3QwSVF6Z1ZLUjdvTVBKeXJidXFwbk9HaEYzUWltVXdpdGYxMmd0RUVqWHJ2Y1ZEZ1la?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Vietnam Medi-Pharm Expo 2026 - Điểm hẹn của doanh nghiệp dược phẩm và thiết bị y tế trong nước, quốc tế - Báo An Giang Online",
+          "source": "Báo An Giang Online",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Vietnam Medi-Pharm Expo 2026 - Điểm hẹn của doanh nghiệp dược phẩm và thiết bị y tế trong nước, quốc tế - Báo An Giang Online | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 19 Jul 2026 05:02:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkFiVVpRVG96TkFIaE1nWlBEVGQxUExheG9yUmpSSUpEQnlSbkVtaVZIcS12ODFZNzlXMXVrcktob1JnLVJ1TS1hS1A1ZXE2QmNpOW9yQmhQUGYxZ0hXRld0S2tsckxpQ1phUmF2S2FlTGRKdFZtZDlKSW5ibngtSEROX2ZPaGJ1ZlhNNTJnVEYwRVU3TGpDNEptOXBxd1RuYXJkV0pSb1ZlVkhBWGEyTUpiSzNkV0RtbEhmeGxib1luVHhnd1A0bHUzcE9xOWJIMEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026 - จุดนัดพบสำหรับธุรกิจยาและอุปกรณ์การแพทย์ทั้งในและต่างประเทศ - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "งานแสดงสินค้า Vietnam Medi-Pharm Expo 2026 - จุดนัดพบสำหรับธุรกิจยาและอุปกรณ์การแพทย์ทั้งในและต่างประเทศ - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Thai / 태국어",
+          "time": "Sun, 19 Jul 2026 05:16:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM0ZsUW9ySjI0VXY3ZVphWk93SS1uY1lVUlUzajF6UXVkdy13eks3cV9lNk5Kc0tMeDRNNjdkTFZvaEl0UG5MNFo5emxTay1TWDltcG5QY19mWGNUQVlVMlpXT1hRWHUwSDNEX0R1UDlLdkotZE1jcWNxVk45QzdUZV9UZks1dTE2RHU3NXJtdUlSeS1zZEtoc09sTmZkNjFfekJ1RHNUZHptWENsZW1rMkF3VXk2NGdfZzFuY253TndOZGlk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "fda",
+        "FDA",
+        "reputation",
+        "affects",
+        "clarion",
+        "hurt",
+        "shortcuts",
+        "world",
+        "princeton",
+        "approval"
+      ],
+      "articles": [
+        {
+          "title": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - Princeton Clarion",
+          "source": "Princeton Clarion",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - Princeton Clarion | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 18 Jul 2026 22:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQd1ZVYXdrUWR3X0NWMXJyNDdqME1qT1RzN1lqQXItdHRxSHl5MFhSVndiZEhTdmxfb1EzX2ZmTncwSGtIcllyczBRNDFWRHpHVUVWblBYSlFpejZGLWFBWkhBbnM3aERRamxOTU9FOFZyQWRtNjlqdnp4eUcyT2JYN3NnWHloeTVqU0R4bTlhUHBjd2IxMjd6Z3dRa1hhWWEyVWZvV29PTjBxNFFKNEJfaUo4V2g0SHFBS0hSeC1JM1VfRWVhR1E5dnNqWm5hcnZ5czhRZHVLbmVJSHRpLXZxdUJveS0tZ2FWbWplaHFUcmdZUjRkSHZ6QTkteW5TQUVXeVFObXFJU3hLR0pNa1lTMm43RDduVzBO?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - Princeton Clarion",
+          "source": "Princeton Clarion",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA drug approval affects healthcare around the world, but political shortcuts could hurt the agency’s international reputation - Princeton Clarion | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 18 Jul 2026 22:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQd1ZVYXdrUWR3X0NWMXJyNDdqME1qT1RzN1lqQXItdHRxSHl5MFhSVndiZEhTdmxfb1EzX2ZmTncwSGtIcllyczBRNDFWRHpHVUVWblBYSlFpejZGLWFBWkhBbnM3aERRamxOTU9FOFZyQWRtNjlqdnp4eUcyT2JYN3NnWHloeTVqU0R4bTlhUHBjd2IxMjd6Z3dRa1hhWWEyVWZvV29PTjBxNFFKNEJfaUo4V2g0SHFBS0hSeC1JM1VfRWVhR1E5dnNqWm5hcnZ5czhRZHVLbmVJSHRpLXZxdUJveS0tZ2FWbWplaHFUcmdZUjRkSHZ6QTkteW5TQUVXeVFObXFJU3hLR0pNa1lTMm43RDduVzBO?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump purge at FDA and USDA triggers food safety ‘brain drain’ - FoodNavigator.com",
+          "source": "FoodNavigator.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Trump purge at FDA and USDA triggers food safety ‘brain drain’ - FoodNavigator.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sun, 19 Jul 2026 05:27:55 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXctV1dzRkNhYXBxXzJ1VUViUVBUSXp6VlRZaG9JVWkycF83SlNXT3FNSkdvYWk2SVBSdGhvNnBLOXBsTFAzdFlUNDZWTjQyUDNNVVZqOW81T1FDUGsyYm12ZHBnU3FYT1JyaXNBR3JlVmM3Yl8wSDFuT3ZORHo5a3I2bkpJNFY4cUQ1VWl2QXRlSjdkTUZiU2dCTFJ5bDM3ZGdIeEZXM0xSUjB6bHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "pharma",
+        "leap",
+        "big",
+        "daily",
+        "industry",
+        "star"
+      ],
+      "articles": [
+        {
+          "title": "Pharma industry’s next big leap - The Daily Star",
+          "source": "The Daily Star",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Pharma industry’s next big leap - The Daily Star | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 04:59:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2phV3BTOVU2M3p0ZHRtZ1d3eVQyOVNBTThCZU9qbzVxeWtLZkJYRF9fZ3ZwcEp5UmtCMjVqaGRTWFFzU2JQN0VIa2EwRWFTVTdfQ2JZRFlrSjhDeG5jbTdBZFFwM0s5eXM1XzFtOFpzYjM5b1JJZFZDbFNCSnhXU3ZCZlE1SGJX?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharma industry’s next big leap - The Daily Star",
+          "source": "The Daily Star",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Pharma industry’s next big leap - The Daily Star | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 19 Jul 2026 04:59:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2phV3BTOVU2M3p0ZHRtZ1d3eVQyOVNBTThCZU9qbzVxeWtLZkJYRF9fZ3ZwcEp5UmtCMjVqaGRTWFFzU2JQN0VIa2EwRWFTVTdfQ2JZRFlrSjhDeG5jbTdBZFFwM0s5eXM1XzFtOFpzYjM5b1JJZFZDbFNCSnhXU3ZCZlE1SGJX?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "معرض فيتنام ميدي-فارم 2026 - نقطة التقاء لشركات الأدوية والمعدات الطبية المحلية والدولية. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "معرض فيتنام ميدي-فارم 2026 - نقطة التقاء لشركات الأدوية والمعدات الطبية المحلية والدولية. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOTJRc3RWOVVWT0NvSEVXX0dEUGxKdk1QMjNDeXRYbVVSMnlmZHFTblR4N3VSNHFmYi1zS09SMy11dlczeG5uTDBrLWpKYzAyT3BZU2xBZHdmZlg3T1JQR1daZDZLb2NYU0JILWR4dU84YkIwTURtTXRRWWJyRTFrNG5XV0VOX0V6cnpFRUxCVERFWURKdllOWmhnczlVeFY3OUpuaDJ1RlZtRXg3N245T2U5TDJvcF9mcTYxU3c2WWhJZTA1?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Double standard over weight loss drugs hits women especially hard - The Boston Globe",
+      "source": "The Boston Globe",
+      "importance": 47,
+      "snippet": "Double standard over weight loss drugs hits women especially hard - The Boston Globe | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLUN3ZjY4amdBcWZSa2ljbzdlVm10UVBFeE50aHBFTU9FejlzelJTSFhKaEpRSE9odk9RRWFlcFlJV2tTWi05MXp0T1VZLWdkU0hFR3NIZWlIRkRPc2lqM3g2TVNTbm9Td1o5eUdzWUZic0EzRV9BQnFuRGg1NWZQaG9zMkQ3VW84cXMwbGhwYmlSdFY0SGxGMEVvaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Copay assistance is meant to defray patient drug costs. Some insurers keep it instead - Arizona Daily Sun",
+      "source": "Arizona Daily Sun",
+      "importance": 47,
+      "snippet": "Copay assistance is meant to defray patient drug costs. | Some insurers keep it instead - Arizona Daily Sun | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZl85bmt1dnhQREdRaG04bTRnYzcydXdVT3doNW5sd0xibU5UYjhSSUc0dXU4TE1aZ2hUZ2F6aFRsZmc1OVB6VFAyZWhfVUhoLVR2dWtWZW5XaXRRNEVqelBMYzJzU2JyZjZjc1M1OURESEJZSVc1VzNJWGlXX3VXOUQzdmY1ZDNSeVZ3V01BbDJTdkNObVFCLV9tY2RLSGIxS0ZkOTItczdadVhYeXJtdUhMR2Nwd05fNXNEWUk0MDA0SURSLU1HM3l4M1BqNkFyUVY2NFpEZzVwd0VTVXBSelRtYTNSY213Qkpvc0JodjI0S0djVm5oekxlMkp0bUs5SGhneVlR?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Aetna to pay $117.7M to settle Medicare Advantage False Claims allegations; ‘Google Earth’ for human organs; Wegovy may pose higher risk of ‘eye stroke’ than other GLP-1 drugs – Morning Medical Update - Medical Economics",
+      "source": "Medical Economics",
+      "importance": 47,
+      "snippet": "Aetna to pay $117.7M to settle Medicare Advantage False Claims allegations; ‘Google Earth’ for human organs; Wegovy may pose higher risk of ‘eye stroke’ than other GLP-1 drugs – Morning Medical Update",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOd0piZVF1WWo5SmdwdWJsd1VSYXI1TmlCVnNpOUxFUUhTbmFqMVI5YWFTT0RlWWl0eDYyTkQyVXZhYzhzOENadUQ2aXU2aVllR2d4RVQ0ajl0QmZfVHVFOXFWNjV5ZUU3UnpoMXJySVZjbnAzY0RmemlLeFJJejRFcGdHNG5NME5jQmk5TDJ5ODJDNHliMkNmZnhfUS1URzdNSDF3cmVYazFlai1kNS1ucjNEdHJqVEJqcEpqcjNGd1RvTzlweXJtSmYxU2pVd0lzNUduRjZ6WlNSOXhlMWtMUUFVNzZzU1E4UTNjcVgtYjRVVGdxS2tfbGE4SmdYWHpvSmF0THFoY3VndjBvMkZMVzlIWGtKc0VCMXE1SUJ0TjB3Tmt4bFdQanE2ZklxSGFIc0Ezb1daUjlZTUw1d09kUU1YandVWFU2NnprcHZn?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "SC platforms gain as Korea and global players race to build biosimilars - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 45,
+      "snippet": "SC platforms gain as Korea and global players race to build biosimilars - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQU56b0ZJVUt3YmViaUVWTmE3WS16Nl9Lcm1Cc0RQOHBMMURZcEg3X1RNQmxOM2RaV2paRE5TU0JvaE1WQXdaOEVDNmF2UXdnM2RhZHNvaG5GQmktb1BkU2kyVS1vVTdEYmRDeHYxUTVYNXJwVm8xV1hsOE50QzU1RzdycGtsNWhaLVJCeVBUT3h0Rnhx0gGUAUFVX3lxTE5BTnpvRklVS3diZWJpRVZOYTdZLXo2X0tybUJzRFA4cEwxRFlwSDdfVE1CbE4zZFpXalpETlNTQm9oTVZBd1o4RUM2YXZRd2czZGFkc29obkZCaS1vUGRTaTJVLW9VN0RiZEN4djFRNVg1cnBWbzFXWGw4TnRDNTVHN3Jwa2w1aFotUkJ5UFRPeHRGeHE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "वियतनाम मेडि-फार्म एक्सपो 2026 - घरेलू और अंतरराष्ट्रीय दवा और चिकित्सा उपकरण व्यवसायों के लिए एक मिलन स्थल। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "वियतनाम मेडि-फार्म एक्सपो 2026 - घरेलू और अंतरराष्ट्रीय दवा और चिकित्सा उपकरण व्यवसायों के लिए एक मिलन स्थल। - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRG12OXdiSUZQVkIzd0VOMGVSUmM3VWNKeXFra0VDNDhIRi1PSW1WdHFjcjhjZU9sX19CTlA0T1NKU2RRaTFzeEQ1S3J4Rk5pVDdXNVlVT3lqVDdBejZJTFF0dmhCUFBaMldoVXpkeDFsX0I3U3VSaFhvV2FRQmpaRklGRjA2Q1ROSDgwQUhraWptMWJWSk1jckZDQnNhQUZCN3plMWh0VWdiS3I0ZkFqN0NKcjhuTFVOQi1UWW83R2RrZXQz?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "'글로벌 규제 빗장 풀리자'…제약사, 오가노이드에 꽂혔다 - 데일리한국",
+      "source": "데일리한국",
+      "importance": 42,
+      "snippet": "'글로벌 규제 빗장 풀리자'…제약사, 오가노이드에 꽂혔다 - 데일리한국 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11OXphcUVCZUdlcEc4LWJSXzFNaTBrYWxtQmxWa25qQmZZSjZTNzFxUXVFeGhtc2ZNRjdIaHA5c1dTU3Jzb0JtZDFSMlRLdmpvUkNLMS0xOFJ4OUhNVkd1Qy1ibWloc29iUUVOc0RFSdIBc0FVX3lxTE5BVktCSlBOdjhCRjNkTXdGSkVLdGZickJFMGlvUm1JXzFEejE5WWRpZUlLS2ZrNlF5S0laeFBMcHhmVVZ6MFVPMnhzMTVRcjBLU3hlbnJ3WHdWaEZ2UEhLLW1KcnRMWldjb184NVQwOXMyNWM?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Điểm chuẩn Đại học Y Dược TPHCM năm qua - Laodong.vn",
+      "source": "Laodong.vn",
+      "importance": 42,
+      "snippet": "Điểm chuẩn Đại học Y Dược TPHCM năm qua - Laodong.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWtYVXp3dklXSUU0ZXFUMDVQSDN6b1FWZ3F6amV2bk9TRXRDd3JCYnZTOTBtQjdSZkZvWXo4MEpmdGl3SHlieHFjTFI1R1NRMTdyTFIxS0dhWHFMb2lZalpVV2dVLXV2LTB6NGd6Q3BEaXQyYm8waS1tTzZwZFRfbU1wNERIN05nWmtJ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Vi phạm quy định pháp luật, 11 cơ sở dược, mỹ phẩm bị xử phạt - Tạp chí Sở hữu Trí tuệ",
+      "source": "Tạp chí Sở hữu Trí tuệ",
+      "importance": 42,
+      "snippet": "Vi phạm quy định pháp luật, 11 cơ sở dược, mỹ phẩm bị xử phạt - Tạp chí Sở hữu Trí tuệ | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnNEWk12TlBQbzNMMjlOUW85SmNXNjZ3Qm5mTURnOFk2NGgweTlrT3VOc2VXQ0YxbmJxSWg3Sm9iM29FMmM1MlFsdWIzbUhDV2dZTUxSVTJCTGplYW1iWUhCOHZXVkJwYnVnVHhrbXNWN0dlWVlYSm90VVlxbk1xVkdSNmNGZVJzSkNvcnhFQjlfSXRYRlJmNmV2dnRGUW1k?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Hơn 700 chuyên gia dự Hội nghị Khoa học Dược bệnh viện lần đầu tiên - Suckhoecong.vn",
+      "source": "Suckhoecong.vn",
+      "importance": 42,
+      "snippet": "Hơn 700 chuyên gia dự Hội nghị Khoa học Dược bệnh viện lần đầu tiên - Suckhoecong.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcVlTOGQ1N1ZRRkxmcnRnYVJBWlJ6d2J1ZEZuWXNzVTJzVUltLWdkRUNydEtrQWNBS0Zka2IwZm9zQjg3eHFBQjRHcDhlcmZhNTR3Q2dOR1lCcGYwdGFBOFpIZUU5cnZidEI2bXZqLUtOV2RwQ0l2UzRCUTdVWmY3QzNyQmt6MkloT3habG9Kb1ExQWRnNnV1Y1BlblNjRWo1S1RQVmdn?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 3
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 1
+    }
+  ]
+}
