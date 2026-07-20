@@ -1,0 +1,823 @@
+{
+  "date": "2026-07-20",
+  "total_articles": 382,
+  "language_breakdown": {
+    "korean": {
+      "total": 195,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 14,
+        "의약단체": 25,
+        "의약관련정부기관": 24,
+        "의료현장": 25,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 115,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 11,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 72,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 4,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 4,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 7,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 5,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 7,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "식약처",
+      "count": 29
+    },
+    {
+      "keyword": "GMP",
+      "count": 26
+    },
+    {
+      "keyword": "신약",
+      "count": 12
+    },
+    {
+      "keyword": "임상",
+      "count": 11
+    },
+    {
+      "keyword": "CDMO",
+      "count": 11
+    },
+    {
+      "keyword": "비만",
+      "count": 9
+    },
+    {
+      "keyword": "백신",
+      "count": 9
+    },
+    {
+      "keyword": "급여",
+      "count": 8
+    },
+    {
+      "keyword": "FDA",
+      "count": 6
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "CRO",
+      "count": 4
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "safety",
+      "count": 6
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 5
+    },
+    {
+      "keyword": "obesity",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 13
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 8
+    },
+    {
+      "source": "아주경제",
+      "count": 5
+    },
+    {
+      "source": "데일리팜",
+      "count": 5
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "데일리메디",
+      "count": 4
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 4
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 4
+    },
+    {
+      "source": "청년의사",
+      "count": 4
+    },
+    {
+      "source": "PRESS9",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "Chosunbiz",
+      "count": 7
+    },
+    {
+      "source": "BioPharma APAC",
+      "count": 6
+    },
+    {
+      "source": "IndexBox",
+      "count": 6
+    },
+    {
+      "source": "ad-hoc-news.de",
+      "count": 5
+    },
+    {
+      "source": "AOL.com",
+      "count": 5
+    },
+    {
+      "source": "Kalkine Media",
+      "count": 4
+    },
+    {
+      "source": "inventiva.co.in",
+      "count": 4
+    },
+    {
+      "source": "Whalesbook",
+      "count": 4
+    },
+    {
+      "source": "The Conversation",
+      "count": 3
+    },
+    {
+      "source": "조선일보",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 비만약 모멘텀과 제약주 밸류에이션 재평가",
+    "지역필수의료법 하위법령 입법예고와 진료협력체계 구체화",
+    "FDA 허가 논쟁과 규제 신뢰성에 대한 경계",
+    "Vietnam Medi-Pharm Expo로 본 신흥시장 전시·통상 연결",
+    "비만약·보험부담·바이오시밀러가 드러낸 접근성·가격 이슈"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 30,
+      "keywords": [
+        "pharma",
+        "drug",
+        "billion"
+      ],
+      "articles": [
+        {
+          "title": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmM5a2cwWkJ6LTA5UEhMMlV1N2tGTTRLbDVzZm9pbGJkTUNYcTZPTElzQWtMQ0FFUnlPa092Rmc2UEYwbDk2bURQdTBtM1NSekItc0ktOWg0Rl9BUDNCRzVFVnJiWVJTQW1Tc3dfTmxNZXBwcW1iRGFBdDMtTmVQZNIBlAFBVV95cUxQSGRXRmlLMWNDVS1hQWNSUDdPWXU5aWRaUlpOZzZjelEyWE44TDVUR3ZoNlF5RnJOeGlDaTkwWjRwWkJ2UWZHTzRWTlZwSFQzRUZQNGlMWWExVGRfRENWNHRURzVhbkRiMmlycGRlLUZOUHhhaGFodE9IQTQ4dUhyaDFUMW1weXB1ZjhOaFJNdzRDT2pm?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 20 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmM5a2cwWkJ6LTA5UEhMMlV1N2tGTTRLbDVzZm9pbGJkTUNYcTZPTElzQWtMQ0FFUnlPa092Rmc2UEYwbDk2bURQdTBtM1NSekItc0ktOWg0Rl9BUDNCRzVFVnJiWVJTQW1Tc3dfTmxNZXBwcW1iRGFBdDMtTmVQZNIBlAFBVV95cUxQSGRXRmlLMWNDVS1hQWNSUDdPWXU5aWRaUlpOZzZjelEyWE44TDVUR3ZoNlF5RnJOeGlDaTkwWjRwWkJ2UWZHTzRWTlZwSFQzRUZQNGlMWWExVGRfRENWNHRURzVhbkRiMmlycGRlLUZOUHhhaGFodE9IQTQ4dUhyaDFUMW1weXB1ZjhOaFJNdzRDT2pm?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "South Korea opens GMP hotline to speed pharma compliance and support - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "South Korea opens GMP hotline to speed pharma compliance and support - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 20 Jul 2026 01:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWFl4Y3E3eFE5NU5vc19DcWNqT2VueHhCZi10WVlfYnZpdkNFa1hnQms3ZTFZU1VsLWx5aFpta2pFbkZsLWJzM3dFNkI0b0NPR3VOVmREWTE5SUpHSUNyZUFZRzhlVXhYRlA1Vzg3Ym5PalA0djU2SkZVR3l1VVhRU9IBlAFBVV95cUxQcG9HQ09PU255X3djQ2cxbExRdWI5ZC1HdDBBQ3JDTWFtejNPUHBabWxJbUhxRVAtTUpiTWxpUEZXbGdrNjVWSUlMZjI4YzZuQ0J6NXRrbHc0bVVLV1JnX0JNbWdDZVBob2x1REtLQTUyVzVJa04tb0w3c1RNYWNnUmdvWHk5RFpOc3dmaGl6S3I5MkF5?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Natco Pharma Shares Gain After US FDA Tentative Approval for Generic Cancer Drug - NDTV Profit",
+          "source": "NDTV Profit",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Natco Pharma Shares Gain After US FDA Tentative Approval for Generic Cancer Drug - NDTV Profit | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 04:55:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWJUem93b0xmc3hla1QwdTVlaEVHazFUVmNnREsxOGdrSzYtY2FfeGhYVUt2Y2VhY05ySFp1eE1STThDdFRHc0U0eElvejZNclZOdDdNR2xGNVNGZUNNdEk5N21wU0U5NGJXeTZEZUFYNEY1Rl9CM3A2ZE1QaWpmcVV0Z3VVSHVqVkdzLXp0UE5RTENybGhOdFdDTW1COXR1WWFmNDhiQ1BhVDN3RFU2aUk2TzJzdUhQeFRpenZNMWdyTEsxaGUw0gHPAUFVX3lxTFB3WVlfR2xvQklkNjQxQ3hyWEktODVIeVUzMVNiV3pmeERvSzY5bXJ5QlMwZG0yQWwyZjM2QjBZVXVBUldtdWNxUVBLWE85bS1NNnZXeXpkLUhjMTZUbWhfZ24tSmc0S0x5a3h5NEFpX0xTTVRxTzhCTE9ucVIxMXlDQUxpUW5sRnNkZGRYNTczbUotdlFad1dZcVp4UTU4dF9ELWpTLWRsU0xFNVBuZVNwMVFSd0Uwd1QtVk1lQ0pmd29SQ2YybnV1Umtma2xMcw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug Price Adjustment Proposed Based on Indian Market - Ratopati",
+          "source": "Ratopati",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug Price Adjustment Proposed Based on Indian Market - Ratopati | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 02:04:28 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTNta2xoMmR3akotUDhmU2VlVWUta3BocXl1SjFaMzY2WTJJenhCcDk4ZVRQd2g0c0tmQnJBd3IxaUM1MU1ROEwxWERzX2ljZ193U0E3eUg1RGcxT3JMMDNOUDRxQUtaRFlBUGpiVGZJWkFmV294M3o2TFRfNzlQS216ODlKcDdUMTVyWTFQM0V3WGF2by1pbFVSaWZIWFFvUkhN?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cancer patients suffer as 40 drugs’ approval remains pending - The News Pakistan",
+          "source": "The News Pakistan",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cancer patients suffer as 40 drugs’ approval remains pending - The News Pakistan | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 04:13:24 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR3VsVXl3MFRWbkNBazEzRDJlaXRSR0ptVGVtbklyWDd0eUVGeU9wdUpvX3hSYlF0UUZWZFFPR0JHT3kyeVdNZU0zeU5Icm1TaVZTNTRWZEMtdjhzemp4YUFaTWNUb1ZCRDJuWjlTWElxWGlTaVpXRm1nVkNiNmYxNWlOenRORkpsZXFJcjgtejZBenhYaFdGa09VSHI?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. Could Psychedelic Drugs Change Mental Healthcare Forever? - inventiva.co.in",
+          "source": "inventiva.co.in",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. | Could Psychedelic Drugs Change Mental Healthcare Forever? | - inventiva.co.in | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 06:09:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdEFVUXlILVFlc1hXYkVVME1FRXpTd0xkNHhvclVteVBjVkpVSnN3c2VsTHNNV0ZwbnpaQmFvSnVVVzVxc3hJendORjY5NU1WUHdiN083VzE3dDNzQ2hNMWJSQUNwd3pfcDljVXZWT0w0WHRrWGV1Q3R1cnpkY3JueVIxRF9feXZpQm05Y3QzVVhlM1FRaEJrc0R2WHJMRUQxVFZMbEdydGhEek44T2hQeGFpQWRVSnNSXzNrYlRBckpHWUVSZUtPTDJ5c0wyVFNmTVRXMy1xc2hXelZ3ODJ6d0t0Znkyd3BUVVRubDN6ZXd2UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 01:59:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXIwUC1pTmhWYlFETU84V0N6X2QwTWVaT051a2J1OVE4M0w1VmdvWm9lZE4yS0RJVFR0Z250eTVkTWVibWN0N3N1X3VvNjVCSDkwQldCc0hFX0xtdUI2dlk3ZkNYV280SDFzd0hmNG4tQ1lBYlVJTWxNaEVPaVQ2UWh2Q0dJMjdBWWJKa1VZbGFfR3R3bkdvMWdneHN6emRTWDJQTHhSNG9ESGR4ZjVWalB5NnR4NEFuQXVOMFYyYXVQVTNaNnZLZ05NVFNrM1JYM1VsM2N6ZDJadw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Gov’t delay deprives patients of 40 life-saving drugs - MM News",
+          "source": "MM News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Gov’t delay deprives patients of 40 life-saving drugs - MM News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 05:38:13 GMT",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BcVEyX3VHS19mYWh1MzRHTG9wLVJHN2pYVlNySFk4R2FIT1A4YV9yWEhHQjg2VFVpOVB3a1dJTWxtbFRmZXhVeTlmTW11ZUlGS2tKNU8yWFV0ajdqRnZiMFl4SzN3SEg5STEyTzJNOWhGdUR5TVUyanprQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics Acquires Swiss CDMO, Enters Obesity Drug Market - 조선일보",
+          "source": "조선일보",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Samsung Biologics Acquires Swiss CDMO, Enters Obesity Drug Market - 조선일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 05:03:45 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3JxSGZGa3BvdWY2WlFYSlU0TFVpOVpxYTR2R3Q3dllQM0hONjNjY2tWaFcxUm1DLUpnMXRCcmtsMVpQbHJPdFllRG5rUHcwSDIyZTBvbENVaEJ6U2RzaUsyaFIzQUR2c2xIcnFiMllxWTY0ZGthVFBiMkVaTlY4QTYzMk44Xzgt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics Acquires Swiss CDMO, Enters Obesity Drug Market - 조선일보",
+          "source": "조선일보",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Samsung Biologics Acquires Swiss CDMO, Enters Obesity Drug Market - 조선일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 05:03:45 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3JxSGZGa3BvdWY2WlFYSlU0TFVpOVpxYTR2R3Q3dllQM0hONjNjY2tWaFcxUm1DLUpnMXRCcmtsMVpQbHJPdFllRG5rUHcwSDIyZTBvbENVaEJ6U2RzaUsyaFIzQUR2c2xIcnFiMllxWTY0ZGthVFBiMkVaTlY4QTYzMk44Xzgt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics to Acquire Swiss Peptide CDMO for approximately $1.8 Billion, Targeting Obesity Drug Market - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Samsung Biologics to Acquire Swiss Peptide CDMO for approximately $1.8 Billion, Targeting Obesity Drug Market - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 00:05:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZUmkzQjM5ODBCbDhlR0lIbnEyUzNpektLN0stcy1xd2ZqRmtQalNCSlN6eC1nVmc4bnJuWmZybTAtUVo5NWZUOC1DQUY1dTlFWWdESFIyOVoxQjR2TkVMbS1yUkcwakZSOXNOSUd3REFNRl9MTXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. Could Psychedelic Drugs Change Mental Healthcare Forever? - inventiva.co.in",
+          "source": "inventiva.co.in",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. | Could Psychedelic Drugs Change Mental Healthcare Forever? | - inventiva.co.in | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 06:09:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdEFVUXlILVFlc1hXYkVVME1FRXpTd0xkNHhvclVteVBjVkpVSnN3c2VsTHNNV0ZwbnpaQmFvSnVVVzVxc3hJendORjY5NU1WUHdiN083VzE3dDNzQ2hNMWJSQUNwd3pfcDljVXZWT0w0WHRrWGV1Q3R1cnpkY3JueVIxRF9feXZpQm05Y3QzVVhlM1FRaEJrc0R2WHJMRUQxVFZMbEdydGhEek44T2hQeGFpQWRVSnNSXzNrYlRBckpHWUVSZUtPTDJ5c0wyVFNmTVRXMy1xc2hXelZ3ODJ6d0t0Znkyd3BUVVRubDN6ZXd2UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharma stocks gain attention as drug market nears $10 billion - vietnamnews.vn",
+          "source": "vietnamnews.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharma stocks gain attention as drug market nears $10 billion - vietnamnews.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 01:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1ZEY3JmS1E1YVFadGtqQkxucm9rYnlaRDJwSl9ob3Ric1JtZWVpWlNRdHM3a196LVFmRE8ySFdZQzVDMWdNTS0zN2g5eXpBYTdhVm53amhIQnNqRldzb09QLWhjeFZIWkpvcGtaeHo4UlFaaWhzU2I5QW1tWXB4WXZpeURFQjAzdzJJYTA0TU45UkFISEJLMnFjMlprNC1QYzlQSWxRNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 01:59:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXIwUC1pTmhWYlFETU84V0N6X2QwTWVaT051a2J1OVE4M0w1VmdvWm9lZE4yS0RJVFR0Z250eTVkTWVibWN0N3N1X3VvNjVCSDkwQldCc0hFX0xtdUI2dlk3ZkNYV280SDFzd0hmNG4tQ1lBYlVJTWxNaEVPaVQ2UWh2Q0dJMjdBWWJKa1VZbGFfR3R3bkdvMWdneHN6emRTWDJQTHhSNG9ESGR4ZjVWalB5NnR4NEFuQXVOMFYyYXVQVTNaNnZLZ05NVFNrM1JYM1VsM2N6ZDJadw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Natco Pharma Shares Gain After US FDA Tentative Approval for Generic Cancer Drug - NDTV Profit",
+          "source": "NDTV Profit",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Natco Pharma Shares Gain After US FDA Tentative Approval for Generic Cancer Drug - NDTV Profit | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 04:55:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTWJUem93b0xmc3hla1QwdTVlaEVHazFUVmNnREsxOGdrSzYtY2FfeGhYVUt2Y2VhY05ySFp1eE1STThDdFRHc0U0eElvejZNclZOdDdNR2xGNVNGZUNNdEk5N21wU0U5NGJXeTZEZUFYNEY1Rl9CM3A2ZE1QaWpmcVV0Z3VVSHVqVkdzLXp0UE5RTENybGhOdFdDTW1COXR1WWFmNDhiQ1BhVDN3RFU2aUk2TzJzdUhQeFRpenZNMWdyTEsxaGUw0gHPAUFVX3lxTFB3WVlfR2xvQklkNjQxQ3hyWEktODVIeVUzMVNiV3pmeERvSzY5bXJ5QlMwZG0yQWwyZjM2QjBZVXVBUldtdWNxUVBLWE85bS1NNnZXeXpkLUhjMTZUbWhfZ24tSmc0S0x5a3h5NEFpX0xTTVRxTzhCTE9ucVIxMXlDQUxpUW5sRnNkZGRYNTczbUotdlFad1dZcVp4UTU4dF9ELWpTLWRsU0xFNVBuZVNwMVFSd0Uwd1QtVk1lQ0pmd29SQ2YybnV1Umtma2xMcw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Thousands of Medicare beneficiaries thought their drug plan was free. Then they lost it - Arizona Daily Sun",
+          "source": "Arizona Daily Sun",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Thousands of Medicare beneficiaries thought their drug plan was free. | Then they lost it - Arizona Daily Sun | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 19 Jul 2026 21:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZlBpdGNtM053a3hsX19KM3JUeV9raGl6bHdPaTJ4R2FUcXRGeGNsc2MwVC1RV3kweTg5OEY4WXMzNVZIYkhyTGRnZjN3Z1U3UVZGMzYzTk5Td1k3VUNhTFdNZEpmdVVEMmhaalIzbnZFbGQ2d3BBYnVxWVYwM1Bta3hUTTdRcUtLNkJQbTRFbkZPRHo4MjZkZXRtQjhXUnE2X3RwNVE0bmQ3Rm5pMW01UXIzeEtEQzBIT2NNWlkydUdVZEtZZWRZSU1pVDA2X0lvRzRZcW53SmJ1clNQY1U0ZTVkSEZRX0lmRlgzdkVlcVRqcHZUd2xieFMzNmxvTnBWSkJqWE5jSlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharma stocks gain attention as drug market nears $10 billion - vietnamnews.vn",
+          "source": "vietnamnews.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharma stocks gain attention as drug market nears $10 billion - vietnamnews.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 20 Jul 2026 01:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1ZEY3JmS1E1YVFadGtqQkxucm9rYnlaRDJwSl9ob3Ric1JtZWVpWlNRdHM3a196LVFmRE8ySFdZQzVDMWdNTS0zN2g5eXpBYTdhVm53amhIQnNqRldzb09QLWhjeFZIWkpvcGtaeHo4UlFaaWhzU2I5QW1tWXB4WXZpeURFQjAzdzJJYTA0TU45UkFISEJLMnFjMlprNC1QYzlQSWxRNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. Could Psychedelic Drugs Change Mental Healthcare Forever? - inventiva.co.in",
+          "source": "inventiva.co.in",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big Pharma's Next Billion-Dollar Bet Is Magic Mushrooms, MDMA And LSD. | Could Psychedelic Drugs Change Mental Healthcare Forever? | - inventiva.co.in | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 20 Jul 2026 06:09:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdEFVUXlILVFlc1hXYkVVME1FRXpTd0xkNHhvclVteVBjVkpVSnN3c2VsTHNNV0ZwbnpaQmFvSnVVVzVxc3hJendORjY5NU1WUHdiN083VzE3dDNzQ2hNMWJSQUNwd3pfcDljVXZWT0w0WHRrWGV1Q3R1cnpkY3JueVIxRF9feXZpQm05Y3QzVVhlM1FRaEJrc0R2WHJMRUQxVFZMbEdydGhEek44T2hQeGFpQWRVSnNSXzNrYlRBckpHWUVSZUtPTDJ5c0wyVFNmTVRXMy1xc2hXelZ3ODJ6d0t0Znkyd3BUVVRubDN6ZXd2UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety - Pharmabiz.com",
+          "source": "Pharmabiz.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety - Pharmabiz.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 20 Jul 2026 02:32:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tV3JvbWtxcHlXMXUtMFY1S3FGaktWNXRZUEc5RDdjczZQVE45YXdQMW9sNk5la2djcTBvMHNNY0o1VW1BM3Q0dllTVWVTQVRFc3RVdXBKcHlqSUJGWGNEcGFQaVA2SFR1b2Rn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "NATCO Pharma Gets USFDA Tentative Nod for Cancer Drug Olaparib - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 20 Jul 2026 01:59:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXIwUC1pTmhWYlFETU84V0N6X2QwTWVaT051a2J1OVE4M0w1VmdvWm9lZE4yS0RJVFR0Z250eTVkTWVibWN0N3N1X3VvNjVCSDkwQldCc0hFX0xtdUI2dlk3ZkNYV280SDFzd0hmNG4tQ1lBYlVJTWxNaEVPaVQ2UWh2Q0dJMjdBWWJKa1VZbGFfR3R3bkdvMWdneHN6emRTWDJQTHhSNG9ESGR4ZjVWalB5NnR4NEFuQXVOMFYyYXVQVTNaNnZLZ05NVFNrM1JYM1VsM2N6ZDJadw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Korea's Drug Safety Agency Launches GMP Hotline for Pharmaceutical Firms - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Korea's Drug Safety Agency Launches GMP Hotline for Pharmaceutical Firms - Seoul Economic Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 20 Jul 2026 01:27:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkZDUldrU0ZOQkRubnRIYUVWWUwxNWhtZEdjcHpka0l1MG95WEI4SG1VdEJrSWZwZTNxdWhhZENCMWdoT3dTbVdQV1Qzbk53NWkzWHI4MnhiU3RNTGJScDZHX0xZYjdJeE9XWGlXb1hkRlJCZUY2cnlwZFAwYnNYMUhYa0hVdUxYblZzXzJRSS1wTlpSM2hn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety - Pharmabiz.com",
+          "source": "Pharmabiz.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Maha FDA launches country's first AI-powered grievance portal to strengthen drug safety - Pharmabiz.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 20 Jul 2026 02:32:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tV3JvbWtxcHlXMXUtMFY1S3FGaktWNXRZUEc5RDdjczZQVE45YXdQMW9sNk5la2djcTBvMHNNY0o1VW1BM3Q0dllTVWVTQVRFc3RVdXBKcHlqSUJGWGNEcGFQaVA2SFR1b2Rn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMmM5a2cwWkJ6LTA5UEhMMlV1N2tGTTRLbDVzZm9pbGJkTUNYcTZPTElzQWtMQ0FFUnlPa092Rmc2UEYwbDk2bURQdTBtM1NSekItc0ktOWg0Rl9BUDNCRzVFVnJiWVJTQW1Tc3dfTmxNZXBwcW1iRGFBdDMtTmVQZNIBlAFBVV95cUxQSGRXRmlLMWNDVS1hQWNSUDdPWXU5aWRaUlpOZzZjelEyWE44TDVUR3ZoNlF5RnJOeGlDaTkwWjRwWkJ2UWZHTzRWTlZwSFQzRUZQNGlMWWExVGRfRENWNHRURzVhbkRiMmlycGRlLUZOUHhhaGFodE9IQTQ4dUhyaDFUMW1weXB1ZjhOaFJNdzRDT2pm?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics buys PolyPeptide to enter peptide CDMO, expand globally - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Samsung Biologics buys PolyPeptide to enter peptide CDMO, expand globally - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 22:57:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMDJ4VEN4SVJFYlc4WG9VSlBaeDA4azk3TEFpWFcxa1hJMnA4NjBRR3A0Vzh6VDVOTzg2T1BrY1hvQzc0R05xUFJZZHN3UU4zZkd1dzhzZ0YtRVB2Ykk3LVRpU0d1ZlhrY0JpSEsxRkREZC1pRnpIS0pIRUNiTmZVTtIBlAFBVV95cUxQNGJsWWZkNTIyempaZC01X0tCMUlPS1hMSnNlbEtmVUFxdzZJMzhtckJUUmFIRi1nakFWSjNWSXhFZDlFRTU2ZlE0U1JLUXFsTURIUE0zdFpCM1lfZVNkdmFxZHo4d2s1SmFIa1dxSHJ0SlFZNVVqY2ZRc2tHQmF3NVNFbWIwTW1qUHh3ZnA4bHhkemVF?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "제약바이오협회·식약처, GMP 규제조화 상담 핫라인 운영 - 아주경제",
+          "source": "아주경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "제약바이오협회·식약처, GMP 규제조화 상담 핫라인 운영 - 아주경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Mon, 20 Jul 2026 01:15:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1obEVqLTRJYlJGanB0RnQxeTU1dzlOSXJCSnpNQXg4dU5rNGk1S2N5ZF9RcWxJRXQwZDNaLWJqaHdTMlp2SjVtMHdZY3FRMjAtd2FvNVUyYkzSAVhBVV95cUxNaGxFai00SWJSRmpwdEZ0MXk1NXc5TklyQkp6TUF4OHVOazRpNUtjeWRfUXFsSUV0MGQzWi1iamh3UzJadko1bTB3WWNxUTIwLXdhbzVVMmJM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "World's First Synthetic CBD Oral Therapy For Anxiety Gets CDSCO Nod, Offering New Treatment Option - Outlook India",
+          "source": "Outlook India",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "World's First Synthetic CBD Oral Therapy For Anxiety Gets CDSCO Nod, Offering New Treatment Option - Outlook India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 04:40:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWk1IeFM0V1p2d3ExVUZWc2xfT29XOGJFalVIVldhMDNCS3V4V2dpb0YxZUdMSmVZNkU3MDVwRGRDTE56dkJ3NHFWdWpsNEZxNFVtcUJMVWQtbVp4b3FJNFMzdExYZ3AzOWVvVzJsVVZ1M29mYngtaTZaN20tVFp0aDE5aEhOckhmMXNTcjFycXA1U0RpMkg4ZFdpQk5jaEJ2SDg3WXRMa3A3WGY3SnNHWU1aTjBLNGhFYjRjb0VZbTdmX0dFU2M0eHIwY2VTR1RVVEgtQWRwX2lNajgxYUNn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cipla's New York-facility gets 1 observation from FDA - ETPharma.com",
+          "source": "ETPharma.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Cipla's New York-facility gets 1 observation from FDA - ETPharma.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 01:51:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRFJPRmNON3hkekx2V3J2TkhHcVc4aGFIb21sS3hyck9Bd2lZbUZacGVfSnI4bXYwSWxHYXFDZ3NfX1dZUWNDdVN6cTU5bl9TNjlBSUNsdm4tR0FjSDVYWXJEaGZvbEd2RHFlZkp1eXJHQTd3U0pQRkxRcWVqNFJWbDJ4amNMX0lpclREelFFcFoxeWk5Y1drX3Y5YlpRZ3RHLXhTMlp3VndCN19GS0RKY2I3SHhWVUotcEJDQnlxWkIzR21KcnB0cmZUa9IBywFBVV95cUxNRFJPRmNON3hkekx2V3J2TkhHcVc4aGFIb21sS3hyck9Bd2lZbUZacGVfSnI4bXYwSWxHYXFDZ3NfX1dZUWNDdVN6cTU5bl9TNjlBSUNsdm4tR0FjSDVYWXJEaGZvbEd2RHFlZkp1eXJHQTd3U0pQRkxRcWVqNFJWbDJ4amNMX0lpclREelFFcFoxeWk5Y1drX3Y5YlpRZ3RHLXhTMlp3VndCN19GS0RKY2I3SHhWVUotcEJDQnlxWkIzR21KcnB0cmZUaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics to buy PolyPeptide for $1.9 bn in Korea’s biggest pharma deal - KED Global",
+          "source": "KED Global",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Samsung Biologics to buy PolyPeptide for $1.9 bn in Korea’s biggest pharma deal - KED Global | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 00:58:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IVUw5aGdOT011Qzk4clF0X0hhR19WeXFoNGtxQVRJY0Yxb182SExFeEYzV0tUZEF4bXZfSFZXVzBCblNxdFdjS3A4UUZnZmhjQjZ0TlZkX091emk5UzV5RU5fdFNnVDR1dFBXLUFmUHMyX1BZRFM1dV9JQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Samsung Biologics Strikes 2.7 Trillion Won Mega Deal, Expands into Key Peptide Market for Obesity Drugs - 아시아경제",
+          "source": "아시아경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Samsung Biologics Strikes 2.7 Trillion Won Mega Deal, Expands into Key Peptide Market for Obesity Drugs - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 02:08:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3dGd0WUFCb1RsVm5xZ2puWmJZeWlnNm5wS2dldlpNT0tlcTFMVDhwTG8xUjRHUHpRRWdJQ0dDTXNIR3ZjakhQLXcwR2ZQZG9HMUNBOXNXSVJ4cDJGdkNGd0t5cXk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "apac",
+        "biopharma",
+        "biotech",
+        "looks",
+        "taiwan",
+        "bridge",
+        "build",
+        "global",
+        "innovation"
+      ],
+      "articles": [
+        {
+          "title": "Why Korea, Why Now? Korean Biotech Looks to Taiwan as Asia’s Next Partnership Frontier - BioPharma APAC",
+          "source": "BioPharma APAC",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Korea, Why Now? | Korean Biotech Looks to Taiwan as Asia’s Next Partnership Frontier - BioPharma APAC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 23:41:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUFkclk4YWpockZIRFZMUkV1TXN2LVRVd295aWxObFlrUG94anpJdEZmUVBxNjJGaUdDR05mQ242ajZPUHlkRDVDWExNRF9CNG5PaV9OTlZVcmZRMUhFTHhrd2UydGp1d24tUG96RHBlSkgxcnZEZU1qVzhDamR2WWRmMm5PR0xuZjZ5b0FndHExOXFIZUcwV25uSFVvX3FWU2tBZmlGaHRXUTV4ZU4weGk5Z0Z2UkJPVU42MlZSVy1GMFpiemc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Australia and Taiwan Build a Faster Clinical Bridge for Global Biotech Development - BioPharma APAC",
+          "source": "BioPharma APAC",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Australia and Taiwan Build a Faster Clinical Bridge for Global Biotech Development - BioPharma APAC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 23:41:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3RNb3pQVFhmZktpV2ZqcWZqbDk5dXZuS0hSZVpNNnJJT0VFQzJqZm9GTXlqeVpGME5hVEUxblVpc3hHU29Td2RKbWhqNm9rS0Jjckh3WFpMQ3FwLU9HZklla19kcjlTbEdEcnZFWTJsTlFmSzNHRWdNSnp5SWNmYzNNSExyOVpzdTBqazRBcHRnNTJQcDFTcktzZXZuZDdLSlBNNGxSRDZSbDRNQzdpSXdiQlRUY2NiOXdMdlMtVU9nYUJIclE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Malaysia Positions Biotechnology as a Bridge Between Asian Innovation and Global Markets - BioPharma APAC",
+          "source": "BioPharma APAC",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Malaysia Positions Biotechnology as a Bridge Between Asian Innovation and Global Markets - BioPharma APAC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 23:41:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeDhXLTBFcDU5ZG4xeDE5V1A2YmJ2RWVWZHkyckRtc1BvMDFPWUcwZWN3UjdLSzNpZ2tJQ1VobW1UTjBmS2g5TkNtdjJMVWVNNUZiYlA4TC1FSGJKVGRmRkhfZTlEV2htSkhpVzduNE1iUUY5MlY4R2RNTlBpVU1IN1NOVk1GcW9abGc2MjItYkhHOUxPYnd2bmdub3o0eXp4UHJ0QS1XQ3lBMnJFaTh3djVLVWlpSldMMWdFcmhRaVJVcjR2VmVnb1BjMzk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Japan Looks Beyond Its Borders to Build the Next Generation of Biotech Innovation - BioPharma APAC",
+          "source": "BioPharma APAC",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Japan Looks Beyond Its Borders to Build the Next Generation of Biotech Innovation - BioPharma APAC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 19 Jul 2026 23:41:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM05OTE00X0puU3lwMldHV2JBSER1M2JxbUVrVVQ4QWJjczkzVlJwaGpYZ1JFYWFkallrWXhJR0pQRmtKZmc3ck54UFYxUHNiYzRCY1g2czg4YlRsWjFFWkJEaG43aHI3TmU0RXFsSTVpZ1BBbThnWFRMYl9YdzNiUE1RUHcwZEF3eDM5U2Y4UE1pRl9DUnluakVmRDNYRU4yQzhCOS03Rjk1N0xjdXNNMnE2MU5UTF8yNDFOMlNHSWlqc0Ru?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "novel",
+        "india",
+        "life",
+        "towards",
+        "sciences",
+        "drug",
+        "ehealth",
+        "discovery",
+        "sector",
+        "accelerates"
+      ],
+      "articles": [
+        {
+          "title": "India's Life Sciences Sector Accelerates Towards Novel Drug Discovery - eHealth Magazine",
+          "source": "eHealth Magazine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "India's Life Sciences Sector Accelerates Towards Novel Drug Discovery - eHealth Magazine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 20 Jul 2026 04:34:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0hQVXN4US1TMHUxbjUxT0pVdjl6ZTdzblB5NWplX2U3c01hT2VrWkh3MHg3WWNCZkNrS2FxdXNZTHBFeXhvRFhSVjlETmtyWV9nd0w3NjRnek5HaDZEbkUzeHc1YTZpNzR1bTQ3QVZYSFo0WWp3aFd1ZDBvalM4Nnp6aHlCMjRTUi1odEgxOUVhV01RRm0wX2J1RW83Sm55R3lhV0JfU2ZoX2oxMmhwSGEtaUd3YTJ0Vnhqakt4Nk8xbHMwR2FVYm9qSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "India's Life Sciences Sector Accelerates Towards Novel Drug Discovery - eHealth Magazine",
+          "source": "eHealth Magazine",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "India's Life Sciences Sector Accelerates Towards Novel Drug Discovery - eHealth Magazine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 04:34:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa0hQVXN4US1TMHUxbjUxT0pVdjl6ZTdzblB5NWplX2U3c01hT2VrWkh3MHg3WWNCZkNrS2FxdXNZTHBFeXhvRFhSVjlETmtyWV9nd0w3NjRnek5HaDZEbkUzeHc1YTZpNzR1bTQ3QVZYSFo0WWp3aFd1ZDBvalM4Nnp6aHlCMjRTUi1odEgxOUVhV01RRm0wX2J1RW83Sm55R3lhV0JfU2ZoX2oxMmhwSGEtaUd3YTJ0Vnhqakt4Nk8xbHMwR2FVYm9qSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "bay",
+        "pharmaceutical",
+        "area",
+        "opportunities",
+        "greater",
+        "asia",
+        "fostering",
+        "industry"
+      ],
+      "articles": [
+        {
+          "title": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry - The Manila Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 20 Jul 2026 06:09:22 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV3l0WnBsTnJpUEZlcEhJMUtvYUFqalp5aEhFR0t5bDdTTlZJV19MWE1GVTdDZHdQdUNrY0syaFJqdEc3SXlWckRwRlNTdFdFV3NWd0ZlV2diNXRBNXNkSVJjR1QxbFJCS3ZMazZlUzZEMXFySGp4N0x1bmNNRGpBajBvMWxtU1hoV0xvWGV3QlE0UVlneHdBaDRRbFhCZFl4ejZsdUZ1OFlmNnpUclNnbmJRdXcycms5cGpXVW1PY3p2ajByYmFRT1F2bG9QTEhwUnNpQjExb0hhLW95UHN6SG94c29Xc0JTV0N4bDFB0gHzAUFVX3lxTFBScGlEUEI3RDJuQkh1VDF1cldEYnlGV3ZDTnhsREp2Z1VzYWtfSUF0Sjh3WnpYS0NLbU9KMFhvTXNlSDhXUVdWSThxa0ZXdngyLUt4OTh5Ykt2ZW5kcTJzVHZxaXo1T2RpSEVJNFBlWW1IVDZCVE1QV3R6NXNtLThZb3BJVEhYcjl5TnhWbHY1NWtwaWJlSzRsWHhEcEZhdGFxcnQzSklhcTFUT3ViU1IxcHpsNmdwbkRma2QzZnFTalczaVVtakxWWFRrSk44Z19mcUw4UDVIZ3J3XzB0RUFPaFNrRWplQV83aUc2WkhLMGd0dw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry - Yahoo! Finance Canada",
+          "source": "Yahoo! Finance Canada",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Fostering new opportunities in the Greater Bay Area and Asia's Pharmaceutical Industry - Yahoo! | Finance Canada | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 20 Jul 2026 04:52:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMUU2aG13SnlGSzZKdVBTMG14X2dqYmlHbTg4SkdjZ1Y3cUptRWpXQ1hfZVQtVGl0Z01GLUY5QWlITF82anNmcG1NbGpLUGZiSzE5bHJoaTVGRFd2TExDOFNEdU9WbUdVXzZvbWxHdmNoclRJbjlFNlNldkhUVldXZUtsYnZoM1RCVjBWMUk1V0tFZnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Why Tanzania’s new research framework for traditional medicine is a game-changer - thecitizen.co.tz",
+      "source": "thecitizen.co.tz",
+      "importance": 55,
+      "snippet": "Why Tanzania’s new research framework for traditional medicine is a game-changer - thecitizen.co.tz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOU1KeWJXTG14VXljdGhxdDAwNVcyRUNsR01wY3J2SGR3WW1FTnA2aTFNeTY1dXVhSllwTHBobnl5b3JKczNta2dKWnpOZTlxQnpTbTZMVl9MZWxWTC1jbVBVZ0hMVU9QSHgxWEZnWFJicWUwb0xHRVdWX1pULTZyYlU1UHJ1OHcwaWRxVk1qX2o4RWNVcGhVbENrS0x2dkJQb2pBS012LXFvTnRoTG1sTDFuUTFrbkh2WWROY184VUpDLU04SlpFaXRtYnBDZlVQc2c5aGVNQUtPdmpy?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Mimi: Hewan Purba Berdarah Biru yang Terancam Punah Karena Manfaatnya Sebagai Industri Farmasi - Kompasiana.com - Kompasiana.com",
+      "source": "Kompasiana.com",
+      "importance": 55,
+      "snippet": "Mimi: Hewan Purba Berdarah Biru yang Terancam Punah Karena Manfaatnya Sebagai Industri Farmasi - Kompasiana.com - Kompasiana.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPc0U3RjFqaU1LNWpaZHo2NEJwV3kxemVGU1ZaSmh1ZmN3eVZvMEdkOThxc0FBTkE4N2Q1MF95cDZfZERDYjMxYm41a3laQVBFS1RxZjR0cGJXZ2drVU5fLTlmVXo2ZWY3LUtkcjNhYXlESDZuaGNoZW5qODZYb1dCcTZwNzBBc1NJWXlGcS1tYVRIMmkyUDE3YWFVbTBMVWM2bHJOZm1aOU1OUEE1QXlINV9vNWFvaF9rWWMtYm9McEI4dXdCRktTWG9RMTJ3U1lvYTJFdENGSnQzelhpMUUxQngxelZSMjI5dkh5REJ5N3JWVDjSAfMBQVVfeXFMT3NFN0YxamlNSzVqWmR6NjRCcFd5MXplRlNWWkpodWZjd3lWbzBHZDk4cXNBQU5BODdkNTBfeXA2X2REQ2IzMWJuNWt5WkFQRUtUcWY0dHBiV2dna1VOXy05ZlV6NmVmNy1LZHIzYWF5REg2bmhjaGVuajg2WG9XQnE2cDcwQXNTSVl5RnEtbWFUSDJpMlAxN2FhVW0wTFVjNmxyTmZtWjlNTlBBNUF5SDVfbzVhb2hfa1ljLWJvTHBCOHV3QkZLU1hvUTEyd1NZb2EyRXRDRkp0M3pYaTFFMUJ4MXpWUjIyOXZIeURCeTdyVlQ4?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "כמעט 30 אלף דולר לקוף: מחיר תנופת פיתוח התרופות בסין - ynet",
+      "source": "ynet",
+      "importance": 55,
+      "snippet": "כמעט 30 אלף דולר לקוף: מחיר תנופת פיתוח התרופות בסין - ynet | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmby1HNm1WMkVBZ242NGtRcmhmUUNLc2ZXb0NJN1V2Q0ZiZl8xaDJDU1JMcVVHUm1OWF83RGpUZ3VtTDg4Q1g0QzJIaF95Q1EwSm5jOHZnWjVpRkFS?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "全球醫藥供應鏈迎重組！藥物韌性關鍵不只製造 更要深化跨國合作 - 環球生技月刊",
+      "source": "環球生技月刊",
+      "importance": 53,
+      "snippet": "全球醫藥供應鏈迎重組！藥物韌性關鍵不只製造 更要深化跨國合作 - 環球生技月刊 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VFYybHZmUlNVNkl5cUdsQ3lIel94YjdicTZBZ0FFTlQ1TmtNX1Z6UVo0ajZSdzREUDhOLVlXa2VGbEdSd2EyRVc1Y28tTFZRVzlGYUFXWXpjUFJPNDIwWnl2Zk5BWlJsc2RWV0Zuekh5Zw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Kemandirian Farmasi Nasional Unpad Pimpin Riset Vaksin Tuberkulosis Indonesia - Pikiran Rakyat Koran",
+      "source": "Pikiran Rakyat Koran",
+      "importance": 50,
+      "snippet": "Kemandirian Farmasi Nasional Unpad Pimpin Riset Vaksin Tuberkulosis Indonesia - Pikiran Rakyat Koran | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZjB5S2hWUU5jZ2tZaDNubzhtT0JndE5SWWN4V2xNSGJIbVB2Ym1LNnBxejZtaW83ckIwN3I0TjBpTTJEWGpUQVhCUEFFRlRtQTdMWmJ2RnhDREtKRkJ2Y2FZd1ozOGdqdnViVmZocVFIOTExWGp2RUxWUlNPYjJhVDI4Sy1aalRTREdXazdaMGM1bEZxOVR1RFpjb0loNjNxUFdFOEFnZ20tVlNSTURqOVhaQmwyVm9GNzEzQ2ZJdUc4SFhfandfd0ZXV09FWFlDYWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "ورم كبدي متكرر يزن 3.5 كجم نتيجة العلاج الذاتي بالأعشاب التقليدية. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "ورم كبدي متكرر يزن 3.5 كجم نتيجة العلاج الذاتي بالأعشاب التقليدية. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjdHdnJFMkZyZk9aOEgxb0ZPT3c2N1BiYWVBbVd1SGkwazZNbVI5VVkzdFMwUkcybTNNYjZ2bTBhcWZXY2dNUnpaUDZ5LUx3T1JtYXdQdUtIWjk5bklZWGMzM09ZbmtSYzFwSHgwcHVRTDdISGp6bVdYcVR6dFB5TS1qaHU?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment - The Business Standard",
+      "source": "The Business Standard",
+      "importance": 47,
+      "snippet": "Drug pricing deadlock stalls hundreds of new medicines, strands investment - The Business Standard | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdUYyV2RQaUU2OEVWYUZadlJhcWpscWtRWUV1aGpZbHFGUnh6cGhVQ2l2TlFQUDVIY05lWmIzZWdKb2s0OUp3R2Nsbnk2Q2FUS3FJRHJwVTRjSTZsNDVNV1FiUnNiMnhuYzhYRU9YWVlzQ1NEaWNoSy0zVHdubjgtUVV2aVphc0NSSU5GSkFMcXRIbDhZTGRSYnNMSGhxX2l5NS16ZzdzU29XOW1nUkRzamhBcjZjcDZzN1JjN2g2emJxZ9IBwgFBVV95cUxQdUYyV2RQaUU2OEVWYUZadlJhcWpscWtRWUV1aGpZbHFGUnh6cGhVQ2l2TlFQUDVIY05lWmIzZWdKb2s0OUp3R2Nsbnk2Q2FUS3FJRHJwVTRjSTZsNDVNV1FiUnNiMnhuYzhYRU9YWVlzQ1NEaWNoSy0zVHdubjgtUVV2aVphc0NSSU5GSkFMcXRIbDhZTGRSYnNMSGhxX2l5NS16ZzdzU29XOW1nUkRzamhBcjZjcDZzN1JjN2g2emJxZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Pak–China TVET cooperation strengthened through partnership forum on Pharmaceuticals, Healthcare & Biotechnology organized by NAVTTC - Daily Lead Pakistan",
+      "source": "Daily Lead Pakistan",
+      "importance": 47,
+      "snippet": "Pak–China TVET cooperation strengthened through partnership forum on Pharmaceuticals, Healthcare & Biotechnology organized by NAVTTC - Daily Lead Pakistan | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 ",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObGR4NDRRQTdLWVZGOEQ1aEkzOEtTZE5faVVEeUExZWs3Wk9ET2VhcEVwSVhTTEhCbjFYVmhpeGNPakx5S0szQ1hkbzljMTUyRGpOVk9DcnIwU3BjUVZwUzM1RTZvUkdoV3RzNjdsdTdDejN2UlVjYWF2OGl0Y0htZm5HSkxxSUpuY2V4eTc1eDVzSUFxQlNZbXA0TXFiMDZZRk13TU9ISVBrMEg1cTBlQVh6eUFuVy1YSHVKNjYzeDJJYlVDemFwelI5YVVRbEdaempJX0xDZ0VkX3VEOFFncWEybklpSmNfVjJwR0JpOEt0dmtpZFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Bệnh viện Y học cổ truyền khám bệnh, cấp phát thuốc miễn phí cho 450 người dân tại xã Minh Khai và Kim Đồng - Báo Cao Bằng",
+      "source": "Báo Cao Bằng",
+      "importance": 47,
+      "snippet": "Bệnh viện Y học cổ truyền khám bệnh, cấp phát thuốc miễn phí cho 450 người dân tại xã Minh Khai và Kim Đồng - Báo Cao Bằng | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNT1FVVnJwd1JDZTdWMmp0Xzlidmo1SHlnbkg2M21vVndtY0lRbVdaM00xbnk4ZUxsLTdfSFlVYUctdlRvRmFiNlhGbl9ldGViZmZ3WEpKUVJjcmxHWDdHSnZlR1VyWWx1ckwxbVZ6NWRYZElTRlBpXzJqbUVLcW9wRzdxS044cURhZFBBYktFeGViNXVuNklqd3dIcjc4emNlbHlKUl9MVGUySExBQUJnLXNibGlpcm1CWFhNd3pCOVFZa2ZubERIbFB5MmJmQzV1?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "לא רק התרופה הרוסית לסרטן, אלא גם שתי תרופות נוספות לסרטן אושרו בסבב זה. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 43,
+      "snippet": "לא רק התרופה הרוסית לסרטן, אלא גם שתי תרופות נוספות לסרטן אושרו בסבב זה. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGVsVFhnWngxeEpaNWFSaE9VMTFKQW41TGRDaFctWEYyVFl2VDNSd2Iyb2k2TEdVS2d2Wm53MUotbVBST2RJMnp1c1JkODk1eTBUOUFSTm1kakZXcGhpSVFsVVpKd3Y2X2lBdWNWY0J1RlAzQ3NHSEc3LXRRY0RxYjNuVzc3czhacTdoRER2YnVVTWZ5VWFzekpxdVU3TFUtdmhQSjJDeW9vZVdfUGxoYmdiREV4aldsU3BjV2FsYnZHMnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 3
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 11,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}
