@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-21",
+  "total_articles": 445,
+  "language_breakdown": {
+    "korean": {
+      "total": 205,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 9,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 128,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 112,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 4,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 6,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 제약·CDMO·비만약·제네릭 재편",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 33,
+      "avg_importance": 47.3,
+      "key_articles": [
+        {
+          "title": "Big pharma boost radiopharmaceuticals as AdvanCell raises ₩466 billion - CHOSUNBIZ - Chosunbiz",
+          "importance": 60,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "South Korea opens GMP hotline to speed pharma compliance and support - CHOSUNBIZ - Chosunbiz",
+          "importance": 55,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "Natco Pharma Shares Gain After US FDA Tentative Approval for Generic Cancer Drug - NDTV Profit",
+          "importance": 47,
+          "url": "https://www.ndtvprofit.com"
+        },
+        {
+          "title": "Drug Price Adjustment Proposed Based on Indian Market - Ratopati",
+          "importance": 47,
+          "url": "https://english.ratopati.com"
+        }
+      ],
+      "summary_kr": "방사성의약품, 비만약, 제네릭, GMP 규제가 한 흐름으로 엮이며 글로벌 제약과 CDMO의 투자·공급망 재편이 계속됐다.",
+      "summary_en": "Radiopharmaceuticals, obesity drugs, generics, and GMP compliance remain tied together as global pharma and CDMO investment and supply-chain reshaping continue."
+    },
+    {
+      "topic": "동남아·중국 제약산업 허브 재편",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 50.0,
+      "key_articles": [
+        {
+          "title": "Relaksasi BPOM di Tengah Tekanan Industri Farmasi - Tempo.co",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX0djQlM3VXFpMkJwMzV0WDB6UUdVd09hc1lucGFqUXRZNlBFRGlVb3ViamVpakN2eE5FcGFjVnQ1ZHBESkFLNVJFdTBWUmNzUXdzY1RvSGkwOWJINVVVcXlFSF9GU2RVaVBCWmYxRVRQRC0xVWd0RktlYkNRSEtvV0hMbE9sS3BmVHR0NjVTWGprTTA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Buka Peluang Baru bagi Industri Farmasi di Kawasan Greater Bay Area dan Asia - ANTARA News",
+          "importance": 50,
+          "url": "https://www.antaranews.com/berita/5658157/buka-peluang-baru-bagi-industri-farmasi-di-kawasan-greater-bay-area-dan-asia"
+        },
+        {
+          "title": "China mempercepat pengembangan obat berbasis AI, meningkatkan persaingan baru bagi industri farmasi global. - Vietnam.vn",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVVc4WHd4ZXdhSHk5NlFjcDdvVlJHamNqdUl2V1N4UnF4OUZ6dXpBRjI2Ny1pM1RTVzdpRWlXbDFnZW1WelpaWjh5Ri1Pd2xSWVFIOWFGb2xKZHpQNGFiS2dPSFlRcE9yUFhDQU5sdEdxd3JvWTZBQndIQXNQMEZnVHprUGUyN29pSlNzVXVNZEhtdTYycnZnUkR5b05PVFdTdEl1TDdhMU5oZzhIaXJYZzRsT0VoZ3M?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "인도네시아 규제 완화, GBA·아시아 시장 진출, 중국 AI 신약개발이 연결되며 동남아와 중국 제약 허브 경쟁이 두드러졌다.",
+      "summary_en": "Indonesia's regulatory easing, Greater Bay Area market expansion, and China's AI-enabled drug development continue to sharpen hub competition across Southeast Asia and China."
+    },
+    {
+      "topic": "전통의학·시장 반응·법제 파편 이슈",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 10,
+      "avg_importance": 50.8,
+      "key_articles": [
+        {
+          "title": "ענקית התרופות הבינלאומית חוגגת עסקת מיליונים: המניה זינקה ב-5% - ice (אייס)",
+          "importance": 50,
+          "url": "https://www.ice.co.il/finance/news/article/1121725"
+        },
+        {
+          "title": "Unpacking Anthropic's 100-day sprint into biopharma: Nobel hires, M&A and major ambition - Endpoints News",
+          "importance": 56,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcl8tT0RXejUtYlg0dkc3YlVoeU5EU2tfZExLVEhUMDYyVXdTa2UxdE9jSl9meE9CZjBfZVEwZFZocUxRRnI5X3hpeEo3TUpIT0U0Y2dFOGlBakVScTd6QjNfVXVYaXk1bHZ0Z1BnNHFiY0ROR3RGZU5QVWIzZGtvN2RXRHRLdWRRdmp0bWpabFpFcV9MejhpOUMwaW1tSFprMGlDLXln?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "KOCCIMA HOSTS HERBAL PRACTITIONERS IN LOKOJA, PLEDGES SUPPORT FOR TRADITIONAL MEDICINE AS VIABLE ECONOMIC ALTERNATIVE - The Nigerian Post",
+          "importance": 55,
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQm1qNlN5NnVjeHJybFpveGc1dWYxYkY2clRzaDV0WWtFUDQ1ZlV2Vmh5UzZmOTV6bDR1dFQzXzdaRkNNdVVja3dRVzNYMDkyZTVjU0ZpVnVsSlo0d2dPWktuUGplQWx1SzhEQlFrczU1OXFGbUxZTmU3cUJoanBFZ3VYaEg0Yml6LUZQN3BWQ2stckUyajZYb0sxd1hOeF9YVzlON015NWRDVFRFa3RfcVdReEl2bUZwTDVvRDgzU1lzMUVLaDJ5SnVnV254d0c0ZlRVLXIzVW5fcUNjT3luWFJ3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Half of newly developed drugs are the result of this 1983 Law - KTEN",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVm0yUnc5VVJKYkpvMDdYQ2lZbUVCNlhzTTRMcExnaVUyek5oZEhwcDNaUkJnV1ByeW1iRWxPTHFZQ0VzV0xYSjlSN3owWmFobHlzeUdYU2t4TV9jMFFUeVZLVC1EZXhqcHdlc01fQ0QzRGlWNHR4U3ZmZkZUME1nOC03QWhuamRlMldCeUNFWmlYOFMzWFkxR0RBWUlkbkVXalFtbHgtRzNTQ1QyWUExaGNpZDc4ZUtHdnBILVVOdmY1d0Z1ZThxX1lYYzdNWldpRGhVYXJlYjV3b25q?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "전통의학 홍보, 시장 반응, 법률 해석, M&A 기대가 서로 다른 언어권에서 흩어져 나타나며 주변부 신호를 만들었다.",
+      "summary_en": "Traditional medicine, market moves, statutory interpretation, and M&A expectations surfaced as dispersed fringe signals across language markets."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 10,
+      "en_count": 2,
+      "significance": "high"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 11,
+      "en_count": 13,
+      "significance": "high"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 3,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "글로벌 제약·CDMO 대형 투자와 비만약/제네릭 모멘텀",
+      "APAC 바이오텍 협력과 임상 브리지 경쟁",
+      "인도 생명과학의 신약개발 가속과 승인 흐름",
+      "그레이터베이·아시아 제약 허브 경쟁",
+      "전통의학·약가·공급망 등 주변부 글로벌 이슈 확산"
+    ],
+    "changes": [
+      "글로벌 제약·CDMO 축은 유지되었지만, 오늘은 방사성의약품·GMP·제네릭이 더 직접적으로 묶였다.",
+      "동남아·중국 허브 경쟁이 부각되면서 규제 완화와 AI 신약개발이 같은 산업 축으로 수렴했다.",
+      "허가·백신·특허·약가가 한영 교차 키워드로 동시에 나타나 규제와 시장 이슈가 함께 움직이고 있다."
+    ]
+  },
+  "connections": [
+    "제조(GMP·CDMO)와 규제(허가·특허·약가)가 같은 뉴스 흐름에서 결합됐다.",
+    "다국어 기사에서도 백신·허가·특허·약가가 반복 노출돼 글로벌 공통 의제가 유지됐다."
+  ],
+  "generated_at": "2026-07-21T16:33:14.247349+09:00"
+}
