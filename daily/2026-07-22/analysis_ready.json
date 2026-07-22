@@ -1,0 +1,775 @@
+{
+  "date": "2026-07-22",
+  "total_articles": 465,
+  "language_breakdown": {
+    "korean": {
+      "total": 205,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 17,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 12,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 130,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 9,
+        "Chinese Traditional / 대만": 10,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 35
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "임상",
+      "count": 11
+    },
+    {
+      "keyword": "FDA",
+      "count": 8
+    },
+    {
+      "keyword": "약가",
+      "count": 6
+    },
+    {
+      "keyword": "GMP",
+      "count": 5
+    },
+    {
+      "keyword": "허가",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "항암",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 4
+    },
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "한약",
+      "count": 2
+    },
+    {
+      "keyword": "실사",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    },
+    {
+      "keyword": "CRO",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 22
+    },
+    {
+      "keyword": "generic",
+      "count": 16
+    },
+    {
+      "keyword": "approval",
+      "count": 12
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 9
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 5
+    },
+    {
+      "keyword": "pricing",
+      "count": 4
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 18
+    },
+    {
+      "source": "데일리팜",
+      "count": 11
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 7
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 7
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 6
+    },
+    {
+      "source": "edaily.co.kr",
+      "count": 5
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 5
+    },
+    {
+      "source": "의학신문",
+      "count": 5
+    },
+    {
+      "source": "뉴시스",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "STAT",
+      "count": 8
+    },
+    {
+      "source": "Whalesbook",
+      "count": 5
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "Legis1",
+      "count": 3
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 3
+    },
+    {
+      "source": "The Business Standard",
+      "count": 2
+    },
+    {
+      "source": "The Manila Times",
+      "count": 2
+    },
+    {
+      "source": "Pharmaceutical Executive",
+      "count": 2
+    },
+    {
+      "source": "Briefs Finance",
+      "count": 2
+    },
+    {
+      "source": "simplywall.st",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 제약·CDMO·비만약·제네릭 재편",
+    "동남아·중국 제약산업 허브 재편",
+    "전통의학·시장 반응·법제 파편 이슈"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 33,
+      "keywords": [
+        "drug",
+        "pharma"
+      ],
+      "articles": [
+        {
+          "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 19:02:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJ0Q2x1Wmtoa1FXcjI1RjZwUU5FclB4Q0VST1NfVUZpdHFvUHF5UUpTRkhiclhBakRJY3VKRFhIclZFTnhLcUN3NFVCdm1BTlVBU2JNYVVLaERfYUJaOGFrVEtaTTdxSHFWRU5PX25WS0NjX0ZaRklIQktDbWVRLWNMTjdCbDJ5SEZFektfMDF6ci1aOGtZU3BmNFZMaDdyV1hrRjhYTXMtVTY4dE1KbQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 21 Jul 2026 19:02:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJ0Q2x1Wmtoa1FXcjI1RjZwUU5FclB4Q0VST1NfVUZpdHFvUHF5UUpTRkhiclhBakRJY3VKRFhIclZFTnhLcUN3NFVCdm1BTlVBU2JNYVVLaERfYUJaOGFrVEtaTTdxSHFWRU5PX25WS0NjX0ZaRklIQktDbWVRLWNMTjdCbDJ5SEZFektfMDF6ci1aOGtZU3BmNFZMaDdyV1hrRjhYTXMtVTY4dE1KbQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 21 Jul 2026 23:40:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTYzT0tHTGRMbHJTWEhMbzMwT3VFZlBWanNOem02SHBBV1VJLTZTVEVFdjB5MnM1TktvRXFnUDZ5UV9CMzE5cGhtOWVxejE4amlGRWkzTDkwWmw3ZnRYNDFSZlZFZmtma2ZHSk1CSFZSNk5ibHR4Z0tDajFaTFBBYVlvZkVVcDdxTnFaQ0N2U1RqbEd3N1NWRUx0NUtJdVVJLWkwQUswRDdpa2c1Q25Ub0ZpOW1VXzJIcEpDb1NDQ0ZacFJRTS0xSzd1NGFNcHo0LVMzT3lzVmhOVGpJNmM5ZUxmeEM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 09:01:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTViTEZXVFozOHZxM1NieVhaNi1wN0JqdExCdldVUXYzSXZWY1VBc1p1Tnhoc3FpaTdnOUpNVC1FWUFHWHpxMVlaam5lS1dNOEJJOWM4bi1WUk1td1huMXJZdTFoYTRlZkFBMVpoWkZGQ1JOd3lndjI3cEpiRlp3bXVaZzdjaXdfd09MOVFDZVZ6YTBwTjMyQ0RKYlBrQTJXY25vRjJMVkFsaXh1R216ci1pR2RvR3NlNkRxVFJBYklDbGRpUHFFME5yZktUNllpY2VqVTZQbHFua0VIZ1hn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 09:01:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTViTEZXVFozOHZxM1NieVhaNi1wN0JqdExCdldVUXYzSXZWY1VBc1p1Tnhoc3FpaTdnOUpNVC1FWUFHWHpxMVlaam5lS1dNOEJJOWM4bi1WUk1td1huMXJZdTFoYTRlZkFBMVpoWkZGQ1JOd3lndjI3cEpiRlp3bXVaZzdjaXdfd09MOVFDZVZ6YTBwTjMyQ0RKYlBrQTJXY25vRjJMVkFsaXh1R216ci1pR2RvR3NlNkRxVFJBYklDbGRpUHFFME5yZktUNllpY2VqVTZQbHFua0VIZ1hn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Korea Syntex Pharma seeks buyer amid sanctions and weak biotech sentiment - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "Korea Syntex Pharma seeks buyer amid sanctions and weak biotech sentiment - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 22:02:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3M2Z0FWOXUzOVBIdDhUTmRsamJSTkd2eUVydDE2em15UHh6SW8zcVlaeGFhaUQ4dXhmWjduUXk4MFNDZWN4S3o3TjRtX1dxR0RzZ0t4a2dNZWVsOGl2VGV4M2U2aFkyb2NUNGV1MjBGSEFiRGJnalJGME9VcDc0SERR0gGWAUFVX3lxTE82T2tfR2xyU1RHRXdBckZjLW5uM1ZjUTY0TjNqQ3VxSEVOZHQ2WU5weW10RFBhUmtzTFhOaVQ2S3RVMFZVMEZVcUMwRmxJZDh6eFpuM3BaVWl1ZExLV25HVXdLMTZGOWgtZHlWMXVZVmw5dUJCX1NWYm9FcjRJdTZFNEFKd0MzallBNW0yV0QzTlkzTElfZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 21 Jul 2026 09:01:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTViTEZXVFozOHZxM1NieVhaNi1wN0JqdExCdldVUXYzSXZWY1VBc1p1Tnhoc3FpaTdnOUpNVC1FWUFHWHpxMVlaam5lS1dNOEJJOWM4bi1WUk1td1huMXJZdTFoYTRlZkFBMVpoWkZGQ1JOd3lndjI3cEpiRlp3bXVaZzdjaXdfd09MOVFDZVZ6YTBwTjMyQ0RKYlBrQTJXY25vRjJMVkFsaXh1R216ci1pR2RvR3NlNkRxVFJBYklDbGRpUHFFME5yZktUNllpY2VqVTZQbHFua0VIZ1hn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "How Scientists Can Revive Global Health Drug Development - Think Global Health",
+          "source": "Think Global Health",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "How Scientists Can Revive Global Health Drug Development - Think Global Health | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 14:14:28 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjFKVEVMNnNSd1R2blV0aGZEMjVzenlnVmxydVZJSjFJRUc4MVhDZmU5R1ZUTWh2bmlNVVItb1RBWllhY00zVXEyR2VrYzRKSk9wYUd4TTJqVVFGeGlQSG9Tb0xmV3Qxd25xRVRVZnZkYi1mLTNER1VqNDFRaXJlWEJ3ZTVyQ1hWY3hGWjhXQ1J6X0l6YUFCYVBlN2NTWlk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "‘Historic breakthrough’: China approves novel drug ahead of US, Japan and Europe - South China Morning Post",
+          "source": "South China Morning Post",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "‘Historic breakthrough’: China approves novel drug ahead of US, Japan and Europe - South China Morning Post | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 23:00:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVUpqN0s0THhCRk51dlFBZ2Q2eU02QVR3WGJMUmVJd2dlcDdtcVRiUy16c1N6Y2o4Wk1ISmtIOFJHNmJNRW5tZGtJV2N5UDV2Sl9NSHNjdFdJb2FRNjlKRE9rb3RiVUxVYm5XcVJ1bFViMm1Rclhlc1BUVkZyVVFfWmdCQ3AtaHo1LW45ZmpqdWRuVWlZX3ctSTU3YzBvRlBBaWN5YjdjODJveDNtY1BveHJObjBiVXV0S1ZWN0RnekJHbTVhX0F30gHHAUFVX3lxTE9VNWRRdkdVRVVVdUx3UWYtWGZWOEN3VkpWcmhBU21EZHR0bTBnU0R1NzF6VFA5WTFjRW4zNGxlU3ZsY0NJVm1DSmpkbHlJVUV5SHZQLVQxdmozNjliZnlyVEVLRXUtTTI2YmZuUUVkbW5ycWkwTFBuWG05VEYzRVg2bDA3ZFZXRnFfa1VNeW8zMjBKMXlvcm1fSy00N3ljLVk4YmZrTkpWazVsdzB3SnZJYnVEaEtxaGFTUkRzRDZ5SVY0Q3l2QWM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug Device Combination Products Market Poised for Robust Growth at 9.1% CAGR - Market.us Media",
+          "source": "Market.us Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug Device Combination Products Market Poised for Robust Growth at 9.1% CAGR - Market.us Media | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 22 Jul 2026 05:38:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDdTRDJfbTl2dlZEU0tGUE1Kc21pTDZOZEJ1bEpWZ1VTLXc1cWJJX2IyWU5GVEJYZWJaMmxraUVZQ2xVTk9GaUwwLVdCaTAzekZ6WUxtSlVMelNsRmFKSE9lOHAySEJGbmNvZUxBR1FLRWhId3dvY25oYmd2Y2JsZ2dB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "China gives market approval for new narcolepsy drug - China Daily",
+          "source": "China Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "China gives market approval for new narcolepsy drug - Chinadaily.com.cn | Global Edition ASIA | 中文 双语 Français | China Daily PDF | China Daily E-paper",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 14:20:57 GMT",
+          "url": "https://www.chinadaily.com.cn/a/202607/21/WS6a5f804ca310986e2b466833.html"
+        },
+        {
+          "title": "Novo Nordisk sues Eli Lilly over GLP-1 drug ads it calls ‘deceptive’ - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Novo Nordisk sues Eli Lilly over GLP-1 drug ads it calls ‘deceptive’ - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 11:36:28 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaG01V2ZBaGJ2LVZDeHZYWGxYRHY0SUpQendGUkFsZDZmdTRMbVk4cEloOEktU3piWXdQTjFCZUo0UTBjR0NUM1F2YkVUSDg0Zlo0Njd5SHcxOXljM0RsRlV1TWZucGRzaDZaMVkyWFZJSGxzZ2NQdjU1a2JoZmM3Y0oyX0c2N3ZKa3ZZMnIyOWxFdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "VNDA Stock Rallies After-Hours As FDA Approves Schizophrenia, Bipolar Disorder Drug - Stocktwits",
+          "source": "Stocktwits",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "VNDA Stock Rallies After-Hours As FDA Approves Schizophrenia, Bipolar Disorder Drug - Stocktwits | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 12:01:22 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObzZwc0g0V2xjTHIzbVpYVDM5RTRGamJiQ0ctLUN0VlpiZjlsMjdpSWNva3VSOHpUSUhvWEh0eUljdTdIMm9yRUtEVEZPalVKMy02eGotaTBud0pJMDM0V3pSUDY5d2ZkY3VELVpGb2NoTXhHMExpMUt4NmVsRXB2VWtxQXNMWHZkcE5fOUtoMnpqMVM0UVA1dGdyYW9SWHNvQ09YUWUtb1NCOGhoUE96QUR6X0VUQWhYdnpXalRMeXpCR1RrZkZ2MFZPQThiakNMSVRkbFNfa1YwWTF0aHdv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment - The Business Standard",
+          "source": "The Business Standard",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug pricing deadlock stalls hundreds of new medicines, strands investment | The Business Standard | Skip to main content | Drug pricing deadlock stalls hundreds of new medicines, strands investment | Abbas Uddin Noyon &",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 15:14:05 GMT",
+          "url": "https://www.tbsnews.net/bangladesh/health/drug-pricing-deadlock-stalls-hundreds-new-medicines-strands-investment-1492781"
+        },
+        {
+          "title": "Silo Pharma Advances Growth Platforms for AI Agent Commercialization and Lead PTSD Drug Program - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Silo Pharma Advances Growth Platforms for AI Agent Commercialization and Lead PTSD Drug Program | | The Manila Times | ENTERTAINMENT | THE SUNDAY TIMES | SPECIAL FEATURES",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 13:11:18 GMT",
+          "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/silo-pharma-advances-growth-platforms-for-ai-agent-commercialization-and-lead-ptsd-drug-program/2388505"
+        },
+        {
+          "title": "FDA Faces Staffing Crisis Threatening U.S. Drug Innovation - Legis1",
+          "source": "Legis1",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Faces Staffing Crisis Threatening U.S. | Drug Innovation - Legis1 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 20:16:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxUkotMERtUlBNU3ltOXNxb05LVWhfVzdrS0hWRHdjVDlrZThpampraTI4cUcyREt1ajF3dXlzdGlCUnNKNXdobHpxcGd5cTNWN3ktMGRWSk1iTFFNSTlGM0pNVGVCaDZLd1VVSHk2OXc2aUFreWFKcA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Makers of rare disease drugs seek exemption from Trump’s price-cut pilots - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Rare disease drugmakers seek exclusion from Medicare pricing plans | STAT | Skip to Main Content | Makers of rare disease drugs seek exemption from Trump’s price-cut pilots | Exempting orphan drugs would shrink pilots th",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 08:31:24 GMT",
+          "url": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/"
+        },
+        {
+          "title": "A Depression Drug Just Cleared a Key Hurdle Early, and the Market for New Mental Health Treatments Keeps Widening - PR Newswire",
+          "source": "PR Newswire",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A Depression Drug Just Cleared a Key Hurdle Early, and the Market for New Mental Health Treatments Keeps Widening - PR Newswire | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 13:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUVI3SzM5Y0F4bWtlVlZXQ2FvVkZ5eWd1aEdENGF2T1NkOW1qZDBtZnZxM2JPcE1fQlhQRUZYbWJ4bzRmRkE3ZHZ6VmtySzhiQWl1OXdmT3NxNGJLenRFY2ljZ0h5NlozOU1xY2dTOGxNdzJQbFNfdk1mN1RyWjA0b1luVlhITnZjd3JidEdlUnpaRXFja2ZqcndDLW1qTkVoRXRYZHk4ZnB4TXNGRTRtY3ZqMjNCaHlzVlhmS09aTXpXNnFuWUZQSG50VGhqblJad2hURDk1Vmx1TzhRdEFCQzhjZmxSeldxM093cmNXMTlIdVJwa1JreE9mUVc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "China Overtakes US in Cancer Drug Approvals (2020-2025) - Briefs Finance",
+          "source": "Briefs Finance",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "China Overtakes US in Cancer Drug Approvals (2020-2025) - Briefs Finance | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 14:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZG00U1gtYmFiVzFWRWlXdTdUc0lMbTJ2LS00dVdzQVhGdGVTdXROaFpNdEZMU2lBSHNRSWEzZjFRQVpwcDlwOG1CVDlPeW1pUkFwdnZxSktsMWE4bldMa19ZcUNpWkx3TVRzMS1vYVU3TkRTMTUydFJlWUFFVWdYYWVSay1ZUHJGU19ENTNaY0d4UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eli Lilly is acquiring AtaiBeckley, a psychedelic medicines company, in a $3.8 billion deal — signalling that drugs once linked to music festivals and anti-drug campaigns are now entering mainstream pharma. Ekta Batra explains why compounds like psilocybin - LinkedIn",
+          "source": "LinkedIn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Eli Lilly is acquiring AtaiBeckley, a psychedelic medicines company, in a $3.8 billion deal — signalling that drugs once linked to music festivals and anti-drug campaigns are now entering mainstream pharma. | Ekta Batra ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 16:00:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUlkWW1XUHlha2JMSmxUR0V3NXdhM1haZTNid0NsQ2YxajRhTG1tR0ROZGFnaWdVd3d0R19ERi0zbVN5T2hUUE9wakJCa2ZSYXJ0bTdYVEwxLTRhTGpGOFVCa0lnOV9MNDJxaXZmalQ4ZWRyRGZBZlRqMExlT1Nna0RCTUlBYUxtT1A0cTExSVhCa05BLWlUQVVheG5pUm1sUGc2Z2FSU3ZnRzQ5TVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "A new pricing system and that nurses can prescribe: this will be the new drug law - Diari ARA",
+          "source": "Diari ARA",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A new pricing system and that nurses can prescribe: this will be the new drug law - Diari ARA | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 12:04:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDdEWU9wRE9aUGRhZS1sRHl2aUJlQ0lST3ExdzN4Y3JjQWJYRE85ekpGZWstd0c1ODg0blF3VERJeGdQdlpQWW1lWkdzaWdQTGUweWtzWEZnd0FXRDVMSnU2MWhlYUc3dFY1dzVLOHZrcUR5SS1SaFZrRWx4b1hSeG1QZFhSRmgtTGx1RTl3Q1RNUjNFanRMMTM3WVV2Y2JQSWMxYURIakV4UlhkVlV2UXRpNUpzZHJwaE5Tb9IBwgFBVV95cUxPZi0wQThkZUdWcWhxcWVQYWtpSGdkS3VSXzQyZHNYNkl3N3dqTEp0VkhlakRIQzdod1NYN0FRQThZeXg3VFdpZ2xXSVZ3dFExN3RKT0loWG1KeElHWlU2aHhGVnl3S1daWVNLZmpKcTkyTWszZHNtcUhjTXIydUFtWUdrRVBSaVlVRkRWRkVoNWFhMGJwMlNRNzBWd0huOWE0LTk1VW5ZSHk1aENCd1Izd3FhblpZcktzdzNXaEh5Wklhdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Glenmark Pharma Targets 70% Revenue From New Drugs by 2032 - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Glenmark Pharma Targets 70% Revenue From New Drugs by 2032 - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 19:47:08 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVFsUnE4SXBlNmI4eElMXzh6anVMWTZlRkdJX0JJVU5aMTdvaDZGREZwSDFRTHoxdTZSN2VZb3BoVVRmc1hPaWsyWmpvQ1I0N0Y5MnhqLTJlMGpNdzNybGVhRzJlTzBMajZWVkpIcXE5TW5rNHAtQzhVOGdNTHM1MUlQdHA0X3R4R2dCWVVHQlBUQUhjLVc2MHdQS1pqalJRUG9YTW5sUGRjSEs1VDM1ZkhkQk1yaTBUZERfTXdDZjBDNGNFamREaFFmWmxiZjFuTFRrMk5LMUxqeExUSFFJdg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Sun Pharma, Cipla, other pharma stocks in focus as Trump unveils steep tariff plan on generic drugs: Key FAQs answered - Dailyhunt",
+          "source": "Dailyhunt",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Sun Pharma, Cipla, other pharma stocks in focus as Trump unveils steep tariff plan on generic drugs: Key FAQs answered - Dailyhunt | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 22 Jul 2026 03:53:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWC1UV0VjZWtRdzI3TmVZYmkwSFNhU1M3Tm5NbHc3UDR6QlZqT183MWZsMzlfei02aktFTzMzV0czUzJ0Qm52R1g3SDdxMGk5ZElLMG9nUG5vcnJGNDdDNzBreUNWR2poX0YxMlhYSWRSMkhGSUxHYlhiVUMyNlJjUnNMcFJjQldMQngtZDltZkNkajFobk9kbzV4M2tDUHNDcU1VQVV3UG45SnNSNFdZTFFLSnFrNW5ZQ25xQnZjWTMyZ1gxSjljbnpSQlpyQUd6VkxWc1NZSnlKT1hXY0k3SVQxczQ0Zjgxb0NIV3lGZ3FOU29QU0s4NV9aTkNObzZIMFJORmFsTHNTakpYY0VlaWh1MGZYdzNORTYzU21hbHJNUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Half of newly developed drugs are the result of this 1983 Law - KION Central Coast",
+          "source": "KION Central Coast",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Half of newly developed drugs are the result of this 1983 Law - KION Central Coast | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 22 Jul 2026 02:33:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeDN1N01JN2F1bEJLcmQxSTBiMjZJSS1UVkh4MFZxeVVhUnJ3NzRiQUVkcklSQ3JaUTlxOUpYMGtpSXRfLVMxblJBRS1xOGxiTmZyMTVuUTBzQWE3VHhLN0E5RDJoNTJpcXdwbk1peGpPdDNkYVNLV3NHbGcxcHh3bUVrWkRKZ1F6T2RndXRVaG1XbGY5dGdSdFlQVjdFXy1zaUtLeFlXUWJqYXdVSk04SU4tME1qSkRrVElodEozZ1k?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "3 U.S. Drug Manufacturing Stocks Investors Are Watching As Tariffs Rise - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug Manufacturing Stocks Investors Are Watching As Tariffs Rise - simplywall.st | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 22 Jul 2026 03:37:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWF8ta0plNmNPLVlya1d4SjlCQ3ZvMDBvOXFQQkZqaXBBYmowU3FPMXBSekc4Yl9QbV9rRE55NGtlUjV4MUlZRzFWRXJxWFE0Sm9wcnpia2FoN3FIRklUNDhUWF9aWUdPUFlFc1E4Ml9XRmJRV21fdXN1SkF3b0NLcjNxd2FXaXZNb3NGSUpQOVNBQnF4YVEyN3p2aFBuVlVWN18wQWNnYnlnVjEtbVk0MUJMR2cySTFNUkFLTjdkbENIUkRYa0EwdHhmQmRWdGVxTnBvSTV1dnozV1pNbEc0V2lyanFRR03SAecBQVVfeXFMT1hfLWtKZTZjTy1ZcmtXeEo5QkN2bzAwbzlxUEJGamlwQWJqMFNxTzFwUnpHOGJfUG1fa0ROeTRrZVI1eDFJWUcxVkVycVhRNEpvcHJ6YmthaDdxSEZJVDQ4VFhfWllHT1BZRXNRODJfV0ZiUVdtX3VzdUpBd29DS3IzcXdhV2l2TW9zRklKUDlTQUJxeGFRMjd6dmhQblZVVjdfMEFjZ2J5Z1YxLW1ZNDFCTEdnMkkxTVJBS043ZGxDSFJEWGtBMHR4ZkJkVnRlcU5wb0k1dXZ6M1daTWxHNFdpcmpxUUdN?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Anthropic deepens work with rare disease drugs - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Anthropic, Novo Nordisk, Eli Lilly, Medicare: Readout Newsletter | Skip to Main Content | Anthropic deepens work with rare disease drugs | Novo Nordisk sues Eli Lilly over GLP-1s, Medicare pricing plans, and more biotech",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 13:36:28 GMT",
+          "url": "https://www.statnews.com/2026/07/21/biotech-news-anthropic-deepens-work-with-rare-disease-drugs/"
+        },
+        {
+          "title": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily",
+          "source": "Investor's Business Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 17:09:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU9lWVFSSXBnMDlGdXdTWFZPREV6WnZGb3FaZWc3ajc5eWp6Wmw1Tl82Z1dEc1dMdmNwcW9RNTdZZzlKazZRZEt6bkVOa1FGTUU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump's Generic Drug Tariffs Explained: What it means for Indian pharma before the 200% storm - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump's Generic Drug Tariffs Explained: What it means for Indian pharma before the 200% storm - The Economic Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 22 Jul 2026 05:46:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNdmp5TUdjdmphWkl5ZzRCSVlKNno0cGVESW5SbFdxa0wySUpjUGI5ellWTnAxSXNEcE51MHVZdzVxMDVwZW9ka0NFM2dPLUhyVWttUVh3UXdQLUMwdC1kQVJkdUFjMHdEX1RPLTdsSklWU2RJWnc0dFh0TDY1QzRfX1NKbzhvenBVQ0JvWmJ3N0stNnVPSko4Si1MOVFqUUJNdzdXOTdlQ09ZRmFaZ05tbFMzVG5FQlZRRHRfMkY1NFFQbl9OeVlzMU41c05qR0FhOHlSakJjY21ONFEteGZ6XzFRX0hiQWlrcFBmeFFsd2NSTFRQZExHOXlpbXBHYnNkYUtoeC1YRWN3cnV1WDJKMk11UnVDQmlYZ1pOLWdONUhxQU1GMkxXckhMNElNM3BQT0V0RXNDdzhEUHFSaWF1cTlqY2Z6NV9XTXRPMkZTN1lHU0N3RW1DazU5ZGVTVXk30gHmAkFVX3lxTE5nZlRTTVJEWGhqNF9sLThCLVkwWTJZMmVZZTZRVTcyNzVDZkpuTVRKX21FS0FMLUJuNmpMVVp4YVJiSG9XSElHNjZlZ3ZYX1ZYRklfLVQ3Z0ppSUF5WVF1OFhWX2ZuWEllMTVnaktub0NrM2o1N0dTZGNvV0VBR1lkclFxc3hXalNtS0ZPT09STWlOLTJ2cWd4VTVfRTdKb1F5MXhMMmo1b0lxbmt5TmdMdzVxSlQ4OTVpWk5obzFDTEIwS2d5ZVlEVzRwY1ZqZEIxcEpTdmlWQlZlMlowRzB0VUd2RnRUMDRwSlZPUENGUm5mUzhWMm9PZFh3dFNRcVd3X2VvQ0VFSzM2MzUyN0t6eDdNLWpoS2U4THpVSUlpOU91Q0ZUV1lUYjBvWk5tYTRkLVUzeVF1aG1DNFVwcDdxVUM0dDBycjg2bnN4LVJxd29mOURLY2dYeFZodHRESzEtOEk3MFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "[Latest] Pharma 4.0 Market Size Expected to Reach USD 90.71 Billion by 2034, With 19.80% CAGR; Digital Transformation Initiatives, Regulatory Data Integrity Mandates, and Smart Manufacturing Needs to Propel Market Growth - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[Latest] Pharma 4.0 Market Size Expected to Reach USD 90.71 Billion by 2034, With 19.80% CAGR; Digital Transformation Initiatives, Regulatory Data Integrity Mandates, and Smart Manufacturing Needs to Propel Market Growth",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 14:35:53 GMT",
+          "url": "https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680"
+        },
+        {
+          "title": "Africa’s most developed pharmaceutical market reviews 12 Ozempic generics as drugmakers target Novo Nordisk’s dominance - Business Insider Africa",
+          "source": "Business Insider Africa",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Africa’s most developed pharmaceutical market reviews 12 Ozempic generics as drugmakers target Novo Nordisk’s dominance - Business Insider Africa | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 18:28:58 GMT",
+          "url": "https://www.msn.com/en-za/news/other/africa-s-most-developed-pharmaceutical-market-reviews-12-ozempic-generics-as-drugmakers-target-novo-nordisk-s-dominance/ar-AA28ouz8?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Lupin, Aurobindo Pharma, Dr Reddy's, Sun Pharma fall up to 2% as Trump's tariff plan rattles generic drug exporters - Fortune India",
+          "source": "Fortune India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Lupin, Aurobindo Pharma, Dr Reddy's, Sun Pharma fall up to 2% as Trump's tariff plan rattles generic drug exporters - Fortune India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 22 Jul 2026 04:15:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUnhQOFpkcEZxRG1OUlk4VHJydS0tejVBLUUtRzRvYnAzVU90cHgzMmtjX2lFSFNRRXdBaTJtTzBENWpwaUNBOWtmTEVKOU5RYnRQenBSU0hzRHRYcFBBMVlKMDZVR1hMcFhtT0xJcFB2ZnV5Z0Q1MHppdEFBNHVkMDlnZlhGSDRXa3k5VHRsdE1ZX0syRFlNV1hQMlRjVjJNb0drdS1uNmR0ajI4b2xIQzdNN0llcFQwckZqXzE4OGFzOG52UEMwNHN2ekxtMTVVZGZ3NzFNTk5Wb3h3bklNODZyR01ZaUZl0gH2AUFVX3lxTE5oZ005NWNxZktpZ1pGempseUxvX3BqSGdBajZRZ00tLW9tRW5Mek5TUnFYRzRLMkxyRTRLSjlrQVU2aTY1dFR0QXpsdXdLYnFDV1MwNXpJWDRVSVRFYXlfZGdfOHpnVE5teDFkRlVwU1kwY1FMR21KcWZHWnVaMDBWd25RS1dUZGo0SDljZ3NlQ3FXOHo2MXNBQ0h5N05zOGFHT3B4dG9Dcy1EMWNpbkJPVG1uMTVpbG11Wld6WWFaWTNXUWRYVUhSaWhNMWZIQjBqOTdFSzhwb0xvUktMQ3ZXWHFPemFQUENCc0tHenctZmtPXzhsUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump’s Proposed Pharma Tariffs Raise Concerns for India’s Generic Drug Industry - IndiaMedToday",
+          "source": "IndiaMedToday",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump’s Proposed Pharma Tariffs Raise Concerns for India’s Generic Drug Industry - IndiaMedToday | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 22 Jul 2026 04:44:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcldVZ0NIUFRZNWV5MzBOZzA5S0RnYVliS2k5ell3QTZOeEU2YmVLeVZzZTZ6RTBxOFc4dDBBWHI1QkY3dnZ3b2t4NkhvbmQ5LXBIbnRnREtaaEdjWlY1ZkNocURuOGt5a0phS1NNRXRRYXJBc1BDa09QZHIxZTVpeTV1d1dSMnFGaGpWaUxCcXZzeWk0TmkzTHZQUEZleWtDak1wUHBIeHo?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Glenmark Pharma Targets 70% Revenue From New Drugs by 2032 - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Glenmark Pharma Targets 70% Revenue From New Drugs by 2032 - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 19:47:08 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdVFsUnE4SXBlNmI4eElMXzh6anVMWTZlRkdJX0JJVU5aMTdvaDZGREZwSDFRTHoxdTZSN2VZb3BoVVRmc1hPaWsyWmpvQ1I0N0Y5MnhqLTJlMGpNdzNybGVhRzJlTzBMajZWVkpIcXE5TW5rNHAtQzhVOGdNTHM1MUlQdHA0X3R4R2dCWVVHQlBUQUhjLVc2MHdQS1pqalJRUG9YTW5sUGRjSEs1VDM1ZkhkQk1yaTBUZERfTXdDZjBDNGNFamREaFFmWmxiZjFuTFRrMk5LMUxqeExUSFFJdg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "antibody",
+        "tumors",
+        "drug",
+        "conjugates"
+      ],
+      "articles": [
+        {
+          "title": "Click Chemistry Boosts Antibody–Drug Conjugates Against Heterogeneous Tumors - Inside Precision Medicine",
+          "source": "Inside Precision Medicine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Click Chemistry Boosts Antibody–Drug Conjugates Against Heterogeneous Tumors - Inside Precision Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 18:28:18 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2RzTFdmQ2RRbmJZdng0Vks2ZGpoMDlwc3ZCZ1JPWjJKY0pTa2ZGTEJhMm53SDRhRjJmSlpkcWFKTkZpUDl2UkhLNWxhVTNZeThqMFRkdjVhcnhUbm5lelN2U1ViZzFnTnhHTFZDQTJTTWRJYURNcDdPN0hwbXh0MWZYMGRQdEViQW9wSFpNcER2Q1p6bTgzRlZCQ3M5WXhrWnZ2MnBZeWx5cGlpVVlWRHNxUnNad0hxZEV0SE8yRWdpTXNGS0YtU0NkQTItQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Clicking into place: antibody–drug conjugates target difficult-to-treat tumors - BioTechniques",
+          "source": "BioTechniques",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Clicking into place: antibody–drug conjugates target difficult-to-treat tumors - BioTechniques | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 21 Jul 2026 13:31:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjA1bUlnZDNESEdRbnpULVhrWnBHT0gxMjBfMEg0VTRtcFlRX3BOTUxkQWkwbjJsWXFLeGFvZk1ENXRabWQyTko3cDlHTC0ySVVtUnNweXk0b25yeFI4bUtLTThEVGdEcHN6aW9kaDdBaDdSdHcyRHZ6VUM5Q1hsNldsdzZHdG00cFRMLTZURkJxMXBCenZ4aFpuR0JDc3ZTZlM5blhRMDhFRDhsRlNQQ2QyWVhYejVEQmJNVzFXTDVFUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "agios",
+        "pharmaceuticals"
+      ],
+      "articles": [
+        {
+          "title": "Agios Pharmaceuticals Reports Phase 2 Tebapivat Sickle Cell Disease Results, Discontinues Development of the Candidate - Quiver Quantitative",
+          "source": "Quiver Quantitative",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Agios Pharmaceuticals Reports Phase 2 Tebapivat Sickle Cell Disease Results, Discontinues Development of the Candidate - Quiver Quantitative | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 11:13:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUNkQWZ1QWFmVmE4cFQ1Q3NrWjJXdURQbTJhekhudkNiaWQwMklyRUc4OG1vTVl3ZjNVTFNWaVlqNHlZc2gtbF91ZUlvcFNHd1pHdVJJcjRCbTNHakxHZktVSmE0VEdTMW9TcVJBU0hjMnFmMXRXdGVra0IxV2xMck9xc2dCV1BfQ05kR29UcmFqSHpqMVQ4ZFNPZElibUltU2ZnanNBQl92X3ZTSndDeG1BUFlaSmlvSlA1aHpEeE5Vby1NVHNuMXFTWG9qeHZGeGs2NmQxel9lX3JMVmF0Z2lsMFFRaG5M?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Agios Pharmaceuticals stock falls on trial update By Investing.com - Investing.com Australia",
+          "source": "Investing.com Australia",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Agios Pharmaceuticals stock falls on trial update By Investing.com - Investing.com Australia | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 21 Jul 2026 11:29:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU9EcjkwQnhub29PRWg1dzRNUEFINWxWZnNIRkkyZW5zUEJibF9GanFSY3ZWYUN4azlybDBWSUNYbjZrYW9tb2RCVWw4em1mYno1aldIb0VkeGhGVjE0cWl5dVdWS05KSmRha3ZiV2NmLUw0NWtxMUZyRW94cGIyTmVKSndSbWZBWklIUW1HZkdReUFQdlJVVVZYdnZQYURGemJkeFlIdjBROHJtVFN3WWsxYUNtQXFRejRLbE9vSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Ho Chi Minh şehrinde 450 milyar VND değerinde büyük ölçekli bir geleneksel tıp ve farmakoloji araştırma merkezi inşa edilecek. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "Ho Chi Minh şehrinde 450 milyar VND değerinde büyük ölçekli bir geleneksel tıp ve farmakoloji araştırma merkezi inşa edilecek. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGMzMGRKVmF3UDd4aUVtWEg0cUlVUVdjZVJFZ196SHJYZTZQcHdVOXdMUlZtVGdqRjlFUDNxMHQtZWJqVXgzaWtWb1pYY2xXa1Z0TlQwekR2cFR0MWJ2eWVsX0txX1RPa0U5cERkOXM2RXg2SnFUV2VERi1ndlJ5RUdYa2thVExlcFdkdzR3S2VTQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "약국 관리 허점 틈타 현금&#183;의약품 빼돌린 직원 '징역 2년'",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "[데일리팜]약국 관리 허점 틈타 현금·의약품 빼돌린 직원 '징역 2년' | 약국세무 미래 세무법인 | 신규 개국을 앞두고 있습니다. | 약국법률 법무법인 규원 | 권리금회수기회를 놓치는 건가요?",
+      "url": "https://www.dailypharm.com/user/news/340553"
+    },
+    {
+      "title": "향후 10년 한약사 일자리 정체…직능 갈등·조제권 한계 발목 - 데일리팜",
+      "source": "데일리팜",
+      "importance": 50,
+      "snippet": "[데일리팜]향후 10년 한약사 일자리 정체…직능 갈등·조제권 한계 발목 | 노동자의 날 수당계산은 어떻게 되나요 | 약국세무 미래 세무법인 | 약국인테리어 생각자국 디자인 | 신규 개국을 앞두고 있습니다.",
+      "url": "https://www.dailypharm.com/user/news/340720"
+    },
+    {
+      "title": "KOCCIMA HOSTS HERBAL PRACTITIONERS IN LOKOJA, PLEDGES SUPPORT FOR TRADITIONAL MEDICINE AS VIABLE ECONOMIC ALTERNATIVE - The Nigerian Post",
+      "source": "The Nigerian Post",
+      "importance": 50,
+      "snippet": "KOCCIMA HOSTS HERBAL PRACTITIONERS IN LOKOJA, PLEDGES SUPPORT FOR TRADITIONAL MEDICINE AS VIABLE ECONOMIC ALTERNATIVE - The Nigerian Post | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczlnNFN4Y0NuZ2ZPWW1LdmJpQ0I3dXZhTW1uWVI4ODhXbmJIZFRYSjhteGR5NE9sV3dqZU8tb2pYXzFVU1owVUhZUHpKaFZ6U1VoMGNENVJmT1VNVFBzOTZIQkNpc3ExbFZFcW1HbXJveUJ5MmxTZzlyU191MXRsY3NJdEFKVU9GcUJSNkM3VmVqWDVlM0VVUnNuYWxYbWMyMkhyUklYQ0VJeF9HdWlqS2VlWlhxTWFRWUtzV1JlQ1ZCeEVrei0tUG1oZHNEYlg5RDdUZjZyMGtCRWxvOXh6YzBRUGI?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "重磅医药新政！美国仿制药关税逐级翻倍，最高 200% - ChemNet",
+      "source": "ChemNet",
+      "importance": 50,
+      "snippet": "重磅医药新政！美国仿制药关税逐级翻倍，最高 200% - ChemNet | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55MzBXRFVUcGlqbndIa0dYVDlPd2xlOElfcmk1MTN1eHVSVkNlS3VkNGo4UnBYRER1b2dGaEdVTTlhdF9RNXZjamRiRlh0THVkazZIY1JmMHp3dFlTckxr?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "สสจ.อยุธยา เปิดงานมหกรรมวิชาการเขตสุขภาพที่ 4 ยกระดับการแพทย์แผนไทยยาสมุนไพรสู่ความยั่งยืน - เดลินิวส์",
+      "source": "เดลินิวส์",
+      "importance": 50,
+      "snippet": "สสจ.อยุธยา เปิดงานมหกรรมวิชาการเขตสุขภาพที่ 4 ยกระดับการแพทย์แผนไทยยาสมุนไพรสู่ความยั่งยืน - เดลินิวส์ | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FS3ZSalNJVTJGSXpwdXBqTXVocGVHWWxDZ1o5NTZDbnpvTEVwQnU5UmcxQ2kwSk9GMjNFVWc4Z05BLUFuR3VsNFNwdXVRWUQyUzZj?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "AS Naikkan Tarif Impor Obat Generik, Bagaimana Dampaknya ke Farmasi Indonesia? - Rmol.id",
+      "source": "Rmol.id",
+      "importance": 50,
+      "snippet": "AS Naikkan Tarif Impor Obat Generik, Bagaimana Dampaknya ke Farmasi Indonesia? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHNNSTloM3V6Yk1TN1ZFRzJHSEpVWmtBcGc0am5vNGxQTVJkUTVLREg1S1EwYm1jZzNpZ2lpMlhULVFMQmJoQ0g4S1pmTHVqVWlnVFA1eER2QVRQc0hEYjNNNXo4N004THJkZ05iYXc2SXYxSmtYLUx3VG9yaVFSMlQ1Nm9HVFFJMlpIX1J1ZHdaVWJtQkFWZ1BaYUxZd0d2X2Roa1NLVEZxcC1CaFFyRFVqTXdVLVNaaVJJU0RxUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Relaksasi BPOM di Tengah Tekanan Industri Farmasi - Tempo.co",
+      "source": "Tempo.co",
+      "importance": 50,
+      "snippet": "Relaksasi BPOM di Tengah Tekanan Industri Farmasi - Tempo.co | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.tempo.co/foto/arsip/relaksasi-bpom-di-tengah-tekanan-industri-farmasi-2277210"
+    },
+    {
+      "title": "מעלה הילוך: טראמפ מציב אולטימטום לחברות התרופות - אמס",
+      "source": "אמס",
+      "importance": 50,
+      "snippet": "מעלה הילוך: טראמפ מציב אולטימטום לחברות התרופות - אמס | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1ODNGWTVXbEdIRUNTclM4em9mMmZFMTZtSVdNeXo4R0lSV2gyV0JzeXQtWXg4dmd2YUQtM05tVTRFeUMzTkFZRnYzcTVqQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "תעשיית התרופות הוייטנאמית מאיצה את הצמיחה, ומתמקדת במרכזי ייצור אזוריים. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "תעשיית התרופות הוייטנאמית מאיצה את הצמיחה, ומתמקדת במרכזי ייצור אזוריים. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQVR3TFRuQ3pnSUdpWUxfTHNUTF9zUnpWbHpMTHljdnNIV2dfNERuT1dUREp3Y3lQeVFwSXBOWXIzbkR0anl5b3BlS1BmaVdyQU9pRjctMW1jYUU2dC1SbEV5YzFfakEwUm5VcFMtSExTaktDSlc0aWRSVU1GZ0Jxd2lGaDUyQ1RUWGVQdUs0Q2cwWkE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 12
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 4
+    }
+  ]
+}

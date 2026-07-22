@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-22",
+  "total_articles": 465,
+  "language_breakdown": {
+    "korean": {
+      "total": 205,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 17,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 12,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 130,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 9,
+        "Chinese Traditional / 대만": 10,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 7,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 제약·비만약·제네릭·가격 규제 재편",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 33,
+      "avg_importance": 50.7,
+      "key_articles": [
+        {
+          "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle - Reuters",
+          "importance": 67,
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJ0Q2x1Wmtoa1FXcjI1RjZwUU5FclB4Q0VST1NfVUZpdHFvUHF5UUpTRkhiclhBakRJY3VKRFhIclZFTnhLcUN3NFVCdm1BTlVBU2JNYVVLaERfYUJaOGFrVEtaTTdxSHFWRU5PX25WS0NjX0ZaRklIQktDbWVRLWNMTjdCbDJ5SEZFektfMDF6ci1aOGtZU3BmNFZMaDdyV1hrRjhYTXMtVTY4dE1KbQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump says generic drugs to face no US tariffs for 2 years, then 100% and 200% tariffs later - Reuters",
+          "importance": 67,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRTYzT0tHTGRMbHJTWEhMbzMwT3VFZlBWanNOem02SHBBV1VJLTZTVEVFdjB5MnM1TktvRXFnUDZ5UV9CMzE5cGhtOWVxejE4amlGRWkzTDkwWmw3ZnRYNDFSZlZFZmtma2ZHSk1CSFZSNk5ibHR4Z0tDajFaTFBBYVlvZkVVcDdxTnFaQ0N2U1RqbEd3N1NWRUx0NUtJdVVJLWkwQUswRDdpa2c1Q25Ub0ZpOW1VXzJIcEpDb1NDQ0ZacFJRTS0xSzd1NGFNcHo0LVMzT3lzVmhOVGpJNmM5ZUxmeEM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emcure Pharma Gains 3% After CDSCO Approval for MASH Drug - Whalesbook",
+          "importance": 65,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTViTEZXVFozOHZxM1NieVhaNi1wN0JqdExCdldVUXYzSXZWY1VBc1p1Tnhoc3FpaTdnOUpNVC1FWUFHWHpxMVlaam5lS1dNOEJJOWM4bi1WUk1td1huMXJZdTFoYTRlZkFBMVpoWkZGQ1JOd3lndjI3cEpiRlp3bXVaZzdjaXdfd09MOVFDZVZ6YTBwTjMyQ0RKYlBrQTJXY25vRjJMVkFsaXh1R216ci1pR2RvR3NlNkRxVFJBYklDbGRpUHFFME5yZktUNllpY2VqVTZQbHFua0VIZ1hn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Korea Syntex Pharma seeks buyer amid sanctions and weak biotech sentiment - CHOSUNBIZ - Chosunbiz",
+          "importance": 60,
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3M2Z0FWOXUzOVBIdDhUTmRsamJSTkd2eUVydDE2em15UHh6SW8zcVlaeGFhaUQ4dXhmWjduUXk4MFNDZWN4S3o3TjRtX1dxR0RzZ0t4a2dNZWVsOGl2VGV4M2U2aFkyb2NUNGV1MjBGSEFiRGJnalJGME9VcDc0SERR0gGWAUFVX3lxTE82T2tfR2xyU1RHRXdBckZjLW5uM1ZjUTY0TjNqQ3VxSEVOZHQ2WU5weW10RFBhUmtzTFhOaVQ2S3RVMFZVMEZVcUMwRmxJZDh6eFpuM3BaVWl1ZExLV25HVXdLMTZGOWgtZHlWMXVZVmw5dUJCX1NWYm9FcjRJdTZFNEFKd0MzallBNW0yV0QzTlkzTElfZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "노보 노디스크-일라이 릴리의 GLP-1 광고 분쟁, 미국의 제네릭 관세 위협, 중국·인도의 허가 및 가격 조정 뉴스가 한데 몰리며 글로벌 제약 정책과 상업화 리스크가 동시에 부각됐다.",
+      "summary_en": "GLP-1 litigation, tariff threats on generics, and market/approval moves in China and India show that pricing, regulation, and commercialization risk remain tightly coupled."
+    },
+    {
+      "topic": "ADC·항체약물접합체 개발 경쟁",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47.0,
+      "key_articles": [
+        {
+          "title": "Click Chemistry Boosts Antibody–Drug Conjugates Against Heterogeneous Tumors - Inside Precision Medicine",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2RzTFdmQ2RRbmJZdng0Vks2ZGpoMDlwc3ZCZ1JPWjJKY0pTa2ZGTEJhMm53SDRhRjJmSlpkcWFKTkZpUDl2UkhLNWxhVTNZeThqMFRkdjVhcnhUbm5lelN2U1ViZzFnTnhHTFZDQTJTTWRJYURNcDdPN0hwbXh0MWZYMGRQdEViQW9wSFpNcER2Q1p6bTgzRlZCQ3M5WXhrWnZ2MnBZeWx5cGlpVVlWRHNxUnNad0hxZEV0SE8yRWdpTXNGS0YtU0NkQTItQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Clicking into place: antibody–drug conjugates target difficult-to-treat tumors - BioTechniques",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWjA1bUlnZDNESEdRbnpULVhrWnBHT0gxMjBfMEg0VTRtcFlRX3BOTUxkQWkwbjJsWXFLeGFvZk1ENXRabWQyTko3cDlHTC0ySVVtUnNweXk0b25yeFI4bUtLTThEVGdEcHN6aW9kaDdBaDdSdHcyRHZ6VUM5Q1hsNldsdzZHdG00cFRMLTZURkJxMXBCenZ4aFpuR0JDc3ZTZlM5blhRMDhFRDhsRlNQQ2QyWVhYejVEQmJNVzFXTDVFUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "항체-약물접합체(ADC) 관련 연구 두 건이 같은 날 묶이며, heterogeneous tumor 타깃팅과 정밀의학 확장 흐름이 이어졌다.",
+      "summary_en": "Two ADC-focused research items clustered together, reinforcing the continued push toward heterogeneous-tumor targeting and precision medicine expansion."
+    },
+    {
+      "topic": "Agios 파이프라인 축소와 희귀질환 후보 재평가",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47.0,
+      "key_articles": [
+        {
+          "title": "Agios Pharmaceuticals Reports Phase 2 Tebapivat Sickle Cell Disease Results, Discontinues Development of the Candidate - Quiver Quantitative",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLUNkQWZ1QWFmVmE4cFQ1Q3NrWjJXdURQbTJhekhudkNiaWQwMklyRUc4OG1vTVl3ZjNVTFNWaVlqNHlZc2gtbF91ZUlvcFNHd1pHdVJJcjRCbTNHakxHZktVSmE0VEdTMW9TcVJBU0hjMnFmMXRXdGVra0IxV2xMck9xc2dCV1BfQ05kR29UcmFqSHpqMVQ4ZFNPZElibUltU2ZnanNBQl92X3ZTSndDeG1BUFlaSmlvSlA1aHpEeE5Vby1NVHNuMXFTWG9qeHZGeGs2NmQxel9lX3JMVmF0Z2lsMFFRaG5M?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Agios Pharmaceuticals stock falls on trial update By Investing.com - Investing.com Australia",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU9EcjkwQnhub29PRWg1dzRNUEFINWxWZnNIRkkyZW5zUEJibF9GanFSY3ZWYUN4azlybDBWSUNYbjZrYW9tb2RCVWw4em1mYno1aldIb0VkeGhGVjE0cWl5dVdWS05KSmRha3ZiV2NmLUw0NWtxMUZyRW94cGIyTmVKSndSbWZBWklIUW1HZkdReUFQdlJVVVZYdnZQYURGemJkeFlIdjBROHJtVFN3WWsxYUNtQXFRejRLbE9vSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "Agios의 tebapivat 임상 2상 결과와 개발 중단 소식이 겹치며, 희귀질환 프로그램의 성공 기준이 더 엄격해지고 있음을 보여줬다.",
+      "summary_en": "Agios’ Phase 2 tebapivat readout and discontinuation signal stricter success thresholds for rare-disease programs."
+    },
+    {
+      "topic": "전통의학·약국·관세 파편 이슈",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 10,
+      "avg_importance": 50.4,
+      "key_articles": [
+        {
+          "title": "Ho Chi Minh şehrinde 450 milyar VND değerinde büyük ölçekli bir geleneksel tıp ve farmakoloji araştırma merkezi inşa edilecek. - Vietnam.vn",
+          "importance": 53,
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGMzMGRKVmF3UDd4aUVtWEg0cUlVUVdjZVJFZ196SHJYZTZQcHdVOXdMUlZtVGdqRjlFUDNxMHQtZWJqVXgzaWtWb1pYY2xXa1Z0TlQwekR2cFR0MWJ2eWVsX0txX1RPa0U5cERkOXM2RXg2SnFUV2VERi1ndlJ5RUdYa2thVExlcFdkdzR3S2VTQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "약국 관리 허점 틈타 현금&#183;의약품 빼돌린 직원 '징역 2년'",
+          "importance": 51,
+          "url": "https://www.dailypharm.com/user/news/340553"
+        },
+        {
+          "title": "AS Naikkan Tarif Impor Obat Generik, Bagaimana Dampaknya ke Farmasi Indonesia? - Rmol.id",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHNNSTloM3V6Yk1TN1ZFRzJHSEpVWmtBcGc0am5vNGxQTVJkUTVLREg1S1EwYm1jZzNpZ2lpMlhULVFMQmJoQ0g4S1pmTHVqVWlnVFA1eER2QVRQc0hEYjNNNXo4N004THJkZ05iYXc2SXYxSmtYLUx3VG9yaVFSMlQ1Nm9HVFFJMlpIX1J1ZHdaVWJtQkFWZ1BaYUxZd0d2X2Roa1NLVEZxcC1CaFFyRFVqTXdVLVNaaVJJU0RxUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "KOCCIMA HOSTS HERBAL PRACTITIONERS IN LOKOJA, PLEDGES SUPPORT FOR TRADITIONAL MEDICINE AS VIABLE ECONOMIC ALTERNATIVE - The Nigerian Post",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPczlnNFN4Y0NuZ2ZPWW1LdmJpQ0I3dXZhTW1uWVI4ODhXbmJIZFRYSjhteGR5NE9sV3dqZU8tb2pYXzFVU1owVUhZUHpKaFZ6U1VoMGNENVJmT1VNVFBzOTZIQkNpc3ExbFZFcW1HbXJveUJ5MmxTZzlyU191MXRsY3NJdEFKVU9GcUJSNkM3VmVqWDVlM0VVUnNuYWxYbWMyMkhyUklYQ0VJeF9HdWlqS2VlWlhxTWFRWUtzV1JlQ1ZCeEVrei0tUG1oZHNEYlg5RDdUZjZyMGtCRWxvOXh6YzBRUGI?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Relaksasi BPOM di Tengah Tekanan Industri Farmasi - Tempo.co",
+          "importance": 50,
+          "url": "https://www.tempo.co/foto/arsip/relaksasi-bpom-di-tengah-tekanan-industri-farmasi-2277210"
+        },
+        {
+          "title": "מעלה הילוך: טראמפ מציב אולטימטום לחברות התרופות - אמס",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1ODNGWTVXbEdIRUNTclM4em9mMmZFMTZtSVdNeXo4R0lSV2gyV0JzeXQtWXg4dmd2YUQtM05tVTRFeUMzTkFZRnYzcTVqQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "한국·베트남·태국·니제르리아·중국 기사로 분산된 전통의학/약국/관세 파편 이슈가 클러스터로 묶이진 않았지만, 약국 운영과 전통의학 산업화, 제네릭 관세는 여전히 주변부 신호로 남았다.",
+      "summary_en": "Scattered pharmacy, traditional-medicine, and tariff items did not form a tight cluster, but they still signal peripheral pressure points around operations and industrialization."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 12,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 4,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "의료정책·인력 대형 클러스터는 형성되지 않았음"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "글로벌 제약·CDMO·비만약·제네릭 재편",
+      "동남아·중국 제약산업 허브 재편",
+      "전통의학·시장 반응·법제 파편 이슈"
+    ],
+    "changes": [
+      "전일의 대형 산업 재편 축은 유지되었지만, 오늘은 GLP-1 소송·제네릭 관세·가격 규제가 더 직접적으로 드러났다.",
+      "ADC와 Agios처럼 R&D/임상 개별 파이프라인 뉴스가 별도 소형 클러스터로 분리되어 보였다.",
+      "전통의학은 클러스터화되지 않고 약국·관세·지역 기사로 흩어졌다."
+    ]
+  },
+  "connections": [
+    {
+      "from": "글로벌 제약·비만약·제네릭·가격 규제 재편",
+      "to": "전통의학·약국·관세 파편 이슈",
+      "note": "가격·관세 압력은 산업 기사와 지역 기사에 동시에 스며든다."
+    },
+    {
+      "from": "ADC·항체약물접합체 개발 경쟁",
+      "to": "Agios 파이프라인 축소와 희귀질환 후보 재평가",
+      "note": "정밀의학 축 안에서도 파이프라인 확장과 중단이 동시에 나타난다."
+    }
+  ],
+  "generated_at": "2026-07-22T16:34:20.836754+09:00"
+}
