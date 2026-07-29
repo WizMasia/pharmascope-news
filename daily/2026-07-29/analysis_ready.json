@@ -1,0 +1,714 @@
+{
+  "date": "2026-07-29",
+  "total_articles": 411,
+  "language_breakdown": {
+    "korean": {
+      "total": 190,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 22,
+        "의약단체": 9,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 90,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 16
+    },
+    {
+      "keyword": "임상",
+      "count": 13
+    },
+    {
+      "keyword": "급여",
+      "count": 11
+    },
+    {
+      "keyword": "비만",
+      "count": 10
+    },
+    {
+      "keyword": "약가",
+      "count": 9
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "ADC",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "식약처",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 2
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 22
+    },
+    {
+      "keyword": "approval",
+      "count": 11
+    },
+    {
+      "keyword": "generic",
+      "count": 8
+    },
+    {
+      "keyword": "regulation",
+      "count": 5
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 14
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 14
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "간호사신문",
+      "count": 5
+    },
+    {
+      "source": "머니투데이",
+      "count": 4
+    },
+    {
+      "source": "Investing.com 한국어",
+      "count": 4
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "코리아헬스로그",
+      "count": 3
+    },
+    {
+      "source": "한국경제",
+      "count": 3
+    },
+    {
+      "source": "데일리메디",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "The Economic Times",
+      "count": 4
+    },
+    {
+      "source": "CMS.law",
+      "count": 3
+    },
+    {
+      "source": "Korea JoongAng Daily",
+      "count": 3
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 3
+    },
+    {
+      "source": "BioPharma APAC",
+      "count": 3
+    },
+    {
+      "source": "Pharma Voice",
+      "count": 3
+    },
+    {
+      "source": "Reuters",
+      "count": 2
+    },
+    {
+      "source": "The Manila Times",
+      "count": 2
+    },
+    {
+      "source": "CNBC TV18",
+      "count": 2
+    },
+    {
+      "source": "The Medicine Maker",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 13,
+      "keywords": [
+        "drug",
+        "medicare",
+        "trump",
+        "daily"
+      ],
+      "articles": [
+        {
+          "title": "SK Biopharmaceuticals inks Eurofarma deal, targets Latin America from Brazil - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "SK Biopharmaceuticals inks Eurofarma deal, targets Latin America from Brazil - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 01:20:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZjRHQ3d6UWNhNjNtNkJINGNJY2NEQlpQX09CVVJRZ204MHRTcTNTSmtwb3hzS1JwdVlRRXZYb0N1UldNZXZYRWZfU3Q2YlZNSEhULXlENTNwS1VOc1M2Ti0tSXBsZmFJLWxBZGNNVC1jbXdWX1ZQRTNreExIaWZmV9IBlAFBVV95cUxOWEVJekRCdVN2M19lbHF2TktvMzBUUFN0T01iNm5wQzFENnc4bGhaTVlVbTBHemlLY0VnQkRRemZnNGZ3RUhTV0pyS1FlSmV0VWowWVVhRjFRQ2QycnpzX21YcEk2TzRHWU9ka2JzalJQRVBqVFRZVmVLcWpJZEI2eXlxTHJOVVQwTGtpb0I1LTRXY2tL?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily",
+          "source": "Korea JoongAng Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 28 Jul 2026 22:02:23 GMT",
+          "url": "https://www.msn.com/en-us/pets-and-animals/pets/human-drug-breakthroughs-find-new-life-in-pet-medicine/ar-AA28Unes?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Lice Treatment Market Growth Fueled by Drug Innovation & Head - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Lice Treatment Market Growth Fueled by Drug Innovation & Head - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 05:15:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNHdOOFh6bENaTF9WcXVyRDF0NnZpWUVOaWdJY1lFUUFxenhSTzBTajRCY0phZEo5Q1BBUVIwS0trbkFQVXBRS1lQbnItRTBHODBScmk1N3dvbmlkOEdXT1dnRXE2dnFPdEY3X3BWMHFmd0RPM1FFbTJ6aU9YdDNtcF9Pd29HOVhuR2YzZ1ExcEJPdzdlRDdsTS1mRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "SK Biopharmaceuticals expands Latin America push during Lee visit with epilepsy drug cenobamate - Korea JoongAng Daily",
+          "source": "Korea JoongAng Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "SK Biopharmaceuticals expands Latin America push during Lee visit with epilepsy drug cenobamate - Korea JoongAng Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 05:43:21 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbjh6clc2MFFYU3FjMFc1dlhHZTRtenFDLUhsRU5KWGE5QzJfWEFwUlM2WkpYUWhIXzJPMi02d0dDOWhUTjZ0VUJURTBjeWwxYWtmSWlMUjN3UUFudFNORUNURVN6NU93NWk1THpQTW1vMXZGVTl3VDg1aUhGOHRrZkRqU0xvcjY0MWo1SmxYV29DQzRkT2h3bHZIT25QQXFDTVg3TzhXSnllMFptZ1podXpFQU1MN0xJRFJKdG5MQWFrQnVldzA5WG5Gd0hqM0FiUHVhd2RuVmJCX2Z6NTY1Q0tn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Exclusive | Trump Administration to End Medicare Drug Plan Subsidy - WSJ",
+          "source": "WSJ",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Exclusive | Trump Administration to End Medicare Drug Plan Subsidy - WSJ | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 28 Jul 2026 23:26:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlk5OFNIUkZtRFBnSDB2bXhPcHl3NFV1RktRR0htWGdvTnF5QWdFTVZGbGEwdUtRVzhueHVTVDlTczdLYTNGbEExUFkteUowRUI5ZWNkSE5RcTNUZ0VCTkxnRW5RN1RpSmFial9YemN6bEZiaG5lOVJ3Tk54bjJRLWlzZTlUc0lYS2p6Yy0wcE9IbC1pOFk0ZndNNVJlNHdvd21R?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump Will End Subsidies for Medicare Drug Premiums - The New York Times",
+          "source": "The New York Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 28 Jul 2026 23:12:12 GMT",
+          "url": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html"
+        },
+        {
+          "title": "Why Prices Could Rise for Medicare Drug Plans Next Year - Barron's",
+          "source": "Barron's",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Prices Could Rise for Medicare Drug Plans Next Year - Barron's | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 28 Jul 2026 22:54:00 GMT",
+          "url": "https://www.msn.com/en-us/health/senior-health/why-prices-could-rise-for-medicare-drug-plans-next-year/ar-AA28Uq33?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Trump Administration To End Medicare Part D Subsidies, Raising Drug Costs for Millions of Elderly Americans - Health and Me",
+          "source": "Health and Me",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump Administration To End Medicare Part D Subsidies, Raising Drug Costs for Millions of Elderly Americans - Health and Me | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 29 Jul 2026 04:54:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNVFvTS1UNC1JQ3hiU0t0YkFLbHk1Z2NiQmJ5dWxmMlp4YVp4NkZYbDQ1dk9DakEzaUhxSWJlSUp1d2xvaHl1WVVoNW5rakU0eWVpcGNMYjVCWmtwaHFEMnpkbDJYYndLbmlEYXJ4eEV5QjFYYTJ0bWlGaXlkUFJLcHpsMmtBczlFekxNNGJnWllfbkhQaU0tLXM3MmJQempsUHVzUGR4dGwwWWhoRkJpZGowdVJFVE5wLWh0ZEhoX0ZucndZU0lSZ29jNzdIcXZxNjZrUTFYbFN4LVM1dGdIRUpSWWhybFFsb2N3aEhfN1ZtbkRRbUNB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump to scrap Medicare drug subsidy after 2026 - Dagens.com",
+          "source": "Dagens.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump to scrap Medicare drug subsidy after 2026 - Dagens.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 29 Jul 2026 05:03:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNazZUdXN0a1I0UExSekZOZXpjU3oyRXFpQzdBMnNzdWdhS3hDVDhvNG5qVEtkcDJnS0tkYk5lNl9BNmNNR2NlZzZSZVlBNjQ2YThwWEZNdGVGZUVSVUtLMzU4MjlLWnhDY0xienBKQmNZU0t0TzJ4SEh5VG1odXRYRg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump Is About to Send Seniors’ Drug Costs Surging - NewsBreak: Local News & Alerts",
+          "source": "NewsBreak: Local News & Alerts",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Trump Is About to Send Seniors’ Drug Costs Surging - NewsBreak: Local News & Alerts | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 28 Jul 2026 22:25:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzJvWHA1SzEzTjZoa2dtWXVjUF9yVl9RdkxxbEVCQlNWS3ZDV2g0MFJkLTkwUG1BUmZPLWhGY3Fsb0dTUmRrMGM1OHdIUUxobjFCd3YxaWllSlE2LVhvMGdGbm95bk9wZERsQmZQaWxLbnEwUWJCOG1MSzRlYWNDZHhYeGhqRkVNOU5xYXhxZlhSdXVIbnZrc2NiX0N2czIyb0oyZzJsMDU3WmllOTZFUDEzcWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US Officials Propose Deep Medicare Cuts to Drug Programs - sekbernews.id",
+          "source": "sekbernews.id",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "US Officials Propose Deep Medicare Cuts to Drug Programs - sekbernews.id | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 28 Jul 2026 22:31:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGVVJGUXZJNXFpWEdWa0c5Uk51ZUZwdGF2QVgxaU9abFMwMnpoekdXYS01T082M3FqMVozV2N6M3hIbWVzM1N6NmNuQlFCWGFtX091Z0NTbVVWSXBaWmpDM3pzT19OS2o0OHZZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily",
+          "source": "Korea JoongAng Daily",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 28 Jul 2026 22:02:23 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON015Y2Nlb3VrTTdhUVZZLVU5SnFXN0JwWlhiNWVwSGp1aWN0VjZvbGZPWk8yeVdMQ1B4aTVhQU9EdzdSWmdtbEktV05fZUI5clBhMlh6Z1h1ZnVyV1gyZVJZRVJwU0taQVJIZWFVLVcwdUh4MTZjVFM2UWxvb085aExzMkplR3VmZmNfRXNnbWgtazJZX0R2S3NhVXJ3Y3pKdTBZOHR6M1ZYTVU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug Price Cuts Hinge on 'Peak Price Reference Date' as Ministry, Pharma Clash - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Drug Price Cuts Hinge on 'Peak Price Reference Date' as Ministry, Pharma Clash - Seoul Economic Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 28 Jul 2026 22:00:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORm1SaU5mMTFEcVRmdjJ1a29HMjdVbGUwMU44NHduVUxDRjFSQ25lQW83WEtxZGxTTU1rckVJN1RJbVRWc0o1VGF2SE9NNUxZVW9aYzZSQXU0NDYzQnZJXzZtcnpHdzN1ZG9kdEo0RGdZdTVEQzc1ZW9NME5TdkhCZURvOGNiZFpWb0RwUFUtU0ZjZFJkM213S2pXNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "의료사고",
+        "이력",
+        "공개",
+        "news",
+        "medi",
+        "gate"
+      ],
+      "articles": [
+        {
+          "title": "\"의료사고 이력 공개, 의사면허 권위 높일 기회\"…환자단체·법조계 '찬성' - MEDI:GATE NEWS",
+          "source": "MEDI:GATE NEWS",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "\"의료사고 이력 공개, 의사면허 권위 높일 기회\"…환자단체·법조계 '찬성' - MEDI:GATE NEWS | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 29 Jul 2026 03:28:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pRXNpVGt2a3NxeWNYYzJ1Rk5oVUlWQ0N2UW10Z2V4X3QzNGNKeVctU0xXRzNBSFJwd2FLTklITTVoMTFCXzNYT3c2dlhvTHdjRy1Wa2R0RQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "의료사고 이력 공개 추진에 政 \"빈대 잡으려다 초가삼간 태울라\" - 청년의사",
+          "source": "청년의사",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "의료사고 이력 공개 추진에 政 \"빈대 잡으려다 초가삼간 태울라\" | 현재 Internet Explorer 8이하 버전을 이용중이십니다. | 최신 브라우저(Browser) 사용을 권장드립니다! | 인터넷 익스플로러 11 | 의료사고 이력 공개 추진에 政 \"빈대 잡으려다 초가삼간 태울라\"",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 29 Jul 2026 04:17:49 GMT",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3041321"
+        },
+        {
+          "title": "“의료사고 의사가 또 수술”…이력 공개, 환자 알권리 vs 필수의료 기피 > 뉴스 - 한의신문",
+          "source": "한의신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "“의료사고 의사가 또 수술”…이력 공개, 환자 알권리 vs 필수의료 기피 > 뉴스 | 한의신문 | 2026년 07월 29일 (수) | “의료사고 의사가 또 수술”…이력 공개, 환자 알권리 vs 필수의료 기피 | “의료사고 의사가 또 수술”…이력 공개, 환자 알권리 vs 필수의료 기피 | 이소희 의원, ‘의료사고 이력, 국민은 알아야 합니다’ 토론회 개최",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 29 Jul 2026 05:04:00 GMT",
+          "url": "https://www.akomnews.com/67894"
+        },
+        {
+          "title": "의료사고로 휠체어 타는 의원 \"의사 의료사고 이력 공개하자\" - 네이트",
+          "source": "네이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "의료사고로 휠체어 타는 의원 \"의사 의료사고 이력 공개하자\" - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 29 Jul 2026 05:42:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkNXl4VnQzOEhyc3dDLU9SMkp2TXJfV3FQRU1ydFdrcTdxaDJvNEtoQnB4X01yRUtMUExBd1dIU2ZwUXlKOWJUbHZCdzNPaXZpcGJUWVlaVnJuTEc1Y0VqRzdjQXZ5T05vZFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "복지부 신현두 과장 \"의료사고 이력 공개하면 의사는 사회적 매장…의료업 유지 불가\" - MEDI:GATE NEWS",
+          "source": "MEDI:GATE NEWS",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "복지부 신현두 과장 \"의료사고 이력 공개하면 의사는 사회적 매장…의료업 유지 불가\" - MEDI:GATE NEWS | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 29 Jul 2026 03:28:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54b3BveVJRMTRONV80bjRaVnJpOW1mUU9uQk9aM3ZxVVpKd1ItWVFUTzN2S3YtcV9FRXBYMnQ1NU9OVWJvU1pHLTBYaXE5Zmt0dE1nVDRBZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "adc",
+        "셀트리온",
+        "ADC",
+        "비만",
+        "신약",
+        "성과",
+        "비만치료제",
+        "임상",
+        "가시화",
+        "개발"
+      ],
+      "articles": [
+        {
+          "title": "[심층진단] 바이오시밀러 다음은 신약…셀트리온, 비만·ADC 승부수로 '기업가치 재평가' 노린다 - 뉴스밸류",
+          "source": "뉴스밸류",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[심층진단] 바이오시밀러 다음은 신약…셀트리온, 비만·ADC 승부수로 '기업가치 재평가' 노린다 - 뉴스밸류 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 28 Jul 2026 22:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZT05BLW5jdUFNaTByYm9VRERHd180dllOV2l3S2JuX0FCODgtbUl4RlEwcnlySGlGS2tBaEVmZl9qaDUyZUdjWUNFcF9VWExFa3NfejZZMkVmc2Q3RXA2MnZOUzlzcjBWbEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "﻿셀트리온, 신약 파이프라인 비만치료제 비임상·항암ADC 성과 가시화 - 글로벌경제신문",
+          "source": "글로벌경제신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "﻿셀트리온, 신약 파이프라인 비만치료제 비임상·항암ADC 성과 가시화 - 글로벌경제신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 28 Jul 2026 23:45:20 GMT",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8-%EC%8B%A0%EC%95%BD-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%B9%84%EB%A7%8C%EC%B9%98%EB%A3%8C%EC%A0%9C-%EB%B9%84%EC%9E%84%EC%83%81-%ED%95%AD%EC%95%94adc-%EC%84%B1%EA%B3%BC-%EA%B0%80%EC%8B%9C%ED%99%94/ar-AA28Vqbp?ocid=BingNewsVerp"
+        },
+        {
+          "title": "셀트리온, 신약 개발 기업 도약 초읽기…비만치료제·ADC 신약 등 연구 성과 가시화 - 네이트",
+          "source": "네이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "셀트리온, 신약 개발 기업 도약 초읽기…비만치료제·ADC 신약 등 연구 성과 가시화 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 29 Jul 2026 02:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jb2RmVlBJemxTenZxcHpIY3liYkdYeDFtTnFORm1KbzdkSjZIWFZHMWlzel9UYXQ2QVlIcVVjaFhYd3NGcFdYdGRJOFM0bzV1N1Y4?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "셀트리온, 비만치료제·ADC 신약 개발 속도…임상 성과 순차 공개 - 마이데일리",
+          "source": "마이데일리",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "셀트리온, 비만치료제·ADC 신약 개발 속도…임상 성과 순차 공개 - 마이데일리 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 28 Jul 2026 23:55:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RMEdXTG5uSlZoMzRadEFpMlNmSm9pczNYV081QVo2WHFGUG1OaG1fNkxhbDAtLVNWaWRKM29PYlQ0OW1YQ2lXcmxlYjRKdTFzQWtSUjhobEwzNGlfV09aMmM1LXl2UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "Virginia federal judge orders FDA to reconsider abortion pill safety regulations - liveaction.org",
+          "source": "liveaction.org",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Virginia federal judge orders FDA to reconsider abortion pill safety regulations - liveaction.org | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 28 Jul 2026 21:50:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEVKdVdpRmhGaWRBSEtvMjY3OTl1aUVVTjh5ZW9KZ1RXMW5hY3h5RFpYdTJpZ0FUVldJaVlDeko1R1RReHphc3dWMko1NVFoWTlnUVQzbDNGNG9wcm0wNDhTNXhiX2tfNUR6bkRXUW5TcDl1RzZtS0lHWkVNZ2Z1SlNmMjFvSVFGNjk1NWpR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Regulatory tracker: MannKind gets FDA nod for speedy edema autoinjector - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Regulatory tracker: MannKind gets FDA nod for speedy edema autoinjector - Fierce Pharma | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 29 Jul 2026 02:31:12 GMT",
+          "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"
+        },
+        {
+          "title": "힘스앤허스 헬스 주가 급락, FDA 규제 리스크 부각 : 해외증시 - 재경일보",
+          "source": "재경일보",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "힘스앤허스 헬스 주가 급락, FDA 규제 리스크 부각 : 해외증시 - 재경일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Tue, 28 Jul 2026 22:51:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QNmFvUWtraTk2TkVvLXl3UFhySUFFUlQ3WnBwYzdRbTduc1ByR1ZSTjNxajVyRjZRWlA3cmMyV2p4UjhSZjlSS0RB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "파운드리",
+        "반도체",
+        "규제",
+        "아이온큐",
+        "인수",
+        "최종",
+        "승인",
+        "스카이워터"
+      ],
+      "articles": [
+        {
+          "title": "'양자컴 대장주' 아이온큐, 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 - 더구루",
+          "source": "더구루",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "'양자컴 대장주' 아이온큐, 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 - 더구루 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 29 Jul 2026 03:35:12 GMT",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%96%91%EC%9E%90%EC%BB%B4-%EB%8C%80%EC%9E%A5%EC%A3%BC-%EC%95%84%EC%9D%B4%EC%98%A8%ED%81%90-%EB%B0%98%EB%8F%84%EC%B2%B4-%ED%8C%8C%EC%9A%B4%EB%93%9C%EB%A6%AC-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%84%B0-%EC%9D%B8%EC%88%98-%EC%B5%9C%EC%A2%85-%EA%B7%9C%EC%A0%9C-%EC%8A%B9%EC%9D%B8/ar-AA28VSL2?ocid=BingNewsVerp"
+        },
+        {
+          "title": "아이온큐, 미국 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 획득 - 데이터투자",
+          "source": "데이터투자",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "아이온큐, 미국 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 획득 - 데이터투자 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Tue, 28 Jul 2026 22:25:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52Vk0xclF2MkNTRVdMcUdpTDJnVkJzbmJvRHdFY1BhQ0I4cGticnJacHFEei1rTmdmNXlUUlFHZ0lGSXBfX01tUFpTeUVjN1U3T2pJdEdKaXhmWDd2Y0F6ckk5QURNVmxxY0g1TjhiUFVUS2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "iM Securities backs Hanmi Pharmaceutical as R&D momentum lifts upside in Korea - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 65,
+      "snippet": "iM Securities backs Hanmi Pharmaceutical as R&D momentum lifts upside in Korea - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3lBcXpPT0hXUklvU3dLYmQ3RlR2WklzWGxRNHNZX1RoaHcyQU9oWlk3MEVPY243dU1KRnBCY09fc0FRM3k0LWg2czVDN1JCc2xHRnI1VjBIMHA2Njd2eHMzc0Z6bTFqaVVjMkNWcU93NlJXUW9JRlhhUmJFWTRjZktrbl9kVnM3TkZfM0w0ODY1a3Vz0gGUAUFVX3lxTE1neUFxek9PSFdSSW9Td0tiZDdGVHZaSXNYbFE0c1lfVGhodzJBT2haWTcwRU9jbjd1TUpGcEJjT19zQVEzeTQtaDZzNUM3UkJzbEdGcjVWMEgwcDY2N3Z4czNzRnptMWppVWMyQ1ZxT3c2UldRb0lGWGFSYkVZNGNmS2tuX2RWczdORl8zTDQ4NjVrdXM?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "세종충남대병원, 약제급여 적정성평가 4년 연속 1등급",
+      "source": "메디파나 뉴스",
+      "importance": 56,
+      "snippet": "세종충남대병원, 약제급여 적정성평가 4년 연속 1등급 | 세종충남대병원, 약제급여 적정성평가 4년 연속 1등급 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 입력 2026.07.28 23:45 | 기사의 본문 내용은 이 글자크기로 변경됩니다.",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=415143"
+    },
+    {
+      "title": "FG unveils seven herbal medicines for cancers, hepatitis B, others - Punch Newspapers",
+      "source": "Punch Newspapers",
+      "importance": 50,
+      "snippet": "FG unveils seven herbal medicines for cancers, hepatitis B, others - Punch Newspapers | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/en-xl/africa/nigeria/fg-unveils-seven-herbal-medicines-for-cancers-hepatitis-b-others/ar-AA28Xj01?ocid=BingNewsVerp"
+    },
+    {
+      "title": "Hanoi'deki Vietnam Ulusal Üniversitesi Tıp ve Eczacılık Fakültesi, Yangın Önleme ve Mücadele Akademisi ve Japon uzmanlar, hastane öncesi acil bakım konusunda eğitmen yetiştiriyor. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Hanoi'deki Vietnam Ulusal Üniversitesi Tıp ve Eczacılık Fakültesi, Yangın Önleme ve Mücadele Akademisi ve Japon uzmanlar, hastane öncesi acil bakım konusunda eğitmen yetiştiriyor. | - Vietnam.vn | 요약문",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZnRHbzBWdGxTNTNjblA3eGtWNzAxd0FkRFRiRExpTDVHcGVjbUJQQndiQWhHQXhvdWMwUWJsLUxkQzNiZS1WdEs0VW1hZzNHdTljUlE4d1dZSElzWXVpSU9oVUNkcWxFVGVWZXI3Q3VHZ1NsV0hfRnpXbTRRWTNHblh3SURmY24ya0FESVBkRThLZG91U0xvQWNiM3dMaDR6akVxckFfT19aQzItM3h5UnN3VWM4eFd0ZENNVVVJMG01QnlEd0dPZ05wbmFrWTNscTJ6TkZscC1SZTJ0VU1R?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "医药行业周报：政策及业绩预告催化行情，持续关注中报有超预期潜力低估创新标的 - ByDrug",
+      "source": "ByDrug",
+      "importance": 50,
+      "snippet": "医药行业周报：政策及业绩预告催化行情，持续关注中报有超预期潜力低估创新标的 - ByDrug | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUZ5aWI2Mm5rMUFwVjV1azlvdGxPQ0NpOVpBUlBvdnVmQjlBbUotTkZOZG56SVJTUVFxWmRTVVktY1Z6Wk9OSlBJTU9XbHhpdlJUblVCVjFkLWlYaE5vWld1NnVGdmhGMmFzaUdUYll0MEcxcGFBX0VYWVZVclNvYg?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+      "source": "The Spectator",
+      "importance": 47,
+      "snippet": "Big Pharma wants to sell you psychedelic drugs - The Spectator | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVlZvRWVVNXltSVYtLW41NXRrN1NyN0U5T1lqa2w5NHk1Z2dra3JKbUliOTl6RDY2N1JRSk9sRUgtMk1yRXQwbTJ2ajd4cmUyNTZjUnkzeW5LMXkyY1lDVEFKdGJQeXYtMnRlSUhLLUxEeGo3ajNfOW5TZ25IbFNqc1JGSUh4WVpwTUpPdFRaUWRXUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Industry pushes for pharmaceutical sovereignty - Business & Financial Times",
+      "source": "Business & Financial Times",
+      "importance": 47,
+      "snippet": "Industry pushes for pharmaceutical sovereignty - Business & Financial Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkhqbFVPejdUWV9xa2FuMVZ4Mm5tRHZhcUIxdVZuTENnakI0aHc4UWpzNHAzSUFPdng5S2M1MGNoOWppaDlHbmowQXZRZEx3dk9sMlVzbHZtREVSdU9wMjN6OWJOcTVwZUJIVzBDUXVnczZ5RlhYOXg3V0lid3lsNHVQX1JCQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Đoàn Cán bộ, Bác sĩ của Học viện Y - Dược học cổ truyền Việt Nam: Một lần đến Trường Sa, ngàn lần thêm yêu Tổ quốc - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 47,
+      "snippet": "Đoàn Cán bộ, Bác sĩ của Học viện Y - Dược học cổ truyền Việt Nam: Một lần đến Trường Sa, ngàn lần thêm yêu Tổ quốc - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSE9POWpCV2c5ZEpoU19ydmNzLUdxSVFLVDFLM1dsOFdtaUtvaDdON1Y5UUwwZlZERmVRZWU4Y0Q3dkdMZ2J6OTJjNklTTG5qTHZlMGdSTXczb3B0bEJmbjNQNXBRWENRbVNKdXpJWnlHRWNpM1VaVTNxVmFnZXJjU0hFVWppZXVnRkkxNjdSbmxmYzlPLVVYbl81YVdoWDZJbVE1dUlUVG9BejVzVEstRzYtNm9MS3k5bTJhTzZ4TC1BZ29ieFQxZDdhR0o?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "กรมการแพทย์แผนไทยฯ เปิดเวทีประกวดกลิ่น “ว่านสาวหลง” ชูสมุนไพรไทยสู่ผลิตภัณฑ์เวลเนสระดับสากล - สำนัก สารนิเทศ",
+      "source": "สำนัก สารนิเทศ",
+      "importance": 45,
+      "snippet": "กรมการแพทย์แผนไทยฯ เปิดเวทีประกวดกลิ่น “ว่านสาวหลง” ชูสมุนไพรไทยสู่ผลิตภัณฑ์เวลเนสระดับสากล - สำนัก สารนิเทศ | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iQXhmUjA0Vk5lRkQ4WXBLSFA2Y1ZSSUJSRDBDU2k2czV4dE5ZbTRZakVXNmlnczlpeGtUR0daV1ZMS0J5NmtnamZ1T1dMWG03RDNXRm1HV3dDQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "한미약품, 상반기 누적 매출 8,602억원 '2분기 영업이익 117% 증가'…'글로벌 기술이전 성과 및 국내 의약품 사업 성장' R&D에는 603억원 투자 - 메디컬헤럴드",
+      "source": "메디컬헤럴드",
+      "importance": 42,
+      "snippet": "한미약품, 상반기 누적 매출 8,602억원 '2분기 영업이익 117% 증가'…'글로벌 기술이전 성과 및 국내 의약품 사업 성장' R&D에는 603억원 투자 | 현재 Internet Explorer 8이하 버전을 이용중이십니다. | 최신 브라우저(Browser) 사용을 권장드립니다! | 인터넷 익스플로러 11 | 한미약품, 상반기 누적 매출 8,602억원 '",
+      "url": "http://www.mediherald.com/news/articleView.html?idxno=90071"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 11
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 13,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 9,
+      "en_count": 1
+    }
+  ]
+}

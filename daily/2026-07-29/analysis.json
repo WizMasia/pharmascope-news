@@ -1,0 +1,281 @@
+{
+  "date": "2026-07-29",
+  "total_articles": 411,
+  "language_breakdown": {
+    "korean": {
+      "total": 190,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 22,
+        "의약단체": 9,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 90,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "미국 Medicare 약가 보조금 축소와 제약 정책 재편",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 13,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "SK Biopharmaceuticals inks Eurofarma deal, targets Latin America from Brazil - CHOSUNBIZ - Chosunbiz",
+          "importance": 60,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily",
+          "importance": 47,
+          "url": "https://www.koreajoongangdaily.com"
+        },
+        {
+          "title": "Lice Treatment Market Growth Fueled by Drug Innovation & Head - openPR.com",
+          "importance": 47,
+          "url": "https://www.openpr.com"
+        },
+        {
+          "title": "SK Biopharmaceuticals expands Latin America push during Lee visit with epilepsy drug cenobamate - Korea JoongAng Daily",
+          "importance": 47,
+          "url": "https://www.koreajoongangdaily.com"
+        }
+      ],
+      "summary_kr": "미국 Medicare 약가 보조금 축소와 제약 정책 재편 흐름 속에서 SK Biopharmaceuticals inks Eurofarma deal, targets Latin America from Brazil - CHOSUNBIZ - Chosunbiz와 Human drug breakthroughs find new life in pet medicine - Korea JoongAng Daily가 함께 묶이며 관련 정책·사업 이슈가 동시에 부각됐다.",
+      "summary_en": "미국 Medicare 약가 보조금 축소와 제약 정책 재편 cluster: SK Biopharmaceuticals inks Eurofarma deal, targets Latin America from Brazil - CHOSUNBIZ - Chosunbiz and related coverage point to a concentrated policy and industry signal."
+    },
+    {
+      "topic": "의료사고 이력 공개 논쟁 확산",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "\"의료사고 이력 공개, 의사면허 권위 높일 기회\"…환자단체·법조계 '찬성' - MEDI:GATE NEWS",
+          "importance": 37,
+          "url": "https://www.medigatenews.com"
+        },
+        {
+          "title": "의료사고 이력 공개 추진에 政 \"빈대 잡으려다 초가삼간 태울라\" - 청년의사",
+          "importance": 37,
+          "url": "http://www.docdocdoc.co.kr"
+        },
+        {
+          "title": "“의료사고 의사가 또 수술”…이력 공개, 환자 알권리 vs 필수의료 기피 > 뉴스 - 한의신문",
+          "importance": 37,
+          "url": "https://www.akomnews.com"
+        },
+        {
+          "title": "의료사고로 휠체어 타는 의원 \"의사 의료사고 이력 공개하자\" - 네이트",
+          "importance": 37,
+          "url": "https://m.news.nate.com"
+        }
+      ],
+      "summary_kr": "의료사고 이력 공개 논쟁 확산 흐름 속에서 \"의료사고 이력 공개, 의사면허 권위 높일 기회\"…환자단체·법조계 '찬성' - MEDI:GATE NEWS와 의료사고 이력 공개 추진에 政 \"빈대 잡으려다 초가삼간 태울라\" - 청년의사가 함께 묶이며 관련 정책·사업 이슈가 동시에 부각됐다.",
+      "summary_en": "의료사고 이력 공개 논쟁 확산 cluster: \"의료사고 이력 공개, 의사면허 권위 높일 기회\"…환자단체·법조계 '찬성' - MEDI:GATE NEWS and related coverage point to a concentrated policy and industry signal."
+    },
+    {
+      "topic": "셀트리온 비만·ADC 신약 파이프라인 재평가",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "[심층진단] 바이오시밀러 다음은 신약…셀트리온, 비만·ADC 승부수로 '기업가치 재평가' 노린다 - 뉴스밸류",
+          "importance": 37,
+          "url": "https://www.newsvalue.kr"
+        },
+        {
+          "title": "﻿셀트리온, 신약 파이프라인 비만치료제 비임상·항암ADC 성과 가시화 - 글로벌경제신문",
+          "importance": 37,
+          "url": "https://www.getnews.co.kr"
+        },
+        {
+          "title": "셀트리온, 신약 개발 기업 도약 초읽기…비만치료제·ADC 신약 등 연구 성과 가시화 - 네이트",
+          "importance": 37,
+          "url": "https://news.nate.com"
+        },
+        {
+          "title": "셀트리온, 비만치료제·ADC 신약 개발 속도…임상 성과 순차 공개 - 마이데일리",
+          "importance": 37,
+          "url": "https://www.mydaily.co.kr"
+        }
+      ],
+      "summary_kr": "셀트리온 비만·ADC 신약 파이프라인 재평가 흐름 속에서 [심층진단] 바이오시밀러 다음은 신약…셀트리온, 비만·ADC 승부수로 '기업가치 재평가' 노린다 - 뉴스밸류와 ﻿셀트리온, 신약 파이프라인 비만치료제 비임상·항암ADC 성과 가시화 - 글로벌경제신문가 함께 묶이며 관련 정책·사업 이슈가 동시에 부각됐다.",
+      "summary_en": "셀트리온 비만·ADC 신약 파이프라인 재평가 cluster: [심층진단] 바이오시밀러 다음은 신약…셀트리온, 비만·ADC 승부수로 '기업가치 재평가' 노린다 - 뉴스밸류 and related coverage point to a concentrated policy and industry signal."
+    },
+    {
+      "topic": "FDA 규제·승인 뉴스 재가열",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "Virginia federal judge orders FDA to reconsider abortion pill safety regulations - liveaction.org",
+          "importance": 47,
+          "url": "https://www.liveaction.org"
+        },
+        {
+          "title": "Regulatory tracker: MannKind gets FDA nod for speedy edema autoinjector - Fierce Pharma",
+          "importance": 42,
+          "url": "https://www.fiercepharma.com"
+        },
+        {
+          "title": "힘스앤허스 헬스 주가 급락, FDA 규제 리스크 부각 : 해외증시 - 재경일보",
+          "importance": 37,
+          "url": "https://news.jkn.co.kr"
+        }
+      ],
+      "summary_kr": "FDA 규제·승인 뉴스 재가열 흐름 속에서 Virginia federal judge orders FDA to reconsider abortion pill safety regulations - liveaction.org와 Regulatory tracker: MannKind gets FDA nod for speedy edema autoinjector - Fierce Pharma가 함께 묶이며 관련 정책·사업 이슈가 동시에 부각됐다.",
+      "summary_en": "FDA 규제·승인 뉴스 재가열 cluster: Virginia federal judge orders FDA to reconsider abortion pill safety regulations - liveaction.org and related coverage point to a concentrated policy and industry signal."
+    },
+    {
+      "topic": "규제 승인 뉴스의 비의약 섹터 확산",
+      "domain": "regulatory",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "'양자컴 대장주' 아이온큐, 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 - 더구루",
+          "importance": 37,
+          "url": "https://www.theguru.co.kr"
+        },
+        {
+          "title": "아이온큐, 미국 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 획득 - 데이터투자",
+          "importance": 37,
+          "url": "https://www.datatooza.com"
+        }
+      ],
+      "summary_kr": "규제 승인 뉴스의 비의약 섹터 확산 흐름 속에서 '양자컴 대장주' 아이온큐, 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 - 더구루와 아이온큐, 미국 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 획득 - 데이터투자가 함께 묶이며 관련 정책·사업 이슈가 동시에 부각됐다.",
+      "summary_en": "규제 승인 뉴스의 비의약 섹터 확산 cluster: '양자컴 대장주' 아이온큐, 반도체 파운드리 '스카이워터' 인수 최종 규제 승인 - 더구루 and related coverage point to a concentrated policy and industry signal."
+    },
+    {
+      "topic": "한미약품 실적·R&D 모멘텀 강화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 10,
+      "avg_importance": 50,
+      "key_articles": [
+        {
+          "title": "iM Securities backs Hanmi Pharmaceutical as R&D momentum lifts upside in Korea - CHOSUNBIZ - Chosunbiz",
+          "importance": 65,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "세종충남대병원, 약제급여 적정성평가 4년 연속 1등급",
+          "importance": 56,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415143"
+        },
+        {
+          "title": "FG unveils seven herbal medicines for cancers, hepatitis B, others - Punch Newspapers",
+          "importance": 50,
+          "url": "https://punchng.com"
+        }
+      ],
+      "summary_kr": "한미약품 실적 서프라이즈와 연구개발 모멘텀이 겹치며 국내 대형 제약사의 밸류에이션 재평가 기대가 이어졌다.",
+      "summary_en": "Hanmi Pharmaceutical’s earnings and R&D momentum keep valuation re-rating in focus for Korea’s big pharma names."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 11,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 13,
+      "en_count": 1,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 9,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "의료정책·인력 대형 클러스터는 형성되지 않았음"
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": [
+      "미국 Medicare 약가 보조금 축소 이슈가 정책 축을 주도했다.",
+      "셀트리온 비만·ADC 신약 재평가와 한미약품 실적·R&D 모멘텀이 국내 대형 제약사 재평가를 자극했다.",
+      "의료사고 이력 공개 논쟁이 의료현장·환자권리 축으로 부상했다."
+    ]
+  },
+  "connections": [
+    {
+      "from": "미국 Medicare 약가 보조금 축소와 제약 정책 재편",
+      "to": "셀트리온 비만·ADC 신약 파이프라인 재평가",
+      "note": "정책 압박은 국내 대형 제약사의 신약·기술이전 스토리에도 밸류에이션 변동성을 만든다."
+    },
+    {
+      "from": "셀트리온 비만·ADC 신약 파이프라인 재평가",
+      "to": "한미약품 실적·R&D 모멘텀 강화",
+      "note": "국내 대형 제약사들은 실적과 파이프라인을 함께 보여줘야 시장의 재평가를 받을 수 있다."
+    }
+  ],
+  "generated_at": "2026-07-29T16:35:02.250154+09:00"
+}
