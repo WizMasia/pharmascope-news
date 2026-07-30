@@ -1,0 +1,758 @@
+{
+  "date": "2026-07-30",
+  "total_articles": 452,
+  "language_breakdown": {
+    "korean": {
+      "total": 196,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 15,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 140,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 15
+      }
+    },
+    "multilingual": {
+      "total": 116,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 3,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 19
+    },
+    {
+      "keyword": "급여",
+      "count": 13
+    },
+    {
+      "keyword": "약가",
+      "count": 12
+    },
+    {
+      "keyword": "R&D",
+      "count": 12
+    },
+    {
+      "keyword": "식약처",
+      "count": 8
+    },
+    {
+      "keyword": "허가",
+      "count": 7
+    },
+    {
+      "keyword": "임상",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 6
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 4
+    },
+    {
+      "keyword": "제네릭",
+      "count": 3
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 2
+    },
+    {
+      "keyword": "ADC",
+      "count": 2
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    },
+    {
+      "keyword": "CDMO",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 19
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "recall",
+      "count": 4
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "inspection",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 15
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 6
+    },
+    {
+      "source": "v.daum.net",
+      "count": 5
+    },
+    {
+      "source": "간호사신문",
+      "count": 5
+    },
+    {
+      "source": "뉴시스",
+      "count": 4
+    },
+    {
+      "source": "MEDI:GATE NEWS",
+      "count": 4
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 4
+    },
+    {
+      "source": "히트뉴스",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "stocktitan.net",
+      "count": 7
+    },
+    {
+      "source": "MarketBeat",
+      "count": 5
+    },
+    {
+      "source": "Future Market Insights",
+      "count": 4
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "STAT",
+      "count": 3
+    },
+    {
+      "source": "Tech Times",
+      "count": 3
+    },
+    {
+      "source": "아시아경제",
+      "count": 3
+    },
+    {
+      "source": "News-Medical",
+      "count": 2
+    },
+    {
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "count": 2
+    },
+    {
+      "source": "The Pharma Letter",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "미국 Medicare 약가 보조금 축소와 제약 정책 재편",
+    "의료사고 이력 공개 논쟁 확산",
+    "셀트리온 비만·ADC 신약 파이프라인 재평가",
+    "FDA 규제·승인 뉴스 재가열",
+    "규제 승인 뉴스의 비의약 섹터 확산"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 27,
+      "keywords": [
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "ByteDance ignites bio-AI drug race as Korea accelerates design and validation - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "ByteDance ignites bio-AI drug race as Korea accelerates design and validation - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 21:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMDNNSm9uc2FDM3M0UDVzMVZvZ2RpSVRRZmdYLWpXWWJ6aHVSUTQ1NHVvcHpxdklFbkdEeFBrMFBCUnJQRWxpT1FwekhUd3A1T253UENNWmNxQmF0OXVxaC16TF9veWlCT3I2U1N0RV9xVXpqejd3ekl6Yi03U0NIN9IBlAFBVV95cUxQQy1JeFRqZjN4T3A5QTZQc01OMDRnbWVFVlhXbVJWNnhqRnRMQWZFZ2FraGNCUmt0cFJodndGSXlMYy0zZWtpZFhUbFhZeHp0ZU9JVzRwY1JHX1RqWF9ORnJMOWFGVGUtTkFSMFp0MmZXT1hxZklDT0lNUXZESzhFSjMxd095ZTg0ampRd1FVX1YzaHdo?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA panel votes against Capricor's Duchenne heart disease therapy - Reuters",
+          "source": "Reuters",
+          "importance": 57,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA panel votes against Capricor's Duchenne heart disease therapy | Advertisement | Advertisement | Return to Homepage | Top Stories:",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 22:32:29 GMT",
+          "url": "https://www.yahoo.com/news/science/articles/fda-panel-votes-against-capricors-215323332.html"
+        },
+        {
+          "title": "View of Alzheimer’s Disease Peptide Could Inform New Drugs - Yale School of Medicine",
+          "source": "Yale School of Medicine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "View of Alzheimer’s Disease Peptide Could Inform New Drugs - Yale School of Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 16:45:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRCU2Flb0RSUlVzQU1jTXNZem1sbjlVc2xMSGJydGp5SmtBRDFmZmJOcmVWM2ZpbTY0clFGSUlkWktUOTZXWjdJWVZVLVFHMlVFTk5ta0ZNVnhDOVc3T2RPZ0h4Y2FIWWpneXh3ZDhJZzRZM0dMMjF5MUlJaXBua0NHYXA3MndqSk04?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA grants fast track designation to Insilico's AI-designed mesothelioma drug candidate - News-Medical",
+          "source": "News-Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA grants fast track designation to Insilico's AI-designed mesothelioma drug candidate | FDA grants fast track designation to Insilico's AI-designed mesothelioma drug candidate | Download PDF Copy | Add News Medical on ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 14:06:00 GMT",
+          "url": "https://www.news-medical.net/news/20260729/FDA-grants-fast-track-designation-to-Insilicos-AI-designed-mesothelioma-drug-candidate.aspx"
+        },
+        {
+          "title": "FDA expert panel recommends against approval of Capricor’s Duchenne drug - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA adcom declines to recommend Capricor's Duchenne drug | STAT | Skip to Main Content | FDA expert panel recommends against approval of Capricor’s Duchenne drug | Committee says company didn’t provide ‘substantial evide",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 22:21:58 GMT",
+          "url": "https://www.statnews.com/2026/07/29/capricor-therapeutics-deramiocel-fda-review-meeting-live-blog/"
+        },
+        {
+          "title": "Enhancers That Drive Prostate Cancer Point to New Potential Drug Targets - Inside Precision Medicine",
+          "source": "Inside Precision Medicine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Enhancers That Drive Prostate Cancer Point to New Potential Drug Targets - Inside Precision Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 18:43:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdTZhaUMzSHhmWkw2ZVdvMno4RTFGblpQUXBlNi00ZFdydFFsUUtrbzFZSXFaQlh1OEZaX1BRTllsMmRsRy1jenJRTU5Sb2NIbDdZdU12cTd2Uzd4ekZ2ZmNCaGh5azZlTlVMUjBJR3pBWEJaZWJ2REx1UzNRbFQxU3NEV3ZSZUVWTENJZTdBRkl2U3p5ejlSOEQxSFlSaVY1RkExUEg1UURxUU5Ec25JbXpuX28zVDltTlA4dVlvaGdZb2xEVkYzTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "China Becomes the First Country to Approve a New Drug for Narcolepsy - ColombiaOne.com",
+          "source": "ColombiaOne.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "China Becomes the First Country to Approve a New Drug for Narcolepsy - ColombiaOne.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 20:20:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmlUdzdMVmUzV3UtZ0QtaWRlRWdJMU5ZMzQzYW1ZNmRPc2xiMVR2Ql8yRWZRb0Z6UDR3Rk5DQVRBZ1VELVJ3TUtvUXByaUVrRDdxc1Z1d21RbzBBTXJJWDhhNWc3VlRwSVF2aDYyQ2EyTWwwM01oalhaMWYtQ2tWRXN2a3dTalhjby1fOC1pdGM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "The Next Miracle Drug Might Already Be in Your Medicine Cabinet - derekthompson.org",
+          "source": "derekthompson.org",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Next Miracle Drug Might Already Be in Your Medicine Cabinet - derekthompson.org | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 10:03:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OQ2xhM3dBSUVoRDlXTkZiSWRKV1lFSlg0OTV0S2IwLUwyLWFOdmdwSFp4QzY3MlJjd2pFcXpRWU9RQW9kWUdnRnZaTG9WcURaQjBUdzhScnhzYzB1YmpTZjlDaVFBM3gtQlczWHUtYmpVV1RIVWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Ionis Pharmaceuticals (NASDAQ: IONS) Q2 loss and new drug approval - stocktitan.net",
+          "source": "stocktitan.net",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ionis Pharmaceuticals (NASDAQ: IONS) Q2 loss and new drug approval - stocktitan.net | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 21:06:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3ZCVEVhU0J6eUNneUFMN0lsNWNYcFZibzZySEs0by1VZVlEYW16LUFITnJJeFYyM0xEOE85OHZjZlZUdENvRWRBYjdpcHZTcm11a3lEQ2U1b0N3S1IwaEFQM09XTG1RM1pxb0Y1TG1FanlnbjhlVFItUmR1MnZZQjYydUZ0Tkd6TWxCcVBndTZGbGJRWnlHUnQtTV9DMGFSNHBTaXZUeTlYZzJLdTl4WEZQWEVYSDItcEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA approves ADHD drug with novel mechanism of action - Новости GxP",
+          "source": "Новости GxP",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA approves ADHD drug with novel mechanism of action - Новости GxP | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 07:15:13 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS0hSTDZNVDNSWTJZZFJvbk1HSkltMG9lejc4WndLaVN4d3FoNlBYT3dMaElFZXpCU0QwSEthbXpLQzJRZ1haeVVFSWFBajdqZzRFNVFCOWNuYmhzaUtwLXg2M1pmUklmQzhVTmQ0bzB6ajN2SFdIYXFiM2ZqZjI1NmFQdHdKVi1TZXN1MnpB0gGOAUFVX3lxTE9LSFJMNk1UM1JZMllkUm9uTUdKSW0wb2V6Nzhad0tpU3h3cWg2UFhPd0xoSUVlekJTRDBIS2FtektDMlFnWFp5VUVJYUFqN2pnNEU1UUI5Y25iaHNpS3AteDYzWmZSSWZDOFVOZDRvMHpqM3ZIV0hhcWIzZmpmMjU2YVB0d0pWLVNlc3UyekE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Branded Drug Tariff Arrives Friday: Generics Now Face Their Own 2028 Deadline - Tech Times",
+          "source": "Tech Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Branded Drug Tariff Arrives Friday: Generics Now Face Their Own 2028 Deadline - Tech Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 12:48:52 GMT",
+          "url": "https://www.msn.com/en-us/health/other/branded-drug-tariff-arrives-friday-generics-now-face-their-own-2028-deadline/ar-AA28YI4y?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Pharmaceutical company bows to pressure, offers life-saving drug for free - ABC News & Headlines – Australian Broadcasting Corporation",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharmaceutical company bows to pressure, offers life-saving drug for free - ABC News & Headlines – Australian Broadcasting Corporation | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 18:42:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3R2Z01kUFZac0pVLWV5aUFkc0ZfMHdZUktudlpGRi1nYldCYndRbU5YVldCZ29iTF9BNlFVSWwxMWlMaTlKNHRtRVNvWmg0VDNDYUpCaU1MOFRzb0ZmbEtNdjI0TkpOZWpXZFN1M3lhYnVSeFdNcXNzMDJkVlFpODYzbTcwQnhlLWpWU1ViUlNiSzhCQV9ETG9sVzN0Q0oxOVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Alembic Pharma Wins USFDA Approval for Generic Chronic Constipation Drug Prucalopride - The Indian Practitioner",
+          "source": "The Indian Practitioner",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Alembic Pharma Wins USFDA Approval for Generic Chronic Constipation Drug Prucalopride - The Indian Practitioner | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 15:50:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSW9HaWRCRXE1N3FxY29NeFpiNE9lb051d1VTdnpnZUlXcmFncS1YLU02UGk1R0ExSGVxbllhRW5rbl95UEVzb29saHNEMjBwNEJHcDAxazZITkx2MFVfNFVtd01hVHBUMGVZSnFiNVo5ajJGZkNXR0hYVFlqcDlkZ0QtM1ZFMFBzdWNKR3JZZmV1eDcyNW1JTVV2Q2FXWlN5YmtxUDd6MzJJNUZYbW00SGxiNzBjSDNoUnlKYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Latigo posts results on competitor to Vertex non-opioid pain reliever | STAT | Skip to Main Content | Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx | Tummy tuck patients reported post",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 21:00:25 GMT",
+          "url": "https://www.statnews.com/2026/07/29/latigo-phase-2-results-non-opioid-pain-reliever-ltg-001/"
+        },
+        {
+          "title": "Ocugen Announces that the U.S. Food and Drug Administration - GlobeNewswire",
+          "source": "GlobeNewswire",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ocugen Announces that the U.S. | Food and Drug Administration - GlobeNewswire | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 11:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQaV9mYnJYWVViZmlHaUlGMEVxLXl3Qy1CZDB0eUNsNlZscG8yX2ZhX1QwcnE2a2RRSjNHX3ZwWjZwZkh5aFRaaVpMRjlvTFMzeWtVbUM4YlR0NFFvUHYwZFlQNUl5OTQ2T0x4VFZUYWVEZ0tVMloyNnV4QkN2ZFRNdEpkcUxnTjZ4MmhyaEt2N25jYVVtTXR3bWhRMmJuSllGS1RERFpHcTNtbzNRaGV6T0JvQTI1Nl9xdnV4TmdSWjN5bHlFYlJLcDlLZ2RkaGxIakpGc1VDcFF5S3VwNkxBRWN1N2NmLU9qUTFZYzR1Z2p5bW1hYVREdFlfb3NOT3B1UEppbDFhWjdJUG5PRmJKZEtjRUk4bEtlNGxlQ05rNW9ka2hzQjgxTWJJQWJSV3I1eVJVUG93ZGhYenlCZF94aVc1YnJwTW9jeEhWc2JhTWJvU1MtR21RWktLNzZVX0lTdU81T2hDcTJjMThv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Stargardt Disease Pipeline 2026: MOA, ROA, FDA-Approved Drugs, - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Stargardt Disease Pipeline 2026: MOA, ROA, FDA-Approved Drugs, - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 19:37:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxQaUsyWWJVbl84OTNpakVxaE1hekxzV0Vnamhsd0FLTTF6WFd6NWJ0aHpZR2R0UElET19lS05PdkZ6RFdneEtmZnJqbm5uR1Z0QWlkcTVlVEd0V1BKemlOanVrVjUtdzBJYm9IcXB6emxsY3FUa2xVWVc5LVUzaXR5SzVZYUMyOEMyc0VlcXA3eWd3NjNPTDZn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Processa Acquisition Lands Immunology Drug That Could Rival a New Novartis Product - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Processa Acquisition Lands Immunology Drug That Could Rival a New Novartis Product - MedCity News | Processa Pharmaceuticals is reshaping its pipeline with the acquisition of Vidya Therapeutics , a clinical-stage biotech",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 22:17:11 GMT",
+          "url": "https://medcitynews.com/2026/07/processa-vidya-acquisition-btk-inhibitor-immunology-inflammation-allergy-pcsa/"
+        },
+        {
+          "title": "Scientists develop a promising way to create new antifungal drug candidates - News-Medical",
+          "source": "News-Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "UVA scientists develop AI tools to accelerate new drug discovery | UVA scientists develop AI tools to accelerate new drug discovery | Download PDF Copy | Add News Medical on Google | as a preferred source",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 16:49:00 GMT",
+          "url": "https://www.news-medical.net/news/20260409/UVA-scientists-develop-AI-tools-to-accelerate-new-drug-discovery.aspx"
+        },
+        {
+          "title": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress - koreabiomed.com",
+          "source": "koreabiomed.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "HanAll Bio posts solid Q2 results on flagship drug growth, R&D progress - koreabiomed.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 30 Jul 2026 02:30:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tN0pEeDNUXzZ5UWdVc0F1Um9fS0dpVkxFN3hHdVp2ODhra2xOcFVYQXliMEM3RTkxLXFHSW5nSUhITVI2U0FBMlBmXzd6QjNEQnN5UzBmMUZ3UjBzeTJtMFBoZ1N4bXNBNnFiQ0NR0gFyQVVfeXFMTjZod29GR1F4YU1lTHh5aDlwejRwb1JXUTNJLU53dmRDcUl6cW1NTzNSNEFsVk9zcVl3YV9VejJFTWJBY0F2SkJhd0pMRHN0OTNXZzczQW1sRy1vU21IdVUyWjRHazFhaHRzYXdSUU9rcDR3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "New drug mechanism could help overcome antibiotic resistance - Labmate Online",
+          "source": "Labmate Online",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "New drug mechanism could help overcome antibiotic resistance - Labmate Online | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 10:18:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdHNoTHZuOUlLYnl6dmpTRDM5blVudDZTV2N2Z3NndEVCMWZ4Slpwa2Y1ZEVvMTF0aS1uLXdpdlpkMjFFT09halZEOHNZcVhETTMzZ1ZqY3d6dk5ZdE5MRG5pUjlRSEpPdW9rTllpZjNpMFAtYXdBZFBGZmRUQjFyeUFLeDR0MXhJYkhlU2FmSnFEMkVxZGRSRndwbk1ud1dpbGJTMnpqUlA1d1pnVGtheTVCOUt3NWRxNl81NEtLdXoxTHhqTnh0VTc0bFJLdVhzTVZBWGYwQ19Ca1l6YjZFb084b2c3Z0k5QUNwdg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily",
+          "source": "Investor's Business Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 15:48:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU9lWVFSSXBnMDlGdXdTWFZPREV6WnZGb3FaZWc3ajc5eWp6Wmw1Tl82Z1dEc1dMdmNwcW9RNTdZZzlKazZRZEt6bkVOa1FGTUU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Why Chinese Biotech Licensing Deals Became Attractive to US Investors - Pharmaceutical Executive",
+          "source": "Pharmaceutical Executive",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Chinese Biotech Licensing Deals Became Attractive to US Investors | PharmExec | Advertisement | Feature | Videos | July 29, 2026 | Why Chinese Biotech Licensing Deals Became Attractive to US Investors | Author(s) Mik",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 10:04:53 GMT",
+          "url": "https://www.pharmexec.com/view/chinese-biotech-licensing-deals-became-attractive-us-investors"
+        },
+        {
+          "title": "South Korea Tightens Pharma Disclosures to Curb 'Dream Drug' Hype - 조선일보",
+          "source": "조선일보",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "South Korea Tightens Pharma Disclosures to Curb 'Dream Drug' Hype - 조선일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 30 Jul 2026 04:14:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3VTUHA2TmZJRlpUMXhweHZxeUhKc0FQZnBDSFJQOU9BVGRJRVNXeV9yQXo3RTUydmw1MHZINXdmZlBKdWZoaTFMb1JYSlBPbFA5LWxLd1I4UGJWaGROaEJGM3NnalExemc3cUFNVWQ3c1hma2YwakhCLXBvRmxVOVR6enViMHk0ajQ2RlJ3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "South Korea Overhauls Pharma, Biotech Disclosures, Banning 'Dream Drug' Hype - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "South Korea Overhauls Pharma, Biotech Disclosures, Banning 'Dream Drug' Hype - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 30 Jul 2026 04:05:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WV2lnX2RjWVFBQ21RNnZfWGZsaUZfTkp1azVjMDFpNHVzWTJsaGtfNzJCR1BCMnIybV83endIdzgxU2JCb2xxTWNmN0Z2WjgxdDA3ZktHaGw4Y1FWTGJFSkdjTTFMNDR1SkN6YTZ0ZC1tR0lWLUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "\"Preventing Another Samchundang Pharm\"... Significantly Strengthened Pharmaceutical and Biotech Disclosure Standards - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "\"Preventing Another Samchundang Pharm\"... | Significantly Strengthened Pharmaceutical and Biotech Disclosure Standards - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 30 Jul 2026 03:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBydW1yYzE2cFZUUjI0NzJyd0NKY3JVNFhzX3k1SThJTTlYSW1XM0RoS3Z2YnMwNUYzU2hkOWE4U2NwSlZvQjVSS1RzUzNlb0J2ZW5YbU04c1pZd0owRHcxTjlUQXU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Ionis Pharmaceuticals (NASDAQ: IONS) Q2 loss and new drug approval - stocktitan.net",
+          "source": "stocktitan.net",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ionis Pharmaceuticals (NASDAQ: IONS) Q2 loss and new drug approval - stocktitan.net | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 21:06:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3ZCVEVhU0J6eUNneUFMN0lsNWNYcFZibzZySEs0by1VZVlEYW16LUFITnJJeFYyM0xEOE85OHZjZlZUdENvRWRBYjdpcHZTcm11a3lEQ2U1b0N3S1IwaEFQM09XTG1RM1pxb0Y1TG1FanlnbjhlVFItUmR1MnZZQjYydUZ0Tkd6TWxCcVBndTZGbGJRWnlHUnQtTV9DMGFSNHBTaXZUeTlYZzJLdTl4WEZQWEVYSDItcEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "\"Innovative Pharmaceutical Company\" Certification Overhauled After 14 Years... Stricter R&D Standards - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "\"Innovative Pharmaceutical Company\" Certification Overhauled After 14 Years... | Stricter R&D Standards - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 30 Jul 2026 01:55:47 GMT",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vbEpoeml3RWthSHFHMGE0NVd0T182M1hBR2VibUR0ejhSWlJsa1pMM1d4UWt2WmNDSlVUWFhKSGE2VUtlUmJkN3VKcC1sSno0RFJ4Y3AwdjhnNWxWTDJ0bGhBS1ZUeFRpR2otUGRmNFhYQWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "global",
+        "market",
+        "industry",
+        "analysis",
+        "insights",
+        "future",
+        "opportunity",
+        "assessment",
+        "drug",
+        "cardiovascular"
+      ],
+      "articles": [
+        {
+          "title": "Cardiovascular Drug Discovery Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+          "source": "Future Market Insights",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cardiovascular Drug Discovery Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 29 Jul 2026 12:22:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3VtdndNUmRSalBrVGRndnlwN2FCcjhfRUtsb2tqbVd0Q0JZUG51Tjd6dTVYdmR2bElmMFZIRnR3XzBEek5oOU1yanBYQ3BoRE56ODBBdXp4S28ydDctSEdQUzVVNVNiZ0plb1lqUzJ3TUlMc1FiS1NvaUQzeWJ6V0duRWMyTlI5?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AI-Accelerated Nonclinical Drug Testing Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+          "source": "Future Market Insights",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "AI-Accelerated Nonclinical Drug Testing Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 12:02:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0pwcjVuR2szRS1yMDEtRW9NWnlJNnpVUEhhTnA5UVRXS2FPWVRRNTRVRXVvcVhLejFDZVdia3IydWw2cUE4YlR5RTBDRzJaVmNSYXZCTzdSQmg1aFA3MldQSERXVExOWkd1aGxXV2locFlTQlk4OHU5QXp6VHo3OWtmUlZLMVVyVUhiYzZCVC0yeUVhUWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Global Radiopharmaceutical CDMO Market to Accelerate Substantially at a CAGR of ~10% by 2034 | DelveInsight - Business Upturn",
+          "source": "Business Upturn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Global Radiopharmaceutical CDMO Market to Accelerate Substantially at a CAGR of ~10% by 2034 | DelveInsight - Business Upturn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 18:01:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYlZObEJnQnBqVkNnVXVaa2k0Q191aWVqRXBXMVhtb3lONTZTSkltZlhXbm9paGpoak1FUnh0OXhqQzlhX2NhcmxvT3BjX1A4QWFqSkN6VHJlUmZWcW14d1h4dWI3SWwxN0czVTdDd2NDYk9SRDdHR0doREhsSHBRV2xqZDNrbXBLbnBCQWJ1d2dTWHZ4dzdKbXFDcUppSEp1cGwxZU9uN0lfajFzdWMtQkU1LTNHNmotd1hfY1J2UlNmdTNnNGpPZk8yNUliQ2ZmV1RjRm9VcV94dw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cardiovascular Drug Discovery Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+          "source": "Future Market Insights",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cardiovascular Drug Discovery Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 29 Jul 2026 12:22:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3VtdndNUmRSalBrVGRndnlwN2FCcjhfRUtsb2tqbVd0Q0JZUG51Tjd6dTVYdmR2bElmMFZIRnR3XzBEek5oOU1yanBYQ3BoRE56ODBBdXp4S28ydDctSEdQUzVVNVNiZ0plb1lqUzJ3TUlMc1FiS1NvaUQzeWJ6V0duRWMyTlI5?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "vietnam",
+        "och",
+        "utst",
+        "medicin",
+        "retag",
+        "kemedelsindustrin"
+      ],
+      "articles": [
+        {
+          "title": "Ho Chi Minh-staden: 300 företag deltar i internationell utställning för medicin- och läkemedelsindustrin. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ho Chi Minh-staden: 300 företag deltar i internationell utställning för medicin- och läkemedelsindustrin. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Thu, 30 Jul 2026 04:54:22 GMT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNenR3ekV1d1JOdVNZRU44VUUzalVyVml3UmxrLWxpZlZaZG9LbW4tNjJMZXZzR3VKZ0lGd0hwWWhNakdHQXJFa09GX3J2cUsyenl3QlFtNUpZdkhlNDhnUDNOc2lGVUFVdkFCVzNKbEpiT0FJVHpxSFRRV0JoZXVuclI1d2NwVm9ZZXdyWjgySjlsbUpMRWxucnVhTjgyZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Över 300 företag deltog i den internationella utställningen med inriktning på medicin och läkemedel. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Över 300 företag deltog i den internationella utställningen med inriktning på medicin och läkemedel. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Thu, 30 Jul 2026 05:26:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTlVUVdvUmgzMDVoQ2lCVTNUSXFzZGFXQ3FWZG1kLTRNdlU4YW50Tk5DQnZ1MlRmaTFHNkdnT1hSMURzRmI1RVdTSFoyc1dhWWhfcDBkYVdFaEF0TnNkUFVPMmdjVmp5UUxwcnJTTVpQQmprNFhZdFdSeS1iS2ZWNFkxWS1nWXJnNE81bzVNSnFtUjNFOW9YOQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Artificiell intelligens och möjligheter till omfattande innovation inom läkemedelsindustrin. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Artificiell intelligens och möjligheter till omfattande innovation inom läkemedelsindustrin. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Wed, 29 Jul 2026 10:52:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUNEMlRYTFU4Ykl3ZlRlZVV6NGE1WmVoRThNRk4xMU5YNGF3bUJXSXNtaXFKcE1GWXl1NE5QRV91V2lQQmpGaXN2MTZiMzhRV1RLQTVEeVhKdDlhYmRyUnVJZWg4Qko1c05ONzRacFdPbDJ1Q3ZIUU5IVTgzUDVyelFIdndpNTA4?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Brazil greenlights five new injectable diabetes drugs - Reuters",
+      "source": "Reuters",
+      "importance": 67,
+      "snippet": "Brazil greenlights five new injectable diabetes drugs - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/en-us/money/general/brazil-greenlights-five-new-injectable-diabetes-drugs/ar-AA290gvJ?ocid=BingNewsVerp"
+    },
+    {
+      "title": "हो ची मिन्ह सिटी: चिकित्सा और दवा उद्योग की अंतरराष्ट्रीय प्रदर्शनी में 300 व्यवसायों ने भाग लिया। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "हो ची मिन्ह सिटी: चिकित्सा और दवा उद्योग की अंतरराष्ट्रीय प्रदर्शनी में 300 व्यवसायों ने भाग लिया। - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ0xnSmkxTi11SlNGejdQT3A2NXpYdlRUSnpTOXhGcjJKakVYNkFFMksyaVhxSnBLZ29SbGJtdWphaG96Y0U5MEZSZE5LYTRaMG44dXl5eXR5aUhSX3pNV0hJXzVaY0RiWW50bjBVaVNRWWdKbWZZNEVRcVlpSDI0REwtSVh6cXBtOVhINlpSbU5menhOWW01S3h4Nm5sQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "تبادلت وزارة الصحة الفيتنامية وإدارة الغذاء والدواء الأمريكية وجهات النظر وعززتا التعاون في إدارة المستحضرات الصيدلانية وسلامة الأغذية والأجهزة الطبية. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "تبادلت وزارة الصحة الفيتنامية وإدارة الغذاء والدواء الأمريكية وجهات النظر وعززتا التعاون في إدارة المستحضرات الصيدلانية وسلامة الأغذية والأجهزة الطبية. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 ",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNam5TNVlwdXVtbkJNTHRYb1dDRG43ZDVKYUlaN2NCUk4tUUNTVFJSbndpVUxxM0FqT3NIdDRSQk1WcHY5dzNzeFhLd0c3SnBZVy1oclN2UG5xb05RQ0dMOHVBYi1rT0d2SW82bzdPSTBwU0dmMk50Q2VHZmptS2tUZlVnWEtwVS00SUZwT2FyQk1qYVBWV2tyZTNsOXhkTkpPQ2lHdVlEQVFNTmlNWUFXUEZCaG1UTUNmcHl3N2NLeFJ4Qmo4YVg0SnAzMTZYNVdpcnRZSXFZX1Q?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "הו צ'י מין סיטי: 300 עסקים משתתפים בתערוכה בינלאומית של תעשיית הרפואה והפרמצבטיקה. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "הו צ'י מין סיטי: 300 עסקים משתתפים בתערוכה בינלאומית של תעשיית הרפואה והפרמצבטיקה. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3dmSHJROVhDcDN2MmhZVU9BNUR5VmRCaTh5MmtxZjRoRGNFMmFqb2d5QURxNUJvSlVGZjBUQkJZUEI2MGxwT3RiYjR6b0JxanZyRXk1ckRITDlaX0hLZGNTMDRrYVc0eDJqVE82RFBTUjdMaGx1eDdMSVhFNWxzUUxvQ2JtTXZ5aG5XbnRjRS1ROUoxY2p0Ry1sXzRsUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Prix des médicaments : la réforme qui divise gouvernement et pharmaciens | L'observateur - lobservateur.info",
+      "source": "lobservateur.info",
+      "importance": 50,
+      "snippet": "Prix des médicaments : la réforme qui divise gouvernement et pharmaciens | L'observateur - lobservateur.info | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RX0hUdGU1OGJlUGl5UUdFU1BYaU1YalU4SE90U3c2V29XZkJxejNfMW0ydmFxRGRsZ0N1TEwxZmhSTjVuS3p5Ym1fdk9QSENpRU9rZzBB0gFWQVVfeXFMT1FfSFR0ZTU4YmVQaXlRR0VTUFhpTVhqVThIT3RTdzZXb1dmQnF6M18xbTJ2YXFEZGxnQ3VMTDFmaFJONW5LenlibV92T1BIQ2lFT2tnMEE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Bir adam, gözündeki tümörü geleneksel tıp yöntemleriyle dört yıl boyunca kendi kendine tedavi etmeye çalıştı, ancak kanser sonunda karın bölgesindeki lenf düğümlerine yayıldı. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Bir adam, gözündeki tümörü geleneksel tıp yöntemleriyle dört yıl boyunca kendi kendine tedavi etmeye çalıştı, ancak kanser sonunda karın bölgesindeki lenf düğümlerine yayıldı. | - Vietnam.vn | 요약문 생성 ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0tVNWU2elEyaDlVZ2lhSjhwUnR3NmJhdkhiRnUyaFpLbjNXM0xtMmY0RU5jSGVPbXNHUEVESHozb29VblN3WTB1WGlQSk9uWl9oTW5ZVVEtWEEyNmdPd3ZtanQtSXdUeEFnbEJQT1JZNW1QLUFnRTF5dEdaY0tiOFVjNFY5M1ZkbklaXzByOGs4a3dMdE1jb3ZZWXJ1YUtzYTdlcg?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "从8月1日开始，韩国国内制药公司销售的仿制药（generic）价格最多将下调45%。 在实行优待革新新药、降低仿制药价格的政府医药品药价改编之前,制药公司迅速重组了研究开发(R&D)组织和生产.. - 매일경제",
+      "source": "매일경제",
+      "importance": 50,
+      "snippet": "从8月1日开始，韩国国内制药公司销售的仿制药（generic）价格最多将下调45%。 | 在实行优待革新新药、降低仿制药价格的政府医药品药价改编之前,制药公司迅速重组了研究开发(R&D)组织和生产.. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8yQzVyZzd1Z1FUQktzQlVReGEweDFERVgtbVY2OC04UkE0TC1kWnRXanBKOUp1UE1HUUF2X085dGNUZlBka001aFBtaw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "वियतनामी स्वास्थ्य मंत्रालय और अमेरिकी एफडीए ने दवाइयों, खाद्य सुरक्षा और चिकित्सा उपकरणों के प्रबंधन में सहयोग बढ़ाने के लिए विचारों का आदान-प्रदान किया और प्रोत्साहन दिया। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "वियतनामी स्वास्थ्य मंत्रालय और अमेरिकी एफडीए ने दवाइयों, खाद्य सुरक्षा और चिकित्सा उपकरणों के प्रबंधन में सहयोग बढ़ाने के लिए विचारों का आदान-प्रदान किया और प्रोत्साहन दिया। - Vietnam.vn | 요약문 생성 불가 |",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTm4tVVZONlRxV2k5SUEyeElFbGFZNXc1anh2eXFVSThrSzJ5TVAweEdQMElOU2hnTC10MmJyMDVFTFVfVnJVRk5nRmI5NHdtWlNQcjNldHhwdWdzZ25oQ0plVEF2S0dNaWp3d2MtLWV0cS1lS1ZvQUc2ZjVxYmFKSW9kb2xRSnVTUXA2dEoyOG1NZ1JDNGNvdFhrU1pvblJTVVVVM2owVmNjTVBPMXpoS21Lamt5amI0LVRiZU9weWxUMlF0Y2RRRWstUUE5cVIzR1IwNlpYOGE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "شارك أكثر من 300 شركة في المعرض الدولي المتخصص في الطب والأدوية. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "شارك أكثر من 300 شركة في المعرض الدولي المتخصص في الطب والأدوية. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjNUb3FLel9UaERadVNLRUhEM25XQXVuS09xUVVobG40bFlkMW1kOTY0ZVIwTXZSYXJPQ09YREMtM3lRUkk1MmZpRGl4RnREazNmN25hRlRzOENzcl82WlByRTdpS19WY0FOUC1jaXVXd2VpT3RVbFdoX2M4UXFBVWVKTGhGTGhKRWVhOTZmTVk4WVE5TmxtTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "צמחי מרפא: \"מכרה זהב ירוק\" של מיליארדי דולרים - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "צמחי מרפא: \"מכרה זהב ירוק\" של מיליארדי דולרים - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DbEhBdVFTU0dLWjViTXFSRzN4c2k0cnFxaDZpXzJvdWhDNlNxQW03WDkwNURrVFdiZC1uMjBiWWpkdmVLRXk0aDhsclhLX0g0WG4ySk1YRjc4N1RreE5FVlNjZ1NvZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 7,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1
+    }
+  ]
+}

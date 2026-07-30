@@ -1,0 +1,183 @@
+{
+  "date": "2026-07-30",
+  "total_articles": 452,
+  "language_breakdown": {
+    "korean": {
+      "total": 196,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 15,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 140,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 15
+      }
+    },
+    "multilingual": {
+      "total": 116,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 3,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "AI 신약·FDA 심사 이슈 동시 부각",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 49,
+      "key_articles": [
+        {
+          "title": "ByteDance ignites bio-AI drug race as Korea accelerates design and validation - CHOSUNBIZ - Chosunbiz",
+          "importance": 45,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "FDA panel votes against Capricor's Duchenne heart disease therapy - Reuters",
+          "importance": 57,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "View of Alzheimer’s Disease Peptide Could Inform New Drugs - Yale School of Medicine",
+          "importance": 47,
+          "url": "https://medicine.yale.edu"
+        },
+        {
+          "title": "FDA grants fast track designation to Insilico's AI-designed mesothelioma drug candidate - News-Medical",
+          "importance": 47,
+          "url": "https://www.news-medical.net"
+        }
+      ],
+      "summary_kr": "AI 신약개발과 FDA 규제 심사가 한 묶음으로 강하게 포착됐다. 바이두·ByteDance식 AI 경쟁, Capricor 심사 부결, Insilico의 fast track, Yale의 알츠하이머 펩타이드 연구가 함께 움직이며 전임상-허가-상용화 축이 다시 강조됐다.",
+      "summary_en": "AI-driven drug discovery, FDA review, and translational science formed the dominant cluster. ByteDance-style bio-AI competition, Capricor’s setback, Insilico’s fast-track signal, and Yale’s Alzheimer’s peptide work point to a renewed focus on the path from discovery to approval."
+    },
+    {
+      "topic": "시장전망형 리포트가 CDMO·전임상 테스트 수요를 재점화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Cardiovascular Drug Discovery Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+          "importance": 47,
+          "url": "https://www.futuremarketinsights.com"
+        },
+        {
+          "title": "AI-Accelerated Nonclinical Drug Testing Market : Global Industry Analysis and Opportunity Assessment, 2036 - Future Market Insights",
+          "importance": 47,
+          "url": "https://www.futuremarketinsights.com"
+        },
+        {
+          "title": "Global Radiopharmaceutical CDMO Market to Accelerate Substantially at a CAGR of ~10% by 2034 | DelveInsight - Business Upturn",
+          "importance": 47,
+          "url": "https://businessupturn.com"
+        }
+      ],
+      "summary_kr": "장기 시장전망 기사들이 심혈관 신약 발굴, AI 기반 비임상 시험, 방사성의약품 CDMO를 한 축으로 묶었다. 실제 뉴스 이벤트보다 리서치·리포트형 기사 비중이 높아 수요 예측과 공급망 투자 논리가 강화되는 구간으로 해석된다.",
+      "summary_en": "Long-horizon market reports clustered around cardiovascular discovery, AI-enabled nonclinical testing, and radiopharmaceutical CDMOs. The signal is more about demand forecasting and supply-chain investment than immediate company news."
+    },
+    {
+      "topic": "베트남 중심 다국어 산업·전시 기사 유입",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 3,
+      "avg_importance": 54,
+      "key_articles": [
+        {
+          "title": "Ho Chi Minh-staden: 300 företag deltar i internationell utställning för medicin- och läkemedelsindustrin. - Vietnam.vn",
+          "importance": 55,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Över 300 företag deltog i den internationella utställningen med inriktning på medicin och läkemedel. - Vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Artificiell intelligens och möjligheter till omfattande innovation inom läkemedelsindustrin. - Vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn"
+        }
+      ],
+      "summary_kr": "스웨덴어·인도어·히브리어 등 다국어로 번역된 베트남 의약 산업 전시 기사들이 묶였다. 지역 행사성 기사지만, 의료·제약 전시와 AI·산업 혁신 프레임이 결합해 동남아 공급망/홍보 기사로 확장되는 흐름을 보여준다.",
+      "summary_en": "A multilingual set of Vietnam-focused pharma exhibition stories appeared across Swedish, Hindi, Hebrew and related variants. These are event-driven pieces, but they reinforce the Southeast Asia pharma-manufacturing and innovation narrative."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "low"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 7,
+      "en_count": 8,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "미국 Medicare 약가 보조금 축소와 제약 정책 재편",
+      "의료사고 이력 공개 논쟁 확산",
+      "셀트리온 비만·ADC 신약 파이프라인 재평가",
+      "FDA 규제·승인 뉴스 재가열",
+      "규제 승인 뉴스의 비의약 섹터 확산"
+    ],
+    "changes": [
+      "AI 신약/전임상 시장 리포트형 기사 비중이 확대됐다.",
+      "동남아 지역(특히 베트남) 행사성 다국어 기사 비중이 높아졌다.",
+      "FDA 규제·승인 이슈는 여전히 핵심 축이지만, 전일 대비 직접 뉴스보다 해설·전망형 기사로 이동했다."
+    ]
+  },
+  "connections": [
+    "AI 신약개발과 FDA 승인/반려가 동시에 노출되며, discovery-to-regulation 파이프라인의 양면성이 강조됐다.",
+    "시장전망형 기사들은 CDMO·비임상·방사성의약품에 대한 중장기 수요를 시사한다.",
+    "다국어 베트남 기사들은 지역 행사와 산업 홍보가 번역망을 타고 확산되는 패턴을 보여준다."
+  ],
+  "generated_at": "2026-07-30T16:35:27.677675+09:00"
+}
