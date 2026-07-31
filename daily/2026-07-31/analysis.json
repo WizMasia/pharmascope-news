@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-31",
+  "total_articles": 451,
+  "language_breakdown": {
+    "korean": {
+      "total": 209,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 8,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 134,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 9
+      }
+    },
+    "multilingual": {
+      "total": 108,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 3,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 6,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 6,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "허가·약가 개편과 생산품질 강화가 국내 제약 재편을 압박",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 22,
+      "avg_importance": 59,
+      "key_articles": [
+        {
+          "title": "US FDA advisers back Replimune skin cancer drug trial data - Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+          "importance": 55,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+          "importance": 55,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "Hanmi Pyeongtaek plant secures top safety grade again, bolstering Korea drug output - CHOSUNBIZ - biz.chosun.com",
+          "importance": 45,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "South Korea streamlines new drug approvals, trims reviews for orphan drugs - CHOSUNBIZ - biz.chosun.com",
+          "importance": 65,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+          "importance": 65,
+          "url": "https://biz.chosun.com"
+        }
+      ],
+      "summary_kr": "식약처의 신약 허가 절차 간소화와 희귀의약품 중복 심사 축소, 제네릭 약가 인하, 한미약품 평택 공장의 안전등급 재획득이 한 묶음으로 포착됐다. 허가·약가·제조품질이 동시에 움직이며 국내 제약사의 혁신 투자와 M&A 압박을 키우는 구도다.",
+      "summary_en": "Regulatory easing, generic price cuts, and manufacturing quality signals dominated the day. Korea's approval simplification and Hanmi's plant safety upgrade came alongside FDA advisory support for Replimune, reinforcing a market-wide shift toward compliance, innovation, and consolidation."
+    },
+    {
+      "topic": "RNA 신약과 해외 기술이전이 K-바이오의 다음 성장축으로 부상",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "As RNA Drugs Go Mainstream, K-Bio Joins the Race - Seoul Economic Daily",
+          "importance": 47,
+          "url": "https://en.sedaily.com"
+        },
+        {
+          "title": "'Celltrion Partner' Kaigene Licenses Autoimmune Drug to Japan's Taisho - Seoul Economic Daily",
+          "importance": 47,
+          "url": "https://en.sedaily.com"
+        }
+      ],
+      "summary_kr": "RNA 치료제의 본격 확산과 면역질환 신약의 일본 라이선스 아웃이 함께 잡혔다. 글로벌 모달리티 경쟁이 심해지는 가운데 국내 바이오의 밸류체인은 단순 개발을 넘어 공동개발·기술이전·해외 시장 진입으로 확장되는 흐름이다.",
+      "summary_en": "RNA therapeutics moving into the mainstream and a Japan licensing deal for an autoimmune asset both point to a more globalized K-bio playbook. The emphasis is shifting from local discovery to co-development, licensing, and overseas commercialization."
+    },
+    {
+      "topic": "베트남 전통의학·한방 생산과 단속 기사 확산",
+      "domain": "traditional_medicine",
+      "significance": "low",
+      "article_count": 8,
+      "avg_importance": 46,
+      "key_articles": [
+        {
+          "title": "Vạch trần chiêu mạo danh sư thầy bán thuốc nam \"thần dược\", lừa hơn 1.400 người sập bẫy - Nghệ An 24h",
+          "importance": 47,
+          "url": "https://nghean24h.vn"
+        },
+        {
+          "title": "Phát huy giá trị y dược cổ truyền - Vietnam.vn",
+          "importance": 47,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Khơi dậy sức mạnh y dược cổ truyền từ cải cách thể chế - Vietnam.vn",
+          "importance": 47,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Lương y, bài thuốc gia truyền trong chiến lược phát triển y học cổ truyền VN - Vietnam.vn",
+          "importance": 47,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Ho Chi Minh şehrinde kurulan, uluslararası standartlara uygun ilk geleneksel tıp ürünleri üretim 'atölyesine' daha yakın bir bakış. - Vietnam.vn",
+          "importance": 50,
+          "url": "https://www.vietnam.vn"
+        }
+      ],
+      "summary_kr": "베트남 전통의학 생산시설, 정책 홍보, 사기 단속 기사가 여러 언어로 확산됐다. 지역성은 강하지만 전통의학을 현대 산업·정책 프레임으로 재해석하려는 흐름이 유지되고 있다.",
+      "summary_en": "Vietnam-focused traditional medicine and herbal-medicine stories circulated across multiple languages, spanning production, policy, and enforcement. The signal is regional, but it still reinforces the modernization narrative around traditional medicine."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 17,
+      "en_count": 12,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 14,
+      "en_count": 1,
+      "significance": "low"
+    }
+  ],
+  "notable_absences": [
+    "대형 임상 실패나 안전성 리콜 뉴스는 상대적으로 적었고, 규제·가격·생산품질 이슈가 전면에 섰다.",
+    "전일보다 AI 신약/장기 시장전망형 기사 비중은 줄고, 국내 제도·산업 재편 기사 비중이 커졌다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "2026-07-30은 AI 신약·FDA 심사와 장기 시장전망형 리포트가 중심이었다."
+    ],
+    "changes": [
+      "오늘은 식약처 허가·약가 개편과 제조 안전성 이슈가 핵심으로 이동했다.",
+      "RNA 치료제와 해외 기술이전이 글로벌 산업 축을 보강했다.",
+      "베트남 전통의학 다국어 유입이 유지되며 지역성 높은 부문도 함께 포착됐다."
+    ]
+  },
+  "connections": [
+    "허가와 약가 키워드가 한국어·영어 모두에서 동시에 상위권을 차지했다.",
+    "국내 규제 변화와 글로벌 기술이전이 같은 날 병렬로 나타나 제도/산업 축의 동시 변화를 시사한다."
+  ],
+  "generated_at": "2026-07-31T16:35:39.039542+09:00"
+}
