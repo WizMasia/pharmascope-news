@@ -1,0 +1,912 @@
+{
+  "date": "2026-07-31",
+  "total": 451,
+  "version": 1,
+  "generated_at": "2026-07-31T15:30:15.439474+09:00",
+  "korean": {
+    "total": 209,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 25,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 8,
+      "의료정책·인력": 25,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Fri, 31 Jul 2026 00:49:00 GMT+5 | 키워드+20 | 순위:232위+2",
+        "snippet": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+        "content_length": 52,
+        "published_time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzJPMVZBU1JlZldXRlRrcEVETnpBdWNSZ1ZOY0ZRcTg3QWtLUEJNeXFrYTRMYUlNM3ZsWWNENmZpMUx5Y3V1Qm5SOEpFbUpFUG1TRW41VnQ0RkQyc1VHWVhwc3BCMGd3ZHAzbGl1WUV0ZGpfLXpWX09rYjVxd1I1bnpfRHlMU2PSAZsBQVVfeXFMT3R4Um1EZ3BjTEJ0Z2RKNXFlZWIzQW1KN0E4ZmFfTXEyd0pPa0Y2a1ZGb3RfSU5lb1RsYTZDeXBnQjI1VlRzTlVGTDJlWV8zWUNNSUttWGs2SEZ1NWhLcXc2a2VicmIySFhtUE9rSTBYWWFnN09JTFE0QUlfeEktOVNlV2p5RTVzaTUyYmFPSXA5WmpLZTYtNnZpU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Fri, 31 Jul 2026 02:42:00 GMT+5 | 키워드+20 | 순위:253위+2",
+        "snippet": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+        "content_length": 62,
+        "published_time": "Fri, 31 Jul 2026 02:42:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0kweFdUVDhFcE90TFBvWUkta1FuR3I0OGxWTG5mTXprQ3U1OEJDa2dWbm1ZcElXczVLYzNDa3VYZGdtVmhkU0dockJCVGVaYkRQTmIwZ3dNZlFON1BGVk1xUDhldF80YkZ2Uk1kWlZZdnhPRHB1X2Ytd0tLblpGZHhyc2Z2X2fSAZsBQVVfeXFMTjJfNXdaSS1DNEZUWWlMUkhycFI5ZzQwSmg2RXpPUG5vcVJnRlZuLUhGQWhBYjh4M2xsenVtV0FEZlh3TGwzR1hrS3BLT19kVlZuM281U05tRWNNM2U2eFR6bE0yRkZoY1dZakc2d01QeGNKcXZUVDJXZ3daV3ptY0xxZXBSQTJmYlRXeUFNWVZEdHp1N1hYaDEyX2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Fri, 31 Jul 2026 02:42:00 GMT+5 | 키워드+20 | 순위:242위+2",
+        "snippet": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+        "content_length": 62,
+        "published_time": "Fri, 31 Jul 2026 02:42:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0kweFdUVDhFcE90TFBvWUkta1FuR3I0OGxWTG5mTXprQ3U1OEJDa2dWbm1ZcElXczVLYzNDa3VYZGdtVmhkU0dockJCVGVaYkRQTmIwZ3dNZlFON1BGVk1xUDhldF80YkZ2Uk1kWlZZdnhPRHB1X2Ytd0tLblpGZHhyc2Z2X2fSAZsBQVVfeXFMTjJfNXdaSS1DNEZUWWlMUkhycFI5ZzQwSmg2RXpPUG5vcVJnRlZuLUhGQWhBYjh4M2xsenVtV0FEZlh3TGwzR1hrS3BLT19kVlZuM281U05tRWNNM2U2eFR6bE0yRkZoY1dZakc2d01QeGNKcXZUVDJXZ3daV3ptY0xxZXBSQTJmYlRXeUFNWVZEdHp1N1hYaDEyX2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Fri, 31 Jul 2026 00:49:00 GMT+5 | 키워드+20 | 순위:162위+2",
+        "snippet": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "식약처, 신약 허가 절차 간소화…희소의약품 중복 심사 줄인다 - 조선비즈 - Chosunbiz",
+        "content_length": 52,
+        "published_time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMzJPMVZBU1JlZldXRlRrcEVETnpBdWNSZ1ZOY0ZRcTg3QWtLUEJNeXFrYTRMYUlNM3ZsWWNENmZpMUx5Y3V1Qm5SOEpFbUpFUG1TRW41VnQ0RkQyc1VHWVhwc3BCMGd3ZHAzbGl1WUV0ZGpfLXpWX09rYjVxd1I1bnpfRHlMU2PSAZsBQVVfeXFMT3R4Um1EZ3BjTEJ0Z2RKNXFlZWIzQW1KN0E4ZmFfTXEyd0pPa0Y2a1ZGb3RfSU5lb1RsYTZDeXBnQjI1VlRzTlVGTDJlWV8zWUNNSUttWGs2SEZ1NWhLcXc2a2VicmIySFhtUE9rSTBYWWFnN09JTFE0QUlfeEktOVNlV2p5RTVzaTUyYmFPSXA5WmpLZTYtNnZpU00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "한미약품 비만 신약 ‘에페’ 생산기지 최고 안전등급 획득 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Fri, 31 Jul 2026 00:39:00 GMT+5 | 키워드+10 | 순위:244위+2",
+        "snippet": "한미약품 비만 신약 ‘에페’ 생산기지 최고 안전등급 획득 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "한미약품 비만 신약 ‘에페’ 생산기지 최고 안전등급 획득 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "한미약품 비만 신약 ‘에페’ 생산기지 최고 안전등급 획득 - 조선비즈 - Chosunbiz",
+        "content_length": 50,
+        "published_time": "Fri, 31 Jul 2026 00:39:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:39:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWRTU0tTa1ROdW01Tldha3lQZjFJNUVCSHJuRnNxaUgtMXpQbDVpbmtqQnBocDMzdzVqZ2kzNlpMMkhzTERiNlpNaGM3dEZJZjQtZzFCZm9lTkxhMHM3MUVOTVMwWTl3QlBxUTRNanloNUlGUU9RQ2NYNEtsSnBYUUJmeW1TMkVzSzFVTU8zTXhQbExuWHAyeElpUdIBmwFBVV95cUxQSWRTU0tTa1ROdW01Tldha3lQZjFJNUVCSHJuRnNxaUgtMXpQbDVpbmtqQnBocDMzdzVqZ2kzNlpMMkhzTERiNlpNaGM3dEZJZjQtZzFCZm9lTkxhMHM3MUVOTVMwWTl3QlBxUTRNanloNUlGUU9RQ2NYNEtsSnBYUUJmeW1TMkVzSzFVTU8zTXhQbExuWHAyeElpUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "계명대 동산병원, 환자경험평가서 2회 연속 전국 1위 - 간호사신문",
+        "source": "간호사신문",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:간호사신문+10 | 최신:Fri, 31 Jul 2026 02:09:33 GMT+5 | 키워드+25 | 순위:196위+2",
+        "snippet": "계명대 동산병원, 환자경험평가서 2회 연속 전국 1위 - 간호사신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "계명대 동산병원, 환자경험평가서 2회 연속 전국 1위 - 간호사신문",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "계명대 동산병원, 환자경험평가서 2회 연속 전국 1위 - 간호사신문",
+        "content_length": 37,
+        "published_time": "Fri, 31 Jul 2026 02:09:33 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:09:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0aW5NOWFtdUlCOUZOMzRLcTlYaUhQNWhPVmI2S0lCMEN6ZGZFbFdqc01RNVA3NXVBNEt5MjNjd3EwYWEwV1lzcXcxZUQ5QlQ0d09jZ3JWQTllRDZXd1ZZcDBnZ0lzck9aeDBONkF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.nursenews.co.kr"
+      },
+      {
+        "title": "호아이득 종합병원 의사와 간호사를 대상으로 화재 진압 및 대피 기술 교육을 실시했습니다. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 30 Jul 2026 10:01:15 GMT+5 | 키워드+25 | 순위:203위+2",
+        "snippet": "호아이득 종합병원 의사와 간호사를 대상으로 화재 진압 및 대피 기술 교육을 실시했습니다. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "호아이득 종합병원 의사와 간호사를 대상으로 화재 진압 및 대피 기술 교육을 실시했습니다.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "호아이득 종합병원 의사와 간호사를 대상으로 화재 진압 및 대피 기술 교육을 실시했습니다. - Vietnam.vn",
+        "content_length": 62,
+        "published_time": "Thu, 30 Jul 2026 10:01:15 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 10:01:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEtDYVYxWUVGOF90YTUyak5PTnU4UjE1eVZJbW1UN3k4dTAxdzc0NG1UZzlmQVEzZ0FMZFpvamFObkNUWlVhN3RpM0g0cmMtVDhmV2ZWRXNDMlh5YXI3eWoyalJDdi11MHJNbm1KX0I4bnc4SGxaVTNaYVBDYlI1cmdKeUlEUS1sWS04ZnRsVTlKQUlXX3BCT1c1NXpya2g0aGpwblFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "\"여긴 의사가 설명을 잘해줘요\"…병원 '환자경험' 첫 등급 공개 - 뉴스1",
+        "source": "뉴스1",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스1+10 | 최신:Fri, 31 Jul 2026 02:30:00 GMT+5 | 키워드+25 | 순위:209위+2",
+        "snippet": "\"여긴 의사가 설명을 잘해줘요\"…병원 '환자경험' 첫 등급 공개 - 뉴스1 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "\"여긴 의사가 설명을 잘해줘요\"…병원 '환자경험' 첫 등급 공개 - 뉴스1",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "\"여긴 의사가 설명을 잘해줘요\"…병원 '환자경험' 첫 등급 공개 - 뉴스1",
+        "content_length": 41,
+        "published_time": "Fri, 31 Jul 2026 02:30:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:30:00 GMT",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%97%AC%EA%B8%B4-%EC%9D%98%EC%82%AC%EA%B0%80-%EC%84%A4%EB%AA%85%EC%9D%84-%EC%9E%98%ED%95%B4%EC%A4%98%EC%9A%94-%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-%EC%B2%AB-%EB%93%B1%EA%B8%89-%EA%B3%B5%EA%B0%9C/ar-AA296Pp1?ocid=BingNewsVerp",
+        "source_url": "https://www.news1.kr"
+      },
+      {
+        "title": "AI 도입 속도 내는 국내 제약업계, 현장에선 ‘전문인력’ 부족 - futurechosun.com",
+        "source": "futurechosun.com",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:futurechosun.com+28 | 최신:Fri, 31 Jul 2026 02:36:00 GMT+5 | 키워드+5 | 순위:142위+2",
+        "snippet": "AI 도입 속도 내는 국내 제약업계, 현장에선 '전문인력' 부족 - 더나은미래 | AI 도입 속도 내는 국내 제약업계, 현장에선 ‘전문인력’ 부족 | 입력 2026.07.31. | AI가 산업계 전반에 영향을 주고 있는 가운데, 국내 제약바이오 업계에서도 이를 적극 도입 또는 활용해야 하는 분위기다. | 하지만 현장에서는 AI를 다룰 전문인력이 부족한 실정인 것으로 알려졌다.",
+        "summary_lines": [
+          "AI 도입 속도 내는 국내 제약업계, 현장에선 '전문인력' 부족 - 더나은미래",
+          "AI 도입 속도 내는 국내 제약업계, 현장에선 ‘전문인력’ 부족",
+          "입력 2026.07.31.",
+          "AI가 산업계 전반에 영향을 주고 있는 가운데, 국내 제약바이오 업계에서도 이를 적극 도입 또는 활용해야 하는 분위기다.",
+          "하지만 현장에서는 AI를 다룰 전문인력이 부족한 실정인 것으로 알려졌다."
+        ],
+        "content": "AI 도입 속도 내는 국내 제약업계, 현장에선 '전문인력' 부족 - 더나은미래\n 콘텐츠로 건너뛰기\n 경제\nAI 도입 속도 내는 국내 제약업계, 현장에선 ‘전문인력’ 부족\n 구지훈 기자\n 입력 2026.07.31.\n 11:36\nAI가 산업계 전반에 영향을 주고 있는 가운데, 국내 제약바이오 업계에서도 이를 적극 도입 또는 활용해야 하는 분위기다. 하지만 현장에서는 AI를 다룰 전문인력이 부족한 실정인 것으로 알려졌다.\n한국제약바이오협회 AI신약연구원은 국내 제약바이오·AI 기업, 학계, 연구기관 44곳의 관계자 55명을 대상으로 실시한 표본조사 결과를 발표했다.\n 제약 및 바이오 업계 AI 활용분야 조사. /한국제약바이오협회\n조사 대상자 55명 중 26명(47.3%)이 현재 신약개발에 AI를 활용하고 있다고 응답했다. 활용 방식은 ▲내부 직접 활용(10명) ▲외부 아웃소싱(9명) ▲병행(7명) 순이었다. 도입을 검토·계획 중인 응답자는 23명, 활용 계획이 없는 응답자는 6명으로 집계됐다.\nAI 적용 분야(복수응답)는 ‘후보물질 식별’과 ‘후보물질 최적화’가 각각 15명으로 가장 많았다. 이어 ▲화합물 식별(11명) ▲작용기전(9명) ▲표적 식별 및 검증(8명) ▲전임상(6명) ▲임상(4명) ▲약물 재창출(4명)이 뒤를 이었다.\n향후 개발 희망 분야로는 합성의약품이 27명(49.1%)으로 절반가량을 차지했다. 다음으로 ▲바이오의약품 및 항체(12명, 21.8%) ▲표적단백질분해(TPD)(6명, 10.9%) ▲항체-약물접합체(ADC)(5명, 9.1%) ▲약물전달시스템(DDS)(3명, 5.5%) 순으로 나타났다.\n반면 신약개발 부서 내 AI 전문인력은 부족한 상태로 파악됐다. AI 인력이 없다고 답한 응답자는 37명(67.3%)에 달했다. 이어 ▲4명 이상 보유(10명, 18.2%) ▲1명 보유(4명, 7.3%) ▲2명 보유(3명, 5.5%) ▲3명 보유(1명, 1.7%) 순이었다.\n인력 부재 이유(복수응답)로는 ▲자금 및 리소스 부족(26명) ▲내부인력의 AI 기술 이해 부족(19명) ▲AI 신약개발 필요성 인식 부족(11명) 등이 꼽혔다.\n정부 지원 요청 사항(복수응답)으로는 ▲AI 전문인력 양성(37명)이 최우선 과제로 집계됐다. 이어 ▲데이터 공유 플랫폼 구축(25명) ▲투자·자금 지원(23명) ▲실증·검증 기회 제공(22명) ▲인허가 가이드라인 마련(15명) ▲글로벌 진출 지원(9명) 순이었다.\nAI 신약개발 교육 필요성에는 응답자의 91.0%(50명)가 동의했다. 희망 교육과정은 ▲AI 알고리즘 및 모델링 프로그래밍(17명, 30.9%) ▲데이터 분석 및 시각화(16명, 29.1%) ▲생물정보학·화학정보학 데이터 활용(13명, 23.6%) ▲소프트웨어 및 프로그래밍 기술(5명, 9.1%) 순으로 집계됐다.\n한편, AI와 로봇을 결합한 자율 실험실(SDL, Self-Driving Lab)에 대한 인지도는 낮았다. 응답자의 38%(21명)는 ‘용어만 들어봤다’고 답했고, 36%(20명)는 ‘전혀 모른다’고 응답했다. ‘개념을 이해한다’는 응답은 24%(13명)에 그쳤다.\nSDL은 AI와 실험 자동화 로봇을 결합한 것으로, 연구자의 목표에 따라 AI가 실험 조건을 설계·수행하고, 데이터 분석과 후속 실험까지 자동화하는 체계를 의미한다.\nAI신약연구원은 교육 수요에 맞춰 전문 교육 플랫폼 ‘LAIDD’를 운영 중이다. 2021년부터 총 166개 교육과정을 통해 2275명의 이수자를 배출했으며, 누적 가입자 수는 1만 3823명이다.\n노연홍 한국제약바이오협회장은 “국내 기업들도 AI 도입 의지는 높지만 전문인력 부족이라는 현실적인 한계에 직면해 있다”며 “산업계와 정부가 함께 AI 전문인력 양성, 데이터 인프라 구축, 실증 환경 조성 등을 체계적으로 지원한다면 우리나라 AI 신약개발 경쟁력은 한 단계 더 도약할 수 있을 것”이라고 말했다.\n구지훈 더나은미래 기자\n 관련 기사\n SK하이닉스, 채용 방식 개편…‘자소서’ 아닌 ‘반나절 심층 면접’ 본다\n 최태원 회장 SK하이닉스 주식 48억 규모 매수…사전공시 규정 최대치\n 삼성전자, 2분기 영업익 89.5조 기록 ‘사상 최대’…‘DX’는 첫 적자\n LG전자, 전 직원 대상 AX 해커톤 개최…업무혁신 과제 발굴\n 한국은행 “향후에도 금리 인상 기조 이어갈 필요 재확인”\nCopyrights ⓒ 더나은미래 & futurechosun.com\n댓글 작성\n 이메일 주소는 공개되지 않습니다. 필수 필드는 * 로 표시됩니다\n 댓글 *\n 이름\n 더나은미래 특별기획\n 주요 뉴스 >\n 아태 난제 푸는 스타트업에 성장 사다리…국제기구·재단·투자사 뭉쳤다\n 신원이 없으면 신용도 없다…블록체인으로 라오스 금융 소외 푸는 서울랩스\n 비싼 대체유 대신 현지 캐슈넛…인도네시아의 ‘우유 선택지’ 넓힌다\n 사회변화 이끈 프로그램 찾는다…‘공익활동 임팩트 어워드’ 후보 모집\n 클래식 넘어 국악으로…‘온소 스테이지’가 넓힌 전통예술 무대\n [유한양행-유일한 아카데미] “코딩 몰라도 앱 만든다”…청년들이 AI로 설계한 헬스케어 해법\n K팝 무대에 태양광, 이케아엔 수선소…‘콜렉티브 임팩트’의 진화\n 많이 본 뉴스 >\n 학위는 땄지만 연구는 막막…정몽구재단, 박사후연구원 8명 지원\n [유한양행-유일한 아카데미] 윤건수 대표 “0.1% 혁신가를 알아보는 안목도 경쟁력”\n [박훈의 나눔과 세금] 모금에도 유행이 있다, 세금은 그 유행을 아는가\n [세상은 여전히 따뜻한 法] 공익활동이 변호사에게 남긴 것\n 탄소 품고 파도 막는 숲…세계가 맹그로브에 주목하는 이유\n [유한양행-유일한 아카데미] “코딩 몰라도 앱 만든다”…청년들이 AI로 설계한 헬스케어 해법\n K팝 무대에 태양광, 이케아엔 수선소…‘콜렉티브 임팩트’의 진화\n 상장 기다리다 돈 묶인 투자자들…임팩트 시장도 ‘세컨더리’ 주목\n AI 시대 막대한 전기요금…데이터센터와 국민, 누가 부담할까\n ‘슈퍼 엘니뇨’에 세계 물가 비상…신흥국 성장·아프리카 경제 흔든다\n창간 15주년\n 창간 15주년 특집\n 2025사회공헌 리포트\n 굿즈의 시대, 기부를 다시 묻다\n 커버스토리\n 지난 지면 보기\n Search\n기획·특집\n더나은미래\n더나은경제\n 지면보기\n 알립니다\n 유일한 아카데미\n 닫기\n 이전\n 다음",
+        "content_length": 3041,
+        "published_time": "Fri, 31 Jul 2026 02:36:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:36:00 GMT",
+        "url": "https://futurechosun.com/archives/156302",
+        "source_url": "https://futurechosun.com"
+      },
+      {
+        "title": "한의협 \"3만 한의사, 레이저 포함 다양한 의료기기 활용해 진료할 것\" 공식 선언 - medigatenews.com",
+        "source": "medigatenews.com",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:medigatenews.com+10 | 최신:Thu, 30 Jul 2026 13:15:11 GMT+5 | 키워드+10 | 순위:6위+15",
+        "snippet": "한의협 \"3만 한의사, 레이저 포함 다양한 의료기기 활용해 진료할 것\" 공식 선언 - medigatenews.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "한의협 \"3만 한의사, 레이저 포함 다양한 의료기기 활용해 진료할 것\" 공식 선언 - medigatenews.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "한의협 \"3만 한의사, 레이저 포함 다양한 의료기기 활용해 진료할 것\" 공식 선언 - medigatenews.com",
+        "content_length": 64,
+        "published_time": "Thu, 30 Jul 2026 13:15:11 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 13:15:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmOXFVUDdVaXlNVElyVWhjbUthUF9qYTdoYU1XVEpzX0ZBRjc1dnV1WHBnaUVIcDdoZlljNlVJbUxOckd2OFRkd0lHSVBxX21oSWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://medigatenews.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        47
+      ],
+      [
+        "식약처",
+        19
+      ],
+      [
+        "허가",
+        17
+      ],
+      [
+        "심사",
+        14
+      ],
+      [
+        "약가",
+        14
+      ],
+      [
+        "급여",
+        11
+      ],
+      [
+        "제네릭",
+        4
+      ],
+      [
+        "임상",
+        4
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "R&D",
+        4
+      ],
+      [
+        "비만",
+        3
+      ],
+      [
+        "한약",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "특허",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "네이트",
+        17
+      ],
+      [
+        "뉴시스",
+        8
+      ],
+      [
+        "약사공론",
+        7
+      ],
+      [
+        "Chosunbiz",
+        5
+      ],
+      [
+        "메디파나뉴스",
+        4
+      ],
+      [
+        "전자신문",
+        4
+      ],
+      [
+        "청년의사",
+        4
+      ],
+      [
+        "의학신문",
+        4
+      ],
+      [
+        "간호사신문",
+        4
+      ],
+      [
+        "뉴스1",
+        4
+      ],
+      [
+        "의협신문",
+        4
+      ],
+      [
+        "히트뉴스",
+        3
+      ],
+      [
+        "머니투데이",
+        3
+      ],
+      [
+        "데이터투자",
+        3
+      ],
+      [
+        "메디소비자뉴스",
+        3
+      ]
+    ]
+  },
+  "english": {
+    "total": 134,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 9
+    },
+    "top_articles": [
+      {
+        "title": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 30 Jul 2026 14:53:40 GMT+5 | 키워드+30 | 순위:334위+2",
+        "snippet": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+        "content_length": 76,
+        "published_time": "Thu, 30 Jul 2026 14:53:40 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 14:53:40 GMT",
+        "url": "https://www.msn.com/en-us/money/other/cytokinetics-wins-uk-approval-nice-backing-for-heart-disease-drug/ar-AA294nt2?ocid=BingNewsVerp",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "US FDA advisers back Replimune skin cancer drug trial data - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 30 Jul 2026 23:18:19 GMT+5 | 키워드+30 | 순위:335위+2",
+        "snippet": "US FDA advisers back Replimune skin cancer drug trial data - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "US FDA advisers back Replimune skin cancer drug trial data - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "US FDA advisers back Replimune skin cancer drug trial data - Reuters",
+        "content_length": 68,
+        "published_time": "Thu, 30 Jul 2026 23:18:19 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 23:18:19 GMT",
+        "url": "https://www.msn.com/en-us/science/biology/us-fda-advisers-back-replimune-skin-cancer-drug-trial-data/ar-AA295LIB?ocid=BingNewsVerp",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "Employers Are Trimming Obesity Drug Benefits for Workers, Cigna Says - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Bloomberg.com+30 | 최신:Thu, 30 Jul 2026 18:41:48 GMT+5 | 키워드+30 | 순위:163위+2",
+        "snippet": "Employers are trimming obesity drug benefits for workers | Financial Post | Advertisement oop | Story continues below | This advertisement has not loaded yet, but your article continues below. | Skip to Content",
+        "summary_lines": [
+          "Employers are trimming obesity drug benefits for workers | Financial Post",
+          "Advertisement oop",
+          "Story continues below",
+          "This advertisement has not loaded yet, but your article continues below.",
+          "Skip to Content"
+        ],
+        "content": "Employers are trimming obesity drug benefits for workers | Financial Post\nAdvertisement oop\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\n Skip to Content\n Subscribe for $0.99/week\nAdvertisement 1\nThis advertisement has not loaded yet, but your article continues below.\n Lilly and Novo have been working overtime to find creative solutions to fill the gap, running studies to show the drugs’ broader benefits beyond weight loss. Photo by  Ole/Adobe Stock\nArticle content\nThe weight-loss drug boom is beginning to show signs of a slowdown as employers and insurers pull back on coverage , signalling the market could be entering a more restrained phase after years of breakneck expansion.\nSign In or Create an Account\n Email Address\n Continue\n or\n View more offers\nArticle content\nIn the past few months, growth in prescriptions for GLP-1 drugs for weight loss like Novo Nordisk A/S ’ Wegovy and Eli Lilly & Co.’s Zepbound have moderated, according to Cigna Group chief executive Brian Evanko. The insurer’s unit that manages drug benefits has noted coverage declines and slower utilization growth compared to prior periods, executives said during an earnings call with Wall Street analysts Thursday.\nArticle content\nWe apologize, but this video has failed to load.\nTry refreshing your browser, or\n tap here to see other videos from our team .\nWe apologize, but this video has failed to load.\nTry refreshing your browser, or\n tap here to see other videos from our team .\n Play Video\nArticle content\nArticle content\nLilly’s shares fell 3.8 per cent at 2:40 p.m. in New York, while Novo’s American depositary receipts were down more than one per cent.\nArticle content\nWork\nFP Work touches on HR strategy, labour economics, office culture, technology and more.\nThere was an error, please provide a valid email address.\n Sign Up\nBy signing up you consent to receive the above newsletter from Postmedia Network Inc.\nThanks for signing up!\nA welcome email is on its way. If you don't see it, please check your junk folder.\nThe next issue of Work will soon be in your inbox.\nWe encountered an issue signing you up. Please try again\nInterested in more newsletters? Browse here.\nArticle content\nThe Cigna comments underscore the challenges facing drugmakers as they fight to expand access to their medications. While demand remains high, insurance companies and employers have decried the cost of covering the drugs long term. That’s led some health plans to drop coverage or make the obesity treatments more difficult to get.\nArticle content\nThe comments from Cigna executives about GLP-1 coverage and utilization apply to health plans that use the company’s pharmacy benefits manager, Express Scripts, to handle their prescription drug coverage.\nArticle content\n The trend may not end anytime soon . Cigna, for one, expects the slowdown to continue for the remainder of the year, chief financial officer Ann Dennison said.\nArticle content\nAbout six per cent of large employers already dropped coverage for weight-loss drugs in 2026, according to a recent survey from consulting firm Mercer, reflecting mounting concerns about the medications’ long-term budget impact. Another five per cent said they’re planning to drop coverage in 2027. More than one-in-four employers tightened utilization controls this year, or plan to in 2027, Mercer said.\nArticle content\nArticle content\nCigna has stopped covering Wegovy and Zepbound for its own employees because of the cost, Evanko said on the call.\nArticle content\nRead More\n Canadians can now get digital prescriptions for 'generic Ozempic'\n Opinion: Ontario’s pharmacy regulator undermines drug affordability\nAdvertisement 1\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\nArticle content\n“Should drug manufacturers decide to meaningfully discount the net prices they offer, we may revisit this in the future,” he said.\nArticle content\nMeanwhile, Lilly and Novo have been working overtime to find creative solutions to fill the gap. That includes running studies to show the drugs’ broader benefits beyond weight loss, which might make them more attractive to insurers.\nArticle content\nBoth companies already offer steep discounts to patients who pay out of pocket. Lilly also has a newer program for certain employers that allows them to access the drugs at lower prices.\nArticle content\n Bloomberg.com\nArticle content\nWe apologize, but this video has failed to load.\nTry refreshing your browser, or\n tap here to see other videos from our team .\n Play Video\nArticle content\nAdvertisement 1\nThis advertisement has not loaded yet.\nTrending\n Bond yields at 19-year high send Warsh credibility warning\n Economy\n Baby boomers are trying to unload their stuff. Does anybody want it?\n Personal Finance\nAdvertisement 2\nStory continues below\nThis advertisement has not loaded yet, but your article continues below.\n Trump's court losses leave taxpayers facing millions in leg",
+        "content_length": 6433,
+        "published_time": "Thu, 30 Jul 2026 18:41:48 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 18:41:48 GMT",
+        "url": "https://financialpost.com/news/employers-trimming-obesity-drug-benefits",
+        "source_url": "https://www.bloomberg.com"
+      },
+      {
+        "title": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 30 Jul 2026 14:53:40 GMT+5 | 키워드+30 | 순위:180위+2",
+        "snippet": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Cytokinetics wins UK approval, NICE backing for heart disease drug - Reuters",
+        "content_length": 76,
+        "published_time": "Thu, 30 Jul 2026 14:53:40 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 14:53:40 GMT",
+        "url": "https://www.msn.com/en-us/money/other/cytokinetics-wins-uk-approval-nice-backing-for-heart-disease-drug/ar-AA294nt2?ocid=BingNewsVerp",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "South Korea streamlines new drug approvals, trims reviews for orphan drugs - CHOSUNBIZ - biz.chosun.com",
+        "source": "biz.chosun.com",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:biz.chosun.com+28 | 최신:Fri, 31 Jul 2026 00:49:00 GMT+5 | 키워드+30 | 순위:315위+2",
+        "snippet": "South Korea streamlines new drug approvals, trims reviews for orphan drugs - CHOSUNBIZ - biz.chosun.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "South Korea streamlines new drug approvals, trims reviews for orphan drugs - CHOSUNBIZ - biz.chosun.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "South Korea streamlines new drug approvals, trims reviews for orphan drugs - CHOSUNBIZ - biz.chosun.com",
+        "content_length": 103,
+        "published_time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0RGcUVOZ2JHUGJqOWhya19ycEc3R2w3cFh5YkdkQi1ibjhpTUI0RkxLX2RmTE5vY082WVgxTUJHaEhhMkNsZGppX3o2ZnJFV1VXZEJHb0NsVHRfYkpuYllYazU3cDh2dlpkWEk1TVZ0VVZTekZrNE5pNENBVUlCedIBlAFBVV95cUxPT2JuYjktUThQUDktNDNzbmRBSTBjU1RQWDNmbGxNendacHpfeUUtTXNvMHZVRmxDc09GbGtOaGRiUjJtU2tNd2pHQ0dnWExYWjhFOVhpNlU4aVdoUTU0U0tHeTNSNm1xeXRTb19FTXVhN3JNa0ZQOFlVNG9PbHpVTVE1aUJMTG1wQ01QVHUzT0dJeW1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "Hanmi Pyeongtaek plant secures top safety grade again, bolstering Korea drug output - CHOSUNBIZ - biz.chosun.com",
+        "source": "biz.chosun.com",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:biz.chosun.com+28 | 최신:Fri, 31 Jul 2026 00:39:00 GMT+5 | 키워드+30 | 순위:324위+2",
+        "snippet": "Hanmi Pyeongtaek plant secures top safety grade again, bolstering Korea drug output - CHOSUNBIZ - biz.chosun.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Hanmi Pyeongtaek plant secures top safety grade again, bolstering Korea drug output - CHOSUNBIZ - biz.chosun.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Hanmi Pyeongtaek plant secures top safety grade again, bolstering Korea drug output - CHOSUNBIZ - biz.chosun.com",
+        "content_length": 112,
+        "published_time": "Fri, 31 Jul 2026 00:39:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:39:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFhrSjcwU3RFa3ZRdHNWY19HSlR2YkpRZVdTWVllbEYycnlva2xQUHJJRTRMdUVBX19kOUpNTWQwTEtZWXNyZFlZQWlmeThObG1Ua2V5d3RfWHd4SHAwMUEtcC16ejZHdURpVVVaRnlVOXAxWGZwSE51V2U5OU5UN9IBlAFBVV95cUxNRVhBWF84bFBKSThNbVNldFlHODBvbTR5MjRoQ1hOajIwMWNSeWtQcjFqV0dvYkFUT3BwRm5lUWpBUGZOVXpRTFB4YkNRQTVTdmFfT01LWlplLTVyTjZuX2hWbFNQU04tVDctQ2xCY0pXemhWYlRFT094c2luNS1fVUc1WWNETmpkVGJobzctMjZoamZU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+        "source": "biz.chosun.com",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:biz.chosun.com+28 | 최신:Fri, 31 Jul 2026 02:43:00 GMT+5 | 키워드+30 | 순위:156위+2",
+        "snippet": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+        "content_length": 105,
+        "published_time": "Fri, 31 Jul 2026 02:43:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1R6UVlCYkg4NV95eUxaOVNCeENXSUVKdVhWMFNUVnNRRXgxZ21GZVJoOWRRVWd6T0xKMnlUdTBvOFg1c2syZ0pVSTg2dC1wcnZING9CVTFXcTBFZjY3ZzBKajA3UXJFcEp0c3ZaTUgtdTlUWEhQR0Z5WXNfSUJXT9IBlAFBVV95cUxNT0VwTERlTjN4TVVKbUtmQ3RKWDAwSWxLalMyTkVKdk9TN0k5Znd5WkMxMWR5YV82RFJkUTZXc21YRXJMN0dwX3d2NUxuOF9qN2RMRDVOVEpURmRDSGhUdEZxMHdQVFJRMjJ2SWxjV2JQSFhyZmplR1JrNXdWekN1clNORTItOEwzUjRJcl83d09nZjYt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+        "source": "biz.chosun.com",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:biz.chosun.com+28 | 최신:Fri, 31 Jul 2026 02:43:00 GMT+5 | 키워드+25 | 순위:329위+2",
+        "snippet": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "South Korea cuts generic prices, pushes drugmakers toward innovation and M&A - CHOSUNBIZ - biz.chosun.com",
+        "content_length": 105,
+        "published_time": "Fri, 31 Jul 2026 02:43:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1R6UVlCYkg4NV95eUxaOVNCeENXSUVKdVhWMFNUVnNRRXgxZ21GZVJoOWRRVWd6T0xKMnlUdTBvOFg1c2syZ0pVSTg2dC1wcnZING9CVTFXcTBFZjY3ZzBKajA3UXJFcEp0c3ZaTUgtdTlUWEhQR0Z5WXNfSUJXT9IBlAFBVV95cUxNT0VwTERlTjN4TVVKbUtmQ3RKWDAwSWxLalMyTkVKdk9TN0k5Znd5WkMxMWR5YV82RFJkUTZXc21YRXJMN0dwX3d2NUxuOF9qN2RMRDVOVEpURmRDSGhUdEZxMHdQVFJRMjJ2SWxjV2JQSFhyZmplR1JrNXdWekN1clNORTItOEwzUjRJcl83d09nZjYt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "Insilico Medicine's AI-Designed Cancer Drug Secures FDA Fast Track Status - BioPharma APAC",
+        "source": "BioPharma APAC",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:BioPharma APAC+10 | 최신:Fri, 31 Jul 2026 00:43:03 GMT+5 | 키워드+30 | 순위:308위+2",
+        "snippet": "Insilico Medicine's AI-Designed Cancer Drug Secures FDA Fast Track Status - BioPharma APAC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Insilico Medicine's AI-Designed Cancer Drug Secures FDA Fast Track Status - BioPharma APAC",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Insilico Medicine's AI-Designed Cancer Drug Secures FDA Fast Track Status - BioPharma APAC",
+        "content_length": 90,
+        "published_time": "Fri, 31 Jul 2026 00:43:03 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 00:43:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb2NRcVZpbkRVOWJpdlZRSUFtUDg1QVlFejZyLXZOM0w2aFc4d1hJRmdTLTFrSGRUbW01T1Qyc0ZKTklGTk40RldoTXJvT2tLR21PRUp3UkdMNld3THBJcnBibXdnVHJObkRvajlEN2N5bEUxR1hKbkREdDFrSEVQeHZxdFhrRXNBRzFhXzdqR0c2X3ZKcnVQMlI5TmN1Ym9jTWVMNlNNR0tUS3doQU1tUXZRSGJqWTA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biopharmaapac.com"
+      },
+      {
+        "title": "Shape-Shifting Drug Supercharges Cancer Treatment in Mice - SciTechDaily",
+        "source": "SciTechDaily",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:SciTechDaily+10 | 최신:Thu, 30 Jul 2026 23:53:14 GMT+5 | 키워드+30 | 순위:312위+2",
+        "snippet": "Shape-Shifting Drug Supercharges Cancer Treatment in Mice - SciTechDaily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Shape-Shifting Drug Supercharges Cancer Treatment in Mice - SciTechDaily",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Shape-Shifting Drug Supercharges Cancer Treatment in Mice - SciTechDaily",
+        "content_length": 72,
+        "published_time": "Thu, 30 Jul 2026 23:53:14 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 23:53:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelFvajE1dEM3OV9Nb3JIMHVsSmtyXzhBZ1Y5cVJNb3djNTM2WkVmTk5GeWJIeU5pMC1sRDluLTBNa2FBS2tKa2ZYVDlldk5XcmFtNTJtRDAwbWxMSXlnZWJJU2hqS1dlWEdBUXU5YmRqTnNBcTlJZkd2dXZSMEJ6eFE4bF93TkNoZGdn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://scitechdaily.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        21
+      ],
+      [
+        "approval",
+        12
+      ],
+      [
+        "generic",
+        5
+      ],
+      [
+        "safety",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "inspection",
+        2
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "manufacturing",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "openPR.com",
+        10
+      ],
+      [
+        "Stock Titan",
+        6
+      ],
+      [
+        "biz.chosun.com",
+        5
+      ],
+      [
+        "MarketBeat",
+        5
+      ],
+      [
+        "Reuters",
+        3
+      ],
+      [
+        "TradingView",
+        3
+      ],
+      [
+        "Whalesbook",
+        3
+      ],
+      [
+        "RAPS",
+        3
+      ],
+      [
+        "BioPharma APAC",
+        2
+      ],
+      [
+        "Clinical Leader",
+        2
+      ],
+      [
+        "Indian Pharma Post",
+        2
+      ],
+      [
+        "Seoul Economic Daily",
+        2
+      ],
+      [
+        "mykxlg.com",
+        2
+      ],
+      [
+        "Business Green",
+        2
+      ],
+      [
+        "Business Standard",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 108,
+    "languages": {
+      "French / 프랑스어": 5,
+      "German / 독일어": 3,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 6,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 6,
+      "Russian / 러시아어": 9,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Vietnam Medi-Pharm Expo 2026: En bro för att främja samarbete och utveckling inom medicin- och läkemedelsindustrin. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 30 Jul 2026 10:33:12 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "Vietnam Medi-Pharm Expo 2026: En bro för att främja samarbete och utveckling inom medicin- och läkemedelsindustrin. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Vietnam Medi-Pharm Expo 2026: En bro för att främja samarbete och utveckling inom medicin- och läkemedelsindustrin.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Vietnam Medi-Pharm Expo 2026: En bro för att främja samarbete och utveckling inom medicin- och läkemedelsindustrin. - Vietnam.vn",
+        "content_length": 128,
+        "published_time": "Thu, 30 Jul 2026 10:33:12 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 10:33:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNXBGeGhVblVkSWhTa0VWWDhXazQ3VWpMdjMxbHhTTTdZb09LRV9jTzlpOE1iSm9fVXhlZmp5eGdRVnRneUtNdjB6YVgxRXlIOFJ4Nm1vbm5udUxrVWFsVGw2cUNreEk1LUladlNjYURUYnRVNFZUUGxTd1p2bGI1ODIyYkZyTXdzRU5rbUhBVFA4UFg0cWRVVHprSFUwREVwRFAtV2U3T3V0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "מדיניות 完善 ולפתח תעשיית צמחי מרפא מודרנית כדי להפוך את הרפואה הסינית המסורתית לאחד מעמודי התווך של מערכת הבריאות. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Fri, 31 Jul 2026 02:38:31 GMT+5 | 키워드+30 | 순위:6위+15",
+        "snippet": "מדיניות 完善 ולפתח תעשיית צמחי מרפא מודרנית כדי להפוך את הרפואה הסינית המסורתית לאחד מעמודי התווך של מערכת הבריאות. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "מדיניות 完善 ולפתח תעשיית צמחי מרפא מודרנית כדי להפוך את הרפואה הסינית המסורתית לאחד מעמודי התווך של מערכת הבריאות.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "מדיניות 完善 ולפתח תעשיית צמחי מרפא מודרנית כדי להפוך את הרפואה הסינית המסורתית לאחד מעמודי התווך של מערכת הבריאות. - Vietnam.vn",
+        "content_length": 126,
+        "published_time": "Fri, 31 Jul 2026 02:38:31 GMT",
+        "modified_time": "",
+        "time": "Fri, 31 Jul 2026 02:38:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNW1tSFZoTkRuYzRBWlByWnRmeDdlSnIzN0lSdUdvcVd5c3ozWkRTQzMxZDdTUGNORDA3TERvelUzMjQ1QmlRbWFCRTJ6YlpDVDY5Rjk3YWN0Tm84SjAxLUEwLVY0SXh4c1l1SEppVVJacnFXU0loLWp5QmNnNjdtTHpxNmhTWjJkclVqNkJISzZLV3IyRVV6ZlJNZnVmQWhfdzBNb1E3b1QyeXJJWFNoR25VZ3pKUFp1V2lyMzAwSVBVUUtfYXZkcmpCbGotOGcxVEw0eldEUjNNbGx5UnFmZnVQRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Uyarı: Sedef hastalığı için kendi kendinize ilaç kullanmanız ciltte tahrişe ve ciddi hasara yol açabilir. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 30 Jul 2026 14:35:44 GMT+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "Uyarı: Sedef hastalığı için kendi kendinize ilaç kullanmanız ciltte tahrişe ve ciddi hasara yol açabilir. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Uyarı: Sedef hastalığı için kendi kendinize ilaç kullanmanız ciltte tahrişe ve ciddi hasara yol açabilir.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Uyarı: Sedef hastalığı için kendi kendinize ilaç kullanmanız ciltte tahrişe ve ciddi hasara yol açabilir. - Vietnam.vn",
+        "content_length": 118,
+        "published_time": "Thu, 30 Jul 2026 14:35:44 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 14:35:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWd1eVNBRzlIWXhfSHI5ZFM5aGVsNVpzZGJzN08xRExHdTA2LU1VYmUxanBqekpLcXhiV2tlNzRNMmNOMUtGYUxLYl9nQzJjMlFPaG1lQzg3SGlSMTM0TW50ZWRjcWRxMFE1cEZBYXVjZHl2ZmE3UGxoX3laR2dRa3BwVjdBOU9RNGp0cDVwZVlZbFRyQzJCaFQ3NHV3Nk5RTzRTdE15MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "معرض فيتنام الطبي والصيدلاني 2026: جسر لتعزيز التعاون والتنمية في الصناعة الطبية والصيدلانية. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 30 Jul 2026 10:53:46 GMT+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "معرض فيتنام الطبي والصيدلاني 2026: جسر لتعزيز التعاون والتنمية في الصناعة الطبية والصيدلانية. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "معرض فيتنام الطبي والصيدلاني 2026: جسر لتعزيز التعاون والتنمية في الصناعة الطبية والصيدلانية.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "معرض فيتنام الطبي والصيدلاني 2026: جسر لتعزيز التعاون والتنمية في الصناعة الطبية والصيدلانية. - Vietnam.vn",
+        "content_length": 106,
+        "published_time": "Thu, 30 Jul 2026 10:53:46 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 10:53:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVpkQk52RnRZZHVPRHJDbHcwYVJVb3dlR1lCbGQ2cU9sOFFUNzlhQTVQTjBRR1pNalgwME83T1VyZ3JQalBSRWtmdTR5dkh6QmFqMlZRYXk5X0J1WE5YU2t4UWl1b0pYemZCVzVxckIzWGpCdFVqejhBNGZZaXc5OFlqc2lNUFN4Z0tLRkNoRUZtUlg5blpvODlra1dZLTV5QlhlT0M0bF9Qdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Togo : Bientôt l’Agence de régulation pharmaceutique (ATRP) pour traquer les faux médicaments - 24 Heure Info",
+        "source": "24 Heure Info",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:24 Heure Info+10 | 최신:Thu, 30 Jul 2026 08:36:07 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "Togo : Bientôt l’Agence de régulation pharmaceutique (ATRP) pour traquer les faux médicaments - 24 Heure Info | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Togo : Bientôt l’Agence de régulation pharmaceutique (ATRP) pour traquer les faux médicaments - 24 Heure Info",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Togo : Bientôt l’Agence de régulation pharmaceutique (ATRP) pour traquer les faux médicaments - 24 Heure Info",
+        "content_length": 109,
+        "published_time": "Thu, 30 Jul 2026 08:36:07 GMT",
+        "modified_time": "",
+        "time": "Thu, 30 Jul 2026 08:36:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdGhnMF85V25kZjgwQm9YY0lfYmM0Mk9nLURhM0ZKbXRWaDRoWWRUR3UzSDRieGEwUjRoUDc3S3RiTUNSdUZGeFBSdDJQU2dCMW9INWh6ajUwcUVtbzByenhra2I5TEZyV2tQcmRPRHVOQWMwQjdjSzJUQnlVYmVlaHFuQzB5WHpDSzdLU2w2MHFrWlVDaVJsMnFDejUwajJEeWRzck81bWI5bmhZNlphMFdvemE1TG1pN3dR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://24heureinfo.com"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        27
+      ],
+      [
+        "Tribunlampung.co.id",
+        3
+      ],
+      [
+        "El Globalfarma",
+        2
+      ],
+      [
+        "IM Farmacias",
+        2
+      ],
+      [
+        "Drimble",
+        2
+      ],
+      [
+        "LINE TODAY",
+        2
+      ],
+      [
+        "DD News",
+        2
+      ],
+      [
+        "24 Heure Info",
+        1
+      ],
+      [
+        "Le Quotidien de l'Entreprise",
+        1
+      ],
+      [
+        "Les Echos",
+        1
+      ],
+      [
+        "Zonebourse Suisse",
+        1
+      ],
+      [
+        "RTBF",
+        1
+      ],
+      [
+        "pharmazeutische-zeitung.de",
+        1
+      ],
+      [
+        "industriemagazin.at",
+        1
+      ],
+      [
+        "Heilpraxis",
+        1
+      ]
+    ]
+  }
+}
