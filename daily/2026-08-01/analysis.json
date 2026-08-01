@@ -1,0 +1,283 @@
+{
+  "date": "2026-08-01",
+  "total_articles": 404,
+  "language_breakdown": {
+    "korean": {
+      "total": 162,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 17,
+        "의약정책": 21,
+        "의약단체": 9,
+        "의약관련정부기관": 18,
+        "의료현장": 20,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 24
+      }
+    },
+    "english": {
+      "total": 149,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 24
+      }
+    },
+    "multilingual": {
+      "total": 93,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 6,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "환자경험평가 확대와 병원 서비스 경쟁",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 49,
+      "key_articles": [
+        {
+          "title": "환자경험평가, 병원급까지 확대…대상 887곳으로 늘어난다",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415322"
+        },
+        {
+          "title": "환자경험평가, 상급종합병원 중 계명대 동산병원 1위 차지",
+          "source": "의학신문",
+          "importance": 47,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3009425"
+        },
+        {
+          "title": "병원 평가도 ‘환자 경험’ 본다…심평원 첫 등급제 도입 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "url": "https://biz.chosun.com"
+        }
+      ],
+      "summary_kr": "심평원이 환자경험평가를 병원급까지 넓히고 첫 등급제를 공개하면서, 입원경험·정서적 지지·환자안전 지표가 병원 경쟁의 핵심 변수로 떠올랐다. 상급종합병원 간 격차가 드러나면서 서비스 품질 경쟁이 구조화될 가능성이 크다.",
+      "summary_en": "Health insurers and hospitals are moving patient experience from a soft metric to a formal competitive benchmark. Broader evaluation coverage and grade disclosure should intensify quality-improvement efforts, especially in inpatient communication and emotional support."
+    },
+    {
+      "topic": "혁신형 제약기업·약가제도 개편이 제약사 전략을 재편",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "14년 만에 확 바뀐 '혁신형 제약기업'… R&amp;D 허들 높이고 리베이트 족쇄 풀었다",
+          "source": "약업닷컴",
+          "importance": 51,
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=330535"
+        },
+        {
+          "title": "[제네릭 약가 개편] ① 복제약 만으론 못 버틴다…제약사 '혁신&#183;생존게임' 시작",
+          "source": "조선비즈 on MSN",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/money/other/%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%95%BD%EA%B0%80-%EA%B0%9C%ED%8E%B8-%EB%B3%B5%EC%A0%9C%EC%95%BD-%EB%A7%8C%EC%9C%BC%EB%A1%A0-%EB%AA%BB-%EB%B2%84%ED%8B%B4%EB%8B%A4-%EC%A0%9C%EC%95%BD%EC%82%AC-%ED%98%81%EC%8B%A0-%EC%83%9D%EC%A1%B4%EA%B2%8C%EC%9E%84-%EC%8B%9C%EC%9E%91/ar-AA296DdI?ocid=BingNewsVerp"
+        },
+        {
+          "title": "약가제도 개편 세부기준 공개...국산 원료 가산&#183;양도양수 산정방식 명확히",
+          "source": "의학신문",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3009408"
+        },
+        {
+          "title": "식약처, 신약 허가심사 절차 개편…“희귀약 신약 전환 간소화”",
+          "source": "전자신문",
+          "importance": 42,
+          "url": "https://www.etnews.com/20260731000237"
+        },
+        {
+          "title": "AI 신약개발 속도 내지만... 한국제약바이오협회 &quot;전문인력 부족&quot;",
+          "source": "월요신문 on MSN",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/news/other/ai-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-%EC%86%8D%EB%8F%84-%EB%82%B4%EC%A7%80%EB%A7%8C%ED%95%9C%EA%B5%AD%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EC%A0%84%EB%AC%B8%EC%9D%B8%EB%A0%A5-%EB%B6%80%EC%A1%B1/ar-AA296Erq?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "혁신형 제약기업 기준, 제네릭 약가, 허가심사 절차가 동시에 손질되면서 국내 제약사들은 단순 복제약 중심 전략에서 R&D·품질·인력 경쟁으로 압박을 받는다. 정책은 인센티브와 규제를 함께 조정하는 방향이지만, 중소·중견사는 체감 부담이 클 수 있다.",
+      "summary_en": "Korea is tightening the rules for innovative drugmakers and generic pricing while simplifying some approval pathways for rare-disease drugs. The result is a sharper split between firms with R&D capacity and companies still dependent on price-led business models."
+    },
+    {
+      "topic": "글로벌 신약 임상 성과와 FDA 규제 변동성",
+      "domain": "global",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 60,
+      "key_articles": [
+        {
+          "title": "Novo drug trial fail deals setback to bid to expand beyond obesity - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "Replimune surges after FDA advisers back skin cancer drug - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com"
+        },
+        {
+          "title": "FDA panel backs unapproved peptides despite safety concerns - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "url": "https://www.drugdiscoverynews.com"
+        },
+        {
+          "title": "Chasing Vertex, Latigo reports non-opioid pain drug succeeds in key trial - Endpoints News",
+          "source": "Endpoints News",
+          "importance": 61,
+          "url": "https://endpoints.news"
+        }
+      ],
+      "summary_kr": "비만·항암·통증·펩타이드 영역에서 임상 성패와 FDA 자문 결과가 동시에 움직이며 글로벌 제약주의 변동성이 커졌다. 한편 규제기관이 안전성 논란이 있는 후보물질에도 문을 열어주는 사례가 나타나면서, 향후 허가 리스크와 주가 반응의 연결고리가 더 강해지고 있다.",
+      "summary_en": "Clinical wins and failures are moving biotech valuations fast, while FDA advisory dynamics remain highly market-sensitive. Safety debates around unapproved peptides also underscore how regulatory interpretation can swing investor sentiment within hours."
+    },
+    {
+      "topic": "보험급여 확대와 고비용 치료 접근성 논쟁",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 46,
+      "key_articles": [
+        {
+          "title": "심장판막 시술도 건보 적용…5000만원→140만원 경감",
+          "source": "뉴시스",
+          "importance": 45,
+          "url": "https://www.newsis.com/view/NISX20260730_0003729415"
+        },
+        {
+          "title": "Employer Coverage for Weight-Loss Drugs Is Tightening for 2027, and the Summary of Benefits Is Where You Will Find Out - Medical Daily",
+          "source": "Medical Daily",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlFOOEdwc29hQjBJdmc1ZlJJWEhuV2RKWE1iNkVIMzZOYlprbDIyYmZtWXNrQnR2bGVleW9CckczejJQdEstZ0lUdnZROFpsUUVuOWl0azBWMmUyamZPaFhaaERtZ0JxU1BGeFFuaVFVcWpjVUlEVGtXVndyNUFCZDRTWVlZeUh6TU1oN256a2xwbF8wa0QzMklPNUZmaFlHb21mRGRlSnlLcUwt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Malaria, diabetes drugs out of reach - Daily Trust",
+          "source": "Daily Trust",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFTUEzSnV0ZFBCb2lnTU9lZ0U3ODdtejJ3VUdNaFBFaDBEYll5R19ab2FmOHMyU2EyamRxU0F0ZGd3RGE2QVpvOVc1LWNGYm1rUVZENkgwbXpqYWhkTk5aVmc0V2FVdXVUU0Jz?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "고비용 시술의 급여 전환은 환자 부담을 크게 낮추는 반면, 비만치료제·당뇨약처럼 보험이 좁아지는 영역도 있어 치료 접근성의 양극화가 드러난다. 급여 기준과 혜택 설계가 의료현장의 실제 선택을 좌우하는 흐름이 강화된다.",
+      "summary_en": "Coverage changes are reducing patient out-of-pocket costs for some procedures, but access is tightening for weight-loss drugs and remains limited for essential therapies in lower-income settings. Benefit design is becoming a primary driver of real-world treatment access."
+    },
+    {
+      "topic": "전통의학과 다국어 시장의 제도화 흐름",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Vietnam geleneksel tıbbının gelişimini kolaylaştırmak için yasal bir çerçeve oluşturmak. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHRvUWk3dkYweDJ5cm16OUlGeGd2UHVNQUdiQTAxVVhqcVVkN3V5SXNsdlJFaUY3cFZsblFWY0xxWkhqUGpmNjhMVmM2R1h5RjZMc2cxc0ZNMFBlMHJNU2d6RktILWJ4WFBuaG9WamthbGZET0ZXYU1xSWluSnhGdGN5bzZ6UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Kurumsal reform yoluyla geleneksel tıbbın gücünü ortaya çıkarmak. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTg2aDEzOXRCYWtyVGtEWU5XWm1XN2Q4Ui1iLXVvcHdxbFRSNkFZNzBMcWh1S3E3N1l4NTBvT2RTb2M5RzNiNGJRTE85MU1obDZGM241NENvR3hKQnZ2bTlNWFRhOVVMQmVfYVVjQkpiVTdGMVdTVDg2VGR2eFdPbzVxVmJONUU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "환자경험평가, 병원급까지 확대…대상 887곳으로 늘어난다",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415322"
+        },
+        {
+          "title": "「湘智興湘」外籍人才中醫藥文化體驗活動在長沙舉行 - 香港商报",
+          "source": "香港商报",
+          "importance": 53,
+          "url": "https://hkcd.com"
+        }
+      ],
+      "summary_kr": "베트남·태국·중국권에서 전통의학의 법제화, 산업화, 문화행사가 동시에 나타나며 전통의학이 단순 보존이 아니라 보건정책·산업전략의 일부로 재편되고 있다. 다국어 뉴스 흐름에서는 전통의학과 현대의약의 접점이 더 뚜렷해졌다.",
+      "summary_en": "Traditional medicine is increasingly being framed as a regulated, industrial, and cultural asset across Asia. The multilingual feed suggests a gradual normalization of policy support, product development, and public-facing promotion."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 6,
+      "significance": "high"
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 14,
+      "en_count": 6,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 2,
+      "significance": "high"
+    }
+  ],
+  "notable_absences": [
+    "German / 독일어 coverage remained at 0 articles",
+    "Japanese / 일본어 coverage remained at 0 articles",
+    "Persian / 페르시아어 coverage remained at 0 articles"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "허가·약가 개편과 생산품질 강화가 국내 제약 재편을 압박",
+      "RNA 신약과 해외 기술이전이 K-바이오의 다음 성장축으로 부상",
+      "베트남 전통의학·한방 생산과 단속 기사 확산"
+    ],
+    "changes": [
+      "환자경험평가가 병원급까지 확대되며 의료서비스 품질 이슈가 전면에 부상",
+      "허가·약가·혁신형 제약기업 개편이 국내 제약사의 전략 전환 압박으로 이어짐",
+      "전통의학·다국어 기사에서는 제도화와 산업화 서사가 지속됨"
+    ]
+  },
+  "connections": [
+    "병원평가 강화와 급여 확대는 모두 환자경험/환자부담을 정책의 중심 지표로 끌어올리고 있다.",
+    "혁신형 제약기업 개편과 글로벌 임상 결과는 R&D 투자와 시장가치의 연결이 더 강해졌음을 보여준다.",
+    "비만·당뇨·전통의학 기사들은 치료 수요가 커지는 시장에서 보험·규제·문화 요소가 동시에 작동하고 있음을 시사한다."
+  ],
+  "generated_at": "2026-08-01T16:35:57+09:00"
+}

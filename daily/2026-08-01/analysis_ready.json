@@ -1,0 +1,654 @@
+{
+  "date": "2026-08-01",
+  "total_articles": 404,
+  "language_breakdown": {
+    "korean": {
+      "total": 162,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 17,
+        "의약정책": 21,
+        "의약단체": 9,
+        "의약관련정부기관": 18,
+        "의료현장": 20,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 24
+      }
+    },
+    "english": {
+      "total": 149,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 24
+      }
+    },
+    "multilingual": {
+      "total": 93,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 6,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 19
+    },
+    {
+      "keyword": "허가",
+      "count": 14
+    },
+    {
+      "keyword": "급여",
+      "count": 14
+    },
+    {
+      "keyword": "약가",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 7
+    },
+    {
+      "keyword": "임상",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "R&D",
+      "count": 4
+    },
+    {
+      "keyword": "제네릭",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 1
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    },
+    {
+      "keyword": "CDMO",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 21
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 6
+    },
+    {
+      "keyword": "approval",
+      "count": 6
+    },
+    {
+      "keyword": "safety",
+      "count": 5
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 11
+    },
+    {
+      "source": "의학신문",
+      "count": 5
+    },
+    {
+      "source": "히트뉴스",
+      "count": 5
+    },
+    {
+      "source": "메디소비자뉴스",
+      "count": 4
+    },
+    {
+      "source": "의약뉴스",
+      "count": 3
+    },
+    {
+      "source": "yakup.com",
+      "count": 3
+    },
+    {
+      "source": "시사저널e",
+      "count": 3
+    },
+    {
+      "source": "아주경제",
+      "count": 3
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 3
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 27
+    },
+    {
+      "source": "Diario AS",
+      "count": 15
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 3
+    },
+    {
+      "source": "geneonline.com",
+      "count": 3
+    },
+    {
+      "source": "industrytoday.co.uk",
+      "count": 2
+    },
+    {
+      "source": "Newsmax",
+      "count": 2
+    },
+    {
+      "source": "The New York Times",
+      "count": 2
+    },
+    {
+      "source": "TradingKey",
+      "count": 2
+    },
+    {
+      "source": "Medical Dialogues",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "허가·약가 개편과 생산품질 강화가 국내 제약 재편을 압박",
+    "RNA 신약과 해외 기술이전이 K-바이오의 다음 성장축으로 부상",
+    "베트남 전통의학·한방 생산과 단속 기사 확산"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 10,
+      "keywords": [
+        "FDA",
+        "safety",
+        "fda",
+        "drug",
+        "news",
+        "india",
+        "pharmaceutical",
+        "biosimilar",
+        "approval",
+        "reddy"
+      ],
+      "articles": [
+        {
+          "title": "FDA panel backs unapproved peptides despite safety concerns - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA panel backs unapproved peptides despite safety concerns - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 01 Aug 2026 01:06:08 GMT",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWJjS1A1clZmWFBkeVB0YkhuQXBoNGtubFc2TlRUUUhRcktiX0w5OGFiWWlndkVBejZ5ZzZiVi1OdGZmZGhfc05fVVJPUXl2djlZWVRXYXA5TVc5ZW0wMnZhdERHOUNzNGtMWmhDUm9HV0UtVHZJQnZLTGkzbVFDcVVtZXBWRTNjR2NIWWg1VFZkVnp3Y3Jza1NzUDk3Ykt5?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "PCN seals 383 drug outlets in Ogun - Vanguard News",
+          "source": "Vanguard News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "PCN seals 383 drug outlets in Ogun - Vanguard News | Home » News » PCN seals 383 drug outlets in Ogun | Follow us on Google | July 31, 2026 | PCN seals 383 drug outlets in Ogun",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Fri, 31 Jul 2026 22:42:45 GMT",
+          "url": "https://www.vanguardngr.com/2026/07/pcn-seals-383-drug-outlets-in-ogun/"
+        },
+        {
+          "title": "Why Drug Safety Has Become India's Next Pharmaceutical Imperative - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Drug Safety Has Become India's Next Pharmaceutical Imperative - BioSpectrum India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sat, 01 Aug 2026 05:44:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTcxRzRnVEJhNnRWdlRwaWFLaTdwZDkyUmRJZUpTUHVMZDd3Q0lDSHNOcHZEMFNNWGF5cFd3MjJ3SXRRaHMzMjhaVmx5Q2k4SEQ4SlQ3SWpzTFF2YmNES1d3RVFMU3RyelVDLUotTWNrbXFONldwWFdpaENRVnJtQkpRWmg2MGNZQ0hGTVo3NTFTcTM4eFdvVkdXWWtsaEkzMWpiQ2VyRU1jNEdKZTVLX0FOb3lULXQyZTRQZQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA panel backs unapproved peptides despite safety concerns - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA panel backs unapproved peptides despite safety concerns - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 01:06:08 GMT",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWJjS1A1clZmWFBkeVB0YkhuQXBoNGtubFc2TlRUUUhRcktiX0w5OGFiWWlndkVBejZ5ZzZiVi1OdGZmZGhfc05fVVJPUXl2djlZWVRXYXA5TVc5ZW0wMnZhdERHOUNzNGtMWmhDUm9HV0UtVHZJQnZLTGkzbVFDcVVtZXBWRTNjR2NIWWg1VFZkVnp3Y3Jza1NzUDk3Ykt5?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Why Drug Safety Has Become India's Next Pharmaceutical Imperative - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Drug Safety Has Become India's Next Pharmaceutical Imperative - BioSpectrum India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 05:44:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTcxRzRnVEJhNnRWdlRwaWFLaTdwZDkyUmRJZUpTUHVMZDd3Q0lDSHNOcHZEMFNNWGF5cFd3MjJ3SXRRaHMzMjhaVmx5Q2k4SEQ4SlQ3SWpzTFF2YmNES1d3RVFMU3RyelVDLUotTWNrbXFONldwWFdpaENRVnJtQkpRWmg2MGNZQ0hGTVo3NTFTcTM4eFdvVkdXWWtsaEkzMWpiQ2VyRU1jNEdKZTVLX0FOb3lULXQyZTRQZQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Sun Pharmaceutical Reports 27% Net Profit Increase in Q1 FY27 - India News Network",
+          "source": "India News Network",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Sun Pharmaceutical Reports 27% Net Profit Increase in Q1 FY27 - India News Network | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 31 Jul 2026 21:46:24 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXpqbFBSc0lyRlUyLXJlQlRhNUt4R1BieEk1anYtNkVmWjJ3Vkg0cDh1Ym9Da0Y5dkEwY1RXWmo2UGpyeDNjX2lSS2hwanVrMUNtQnh1dE5iVHhpWXhuYUJPeHplMEhUc2hVV0FoZkZwN1FwU1g4YU9xVVFhZDRzWmpMZmxpMERTLWlUVU55VWRDeU40UXNySl9fdmZ1NWxVUk5NaA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Dr. Reddy's Laboratories wins U.S. FDA approval for rituximab biosimilar - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Reddy's Laboratories wins U.S. | FDA approval for rituximab biosimilar - scanx.trade | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 04:24:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNDJUU25iemtINlRyOTdSVkFzY1hCZExSMEdBR2thcktXdzBKRGhsSmZIbEhxMTFZR0xjWlkwdWxZalJSWnlSSXRSZGRRb1FpTGQzalcyalZpV1pYQ1hDRHR3SUNMX0pRc29haVNDY2g5NUZNYldlSFF4T0ZpdGFSRkdlUGNKLXhvUldtYW1DRlJITm1wSllCb19GaFhaS3ZhQ2RXLTQyS0RmcXhOX0NOLVFWbjJib0xNM2pDSVluY29RQi14alE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Dr. Reddy’s Laboratories: Receives U.S. FDA Approval for Rituximab Biosimilar - InvestyWise",
+          "source": "InvestyWise",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Reddy’s Laboratories: Receives U.S. | FDA Approval for Rituximab Biosimilar - InvestyWise | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 04:18:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktpZjljMmR3ZkhCNnRZM0I0dmdMUlU4eWpWLTFlQ2M2RjNWb0pYQTJ3YkJYUGI0Y3dtdzl5ODJLMHJGRzIzSWcxTWtLZDhOMndXSUNpczhLdGtwWDJzcXdPbm92dzhZM2xjaW9vbFRJemw2QU5HWEdFNGdKR3llY28wY0YtTlg1YVBaQng1c05tdjg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Dr. Reddy's Laboratories receives U.S. FDA approval for rituximab biosimilar - Business Upturn",
+          "source": "Business Upturn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Reddy's Laboratories receives U.S. | FDA approval for rituximab biosimilar - Business Upturn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 04:24:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnMwQ283V0I2eHJwM1R3MEU3cWZZQzBVanhTRmZNaDNocFptMnFJRFU2MkFoT05odnJIOXlBaXctenBXN0lHMjJ0TW13TVBiSkJpMzRFb3NySzNGcGp1cTFIWjBPcWlhQ25vOFUzSlBEcWdvSTFfWEt1ckl6aVVXV24xc2xyNkkxMXp6dmRRYmJwRlVMamNLZlRVSlhZUG9ldDZtSGZ1WnJKTnY3V01pUg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FSSAI cracks down on three firms over food safety violations - The Times of India",
+          "source": "The Times of India",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "FSSAI cracks down on three firms over food safety violations - The Times of India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 01 Aug 2026 03:35:00 GMT",
+          "url": "https://www.msn.com/en-in/money/other/fssai-cracks-down-on-three-firms-over-food-safety-violations/ar-AA29bjPY?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "국가예방접종",
+        "지원",
+        "확대",
+        "연령",
+        "조혈모세포이식환자"
+      ],
+      "articles": [
+        {
+          "title": "청주시, 조혈모세포이식환자 국가예방접종 지원 ‘전 연령’으로 전격 확대 - 타임뉴스",
+          "source": "타임뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "청주시, 조혈모세포이식환자 국가예방접종 지원 ‘전 연령’으로 전격 확대 - 타임뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 01 Aug 2026 00:15:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xOEFzZGhyLU5TWlNfSU5IWTkydlg2dWZvZzA1T2toOFp6SkZnS3ZRV1V5ZERqU0JTeU9LVFZhT3EzZ1AzMVVyZTJZVUh5VTZPNGZ1OA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "동두천시, 조혈모세포 이식 환자 국가예방접종 전 연령 지원 확대 > 뉴스 - 더코리아",
+          "source": "더코리아",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "동두천시, 조혈모세포 이식 환자 국가예방접종 전 연령 지원 확대 > 뉴스 - 더코리아 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Fri, 31 Jul 2026 23:20:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOWEl1Zk5PQjc5ZUtlamFTbG1hTzU0bF9pbFBqOTJPWndIYmVOOXlfbkR5WG9HWHhRZXBFNTQwa1pLU3hXX083Nk5JbmZaSlk1THFNWGJ6QmdNS3ltbVB1dnpGRS1GeXE4cVZLQ0RZdzU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "오산시, 조혈모세포이식환자 국가예방접종 지원 대상 전 연령으로 확대 - 아시아뉴스통신",
+          "source": "아시아뉴스통신",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "오산시, 조혈모세포이식환자 국가예방접종 지원 대상 전 연령으로 확대 - 아시아뉴스통신 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 01 Aug 2026 05:18:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JQjVzT0Rfa1NfS2xNQ2kxVHRzN2VTaU1Rb3l0QW5zSkpQT2VXX3NzQy14SnJwNHk1ZXFTYzE4OUNNOGJINXJBY2VBRklCWlhOaXE4cXlYRjU3MVRI?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "환자경험평가",
+        "상급종합병원"
+      ],
+      "articles": [
+        {
+          "title": "환자경험평가, 상급종합병원 중 계명대 동산병원 1위 차지",
+          "source": "의학신문",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "환자경험평가, 상급종합병원 중 계명대 동산병원 1위 차지 | 환자경험평가, 상급종합병원 중 계명대 동산병원 1위 차지 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 기사의 본문 내용은 이 글자크기로 변경됩니다. | [의학신문·일간보사=이재원 기자] 2025년 환자경험평가 결과를 바탕으로 47개 상급종합병원의 환자 중심 의료서비스 수준을 분석한 결과, 계명대 동산병원이 7개 평가 영역 ",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "7시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3009425"
+        },
+        {
+          "title": "'빅5' 흔든 환자경험평가…지방 상급종합병원 상위권 비결은? - 청년의사",
+          "source": "청년의사",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "'빅5' 흔든 환자경험평가…지방 상급종합병원 상위권 비결은? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Fri, 31 Jul 2026 21:30:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XallfSEUwRHhOaVplQnFMUXFNQW53eVdJWWpoN0F2UjNiNnc5UC1ERHVsQnBOUEd5RERpUFNaWktWRHh1OUtwZWNTamo2VmVKNXVpSzVRUkJJeVBSeXl2bHZ3bTNLRkQ0VjR4LU9pd9IBc0FVX3lxTE5mbzJlaTc5Nk1VeGN5ZERxN3NDWnl0bWFUTVk2WVFsdDZnMy1XQ1pxMXB3MWlmaFFVQ21weGtaa1l1R09nZ3hlZ2h0aXZoV1ZFY180RnVjbzI3R3JlcjVJdFJWNGZxSXBrVEdRb2IxQ3NET0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "com",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "UK approves new drug aficamten for thousands of patients - minutemirror.com.pk",
+          "source": "minutemirror.com.pk",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "UK approves new drug aficamten for thousands of patients - minutemirror.com.pk | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 31 Jul 2026 23:23:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3lDVlJIT0dmSGRCMXl0ZVB6WUJHcmEtbmluV2xrMVp1ZFJjdGFhZ012Vm9JRTJFb3VwdG5EdFhTWEZFQ2JfTkpQOWF4c201TGJBM2w2ODhRd0QwSTdDWU9HaGpvZ0E4UEtHNy1EX3VWX3V0aC1veVo1Q3VBRXl0bmhVZkZ6b3JrSWpldDZkN2k1VnhzaEhZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "STAR 50 Plunges 26% in July; Innovative Drug Sector Emerges as Rare Safe Haven - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "STAR 50 Plunges 26% in July; Innovative Drug Sector Emerges as Rare Safe Haven - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 01 Aug 2026 01:25:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lRUUyNU9Kb3AxVTZSV3NHV2lsSjhQeEt4dG82T1ZXSUNVeElyaFFDeEs1MHlSWE42THoxOUFDY2hZQzA5LWNydXlJcTN6QWVPSzM5OTVyQzhLalZpcVktQm0zN0RDSkg1cFVTRWJhcDRmMWNaaGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "out",
+        "drugs",
+        "daily"
+      ],
+      "articles": [
+        {
+          "title": "Employer Coverage for Weight-Loss Drugs Is Tightening for 2027, and the Summary of Benefits Is Where You Will Find Out - Medical Daily",
+          "source": "Medical Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Employer Coverage for Weight-Loss Drugs Is Tightening for 2027, and the Summary of Benefits Is Where You Will Find Out - Medical Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Fri, 31 Jul 2026 23:45:44 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlFOOEdwc29hQjBJdmc1ZlJJWEhuV2RKWE1iNkVIMzZOYlprbDIyYmZtWXNrQnR2bGVleW9CckczejJQdEstZ0lUdnZROFpsUUVuOWl0azBWMmUyamZPaFhaaERtZ0JxU1BGeFFuaVFVcWpjVUlEVGtXVndyNUFCZDRTWVlZeUh6TU1oN256a2xwbF8wa0QzMklPNUZmaFlHb21mRGRlSnlLcUwt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Malaria, diabetes drugs out of reach - Daily Trust",
+          "source": "Daily Trust",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Malaria, diabetes drugs out of reach - Daily Trust | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 01 Aug 2026 00:19:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFTUEzSnV0ZFBCb2lnTU9lZ0U3ODdtejJ3VUdNaFBFaDBEYll5R19ab2FmOHMyU2EyamRxU0F0ZGd3RGE2QVpvOVc1LWNGYm1rUVZENkgwbXpqYWhkTk5aVmc0V2FVdXVUU0Jz?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "vietnam",
+        "geleneksel"
+      ],
+      "articles": [
+        {
+          "title": "Vietnam geleneksel tıbbının gelişimini kolaylaştırmak için yasal bir çerçeve oluşturmak. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Vietnam geleneksel tıbbının gelişimini kolaylaştırmak için yasal bir çerçeve oluşturmak. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Turkish / 터키어",
+          "time": "Sat, 01 Aug 2026 02:37:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHRvUWk3dkYweDJ5cm16OUlGeGd2UHVNQUdiQTAxVVhqcVVkN3V5SXNsdlJFaUY3cFZsblFWY0xxWkhqUGpmNjhMVmM2R1h5RjZMc2cxc0ZNMFBlMHJNU2d6RktILWJ4WFBuaG9WamthbGZET0ZXYU1xSWluSnhGdGN5bzZ6UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Kurumsal reform yoluyla geleneksel tıbbın gücünü ortaya çıkarmak. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Kurumsal reform yoluyla geleneksel tıbbın gücünü ortaya çıkarmak. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Turkish / 터키어",
+          "time": "Sat, 01 Aug 2026 00:20:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMTg2aDEzOXRCYWtyVGtEWU5XWm1XN2Q4Ui1iLXVvcHdxbFRSNkFZNzBMcWh1S3E3N1l4NTBvT2RTb2M5RzNiNGJRTE85MU1obDZGM241NENvR3hKQnZ2bTlNWFRhOVVMQmVfYVVjQkpiVTdGMVdTVDg2VGR2eFdPbzVxVmJONUU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "בינה מלאכותית והזדמנויות לחדשנות מקיפה בתעשיית התרופות. - vietnam.vn",
+      "source": "vietnam.vn",
+      "importance": 60,
+      "snippet": "בינה מלאכותית והזדמנויות לחדשנות מקיפה בתעשיית התרופות. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXy03M01kM3RtR2pqdmd5emZWb3JjLXRXdUE2LVc3VWtFTFRJYkI3Qm5wZk5MZWFUeXBtT2NNWlRPQUpFT05OaDZQY3NVYTRwazFOeFdLc1N1RmlZOENIbGtJNWQ3NHo0ZHUtelNTUWNVUURvUFhlLTItZjVfNkpqel9pRzBfV3Br?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "กรมการแพทย์แผนไทยฯ ชู “ขมิ้นชัน” โมเดลสมุนไพรครบวงจร มุ่งสู่ยาทดแทนยาแผนปัจจุบัน - Hfocus.org",
+      "source": "Hfocus.org",
+      "importance": 55,
+      "snippet": "กรมการแพทย์แผนไทยฯ ชู “ขมิ้นชัน” โมเดลสมุนไพรครบวงจร มุ่งสู่ยาทดแทนยาแผนปัจจุบัน - Hfocus.org | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSnJZM3VrQkRCVG52a3hzVnRtLXJLNmVPc0kzTFY0ZmZmNVZOaFkzOF9EU01KTjNZZHBmUm5JQm8xRDhGUGFoNHNTZF9ubjBRU1lVeW84UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "14년 만에 확 바뀐 '혁신형 제약기업'… R&amp;D 허들 높이고 리베이트 족쇄 풀었다",
+      "source": "약업닷컴",
+      "importance": 51,
+      "snippet": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문 | Yakup-specials | 올바른 건강기능식품 활용가이드 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=330535"
+    },
+    {
+      "title": "ปัญญาประดิษฐ์และโอกาสในการสร้างนวัตกรรมอย่างครบวงจรในอุตสาหกรรมยา - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "ปัญญาประดิษฐ์และโอกาสในการสร้างนวัตกรรมอย่างครบวงจรในอุตสาหกรรมยา - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX0dNOWtKbVBwc0ZjUEZXLTV0S1BtV1NOdXRQY3d6T0w3X3JjdHJmRmNMNDlrVFk1aUpyWHNaNjFpWHE4WGRoT0ZBU1F1QmFHYjYtWTdURFdBTy1XTjZyZXljQ1J6RFhjcXNvVWpUbzdQUnhPRnVnQWNZMmRpNExJR2hSS3h5Z3k4?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "فتح إطار قانوني لتسهيل تطوير الطب التقليدي الفيتنامي. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "فتح إطار قانوني لتسهيل تطوير الطب التقليدي الفيتنامي. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEtXNTU2Z3JwcXEtSmtvWEc2QWRQTGVianM4WU5lajdpN1Y2ei04ck96YVF1dnVSYjZIYkNxMnNHemFPQkJxYWJfcEp6LWhfUFdGa29tVHpHdWFQSlRsUGxVaXJGT19lX3hXSHRqMVpBbXUyOWFyYno4YlJnSWtWWE1BckpwUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "노보 노디스크, 심혈관 신약 임상 3상 고배…주가 급락 - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 45,
+      "snippet": "노보 노디스크, 심혈관 신약 임상 3상 고배…주가 급락 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc0pQLVJ2SC0tUkI5RDltb1cwaDZBRGhfemRZWDl1TERtVUZiMGJtbmVwblYwWU5VT1Q3ek5nUlFiejFiVE1FM0V2ZHZ3dDdFcXpnWGNaX2xVdDRZX1lJNmhUMFI2cXNRZ3hJdzg4ak5LU1NhSEhxZW9CU0o2REN3S2d1dENzT2_SAZsBQVVfeXFMT05UYnV3MzBTb1lIWlJNWWRIUGlZUFd4Zlk3aVUzd3Q1R2RtZk9EeG5IaHg1QnEzc1pnRHRONmRSMWFSeEtPOFZPTE5CNmJnRm1uRjZldVJpNXFmLVF4dTJaai04SzIzZ1hNR213RkhtTk9rTjZ5TjRtWjBHYXFVQ1o2anRfRXp2ZTFDYzBNb1E4MWRzTEt4UE0xaVU?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Acadia Pharmaceuticals EVP Thompson sells $432,662 in stock By Investing.com - Investing.com Canada",
+      "source": "Investing.com Canada",
+      "importance": 42,
+      "snippet": "Acadia Pharmaceuticals EVP Thompson sells $432,662 in stock By Investing.com - Investing.com Canada | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYkZ6SkhpUnBWckxlVVkxSXVGSGJLa0VwTXp2R1lnVFhRV2lULXB2Und2YVpZVXhqczRKLUd1a2FKU0dndjI4RTNHSUF5TXRjTDl1d2Rtc2RCWWpYa3dHRXY0YjU2c0lGVXk5YnhwSEhwTG9JcXhfbFpkcTh4ZnFyZUlXRGEwbUY4SmRTYzJUMS1HT2c5MGxYTC1POVMzTF9YMWhLaU9BTEJKNUF2bGg4ZThpdF9icEJyZGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Teva Pharmaceutical Industries Limited 2026 Q2 - Results - Earnings Call Presentation (NYSE:TEVA) 2026-07-31 - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "importance": 42,
+      "snippet": "Teva Pharmaceutical Industries Limited 2026 Q2 - Results - Earnings Call Presentation (NYSE:TEVA) 2026-07-31 - Seeking Alpha | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQemJUbkxEd0Z4NFZ6eG5uZWZxWWVXdWZnYVQ3WHg0NVdiV3NiT3lQUlpxTzFFUFd0MmtwWTZ2VG9WQkV5UmN1Ri1Ka28tWUhoUDcwcE8tZ0JGRXhWR2NrYlRPZ3YtME1JQzQ2cUpRSlQ0U0NfQ2pybWhSYzhzaU91OF9fN0JJb2dZM2w4a0ppaGZXXy1vU0tyVEdpNVE2VldjRzhTVGowUW9GMjh0QlhjeEFGdlRabUN3NVpyVUowaWVzZlBsRjFzUXpIR0lSXzBsZklFMUZXMTA4OTgtS3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Thêm một trường đại học mở khoa Y dược - Báo VietNamNet",
+      "source": "Báo VietNamNet",
+      "importance": 42,
+      "snippet": "Thêm một trường đại học mở khoa Y dược - Báo VietNamNet | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFSXQ0a0dUVGx5eU5Ldk40NktWM2pqRElVc1pOYy0zanNoS1prOEhPN3E5bHBpTkpRVE5tcW1KbXBIS2FkQUFnMHh4ZlB4VVVWTlhQSXhiZ3RIanY1d3JxYlNXUlRiSEhLc3M4S3hIZFRNc0x2SG85b1FNQlRydw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Nữ dược sĩ giàu lòng nhân ái - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 42,
+      "snippet": "Nữ dược sĩ giàu lòng nhân ái - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zZnRwUG5ndjh4ZW5NeXZ0UzN3OFNIcm5tY0NiUGpKTlQzNmdzNXlCdHgzYWttMzlKTjZqSkotYmlQNGczSTQtY3pHRHZBLTRGRmRTNVJuQTk5SmpKcThvXw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 6
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 14,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 2
+    }
+  ]
+}
