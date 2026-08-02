@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-02",
+  "total_articles": 313,
+  "language_breakdown": {
+    "korean": {
+      "total": 103,
+      "categories": {
+        "의약품": 13,
+        "의약산업": 9,
+        "의약정책": 9,
+        "의약단체": 9,
+        "의약관련정부기관": 10,
+        "의료현장": 24,
+        "약국·약사": 1,
+        "의료정책·인력": 17,
+        "전통의학": 0,
+        "감염·보건": 11
+      }
+    },
+    "english": {
+      "total": 143,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 18,
+        "Traditional & Complementary Medicine": 25
+      }
+    },
+    "multilingual": {
+      "total": 67,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "제네릭 약가 인하와 공급 불안이 현장 비용을 압박",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 54,
+      "key_articles": [
+        {
+          "title": "[제네릭 약가 개편]① 복제약 만으론 못 버틴다…제약사 ‘혁신·생존게임’ 시작 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0kweFdUVDhFcE90TFBvWUkta1FuR3I0OGxWTG5mTXprQ3U1OEJDa2dWbm1ZcElXczVLYzNDa3VYZGdtVmhkU0dockJCVGVaYkRQTmIwZ3dNZlFON1BGVk1xUDhldF80YkZ2Uk1kWlZZdnhPRHB1X2Ytd0tLblpGZHhyc2Z2X2fSAZsBQVVfeXFMTjJfNXdaSS1DNEZUWWlMUkhycFI5ZzQwSmg2RXpPUG5vcVJnRlZuLUhGQWhBYjh4M2xsenVtV0FEZlh3TGwzR1hrS3BLT19kVlZuM281U05tRWNNM2U2eFR6bE0yRkZoY1dZakc2d01QeGNKcXZUVDJXZ3daV3ptY0xxZXBSQTJmYlRXeUFNWVZEdHp1N1hYaDEyX2s?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "[제네릭 약가 개편]② 약값 인하의 역설…약값 낮춰도 ‘체감 제로’ 공급 불안 커진다 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 53,
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeDJ4THlTQU9xdVpqdTJ1YnBPSXZVdWVxaEdsWWNuZndqWHFnVlgtY1pOQkFNdVhIWjdzRkVwZFhCdnRRekFxMXpiLWUxZnlaTVdDbExXQ0cyakZrUHJ5ZHgycXhMYXVUZkFUV1c4OFVYcnVkamJEdVhxbmxIVUNSbGhrb244VjBEbEt4M0VWN1ZlcDhQSGFF0gGrAUFVX3lxTE8xYlozc1BWTERQemZNbTZDSkpEN3AxeXBwdXEzOVVxSkl3dDJXdmlmaU5mamxLWG1xeG1NMTFpYTk5SjNSeHF0TEljQjZ0dkxvaXptWFA0VlgzdC1LMW1zbXN3MW1UXy1vRkg2aVBVRTVNVUM4TkZKdkd4TlRQdGlKNF9JM0lWb3R3X0J0bVhHT2phaThQSWFHdmhQZFkzZkEwajMyTlJSRU5Ldw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "제네릭 약가 개편이 약국·제약사·보험재정에 동시에 압력을 주고 있다. 가격 인하가 곧바로 체감 절감으로 이어지지 않는다는 점이 드러나면서, 공급 안정성과 정책 효과를 함께 봐야 하는 국면으로 이동했다.",
+      "summary_en": "Generic pricing reform is now being felt at the pharmacy and manufacturer level, not just in policy headlines. The market reaction suggests that price cuts, supply stability, and reimbursement design have become one combined problem rather than separate debates."
+    },
+    {
+      "topic": "신약·GLP-1·재창출 뉴스가 글로벌 약물 파이프라인을 흔듦",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 27,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "South Korea cuts generic drug prices as pharmacies strain and supply risks rise - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFdZMXk1cEJwOVFZVGQ4ZVhnaU0zSGVjNzg5UDdRUFpsbmFmZHg1M2M1V2VYV2NxU19Mdkp2S0RQcUtpU2xjVy1fREhLQk9oaW1CN2pENHlHc3pZVnhmWVVONVRJeXBQRG5hWFNQeUZCMVpjQVNmRXdqZm14M056Y1lhc2gzRnRWRkNSdlViUUx1emdN0gGUAUFVX3lxTE5UV1kxeTVwQnA5UVlUZDhlWGdpTTNIZWM3ODlQN1FQWmxuYWZkeDUzYzVXZVhXY3FTX0x2SnZLRFBxS2lTbGNXLV9ESEtCT2hpbUI3akQ0eUdzellWeGZZVU41VEl5cFBEbmFYU1B5RkIxWmNBU2ZFd2pmbXgzTnpjWWFzaDNGdFZGQ1J2VWJRTHV6Z00?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug Repurposing’s Next Challenge: Turning Discoveries Into Treatments - Inside Precision Medicine",
+          "source": "Inside Precision Medicine",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmViRFA5MDJWSGdFNFZSRkZPN05PSmVoSGVHT3ZkV2hkYVd6cXNRVG1kOU5Od2QwVW1zMmx0M0NMRWs5angzT2tDZURucnhfenVtTkhXYmFXUUdXMXU0cndLckxWa0g3MV9RZW5OLTg5N1FrX0Z1c0tFMk1PVEJua19jTG9RTXlqcjNqSkkzUklWR04tREotUXVwN1A0UGZYVUxRVm10YWJtTTk4dFNHVjZOcVVtN1Z5bkllQlhONG9ZeVdyMTF4RQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "The Truth About The Eli Lilly Erectile Dysfunction Drug: What Buyers Need To Know [OKMxQ54Fmwk] - Diario AS",
+          "source": "Diario AS",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPTE4zcGxlZkhQYUV5ajV0cXpBTUM5Y1R3TjI2ZEJmR0RjLVQyT3VzVGc0UkRFNVVSUmJjaUJZMUhURldQVGp0VDBkRmhLaDhqVVhpbXNFZjZvc3dCR01UbGp6WmlBcllGZTNTemxrLWE5WndSRTZHcXlta29sa0FkY0xOSnp5cW5TRnRVcjM1cTlVVEhMbWZTMmdQXzR6TEQyR3dlczdPSHhuaEhMWk1TUzZTTXczQVFqX1IxUDgxVk51VW1sLUN3Q25GUkVGekQ1ZGhfZ2ZhcFZCYnBlZldaaVdoY21LWEJ5VWRranJySk5CX0hUR3A0RXdrY2o1NDczdmdnSFlxV21jOVVlZTJCU3FuRGxoM1pnV2tYT1RTYmpGNWpVeWJEcnNDcThSVGRMTm1ZUHgyOA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cancer Drug Shortage Puts Treatment at Risk as India Balances Affordability and Supply - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTm5PdzE0VnlXenVHd3JQYWhKVjdXclZmVXFCMFFYcU42Y2xITWY1UFBfTThyOXhRRjJnQUNkcUY4QkpTeW9tbG53SWtNQzdRYnFhQ2J0ODM0WGR0NEhXUmNjbDBKWW9mZE9xcEFGR3Z5amY5Y2JKcEdKTXd2Q2c3QlV2Z184aXJLbnpONko3QXBYcWRFN0E3NDdvc0JoNmxVaDdqRTRMQ1Y0UWZVZTdoVjdPSFpOZElRdEZNb1FKZ1RSaFhzWmd2MEJaalhkREowamFMa1ppOE5pUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "비만치료제, 재창출, 항암·HIV 후보물질, 고지혈증 신약 승인 등 약물 자체를 둘러싼 뉴스가 넓게 퍼졌다. 허가와 임상 결과가 주가와 사업전략을 동시에 흔드는 전형적인 바이오 섹터 장세가 이어지고 있다.",
+      "summary_en": "Drug-level news is dominating the day: GLP-1, repurposing, oncology, HIV, and new approvals all moved together. Clinical outcomes and regulatory signals remain the main drivers of valuation and strategic positioning in the biotech space."
+    },
+    {
+      "topic": "관세·라벨링·원가 규제가 제약 제조 부담을 키움",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "Aranceles de Trump a medicamentos: ¿un golpe para la industria farmacéutica? - SuMédico",
+          "source": "SuMédico",
+          "importance": 55,
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWkFvMm1wYlRMQnBtR3FuaXFUY0xZMUhOOHpqdkg3eGtvOERWZVRwbGdMekVDM0lRMzVlQmstYnM4TDU2X1FlRjNUSnRtdDRpZ3RZRmJDb2c4MG42RlQzRXM0YThOV0t1WUtSX1htYkJjdUFMUEUwMjNTaC1LTVc5Ny1xcEJNd19KeHJjcXlKUm9CcHcwMHUta1ZyaE1iVXIxZndhTml4NFlQbURkb2VLV2lMNXUyLVdyMERfX0pUeTl1RF9zX1Z5d3JoU19tZXB0MEpQS1lad0dzQUVYMlVvX1JRNGM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Costaría a la industria farmacéutica 10 mil mdp nuevo esquema de etiquetado para medicamentos - vanguardia.com.mx",
+          "source": "vanguardia.com.mx",
+          "importance": 50,
+          "url": "https://vanguardia.com.mx/noticias/mexico/costaria-a-la-industria-farmaceutica-10-mil-mdp-nuevo-esquema-de-etiquetado-para-medicamentos-GD22565726"
+        },
+        {
+          "title": "Aranceles de Trump a medicamentos: ¿cómo afectarán a la industria farmacéutica? - La Silla Rota",
+          "source": "La Silla Rota",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEJ1NUFWdl9sMzI5SUhSOHVQWjZFb1JrSFVlZW5WeHVIUGIyTmtyT2RZM2dUdnUwY2RweW1BSGZHdE5Jd2hYZGM4LXIzYWF6ZWZxZzJGR05BNjhkSEQwdThOeExWZC1YcE1yUzRkN2FNTGVZTk84OGVYLW5QZzB2a3R1TkZ1RXVNMXFwTVlYTGNVZkpFWjRfd1JwNldQNzFPRkVXNnZXUWJmRlg0aFdKeTB3eXMzOHBpTXZjek9oNzQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "트럼프 관세와 멕시코의 라벨링 개편처럼 규제·무역 이슈가 제약 원가와 공급망을 직접 건드리고 있다. 현지 생산, 포장, 라벨링 비용까지 포함한 총원가 관리가 경쟁력의 핵심으로 부각된다.",
+      "summary_en": "Tariff and labeling-policy headlines show that manufacturing cost pressure is no longer abstract. Trade rules, packaging requirements, and supply-chain localization are becoming a direct determinant of pharma margins."
+    },
+    {
+      "topic": "Teva 투자 포지션과 자금 흐름이 시장심리를 재정렬",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Axiom Investment Management LLC Takes $965,000 Position in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+          "source": "MarketBeat",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY3YzWkNYSGtQZ2ZrUk5MY0o4MFV0Zm0tanR1OEFvV0E1QTd2TF9vc1d3ckVvZmVFNGtiYnlBRmpoTENMeVBGMzFwRWpFZmNkaWxHMlpKX1hlYjVrZ1p1a19pNDllM21MbFk5Ti1jNE5RTmNaWXVIOFFfSDdHX3BjVnB1eGkyVWlXM282SERFU3VBMUF4TU9CWUZzWHBkX1YwUFdzX2ZZVHpQWnZzQ1ZZVjg2dWFkRmhHTzV1ZnFTeV9aYlRWME0xVzJsRVEwTVFJSjBCZ3ZBTHk0RzZLY1IzT0piX09aLUFibUtLOVZR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Janus Henderson Group PLC Has $145.08 Million Position in Teva Pharmaceutical Industries Ltd. $TEVA - MarketBeat",
+          "source": "MarketBeat",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYS1PdzQtZUNKeXpSdno1OXJfOWJXalpaR2hYdjUyQXNFcXZJT2xuNkNkY3llWGJkVnYzWmNQdE1Qc1hNb215WFMyWHhwWkJDMW01dmJoUHRKaGRwaFI5WkRzd2NEQlItdkpzNHNqRUxxODlEVUxJeF9iejZLdFNma2VtQm5JTjczVXc3Mm0xc3ZGWG45Q25JeHRDaVdMMEVsaHFOUFl3amw0WERTQ2xuRjBNZVd2QTVwM1otOUl4OGNqMVExS0I0alFqMWx4OGpScm01bGF1RjY4dlViX1B2Mzd5RGk3bGhDS1Fpag?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "Teva를 둘러싼 기관투자자 포지션 뉴스가 반복되며 글로벌 제약주 자금 흐름이 다시 포착됐다. 실적보다도 포지셔닝과 수급이 먼저 반응하는 구간이라, 단기 변동성 확대 가능성이 높다.",
+      "summary_en": "Repeated institutional position updates around Teva point to a market where capital flows are being tracked as closely as fundamentals. In this environment, positioning news can trigger short-term moves even without a major operating update."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 4,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 8,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "German / 독일어",
+    "Dutch / 네덜란드어",
+    "Japanese / 일본어",
+    "Chinese Traditional / 대만",
+    "Persian / 페르시아어"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "환자경험평가 확대와 병원 서비스 경쟁",
+      "혁신형 제약기업·약가제도 개편이 제약사 전략을 재편",
+      "글로벌 신약 임상 성과와 FDA 규제 변동성",
+      "보험급여 확대와 고비용 치료 접근성 논쟁",
+      "전통의학과 다국어 시장의 제도화 흐름"
+    ],
+    "changes": [
+      "제네릭 약가 개편과 공급 불안이 전일보다 더 뚜렷하게 전면화됨",
+      "영문권은 FDA·GLP-1·허가·안전성 키워드가 지속적으로 상위권을 차지함",
+      "다국어권은 스페인어·베트남어 비중이 높고 독일어/일본어/페르시아어는 0건으로 남음"
+    ]
+  },
+  "connections": [
+    "약가·허가·임상 이슈가 한국어와 영어권 모두에서 동시에 관측되어 정책/시장 파급이 교차함",
+    "관세·라벨링 규제는 제조원가와 유통비를 함께 건드려 산업 섹터의 수익성 민감도를 높임"
+  ],
+  "generated_at": "2026-08-02T16:35:00+09:00"
+}
