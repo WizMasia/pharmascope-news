@@ -1,0 +1,699 @@
+{
+  "date": "2026-08-04",
+  "total_articles": 435,
+  "language_breakdown": {
+    "korean": {
+      "total": 195,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 23,
+        "의약단체": 14,
+        "의약관련정부기관": 24,
+        "의료현장": 25,
+        "약국·약사": 12,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 21
+      }
+    },
+    "english": {
+      "total": 136,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 11
+      }
+    },
+    "multilingual": {
+      "total": 104,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 22
+    },
+    {
+      "keyword": "급여",
+      "count": 11
+    },
+    {
+      "keyword": "약가",
+      "count": 7
+    },
+    {
+      "keyword": "한약",
+      "count": 7
+    },
+    {
+      "keyword": "수출",
+      "count": 7
+    },
+    {
+      "keyword": "비만",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 2
+    },
+    {
+      "keyword": "공급망",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 16
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "pricing",
+      "count": 4
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "서울경제",
+      "count": 4
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 4
+    },
+    {
+      "source": "더바이오",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "e-의료정보",
+      "count": 4
+    },
+    {
+      "source": "약업신문",
+      "count": 4
+    },
+    {
+      "source": "팜뉴스",
+      "count": 4
+    },
+    {
+      "source": "청년의사",
+      "count": 4
+    },
+    {
+      "source": "매일경제 마켓",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FC Bayern",
+      "count": 19
+    },
+    {
+      "source": "openPR.com",
+      "count": 16
+    },
+    {
+      "source": "thepharmaletter.com",
+      "count": 7
+    },
+    {
+      "source": "Diario AS",
+      "count": 5
+    },
+    {
+      "source": "MarketBeat",
+      "count": 4
+    },
+    {
+      "source": "Seoul Economic Daily",
+      "count": 3
+    },
+    {
+      "source": "Drug Topics",
+      "count": 3
+    },
+    {
+      "source": "Medical Xpress",
+      "count": 2
+    },
+    {
+      "source": "Business Wire",
+      "count": 2
+    },
+    {
+      "source": "Future Market Insights",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "제네릭 약가 개편이 공급·R&D·유통비를 동시에 압박",
+    "FDA 허가·바이오시밀러·디지털 규제가 규제 이슈를 끌어올림",
+    "비만치료제 CDMO 벨트가 한국 생산 전략의 중심으로 부상",
+    "실적·수급·기술료가 전통제약사의 재평가를 이끎",
+    "전통의학·지역 보건정책이 아시아 헬스케어 확장 신호를 남김"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "drug",
+        "bio",
+        "com",
+        "supreme",
+        "dash",
+        "development"
+      ],
+      "articles": [
+        {
+          "title": "Ever Supreme Bio's July Revenue Hits NT$99.25 Million, a 2025 High; Cell Therapy Drug Advances to Phase 2a Clinical Trial - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ever Supreme Bio's July Revenue Hits NT$99.25 Million, a 2025 High; Cell Therapy Drug Advances to Phase 2a Clinical Trial - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 03:16:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mMkFxcUoyVm1CS3lNNjRqejR0ZVFYMmRvQmRaQ1VQcW5URENrNTRTN1lOTUdFT0xFLTZjMW85aEJFYUFzbnNHRjlMSzFCRFY4bVJDLTh3RDZkSzNTTDBGWlV2SGpLb0htZEU0bWxqSWswNnJLWnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Racing to transform drug development with automation, Dash Bio nabs $30M - firstwordpharma.com",
+          "source": "firstwordpharma.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Racing to transform drug development with automation, Dash Bio nabs $30M - firstwordpharma.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 04 Aug 2026 03:01:57 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSHNBWlNweDlhaVY1NVoxclNVb3lTRFVqWnppVS1LelRCVTAxZWlKYmFDQnlXM1VHTjZqRGV0RmFnVEdUYjAzTDc4bDgteTM0bWpv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Ohio Bill Would Protect Pharmacies Offering Prescription Drug Cost Transparency Services - wowo.com",
+          "source": "wowo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ohio Bill Would Protect Pharmacies Offering Prescription Drug Cost Transparency Services - wowo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 04 Aug 2026 04:17:48 GMT",
+          "url": "https://wowo.com/ohio-bill-would-protect-pharmacies-offering-prescription-drug-cost-transparency-services/"
+        },
+        {
+          "title": "Dash Bio Raises $30M Series A to Accelerate Drug Development Timelines - BioSpace",
+          "source": "BioSpace",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Dash Bio Raises $30M Series A to Accelerate Drug Development Timelines - BioSpace | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 04 Aug 2026 02:09:57 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekdwZjVFV01Ca1BwYWdvYVVpaTlreExSN0FBa2t5S0ZmUVBOU2ZHd29nOW9fU1k4QlZ2YXpETnR1NkMwSGZ4QldKR25UYXVqTUF1OEkwRktMaGppUmNiTkdOX25zN1NuY29JbTNNM0ZVQ1psZ1FLX1plc3ZiUjdwSjlfOHBscC1JMUp2WkZidzVlVlVBZ3M5bkF2aFhHV3pWY0QxSDNnT2lzaUdYNkE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Supreme Court preserves broad access to abortion drug mifepristone - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Supreme Court preserves broad access to abortion drug mifepristone - ABC News - Breaking News, Latest News and Videos | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 03 Aug 2026 22:06:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWliLUNyeGxQQ1lLc2dFWTY5MFZNOTFJOFM3QTE2endheVE3SXphVTQtOEFyTmdlNkJzRzFjR1AtemlfYnFpZ3dvSEJqRk9kcVlVcDB2eG0zNXU4WXZNQ2QzdlZQX25GeUJNUmRqbnVwMzFXN2s4MkVSUG45bUl1UUJpNnVyeW9WQlF6OXliWm5udHdQYVYtUktZdmZ5dWQ1VzF6dHJGTVo2eFFhSThIRNIBtgFBVV95cUxORThoaGhuRDBaYk1vQmo0bTRWZ1BEM0MzZ1NGbEpqODl0dHlxMk8tUkxqVXlCYzF6d2dkOHVqX0NHMnNvakNBTnVuNGQzYklkR3lxcUhqUTZ0VzN1VjZFRWQ1R1F1S0Y3eTV6Y2pnRXV6LXBTUWQ3eDUwVHZNNEVVVENXNnhIUTBTQndfUTUzUVdoQ1VvZnBBQmtlSHdLME5vZ2k5YVhpcnhuUXptUDBpaG5TUU9CUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "대한약사회",
+        "한약",
+        "잠실역",
+        "전대",
+        "약국",
+        "팜뉴스"
+      ],
+      "articles": [
+        {
+          "title": "대한약사회, 잠실역 약국 전대 제동…\"외부 자본 개입 막아야\" - 약사공론",
+          "source": "약사공론",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "대한약사회, 잠실역 약국 전대 제동…\"외부 자본 개입 막아야\" - 약사공론 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 04 Aug 2026 03:02:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zWnFWNEcwcWhiODI0bFVCUkxhVzBiUHlSTUQxR0pKSFBmaVozWmQ2dk1qM2NveGRFWkxyR2E0Vmk0bHEwMkZSSXB0OFdZZWFoeHkwcUpESWt5bmJPUDJBcUhIZTJDYm5Qc21DMA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "대한약사회·복지부, 제4차 약정협의체 개최... 한약사 불법 행위 단속 강화 - 팜뉴스",
+          "source": "팜뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "대한약사회·복지부, 제4차 약정협의체 개최... | 한약사 불법 행위 단속 강화 - 팜뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 04 Aug 2026 01:00:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BZ2k1WVBoVVF4RHBwRl9uSEQ5X2FEYVl5dm5SZHBKRXRWTE9JbkRCOFY5M0M0U05SMVFFSlJsazFYc1hlaHROT2dabjg3RGtLQTJ4RXppeG9IVldUOS1Nc0p6N0tUbWhyeEc2eg?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "대한약사회, 서울교통공사에 잠실역 '약국 전대' 승인 불허 촉구 - 팜뉴스",
+          "source": "팜뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "대한약사회, 서울교통공사에 잠실역 '약국 전대' 승인 불허 촉구 - 팜뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 04 Aug 2026 03:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoc0l5ZHV4MkpfOFdhcW9qbVZiWjlxM3B3ZUZXQjhlcEl6aEo5RnhEQngtQXJuTXhOblAxV3M3VWRza3V3ZkY1NWU0VndBdFZPZzlyYndmd1dydUtIazEtVTY5ZTFQeWlGSDlhQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "cab",
+        "p-cab"
+      ],
+      "articles": [
+        {
+          "title": "Yuhan Targets P-CAB Market With Novel Drug and Generic Two-Track Strategy - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Yuhan Targets P-CAB Market With Novel Drug and Generic Two-Track Strategy - Seoul Economic Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 03 Aug 2026 22:01:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQnBPTHBZMXRfbVYyNGdWS1FBRnpYYlFFbDRmQzZLcEs5dEltb0t1Z3F5bC1pYjNZeEw3akRqbFcwaklTSjBCOHVHM3B4VERZTUZwWldhcUJoNXU2YWp5Q2ZPdjZHenVhd2dVNUlEUTEzeGZRQVdZWG5KYzkyeTNmSHBSMExTZ1dCZ2Y4MC1Sbkt2Tkg0RTBtbFdTVkM0TFVFOHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "유한양행, 신약·제네릭 ‘투트랙’으로 P-CAB 공략 - 서울경제",
+          "source": "서울경제",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "유한양행, 신약·제네릭 ‘투트랙’으로 P-CAB 공략 - 서울경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Mon, 03 Aug 2026 22:01:00 GMT",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9C%A0%ED%95%9C%EC%96%91%ED%96%89-%EC%8B%A0%EC%95%BD-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%88%AC%ED%8A%B8%EB%9E%99-%EC%9C%BC%EB%A1%9C-p-cab-%EA%B3%B5%EB%9E%B5/ar-AA29kVOi?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "thu",
+        "com",
+        "thuonghieucongluan"
+      ],
+      "articles": [
+        {
+          "title": "Cục Quản lý Dược xử phạt Dược phẩm Nam Hà do vi phạm về giá và lưu hành thuốc - thuonghieucongluan.com.vn",
+          "source": "thuonghieucongluan.com.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cục Quản lý Dược xử phạt Dược phẩm Nam Hà do vi phạm về giá và lưu hành thuốc - thuonghieucongluan.com.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 04 Aug 2026 03:02:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGprYm13R1g2MUpIRmR6VWd6NV9RVDFHM2lqTEw2elNPMDFxNTc4WnI1bmFyekJSQ01nWnJZMk5ZclliVHZKdzhCd3JKbXowNmxlVjFGbFVhWUUzTHZxQVItb3BuV0o1WmU3Y0FHZktiU0xvOUd0aG5NSEQwb3Q5dEJuSkFreThVMmlRTXRZcFpXQkZfbXZrbndDaXd1LXlNc0tSX3lzcG16N0ZjVTN4Ni1ZcVhDNC02UlU2NFIxSGo4UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cục Quản lý Dược xử phạt 3 công ty dược phẩm vi phạm về giá thuốc - thuonghieucongluan.com.vn",
+          "source": "thuonghieucongluan.com.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cục Quản lý Dược xử phạt 3 công ty dược phẩm vi phạm về giá thuốc - thuonghieucongluan.com.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 04 Aug 2026 03:27:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXVCaFpQQmlQVG5qN2J5ajYzV0RkOEs2RkRULTRsWE1XeHBibGFjN3V0anFzRTBTeXBIcl9QQkFsUXRieC1yeW81NmF6cTNKLWtIVmJqNWtLZXhPV01MdWYyWFNSRFBmaGoxc09SaVJ0SmstM1B1bVdZMUhEMDRHNWFzcWNDRE1DVUNVd0FLWFgtNTR5bmE4Y2VnWENaTFFzS212R3RuT0JQLWRzaVJDcVZ3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "thu",
+        "khai"
+      ],
+      "articles": [
+        {
+          "title": "Tổ chức Seminar khoa học “Kết hợp các kỹ thuật quang phổ dao động và trí tuệ nhân tạo để khai thác tối đa thông tin phục vụ các ứng dụng trong dược phẩm và y sinh” tại Trường Đại học Dược Hà Nội - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Tổ chức Seminar khoa học “Kết hợp các kỹ thuật quang phổ dao động và trí tuệ nhân tạo để khai thác tối đa thông tin phục vụ các ứng dụng trong dược phẩm và y sinh” tại Trường Đại học Dược Hà Nội - Vietnam.vn | 요약문 생성 불가 ",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 04 Aug 2026 02:32:40 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQV3hMUWluOUVJMkF2eGI0QnhQU3AwVTZZYmRCcDJCZ25ENFpjRWp2MnJtVm1HMURtNjVlYVlWSGI1MzNhNElhZTZGSnN3aDNONU1FSWNlY2hVckoySmZsRGFMeUV6QzZac1ZCWUNfY21hTWRRQUtMNGZueHVhc2Z4U0tlNmY4ME4yMmJhMG1sZ3BZZXFMc0VzM2d0RmpvbktKNnRRNUhGSndNd29PalFyeXJqQ1pRTWlkejNnN2xnYUpfT2hnWGEySjNWai1zbk1yRmRvTVQ1ekZrblVVaGRhOEhLUEhmbFMtZjFULXJpYlpLM2FWeHhDZEEyS1lLdk8zSTJ2Rmpxclc0c3JWWmI5cm5VZ3ZvbmFLY2tON0NEQ3I1TVkwazY0eU1pcjVoM3lRekdaNzY5Y2NBLXM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Kê khai không đúng giá thuốc thiết yếu, Dược phẩm Minh Dân bị xử phạt - Góc nhìn pháp lý",
+          "source": "Góc nhìn pháp lý",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Kê khai không đúng giá thuốc thiết yếu, Dược phẩm Minh Dân bị xử phạt - Góc nhìn pháp lý | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 04 Aug 2026 04:00:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUhOUnRYWEhnRFNIc0ZLRU5UR3RLamFwRHVLc2VmbUtoZGN1aTFJYWpxQVhkYUhaN250WHdGQjdnY1FSX0MwTG9HcUs0eHFyT2tNTkl5MmZYV2t2STZCX3pxRExzMTFqREwxY2NJX1pMSFp0SS0xc2ZoWm9RQzhwMFQzMGtVS2NZVVNMelNrWXcwTXZJTG85Mk5IZXFlTEJqMWwwWnc4UjFzM3NDcW81MmFzcHU4bFk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "선정",
+        "수련환경",
+        "전공의"
+      ],
+      "articles": [
+        {
+          "title": "전남대병원·화순전남대병원, ‘전공의 수련환경 혁신지원 사업’에 선정 - 병원신문",
+          "source": "병원신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "전남대병원·화순전남대병원, ‘전공의 수련환경 혁신지원 사업’에 선정 - 병원신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Tue, 04 Aug 2026 05:36:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3OXRWZE1MVG9wUE1XbVRnMWl1LTdKa0pBRGRRMUdMeHE2bmZ4UDBSNzdaUGIzMi1neU1jWDAzTDBSc0xaazdmTkdQMTYtZEw5XzVJNFgwZ29KdTVTR0o2YVIzSV9OaE1PakE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "세브란스병원, ‘전공의 수련환경 혁신 지원사업’ 선정...맞춤형 교육 강화 - 팍스경제TV",
+          "source": "팍스경제TV",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "세브란스병원, ‘전공의 수련환경 혁신 지원사업’ 선정...맞춤형 교육 강화 - 팍스경제TV | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Tue, 04 Aug 2026 00:03:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZmY3Z2MxN3ZxSVBrbUQ0ekF1M18tSmVmLXRFbVNWTk5RRnJneDZYVzltNUhYaVZXRkZnV2xNMGNVWUdxYXpNQXpBSjNlaHVha2RWRC1yeTZlalVadHBfeDhfQWwxU3g3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "도봉구",
+        "hpv",
+        "서울",
+        "확대",
+        "남아",
+        "무료"
+      ],
+      "articles": [
+        {
+          "title": "도봉구, 12세 남아 HPV 예방접종률 서울 1위…무료 접종 확대 효과",
+          "source": "잡포스트",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "도봉구, 12세 남아 HPV 예방접종률 서울 1위…무료 접종 확대 효과 | 도봉구, 12세 남아 HPV 예방접종률 서울 1위…무료 접종 확대 효과 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 기사의 본문 내용은 이 글자크기로 변경됩니다. | [잡포스트] 전진홍 기자 = 서울 도봉구가 12세 남아를 대상으로 한 사람유두종바이러스(HPV) 국가예방접종 지원이 확대된 이후 서울시 자치구 ",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "6시간",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=222944"
+        },
+        {
+          "title": "도봉구, 12세 남아 HPV 무료 예방접종 확대 두 달 만에 접종률 서울 1위",
+          "source": "문화일보 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "도봉구, 12세 남아 HPV 무료 예방접종 확대 두 달 만에 접종률 서울 1위 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "8시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%8F%84%EB%B4%89%EA%B5%AC-12%EC%84%B8-%EB%82%A8%EC%95%84-hpv-%EB%AC%B4%EB%A3%8C-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%ED%99%95%EB%8C%80-%EB%91%90-%EB%8B%AC-%EB%A7%8C%EC%97%90-%EC%A0%91%EC%A2%85%EB%A5%A0-%EC%84%9C%EC%9A%B8-1%EC%9C%84/ar-AA29kVLf?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "FDA",
+        "fda"
+      ],
+      "articles": [
+        {
+          "title": "HLB 파트너 항서제약, '리보세라닙 공장' 생산품 FDA 보완허가…규제 걸림돌 해소 기대 - PRESS9",
+          "source": "PRESS9",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "HLB 파트너 항서제약, '리보세라닙 공장' 생산품 FDA 보완허가…규제 걸림돌 해소 기대 - PRESS9 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Tue, 04 Aug 2026 05:54:18 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QZUcxMmVERWtld0FMUWdwS2tFMzRYcFJJVXIwZ1NWVjBQQWNvdGEtR2tSaHlRV0E4UU1FTDFMczVHaFZPTWprY2R1b2E4N3VlSTg2Y0k5bXRGM2lHUmlEb1BUdTI?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "인텔리전트 바이오 솔루션스, 지문 약물 스크리닝 '간섭 연구' 완료... \"하반기 FDA 승인 신청\" - 데이터투자",
+          "source": "데이터투자",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "인텔리전트 바이오 솔루션스, 지문 약물 스크리닝 '간섭 연구' 완료... | \"하반기 FDA 승인 신청\" - 데이터투자 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Mon, 03 Aug 2026 22:57:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzQjd2LXpueTJ6TmRBbHkzN25jUGNfRjBtd1JrXzM4c0xvMVl6TjZmZjdRc3liSGhqcVFSaEdZYWxqMUxoZUNnbUlBVllNdWt2X1gtWXAxVWdiUkFHaWFDZFVBdTVxcnpMNjN3OGw2bE9oZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 2,
+      "keywords": [
+        "obat",
+        "dan"
+      ],
+      "articles": [
+        {
+          "title": "BRIN Percepat Pengembangan Kandidat Obat Penyakit Infeksi dari Kekayaan Hayati Indonesia - BRIN - Badan Riset dan Inovasi Nasional",
+          "source": "BRIN - Badan Riset dan Inovasi Nasional",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "BRIN Percepat Pengembangan Kandidat Obat Penyakit Infeksi dari Kekayaan Hayati Indonesia - BRIN - Badan Riset dan Inovasi Nasional | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Tue, 04 Aug 2026 05:51:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN3hDYWF1UDZDZ2dmQ3JydDZ3OHQ2TkxydWtOUkY0QmJtR1hYTDFGbGVLX3NFMDhCb2pVM3dEUGgxdklCTW1OeTBxdml3U2tWNnlaLXhEQ3BET0pqa1B0VkVlWXZlOEVodDBFTkZOMlp5UkhGX3lvVkQzUDBGLXdGZWVBcU41T29HbnAzMmNWbVBmM2pwTElrbF9VczgxdmYxMGw4NEFtZmlUOHRLUnlYMThSR1hwdk1hSkxHYjdidnk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Dinkes P2KB Gorontalo Perkuat Manajemen Obat dan Vaksin - InfoPublik",
+          "source": "InfoPublik",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "Dinkes P2KB Gorontalo Perkuat Manajemen Obat dan Vaksin - InfoPublik | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Tue, 04 Aug 2026 01:37:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzFTMFNWc051VlRNSU0tSXFEVE1VeWJQajh6a0hXYm96UUo4WVd5V1R4QVp2dmUyc3FRX0N3M3VOd05KZ1VWMFp5bUVkUmt1d0ZmUXNYMTAwSVJrSEtuZC1rdFFqOFJBVFJFSmZKYlJOQ05DaWdsNUVVbl84SW01WHJCMHVZZ2d2dXlPeExIR0NPN2FsZ2laQUxMejZTMGVQd2dNMlZB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "منصور بن زايد: ما نملكه من إرث في الأعشاب والطب التقليدي قيمة وطنية تستحق التوثيق - الإمارات اليوم",
+      "source": "الإمارات اليوم",
+      "importance": 58,
+      "snippet": "منصور بن زايد: ما نملكه من إرث في الأعشاب والطب التقليدي قيمة وطنية تستحق التوثيق - الإمارات اليوم | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiT01rYVVuNTZ5X1FOSUZ6bWdyTU9tckZBMTNvak0yeXpSd0U1YndpWGNZTnE5Z1kxUEJsMGRnVzJwXzFCdVdyTHdlSU51d0hNQzR2VWlGMHdMb3I2RjNRZkp0dDZZa2otVXZ1R2d1TVk2SlRPclEyRdIBkwFBVV95cUxOVFBCZFJoRmtwSU1jR2EzYkt4MUtGbWJpd25sa29HVjM5aC1FM0k3b21LMmxUQUxMRmN0cFZtS1VxcVI4ZHU2bHp6TFJJd19RTWFjZURRVUdiaEktcnVzdmc0VkpTMERLVGdFTTRFYmVSQ29WeVVYSF85WVZST1RJOVVObjY4SjBpUHZEMUxlODN4aU0?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Indian Pharma Firms Pivot to Specialty Drugs for Higher Margins - Whalesbook",
+      "source": "Whalesbook",
+      "importance": 47,
+      "snippet": "Indian Pharma Firms Pivot to Specialty Drugs for Higher Margins - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU2NvSWFHT20weGdtRjlsOWN0T19iSnZsTXBaMWJVTV9ZYUpLekpSX0toMGlycWU2bm94eFp1WldXNDZHdUFLSDBQRlFrUHphbUt1b1c5QUJ3VWctUEtsOXJCajMzRVl5V3p2WjhsaE9yZGttc01Rak80WDRuNzlBanN6bngyQWhGTEZCWUtDQWdrZXUzeW1qN3lsNmx3RERwcE53Q3BXdWFaZTEtQ0lVX1p0UTh3UGhKSFVVTklKejBiZ1AwNkxMb3hhTmkwcldKUEpTNnFTUUF5VFFoQzhN?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "eli lilly lowers the price of its weight loss drug. - View VF3Xz9axu - FC Bayern",
+      "source": "FC Bayern",
+      "importance": 47,
+      "snippet": "eli lilly lowers the price of its weight loss drug. | - View VF3Xz9axu - FC Bayern | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNemN5S2gwMDRsSzYxenZsN19BZHVZOWYxNXkwY1VJMFZNeTgwU1pYdnBzMERBY2hkckQ2cE9BLWhMQ2tSR0tlRm5RUXJxMmhyNUQ1UTFYQzNiQ0JtbmgxeWtmdlVQYWFLT1hLRjZMaEhoY2NSbHY3UVRFWkE2NzMyYVBLN0dlN2RPdTlsZ3pvRHFBcUNlNk9VSDhNUHlVeG1wNXJnTUtSWU8zR1hQYmhQcHNEMVNzN01pQ3FXbVBPOUY1RGt2UmRwVWFmMzBCeXJjQUJUVlcybmdSVDFuVXlSYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Sun Pharmaceuticals And 4 Pharma Stocks Positioned to Benefit From ₹22,400 Lakh Cr Patent Expiry - Trade Brains",
+      "source": "Trade Brains",
+      "importance": 47,
+      "snippet": "Sun Pharmaceuticals And 4 Pharma Stocks Positioned to Benefit From ₹22,400 Lakh Cr Patent Expiry - Trade Brains | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmU1SklxZGhVYUxqWkIzc1M0ck5TYm9XcjRWUlNBdzU1VDlaQ2RxMFN2MFZSOTc2MkZuX1dPNnFMTmhNZlpTVkEzUHNSazBLaktKcWVyTmtTNFZMcnBkR3kyaVdIbGoxU3NDdlgwNC1uRVpYTEZfWWRBNERiLWFyOUF0Vld2OWVXVU41XzlYcW9fb1BSMFotdTZLRGx6T0FfWjlSOHpSVEpXNWM3Nm5fRFlJSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Xử phạt Công ty Cổ phần Dược phẩm Nam Hà - Góc nhìn pháp lý",
+      "source": "Góc nhìn pháp lý",
+      "importance": 47,
+      "snippet": "Xử phạt Công ty Cổ phần Dược phẩm Nam Hà - Góc nhìn pháp lý | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVTNzdlVEVkgxT1ZnRUNYb1g0UU00VWl2VDQ3SUtURjdoNzVaMkFFLUFlSzBrcHY3Z2JTX3J1UjNURVhuRGtsSWJqYUNNRFVRUmxjM1ZjV1JhWF9ZeGFOWEIwak5WRXFRVjR6SldkTTlMUFNRNVRXVnJqanU4TWFXWEpLM2EtZWhCMHgwNDJiSjBCZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Salicylic Acid Pharmaceutical Market to Double by 2035 on Dermatology API Demand - IndexBox",
+      "source": "IndexBox",
+      "importance": 42,
+      "snippet": "Salicylic Acid Pharmaceutical Market to Double by 2035 on Dermatology API Demand - IndexBox | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONXUya0VHRmx6bmRqN1NxandIazBKbk92TXpWRk9qVXF5dEs4YVVNNy1JaE9xNjUtVDh3by1lQTlsbDl0dmM0R24ybTB4RGVaeEdMUVBSNU1LZW9KU3Jhc1Vxcll4ZGQ1eENPMTc4VExQYm9Ed3lFTDZpRFVCSXJ5UkhXUFpsUDhhYkZTb25CLTh0eFYwUGx1UGdvZEZXSHNwOENTV2tGQ0NQbFkzMERz?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Dược phẩm Cửu Long: 4 người phụ trách chuyên môn bị phạt, buộc nộp lại chứng chỉ hành nghề - Tạp chí điện tử Thương Trường",
+      "source": "Tạp chí điện tử Thương Trường",
+      "importance": 42,
+      "snippet": "Dược phẩm Cửu Long: 4 người phụ trách chuyên môn bị phạt, buộc nộp lại chứng chỉ hành nghề - Tạp chí điện tử Thương Trường | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPblo4blcxVFlqeW1TMVpfZDBnN01CYjJ1akZzalF1eTJJeGNmMFREV05zTF9kVm5TWEFkOExFVlJUUF9PakNGLUJobjRWZFp5bkY2ZmZYWGVjejdZVjhQNzI0cTB5RGl6T0pGNjVYTmZlZXNQT0dqUkNNYzFONjNpbWlKSi1LWm1tMldRVmhXTWtUZi1IbldRbUdvaVVObVcyR2lJcTU5WmpjVXFucWFtanJZaFRRSk8yTWxyT2l4Wkp3akdkOXF1MGlQT05fUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Con gái 24 tuổi của Chủ tịch Nam A Bank nhận chức Phó tổng giám đốc Dược phẩm Bến Tre - VietnamFinance",
+      "source": "VietnamFinance",
+      "importance": 42,
+      "snippet": "Con gái 24 tuổi của Chủ tịch Nam A Bank nhận chức Phó tổng giám đốc Dược phẩm Bến Tre | Bán bảo hiểm kiểu Thái Sơn TCA: Cảnh báo thông tin lệch chuẩn, gây hệ lụy cho thị trường | Gọi dòng FDI vào giáo",
+      "url": "https://vietnamfinance.vn/chan-dung-con-gai-chu-tich-ngan-hang-nam-a-vua-nhan-chuc-pho-tong-giam-doc-duoc-pham-ben-tre-d148559.html"
+    },
+    {
+      "title": "Kế thừa tinh hoa y học cổ truyền kết hợp với y học hiện đại - baohungyen.vn",
+      "source": "baohungyen.vn",
+      "importance": 42,
+      "snippet": "Kế thừa tinh hoa y học cổ truyền kết hợp với y học hiện đại - baohungyen.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVVmNl9kdGhHZlVNM2ZJUmNQVXU5TGl5ZVlBek1QMVhpaTRmSVFhQm5WSURaNVV5blozeXFCc3hhUUdOa3dMZ1poV2FvU0E2a1VEUHp5TWF5SmZtVUdrTmRqUVY1NkI1ZWU0bWZoZld4dml1M0ZWYU9iOHJuUDQzMFg3TVpNWktLcFp4NGFHTU5CeEVqdDJXMXF3?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "[2024 한의약연감으로 본 한의의료의 현재 ②-한의사·한의의료기관] > 뉴스 - 한의신문",
+      "source": "한의신문",
+      "importance": 40,
+      "snippet": "[2024 한의약연감으로 본 한의의료의 현재 ②-한의사·한의의료기관] > 뉴스 - 한의신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsOFd4aGw5UVJ3UE16ZmMzSVRoTi1ZdFZFblU4TG5UREROdWFvRDB6dWU3U28xR2hIV3hONUZVSW9iOHBXYVk5Zmo5cU16SnEzRzVHY1hFZGRoS0xQWFRxU0JlVXpuN09pSUNkMFVZZlRiQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 3
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 4
+    }
+  ]
+}
