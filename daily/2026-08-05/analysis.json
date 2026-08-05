@@ -1,0 +1,310 @@
+{
+  "date": "2026-08-05",
+  "total_articles": 439,
+  "language_breakdown": {
+    "korean": {
+      "total": 191,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 16,
+        "의약관련정부기관": 25,
+        "의료현장": 22,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 150,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 25
+      }
+    },
+    "multilingual": {
+      "total": 98,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 6,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 5,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "FDA 수수료·허가 조정이 신약·바이오시밀러·제네릭 심사를 재편",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "FDA, 2027년 신약 허가심사료 1.7% 인하… 제네릭·의료기기는 올라 - it.chosun.com",
+          "source": "it.chosun.com",
+          "importance": 55,
+          "url": "https://it.chosun.com"
+        },
+        {
+          "title": "美 FDA, 내년 신약 허가심사 수수료 66억원…바이오시밀러 16억원 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "《FDA》美國 FDA 授予再鼎醫藥(9688 HK)靶向 DLL3 抗體藥物偶聯物 Zocilurtatug Pelitecan（Zoci）孤兒藥資格認定，用於治療神經內分泌癌（NEC） - genetinfo.com",
+          "source": "genetinfo.com",
+          "importance": 53,
+          "url": "https://www.genetinfo.com"
+        },
+        {
+          "title": "Hengrui Medicine's ADC Drug Gets Phase II Clinical Trial Approval, Cumulative R&D Investment Exceeds NT$1.5 Billion - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "url": "https://finance.biggo.com"
+        },
+        {
+          "title": "The Pursuit of Precision in Cancer Drug Development - Technology Networks",
+          "source": "Technology Networks",
+          "importance": 47,
+          "url": "https://www.technologynetworks.com"
+        }
+      ],
+      "summary_kr": "FDA의 2027년 사용자 부담금 조정이 신약·바이오시밀러는 완화하고 제네릭·의료기기·DMF는 압박하는 구조로 재설계되면서, 글로벌 규제비용과 시장 진입전략이 동시에 바뀌었다.",
+      "summary_en": "FDA user-fee revisions ease some innovative-drug pathways while tightening pressure on generics and devices, reshaping global market-entry economics and regulatory strategy.",
+      "emoji": "🏛️"
+    },
+    {
+      "topic": "빅파마 재편과 파이프라인 조정이 한국 바이오 자산가치를 흔듦",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 53,
+      "key_articles": [
+        {
+          "title": "Big pharma reshuffles split Korea biotech as assets race toward trials and sales - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "Pfizer halts MET-224o, D&D Pharmatech shares sink as strategy shifts - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "url": "https://biz.chosun.com"
+        },
+        {
+          "title": "Drugmakers don’t have ‘duty to innovate’, California court rules, backing Gilead in HIV drug litigation - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "importance": 47,
+          "url": "https://www.fiercepharma.com"
+        },
+        {
+          "title": "AI Can Invent Drugs Faster. It Still Has to Prove They Work. - Petrie-Flom Center",
+          "source": "Petrie-Flom Center",
+          "importance": 47,
+          "url": "https://petrieflom.law.harvard.edu"
+        },
+        {
+          "title": "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+          "source": "The Spectator",
+          "importance": 47,
+          "url": "https://spectator.com"
+        }
+      ],
+      "summary_kr": "빅파마의 자산 재배치, 임상 중단, 소송 판결, AI 신약 논쟁이 함께 움직이며 한국 바이오와 글로벌 파이프라인 가치평가에 다시 압력을 주고 있다.",
+      "summary_en": "Big-pharma portfolio reshuffles, trial halts, litigation, and the AI-drug-discovery debate are collectively re-pricing biotech risk and valuation.",
+      "emoji": "🏭"
+    },
+    {
+      "topic": "비만치료제 조기공급과 국내 신약 기대감이 시장을 끌어올림",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Eli Lilly will offer experimental obesity drug early to some patients. Who qualifies? - Houston Chronicle",
+          "source": "Houston Chronicle",
+          "importance": 47,
+          "url": "https://www.houstonchronicle.com"
+        },
+        {
+          "title": "Eli Lilly to offer early access to next-gen obesity drug to some patients - ET Pharma",
+          "source": "ET Pharma",
+          "importance": 47,
+          "url": "https://pharma.economictimes.indiatimes.com"
+        },
+        {
+          "title": "‘위고비’로 몸집 커진 종근당, 신약 개발 기대감도 쑥 [Why 바이오] - sedaily.com",
+          "source": "sedaily.com",
+          "importance": 45,
+          "url": "https://www.sedaily.com"
+        },
+        {
+          "title": "1000억 불면증 치료제 시장…‘오렉신 신약·디지털 치료기기’ 판도 바꾼다 - 약업신문",
+          "source": "약업신문",
+          "importance": 37,
+          "url": "http://m.yakup.com"
+        }
+      ],
+      "summary_kr": "비만 치료제의 조기 접근과 국내 기업의 비만/수면 신약 기대가 맞물리며, 대사질환·중추신경계 시장에서 접근성과 상업화 속도가 핵심 경쟁축으로 부상했다.",
+      "summary_en": "Early access to obesity therapies and rising Korean pipeline expectations are turning access speed and commercialization timing into key competitive axes in metabolic and CNS markets.",
+      "emoji": "💊"
+    },
+    {
+      "topic": "알테오젠·약국체인·환자경험평가가 국내 현장과 산업개편을 가속",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "알테오젠, 글로벌 제약사와 SC 플랫폼 기술이전 계약…최대 5219억 원 - sedaily.com",
+          "source": "sedaily.com",
+          "importance": 60,
+          "url": "https://www.sedaily.com"
+        },
+        {
+          "title": "알테오젠, 글로벌 제약사와 하이브로자임 플랫폼 기반 바이오의약품의 피하주사 제형 개발 및 상업화를 위한 독점 라이선스 계약 체결 - 한국경제",
+          "source": "한국경제",
+          "importance": 47,
+          "url": "https://www.hankyung.com"
+        },
+        {
+          "title": "No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌",
+          "source": "데일리팜",
+          "importance": 54,
+          "url": "https://www.dailypharm.com/user/news/341133"
+        },
+        {
+          "title": "가천대 길병원, 환자경험평가 1등급 획득",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415444"
+        },
+        {
+          "title": "대한약사회, 국가통합바이오빅데이터구축사업단과 협약…정밀약료 기반 마련 - kpanews.co.kr",
+          "source": "kpanews.co.kr",
+          "importance": 45,
+          "url": "https://www.kpanews.co.kr"
+        }
+      ],
+      "summary_kr": "알테오젠의 대형 기술이전과 약국 체인 브랜드 확대, 병원 환자경험평가 성과, 정밀약료 협약이 동시에 부각되며 국내 제약·유통·의료현장의 운영 모델을 밀어 올렸다.",
+      "summary_en": "Alteogen’s licensing wins, pharmacy-chain brand expansion, hospital patient-experience gains, and precision-pharmacy collaboration are jointly reshaping Korea’s pharma, retail, and care-delivery operating model.",
+      "emoji": "📋"
+    },
+    {
+      "topic": "전통의학과 다국어권 보건정책이 공공외교 축으로 확장",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "Geleneksel tıp, ulusal bir yumuşak güç haline gelmelidir. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Geleneksel tıp ve mutfak kültürü hakkında iki ulusal tanıtım filminin yayınlanması bekleniyor. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "Bölüm 1: Halk Hekimi, Doçent Doktor Dau Xuan Canh: 'Dünyadaki her başkentte bir Vietnam Geleneksel Tıp kliniğinin olduğu bir günün hayalini kuruyorum' - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "url": "https://www.vietnam.vn"
+        },
+        {
+          "title": "上海印发卫生健康发展“十五五”规划：推动中医药传承创新和中西医协同发展 - 21财经",
+          "source": "21财经",
+          "importance": 50,
+          "url": "https://m.21jingji.com"
+        },
+        {
+          "title": "מבקש משוב על טיוטת ההחלטה בנושא ביזור משימות ניהול מדינה מסוימות בתחום הרפואה המסורתית והרוקחות למשרד הבריאות. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "url": "https://www.vietnam.vn"
+        }
+      ],
+      "summary_kr": "베트남·중국·이스라엘권 기사에서 전통의학이 문화, 제도, 보건정책, 산업홍보를 잇는 도구로 다뤄지며 공공외교 성격이 강화됐다.",
+      "summary_en": "Across Vietnamese, Chinese, and Hebrew-language coverage, traditional medicine appears as a bridge between culture, policy, and industrial diplomacy.",
+      "emoji": "🌿"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1,
+      "significance": "low"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 18,
+      "en_count": 2,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "low"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 8,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "Japanese / 일본어 coverage remained at 0 articles",
+    "Persian / 페르시아어 coverage remained at 0 articles"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA user-fee changes and biosimilar/generic fee splits became a sharper regulatory theme.",
+      "Big-pharma portfolio reshuffling and clinical program resets intensified pressure on Korea-linked biotech names.",
+      "Traditional-medicine coverage broadened across Vietnamese, Chinese, and Hebrew-language sources."
+    ],
+    "changes": [
+      "Domestic pharma coverage is tilting toward licensing, market access, and pharmacy-retail structure.",
+      "Obesity/metabolic therapy remains a recurring commercial and access storyline."
+    ]
+  },
+  "connections": [
+    "FDA fee policy, biosimilar economics, and generic-device costs form one regulatory pricing corridor.",
+    "Obesity-drug access, Wegovy commentary, and insomnia-DTx coverage point to a broader metabolic/CNS market rotation.",
+    "Alteogen licensing, pharmacy-chain expansion, and precision-pharmacy cooperation cluster around Korean commercialization capacity."
+  ],
+  "generated_at": "2026-08-05T16:35:51.635114+09:00"
+}

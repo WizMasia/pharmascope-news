@@ -1,0 +1,809 @@
+{
+  "date": "2026-08-05",
+  "total_articles": 439,
+  "language_breakdown": {
+    "korean": {
+      "total": 191,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 16,
+        "의약관련정부기관": 25,
+        "의료현장": 22,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 150,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 25
+      }
+    },
+    "multilingual": {
+      "total": 98,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 6,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 5,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 23
+    },
+    {
+      "keyword": "허가",
+      "count": 18
+    },
+    {
+      "keyword": "급여",
+      "count": 16
+    },
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "수출",
+      "count": 11
+    },
+    {
+      "keyword": "심사",
+      "count": 10
+    },
+    {
+      "keyword": "약가",
+      "count": 8
+    },
+    {
+      "keyword": "제네릭",
+      "count": 6
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "식약처",
+      "count": 5
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 3
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "임상",
+      "count": 1
+    },
+    {
+      "keyword": "ADC",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 21
+    },
+    {
+      "keyword": "regulation",
+      "count": 14
+    },
+    {
+      "keyword": "safety",
+      "count": 6
+    },
+    {
+      "keyword": "obesity",
+      "count": 5
+    },
+    {
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "뉴스1",
+      "count": 7
+    },
+    {
+      "source": "데일리팜",
+      "count": 6
+    },
+    {
+      "source": "뉴시스",
+      "count": 6
+    },
+    {
+      "source": "연합뉴스",
+      "count": 5
+    },
+    {
+      "source": "의약뉴스",
+      "count": 5
+    },
+    {
+      "source": "데일리안",
+      "count": 4
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "kpanews.co.kr",
+      "count": 4
+    },
+    {
+      "source": "MEDI:GATE NEWS",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "FC Bayern",
+      "count": 29
+    },
+    {
+      "source": "Diario AS",
+      "count": 17
+    },
+    {
+      "source": "openPR.com",
+      "count": 15
+    },
+    {
+      "source": "simplywall.st",
+      "count": 3
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 2
+    },
+    {
+      "source": "Petrie-Flom Center",
+      "count": 2
+    },
+    {
+      "source": "Houston Chronicle",
+      "count": 2
+    },
+    {
+      "source": "Firstpost",
+      "count": 2
+    },
+    {
+      "source": "ET Pharma",
+      "count": 2
+    },
+    {
+      "source": "STAT",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 신약개발 자동화·접근성·법원 이슈가 투자 심리를 흔듦",
+    "대한약사회·잠실역 약국 전대 갈등이 약국 운영 이슈로 번짐",
+    "유한양행 P-CAB 투트랙 전략이 신약·제네릭 경쟁을 재점화",
+    "전공의 수련환경 혁신지원과 HPV 무료접종 확대가 현장·예방정책 축을 강화",
+    "베트남·인도네시아 약가 단속과 FDA 보완허가가 다국어권 규제 감시를 확장"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 19,
+      "keywords": [
+        "drug",
+        "com",
+        "market",
+        "fda",
+        "FDA",
+        "openpr"
+      ],
+      "articles": [
+        {
+          "title": "FDA, 2027년 신약 허가심사료 1.7% 인하… 제네릭·의료기기는 올라 - it.chosun.com",
+          "source": "it.chosun.com",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA, 2027년 신약 허가심사료 1.7% 인하… 제네릭·의료기기는 올라 | 현재 Internet Explorer 8이하 버전을 이용중이십니다. | 최신 브라우저(Browser) 사용을 권장드립니다! | 인터넷 익스플로러 11 | 미국 식품의약국(FDA)이 2027년 회계연도 신약 허가심사 수수료를 1.7% 인하한다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 05 Aug 2026 02:48:54 GMT",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167329"
+        },
+        {
+          "title": "美 FDA, 내년 신약 허가심사 수수료 66억원…바이오시밀러 16억원 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "美 FDA, 내년 신약 허가심사 수수료 66억원…바이오시밀러 16억원 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 05 Aug 2026 00:59:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMWdfYy05RFA1S015WjlQcXF2eE9kNkRVY0JIT0RpNG5rcnpxa2dlSlRWcWZpVlozMzZPakJVaVRaZ2h2cS1RZ01nQ1dXZzdPSFQ3aV9ORm1CZUNyWUFxZkkzaVBUY2JrZUgxY2ltNHBOVkNoQnp4dHNJaTlhd3lJT0l1bUhhSDDSAZsBQVVfeXFMUE1GcTRCWUVRYjByeWVWNWI5RF9MMzd0cTVRbndkSTk5NDA3ejZuTW4wZGIyY0JVX1lUQjhlVC1QbV9LYVhoRkhnd0FLOElYbkhseUJuOEk4R3kxb1l3NkJ5aGpjUXl3REN2WUFxWWVPVk9vbU5zaWF5Ty11VVBCQ05WYXgxTTFnUjZtRkozQm04b2tRUExfd2ZfZ28?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "《FDA》美國 FDA 授予再鼎醫藥(9688 HK)靶向 DLL3 抗體藥物偶聯物 Zocilurtatug Pelitecan（Zoci）孤兒藥資格認定，用於治療神經內分泌癌（NEC） - genetinfo.com",
+          "source": "genetinfo.com",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "《FDA》美國 FDA 授予再鼎醫藥(9688 HK)靶向 DLL3 抗體藥物偶聯物 Zocilurtatug Pelitecan（Zoci）孤兒藥資格認定，用於治療神經內分泌癌（NEC） - genetinfo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Chinese Traditional / 대만",
+          "time": "Tue, 04 Aug 2026 14:30:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmdzFwcE5ranBQcUJic2hadjNzekU1bWQwaWNJTlQ2VXpuTm94UzNyWUFaSEI5UzJ2R1BENm5YeUtwT2RBWGxRTVFoY1dGYUtvNm55WElCTnNwWldTdV9uR3h5dGZMMUhhb09ULQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "The Pursuit of Precision in Cancer Drug Development - Technology Networks",
+          "source": "Technology Networks",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Pursuit of Precision in Cancer Drug Development - Technology Networks | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 13:14:15 GMT",
+          "url": "https://www.technologynetworks.com/drug-discovery/articles/the-pursuit-of-precision-in-cancer-drug-development-415295"
+        },
+        {
+          "title": "EXCLUSIVE: Sunshine Biopharma Targets Canadian Market with New Women's Health Drug Approval - Benzinga",
+          "source": "Benzinga",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "EXCLUSIVE: Sunshine Biopharma Targets Canadian Market with New Women's Health Drug Approval | Something went wrong | Skip to navigation Skip to main content Skip to right column | EXCLUSIVE: Sunshine Biopharma Targets Ca",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 12:31:06 GMT",
+          "url": "https://uk.finance.yahoo.com/news/exclusive-sunshine-biopharma-targets-canadian-123106498.html"
+        },
+        {
+          "title": "Hengrui Medicine's ADC Drug Gets Phase II Clinical Trial Approval, Cumulative R&D Investment Exceeds NT$1.5 Billion - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Hengrui Medicine's ADC Drug Gets Phase II Clinical Trial Approval, Cumulative R&D Investment Exceeds NT$1.5 Billion - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 14:05:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iLWNjRWJBSzhqWnFDZncxUlZRMEtzYXR1Tll2U3F5b2pVU1JHMEx6Q0dWTWlKMUR2SC1YaG5FbndGeTliQ3pVN2l1ZmFxNkVIVFRJLVVzWTVqeFNfTE1IZDR6T3V3SERnb1BkZUxyeDF0OUpmc3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA peptide vote explained: Why these drugs are not approved yet - Firstpost",
+          "source": "Firstpost",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Access Denied | Access Denied | You don't have permission to access \"http://www.firstpost.com/lifestyle/fda-peptide-vote-explained-why-these-drugs-are-not-approved-yet-14035856.html\" on this server. | Reference #18.959fd",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 08:32:27 GMT",
+          "url": "https://www.firstpost.com/lifestyle/fda-peptide-vote-explained-why-these-drugs-are-not-approved-yet-14035856.html"
+        },
+        {
+          "title": "Viewpoint: Could the U.S. become dependent on China to develop critical new genetic and drug therapies? - Genetic Literacy Project",
+          "source": "Genetic Literacy Project",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Viewpoint: Could the U.S. | become dependent on China to develop critical new genetic and drug therapies? | - Genetic Literacy Project | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 05 Aug 2026 04:01:26 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZHpIa0trN2hfTlVVLTM5T1FaUG5kSHBseTg2bDlxQXNvWnczTFJRc0ktSFd5UlBDR0MydFhEUVhEU3N5WFcwX2tYOEoxZ003WTlCTGhTVEhqa205cERpSmVid1FET3BFOHF4NGFYamNkUFNaRzZBMjh6RzZnTlRqYmxpaDZXaWZyRXhWcDNGYVVuOVlSaURqMTFTZ2I5S21fT0w4bm5sc1J4OUJPZW9MSWVGR0hrN3FEWmRnc0JSS0JBQ1Vic1VjZTVJVk05aWo3MHFBRXQ1Nm5HWHZkTkJUSw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Leading Companies Enhancing Their Presence in the Nephrology Drugs Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Leading Companies Enhancing Their Presence in the Nephrology Drugs Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 12:00:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0ZkOUhYUk1ZdWVXbThpWmlXN28wcG5LbXJkOUltS0NtalBLSm15WmhQcnJGSzFFWmdGV1ZXT3BlNVlnWWdsMDh0SnpnQlJCUzlqNWhjblFsSVJZSXJqMzdZdUh5TU5wUUNSTWdMOXdBcnMtajVMeGVUdWUzVlJrR2pXRDZRdllnSEU0R2RPR09QNkNIUExqVnk2eVY?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Haixi Pharmaceuticals Advances Oral nAMD Drug HX9428 With U.S. FDA Nod and New China Trial - TipRanks",
+          "source": "TipRanks",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Haixi Pharmaceuticals Advances Oral nAMD Drug HX9428 With U.S. | FDA Nod and New China Trial - TipRanks | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 10:57:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRTJMSkIzZXdSTmJwYVJNeE1pMXBhckxpZHBNZG0zcEN4Wmw3TnNKblNWZVIzbFlfUHNrWEpxakpwSTZZRFFXM2RqY3B1R21WUENMbFhuMHRjUzN2N2gzQUduUVo2SGE2bVFJSDRIZEVyNVpNaDNEQk80bUxpRlFXQjVKaW1qbmZ1SWppMmc4THZPS2hkM1RDTDd1WEJOeFotSmZRWkgxY2RxTmdVNzFZRTV4MDFHNVBGOXN4cFgtUnFxZnVEVUpUOVlVTXMtaWRJWU95dktybXY5ckpxbjZWWWhmNktlek5UZXYxN0k2SkMtcTZYT2Jkb3JJZkJGQVJpREFJMjZqLUxPVDJPMC16ZE5VeFhrdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Liposome Drug Delivery Market to Reach USD 10.27 Billion by 2033, - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Liposome Drug Delivery Market to Reach USD 10.27 Billion by 2033, - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 10:28:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHVNNGVkakZGUWRWR0NjZ1lOWlo4aHdJSHVkOEpKZ292c1JncldydDJHS3dKZGhscF95aW0zNGFpMEM0cmN4ek5zTVVzZ2gzdWtHNUFIcUpNM0FkYUpkYlZUUFo5bjNxSmZlMXBKMDhFMzA1TFdsMUk2aHFvMnVPVzk2T2tPYkdheU8xUkxTa1VINGpvRFpnSGhqSWRmUlBiRkE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Leading Companies Fortify Their Roles in the Medulloblastoma Drug Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Leading Companies Fortify Their Roles in the Medulloblastoma Drug Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 10:42:37 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmRaU1dOU0lWV0FxRDNHeXZzeUI5T0tyZkpSOHBnVk1nTXpYRDdhbk9LMzVkb1FtbG84YVBnRkVFZzUtVmVKSmxIZHh3OUxmRGU5d2NhNS0tNmZUYlpxOTNlNlZTUE1EV2JmOUZnMnZnMkxkYzcxTW82Ym1leDZWTFE5ZmxLRUJZRVNSVlozcUdTQXNWbnZfeDQ5N0o?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Analysis of Segments and Major Growth Areas in the Myeloproliferative Disorders Drugs Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Analysis of Segments and Major Growth Areas in the Myeloproliferative Disorders Drugs Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 14:06:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZTBmSHlPNExCeF94MDEySWRpbnRzWTNZOW1LQ1ZsOHhyVWNMc1lZdEpWNTV5bkRrRHZCR0hSRGZEVGxvQXVFTk9aVjZneDE2RmhYQ2F2am9qZHo2LUY4VDNhd2twVVcwZDhYX0VJWFpEcndYWjByRkdia0RsVU9yVUNoLWFmRWF6RWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Market Trend Analysis: The Impact of Recent Advancements on the Insulin Drugs Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Market Trend Analysis: The Impact of Recent Advancements on the Insulin Drugs Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 10:48:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTi1ETUM5djdkbXFwR0RnR0tjMDdjUDFpYWVid0ozRDA4Ym9uOWY1YThQVHRqdkhROVkyZkF3OE1EVEUzWXdPXzZFcjdoOElZU0owLWpoQi1wakpmakRjYWdhajZaeU03ZG9TWDlScFEwbFdFOUszdnpjVXQ0NkVfOEhwc3BzS3lYYzhWZktmdDBnUDRrYUY2VFln?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Zydus Lifesciences Gets USFDA Nod For Imaging Drug With 6-Month Exclusivity - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Zydus Lifesciences Gets USFDA Nod For Imaging Drug With 6-Month Exclusivity - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 11:26:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaWpuRHN2UmlBRGk1SXB4d1RZOW9DQU9IUnA4NmhMUzRxcTNxc2U1ajBUOVJUZzRKWHJKbzNtWDFDbThDT3RzRXp0ekd4dktNUEppcmRLZFBJRW9aLTJVSlRJZGJDaXJVSXF6LS1BbEdNYW5RRDRiZFhHeXdDbWNZNDZYVFpybmpySmdTQTNqTmNBZzdCMzhNRWdSX1YyOHU2VHBYMmw4MlUyVS13SnNzRzFDaEJhVlZONjgydkhJbWc5cTNZQVN6OEFUd2pPRWlGWWtzcm1CMUQwOFdxVzgwRURHdmNFTGxKdHZaS1N4aw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pfizer Lifts 2026 Revenue Floor as Non-Covid Drug Sales Surge 18% - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pfizer Lifts 2026 Revenue Floor as Non-Covid Drug Sales Surge 18% - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 05 Aug 2026 03:35:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQ05sM0xRRWNLVVRPWVNPc1RLU2lRenljZ3VCODNiVGxTaUNaT0ZzVnlNNmNmckFyYmUzSGhhUy1sdVVuVnF0cHdOLVg2X2JhS2pKYmVlUm1HY0ozR2pweGtvekt3eXl4ZXVMcGV1cFk3aXZaX0E?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Triple drug combination shows promise against fatal blood cancer - Medical Xpress",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Triple drug combination shows promise against fatal blood cancer - Medical Xpress | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 15:40:08 GMT",
+          "url": "https://www.msn.com/en-us/science/biology/triple-drug-combination-shows-promise-against-fatal-blood-cancer/ar-AA29nGyO?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Analysis of Key Market Segments Influencing the Melanoma Drugs Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Analysis of Key Market Segments Influencing the Melanoma Drugs Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 13:52:18 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORlk2bGk5WnRwaDBHUzV0aXpYQm4zSE9lY3EzeW01eVFBTzhRNFZsSXJERU1FS0lYbXdBNjFoV1J5Si1ubjlQQ1JXd3hFcFMtei1fMlZoNUdoaTMxQnhSazU2U0x5NWtXNmh6cmR3aXhiOXpQQ2tOVUwzU2VmNkhaVWVjQkx3ay1zREhRelhRdE4ySEdLSDV2eV9qUk1ITUk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Press Release | Aug 04, 2026 — Hadassah Medical Organization, Hebrew University Part of $17 Million Global Phage Trial for Drug-Resistant Urinary Tract Infections - Hadassah | The Women's Zionist Organization of America",
+          "source": "Hadassah | The Women's Zionist Organization of America",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Press Release | Aug 04, 2026 — Hadassah Medical Organization, Hebrew University Part of $17 Million Global Phage Trial for Drug-Resistant Urinary Tract Infections - Hadassah | The Women's Zionist Organization of America ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 15:26:18 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPcUs3bFAxcXhFRzg1NHpQZXc5eGFkVjFwT0M5ODlqMXBLRzJaVllHc0NDTUJ0bU1iYm1veWJtTU5fQnNUUFdYMTB3U1N6bmxYMV9yN3Y0R05pcTQtOVpZc3h0NEJKdlVza2NLQnc5WWNIYl90M2VZYUs1d2JsUEdISmtlanByTXNMdjh2WEFhSzROQ05aUGtoSS1KamdhTk5oQlZ6WnBtOWFvU3Z5bldHdUtmR0hKV2NYeUpCRVVfX19kR21vcl94OVFGUTdqQXFMSGNpM2JlVVZ5dFc4TWxBUEdDUVlQQmFDTXFOMGlhTWVlS0trR3EyaERPUFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "pharma",
+        "big",
+        "biotech"
+      ],
+      "articles": [
+        {
+          "title": "Big pharma reshuffles split Korea biotech as assets race toward trials and sales - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Big pharma reshuffles split Korea biotech as assets race toward trials and sales - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 05 Aug 2026 02:10:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFVndEhiRHlLZ2EzenpBa3JVWnJqN1Y1LUpZNmktdDQ4allpMTg4dldob0d1MHEtSDlFWXVmcEVTTnYwSUZsY1FHb0E5UGxITGhoeWZKc2Y1RnE0M0RBeG1XQmhDU3ZVRm05aENoNWhJT0VoLVo3VmpXYTgzeHNQSHZkQVE1aG5Pdm1iVXcwRWxXUWRO0gGUAUFVX3lxTFBUVWd0SGJEeUtnYTN6ekFrclVacmo3VjUtSlk2aS10NDhqWWkxODh2V2hvR3UwcS1IOUVZdWZwRVNOdjBJRmxjUUdvQTlQbEhMaGh5ZkpzZjVGcTQzREF4bVdCaENTdlVGbTloQ2g1aElPRWgtWjdWaldhODN4c1BIdmRBUTVobk92bWJVdzBFbFdRZE4?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+          "source": "The Spectator",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Big Pharma wants to sell you psychedelic drugs - The Spectator | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 11:40:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak1LNnV1UEFwSEZ2RjlsTlNQTlY5R0ZmMXBCMVRqUkRNSEV1UGoyTC1hY24tcXRyX3pUYm9WQjVlTlpQQ3ZYUDdxVXJRQkhUWTd3dnpMa0NfUmlGOVRZdHQ0OF9JX2VlcDFWd280LWxMalJvazBiaWU4TWlvQmZfSFZMSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Transport, pharma and biotech as industry become India’s biggest research investors - The Hindu",
+          "source": "The Hindu",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Transport, pharma and biotech as industry become India’s biggest research investors - The Hindu | You are logged in | You don’t have any Active Subscription. | Subscribe now | Subscribed with another email?",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 04 Aug 2026 16:25:54 GMT",
+          "url": "https://www.thehindu.com/business/Economy/transport-pharma-and-biotech-as-industry-become-indias-biggest-research-investors/article71305502.ece"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "vietnam",
+        "geleneksel",
+        "ulusal",
+        "bir"
+      ],
+      "articles": [
+        {
+          "title": "Geleneksel tıp, ulusal bir yumuşak güç haline gelmelidir. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Geleneksel tıp, ulusal bir yumuşak güç haline gelmelidir. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Turkish / 터키어",
+          "time": "Wed, 05 Aug 2026 00:55:49 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS25KdVZnM0RfXzM0a3dqb1NvVHdkaDlvSFdjWW5IYmFNOVpfSHlFMlVSZURBUTVSSUFrNHpMYnI0dlMxdm9pNUJuU3dnVXM1bDk2RkJBYUdVUzZZX3VwZ3F1eWVhUm9vOWRzUWZxVEFkYWN6bXplaHloQVVNRGhYUUh6OA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Geleneksel tıp ve mutfak kültürü hakkında iki ulusal tanıtım filminin yayınlanması bekleniyor. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Geleneksel tıp ve mutfak kültürü hakkında iki ulusal tanıtım filminin yayınlanması bekleniyor. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Turkish / 터키어",
+          "time": "Wed, 05 Aug 2026 03:50:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTldRR2VBZGxNejdwX2I0XzEwTlpNcFo4SUpVa1pmcUNmSlVnZ1lobWVBamd6NzBEbjNlLTVHd01qS2txallXd20tT3dKY0VsaW5IQk1IaWxkOFgwdG9YLXQtbFpjQkd2VjlTa1JIbDRNRDRPckR6WElyQTBYd0ZDVWVvVjFMZGdlSThQQWVoZnIxbDJKXzBtcGVWRzdWUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Bölüm 1: Halk Hekimi, Doçent Doktor Dau Xuan Canh: 'Dünyadaki her başkentte bir Vietnam Geleneksel Tıp kliniğinin olduğu bir günün hayalini kuruyorum' - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Bölüm 1: Halk Hekimi, Doçent Doktor Dau Xuan Canh: 'Dünyadaki her başkentte bir Vietnam Geleneksel Tıp kliniğinin olduğu bir günün hayalini kuruyorum' - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Turkish / 터키어",
+          "time": "Wed, 05 Aug 2026 01:09:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeDUtbXR4R1J2N3VFRUJNLWNfclhUampYX1NHai1wLW1YazV6TWNKdWZLeVRTWDR1c0xtVWFMakdNN2JwVlU1TFM2dTBZalRnei1fVWEyOHNaY0oySTlCWDlTazJnQU8xMUhXa3gyVk9IM2NuQmZqLVd3bUYxZXp5NjNLeF81dmtmQ3NoejdwSXk1bEhxYzNfUFFiMG5KU1BKbndoaGR3N0taVms3TGdMOW45Q2t0VVVVR3BlNzV2QXBQbG9jRUpRVkFlaVlaZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "drug",
+        "pharma",
+        "obesity",
+        "eli",
+        "some",
+        "offer",
+        "lilly",
+        "early",
+        "patients"
+      ],
+      "articles": [
+        {
+          "title": "Drugmakers don’t have ‘duty to innovate’, California court rules, backing Gilead in HIV drug litigation - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drugmakers don’t have ‘duty to innovate’, California court rules, backing Gilead in HIV drug litigation - Fierce Pharma | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 19:00:00 GMT",
+          "url": "https://www.fiercepharma.com/pharma/drugmakers-dont-have-duty-innovate-california-supreme-court-rules-backing-gilead-after-years"
+        },
+        {
+          "title": "Eli Lilly will offer experimental obesity drug early to some patients. Who qualifies? - Houston Chronicle",
+          "source": "Houston Chronicle",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Eli Lilly will offer experimental obesity drug early to some patients. | Who qualifies? | - Houston Chronicle | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 19:37:30 GMT",
+          "url": "https://www.msn.com/en-us/health/diseases-and-conditions/eli-lilly-will-offer-experimental-obesity-drug-early-to-some-patients-who-qualifies/ar-AA29pkFI?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Eli Lilly to offer early access to next-gen obesity drug to some patients - ET Pharma",
+          "source": "ET Pharma",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Eli Lilly to offer early access to next-gen obesity drug to some patients - ET Pharma | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 08:08:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMUhGRGNhcko0T0NSUmtDSy1Dem0zTGM0WFc5SlpUUTNCMFVTX0NRcV9kVlVXZENYcUkwLUN5X1MydDRzRVhRdGRWSGpwN3lXYTB2MWROZHFVMnJBQmdJUDlPMmJFNVB1V2JuQVVKRGw0Wkl2ODJwNnh1aUlCRjh2LWV6MVhxVTNyYkt4QWEwWnhiOUt3YlZNbWlzNVJ3aGlwdEhDVVliXzc0ZEVTUEZNT0xMUGRaME9La1UtR3BZdHVUczhFZFhaNktiOUFJOGh5b1l2NTg5LXVnTi1NUnhMeEY1eXJ5azjSAecBQVVfeXFMTjFIRkRjYXJKNE9DUlJrQ0stQ3ptM0xjNFhXOUpaVFEzQjBVU19DUXFfZFZVV2RDWHFJMC1DeV9TMnQ0c0VYUXRkVkhqcDd5V2EwdjFkTmRxVTJyQUJnSVA5TzJiRTVQdVdibkFVSkRsNFpJdjgycDZ4dWlJQkY4di1lejFYcVUzcmJLeEFhMFp4YjlLd2JWTW1pczVSd2hpcHRIQ1VZYl83NGRFU1BGTU9MTFBkWjBPS2tVLUdwWXR1VHM4RWRYWjZLYjlBSThoeW9ZdjU4OS11Z04tTVJ4THhGNXlyeWs4?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "계약",
+        "플랫폼",
+        "제약사와",
+        "알테오젠",
+        "글로벌"
+      ],
+      "articles": [
+        {
+          "title": "알테오젠, 글로벌 제약사와 SC 플랫폼 기술이전 계약…최대 5219억 원 - sedaily.com",
+          "source": "sedaily.com",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "알테오젠, 글로벌 제약사와 SC 플랫폼 기술이전 계약…최대 5219억 원 - sedaily.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Wed, 05 Aug 2026 00:03:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40Q1FVUF9la0Vud1FiWE1qSDVwOWQ3RmZIRUt5eXZaWHp2ZjZjYkItbWgzcVBZU3BWSEpFbmFWM1VfYU1XRlBJR2ZBelFGQUQ4WXp6MHZ4cGEwU2Q0cUhvTElKVEhGd9IBU0FVX3lxTFBfc1FmS05rR1U4d2x6QUV5Tk9PRlVhSGthcGphMC1MYkhkS3ZKQjJYd0JFMllFa0tsMVBfbTJfZV9tZDhiX1NDMVhZZnZWWUk2VGZR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "알테오젠, 글로벌 제약사와 하이브로자임 플랫폼 기반 바이오의약품의 피하주사 제형 개발 및 상업화를 위한 독점 라이선스 계약 체결 - 한국경제",
+          "source": "한국경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "알테오젠, 글로벌 제약사와 하이브로자임 플랫폼 기반 바이오의약품의 피하주사 제형 개발 및 상업화를 위한 독점 라이선스 계약 체결 | 한국경제 | ADVERTISEMENT | AI를 넘어서는 성공투자 | 알테오젠, 글로벌 제약사와 하이브로자임 플랫폼 기반 바이오의약품의 피하주사 제형 개발 및 상업화를 위한 독점 라이선스 계약 체결 | 입력 2026.08.05 07:53",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Tue, 04 Aug 2026 22:53:13 GMT",
+          "url": "https://www.hankyung.com/article/202608055281P"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "drug",
+        "therapy"
+      ],
+      "articles": [
+        {
+          "title": "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "New autologous T cell therapy offers hope for children with brain tumors - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 19:55:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkYtRUpDc1Q1YnNaaE5SNXBqaVhLVU12Wk1oaWl6WExTTC1HQnlodzBLTC16OTZOaDNjcFRZS2Y5OEV3X09DZVZobkFfTGRqeEpISGY2VVdPb2JTa2lNWUczdUJzRlZsRFdvYXBpbjB4ajRaTXU5TV93dWZxM3RTNWQ4Rks5TUpHTVRtNG5SVGo2d1lQWVdFV09Na3JIdksxVDRmVUo0OFkySVdMM01wZjRB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Why inherited retinal disease treatment requires more than gene therapy - Drug Target Review",
+          "source": "Drug Target Review",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Can mutation-agnostic therapies expand treatment options for inherited retinal diseases? | | Drug Target Review | Your browser is not supported | Sorry but it looks as if your browser is out of date. | To get the best ex",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 04 Aug 2026 08:55:59 GMT",
+          "url": "https://www.drugtargetreview.com/home/why-inherited-retinal-disease-treatment-requires-more-than-gene-therapy/2136144.article"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "pharmaceutical",
+        "market"
+      ],
+      "articles": [
+        {
+          "title": "Longevity Wellness Pharmaceutical Market - Future Market Insights",
+          "source": "Future Market Insights",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Longevity Wellness Pharmaceutical Market - Future Market Insights | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 04 Aug 2026 11:55:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTlU0RXN6LWM5OThWc0xscHBTWHVqbDFadUJiT2dMbXVScmpzNkhVQzhIQy0yZHJSdHRSUDFNcloxdC04VUNpcDRSdUs0d3RIWm9SM0sxZUhDTDZ5TGl5Z19vQWtMN00xbkV2ZDFsc1RaNkhIVFVGMEFva00xUUxmOE1Bb2xMTXA5RFd2M3F3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "GCC pharmaceutical market tops $30bn as UAE, Saudi Arabia drive life sciences boom - Arabian Business",
+          "source": "Arabian Business",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "GCC pharmaceutical market tops $30bn as UAE, Saudi Arabia drive life sciences boom - Arabian Business | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 04 Aug 2026 20:00:30 GMT",
+          "url": "https://www.arabianbusiness.com/business/healthcare/gcc-pharmaceutical-market-uae-saudi-arabia-jll"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Pfizer halts MET-224o, D&D Pharmatech shares sink as strategy shifts - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 60,
+      "snippet": "Pfizer halts MET-224o, D&D Pharmatech shares sink as strategy shifts - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDJDTUd5M2o2cUpnYW5YOGlwQUxwUmpPQkVXSnZfRDN3c2ozQ1AwZ1p4ZzhieDBCLUFGT3BNeVZ0eVlCUHFkVW9HUW1kc1l5MWhBeElNb2tONWdSNjd3YzRvUmFxdUQ3WEptNWlldW5rZHhjM0toUXFadGpienh0NXRFUmZ2b1BZVDFwcm5lT2ZfMWh30gGUAUFVX3lxTE1wMkNNR3kzajZxSmdhblg4aXBBTHBSak9CRVdKdl9EM3dzajNDUDBnWnhnOGJ4MEItQUZPcE15VnR5WUJQcWRVb0dRbWRzWXkxaEF4SU1va041Z1I2N3djNG9SYXF1RDdYSm01aWV1bmtkeGMzS2hRcVp0amJ6eHQ1dEVSZnZvUFlUMXBybmVPZl8xaHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "عُقدت الندوة العلمية بعنوان \"الجمع بين تقنيات قياس الطيف التذبذبي والذكاء الاصطناعي لزيادة استخراج المعلومات إلى أقصى حد للتطبيقات في المستحضرات الصيدلانية والعلوم الطبية الحيوية\" في جامعة هانوي للصيدلة. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "عُقدت الندوة العلمية بعنوان \"الجمع بين تقنيات قياس الطيف التذبذبي والذكاء الاصطناعي لزيادة استخراج المعلومات إلى أقصى حد للتطبيقات في المستحضرات الصيدلانية والعلوم الطبية الحيوية\" في جامعة هانوي للصيد",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQUklvZTVYQnZsSXk2TTRNS0tzZkJUVGxfZ1l6QnM5SkloZjcxQlJFN3BLOGtaRXZOYkhvMm8zUXQwdl9wTkoxS191bVZ6dWZzVE1rel9RSG9RUHZDd2JwNngxZ09NeXR5TXJQUFcxZ0pUMDFNOXB1clp5c2dHai1kQVY3MnVhSlFoWDRuNDdlb0N0MFRJZ05INjZ3V0Z4UThMak5MLXlIWEJvb2RqYlFwMlR0aVF5dWRmSXBYYVVrc0tOMkdrbS1oNVNOdFFfNndneFdON3RNa2k3XzFSSFlMWGticGwxQm04ald1VjYxR094eFVTZW55R25rQ29IVnl5Vkh3RzkxZGdCcTI2N3ZCWFdkZ0w5Umd0VHJvY2NYQnhxMzlJcWw4WGNYZ2ZkT3RPUXRwTU03QVY1aXJUNlRB?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "가천대 길병원, 환자경험평가 1등급 획득",
+      "source": "메디파나 뉴스",
+      "importance": 56,
+      "snippet": "가천대 길병원, 환자경험평가 1등급 획득 | 가천대 길병원, 환자경험평가 1등급 획득 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 입력 2026.08.03 17:43 | 기사의 본문 내용은 이 글자크기로 변경됩니다.",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=415444"
+    },
+    {
+      "title": "Najcenniejszy koncern farmaceutyczny świata w Polsce testuje leki. „Od onkologii po otyłość” - pb.pl",
+      "source": "pb.pl",
+      "importance": 55,
+      "snippet": "Najcenniejszy koncern farmaceutyczny świata w Polsce testuje leki. | Od onkologii po otyłość - Puls Biznesu - pb.pl | Amerykański koncern Eli Lilly notuje gigantyczne zyski ze sprzedaży leków na otyło",
+      "url": "https://www.pb.pl/najcenniejszy-koncern-farmaceutyczny-swiata-w-polsce-testuje-leki-od-onkologii-po-otylosc-1265153"
+    },
+    {
+      "title": "No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌",
+      "source": "데일리팜",
+      "importance": 54,
+      "snippet": "[데일리팜]No.1 약국체인의 승부수? | 온누리 메가-프라임 확장 시끌 | 약국법률 법무법인 규원 | 약국운영네데한법적해석응구함 | 노동자의 날 수당계산은 어떻게 되나요",
+      "url": "https://www.dailypharm.com/user/news/341133"
+    },
+    {
+      "title": "上海印发卫生健康发展“十五五”规划：推动中医药传承创新和中西医协同发展 - 21财经",
+      "source": "21财经",
+      "importance": 50,
+      "snippet": "上海印发卫生健康发展“十五五”规划：推动中医药传承创新和中西医协同发展 - 21财经 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUJUMXZ0ZUtwem1XdThFS3NkS3RtR05SUnFITUVRUFpZSi1nWUtTRVF3clZ0OHNndkxQU0JHM3V5ejhMMmhPeGR4Z2c1Um00UVFGdEc4dWh6WlU0U1dnYjNPS0Y4cFRTLXJDVExOaEVpZUtjY3lpTC1HWS01RUVXcmp0cVJ6SmtuYlNSMA?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Gejolak Timur Tengah Tekan Industri Farmasi, Kimia Farma Perkuat Produksi Bahan Baku Lokal - Tribunnews.com",
+      "source": "Tribunnews.com",
+      "importance": 50,
+      "snippet": "Gejolak Timur Tengah Tekan Industri Farmasi, Kimia Farma Perkuat Produksi Bahan Baku Lokal - Tribunnews.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/id-id/ekonomi/ekonomi/gejolak-timur-tengah-tekan-industri-farmasi-kimia-farma-perkuat-produksi-bahan-baku-lokal/ar-AA29qpnh?ocid=BingNewsVerp"
+    },
+    {
+      "title": "מוסטפא: תרופות למחלות כרוניות הן בעדיפות עליונה; הממשלה מאיצה את אספקת התרופות למרות המשבר הכספי - yaffaps.com",
+      "source": "yaffaps.com",
+      "importance": 50,
+      "snippet": "מוסטפא: תרופות למחלות כרוניות הן בעדיפות עליונה; הממשלה מאיצה את אספקת התרופות למרות המשבר הכספי - yaffaps.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mNFRIQm1sdW5BMlhUUWxNdzNPendNOEFmXzZvREFSZk04YmltZV9hR1FXLW5JVEtiV0cwejhCVGNvZHdjZkRkdFlYdDRJZllY?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "מבקש משוב על טיוטת ההחלטה בנושא ביזור משימות ניהול מדינה מסוימות בתחום הרפואה המסורתית והרוקחות למשרד הבריאות. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "מבקש משוב על טיוטת ההחלטה בנושא ביזור משימות ניהול מדינה מסוימות בתחום הרפואה המסורתית והרוקחות למשרד הבריאות. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc1lQTzNTTGZPR1NScnlreERQNERMVzNuT05HUnpwLVVkV1pJWW5BNDRwR1Zfd1VfNDVTYlJENmhzRk5IbVhNN2R6UHRlVWNiYTFadHJqTS1FOEM4TWRfa0h0SzNpbkQ4Q201V1hRVEVESUp2cHlWSko1Y2F5M2U2amhuQ2h5NTB5WnFMM0xXNk55bTBpM1UxekVQaVhNMW5YbFhicmw5QUh3UWVmQWh6eEpnTXI2dVVxWkUyYmRPUUNWVzRvNHh0OU9iU3ZzS0NDS3ZtYjV4U0dYenlYWkJ2WXdWMFdkUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "AI Can Invent Drugs Faster. It Still Has to Prove They Work. - Petrie-Flom Center",
+      "source": "Petrie-Flom Center",
+      "importance": 47,
+      "snippet": "AI Can Invent Drugs Faster. | It Still Has to Prove They Work. | - Petrie-Flom Center | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUE51ZGJWdU5yWDZYUnlqQldwY0FPbTVQdEdTaWo1RFFsbE9yUFIzTU9fSm9Nd2lKSFpTOUxhLUZPNjlnNTYwWU5MeEZRNWZLTWZPYlo1T3dkTnNVTHllLVQ2dzJQZ1NYRUNEMDVRQmVPWHZad1JHd0xERmJxNnlTV3BUZUJDX3lpWk8xcXFzWlFZMDV5LXhIbXl0RmR4MnhfOFRLZktGUEU?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 18,
+      "en_count": 2
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 8,
+      "en_count": 2
+    }
+  ]
+}
