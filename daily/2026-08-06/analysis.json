@@ -1,0 +1,299 @@
+{
+  "date": "2026-08-06",
+  "total_articles": 423,
+  "language_breakdown": {
+    "korean": {
+      "total": 200,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 24,
+        "의약단체": 13,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 11,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 94,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 6,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 신약 허가·임상·승인이 개발 속도를 끌어올림",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 50,
+      "key_articles": [
+        {
+          "title": "Damora Therapeutics, Inc. Common Stock (DMRA) FDA Approvals, PDUFA Dates & Drug Alerts 2026 - MarketBeat",
+          "source": "MarketBeat",
+          "importance": 47,
+          "url": "https://www.marketbeat.com"
+        },
+        {
+          "title": "Let the orexin market begin: Takeda snags FDA approval for narcolepsy type 1 drug - Endpoints News",
+          "source": "Endpoints News",
+          "importance": 61,
+          "url": "https://endpoints.news"
+        },
+        {
+          "title": "Some patients to score new super-effective 'Triple G' weight loss drug — before FDA approval - New York Post",
+          "source": "New York Post",
+          "importance": 47,
+          "url": "https://www.msn.com/en-us/money/general/some-patients-to-score-new-super-effective-triple-g-weight-loss-drug-before-fda-approval/ar-AA29sB3o?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Takeda wins FDA approval for first drug to treat full range of narcolepsy type 1 symptoms - PharmaLive",
+          "source": "PharmaLive",
+          "importance": 47,
+          "url": "https://www.pharmalive.com"
+        },
+        {
+          "title": "FDA Names Zocilurtatug Pelitecan Orphan Drug in Neuroendocrine Carcinomas - Targeted Oncology",
+          "source": "Targeted Oncology",
+          "importance": 47,
+          "url": "https://www.targetedonc.com"
+        }
+      ],
+      "summary_kr": "FDA 허가·승인, 임상 진전, 적응증 확대 뉴스가 한데 묶이며 글로벌 신약 개발의 의사결정 속도가 빨라졌다.",
+      "summary_en": "FDA approvals, trial progress, and indication-expansion stories are accelerating decision-making across global drug development.",
+      "emoji": "🏛️"
+    },
+    {
+      "topic": "제조·투자·파이프라인 재편이 상업화 지형을 바꿈",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 50,
+      "key_articles": [
+        {
+          "title": "AstraZeneca, CSPC to form manufacturing joint venture - fiercepharma.com",
+          "source": "fiercepharma.com",
+          "importance": 56,
+          "url": "https://www.fiercepharma.com/pharma/astrazeneca-cspc-form-joint-venture-biologics-manufacturing"
+        },
+        {
+          "title": "CSPC Pharmaceutical and AstraZeneca Pour Heavy Investment into Joint Venture Plant; 51% Controlling Stake in Shijiazhuang to Build AI-Driven Pharma Base - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "url": "https://finance.biggo.com"
+        },
+        {
+          "title": "CSPC Pharmaceutical & AstraZeneca Form Joint Venture for Biologics Manufacturing in China - Pharmaceutical Executive",
+          "source": "Pharmaceutical Executive",
+          "importance": 42,
+          "url": "https://www.pharmexec.com"
+        },
+        {
+          "title": "Attovia extends biotech IPO streak with $289M listing for three I&I drugs - Endpoints News",
+          "source": "Endpoints News",
+          "importance": 56,
+          "url": "https://endpoints.news"
+        },
+        {
+          "title": "Outsourcing Formulation Activities May Advance Drug Development - PharmTech.com",
+          "source": "PharmTech.com",
+          "importance": 47,
+          "url": "https://www.pharmtech.com"
+        }
+      ],
+      "summary_kr": "제조 JV, IPO, 기술이전, 투자 소식이 동시에 나오면서 파이프라인 가치가 자금 조달과 생산 역량에 더 직접적으로 연결됐다.",
+      "summary_en": "Manufacturing JVs, IPOs, licensing, and financing stories are tying pipeline value more directly to capital access and production capacity.",
+      "emoji": "🏭"
+    },
+    {
+      "topic": "급여·약가·정책 이슈가 시장 접근성과 처방 전략을 압박",
+      "domain": "policy",
+      "significance": "low",
+      "article_count": 5,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "美 FDA 허가심사 수수료, 신약·바이오시밀러는 내리고 제네릭·의료기기는 오른다… 분야별 규제 온도 차 뚜렷 - 바이오타임즈",
+          "source": "바이오타임즈",
+          "importance": 42,
+          "url": "https://www.biotimes.co.kr"
+        },
+        {
+          "title": "건강보험 일산병원, 심평원 '약제급여 적정성평가' 3년 연속 '1등급'",
+          "source": "뉴스1 on MSN",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EC%9D%BC%EC%82%B0%EB%B3%91%EC%9B%90-%EC%8B%AC%ED%8F%89%EC%9B%90-%EC%95%BD%EC%A0%9C%EA%B8%89%EC%97%AC-%EC%A0%81%EC%A0%95%EC%84%B1%ED%8F%89%EA%B0%80-3%EB%85%84-%EC%97%B0%EC%86%8D-1%EB%93%B1%EA%B8%89/ar-AA29p9ZS?ocid=BingNewsVerp"
+        },
+        {
+          "title": "국민건강보험 일산병원, 3년 연속 '약제급여 적정성평가' 1등급",
+          "source": "머니투데이",
+          "importance": 42,
+          "url": "https://www.mt.co.kr/policy/2026/08/05/2026080509342866345"
+        },
+        {
+          "title": "제네릭 약가인하 이달 시행…중소 제약사 '비상경영', 대형사는 '무풍지대' - newsworks.co.kr",
+          "source": "newsworks.co.kr",
+          "importance": 37,
+          "url": "https://www.newsworks.co.kr"
+        },
+        {
+          "title": "유나이티드제약, 새 약가제도에도 '릭시아나' 제네릭 시장 공략 - PRESS9",
+          "source": "PRESS9",
+          "importance": 37,
+          "url": "http://www.press9.kr"
+        }
+      ],
+      "summary_kr": "급여·약가·보험·규제 이슈가 시장 접근성과 제네릭/바이오시밀러 포지셔닝을 좌우하는 핵심 변수로 부각됐다.",
+      "summary_en": "Reimbursement, pricing, insurance, and regulation remain the key variables shaping market access and generic/biosimilar positioning.",
+      "emoji": "📋"
+    },
+    {
+      "topic": "전통의학·자연의학이 공공외교와 서비스 모델로 확장",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "THANN Expands Holistic Empire With Luxury Thai Traditional Medicine Clinic at One Bangkok - Nation Thailand",
+          "source": "Nation Thailand",
+          "importance": 55,
+          "url": "https://www.nationthailand.com"
+        },
+        {
+          "title": "산후 한약 안전성 임상 근거 확보…이상반응 발생률 0.6%에 그쳐 > 뉴스 - 한의신문",
+          "source": "한의신문",
+          "importance": 35,
+          "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=67961"
+        },
+        {
+          "title": "WHO confirms pharmaceutical industry is moving towards natural medicine - novanews.co.za",
+          "source": "novanews.co.za",
+          "importance": 55,
+          "url": "https://novanews.co.za"
+        },
+        {
+          "title": "A CEO With a Proven Track Record of Success in Growing and Scaling Biopharmaceutical Companies Just Appointed CEO at a Clinical-Stage Biotech, Months Before Its Pivotal Phase 3 Readout - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "url": "https://www.manilatimes.net"
+        },
+        {
+          "title": "QuantHealth Secures $45 Mn to Expand AI Clinical Trial Simulations & Help Pharma Reduce Drug Development Risk - Digital Health News",
+          "source": "Digital Health News",
+          "importance": 47,
+          "url": "https://www.digitalhealthnews.com"
+        }
+      ],
+      "summary_kr": "전통의학과 자연의학 관련 기사들이 문화·공공외교·서비스 모델을 잇는 축으로 포착됐다.",
+      "summary_en": "Traditional and natural medicine stories are increasingly linking culture, public diplomacy, and service-model expansion.",
+      "emoji": "🌿"
+    },
+    {
+      "topic": "전통의학·보건·비의약 글로벌 이슈가 주변 트렌드로 부상",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "EXCLUSIVE: JPMorgan CEO Dimon leads new cross-industry effort to tackle AI risks - Reuters",
+          "source": "Reuters",
+          "importance": 57,
+          "url": "https://www.reuters.com/world/jpmorgan-ceo-dimon-leads-new-cross-industry-effort-tackle-ai-risks-2026-08-05/"
+        },
+        {
+          "title": "WHO confirms pharmaceutical industry is moving towards natural medicine - novanews.co.za",
+          "source": "novanews.co.za",
+          "importance": 55,
+          "url": "https://novanews.co.za"
+        },
+        {
+          "title": "THANN Expands Holistic Empire With Luxury Thai Traditional Medicine Clinic at One Bangkok - Nation Thailand",
+          "source": "Nation Thailand",
+          "importance": 55,
+          "url": "https://www.nationthailand.com"
+        },
+        {
+          "title": "توثيق الطب التقليدي - البيان",
+          "source": "البيان",
+          "importance": 53,
+          "url": "https://www.albayan.ae"
+        }
+      ],
+      "summary_kr": "의약품 밖의 AI·자연의학·서비스형 보건 이슈가 별도 축으로 보이지만, 핵심 흐름은 여전히 규제·개발·제조 쪽에 집중돼 있다.",
+      "summary_en": "Non-core AI, natural-medicine, and service-health stories remain visible, but the main motion still centers on regulation, development, and manufacturing.",
+      "emoji": "🌍"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 22,
+      "en_count": 7,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 8,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 4,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": [
+      "총 기사 439건 → 423건",
+      "이슈 5개 → 5개"
+    ]
+  },
+  "connections": [],
+  "generated_at": "2026-08-06T16:37:37.149171+09:00"
+}
