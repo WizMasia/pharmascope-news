@@ -1,21 +1,21 @@
 {
   "date": "2026-08-07",
-  "total": 382,
+  "total": 414,
   "version": 1,
-  "generated_at": "2026-08-07T10:00:24.583413+09:00",
+  "generated_at": "2026-08-07T15:30:16.099507+09:00",
   "korean": {
-    "total": 168,
+    "total": 189,
     "categories": {
       "의약품": 25,
-      "의약산업": 16,
+      "의약산업": 25,
       "의약정책": 19,
-      "의약단체": 8,
+      "의약단체": 15,
       "의약관련정부기관": 25,
       "의료현장": 25,
-      "약국·약사": 3,
+      "약국·약사": 4,
       "의료정책·인력": 25,
-      "전통의학": 0,
-      "감염·보건": 22
+      "전통의학": 1,
+      "감염·보건": 25
     },
     "top_articles": [
       {
@@ -23,7 +23,7 @@
         "source": "Chosunbiz",
         "importance": 55,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Chosunbiz+28 | 최신:Thu, 06 Aug 2026 08:48:00 GMT+5 | 키워드+20 | 순위:144위+2",
+        "evidence": "출처:Chosunbiz+28 | 최신:Thu, 06 Aug 2026 08:48:00 GMT+5 | 키워드+20 | 순위:188위+2",
         "snippet": "세계 첫 mRNA 독감백신 나왔다…FDA, 모더나 백신 승인 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "세계 첫 mRNA 독감백신 나왔다…FDA, 모더나 백신 승인 - 조선비즈 - Chosunbiz",
@@ -43,9 +43,9 @@
       {
         "title": "약평위, 혈우병 신약 '하임파지' 급여 적정성 인정…조건부 통과",
         "source": "약업닷컴",
-        "importance": 51,
+        "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:약업닷컴+24 | 최신:6시간+20 | 키워드+5 | 순위:112위+2",
+        "evidence": "출처:약업닷컴+24 | 최신:11시간+15 | 키워드+5 | 순위:114위+2",
         "snippet": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문 | Yakup-specials | 올바른 건강기능식품 활용가이드 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문",
@@ -54,30 +54,30 @@
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원·의료\n 약사·약학\n 글로벌\n 웰에이징\n 특집\n 신문지면보기\n 화장품신문\n 의약정보\n 뉴스레터 신청\n 구독신청\n 뉴스\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원 · 의료\n 약사 · 약학\n 글로벌\n 웰에이징\n 인터뷰\n PEOPLE\n 특집 · 이슈기획\n 특집\n 이슈기획\n 팜플러스\n 오피니언\n 컬쳐 · 클래시그널\n Yakup-specials\n DI 의약정보\n 올바른 약 이야기\n 올바른 건강기능식품 활용가이드\n 신제품소개\n 포토\n 그땐 그랬지\n 서비스\n 북몰 · 컨텐츠몰\n 뉴스레터 신청\n 구독신청\n 마이페이지\n 스크랩 관리\n 구독정보\n e-mail 문의\n 회사소개\n 회사개요\n 연혁\n 조직도\n Contact us\n 광고제휴문의\n 회원서비스\n 실시간 인기검색어\n # 넥스트바이오메디컬\n # 2027\n # sk\n HOME\n >\n 뉴스\n >\n 전체기사",
-        "content_length": 532,
-        "published_time": "6시간",
+        "content": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원·의료\n 약사·약학\n 글로벌\n 웰에이징\n 특집\n 신문지면보기\n 화장품신문\n 의약정보\n 뉴스레터 신청\n 구독신청\n 뉴스\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원 · 의료\n 약사 · 약학\n 글로벌\n 웰에이징\n 인터뷰\n PEOPLE\n 특집 · 이슈기획\n 특집\n 이슈기획\n 팜플러스\n 오피니언\n 컬쳐 · 클래시그널\n Yakup-specials\n DI 의약정보\n 올바른 약 이야기\n 올바른 건강기능식품 활용가이드\n 신제품소개\n 포토\n 그땐 그랬지\n 서비스\n 북몰 · 컨텐츠몰\n 뉴스레터 신청\n 구독신청\n 마이페이지\n 스크랩 관리\n 구독정보\n e-mail 문의\n 회사소개\n 회사개요\n 연혁\n 조직도\n Contact us\n 광고제휴문의\n 회원서비스\n 실시간 인기검색어\n # 이상훈\n # 2024\n # 이수\n HOME\n >\n 뉴스\n >\n 전체기사",
+        "content_length": 526,
+        "published_time": "11시간",
         "modified_time": "",
-        "time": "6시간",
+        "time": "11시간",
         "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=330785",
         "source_url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=330785"
       },
       {
         "title": "No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌",
         "source": "데일리팜",
-        "importance": 49,
+        "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+10 | 순위:18위+5",
-        "snippet": "[데일리팜]No.1 약국체인의 승부수? | 온누리 메가-프라임 확장 시끌 | 가입 시 50% 할인 쿠폰+적립금까지! | 오래가는 타이레놀 ER | 듀오락 스탑과 여름철 장질환 대응법",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+10 | 순위:24위+2",
+        "snippet": "[데일리팜]No.1 약국체인의 승부수? | 온누리 메가-프라임 확장 시끌 | 좋아요+의견남기면 쿠폰 증정 | 오래가는 타이레놀 ER | 가입 시 50% 할인 쿠폰+적립금까지!",
         "summary_lines": [
           "[데일리팜]No.1 약국체인의 승부수?",
           "온누리 메가-프라임 확장 시끌",
-          "가입 시 50% 할인 쿠폰+적립금까지!",
+          "좋아요+의견남기면 쿠폰 증정",
           "오래가는 타이레놀 ER",
-          "듀오락 스탑과 여름철 장질환 대응법"
+          "가입 시 50% 할인 쿠폰+적립금까지!"
         ],
-        "content": "[데일리팜]No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌\n -->\n 팜스타클럽\n약사 전용 멤버십몰\n편한가 멤버십몰\n가입 시 50% 할인 쿠폰+적립금까지!\nE-detail\n근육통은 오래가니깐!\n오래가는 타이레놀 ER\n온라인세미나\n듀오락 스탑과 여름철 장질환 대응법\n물갈이, 배탈, 설사 환자를 위한 실전 상담&판매 전략\n팜노트\n약국 마케팅 성공사례\n좋아요+의견남기면 쿠폰 증정\n팜리쿠르트\n약국 첫 채용공고 0원+'한번 더' 무료 연장\n퀴즈 참여시 룰렛쿠폰\n팜노트\n이달의 약국 신제품(8월호)\n좋아요+의견남기면 쿠폰 증정\n약사 전용 온라인몰\nJW SHOP\n가입 시 네이버 1만포인트 + 스벅쿠폰\nV-Detail\n우리 가족 다양한 상처엔 비아핀!\n비아핀 POSM 신청 GO!\n 번역\n 약국·병원\n 산업·경영\nNo.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌\n 강혜경 기자\n 2026-08-05 12:04:50\n 요약\n 가\n가\n가\n가\n가\n가\n작년 11월 동탄메가온누리약국 개설 이후 지속 논란\n온누리H&C \"중·대형 가맹 수요 증가…평수 기반 브랜드 다각화\"\n가맹 약국 1위지만 코로나19 이후 '휘청'…가맹점수·매출액 감소세 이어져\n\"약국 생태계 교란\" vs \"15~20평 머물 수 없어\"\n PR\n법률 · 세무 · 노무 · 개국 · 대출 · 인테리어 \"무엇이든 물어보세요!\"\n 약국 Q&A\n[데일리팜=강혜경 기자] 1등 약국체인 온누리H&C(대표 박종화)가 기존 온누리약국 이외 '메가온누리약국'과 '프라임온누리약국'을 새롭게 선보이면서 논란이 야기되고 있다.\n메가온누리약국과 프라임온누리약국은 온누리약국이 선보이는 50평 이상 중대형 규모 약국으로, 일각에서는 '온누리약국이 창고형 약국 모델을 선보인다'는 우려도 나오고 있다.\n사실 온누리H&C의 창고형 약국 진출설은 지난해부터 불거졌다.\n작년 11월 83평 규모 동탄메가온누리약국이 기존 약국과 새로운 간판과 콘셉트를 선보이면서 온누리가 창고형 약국을 시도하는 게 아니냐는 의심의 눈초리가 이어졌지만 이렇다 할 입장을 밝히지 않았던 것도 사실이다.\n하지만 최근 온누리H&C가 공정거래위원회에 메가온누리약국과 프라임온누리약국에 대한 정보공개서 등록을 완료하면서 본격적인 사업 추진을 공식화했다.\n온누리H&C의 행보에 관심이 쏠리는 이유는 상징성을 꼽을 수 있다.\n온누리의 가맹사업 개시일은 1991년 10월로 타 약국체인들에 비해 역사가 깊다. 가맹약국 수도 2000여개로 옵티마(879개, 2024년 기준), 휴베이스(748개, 2025년 기준), 참약사(432개, 2024년 기준) 보다 압도적으로 많다 보니 타 체인에서의 관심도 커지고 있는 상황이다.\n브랜드를 다각화하기 위한 차원이라는 게 온누리H&C 측 설명이지만, 창고형 약국이 약국 생태계를 교란시킨다는 문제의식 속에서 일부 지역 약사회 차원의 반발과 대응도 예고되고 있어 논란은 이어질 전망이다.\n그렇다면 기존 온누리약국과 메가온누리약국, 프라임온누리약국의 차별점은 무엇이고 온누리H&C가 왜 이같은 세컨드·써드 브랜드를 선보이게 됐는지 풀어봤다.\n 20평 약국 저문다…50·100평 대형화 추세 '발'\n기존 온누리약국과 메가온누리약국, 프라임온누리약국의 가장 큰 차이는 '평수'에 있다.\n조제중심 동네약국의 국룰평수는 15~20평이었기 때문에 기존 온누리약국의 기준점포면적은 66㎡(20평)으로 국한돼 있었다. 하지만 지난해부터 이어지고 있는 대형약국에 대한 약사·소비자 수요를 충족하기 위해 평수에 따라 브랜드를 세분화했다는 설명이다.\n메가온누리약국의 기준점포면적은 330㎡(100평), 프라임온누리약국의 기준점포면적은 165㎡(50평)이다.\n기존 약국이 소형 위주였다면, 프라임온누리는 중형, 메가온누리는 대형 위주로 약국을 세분화하겠다는 것이다.\n 기존 온누리약국과 메가온누리, 프라임온누리, 뷰티온누리약국 콘셉트 및 특징 비교. (AI생성 이미지)\n가맹비와 보증금은 모두 550만원과 250만원으로 동일하지만, 단위면적당 인테리어비용은 기존 192만5000원, 프라임온누리약국 250만원으로 차이가 있다. 계약기간 역시 최초 3년, 연장 3년 보다 긴 최초 5년, 연장 5년을 채택하고 있다.\n8월 현재 기준 메가온누리약국은 동탄메가온누리약국, 시흥메가온누리약국, 호반메가온누리약국 등 3곳이며 프라임온누리약국은 동탄프라임온누리약국, 송파프라임온누리약국 등 2곳이다.\n 동탄메가온누리약국(왼쪽)과 동탄프라임온누리약국 내부 모습.\n평수 기반 브랜드 라인업 이외에도 온누리H&C는 K-파마시 열풍에 대한 니즈를 반영해 하반기 중 뷰티온누리약국도 새롭게 선보인다는 계획이다.\n올리브영, 무신사, 다이소와 함께 '약국'이 외국인들이 반드시 방문하는 장소 가운데 한 곳으로 인식되고, 피부연고·크림류와 함께 화장품 매출이 고공행진하는 상황에 발맞춰 외국인 관광객들을 타깃으로 한 새로운 약국 모델을 선보이겠다는 것이다.\n \"트렌드 변화, 대형화 추세 맞춰 브랜드 세분화\"\n온누리H&C는 일련의 움직임이 브랜드 다각화 차원이라는 입장이다.\n대형 약국에 대한 소비자들의 선호가 이어지면서 기존·신규 가맹에서도 중·대형 평수에 대한 문의가 지속적으로 증가, 본사 차원에서도 브랜드 다각화를 통해 가맹 사업 확장을 추진하게 됐다는 얘기다. 외국인들을 대상으로 한 뷰티온누리약국 역시 시장 수요를 반영한 조치라는 설명이다.\n또한 인테리어와 제품 진열 등에 국한됐던 본사 역할도 끌어 올려 대형 매장의 초기 세팅과 공간 운영 효율성을 대폭 증대시킨다는 계획이다. 특히 밀착 경영 지원 같은 교육·경영 컨설팅 프로그램을 집중 제공하는 등 약국체인의 역할을 십분 활용하겠다는 방침이다.\n온누리H&C 관계자는 \"최근 트렌드를 반영한 모델 다각화라고 볼 수 있다\"면서 \"창고형 약국 등장 이후 약국들의 평균 평수가 대형화되고 있는 상황에서 기존 모델을 대형 약국에 그대로 옮기는 것은 아무래도 한계가 있다고 봤다. 이같은 수요를 충족시키면서 본사 역시 브랜드를 다각화하고 가맹 사업을 확장하고자 한 것\"이라고 말했다.\n기존 온누리약국에서의 메가·프라임약국 전환도 수요에 따라 진행한다는 설명이다.\n다만 이 관계자는 \"기존 150m 영업지역 보호 기준을 동일하게 적용하고, 150m 거리 요건을 충족하더라도 상권 분석과 최종 출점 심사 승인 등을 거쳐 신중하게 가맹을 진행할 계획\"이라고 강조했다.\n 마이너스 출점 등 사업실적 부진, 사업 다각화로 타개?\n일각에서는 이 같은 움직임이 부진한 가맹사업과 매출에 따른 요인이라는 분석도 제기된다.\n약국체인들 가운데 가장 많은 회원 약국 수를 보유하고 있지만, 코로나19 이후 가맹 점포가 침체돼 있고 매출 역시 마이너스 성장을 하고 있어 이를 타개하기 위한 방안으로 '메가온누리, 프라임온누리'를 꺼내든 게 아니냐는 분석이다.\n실제 가맹 약국수는 2023년 2082개에서 2024년 2073개, 2025년 2054개로 3년 연속 감소했다.\n 온누리 약국체인의 연도별 가맹점포수와 매출, 영업이익.\n매출액 역시 2023년 614억1269만원에서 2024년 583억3027만원, 2025년 564억159만원으로 역성장하고 있다. 영업이익과 당기순이익 모두 2023년 47억581만원에서 16억664만원으로, 50억7421만원에서 35억8854만원으로 줄었다.\n결국 부진한 가맹사업과 매출 등이 사업 다각화로 이어졌다는 반응이다.\n 라이프스타일프로젝트, 옵티마-옵티마웰니스뮤지엄 '구분'\n비단 이같은 움직임이 온누리H&C만의 변화는 아니다. 약국체인 옵티마 운영사인 라이프스타일프로젝트도 대형약국 모델인 '옵티마웰니스뮤지엄약국'을 선보이며 전통적인 학술중심 약국체인에서 K-파마시 위주 약국체인으로 변화를 주고 있다.\n서울 강남에 옵티마웰니스뮤지엄약국 1호점을 개설한 이후 불과 1년 여만에 7곳으로 확대됐는데 옵티마웰니스뮤지엄분당서현약국, 옵티마웰니스뮤지엄이태원약국, 옵티마웰니스뮤지엄성수약국, 옵티마웰니스뮤지엄신사약국, 옵티마웰니스뮤지엄남포약국, 옵티마웰니스뮤지엄명동약국 등 외국인 관광객들이 주로 찾는 입지를 중심으로 세를 확장하고 있다.\n 올해 6월 문을 연 옵티마웰니스뮤지엄신사약국.\n옵티마웰니스뮤지엄약국 역시 기준점포면적이 330㎡(100평)으로, 가맹비와 교육비 역시 기존 약국 440만원, 550만원 대비 높은 1억8700만원, 1억1000만원으로 책정하고 있다.\n 일선 약국들 반응은\n전통 약국체인이 창고형 약국을 양성하는 게 아니냐는 의견부터 트렌드 변화에 발을 맞추기 위한 경영전략이라는 의견까지 일선 약국들 반응도 극과 극이다.\n지역 약국 약사는 \"온누리가 창고형 약국을 양성화하는 게 아니냐\"면서 \"만약 약국체인이 창고형 약국 사업을 본격화한다고 하는 경우 대한약사회 차원의 제재도 필요한 부분\"이라고 말했다.\n지역 약사회 관계자는 \"현재 지역 내 메가온누리약국이 개설 준비 작업에 돌입하면서 주변 약국들의 반발이 적지 않다\"면서 \"지역 약국은 물론 약사사회 성장을 저해하는 경우 약사회도 본격적인 대응에 나설 계획\"이라고 경계했다.\n다만 새로운 니즈를 반영한 시도라는 반응도 있다. 지역의 또 다른 약사는 \"약국 규모가 15~20평에서 최소 50평 이상으로 확대되고 있는 상황이다. 소비자들의 니즈를 반영하기 위한 약국체인 차원의 움직임 역시 필요하다고 본다\"면서 \"다만 새로운 시도가 가맹과 매출에 어떤 영향을 줄 지는 지켜봐야 할 부분으로 판단하고 있다\"고 전했다.\n 온누리H&C\n 대형약국\n 프라임온누리\n 메가온누리\n 뷰티온누리\n 강혜경 기자(khk@dailypharm.com)\n 다른\n 기사 보기\nCopyright ⓒ 데일리팜. All rights reserved. 무단 전재 및 재배포 금지.\n관련기사\n \"창고형·성지 용어가 문제 없다니\"…과당경쟁 유도하는 공정위\n2026-07-11 06:00\n 신규 약국 10곳 중 1곳은 70평 이상…거세진 대형화 바람\n2026-06-09 12:03\n의약전문언론 1위 데일리팜이 제대로 보도하겠습니다.\n기사화된 제보내용에 대해서는 소정의 상품을 증정 합니다.\n제보하기\n익명 댓글\n실명 댓글\n 0 / 500\n등록\n 댓글을 작성하려면 로그인 해주세요.\n댓글 0\n최신순\n찬성순\n반대순\n운영규칙\n병원영업(MR) 채용연계형 인턴(신입사원) 모집 공고\n약제팀 (협약직) 야간약사 모집\n[서초구 종합병원] 기쁨병원에",
-        "content_length": 7523,
+        "content": "[데일리팜]No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌\n -->\n 팜스타클럽\n팜노트\n약국 마케팅 성공사례\n좋아요+의견남기면 쿠폰 증정\nE-detail\n근육통은 오래가니깐!\n오래가는 타이레놀 ER\n약사 전용 멤버십몰\n편한가 멤버십몰\n가입 시 50% 할인 쿠폰+적립금까지!\n팜리쿠르트\n약국 첫 채용공고 0원+'한번 더' 무료 연장\n퀴즈 참여시 룰렛쿠폰\nV-Detail\n우리 가족 다양한 상처엔 비아핀!\n비아핀 POSM 신청 GO!\n팜노트\n이달의 약국 신제품(8월호)\n좋아요+의견남기면 쿠폰 증정\n온라인세미나\n듀오락 스탑과 여름철 장질환 대응법\n물갈이, 배탈, 설사 환자를 위한 실전 상담&판매 전략\n약사 전용 온라인몰\nJW SHOP\n가입 시 네이버 1만포인트 + 스벅쿠폰\n 번역\n 약국·병원\n 산업·경영\nNo.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌\n 강혜경 기자\n 2026-08-05 12:04:50\n 요약\n 가\n가\n가\n가\n가\n가\n작년 11월 동탄메가온누리약국 개설 이후 지속 논란\n온누리H&C \"중·대형 가맹 수요 증가…평수 기반 브랜드 다각화\"\n가맹 약국 1위지만 코로나19 이후 '휘청'…가맹점수·매출액 감소세 이어져\n\"약국 생태계 교란\" vs \"15~20평 머물 수 없어\"\n PR\n8월 신제품이 이렇게 많았어? ‘팜노트’ 확인하기\n 팜스타클럽\n[데일리팜=강혜경 기자] 1등 약국체인 온누리H&C(대표 박종화)가 기존 온누리약국 이외 '메가온누리약국'과 '프라임온누리약국'을 새롭게 선보이면서 논란이 야기되고 있다.\n메가온누리약국과 프라임온누리약국은 온누리약국이 선보이는 50평 이상 중대형 규모 약국으로, 일각에서는 '온누리약국이 창고형 약국 모델을 선보인다'는 우려도 나오고 있다.\n사실 온누리H&C의 창고형 약국 진출설은 지난해부터 불거졌다.\n작년 11월 83평 규모 동탄메가온누리약국이 기존 약국과 새로운 간판과 콘셉트를 선보이면서 온누리가 창고형 약국을 시도하는 게 아니냐는 의심의 눈초리가 이어졌지만 이렇다 할 입장을 밝히지 않았던 것도 사실이다.\n하지만 최근 온누리H&C가 공정거래위원회에 메가온누리약국과 프라임온누리약국에 대한 정보공개서 등록을 완료하면서 본격적인 사업 추진을 공식화했다.\n온누리H&C의 행보에 관심이 쏠리는 이유는 상징성을 꼽을 수 있다.\n온누리의 가맹사업 개시일은 1991년 10월로 타 약국체인들에 비해 역사가 깊다. 가맹약국 수도 2000여개로 옵티마(879개, 2024년 기준), 휴베이스(748개, 2025년 기준), 참약사(432개, 2024년 기준) 보다 압도적으로 많다 보니 타 체인에서의 관심도 커지고 있는 상황이다.\n브랜드를 다각화하기 위한 차원이라는 게 온누리H&C 측 설명이지만, 창고형 약국이 약국 생태계를 교란시킨다는 문제의식 속에서 일부 지역 약사회 차원의 반발과 대응도 예고되고 있어 논란은 이어질 전망이다.\n그렇다면 기존 온누리약국과 메가온누리약국, 프라임온누리약국의 차별점은 무엇이고 온누리H&C가 왜 이같은 세컨드·써드 브랜드를 선보이게 됐는지 풀어봤다.\n 20평 약국 저문다…50·100평 대형화 추세 '발'\n기존 온누리약국과 메가온누리약국, 프라임온누리약국의 가장 큰 차이는 '평수'에 있다.\n조제중심 동네약국의 국룰평수는 15~20평이었기 때문에 기존 온누리약국의 기준점포면적은 66㎡(20평)으로 국한돼 있었다. 하지만 지난해부터 이어지고 있는 대형약국에 대한 약사·소비자 수요를 충족하기 위해 평수에 따라 브랜드를 세분화했다는 설명이다.\n메가온누리약국의 기준점포면적은 330㎡(100평), 프라임온누리약국의 기준점포면적은 165㎡(50평)이다.\n기존 약국이 소형 위주였다면, 프라임온누리는 중형, 메가온누리는 대형 위주로 약국을 세분화하겠다는 것이다.\n 기존 온누리약국과 메가온누리, 프라임온누리, 뷰티온누리약국 콘셉트 및 특징 비교. (AI생성 이미지)\n가맹비와 보증금은 모두 550만원과 250만원으로 동일하지만, 단위면적당 인테리어비용은 기존 192만5000원, 프라임온누리약국 250만원으로 차이가 있다. 계약기간 역시 최초 3년, 연장 3년 보다 긴 최초 5년, 연장 5년을 채택하고 있다.\n8월 현재 기준 메가온누리약국은 동탄메가온누리약국, 시흥메가온누리약국, 호반메가온누리약국 등 3곳이며 프라임온누리약국은 동탄프라임온누리약국, 송파프라임온누리약국 등 2곳이다.\n 동탄메가온누리약국(왼쪽)과 동탄프라임온누리약국 내부 모습.\n평수 기반 브랜드 라인업 이외에도 온누리H&C는 K-파마시 열풍에 대한 니즈를 반영해 하반기 중 뷰티온누리약국도 새롭게 선보인다는 계획이다.\n올리브영, 무신사, 다이소와 함께 '약국'이 외국인들이 반드시 방문하는 장소 가운데 한 곳으로 인식되고, 피부연고·크림류와 함께 화장품 매출이 고공행진하는 상황에 발맞춰 외국인 관광객들을 타깃으로 한 새로운 약국 모델을 선보이겠다는 것이다.\n \"트렌드 변화, 대형화 추세 맞춰 브랜드 세분화\"\n온누리H&C는 일련의 움직임이 브랜드 다각화 차원이라는 입장이다.\n대형 약국에 대한 소비자들의 선호가 이어지면서 기존·신규 가맹에서도 중·대형 평수에 대한 문의가 지속적으로 증가, 본사 차원에서도 브랜드 다각화를 통해 가맹 사업 확장을 추진하게 됐다는 얘기다. 외국인들을 대상으로 한 뷰티온누리약국 역시 시장 수요를 반영한 조치라는 설명이다.\n또한 인테리어와 제품 진열 등에 국한됐던 본사 역할도 끌어 올려 대형 매장의 초기 세팅과 공간 운영 효율성을 대폭 증대시킨다는 계획이다. 특히 밀착 경영 지원 같은 교육·경영 컨설팅 프로그램을 집중 제공하는 등 약국체인의 역할을 십분 활용하겠다는 방침이다.\n온누리H&C 관계자는 \"최근 트렌드를 반영한 모델 다각화라고 볼 수 있다\"면서 \"창고형 약국 등장 이후 약국들의 평균 평수가 대형화되고 있는 상황에서 기존 모델을 대형 약국에 그대로 옮기는 것은 아무래도 한계가 있다고 봤다. 이같은 수요를 충족시키면서 본사 역시 브랜드를 다각화하고 가맹 사업을 확장하고자 한 것\"이라고 말했다.\n기존 온누리약국에서의 메가·프라임약국 전환도 수요에 따라 진행한다는 설명이다.\n다만 이 관계자는 \"기존 150m 영업지역 보호 기준을 동일하게 적용하고, 150m 거리 요건을 충족하더라도 상권 분석과 최종 출점 심사 승인 등을 거쳐 신중하게 가맹을 진행할 계획\"이라고 강조했다.\n 마이너스 출점 등 사업실적 부진, 사업 다각화로 타개?\n일각에서는 이 같은 움직임이 부진한 가맹사업과 매출에 따른 요인이라는 분석도 제기된다.\n약국체인들 가운데 가장 많은 회원 약국 수를 보유하고 있지만, 코로나19 이후 가맹 점포가 침체돼 있고 매출 역시 마이너스 성장을 하고 있어 이를 타개하기 위한 방안으로 '메가온누리, 프라임온누리'를 꺼내든 게 아니냐는 분석이다.\n실제 가맹 약국수는 2023년 2082개에서 2024년 2073개, 2025년 2054개로 3년 연속 감소했다.\n 온누리 약국체인의 연도별 가맹점포수와 매출, 영업이익.\n매출액 역시 2023년 614억1269만원에서 2024년 583억3027만원, 2025년 564억159만원으로 역성장하고 있다. 영업이익과 당기순이익 모두 2023년 47억581만원에서 16억664만원으로, 50억7421만원에서 35억8854만원으로 줄었다.\n결국 부진한 가맹사업과 매출 등이 사업 다각화로 이어졌다는 반응이다.\n 라이프스타일프로젝트, 옵티마-옵티마웰니스뮤지엄 '구분'\n비단 이같은 움직임이 온누리H&C만의 변화는 아니다. 약국체인 옵티마 운영사인 라이프스타일프로젝트도 대형약국 모델인 '옵티마웰니스뮤지엄약국'을 선보이며 전통적인 학술중심 약국체인에서 K-파마시 위주 약국체인으로 변화를 주고 있다.\n서울 강남에 옵티마웰니스뮤지엄약국 1호점을 개설한 이후 불과 1년 여만에 7곳으로 확대됐는데 옵티마웰니스뮤지엄분당서현약국, 옵티마웰니스뮤지엄이태원약국, 옵티마웰니스뮤지엄성수약국, 옵티마웰니스뮤지엄신사약국, 옵티마웰니스뮤지엄남포약국, 옵티마웰니스뮤지엄명동약국 등 외국인 관광객들이 주로 찾는 입지를 중심으로 세를 확장하고 있다.\n 올해 6월 문을 연 옵티마웰니스뮤지엄신사약국.\n옵티마웰니스뮤지엄약국 역시 기준점포면적이 330㎡(100평)으로, 가맹비와 교육비 역시 기존 약국 440만원, 550만원 대비 높은 1억8700만원, 1억1000만원으로 책정하고 있다.\n 일선 약국들 반응은\n전통 약국체인이 창고형 약국을 양성하는 게 아니냐는 의견부터 트렌드 변화에 발을 맞추기 위한 경영전략이라는 의견까지 일선 약국들 반응도 극과 극이다.\n지역 약국 약사는 \"온누리가 창고형 약국을 양성화하는 게 아니냐\"면서 \"만약 약국체인이 창고형 약국 사업을 본격화한다고 하는 경우 대한약사회 차원의 제재도 필요한 부분\"이라고 말했다.\n지역 약사회 관계자는 \"현재 지역 내 메가온누리약국이 개설 준비 작업에 돌입하면서 주변 약국들의 반발이 적지 않다\"면서 \"지역 약국은 물론 약사사회 성장을 저해하는 경우 약사회도 본격적인 대응에 나설 계획\"이라고 경계했다.\n다만 새로운 니즈를 반영한 시도라는 반응도 있다. 지역의 또 다른 약사는 \"약국 규모가 15~20평에서 최소 50평 이상으로 확대되고 있는 상황이다. 소비자들의 니즈를 반영하기 위한 약국체인 차원의 움직임 역시 필요하다고 본다\"면서 \"다만 새로운 시도가 가맹과 매출에 어떤 영향을 줄 지는 지켜봐야 할 부분으로 판단하고 있다\"고 전했다.\n 온누리H&C\n 대형약국\n 프라임온누리\n 메가온누리\n 뷰티온누리\n 강혜경 기자(khk@dailypharm.com)\n 다른\n 기사 보기\nCopyright ⓒ 데일리팜. All rights reserved. 무단 전재 및 재배포 금지.\n관련기사\n \"창고형·성지 용어가 문제 없다니\"…과당경쟁 유도하는 공정위\n2026-07-11 06:00\n 신규 약국 10곳 중 1곳은 70평 이상…거세진 대형화 바람\n2026-06-09 12:03\n의약전문언론 1위 데일리팜이 제대로 보도하겠습니다.\n기사화된 제보내용에 대해서는 소정의 상품을 증정 합니다.\n제보하기\n익명 댓글\n실명 댓글\n 0 / 500\n등록\n 댓글을 작성하려면 로그인 해주세요.\n댓글 0\n최신순\n찬성순\n반대순\n운영규칙\nQuality Assurance Manager\n[서초구 종합병원] 기쁨병원에서 약사 초빙합니다.\n평택공장 제조관리약사 채용(신입우대)\n약제팀 (정",
+        "content_length": 7457,
         "published_time": "1일",
         "modified_time": "",
         "time": "1일",
@@ -85,55 +85,55 @@
         "source_url": "https://www.dailypharm.com/user/news/341133"
       },
       {
-        "title": "\"기존 치료제와 달라\"…새 탈모약 찾는 K-제약바이오 - nwww.newsis.com",
-        "source": "nwww.newsis.com",
-        "importance": 45,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:nwww.newsis.com+28 | 최신:Thu, 06 Aug 2026 07:26:37 GMT+5 | 키워드+10 | 순위:170위+2",
-        "snippet": "\"기존 치료제와 달라\"…새 탈모약 찾는 K-제약바이오 - nwww.newsis.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "\"기존 치료제와 달라\"…새 탈모약 찾는 K-제약바이오 - nwww.newsis.com",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
-        ],
-        "content": "\"기존 치료제와 달라\"…새 탈모약 찾는 K-제약바이오 - nwww.newsis.com",
-        "content_length": 47,
-        "published_time": "Thu, 06 Aug 2026 07:26:37 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 07:26:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHbUljU0ltZGx3NXM2MjRaZ3llTDlXYmo4YmRUOXpfZ3I0WWJoamE4M1BTS3lMY2ctQnJ6eXBZNlU0TUtTTVVYTEdjMGRRbHBTUHdTQWtwLTh4TEtaRkl6UDln?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source_url": "https://nwww.newsis.com"
-      },
-      {
-        "title": "건강보험 일산병원, 심평원 '약제급여 적정성평가' 3년 연속 '1등급'",
-        "source": "뉴스1 on MSN",
+        "title": "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정 - 코리아헬스로그",
+        "source": "코리아헬스로그",
         "importance": 42,
         "stars": "⭐⭐",
-        "evidence": "출처:뉴스1 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:111위+2",
-        "snippet": "건강보험 일산병원, 심평원 '약제급여 적정성평가' 3년 연속 '1등급' | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "evidence": "출처:코리아헬스로그+10 | 최신:Fri, 07 Aug 2026 01:48:21 GMT+5 | 키워드+25 | 순위:249위+2",
+        "snippet": "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정 | 현재 Internet Explorer 8이하 버전을 이용중이십니다. | 최신 브라우저(Browser) 사용을 권장드립니다! | 인터넷 익스플로러 11 | 국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정",
         "summary_lines": [
-          "건강보험 일산병원, 심평원 '약제급여 적정성평가' 3년 연속 '1등급'",
+          "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정",
+          "현재 Internet Explorer 8이하 버전을 이용중이십니다.",
+          "최신 브라우저(Browser) 사용을 권장드립니다!",
+          "인터넷 익스플로러 11",
+          "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정"
+        ],
+        "content": "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정\n 잠깐! 현재 Internet Explorer 8이하 버전을 이용중이십니다. 최신 브라우저(Browser) 사용을 권장드립니다!\n ie\n 인터넷 익스플로러 11\n 다운로드\n chrome\n 구글 크롬\n 다운로드\n firefox\n 모질라 파이어폭스\n 다운로드\n본문영역\n 이전 기사보기\n 다음 기사보기\n 국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정\n 바로가기\n 복사하기\n 본문 글씨 줄이기\n 본문 글씨 키우기\n 스크롤 이동 상태바\n서울의대 이승훈 교수 개발 ‘CX213’\n서울의대 이승훈 교수가 개발한 뇌출혈치료제 후보물질 ‘CX213’이 미국 식품의약국(FDA)으로부터 패스트트랙(Fast Track Designation, FTD)으로 최근 지정됐다. 지난 2025년 FDA 희귀의약품 지정(Orphan Drug Designation, ODD)을 받은데 이어 연이은 성과다.\n세닉스바이오테크는 지주막하출혈치료제 후보물질 ‘CX213’이 미 FDA로부터 패스트트랙으로 지정됐다고 7일 밝혔다.\nFDA 패스트트랙은 중증 질환에서 기존 치료의 한계를 극복하거나 미충족 의료수요를 해결할 가능성이 높은 신약 후보물질의 개발과 허가 절차를 신속하게 지원하는 제도다. 패스트트랙으로 지정된 후보물질은 개발 단계부터 FDA와 긴밀하게 협의할 수 있으며, 임상시험 설계와 개발 전략, 바이오마커 및 허가 전략 등에 대해 조기 논의가 가능하다.\n또한 허가 신청 단계에서는 완성된 신청자료를 순차적으로 제출·검토받는 롤링 리뷰(Rolling Review)를 활용할 수 있으며, 관련 요건을 충족할 경우 가속승인(Accelerated Approval)과 우선심사(Priority Review) 적용 가능성도 열린다.\n이번 지정으로 세닉스바이오테크는 CX213의 임상과 허가 전 과정에서 FDA와 지속적으로 소통할 수 있는 제도적 기반을 확보했다. 이를 통해 임상 전략을 보다 효율적으로 수립하고, 글로벌 허가 절차도 체계적으로 추진할 수 있게 됐다.\n 이승훈 교수. 사진 제공=세닉스바이오테크\nCX213은 이승훈 교수가 주도해 세닉스바이오테크에서 독자적으로 개발한 ‘이노서피스 플랫폼 기술을 적용한 산화세륨 나노자임 치료제다. 산화세륨 나노입자의 강력하고 지속적인 활성산소(ROS) 제거 능력을 활용해 지주막하출혈 이후 발생하는 광범위한 산화 스트레스와 신경세포 손상을 억제하도록 설계된 퍼스트 인 클래스(First-in-Class) 신약이다.\n세닉스바이오테크는 \"현재 지주막하출혈 치료는 파열된 뇌동맥류를 차단하는 시술·수술과 이후 발생하는 합병증 관리에 집중돼 있다. 그러나 출혈 직후부터 광범위하게 발생하는 산화손상을 직접 제거해 초기 뇌손상과 후속 지연성 뇌허혈을 억제하는 치료제는 아직 존재하지 않는다\"며 \"CX213은 이러한 치료 공백을 정면으로 겨냥해 지주막하출혈 치료제의 새로운 접근법을 제시할 것\"이라고 말했다.\n현재 CX213은 미국 FDA 임상시험계획(IND)을 기반으로 임상 1상을 성공적으로 완료했으며, 2상을 준비하고 있다. 세닉스바이오테크는 국가신약개발사업(KDDF) 대형 과제로도 선정됐다.\n세닉스바이오테크 설립자 이승훈 교수는 “이번 패스트트랙 지정은 CX213이 지주막하출혈의 중대한 미충족 의료수요를 해결할 잠재력과 신속개발의 필요성을 FDA로부터 공식적으로 인정받았다는 점에서 의미가 크다”며 “출혈 직후의 뇌손상을 직접 억제할 수 있는 치료제가 없는 상황에서 환자들에게 새로운 치료 선택지를 최대한 빠르게 제공할 수 있도록 개발에 더욱 속도를 내겠다”고 말했다.\n 김경원 기자\n kkw97@docdocdoc.co.kr\n 다른기사 보기\n저작권자 © 코리아헬스로그 무단전재 및 재배포 금지\n 당뇨병 진단 후 운동 중단하면 우울증 위험 25% 높아져\n \"아픈 아이도 꿈꿀 권리가 있습니다\"…희귀병 초등생, '교육권 보장' 호소\n PNH 치료의 뉴 패러다임, ‘환자 중심’ 투여 환경이 치료 지속성 높인다\n 눈 뻑뻑해서 '안구건조증'인줄 알았는데, '쇼그렌증후군'?\n 닥터헬기 요청 1위 '강원도'…원주세브란스, 10여년간 2500차례 출동\n [칼럼] \"수술 후 소변이 새요\"…전립선암 수술 후 요실금의 모든 것\n [칼럼] 진료실에서 만난 '파란 눈'의 비밀, '골형성부전증' 이야기\n 당뇨병 진단 후 운동 중단하면 우울증 위험 25% 높아져\n 댓글 내용입력\n 더보기\n 비밀번호\n 닫기\n 본문\n / 400\n 비밀번호\n 닫기\n내 댓글 모음\n 닫기\n 치매관리주치의 효과 확인됐지만 지속 이용률 12% 그쳐…제도 개선必\n 소청과醫 \"의료사고 이력 공개, 의사 살생부될 것\" 재검토 요청\n 韓 대학병원 4곳, ‘세계 최고 친환경병원’ 선정…삼성·아산, 상위 1%\n \"C-peptide 검사 3개월 간격 지켰나요?\" 췌장장애 등록 시 '이것' 챙겨야\n 폭염 속 고혈압 환자, 최대 적은 ‘탈수’…혈압 낮아져도 약 줄여선 안 돼\n “'간병 파산' 막으려면 간호간병통합서비스 전면 확대해야”\n 위로\n 전체메뉴닫기",
+        "content_length": 2464,
+        "published_time": "Fri, 07 Aug 2026 01:48:21 GMT",
+        "modified_time": "",
+        "time": "Fri, 07 Aug 2026 01:48:21 GMT",
+        "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=58418",
+        "source_url": "https://www.koreahealthlog.com"
+      },
+      {
+        "title": "인도네시아 의약품 할랄 인증 확대…국내 제약사, 수출 전략 전면 재정비 - 뉴스더보이스헬스케어",
+        "source": "뉴스더보이스헬스케어",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스더보이스헬스케어+10 | 최신:Thu, 06 Aug 2026 21:04:00 GMT+5 | 키워드+25 | 순위:150위+2",
+        "snippet": "인도네시아 의약품 할랄 인증 확대…국내 제약사, 수출 전략 전면 재정비 - 뉴스더보이스헬스케어 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "인도네시아 의약품 할랄 인증 확대…국내 제약사, 수출 전략 전면 재정비 - 뉴스더보이스헬스케어",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "건강보험 일산병원, 심평원 '약제급여 적정성평가' 3년 연속 '1등급'",
-        "content_length": 39,
-        "published_time": "1일",
+        "content": "인도네시아 의약품 할랄 인증 확대…국내 제약사, 수출 전략 전면 재정비 - 뉴스더보이스헬스케어",
+        "content_length": 52,
+        "published_time": "Thu, 06 Aug 2026 21:04:00 GMT",
         "modified_time": "",
-        "time": "1일",
-        "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EC%9D%BC%EC%82%B0%EB%B3%91%EC%9B%90-%EC%8B%AC%ED%8F%89%EC%9B%90-%EC%95%BD%EC%A0%9C%EA%B8%89%EC%97%AC-%EC%A0%81%EC%A0%95%EC%84%B1%ED%8F%89%EA%B0%80-3%EB%85%84-%EC%97%B0%EC%86%8D-1%EB%93%B1%EA%B8%89/ar-AA29p9ZS?ocid=BingNewsVerp",
-        "source_url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EC%9D%BC%EC%82%B0%EB%B3%91%EC%9B%90-%EC%8B%AC%ED%8F%89%EC%9B%90-%EC%95%BD%EC%A0%9C%EA%B8%89%EC%97%AC-%EC%A0%81%EC%A0%95%EC%84%B1%ED%8F%89%EA%B0%80-3%EB%85%84-%EC%97%B0%EC%86%8D-1%EB%93%B1%EA%B8%89/ar-AA29p9ZS?ocid=BingNewsVerp"
+        "time": "Thu, 06 Aug 2026 21:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11RTB5OWNUaXBSdF9oeF8xa1hCeXpDTlRqVEtWQ0c1enlYUjhqOVZ3bG1vT0dON2FVTlZXN3pxLTlvcVFtSWV5X0tCdW4yMndJcl9RTklWY1NpYy1fdFNzS0pabUY5a2xBaHhjdkNn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.newsthevoice.com"
       },
       {
         "title": "\"동물약·인체약 GMP 이중실사, 규제 개선해야\" - 메디칼업저버",
         "source": "메디칼업저버",
         "importance": 42,
         "stars": "⭐⭐",
-        "evidence": "출처:메디칼업저버+10 | 최신:Thu, 06 Aug 2026 20:36:42 GMT+5 | 키워드+25 | 순위:129위+2",
+        "evidence": "출처:메디칼업저버+10 | 최신:Thu, 06 Aug 2026 20:36:42 GMT+5 | 키워드+25 | 순위:170위+2",
         "snippet": "\"동물약·인체약 GMP 이중실사, 규제 개선해야\" | \"동물약·인체약 GMP 이중실사, 규제 개선해야\" | 2027년 동물용의약품 GMP 적합판정 제도 시행 앞두고 부담 호소 | \"KGMP 적합판정, KVGMP로 갈음해야\"···법제처, 개정안 심사 중 | 이미지 출처 : 게티이미지뱅크",
         "summary_lines": [
           "\"동물약·인체약 GMP 이중실사, 규제 개선해야\"",
@@ -151,43 +151,21 @@
         "source_url": "https://www.monews.co.kr"
       },
       {
-        "title": "65개 병원 노사, 대체간호사 정규직 채용·적정인력 기준 합의 - 청년의사",
-        "source": "청년의사",
+        "title": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - cndnews.co.kr",
+        "source": "cndnews.co.kr",
         "importance": 42,
         "stars": "⭐⭐",
-        "evidence": "출처:청년의사+10 | 최신:Thu, 06 Aug 2026 10:42:58 GMT+5 | 키워드+25 | 순위:140위+2",
-        "snippet": "65개 병원 노사, 대체간호사 정규직 채용·적정인력 기준 합의 - 청년의사 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "evidence": "출처:cndnews.co.kr+10 | 최신:Thu, 06 Aug 2026 09:44:00 GMT+5 | 키워드+25 | 순위:140위+2",
+        "snippet": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - cndnews.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
-          "65개 병원 노사, 대체간호사 정규직 채용·적정인력 기준 합의 - 청년의사",
+          "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - cndnews.co.kr",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "65개 병원 노사, 대체간호사 정규직 채용·적정인력 기준 합의 - 청년의사",
-        "content_length": 41,
-        "published_time": "Thu, 06 Aug 2026 10:42:58 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 10:42:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrdkJaSTRLcEM5ODNKOXhadkJMT0ZybUdPdk5ZWkFaYy1zamZjSFZTTUw4VkJGU3ROUlRFbmR2b21Fd0xZQm12eFVmTU5xYmZ6eExVSl93Rzg1VGJPZ2JCNERVc1RUZzBkNGRNSDZyNNIBc0FVX3lxTE5WR3otWGY0Uk1JZ0RvSFJKYXpHbGhMWDJLZkV5a0VWU0NZU01aQkZINHlhX0MydlJjV21QQzZ0aGpOcWY0UWNkMW0yVUE4MW5FanI1dFd0N0VpMjJJYksyVEktaXF0NGN3cG9LOWcxZUpMZjQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source_url": "http://www.docdocdoc.co.kr"
-      },
-      {
-        "title": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - 뉴스충청인",
-        "source": "뉴스충청인",
-        "importance": 42,
-        "stars": "⭐⭐",
-        "evidence": "출처:뉴스충청인+10 | 최신:Thu, 06 Aug 2026 09:44:00 GMT+5 | 키워드+25 | 순위:111위+2",
-        "snippet": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - 뉴스충청인 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - 뉴스충청인",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
-        ],
-        "content": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - 뉴스충청인",
-        "content_length": 46,
+        "content": "천안시, 여름방학 어린이 국가예방접종 권장…감염병 예방·집단면역 강화 - cndnews.co.kr",
+        "content_length": 54,
         "published_time": "Thu, 06 Aug 2026 09:44:00 GMT",
         "modified_time": "",
         "time": "Thu, 06 Aug 2026 09:44:00 GMT",
@@ -199,7 +177,7 @@
         "source": "edaily.co.kr",
         "importance": 40,
         "stars": "⭐⭐",
-        "evidence": "출처:edaily.co.kr+28 | 최신:Thu, 06 Aug 2026 23:06:02 GMT+5 | 키워드+5 | 순위:107위+2",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Thu, 06 Aug 2026 23:06:02 GMT+5 | 키워드+5 | 순위:275위+2",
         "snippet": "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr",
@@ -217,51 +195,77 @@
         "source_url": "https://www.edaily.co.kr"
       },
       {
-        "title": "[특징주] 온코닉테라퓨틱스, “위식도역류 신약 첫 해외 품목허가” 글로벌 상업화 수혜 기대감 - 와이드경제",
-        "source": "와이드경제",
-        "importance": 37,
+        "title": "디티앤씨알오, 고려대 구로병원과 정밀의료 플랫폼 '맞손' - fnnews.com",
+        "source": "fnnews.com",
+        "importance": 40,
         "stars": "⭐⭐",
-        "evidence": "출처:와이드경제+10 | 최신:Thu, 06 Aug 2026 07:25:55 GMT+5 | 키워드+20 | 순위:163위+2",
-        "snippet": "[특징주] 온코닉테라퓨틱스, “위식도역류 신약 첫 해외 품목허가” 글로벌 상업화 수혜 기대감 - 와이드경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "evidence": "출처:fnnews.com+28 | 최신:Thu, 06 Aug 2026 22:36:29 GMT+5 | 키워드+5 | 순위:288위+2",
+        "snippet": "디티앤씨알오, 고려대 구로병원과 정밀의료 플랫폼 '맞손' - fnnews.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
-          "[특징주] 온코닉테라퓨틱스, “위식도역류 신약 첫 해외 품목허가” 글로벌 상업화 수혜 기대감 - 와이드경제",
+          "디티앤씨알오, 고려대 구로병원과 정밀의료 플랫폼 '맞손' - fnnews.com",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "[특징주] 온코닉테라퓨틱스, “위식도역류 신약 첫 해외 품목허가” 글로벌 상업화 수혜 기대감 - 와이드경제",
-        "content_length": 59,
-        "published_time": "Thu, 06 Aug 2026 07:25:55 GMT",
+        "content": "디티앤씨알오, 고려대 구로병원과 정밀의료 플랫폼 '맞손' - fnnews.com",
+        "content_length": 44,
+        "published_time": "Thu, 06 Aug 2026 22:36:29 GMT",
         "modified_time": "",
-        "time": "Thu, 06 Aug 2026 07:25:55 GMT",
-        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%8A%B9%EC%A7%95%EC%A3%BC-%EC%98%A8%EC%BD%94%EB%8B%89%ED%85%8C%EB%9D%BC%ED%93%A8%ED%8B%B1%EC%8A%A4-%EC%9C%84%EC%8B%9D%EB%8F%84%EC%97%AD%EB%A5%98-%EC%8B%A0%EC%95%BD-%EC%B2%AB-%ED%95%B4%EC%99%B8-%ED%92%88%EB%AA%A9%ED%97%88%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%83%81%EC%97%85%ED%99%94-%EC%88%98%ED%98%9C-%EA%B8%B0%EB%8C%80%EA%B0%90/ar-AA29vn4o?ocid=BingNewsVerp",
-        "source_url": "https://www.widedaily.com"
+        "time": "Thu, 06 Aug 2026 22:36:29 GMT",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%94%94%ED%8B%B0%EC%95%A4%EC%94%A8%EC%95%8C%EC%98%A4-%EA%B3%A0%EB%A0%A4%EB%8C%80-%EA%B5%AC%EB%A1%9C%EB%B3%91%EC%9B%90%EA%B3%BC-%EC%A0%95%EB%B0%80%EC%9D%98%EB%A3%8C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%A7%9E%EC%86%90/ar-AA29yaUw?ocid=BingNewsVerp",
+        "source_url": "https://www.fnnews.com"
+      },
+      {
+        "title": "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Thu, 06 Aug 2026 23:06:02 GMT+5 | 키워드+5 | 순위:108위+2",
+        "snippet": "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "韓 규제 정비·美 관세 예외…삼성바이오로직스 직접 수혜군 주목 - edaily.co.kr",
+        "content_length": 49,
+        "published_time": "Thu, 06 Aug 2026 23:06:02 GMT",
+        "modified_time": "",
+        "time": "Thu, 06 Aug 2026 23:06:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDFTX052dGw1WEpvNHRMTzNKdS01c1ZfYnZQbndHZ0JucklRYXh3SXVMcGJwOGJCLWxGdnN0LUd0T1VDd1dIVks1ei1VYnNpZlBPMndiaUU5ckdNbDJVOTIyZTZVZmFfdk85end4X2Ixc0ZzUU9iWS1LVzQxd3MwQg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
       }
     ],
     "top_keywords": [
       [
         "신약",
-        21
+        27
       ],
       [
         "FDA",
-        18
+        22
       ],
       [
         "허가",
-        14
-      ],
-      [
-        "급여",
         13
       ],
       [
-        "식약처",
-        9
+        "급여",
+        12
       ],
       [
         "백신",
+        10
+      ],
+      [
+        "식약처",
+        8
+      ],
+      [
+        "R&D",
         7
       ],
       [
@@ -270,23 +274,31 @@
       ],
       [
         "제네릭",
-        3
+        5
       ],
       [
         "한약",
-        3
+        5
       ],
       [
         "임상",
-        3
+        4
       ],
       [
-        "R&D",
+        "비만",
+        2
+      ],
+      [
+        "특허",
         2
       ],
       [
         "수출",
         2
+      ],
+      [
+        "GLP-1",
+        1
       ],
       [
         "오남용",
@@ -301,33 +313,33 @@
         1
       ],
       [
-        "항암",
+        "약가",
         1
       ]
     ],
     "top_sources": [
       [
-        "데이터투자",
-        11
+        "데일리팜",
+        10
       ],
       [
-        "데일리팜",
-        9
+        "데이터투자",
+        8
+      ],
+      [
+        "약사공론",
+        6
       ],
       [
         "의약뉴스",
-        5
-      ],
-      [
-        "네이트",
-        5
+        6
       ],
       [
         "의학신문",
-        5
+        6
       ],
       [
-        "Vietnam.vn",
+        "메디파나뉴스",
         5
       ],
       [
@@ -335,65 +347,87 @@
         4
       ],
       [
-        "뉴스더보이스헬스케어",
-        4
-      ],
-      [
-        "메디팜스투데이",
+        "메디칼업저버",
         4
       ],
       [
         "청년의사",
+        4
+      ],
+      [
+        "edaily.co.kr",
         3
-      ],
-      [
-        "iusm.co.kr",
-        3
-      ],
-      [
-        "비즈워치",
-        2
-      ],
-      [
-        "뉴스1",
-        2
-      ],
-      [
-        "뉴스비전e",
-        2
       ],
       [
         "바이오타임즈",
-        2
+        3
+      ],
+      [
+        "바이오북미디어",
+        3
+      ],
+      [
+        "포인트데일리",
+        3
+      ],
+      [
+        "헬스코리아뉴스",
+        3
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        3
       ]
     ]
   },
   "english": {
-    "total": 126,
+    "total": 127,
     "categories": {
       "Drugs & Therapies": 25,
       "Pharma Industry": 25,
       "Pharma Policy": 25,
       "Pharma Associations": 25,
       "Regulatory Agencies": 25,
-      "Traditional & Complementary Medicine": 1
+      "Traditional & Complementary Medicine": 2
     },
     "top_articles": [
       {
-        "title": "Korea pharma chiefs skip vacations to tackle trials, push overseas sales - CHOSUNBIZ - Chosunbiz",
-        "source": "Chosunbiz",
-        "importance": 65,
+        "title": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
+        "source": "Reuters",
+        "importance": 67,
         "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Chosunbiz+28 | 최신:Thu, 06 Aug 2026 21:01:00 GMT+5 | 키워드+30 | 순위:295위+2",
-        "snippet": "Korea pharma chiefs skip vacations to tackle trials, push overseas sales - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 06 Aug 2026 21:30:41 GMT+5 | 키워드+30 | 순위:333위+2",
+        "snippet": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
-          "Korea pharma chiefs skip vacations to tackle trials, push overseas sales - CHOSUNBIZ - Chosunbiz",
+          "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "Korea pharma chiefs skip vacations to tackle trials, push overseas sales - CHOSUNBIZ - Chosunbiz",
+        "content": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
+        "content_length": 77,
+        "published_time": "Thu, 06 Aug 2026 21:30:41 GMT",
+        "modified_time": "",
+        "time": "Thu, 06 Aug 2026 21:30:41 GMT",
+        "url": "https://www.msn.com/en-us/health/general/us-fda-approves-replimune-s-skin-cancer-drug-after-prior-rejections/ar-AA29yA1z?ocid=BingNewsVerp",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Thu, 06 Aug 2026 21:01:00 GMT+5 | 키워드+30 | 순위:282위+2",
+        "snippet": "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz",
         "content_length": 96,
         "published_time": "Thu, 06 Aug 2026 21:01:00 GMT",
         "modified_time": "",
@@ -406,7 +440,7 @@
         "source": "Reuters",
         "importance": 62,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:Thu, 06 Aug 2026 21:30:41 GMT+5 | 키워드+25 | 순위:123위+2",
+        "evidence": "출처:Reuters+30 | 최신:Thu, 06 Aug 2026 21:30:41 GMT+5 | 키워드+25 | 순위:130위+2",
         "snippet": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
@@ -428,7 +462,7 @@
         "source": "biopharmadive.com",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 16:10:45 GMT+5 | 키워드+30 | 순위:268위+2",
+        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 16:10:45 GMT+5 | 키워드+30 | 순위:305위+2",
         "snippet": "Takeda approval ushers in new wave of sleep drugs - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "Takeda approval ushers in new wave of sleep drugs - biopharmadive.com",
@@ -450,7 +484,7 @@
         "source": "biopharmadive.com",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 19:14:51 GMT+5 | 키워드+30 | 순위:280위+2",
+        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 19:14:51 GMT+5 | 키워드+30 | 순위:318위+2",
         "snippet": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M - biopharmadive.com",
@@ -472,7 +506,7 @@
         "source": "biopharmadive.com",
         "importance": 61,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 21:16:19 GMT+5 | 키워드+30 | 순위:292위+2",
+        "evidence": "출처:biopharmadive.com+24 | 최신:Thu, 06 Aug 2026 21:16:19 GMT+5 | 키워드+30 | 순위:331위+2",
         "snippet": "Replimune rebounds to win FDA approval of melanoma drug - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "Replimune rebounds to win FDA approval of melanoma drug - biopharmadive.com",
@@ -486,15 +520,15 @@
         "published_time": "Thu, 06 Aug 2026 21:16:19 GMT",
         "modified_time": "",
         "time": "Thu, 06 Aug 2026 21:16:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb1YzVGxJSGFMTzl6TGxLbjgzbS1ONHVKSjFHUjJjQVRkU3llVFE5MDduRUlCMmY3MVZTOFFJbVg0azVjWFhfdW4zYi1lNUFhRHpYUG9pXzYyeGlsR210LVlaZmF6RjZqdGZzcENVUHYxQk9ELXBTVzMxb3BIeVdUSHljMC1zYUNsZ2NwWWpuYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
         "source_url": "https://www.biopharmadive.com"
       },
       {
         "title": "Folklore, traditional wisdom and more at Carndonagh 'Walk and Talk' - Donegal Daily",
         "source": "Donegal Daily",
-        "importance": 58,
+        "importance": 55,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Donegal Daily+10 | 최신:Thu, 06 Aug 2026 14:30:00 GMT+5 | 키워드+25 | 순위:4위+18",
+        "evidence": "출처:Donegal Daily+10 | 최신:Thu, 06 Aug 2026 14:30:00 GMT+5 | 키워드+25 | 순위:8위+15",
         "snippet": "Folklore, traditional wisdom and more at Carndonagh 'Walk and Talk' - Donegal Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "Folklore, traditional wisdom and more at Carndonagh 'Walk and Talk' - Donegal Daily",
@@ -512,92 +546,70 @@
         "source_url": "https://www.donegaldaily.com"
       },
       {
-        "title": "Two FDA approvals — a new drug and a new vaccine - STAT",
+        "title": "Feeling the heat? Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore",
+        "source": "Vogue Singapore",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vogue Singapore+10 | 최신:Fri, 07 Aug 2026 02:08:22 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "Feeling the heat? | Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Feeling the heat?",
+          "Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Feeling the heat? Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore",
+        "content_length": 83,
+        "published_time": "Fri, 07 Aug 2026 02:08:22 GMT",
+        "modified_time": "",
+        "time": "Fri, 07 Aug 2026 02:08:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15SUhsbGx6M25Jc2J3NlVvMUtLTjJpYUtLTU1qaHBlWTZ1a05yRGlVOXlJeHNUZ2ludjlZZ2NRSXNNaVZXS09qN0Nfc012UXdTd0JZWnptbmJWWGlVWlFPNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://vogue.sg"
+      },
+      {
+        "title": "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News",
+        "source": "Drug Discovery News",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Drug Discovery News+10 | 최신:Fri, 07 Aug 2026 03:36:02 GMT+5 | 키워드+30 | 순위:304위+2",
+        "snippet": "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News",
+        "content_length": 91,
+        "published_time": "Fri, 07 Aug 2026 03:36:02 GMT",
+        "modified_time": "",
+        "time": "Fri, 07 Aug 2026 03:36:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmtuaDM4bmJKLU9ZM2wtNjVZQTlpQjVNZnFyXzN6emxXTEpYMEdrbkF6MjBUQjUxREF1dVd1TGwwSzVDM0VuMElmWlF1UHlMXzdIRDNyYWkxZ0Z4MDNiQjZwb2FGRnI5UnhpZzJmZWNuWmNHLU5qcGNrWXlFMmdRTEVSNDViOW9PRm01TTc2d1BLQlQtcWRuSEFfaGx3RS1ISzZZREQ5RExHallFWHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.drugdiscoverynews.com"
+      },
+      {
+        "title": "FDA approves Replimune melanoma drug previously rejected twice - STAT",
         "source": "STAT",
         "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:STAT+10 | 최신:Thu, 06 Aug 2026 13:52:07 GMT+5 | 키워드+30 | 순위:269위+2",
-        "snippet": "Two FDA approvals — a new drug and a new vaccine - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "evidence": "출처:STAT+10 | 최신:Thu, 06 Aug 2026 20:04:45 GMT+5 | 키워드+30 | 순위:307위+2",
+        "snippet": "FDA clears Replimune melanoma drug RP1 for continued testing | Skip to Main Content | FDA approves Replimune melanoma drug previously rejected twice | Reversal, capping a tumultuous saga, is a big win for the biotech com",
         "summary_lines": [
-          "Two FDA approvals — a new drug and a new vaccine - STAT",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
+          "FDA clears Replimune melanoma drug RP1 for continued testing",
+          "Skip to Main Content",
+          "FDA approves Replimune melanoma drug previously rejected twice",
+          "Reversal, capping a tumultuous saga, is a big win for the biotech company, patient advocates",
+          "Manage alerts for this article"
         ],
-        "content": "Two FDA approvals — a new drug and a new vaccine - STAT",
-        "content_length": 55,
-        "published_time": "Thu, 06 Aug 2026 13:52:07 GMT",
+        "content": "FDA clears Replimune melanoma drug RP1 for continued testing\n Skip to Main Content\n STAT Plus\n Biotech\nFDA approves Replimune melanoma drug previously rejected twice\nReversal, capping a tumultuous saga, is a big win for the biotech company, patient advocates\n Manage alerts for this article\n Email this article\n Share this article\n Adobe\nBy Elaine Chen\nAug. 6, 2026\n Chen, a national biotech reporter, is the co-author of The Readout , a newsletter about the business, science, and politics of biotech.\n Elaine Chen\n [email protected]\nElaine’s stories explore the boom in new obesity treatments, new drug payment models, the ways companies are affected by FDA changes, and the emerging psychedelics drug sector. She co-writes The Readout newsletter , and co-hosts STAT’s weekly biotech podcast, The Readout Loud . You can reach Elaine on Signal at elaineywchen.70.\nThe Food and Drug Administration has cleared Replimune’s treatment for advanced melanoma, dealing the biotech a major win after a tumultuous saga of trying to seek approval for the controversial treatment.\nThe FDA’s decision to grant accelerated approval to the drug, which is called RP1 and will be marketed as Tudriqev, came after its advisers last week voted in support of the treatment . Even though FDA staff expressed concerns about the design and conduct of Replimune’s key trial, advisers ultimately believed there was a large enough signal of efficacy and that patients are in urgent need of new treatments.\nAdvertisement\nThe list price of Tudriqev will be $450,000 per course of therapy before customary rebates and discounts, Replimune said.\nSTAT+ Exclusive Story\nAlready have an account? Log in\nThis article is exclusive to STAT+ subscribers\nUnlock this article — plus daily coverage and analysis of the biotech sector — by subscribing to STAT+.\nAlready have an account? Log in\n Individual plans\n Group plans\nMonthly\n$39\nTotals $468 per year\n $39/month\n Get Started\nTotals $468 per year\nStarter\n$30\nfor 3 months, then $399/year\n $30 for 3 months\n Get Started\nThen $399/year\nAnnual\n$399\nSave 15%\n $399/year\n Get Started\nSave 15%\n11+ Users\nCustom\nSavings start at 25%!\n Request A Quote\n Request A Quote\nSavings start at 25%!\n2-10 Users\n$300\nAnnually per user\n $300/year\n Get Started\n$300 Annually per user\n View All Plans\n To read the rest of this story subscribe to STAT+.\n Subscribe\n Log In\n biotechnology , Cancer , drug development , FDA , Pharmaceuticals , STAT+\n Submit a correction request Reprints\n Elaine Chen\nNational Biotech Reporter\nElaine’s stories explore the boom in new obesity treatments, new drug payment models, the ways companies are affected by FDA changes, and the emerging psychedelics drug sector. She co-writes The Readout newsletter , and co-hosts STAT’s weekly biotech podcast, The Readout Loud . You can reach Elaine on Signal at elaineywchen.70.\nNewsletter\nYour morning rundown of the science, politics, and money driving biotech today\n Please enter a valid email address.\n Sign Up\n Your data will be processed in accordance with our Privacy Policy and Terms of Service . You may opt out of receiving STAT communications at any time.\nRecommended\nBiotech\n Biotech\n August 6, 2026\n STAT Plus: Study reveals new role for tau, a top target for Alzheimer’s drug development\nThe Readout\n The Readout\n August 6, 2026\n STAT Plus: Two FDA approvals — a new drug and a new vaccine\nAdvertisement\nFirst Opinion\n First Opinion\n August 6, 2026\n One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was\nAdam's Biotech Scorecard\n Adam's Biotech Scorecard\n August 6, 2026\n STAT Plus: Biotech’s next big bet: A Tenax study of a heart failure treatment\nBiotech\n Biotech\n August 6, 2026\n STAT Plus: A scientist-turned-biotech executive is notching some wins, and enjoying it\nSubscriber Picks",
+        "content_length": 3804,
+        "published_time": "Thu, 06 Aug 2026 20:04:45 GMT",
         "modified_time": "",
-        "time": "Thu, 06 Aug 2026 13:52:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUJHN2ZDOHBjQjNCLWhXT3l5UE9yRmNBYlIxT2kteDhtaWFZd19GckpLU0RMS21VRlhGSXFpTGxiY255ZVB3NEdFdEFlVmtLZlc4UXZmTDlnOGlZZ3ZaSEY1N3ZrSno4LVBmTkNqbDEwSzRGNGl0dVZtdzdhYklsbU5mV1hmWHByMUZnU0M0bFp3TDRvRktOV0pnM3Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "time": "Thu, 06 Aug 2026 20:04:45 GMT",
+        "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/",
         "source_url": "https://www.statnews.com"
-      },
-      {
-        "title": "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com",
-        "source": "PharmTech.com",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:PharmTech.com+10 | 최신:Thu, 06 Aug 2026 20:31:50 GMT+5 | 키워드+30 | 순위:270위+2",
-        "snippet": "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
-        ],
-        "content": "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com",
-        "content_length": 71,
-        "published_time": "Thu, 06 Aug 2026 20:31:50 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 20:31:50 GMT",
-        "url": "https://www.pharmtech.com/view/why-the-orzeyful-approval-matters-beyond-one-drug-class",
-        "source_url": "https://www.pharmtech.com"
-      },
-      {
-        "title": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology",
-        "source": "Pharmaceutical Technology",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Pharmaceutical Technology+10 | 최신:Thu, 06 Aug 2026 17:05:51 GMT+5 | 키워드+30 | 순위:273위+2",
-        "snippet": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
-        ],
-        "content": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology",
-        "content_length": 98,
-        "published_time": "Thu, 06 Aug 2026 17:05:51 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 17:05:51 GMT",
-        "url": "https://www.msn.com/en-us/health/medical/takeda-nets-first-in-class-advantage-on-narcolepsy-drug-s-fda-go-ahead/ar-AA29yRmZ?ocid=BingNewsVerp",
-        "source_url": "https://www.pharmaceutical-technology.com"
-      },
-      {
-        "title": "FDA Approves First-in-Class Narcolepsy Drug - MedPage Today",
-        "source": "MedPage Today",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:MedPage Today+10 | 최신:Thu, 06 Aug 2026 20:46:04 GMT+5 | 키워드+30 | 순위:275위+2",
-        "snippet": "Access Denied | Access Denied | You don't have permission to access \"http://www.medpagetoday.com/neurology/sleepdisorders/122519\" on this server. | Reference #18.36a93417.1786064638.1258ae6c | https://errors.edgesuite.ne",
-        "summary_lines": [
-          "Access Denied",
-          "Access Denied",
-          "You don't have permission to access \"http://www.medpagetoday.com/neurology/sleepdisorders/122519\" on this server.",
-          "Reference #18.36a93417.1786064638.1258ae6c",
-          "https://errors.edgesuite.net/18.36a93417.1786064638.1258ae6c"
-        ],
-        "content": "Access Denied\nAccess Denied\nYou don't have permission to access \"http://www.medpagetoday.com/neurology/sleepdisorders/122519\" on this server.\nReference #18.36a93417.1786064638.1258ae6c\nhttps://errors.edgesuite.net/18.36a93417.1786064638.1258ae6c",
-        "content_length": 245,
-        "published_time": "Thu, 06 Aug 2026 20:46:04 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 20:46:04 GMT",
-        "url": "https://www.medpagetoday.com/neurology/sleepdisorders/122519",
-        "source_url": "https://www.medpagetoday.com"
       }
     ],
     "top_keywords": [
@@ -607,15 +619,19 @@
       ],
       [
         "approval",
-        12
+        13
       ],
       [
         "vaccine",
-        10
+        6
       ],
       [
         "manufacturing",
         4
+      ],
+      [
+        "obesity",
+        3
       ],
       [
         "GLP-1",
@@ -626,22 +642,22 @@
         2
       ],
       [
-        "recall",
-        2
-      ],
-      [
         "clinical trial",
         1
       ],
       [
         "regulation",
         1
+      ],
+      [
+        "recall",
+        1
       ]
     ],
     "top_sources": [
       [
         "openPR.com",
-        30
+        23
       ],
       [
         "biopharmadive.com",
@@ -652,11 +668,27 @@
         4
       ],
       [
+        "Reuters",
+        3
+      ],
+      [
+        "Drug Discovery News",
+        3
+      ],
+      [
         "Drug Topics",
         3
       ],
       [
-        "ET Pharma",
+        "koreabiomed.com",
+        3
+      ],
+      [
+        "Stock Titan",
+        3
+      ],
+      [
+        "The Economic Times",
         3
       ],
       [
@@ -672,66 +704,72 @@
         2
       ],
       [
-        "pharmaphorum",
-        2
-      ],
-      [
-        "Chosunbiz",
-        2
-      ],
-      [
         "PR Newswire",
         2
       ],
       [
-        "economictimes.com",
+        "Barron's",
         2
       ],
       [
-        "Pharmaceutical Executive",
-        2
-      ],
-      [
-        "Medical Daily",
-        2
-      ],
-      [
-        "WSJ",
+        "Kalkine",
         2
       ]
     ]
   },
   "multilingual": {
-    "total": 88,
+    "total": 98,
     "languages": {
-      "French / 프랑스어": 3,
+      "French / 프랑스어": 4,
       "German / 독일어": 0,
       "Spanish / 스페인어": 10,
-      "Italian / 이탈리아어": 4,
+      "Italian / 이탈리아어": 5,
       "Portuguese / 포르투갈어": 10,
-      "Dutch / 네덜란드어": 3,
+      "Dutch / 네덜란드어": 4,
       "Swedish / 스웨덴어": 0,
-      "Polish / 폴란드어": 1,
-      "Turkish / 터키어": 2,
+      "Polish / 폴란드어": 2,
+      "Turkish / 터키어": 4,
       "Russian / 러시아어": 10,
       "Japanese / 일본어": 0,
       "Chinese Simplified / 중국어": 1,
-      "Chinese Traditional / 대만": 1,
+      "Chinese Traditional / 대만": 2,
       "Vietnamese / 베트남어": 10,
-      "Thai / 태국어": 7,
-      "Indonesian / 인도네시아어": 8,
+      "Thai / 태국어": 8,
+      "Indonesian / 인도네시아어": 10,
       "Hindi / 힌디어": 10,
-      "Arabic / 아랍어": 5,
-      "Hebrew / 히브리어": 3,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 2,
       "Persian / 페르시아어": 0
     },
     "top_articles": [
+      {
+        "title": "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网",
+        "source": "广西新闻网",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:广西新闻网+10 | 최신:Fri, 07 Aug 2026 01:42:00 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网",
+        "content_length": 35,
+        "published_time": "Fri, 07 Aug 2026 01:42:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 07 Aug 2026 01:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lT3VkRW9vYlpnVXA1QUhCV3dsd0NSWU1ud0hsS21ld2NPLU5ERWJGTEJMZUFZRlJBMWlqcFAwT3dqVXNyRVRBeFRlZmRQSENqNEg5VVZiTF95dDNVdGdSS3lGVVEyTXFjdmQxT1pZc2dMNWVrdkJXQUtuczVBMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "http://www.gxnews.com.cn"
+      },
       {
         "title": "Remboursement des médicaments : des pharmaciens de Dordogne s’élèvent contre les baisses à venir - Dordogne Libre",
         "source": "Dordogne Libre",
         "importance": 53,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Dordogne Libre+10 | 최신:Thu, 06 Aug 2026 17:11:32 GMT+5 | 키워드+20 | 순위:4위+18",
+        "evidence": "출처:Dordogne Libre+10 | 최신:Thu, 06 Aug 2026 17:11:32 GMT+5 | 키워드+20 | 순위:5위+18",
         "snippet": "Remboursement des médicaments : des pharmaciens de Dordogne s’élèvent contre les baisses à venir - Dordogne Libre | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "Remboursement des médicaments : des pharmaciens de Dordogne s’élèvent contre les baisses à venir - Dordogne Libre",
@@ -749,33 +787,11 @@
         "source_url": "https://www.dordognelibre.fr"
       },
       {
-        "title": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews.com",
-        "source": "bangkokbiznews.com",
-        "importance": 50,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:bangkokbiznews.com+10 | 최신:Thu, 06 Aug 2026 10:03:00 GMT+5 | 키워드+20 | 순위:8위+15",
-        "snippet": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews.com",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가",
-          "요약문 생성 불가"
-        ],
-        "content": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews.com",
-        "content_length": 91,
-        "published_time": "Thu, 06 Aug 2026 10:03:00 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 10:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRVZQbEhYOHRsVVRmOGh4NjRYRDRPUm5rTUdYQk9YR2JicG1OajJOQURlTlViZmxZemZ1QVMtejBzVzVkUkdwaWRoeENIT3hqVThldWtQLVZYRm9OZXp5eE12bi1qSGtRUnJF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source_url": "https://www.bangkokbiznews.com"
-      },
-      {
         "title": "לחזק את ניהול צמחי מרפא כדי להבטיח את בטיחות המשתמשים. - Vietnam.vn",
         "source": "Vietnam.vn",
-        "importance": 50,
+        "importance": 53,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 06 Aug 2026 10:29:57 GMT+5 | 키워드+20 | 순위:6위+15",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Thu, 06 Aug 2026 10:29:57 GMT+5 | 키워드+20 | 순위:4위+18",
         "snippet": "לחזק את ניהול צמחי מרפא כדי להבטיח את בטיחות המשתמשים. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
           "לחזק את ניהול צמחי מרפא כדי להבטיח את בטיחות המשתמשים.",
@@ -793,66 +809,78 @@
         "source_url": "https://www.vietnam.vn"
       },
       {
-        "title": "Bóc trần sự thật “Thuốc Đông y gia truyền” được quảng cáo như thần dược - congly.vn",
-        "source": "congly.vn",
-        "importance": 47,
+        "title": "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn",
+        "source": "vietnam.vn",
+        "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:congly.vn+10 | 최신:Thu, 06 Aug 2026 07:41:01 GMT+5 | 키워드+30 | 순위:68위+2",
-        "snippet": "Bóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần dược - Báo Công Lý | Kết quả xổ số | Giá vàng hôm nay | Pháp luật An ninh - Trật tự | Bóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần ",
+        "evidence": "출처:vietnam.vn+10 | 최신:Thu, 06 Aug 2026 23:56:19 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
         "summary_lines": [
-          "Bóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần dược - Báo Công Lý",
-          "Kết quả xổ số",
-          "Giá vàng hôm nay",
-          "Pháp luật An ninh - Trật tự",
-          "Bóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần dược"
-        ],
-        "content": "Bóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần dược - Báo Công Lý\n Bóng đá\n Chủ đề nóng\n Tiện ích\n Kết quả xổ số\n Giá vàng hôm nay\n Thời tiết\n Lịch âm\n Pháp luật An ninh - Trật tự\nBóc trần sự thật 'Thuốc Đông y gia truyền' được quảng cáo như thần dược\nCơ quan Công an vừa bóc trần sự thật phía sau 'Thuốc Đông y gia truyền' được quảng cáo như thần dược chữa bách bệnh.\n 16 giờ trước 20 liên quan Gốc\nNgày 3/8, Cơ quan Cảnh sát điều tra Công an TP. Hà Nội đã ra Quyết định khởi tố vụ án hình sự, khởi tố bị can đối với Hà Quang Phước (SN 1952, trú tại số 34 khu tập thể Ngân hàng, phường Dương Nội, TP. Hà Nội) và Bùi Thị Tiết (SN 1988, trú tại xóm Mý Thượng, xã Dũng Tiến, tỉnh Phú Thọ) về hành vi “Sản xuất, buôn bán hàng giả là thuốc chữa bệnh”, quy định tại khoản 1 Điều 194 Bộ luật Hình sự.\n Các đối tượng trong đường dây sản xuất \"Thuốc Đông y gia truyền\" trộn hóa dược.\nTheo tài liệu điều tra, từ năm 2024, do thuốc Đông y bán chậm vì hiệu quả không nhanh, Phước nảy sinh ý định pha trộn thuốc hóa dược, tân dược có thành phần giảm đau vào thuốc Đông y, thuốc cổ truyền nhằm tạo tác dụng nhanh hơn, hiệu quả hơn và thu hút người mua.\nPhước đã mua nhiều loại thuốc, gồm: OPHAZIDON có thành phần Paracetamol; PARACETAMOL; DEXONE; Deltal-Amtex có thành phần Prednisolone; CLORPHENIRAMIN; FUROSEMIDE và INDOMETHACIN. Số thuốc trên được nghiền thành bột, trộn với thuốc Đông y, thuốc cổ truyền có nguồn gốc thảo dược, sau đó đóng vào túi nilon và dán nhãn “Thuốc Đông y gia truyền”.\nThông qua quá trình tham gia sinh hoạt tại Hội thầy thuốc Đông y, Phước quen biết Bùi Thị Tiết và hướng dẫn Tiết cách sản xuất thuốc Đông y. Phước giao Tiết thu mua thảo dược của người dân tộc miền núi, đem phơi khô rồi nghiền thành bột.\nSau đó, Phước mang thuốc hóa dược, tân dược đến nhà Tiết để cùng nghiền nhỏ và pha trộn theo tỷ lệ 100 gam thuốc Đông y với 3 viên thuốc có thành phần giảm đau. Hai đối tượng cùng đóng gói, cho nhãn thuốc có nguồn gốc thảo dược vào túi nilon để bán cho người bệnh.\n Tang vật bị thu giữ trong vụ án.\nKhám xét nơi ở, nơi làm việc của Hà Quang Phước, Cơ quan Cảnh sát điều tra Công an Thành phố thu giữ 2.772 gói thuốc mang nhãn “ĐÔNG Y GIA TRUYỀN”, giới thiệu được bào chế từ cây bách bệnh và một số cây thuốc nam; nhiều lọ, hộp thuốc hóa dược, tân dược; vỏ thuốc đã qua sử dụng cùng các bao nguyên liệu dạng bột màu nâu.\nTại nơi ở, nơi làm việc của Bùi Thị Tiết, lực lượng chức năng thu giữ 3.000 gói sản phẩm thuốc Đông y gia truyền “BÁCH BỆNH”; 3 quyển sổ ghi chép hoạt động buôn bán; tem, nhãn và túi nilon đóng gói sản phẩm; 1 máy ép nhiệt; 1 máy nghiền cùng nhiều loại thuốc hóa dược, tân dược.\nQuá trình điều tra mở rộng, Cơ quan Cảnh sát điều tra Công an TP. Hà Nội tiếp tục khám xét, thu giữ thêm nhiều sản phẩm thuốc Đông y có pha trộn thuốc tân dược do Hà Quang Phước sản xuất, buôn bán.\nHiện vụ án đang được Cơ quan Cảnh sát điều tra Công an TP. Hà Nội tiếp tục điều tra, xử lý theo quy định của pháp luật .\n Đức Sơn\n gia truyền\n bóc trần\n Hà Quang Phước\n Bùi Thị Tiết\n Đông y\n bách bệnh\n thần dược\n xóm Mý Thượng\n OPHAZIDON\n FUROSEMIDE\n Nguồn Công Lý : https://congly.vn/boc-tran-su-that-thuoc-dong-y-gia-truyen-duoc-quang-cao-nhu-than-duoc-533746.html",
-        "content_length": 3205,
-        "published_time": "Thu, 06 Aug 2026 07:41:01 GMT",
-        "modified_time": "",
-        "time": "Thu, 06 Aug 2026 07:41:01 GMT",
-        "url": "https://baomoi.com/boc-tran-su-that-thuoc-dong-y-gia-truyen-duoc-quang-cao-nhu-than-duoc-c55775831.epi",
-        "source_url": "https://congly.vn"
-      },
-      {
-        "title": "Hợp tác xã Sinh Dược – Mô hình phát triển sản phẩm dược liệu gắn với bảo tồn tri thức bản địa và gia tăng giá trị tài nguyên địa phương - Học viện Nông nghiệp Việt Nam",
-        "source": "Học viện Nông nghiệp Việt Nam",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Học viện Nông nghiệp Việt Nam+10 | 최신:Thu, 06 Aug 2026 09:45:00 GMT+5 | 키워드+30 | 순위:80위+2",
-        "snippet": "Hợp tác xã Sinh Dược – Mô hình phát triển sản phẩm dược liệu gắn với bảo tồn tri thức bản địa và gia tăng giá trị tài nguyên địa phương - Học viện Nông nghiệp Việt Nam | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-        "summary_lines": [
-          "Hợp tác xã Sinh Dược – Mô hình phát triển sản phẩm dược liệu gắn với bảo tồn tri thức bản địa và gia tăng giá trị tài nguyên địa phương - Học viện Nông nghiệp Việt Nam",
+          "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가",
           "요약문 생성 불가"
         ],
-        "content": "Hợp tác xã Sinh Dược – Mô hình phát triển sản phẩm dược liệu gắn với bảo tồn tri thức bản địa và gia tăng giá trị tài nguyên địa phương - Học viện Nông nghiệp Việt Nam",
-        "content_length": 167,
-        "published_time": "Thu, 06 Aug 2026 09:45:00 GMT",
+        "content": "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn",
+        "content_length": 95,
+        "published_time": "Thu, 06 Aug 2026 23:56:19 GMT",
         "modified_time": "",
-        "time": "Thu, 06 Aug 2026 09:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOeGRRWldyajJwZTVNYWx5VDNLU1FHeDJVSU9HRXo1QzFUaGxZbkV2b2lzdjlVblVvT1VWc2VhdVNGVzd2T3dGclp6TE9KUTR6WjdKSHBKOGFHdTNPTk40UVJ5TnJmeHNoNWlzTGw4NVpTczA3dGNLRmVyczVnME91ZDFRTXV0aGFDV3pLeXNYRjJOdVBGNmRMR0ZBUWdwamRsSDlRUVBYM2gtZktBdWI1QU56NGlndjRXSHhzRVRuOWsxT2FmV00zQXJIVWFkbG5zXzVQODZsVllTcFU3VGZqQVlxbTVuTlBWSHV4bmhxY1ViaWkwQWp4WVA0TGNkMldUWU91R1lYRXhER1Y0djFvS2tibnlQcEtMMVJGdnhIbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "source_url": "https://vnua.edu.vn"
+        "time": "Thu, 06 Aug 2026 23:56:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEp1RzUtRmhuN2RTb1U3bnVpTmlBdTRHOWVVYXlUM21hZi1tRE8zS2M5Wi12M012X2swR2FUbjlKTmhKV0hHUnNLXzJWVW1IV0Fzb3ZFM2k5ZEQydEJ2U05zZDduNXJELXc3M0c4amp5ZmNfNm5ieGNuUndxcEFKVmhlSGFWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews",
+        "source": "bangkokbiznews",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:bangkokbiznews+10 | 최신:Thu, 06 Aug 2026 10:03:00 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews",
+        "content_length": 87,
+        "published_time": "Thu, 06 Aug 2026 10:03:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 06 Aug 2026 10:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRVZQbEhYOHRsVVRmOGh4NjRYRDRPUm5rTUdYQk9YR2JicG1OajJOQURlTlViZmxZemZ1QVMtejBzVzVkUkdwaWRoeENIT3hqVThldWtQLVZYRm9OZXp5eE12bi1qSGtRUnJF?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.bangkokbiznews.com"
       }
     ],
     "top_keywords": [],
     "top_sources": [
       [
         "Vietnam.vn",
-        13
+        16
       ],
       [
-        "El Globalfarma",
+        "elglobalfarma.com",
         4
+      ],
+      [
+        "vietnam.vn",
+        4
+      ],
+      [
+        "rri.co.id",
+        3
       ],
       [
         "Spherical Insights",
         2
       ],
       [
-        "ICTQ",
+        "Farmacista33",
+        2
+      ],
+      [
+        "Báo Dân Việt",
         2
       ],
       [
@@ -880,23 +908,11 @@
         1
       ],
       [
-        "MinutoYA",
-        1
-      ],
-      [
-        "Farmacista33",
-        1
-      ],
-      [
         "INNLIFES",
         1
       ],
       [
-        "Saúde Digital News",
-        1
-      ],
-      [
-        "Rádio Itatiaia",
+        "saudedigitalnews.com.br",
         1
       ]
     ]
