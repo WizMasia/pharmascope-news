@@ -1,8 +1,16 @@
 # 🔬 PharmaScope — 의약업계 글로벌 동향 수집
 
-**마지막 갱신:** 2026-08-06 16:37 KST  
-**소스:** Bing News (직접 URL, CBM 0건)  
+**마지막 갱신:** 2026-08-06 16:37 KST<br>
+**소스:** Google News RSS 발견 → Bing 직접 URL 매칭 → 정적 HTML 본문 추출<br>
 **평가:** 정수 중요도 0~100 (⭐~⭐⭐⭐⭐⭐)
+
+---
+
+## 수집 방식·운영 기준
+
+현재 수집은 Google News RSS를 기사 발견용으로 사용하고, 기사별로 Bing News를 재검색해 직접 언론사 URL을 확보한 뒤 정적 HTML 본문을 수집합니다. Bing 매칭 실패나 본문 미확보 상태는 숨기지 않고 일일 원본 데이터와 분석 파일에 기록합니다.
+
+자세한 범주, 검색 구성, 시간·중복 필터, URL 매칭 점수, 상태값, 산출물, 크론 작업은 [뉴스 크롤러 운영 문서](docs/NEWS_CRAWLER_OPERATION.md)를 참조하세요.
 
 ---
 
@@ -45,10 +53,10 @@
 | 🇰🇷 한국어 | 2456건 |
 | 🌐 영어 | 1872건 |
 | 🌏 다국어 | 1357건 |
-| 소스 | Bing News HTML (직접 URL) |
+| 소스 | Google RSS 발견 + Bing 직접 URL 매칭 |
 | 수집 시간 | 매일 06:30 KST |
 | 분석 시간 | 매일 07:30 KST |
 
 ---
 
-*PharmaScope v4 — Bing Only (100% Direct URLs, No CBM)*
+*PharmaScope v4 — Google Discovery + Bing Direct URL Matching*

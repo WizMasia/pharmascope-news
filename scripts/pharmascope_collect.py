@@ -1,22 +1,455 @@
 #!/usr/bin/env python3
 """
-PharmaScope (의약스코프) - v4 Google RSS Main
+PharmaScope (의약스코프) - v4 Google Discovery + Bing Direct URL
 ==============================================
-Google News RSS 메인 수집 + 브라우저 해석 대기열 생성
-Bing News HTML은 보조/백업 소스
+Google News RSS로 기사 메타데이터를 발견하고, Google URL은 Bing News
+제목·출처 매칭으로 직접 언론사 URL을 확보한 뒤 정적 HTML 본문을 추출한다.
+Bing News HTML은 수집 부족 시 보조 소스이기도 하다.
 Adapter Pattern + 중요도 평가(정수)
 """
+import html
 import sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from adapters import *
+from google_bing_bridge import resolve_via_bing
 from html import unescape
 from datetime import datetime, timedelta, timezone
 import json, subprocess, re
+from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+
+
+def normalize_url(url: str) -> str:
+    if not url:
+        return ''
+    return str(url).strip().strip('"\'').replace('\n', '').replace('	', '')
+
+
+def normalize_text(text: str) -> str:
+    if not text:
+        return ''
+    t = text.replace('\r', '\n').replace('\t', ' ')
+    t = re.sub(r'\n{3,}', '\n\n', t)
+    t = re.sub(r' {2,}', ' ', t)
+    t = re.sub(r'\s+\n', '\n', t)
+    return t.strip()
+
+
+def _strip_html(body: str) -> str:
+    if not body:
+        return ''
+    body = re.sub(r'(?is)<script.*?>.*?</script>', ' ', body)
+    body = re.sub(r'(?is)<style.*?>.*?</style>', ' ', body)
+    body = re.sub(r'(?is)<noscript.*?>.*?</noscript>', ' ', body)
+    body = re.sub(r'(?is)<header.*?>.*?</header>', ' ', body)
+    body = re.sub(r'(?is)<footer.*?>.*?</footer>', ' ', body)
+    body = re.sub(r'(?is)<nav.*?>.*?</nav>', ' ', body)
+    body = re.sub(r'(?is)<aside.*?>.*?</aside>', ' ', body)
+    body = re.sub(r'(?is)<(br|p|div|li|ul|ol|tr|h[1-6]|article|section|main)[^>]*>', '\n', body)
+    body = re.sub(r'(?is)</(p|div|li|ul|ol|tr|h[1-6]|article|section|main)>', '\n', body)
+    body = re.sub(r'(?is)<[^>]+>', ' ', body)
+    body = html.unescape(body)
+    return normalize_text(body)
+
+
+def _extract_meta_description(body: str) -> str:
+    if not body:
+        return ''
+    patterns = [
+        r'<meta[^>]+property="og:description"[^>]+content="([^"]+)"',
+        r'<meta[^>]+name="description"[^>]+content="([^"]+)"',
+        r'<meta[^>]+name="twitter:description"[^>]+content="([^"]+)"',
+    ]
+    for pat in patterns:
+        m = re.search(pat, body, re.IGNORECASE)
+        if m:
+            return html.unescape(m.group(1)).strip()
+    return ''
+
+
+def resolve_final_url(raw_url: str) -> str:
+    url = normalize_url(raw_url)
+    if not url:
+        return url
+    try:
+        cmd = [
+            'curl', '-sSL', '-o', '/dev/null',
+            '-w', '%{url_effective}',
+            '--max-time', '12', '--connect-timeout', '8',
+            '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36',
+            url,
+        ]
+        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=16)
+        if proc.returncode == 0:
+            final = (proc.stdout or '').strip()
+            if final.startswith(('http://', 'https://')):
+                return final
+    except Exception:
+        pass
+    return url
+
+
+def fetch_fulltext(url: str, fallback: str = '') -> str:
+    url = normalize_url(url)
+    if not url:
+        return normalize_text(fallback)
+    try:
+        proc = subprocess.run(
+            [
+                'curl', '-sL', '--compressed',
+                '--max-time', '15', '--connect-timeout', '8',
+                '--max-filesize', '3000000',
+                '-A', 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36',
+                url,
+            ],
+            capture_output=True,
+            text=True,
+            timeout=20,
+        )
+        body = proc.stdout or ''
+    except Exception:
+        body = ''
+
+    if not body:
+        return normalize_text(fallback)
+    if '<html' not in body.lower() and '<body' not in body.lower():
+        text = body.strip()
+    else:
+        text = _strip_html(body)
+        if not text:
+            text = _extract_meta_description(body)
+    text = normalize_text(text)
+    if not text or text.lower() in {'google news', 'google news', 'google news\u202f: what\'s happening', 'home'}:
+        text = ''
+    if text and len(text) <= 20:
+        # 너무 짧은 페이지 단독 텍스트는 본문으로 보기 어렵다고 판단하고 패스
+        text = ''
+    return text or normalize_text(fallback)
+
+
+def summarize_to_five_lines(text: str, title: str = ''):
+    raw = normalize_text(text)
+    if not raw:
+        raw = normalize_text(title)
+
+    lines = []
+    if raw:
+        raw = re.sub(r'(?<=[.!?。！？])\s+', '\n', raw)
+        raw = re.sub(r'\n{2,}', '\n', raw)
+        for item in raw.split('\n'):
+            s = normalize_text(item)
+            if len(s) < 12:
+                continue
+            if not any(ch.isalnum() for ch in s):
+                continue
+            lines.append(s)
+            if len(lines) >= 5:
+                break
+
+    if not lines:
+        words = normalize_text(text).split(' ')
+        if words:
+            for i in range(0, len(words), 20):
+                chunk = ' '.join(words[i:i+20])
+                if chunk:
+                    lines.append(chunk)
+                if len(lines) >= 5:
+                    break
+
+    while len(lines) < 5:
+        lines.append('요약문 생성 불가')
+
+    return lines[:5]
+
+
+def enrich_articles(all_data: dict):
+    """Resolve URLs, crawl full text and generate 5-line summaries for all articles."""
+    stats = {
+        'processed': 0,
+        'url_resolved': 0,
+        'fulltext_ok': 0,
+        'bing_attempted': 0,
+        'bing_matched': 0,
+        'bing_failed': 0,
+    }
+    articles = []
+
+    for section_data in all_data.values():
+        if not isinstance(section_data, dict):
+            continue
+        for items in section_data.values():
+            if not isinstance(items, list):
+                continue
+            for art in items:
+                if not isinstance(art, dict):
+                    continue
+                original_url = normalize_url(art.get('url', '') or art.get('source_url', ''))
+                if not original_url:
+                    continue
+                if 'source_url' not in art:
+                    art['source_url'] = art.get('source_url') or art.get('url', '')
+                # 수집용 URL은 원본 기사 URL을 유지
+                if art.get('url'):
+                    art['url'] = original_url
+                articles.append(art)
+
+    def _enrich(art):
+        original_url = normalize_url(art.get('url', ''))
+        final_url = original_url
+        url_source = 'original_direct'
+        bing_match = None
+        if 'news.google.com/rss/articles/' in original_url:
+            stats['bing_attempted'] += 1
+            try:
+                bing_match = resolve_via_bing(art, threshold=70)
+            except Exception:
+                bing_match = None
+            if bing_match:
+                final_url = bing_match['url']
+                url_source = 'bing_match'
+                stats['bing_matched'] += 1
+            else:
+                stats['bing_failed'] += 1
+                final_url = resolve_final_url(original_url)
+                url_source = 'google_url_fallback'
+        changed = False
+        if final_url and final_url != original_url:
+            changed = True
+        fallback = art.get('title', '')
+        content = fetch_fulltext(final_url or original_url, fallback=fallback)
+        title_len = len((art.get('title') or '').strip())
+        # Google RSS URL에서 실제 본문 미확인 시 title fallback가 사용될 수 있음
+        if 'news.google.com/rss/articles/' in original_url and len(content) <= max(30, title_len + 10):
+            content_source = 'title_fallback'
+        else:
+            content_source = 'fetched'
+        summary_lines = summarize_to_five_lines(content, title=art.get('title', ''))
+        return {
+            'art': art,
+            'original_url': original_url,
+            'final_url': final_url or original_url,
+            'changed': changed,
+            'url_source': url_source,
+            'bing_match': bing_match,
+            'content': content,
+            'summary_lines': summary_lines,
+            'content_source': content_source,
+        }
+
+    workers = 8
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = [executor.submit(_enrich, art) for art in articles]
+        for f in as_completed(futures):
+            result = f.result()
+            art = result['art']
+            stats['processed'] += 1
+            final_url = result['final_url']
+            if final_url:
+                art['url'] = final_url
+            if result['changed']:
+                art['url_resolved'] = True
+                art['url_resolved_from'] = result['url_source']
+                stats['url_resolved'] += 1
+            art['url_source'] = result['url_source']
+            if result['bing_match']:
+                art['url_match_score'] = result['bing_match'].get('score', 0)
+                art['url_match_title'] = result['bing_match'].get('match_title', '')
+
+            content = result['content']
+            art['content'] = content
+            art['content_length'] = len(content)
+            art['content_source'] = result['content_source']
+            if content:
+                if result['content_source'] != 'title_fallback':
+                    stats['fulltext_ok'] += 1
+                    art['content_status'] = 'fulltext'
+                else:
+                    art['content_status'] = 'title_only'
+            else:
+                art['content_status'] = 'failed'
+
+            summary_lines = result['summary_lines']
+            art['body_summary_lines'] = summary_lines
+            art['summary_lines'] = summary_lines
+            art['body_summary'] = ' | '.join(summary_lines)
+            art['snippet'] = art['body_summary'][:220]
+
+    return stats
+
+
+
+
+def _flatten_articles(data_dict):
+    """all_data['category']를 평탄화해 analysis 계산에 사용한다."""
+    out = []
+    for section_name, section_data in data_dict.get('category', {}).items():
+        if not isinstance(section_data, dict):
+            continue
+        for cat_name, items in section_data.items():
+            if not isinstance(items, list):
+                continue
+            for item in items:
+                if not isinstance(item, dict):
+                    continue
+                clone = dict(item)
+                clone['_section'] = section_name
+                clone['_category'] = cat_name
+                out.append(clone)
+    return out
+
+
+def _is_text_present(v):
+    return isinstance(v, str) and v.strip() != ''
+
+
+def generate_quality_analysis(all_data, daily_dir, date_str):
+    """analysis.md에 정량 지표(존재율/누락률/요약 5줄 분포/항목 diff) 기록한다."""
+    articles = _flatten_articles(all_data)
+    total = len(articles)
+    fields = [
+        'title', 'url', 'source', 'source_url', 'time', 'published_time',
+        'modified_time', 'body_summary', 'snippet', 'cbm_id', 'importance',
+        'content', 'content_length', 'body_summary_lines', 'summary_lines',
+        'content_source', 'content_status', 'url_source', 'evidence'
+    ]
+
+    # 현재 상태
+    presence = {f: 0 for f in fields}
+    empty_content = 0
+    missing = 0
+    summary_len_dist = {i: 0 for i in range(0, 8)}
+    exact5 = 0
+    content_urls = 0
+    google_urls = 0
+    resolved = 0
+    title_fallback = 0
+
+    for a in articles:
+        for f in fields:
+            if f in a and a.get(f) not in (None, ''):
+                if f in ('body_summary_lines', 'summary_lines'):
+                    if isinstance(a.get(f), list):
+                        presence[f] += 1
+                else:
+                    presence[f] += 1
+        if not _is_text_present(a.get('content', '')):
+            missing += 1
+        else:
+            if isinstance(a.get('content_length', 0), int) and a.get('content_length', 0) > 0:
+                content_urls += 1
+        slen = a.get('body_summary_lines')
+        if isinstance(slen, list):
+            l = len(slen)
+            if l >= 7:
+                summary_len_dist[7] += 1
+            else:
+                summary_len_dist.setdefault(l, 0)
+                summary_len_dist[l] += 1
+            if l == 5:
+                exact5 += 1
+        else:
+            summary_len_dist[0] += 1
+
+        if a.get('url_resolved'):
+            resolved += 1
+        if 'google.com' in a.get('url', ''):
+            google_urls += 1
+        if a.get('content_source') == 'title_fallback':
+            title_fallback += 1
+
+    def pct(a, b):
+        return (a / b * 100) if b else 0.0
+
+    # 직전일 diff
+    prev_total = 0
+    prev_presence = {f: 0 for f in fields}
+    prev_missing = 0
+    prev_exact5 = 0
+    prev_title_fallback = 0
+    try:
+        # find latest previous day (기본 KST)
+        from datetime import datetime, timedelta
+        from datetime import timezone
+        from pathlib import Path as _P
+        d = datetime.strptime(date_str, '%Y-%m-%d')
+        prev_date = (d - timedelta(days=1)).strftime('%Y-%m-%d')
+        prev_path = _P('/root/workspace/mywiki/news/pharmascope/daily') / prev_date / 'raw.json'
+        if prev_path.exists():
+            import json as _json
+            prev_json = _json.loads(prev_path.read_text(encoding='utf-8'))
+            prev_articles = _flatten_articles(prev_json)
+            prev_total = len(prev_articles)
+            for a in prev_articles:
+                for f in fields:
+                    if f in a and a.get(f) not in (None, ''):
+                        if f in ('body_summary_lines', 'summary_lines'):
+                            if isinstance(a.get(f), list):
+                                prev_presence[f] += 1
+                        else:
+                            prev_presence[f] += 1
+                if not _is_text_present(a.get('content', '')):
+                    prev_missing += 1
+                sl = a.get('body_summary_lines')
+                if isinstance(sl, list) and len(sl) == 5:
+                    prev_exact5 += 1
+                if a.get('content_source') == 'title_fallback':
+                    prev_title_fallback += 1
+    except Exception:
+        pass
+
+    # Render
+    lines = []
+    lines.append(f'# 📊 PharmaScope 정량 검증 리포트 ({date_str})')
+    lines.append('')
+    lines.append(f'- 총 기사: **{total}건**')
+    lines.append(f'- 구간 비교: prev **{prev_date if prev_total else "-"}** -> **{date_str}**')
+    lines.append('')
+
+    lines.append('## 1) 기본 지표')
+    lines.append(f'- 총 기사 수: {total} (이전 대비: {total - prev_total:+d}건)')
+    lines.append(f'- 본문 미수집 기사: {missing}건 (누락률 {(pct(missing, total)):.2f}%) / 이전 대비 {(missing-prev_missing):+d}건')
+    lines.append(f'- Google RSS 잔존 URL: {google_urls}건')
+    lines.append(f'- title fallback 기사 수: {title_fallback}건 (이전 대비 {title_fallback - prev_title_fallback:+d}건)')
+    lines.append(f'- url_resolved 건수: {resolved}건')
+    lines.append('')
+
+    lines.append('## 2) 필드 존재율 / 누락률')
+    lines.append('| 필드 | 존재 | 존재율 | 누락률 |')
+    lines.append('|---|---:|---:|---:|')
+    for f in fields:
+        exist = presence[f]
+        miss = total - exist
+        lines.append(f"| `{f}` | {exist}건 | {pct(exist, total):.2f}% | {pct(miss, total):.2f}% |")
+    lines.append('')
+
+    lines.append('## 3) 5줄 요약 강제 분포')
+    lines.append('| 요약 줄 수 | 기사 수 | 비율 |')
+    lines.append('|---|---:|---:|')
+    for k in sorted(summary_len_dist.keys()):
+        v = summary_len_dist[k]
+        if v:
+            lines.append(f"| {k if k < 7 else '7+'} | {v} | {pct(v, total):.2f}% |")
+    lines.append(f'- 정확히 5줄: {exact5}건 ({pct(exact5, total):.2f}%)')
+    lines.append(f'- 이전 대비 5줄: {exact5 - prev_exact5:+d}건')
+    lines.append('')
+
+    lines.append('## 4) 항목 존재/누락 diff (전일 대비)')
+    lines.append('| 항목 | 현재 | 이전 | diff |')
+    lines.append('|---|---:|---:|---:|')
+    lines.append(f"| 총 기사 | {total} | {prev_total} | {total - prev_total:+d} |")
+    lines.append(f"| content 누락 | {missing} | {prev_missing} | {missing - prev_missing:+d} |")
+    for f in fields:
+        lines.append(f"| {f} 존재 | {presence[f]} | {prev_presence[f]} | {presence[f]-prev_presence[f]:+d} |")
+    lines.append('')
+
+    (Path(daily_dir) / 'analysis.md').write_text('\n'.join(lines), encoding='utf-8')
 
 # ===== GIT CONFIG =====
-MYWIKI_DIR = os.path.expanduser("~/workspace/mywiki")
-BASE_DIR = os.path.expanduser("~/workspace/mywiki/news/pharmascope")
+REAL_HOME = "/home/wizmasia"
+MYWIKI_DIR = os.path.join(REAL_HOME, "workspace/mywiki")
+BASE_DIR = os.path.join(REAL_HOME, "workspace/mywiki/news/pharmascope")
 KST = timezone(timedelta(hours=9))
 NOW = datetime.now(KST)
 YESTERDAY = NOW - timedelta(hours=24)
@@ -45,57 +478,65 @@ def article_modified(item):
     return item.get('modified_time') or item.get('updated_time') or '-'
 
 
-def article_summary(item, limit=200):
-    text = item.get('body_summary') or item.get('snippet') or item.get('title', '') or ''
-    text = re.sub(r'\s+', ' ', text).strip()
-    return text[:limit] if text else '-'
+def article_summary(item, limit=None):
+    text = item.get('body_summary_lines')
+    if isinstance(text, list) and text:
+        text = ' | '.join(str(s).strip() for s in text if str(s).strip())
+    else:
+        text = item.get('body_summary') or item.get('snippet') or item.get('title', '') or ''
+    text = re.sub(r'\s+', ' ', str(text)).strip()
+    if not text:
+        return '-'
+    if isinstance(limit, int) and limit > 0:
+        return text[:limit]
+    return text
 
 # ===================================================================
 # GIT PUSH
 # ===================================================================
 def git_commit(message):
-    for repo_dir, label in [(MYWIKI_DIR, 'mywiki'),
-                            (os.path.join(BASE_DIR, '..'), 'pharmascope-news')]:
-        repo_dir = os.path.abspath(repo_dir)
-        try:
-            subprocess.run(['git', 'add', '-A'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
-            diff = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=repo_dir, capture_output=True, timeout=30)
-            if diff.returncode == 0:
-                log(f"  📎 ({label}) No new changes")
-                continue
-            commit = subprocess.run(['git', 'commit', '-m', message], cwd=repo_dir, capture_output=True, text=True, timeout=30)
-            if commit.returncode == 0:
-                log(f"  ✅ git commit ({label})")
-                push = subprocess.run(['git', 'push', 'origin', 'main'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
-                if push.returncode == 0:
-                    log(f"  ✅ git push ({label})")
-                else:
-                    log(f"  ⚠️ git push ({label}) 실패: {push.stderr.strip()}")
+    """Commit and push only to pharmascope-news (GitHub)."""
+    repo_dir = os.path.abspath(os.path.join(BASE_DIR, '..'))
+    label = 'pharmascope-news'
+    try:
+        subprocess.run(['git', 'add', '-A'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
+        diff = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=repo_dir, capture_output=True, timeout=30)
+        if diff.returncode == 0:
+            log(f"  📎 ({label}) No new changes")
+            return
+        commit = subprocess.run(['git', 'commit', '-m', message], cwd=repo_dir, capture_output=True, text=True, timeout=30)
+        if commit.returncode == 0:
+            log(f"  ✅ git commit ({label})")
+            push = subprocess.run(['git', 'push', 'origin', 'main'], cwd=repo_dir, capture_output=True, text=True, timeout=30)
+            if push.returncode == 0:
+                log(f"  ✅ git push ({label})")
             else:
-                log(f"  ⚠️ git commit ({label}): {commit.stderr.strip()}")
-        except Exception as e:
-            log(f"  ⚠️ Git error ({label}): {e}")
+                log(f"  ⚠️ git push ({label}) 실패: {push.stderr.strip()}")
+        else:
+            log(f"  ⚠️ git commit ({label}): {commit.stderr.strip()}")
+    except Exception as e:
+        log(f"  ⚠️ Git error ({label}): {e}")
 
 # ===================================================================
 # MAIN
 # ===================================================================
-log(f"🚀 PharmaScope v3 (Adapter Pattern) — {DATE_STR}")
-log(f"   전략: 언어별 메인/보조 소스, 중요도 평가 포함")
+log(f"🚀 PharmaScope v4 (Google 발견 → Bing 직접 URL) — {DATE_STR}")
+log(f"   전략: Google RSS 발견, Bing 동일 기사 매칭, 직접 URL 본문 수집")
 
 all_data = {'category': {}, '_meta': {
-    'pipeline': 'pharmascope-v3',
-    'version': '3.0.0',
+    'pipeline': 'pharmascope-v4-google-bing-bridge',
+    'version': '4.0.0',
     'collection_date': DATE_STR,
     'collected_at': NOW.isoformat(),
 }}
 
 # ===================================================================
-# 1. 🇰🇷 KOREAN — 11 categories
-#    메인: Bing News (직접 URL, curl)
-#    보조: Google RSS (향후 브라우저 URL 변환)
+# 1. 🇰🇷 KOREAN — 10 categories
+#    메인: Google News RSS 발견 → Bing 직접 URL 매칭
+#    보조: Bing News HTML (목표 수량 미달 시)
 # ===================================================================
 log("="*50)
-log("🇰🇷 국내 뉴스 (오직 Bing, 직접 URL)")
+log("🇰🇷 국내 뉴스 (Google 발견 → Bing 직접 URL 매칭)")
 
 kr_categories = {
     '의약품': {'keywords': ['의약품 치료제 신약', '의약품허가 품목허가 신약승인', '제네릭 바이오시밀러 복제약', '백신 항암제 희귀의약품', '의약품안전 의약품부작용', '신약개발 임상시험']},
@@ -125,10 +566,11 @@ all_data['category']['korean'] = kr_data
 
 # ===================================================================
 # 2. 🇺🇸🇬🇧 ENGLISH — 6 categories
-#    메인: Bing News + Google RSS
+#    메인: Google News RSS 발견 → Bing 직접 URL 매칭
+#    보조: Bing News HTML (목표 수량 미달 시)
 # ===================================================================
 log("="*50)
-log("🇺🇸🇬🇧 영어권 (오직 Bing, 직접 URL)")
+log("🇺🇸🇬🇧 영어권 (Google 발견 → Bing 직접 URL 매칭)")
 
 en_categories = {
     'Drugs & Therapies': {'keywords': ['drug approval new drug therapy pharmaceutical', 'generic drug biosimilar vaccine development', 'oncology drug rare disease treatment', 'antibiotic clinical trial drug discovery']},
@@ -156,7 +598,7 @@ all_data['category']['english'] = en_data
 # 3. 🌏 MULTILINGUAL — 20 languages
 # ===================================================================
 log("="*50)
-log("🌏 다국어 (오직 Bing, 직접 URL)")
+log("🌏 다국어 (Google 발견 → Bing 직접 URL 매칭)")
 
 lang_configs = [
     (['médicament pharmacie industrie pharmaceutique', 'médecine traditionnelle phytothérapie'], 'fr-fr', 'FR', 'French / 프랑스어'),
@@ -209,6 +651,14 @@ all_data['stats'] = {
 }
 
 # ===================================================================
+# RAW ENRICH
+# ===================================================================
+log("📄 본문 수집/요약(5줄) 강화 실행 중...")
+enrich_stats = enrich_articles(all_data['category'])
+all_data['stats']['enrichment'] = enrich_stats
+log(f"  ✅ enrichment 완료: 처리 {enrich_stats.get('processed', 0)}건, URL해석 {enrich_stats.get('url_resolved', 0)}건, 본문취득 {enrich_stats.get('fulltext_ok', 0)}건")
+
+# ===================================================================
 # SAVE
 # ===================================================================
 os.makedirs(DAILY_DIR, exist_ok=True)
@@ -220,7 +670,7 @@ with open(os.path.join(DAILY_DIR, 'raw.json'), 'w', encoding='utf-8') as f:
 # ===================================================================
 L = []
 L.append(f"# 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트")
-L.append(f"**수집일:** {DATE_STR}  |  **소스:** Google News RSS + Bing fallback  |  **어댑터 패턴**  |  **총 {total_all}건**")
+L.append(f"**수집일:** {DATE_STR}  |  **소스:** Google 발견 → Bing 직접 URL → 본문 수집  |  **총 {total_all}건**")
 L.append(f"**평가:** ⭐⭐⭐⭐⭐(85↑) ⭐⭐⭐⭐(65↑) ⭐⭐⭐(45↑) ⭐⭐(25↑) ⭐(0↑)  |  **정수 계산**")
 L.append("")
 
@@ -310,7 +760,7 @@ for label, items in ml_data.items():
 L.append(f"\n**📊 총계: {total_all}건**")
 L.append(f"**💾 저장:** `{DAILY_DIR}/`")
 L.append(f"**🔗 GitHub:** https://github.com/WizMasia/pharmascope-news")
-L.append(f"**⚡ 수집:** {NOW.strftime('%Y-%m-%d %H:%M')} KST | Google RSS Main + Browser Resolution")
+L.append(f"**⚡ 수집:** {NOW.strftime('%Y-%m-%d %H:%M')} KST | Google RSS 발견 + Bing 직접 URL 매칭 + 정적 본문 추출")
 
 report = '\n'.join(L)
 with open(os.path.join(DAILY_DIR, 'report.md'), 'w', encoding='utf-8') as f:
@@ -374,11 +824,15 @@ def build_lang_summary(lang_data, top_n, keywords, name_field='categories'):
             'importance': a.get('importance', 0),
             'stars': a.get('stars', ''),
             'evidence': a.get('evidence', ''),
-            'snippet': (a.get('body_summary') or a.get('snippet', '') or '')[:200],
+            'snippet': (a.get('body_summary') or a.get('snippet', '') or '')[:220],
+            'summary_lines': a.get('body_summary_lines', []),
+            'content': a.get('content', '')[:5000],
+            'content_length': a.get('content_length', 0),
             'published_time': a.get('published_time') or a.get('time', ''),
             'modified_time': a.get('modified_time') or a.get('updated_time', ''),
             'time': a.get('time', ''),
             'url': a.get('url', ''),
+            'source_url': a.get('source_url', a.get('url', '')),
         })
     return {
         'total': total,
@@ -403,6 +857,8 @@ with open(summary_path, 'w', encoding='utf-8') as f:
     json.dump(daily_summary, f, ensure_ascii=False, indent=2)
 log(f"✅ daily_summary.json 저장 완료: {len(json.dumps(daily_summary, ensure_ascii=False))}자")
 
+generate_quality_analysis(all_data, DAILY_DIR, DATE_STR)
+
 # ===================================================================
 # README
 # ===================================================================
@@ -411,16 +867,16 @@ with open(readme_path, 'w', encoding='utf-8') as f:
     f.write(f"""# 🔬 PharmaScope — 의약업계 글로벌 동향
 
 **마지막 갱신:** {NOW.strftime('%Y-%m-%d %H:%M')} KST
-**아키텍처:** Google RSS Main + Browser Resolution
+**아키텍처:** Google RSS Discovery + Bing Direct URL Matching
 **평가:** 정수 중요도 0~100
 
 ## 수집 전략
 
 | 언어 | 메인 소스 | 보조 소스 | 비고 |
 |------|----------|----------|------|
-| 🇰🇷 한국어 | Bing News | Google News | Naver/Daum (향후 브라우저 추가) |
-| 🇺🇸 영어 | Bing News | Google News | |
-| 🌏 다국어 | Bing News | Google News | 20개 언어 |
+| 🇰🇷 한국어 | Google News 발견 | Bing News 직접 URL | 동일 기사 제목·출처 매칭 |
+| 🇺🇸 영어 | Google News 발견 | Bing News 직접 URL | 동일 기사 제목·출처 매칭 |
+| 🌏 다국어 | Google News 발견 | Bing News 직접 URL | 매칭 실패 시 Google URL fallback |
 
 ## 중요도 평가 (정수)
 
@@ -449,7 +905,7 @@ pharmascope/
 └── AGENTS.md
 ```
 
-*PharmaScope v4 — Google RSS Main | 정수 중요도 | 브라우저 해석 대기열*
+*PharmaScope v4 — Google Discovery + Bing Direct URL Matching | 정수 중요도*
 """)
 
 log(f"✅ README.md 갱신 완료")
@@ -480,6 +936,6 @@ if os.path.exists(resolved_path):
 # ===================================================================
 log("="*50)
 log("📤 Git push")
-git_commit(f"🚀 PharmaScope v3 {DATE_STR} — Adapter Pattern {total_all}건 수집")
+git_commit(f"🚀 PharmaScope v4 {DATE_STR} — Google discovery + Bing direct URL {total_all}건 수집")
 log("="*50)
 log(f"🎉 완료! 총 {total_all}건")

@@ -22,6 +22,7 @@ import email.utils
 from datetime import datetime, timedelta, timezone
 
 KST = timezone(timedelta(hours=9))
+UTC = timezone.utc
 NOW = datetime.now(KST)
 
 # ===================================================================
@@ -30,42 +31,100 @@ NOW = datetime.now(KST)
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}")
 
-def is_within_24h(time_str):
-    """기사 time 필드가 24시간 이내인지 확인"""
+
+def parse_time_to_dt(time_str, now=NOW):
+    """기사의 업로드/갱신 시각 문자열을 datetime으로 정규화한다.
+
+    지원 형식:
+    - 상대시간: 3분 전, 12시간 전, 어제, yesterday
+    - RFC 2822: Google RSS pubDate
+    - ISO 8601: 2026-07-06T10:15:00+09:00
+    - 단순 날짜 문자열은 최대한 해석을 시도한다.
+    """
     if not time_str:
-        return True  # 시간 정보 없으면 통과 (보수적)
-    ts = time_str.strip()
+        return None
 
-    # 분 단위 → 무조건 24h 이내
-    if re.search(r'\d+\s*분', ts):
-        return True
+    ts = re.sub(r'\s+', ' ', str(time_str)).strip()
+    lowered = ts.lower()
 
-    # 시간 단위
+    # 상대시간
+    m = re.search(r'(\d+)\s*분', ts)
+    if m:
+        return now - timedelta(minutes=int(m.group(1)))
     h = re.search(r'(\d+)\s*시간', ts)
     if h:
-        return int(h.group(1)) <= 24
-
-    # 일 단위
+        return now - timedelta(hours=int(h.group(1)))
     d = re.search(r'(\d+)\s*일', ts)
     if d:
-        return False  # 1일 이상이면 24h 초과
+        return now - timedelta(days=int(d.group(1)))
+    if any(w in lowered for w in ['어제', 'yesterday', '昨日', '昨']):
+        return now - timedelta(days=1)
+    w = re.search(r'(\d+)\s*주', ts)
+    if w:
+        return now - timedelta(weeks=int(w.group(1)))
+    mo = re.search(r'(\d+)\s*개월', ts)
+    if mo:
+        return now - timedelta(days=int(mo.group(1)) * 30)
 
-    # 어제 / yesterday
-    if any(w in ts for w in ['어제', 'yesterday', '昨']):
-        return False
-
-    # 주 / 개월 / 년 → 무조건 초과
-    if re.search(r'(주|week|개월|month|년|year)', ts):
-        return False
-
-    # RFC 2822 pubDate 형식 (Google RSS)
+    # RFC 2822 / pubDate
     try:
         dt = email.utils.parsedate_to_datetime(ts)
-        return (datetime.now(timezone.utc) - dt).total_seconds() <= 86400
+        if dt and dt.tzinfo is None:
+            dt = dt.replace(tzinfo=UTC)
+        return dt
     except Exception:
         pass
 
-    return True  # 판별 불가면 통과 (보수적)
+    # ISO 8601 / 간단한 날짜시각
+    candidate = ts.replace('Z', '+00:00')
+    candidate = re.sub(r'\s*\(.*?\)$', '', candidate)
+    for probe in (candidate, candidate.replace(' ', 'T')):
+        try:
+            dt = datetime.fromisoformat(probe)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=KST)
+            return dt
+        except Exception:
+            pass
+
+    return None
+
+
+def article_time_candidates(article):
+    """시간 필터용 후보 시각 문자열을 우선순위대로 반환한다."""
+    return [
+        article.get('published_time'),
+        article.get('modified_time'),
+        article.get('updated_time'),
+        article.get('time'),
+    ]
+
+
+def article_passes_time_policy(article, now=NOW):
+    """업로드/갱신 시각이 24시간 이내이거나 UTC 같은 날짜면 통과."""
+    now_utc = now.astimezone(UTC)
+    for raw_ts in article_time_candidates(article):
+        dt = parse_time_to_dt(raw_ts, now=now)
+        if not dt:
+            continue
+        dt_utc = dt.astimezone(UTC)
+        age = now_utc - dt_utc
+        if timedelta(0) <= age <= timedelta(hours=24):
+            return True
+        if dt_utc.date() == now_utc.date():
+            return True
+    return False
+
+
+def is_within_24h(time_str):
+    """기사 time 필드가 24시간 이내이거나 UTC 같은 날짜인지 확인한다."""
+    dt = parse_time_to_dt(time_str)
+    if not dt:
+        return False
+    now_utc = NOW.astimezone(UTC)
+    dt_utc = dt.astimezone(UTC)
+    age = now_utc - dt_utc
+    return (timedelta(0) <= age <= timedelta(hours=24)) or (dt_utc.date() == now_utc.date())
 
 def dedup(articles):
     """URL + 제목 기반 중복제거"""
@@ -106,7 +165,8 @@ class GoogleNewsRSSAdapter:
         for item in items:
             title_m = re.search(r'<title>(.*?)</title>', item)
             link_m = re.search(r'<link>(.*?)</link>', item)
-            source_m = re.search(r'<source>(.*?)</source>', item)
+            source_name_m = re.search(r'<source[^>]*>(.*?)</source>', item)
+            source_url_m = re.search(r'<source[^>]*url=\"([^\"]+)\"[^>]*>(.*?)</source>', item)
             date_m = re.search(r'<pubDate>(.*?)</pubDate>', item)
             snippet_m = re.search(r'<description>(.*?)(?:\[\...\]|\.\.\.|</a>|$)', item, re.DOTALL)
             
@@ -115,7 +175,8 @@ class GoogleNewsRSSAdapter:
             
             title = unescape(re.sub(r'<[^>]+>', '', title_m.group(1))).strip()
             article_url = link_m.group(1).strip()
-            source = unescape(source_m.group(1)).strip() if source_m else ''
+            source = unescape(source_name_m.group(1)).strip() if source_name_m else ''
+            source_url = unescape(source_url_m.group(1)).strip() if source_url_m else ''
             snippet = ''
             if snippet_m:
                 snip = re.sub(r'<[^>]+>', '', snippet_m.group(1)).strip()
@@ -131,6 +192,7 @@ class GoogleNewsRSSAdapter:
                 'title': title,
                 'url': article_url,
                 'source': source,
+                'source_url': source_url,
                 'time': date_m.group(1) if date_m else '',
                 'published_time': date_m.group(1) if date_m else '',
                 'modified_time': '',
@@ -300,7 +362,8 @@ DEFAULT_SOURCE_SCORE = 10
 def calc_importance(article, keywords, position):
     """정수 중요도 계산 (0~100)"""
     s = source_score(article['source'], article['url'])
-    r = recency_score(article.get('time', ''))
+    recency_text = article.get('published_time') or article.get('modified_time') or article.get('updated_time') or article.get('time', '')
+    r = recency_score(recency_text)
     rel = relevance_score(article['title'], keywords)
     rk = rank_score(position)
     total = s + r + rel + rk
@@ -308,7 +371,7 @@ def calc_importance(article, keywords, position):
     article['importance'] = total
     evidence_parts = [
         f"출처:{article['source']}+{s}",
-        f"최신:{article.get('time','')}+{r}",
+        f"최신:{recency_text}+{r}",
         f"키워드+{rel}",
         f"순위:{position}위+{rk}",
     ]
@@ -385,12 +448,12 @@ def hybrid_collect(primary, secondaries, keywords, lang_config, min_count=30):
     
     all_articles = dedup(all_articles)
     
-    # 24시간 이내 기사만 필터
+    # 24시간 / UTC 동일 날짜 기사만 필터
     before = len(all_articles)
-    all_articles = [a for a in all_articles if is_within_24h(a.get('time', ''))]
+    all_articles = [a for a in all_articles if article_passes_time_policy(a)]
     dropped = before - len(all_articles)
     if dropped:
-        log(f"    ⏰ 24시간 초과 필터: {dropped}건 드롭됨")
+        log(f"    ⏰ 시간 필터(24h/UTC date): {dropped}건 드롭됨")
     if len(all_articles) < min_count:
         needed = min_count - len(all_articles)
         for secondary in secondaries:
@@ -400,7 +463,7 @@ def hybrid_collect(primary, secondaries, keywords, lang_config, min_count=30):
                                             lang_config.get('region', 'KR'),
                                             max_count=needed)
                     all_articles.extend(more)
-                    all_articles = dedup(all_articles)
+                    all_articles = dedup([a for a in all_articles if article_passes_time_policy(a)])
                     log(f"    +{secondary.__class__.__name__} '{kw[:20]}...' → +{len(more)}건")
                     if len(all_articles) >= min_count:
                         break
