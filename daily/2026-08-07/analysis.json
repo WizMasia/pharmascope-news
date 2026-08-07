@@ -1,0 +1,304 @@
+{
+  "date": "2026-08-07",
+  "total_articles": 414,
+  "language_breakdown": {
+    "korean": {
+      "total": 189,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 19,
+        "의약단체": 15,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 127,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 98,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 신약 허가 러시와 재도전 성공",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 56,
+      "key_articles": [
+        {
+          "title": "US FDA approves Replimune's skin cancer drug after prior rejections",
+          "source": "Reuters",
+          "importance": 67,
+          "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/"
+        },
+        {
+          "title": "Replimune rebounds to win FDA approval of melanoma drug",
+          "source": "biopharmadive.com",
+          "importance": 61,
+          "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/"
+        },
+        {
+          "title": "Takeda approval ushers in new wave of sleep drugs",
+          "source": "biopharmadive.com",
+          "importance": 61,
+          "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/"
+        },
+        {
+          "title": "Why the Orzeyful Approval Matters Beyond One Drug Class",
+          "source": "PharmTech.com",
+          "importance": 47,
+          "url": "https://www.pharmtech.com/view/why-the-orzeyful-approval-matters-beyond-one-drug-class"
+        },
+        {
+          "title": "국산 뇌출혈치료제 후보물질, 美FDA 희귀의약품 이어 패스트트랙 지정",
+          "source": "코리아헬스로그",
+          "importance": 42,
+          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=58418"
+        }
+      ],
+      "summary_kr": "Replimune·Takeda·모더나·국내 후보물질의 허가/패스트트랙 뉴스가 동시다발적으로 나오며, 규제 성과가 곧 개발 속도와 시장 선점으로 이어지는 국면이 강화됐다.",
+      "summary_en": "FDA approvals, fast-track designations, and next-wave vaccine headlines show that regulatory milestones are still the main near-term catalyst for drug value creation.",
+      "emoji": "💊"
+    },
+    {
+      "topic": "제조·투자·R&D 재편이 상업화 속도를 좌우",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 8,
+      "avg_importance": 50,
+      "key_articles": [
+        {
+          "title": "AZ, 中CSPC와 ‘바이오의약품 제조’ 합작회사 “설립”",
+          "source": "바이오스펙테이터",
+          "importance": 27,
+          "url": "https://www.biospectator.com/news/view/29479"
+        },
+        {
+          "title": "SK바이오팜, 뇌전증 신약 해외 흥행 발판…차세대 신약 개발 속도",
+          "source": "뉴스토마토",
+          "importance": 27,
+          "url": "http://newstomato.com/ReadNews.aspx?no=1309518"
+        },
+        {
+          "title": "'좋은 신약'보다 '좋은 투자'…빅파마 R&D 전략이 바뀐다",
+          "source": "메디파나뉴스",
+          "importance": 22,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415582"
+        },
+        {
+          "title": "신약 찾자…정부 과제로 속도내는 K-제약바이오",
+          "source": "뉴시스",
+          "importance": 27,
+          "url": "https://www.fnnews.com/news/202608070502455586"
+        },
+        {
+          "title": "5대 제약사 2Q 수익성 희비…“기술료·수출이 갈랐다”",
+          "source": "sisaon.co.kr",
+          "importance": 37,
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203313"
+        }
+      ],
+      "summary_kr": "합작법인, 차세대 파이프라인, 정부 과제, 기술료·수출 실적이 동시에 부각되며 “무엇을 만들 것인가”보다 “어떻게 생산·투자·상업화할 것인가”가 핵심 질문이 됐다.",
+      "summary_en": "Manufacturing alliances, pipeline upgrades, and public funding are reshaping the commercialization path, with capital access and production capability increasingly determining who scales first.",
+      "emoji": "🏭"
+    },
+    {
+      "topic": "국내 급여·약가·보험정책이 시장 접근성을 재조정",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "약평위, 혈우병 신약 '하임파지' 급여 적정성 인정…조건부 통과",
+          "source": "약업닷컴",
+          "importance": 46,
+          "url": "https://www.yakup.com/news/?mode=view&cat=11&cat3=0&nid=330785"
+        },
+        {
+          "title": "적응증·급여 연달아 확보… 다국적사 중심 시장 재편 가속화",
+          "source": "의학신문",
+          "importance": 22,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3009742"
+        },
+        {
+          "title": "한 달 만에 처방액 6배 껑충?…약가 유연계약제 착시효과",
+          "source": "데일리팜",
+          "importance": 22,
+          "url": "https://www.dailypharm.com/user/news/341194"
+        },
+        {
+          "title": "'플랫폼 도매금지법'·'창고형 규제법' 8월 본회의 통과 기류",
+          "source": "데일리팜",
+          "importance": 22,
+          "url": "https://www.dailypharm.com/user/news/341162"
+        },
+        {
+          "title": "화이자 혈우병 치료제 ‘하임파지’, 약평위 급여 적정성 인정",
+          "source": "MEDI:GATE NEWS",
+          "importance": 42,
+          "url": "https://www.yakup.com/news/?mode=view&cat=11&cat3=0&nid=330785"
+        }
+      ],
+      "summary_kr": "혈우병 치료제 급여 심의, 처방액 착시, 유연계약제, 플랫폼·창고형 약국 규제가 맞물리며 약가/급여/유통의 세 축이 동시에 재조정되고 있다.",
+      "summary_en": "Reimbursement decisions and pricing mechanics are still the main gatekeepers for access, while distribution regulation adds a second layer of pressure on how products reach patients.",
+      "emoji": "📋"
+    },
+    {
+      "topic": "제조 품질·수출 규제가 공급망과 현장 부담을 키움",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "“동물약·인체약 GMP 이중실사, 규제 개선해야”",
+          "source": "메디칼업저버",
+          "importance": 42,
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=413070"
+        },
+        {
+          "title": "AZ, 中CSPC와 ‘바이오의약품 제조’ 합작회사 “설립”",
+          "source": "바이오스펙테이터",
+          "importance": 27,
+          "url": "https://www.biospectator.com/news/view/29479"
+        },
+        {
+          "title": "5대 제약사 2Q 수익성 희비…“기술료·수출이 갈랐다”",
+          "source": "sisaon.co.kr",
+          "importance": 37,
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203313"
+        },
+        {
+          "title": "신약 찾자…정부 과제로 속도내는 K-제약바이오",
+          "source": "뉴시스",
+          "importance": 27,
+          "url": "https://www.fnnews.com/news/202608070502455586"
+        }
+      ],
+      "summary_kr": "GMP 중복 실사, 제조 JV, 수출 실적, 정부 과제가 함께 부각되면서 품질과 수출 대응이 단순한 운영 이슈가 아니라 경쟁력의 핵심 변수로 올라왔다.",
+      "summary_en": "Quality systems, export requirements, and manufacturing partnerships are now tightly linked; compliance friction can directly shape revenue timing and cross-border expansion.",
+      "emoji": "🏛️"
+    },
+    {
+      "topic": "약국·한의·전통의학 규제가 현장 운영을 바꾼다",
+      "domain": "traditional_medicine",
+      "significance": "low",
+      "article_count": 4,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "'플랫폼 도매금지법'·'창고형 규제법' 8월 본회의 통과 기류",
+          "source": "데일리팜",
+          "importance": 22,
+          "url": "https://www.dailypharm.com/user/news/341162"
+        },
+        {
+          "title": "No.1 약국체인의 승부수? 온누리 메가-프라임 확장 시끌",
+          "source": "데일리팜",
+          "importance": 46,
+          "url": "https://www.dailypharm.com/user/news/341133"
+        },
+        {
+          "title": "대법원 “사무장병원, 부가세 면제 대상 아니다”",
+          "source": "한의신문",
+          "importance": 22,
+          "url": "https://www.akomnews.com/67983"
+        },
+        {
+          "title": "산후 한약 안전성 임상 근거 확보…이상반응 발생률 0.6%에 그쳐",
+          "source": "한의신문",
+          "importance": 35,
+          "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=67961"
+        }
+      ],
+      "summary_kr": "약국 구조조정, 사무장병원 판결, 한약 안전성 근거처럼 현장형 규제와 임상 근거 이슈가 동시에 떠오르며 생활밀착형 보건 규제가 재부각됐다.",
+      "summary_en": "Operational rules for pharmacies and traditional-medicine settings are being tightened, while court and evidence-based rulings continue to reshape how the field is supervised.",
+      "emoji": "🌿"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 10,
+      "en_count": 6,
+      "significance": "high"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 13,
+      "en_count": 13,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "중국어 간체는 1건으로 매우 낮고, 일본어·페르시아어는 0건이었다.",
+    "analysis_ready 기준 클러스터는 2개뿐이라, 오늘 이슈는 광범위 확산보다 개별 규제·승인 뉴스 중심으로 분산됐다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "총 기사 423건 → 414건(-9)",
+      "클러스터 5개 → 2개로 축소",
+      "한영 교차 후보는 4개로 유지"
+    ],
+    "changes": [
+      "허가·백신 이슈는 유지됐지만, 제조/투자와 약가·급여 이슈가 더 분명하게 분리되었다.",
+      "전통의학·약국 규제는 독립 이슈로 남았고, 대형 산업 뉴스의 집중도는 다소 낮아졌다."
+    ]
+  },
+  "connections": [
+    "허가/승인 뉴스가 곧 시장 선점과 기업가치 재평가로 이어진다.",
+    "제조 JV와 GMP 규제는 서로 분리된 주제가 아니라 같은 공급망·품질 체계의 양면이다.",
+    "급여와 약가 정책은 혁신 신약의 국내 확산 속도를 결정하는 후행 변수다."
+  ],
+  "generated_at": "2026-08-07T16:36:14.383530+09:00"
+}

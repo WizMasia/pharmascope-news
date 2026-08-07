@@ -1,0 +1,779 @@
+{
+  "date": "2026-08-07",
+  "total_articles": 414,
+  "language_breakdown": {
+    "korean": {
+      "total": 189,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 19,
+        "의약단체": 15,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 127,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 98,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 27
+    },
+    {
+      "keyword": "FDA",
+      "count": 22
+    },
+    {
+      "keyword": "허가",
+      "count": 13
+    },
+    {
+      "keyword": "급여",
+      "count": 12
+    },
+    {
+      "keyword": "백신",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 8
+    },
+    {
+      "keyword": "R&D",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "제네릭",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 31
+    },
+    {
+      "keyword": "approval",
+      "count": 13
+    },
+    {
+      "keyword": "vaccine",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "obesity",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 10
+    },
+    {
+      "source": "데이터투자",
+      "count": 8
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "의약뉴스",
+      "count": 6
+    },
+    {
+      "source": "의학신문",
+      "count": 6
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 5
+    },
+    {
+      "source": "뉴시스",
+      "count": 4
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 4
+    },
+    {
+      "source": "청년의사",
+      "count": 4
+    },
+    {
+      "source": "edaily.co.kr",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 23
+    },
+    {
+      "source": "biopharmadive.com",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 3
+    },
+    {
+      "source": "Drug Topics",
+      "count": 3
+    },
+    {
+      "source": "koreabiomed.com",
+      "count": 3
+    },
+    {
+      "source": "Stock Titan",
+      "count": 3
+    },
+    {
+      "source": "The Economic Times",
+      "count": 3
+    },
+    {
+      "source": "PharmTech.com",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 신약 허가·임상·승인이 개발 속도를 끌어올림",
+    "제조·투자·파이프라인 재편이 상업화 지형을 바꿈",
+    "급여·약가·정책 이슈가 시장 접근성과 처방 전략을 압박",
+    "전통의학·자연의학이 공공외교와 서비스 모델로 확장",
+    "전통의학·보건·비의약 글로벌 이슈가 주변 트렌드로 부상"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 35,
+      "keywords": [
+        "drug",
+        "com",
+        "market",
+        "openpr",
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 21:30:41 GMT",
+          "url": "https://www.msn.com/en-us/health/general/us-fda-approves-replimune-s-skin-cancer-drug-after-prior-rejections/ar-AA29yA1z?ocid=BingNewsVerp"
+        },
+        {
+          "title": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters",
+          "source": "Reuters",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "US FDA approves Replimune's skin cancer drug after prior rejections - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 06 Aug 2026 21:30:41 GMT",
+          "url": "https://www.msn.com/en-us/health/general/us-fda-approves-replimune-s-skin-cancer-drug-after-prior-rejections/ar-AA29yA1z?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Takeda approval ushers in new wave of sleep drugs - biopharmadive.com",
+          "source": "biopharmadive.com",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda approval ushers in new wave of sleep drugs - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 16:10:45 GMT",
+          "url": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/"
+        },
+        {
+          "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M - biopharmadive.com",
+          "source": "biopharmadive.com",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 19:14:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVU9yYjlfblVaaGpQMnZvcGh5VGdObmxTTk1LZlQ4ZlZOMWVvRmJuU210alRKOUZPeWZyNXlJZDdSSl9MdUdCQTU3NFg1NzhnVVVFWGdqSlhUUDFrSkxVNUV6bVFodTRiZFNSb0EzLWJ6ZXJ2OWNobW05eXpEV0FRQU1XRlh2dFdBRU1VRFluNXdNeG5mdnhaVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Replimune rebounds to win FDA approval of melanoma drug - biopharmadive.com",
+          "source": "biopharmadive.com",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "Replimune rebounds to win FDA approval of melanoma drug - biopharmadive.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 21:16:19 GMT",
+          "url": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/"
+        },
+        {
+          "title": "세계 첫 mRNA 독감백신 나왔다…FDA, 모더나 백신 승인 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "세계 첫 mRNA 독감백신 나왔다…FDA, 모더나 백신 승인 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 06 Aug 2026 08:48:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb0dJVXVnX2xoTE96dmRYb3NwVXNGUFRhTFNPajFrNWVHSUctMm9OUi1yVmdOZEVPVENyclNiaGo5Z2NyODNoUWkyQUszMXljbldnRElIMkF4RWVrTUQyMWh0dFJyb0RjQTM0VTR6WTdVcGF4dXk4aWNZWlRONF8yZnZPem9nYTV4Mm9laERIWXEwWDVCaVdZWW5Qc3BmVXJ10gGgAUFVX3lxTE1vR0lVdWdfbGhMT3p2ZFhvc3BVc0ZQVGFMU09qMWs1ZUdJRy0yb05SLXJWZ05kRU9UQ3JyU2JoajlnY3I4M2hRaTJBSzMxeWNuV2dESUgyQXhFZWtNRDIxaHR0UnJvRGNBMzRVNHpZN1VwYXh1eThpY1laVE40XzJmdk96b2dhNXgyb2VoREhZcTBYNUJpV1lZblBzcGZVcnU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Lilly's triple agonist just became its most powerful obesity drug yet - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 03:36:02 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmtuaDM4bmJKLU9ZM2wtNjVZQTlpQjVNZnFyXzN6emxXTEpYMEdrbkF6MjBUQjUxREF1dVd1TGwwSzVDM0VuMElmWlF1UHlMXzdIRDNyYWkxZ0Z4MDNiQjZwb2FGRnI5UnhpZzJmZWNuWmNHLU5qcGNrWXlFMmdRTEVSNDViOW9PRm01TTc2d1BLQlQtcWRuSEFfaGx3RS1ISzZZREQ5RExHallFWHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA approves Replimune melanoma drug previously rejected twice - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA clears Replimune melanoma drug RP1 for continued testing | Skip to Main Content | FDA approves Replimune melanoma drug previously rejected twice | Reversal, capping a tumultuous saga, is a big win for the biotech com",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 20:04:45 GMT",
+          "url": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/"
+        },
+        {
+          "title": "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com",
+          "source": "PharmTech.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why the Orzeyful Approval Matters Beyond One Drug Class - PharmTech.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 20:31:50 GMT",
+          "url": "https://www.pharmtech.com/view/why-the-orzeyful-approval-matters-beyond-one-drug-class"
+        },
+        {
+          "title": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology",
+          "source": "Pharmaceutical Technology",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 17:05:51 GMT",
+          "url": "https://www.msn.com/en-us/health/medical/takeda-nets-first-in-class-advantage-on-narcolepsy-drug-s-fda-go-ahead/ar-AA29yRmZ?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA Approves First-in-Class Narcolepsy Drug - MedPage Today",
+          "source": "MedPage Today",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Approves First-in-Class Narcolepsy Drug - MedPage Today | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 20:46:04 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lN04zcWlMNExhVHY0M2VKTkdJSS1qa184Y1kwVGxCYVk5SXNBRXNGUk9RVnBFQ0JuMTJBVFBCb3EzQWxaZ2U0TnFCUHJKbDQ3SGpSaVNMaTFYWUVua2VqclRmR0Z0STI0ZFoweA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Approves Orzeyful, First Drug Targeting Underlying Cause of Narcolepsy - Drug Topics",
+          "source": "Drug Topics",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Approves Orzeyful, First Drug Targeting Underlying Cause of Narcolepsy - Drug Topics | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 13:44:14 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDBmUGw1Wk95alNsWWlWNGxuMnBmQW9DWF82VVpFOWxlYlBIQmJxaEVKeURCU1dmbV9PNUF1TGVCMXNLclpSOGZNU3I5d1EyaHNVRXNoWWhfejdsOHBZUjhHcC13VC1uUVZmRDlzeDZ6N3gzdXdxWThhU2lqTlhRamJ0aW8yQS1iWDh5TDBvRWRJdUpIS05JZkh3UWsyWUhpaTdiNVV6bmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA greenlight for Takeda's narcolepsy drug Orzeyful - The Pharma Letter",
+          "source": "The Pharma Letter",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA greenlight for Takeda's narcolepsy drug Orzeyful - The Pharma Letter | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:50:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa21YcVN0ZV9MTFNRa0VkRU1ULTlUWHhzNmxVeW5pZDZ6U1pTNElDMGY0d2NuYzJ2UkExbkpTaXdkdWdLRnF0Um5Yd25ac0ZjVDh2TUhvblhkZ3llcUhhTEtidDdsSWV6SjdVd19MMUVmc2JveVVtdExiY3ZtT1BFYkJPWnEzSVltWXRwSTlCOEhNMzBqb2U5T3NsWVA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Two FDA approvals — a new drug and a new vaccine - STAT",
+          "source": "STAT",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Two FDA approvals — a new drug and a new vaccine - STAT | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 13:52:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUJHN2ZDOHBjQjNCLWhXT3l5UE9yRmNBYlIxT2kteDhtaWFZd19GckpLU0RMS21VRlhGSXFpTGxiY255ZVB3NEdFdEFlVmtLZlc4UXZmTDlnOGlZZ3ZaSEY1N3ZrSno4LVBmTkNqbDEwSzRGNGl0dVZtdzdhYklsbU5mV1hmWHByMUZnU0M0bFp3TDRvRktOV0pnM3Q?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Systemic leap: How China's innovative drug industry is shaping the future - Global Times",
+          "source": "Global Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Systemic leap: How China's innovative drug industry is shaping the future - Global Times | SOURCE  /  ECONOMY | Systemic leap: How China's innovative drug industry is shaping the future | By Wu Wei Published: Aug 06, 202",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:43:00 GMT",
+          "url": "https://www.globaltimes.cn/page/202608/1367670.shtml"
+        },
+        {
+          "title": "Onconic’s GERD drug Jaqbo wins first overseas approval in India - koreabiomed.com",
+          "source": "koreabiomed.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Onconic’s GERD drug Jaqbo wins first overseas approval in India - koreabiomed.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 09:34:40 GMT",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BS1pFS0NGSHJCRUxXQVRQM3J5cklEbEltLUF0TVVHUUNjVDVrMzRCa1U4djV1bnB4aHVrc3FfUVNJLUgydU90MjItX1RzdUxGUUV2LVY0MnBnSWNsc1FMcGpDZEVtRFpNQ2RBR1lzWlA0d9IBckFVX3lxTE9BS1pFS0NGSHJCRUxXQVRQM3J5cklEbEltLUF0TVVHUUNjVDVrMzRCa1U4djV1bnB4aHVrc3FfUVNJLUgydU90MjItX1RzdUxGUUV2LVY0MnBnSWNsc1FMcGpDZEVtRFpNQ2RBR1lzWlA0dw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Tarsus' Pending Deal Includes Phase 3 Oral Stargardt Drug Candidate - Stock Titan",
+          "source": "Stock Titan",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Tarsus' Pending Deal Includes Phase 3 Oral Stargardt Drug Candidate - Stock Titan | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODYzODZHbU5CSXZTUHRyNHZ4ckRUVHh3SUNhclVpTkEwdWIzQ2FxbGFJZkEtLWdIYWdsOHFIR3ZnNUc2WFR2XzA3X2ZKY25NbzNvbkczanhrZ25ZZlBrUUw0c0xYME1GdWR5WTZaTVYxd2kwZkJIQjk2cE9sa2F2SU5uR1p1OXFzQjJWOTVDYjR0ejc0MmlOYUw1LWZlMnY1S0RDeWZRaDV4dTJyaGVrNE5fYjZtR2ZmRXkxbm0wREQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Takeda Achieves Major Milestone With Holistic Narcolepsy Drug Approval - Benzinga",
+          "source": "Benzinga",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda Achieves Major Milestone With Holistic Narcolepsy Drug Approval - Benzinga | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 15:16:02 GMT",
+          "url": "https://www.msn.com/en-us/health/general/takeda-achieves-major-milestone-with-holistic-narcolepsy-drug-approval/ar-AA29xYOC?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Takeda wins U.S. FDA approval for narcolepsy drug ORZEYFUL - International Business Times",
+          "source": "International Business Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda wins U.S. | FDA approval for narcolepsy drug ORZEYFUL - International Business Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 15:36:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSmQyMzlYWlU1YVNQaUREYUxkYTVIZlpZZVJ1NFJOa0tYVXJSd2FYYUNzSWFKY1ZSWUlkZDVOT3Y1VU1yMmt3RHhwSHo5YzdKeU1TUnVyQWxmUlJvTE5heFZrY0RqNUYybE4yaEh4ckQ0V0RmR185b3R1MkpndDZtd3ZYXzBUbldIN2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "IPS HEART Secures 8th FDA Regulatory Milestone with Rare Pediatric Drug Designation for Cardiomyopathy Associated with Muscular Dystrophies - Business Wire",
+          "source": "Business Wire",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "IPS HEART Secures 8th FDA Regulatory Milestone with Rare Pediatric Drug Designation for Cardiomyopathy Associated with Muscular Dystrophies | Oops, something went wrong | Skip to navigation Skip to main content Skip to r",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 12:11:00 GMT",
+          "url": "https://finance.yahoo.com/healthcare/articles/ips-heart-secures-8th-fda-121100302.html"
+        },
+        {
+          "title": "Pfizer's hemophilia drug Hympavzi nears Korean reimbursement, challenges Hemlibra - koreabiomed.com",
+          "source": "koreabiomed.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pfizer's hemophilia drug Hympavzi nears Korean reimbursement, challenges Hemlibra - koreabiomed.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 00:45:26 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IWFNUN2E3Wk9LWW9SRHUwMjZGRVRPWGxPQ2xxaWtGRlZaZ2l3MzdsbWVnZHgxMk50a3FXT3Q3VENzV2ktWVZfVVdOOTNBaV9yOU9jMUREdEczR19CTks0V1laV3Zqd0U3RFdROGRB0gFyQVVfeXFMUFR6R0pndGlzdEZ6Y3pZZWZzZUx3eE5kT3k0MENlUTlkc0dnNHpsbXRfQmJjalZ2cHo5WFZnRmxFZ2hpc1NwWWtSYnltZTM3V0JPREtIdlpHU0oydXY2MHlycUtCVEdpdXpEMmxHWUpEZ21B?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emerging Sub-Segments Transforming the Tenosynovitis Drugs Market Landscape - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Emerging Sub-Segments Transforming the Tenosynovitis Drugs Market Landscape - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:05:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTGgyODBqYTdWYzhyNEdOcHl2UTVuNUtsaWVmYXdEbHVtME90NktfVVNyTGl3QnRZREJ6RFBuZEZlajZZdzBqc1hKMHhxQ3pKdzhSNVNmTS14TDlLdmpWLVJTMVlvWjQ0WlhnYXpFbVktdmExMGY5VERhX3ZjWGtLX3VKVVNTOGVHc3hSWmtkMzFYdHVGQTZ6VjlR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Euphoria-Inducing Drug Approved as New Depression Treatment - Dagens.com",
+          "source": "Dagens.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Euphoria-Inducing Drug Approved as New Depression Treatment - Dagens.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:58:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSVBlTmhBZzltdFhNaHQ0N0Q4QUtYc3l4Y2NNWk9HbEs0bmlYX2VaemVCQzNTNm9BVWUxSTlIdVdkUndBbzZBaVM2UGlCd2dJUmNJN3FXVWZGQlFyXzNXSnlOdU9NMnNfeE16TUZpV1c5R1htR3pxTU5zRG1WOWVVWEt4NGF0cVdOMHR1LWxqckR2S28?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "3D Printed Drugs Market Advances as Personalized Dosing, - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "3D Printed Drugs Market Advances as Personalized Dosing, - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 07:25:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTjJ4czJHWFRSV0F4M1NmcUR1WEY1WDBsQ1B2d3BQV1RCSm03Si1rZ0p4TWFzWXhBdUY0SmRfZU9TR1oteTljSkZMVkw3QW1rTldhUXpIakxjSzU3aHdQSXFHM1FXODUzMmlpNEJXVjhwUFZWUzluLUNyakxNMFp1OVhOVDVYMWtwemlWVFJxZ2RyUTFqUXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Outlook on the Pulmonary Drugs Market: Major Segments, Strategic Developments, and Leading Companies - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Outlook on the Pulmonary Drugs Market: Major Segments, Strategic Developments, and Leading Companies - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 10:08:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHllR3hnTWtUT0RDYUUtRDJsVGVQN1JQenUxWDY4aUwzZnU3YlJsRHhVRUYzX0tyMEFueU9vUnMzbEpRUENEZmRQSlFKZTZnNXFiVlBwbUF4LUgwLU1mdFRad2lPaTk4ejlwSFNMS3R0cUNXdllaeHMyZU5kQkIxNzZWZDcyMVhLakhVVzRkMmNSdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emerging Sub-Segments Transforming the Urothelial Cancer Drugs Market Landscape - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Emerging Sub-Segments Transforming the Urothelial Cancer Drugs Market Landscape - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 06 Aug 2026 11:41:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUVQ3UWt5bzlvV2R5ZjgtQjNvSWw4SjNrVUpBSkpsQ05XeXR6R0lXR0tmT2FCQ3lhVDAyVjhJX3lwSC0yMkpjSEZwYUZhQ1p1S1BybldveURDVWVrUDRhLWJDR1NYdTNUSzFLV2ZGbHFiZktUeFQyV3NDOHFfZ1RGMTZtRVdPSjR0NWJScTFzUW1lRHpuRWI0?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Market Segmentation, Dynamics, and Competitive Landscape in the Psychedelic Drugs Industry - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Market Segmentation, Dynamics, and Competitive Landscape in the Psychedelic Drugs Industry - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 11:34:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX1J5RFNrVW5nd0RRUWpCY2JRNjVWYnpnYXVUbUY5ZzJ4VUVnZ0NBSzJxeEk4cjRGMWFnUXJ6aWEwb3Mxd0kwbWVCZjZ6YW13RmtYbG9waDRyRnY0aXRpZThSMHhWZnlHZ2x0a2Vhd3JBTGxoTXRtalQyWmdfNGJSUzJVbGR4TmphZVlQWFk5SzR6Uzha?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Skeletal Dysplasia Drugs Market Overview: Major Segments, Strategic Developments, and Leading Companies - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Skeletal Dysplasia Drugs Market Overview: Major Segments, Strategic Developments, and Leading Companies - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 10:30:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWFFqc2wyYnRlazY4bTdSUXhtOHRWYTBVT1hFUXFoaDdEVGU0LW53VUh0cHZmTGoxSjN0d2RjVnRWaWxOdVY1RXpjZkxPalQ0MUM5QWZXYmktMGZtNkF6Tl8tMUktZU43R2ZVRGVzT0w2SjM2SlE3VXo2cGNEaF82UlZnckNlZWZfc0diV3k3TFU0TC1EZnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Quantum Drug Discovery Market is Booming Worldwide | Major Giants IonQ, Pasqal, Microsoft - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Quantum Drug Discovery Market is Booming Worldwide | Major Giants IonQ, Pasqal, Microsoft - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 17:30:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcUlLWlpDU1dJR0h2aExBRDEyTUt2eGpPeGtQNVBYNDNWTVIzVzJxRzltcGhIMnNjQkZ1dHBFYWFOd2o4QTV6dkpTWTJuZGJna1FwZzg2Wjlfbk5vWFd1Wld1UXJJdGF6MmN6TFJ6ZkZ3ZzhMT2dDalJSRE5nYjA0MnlmckVaR1ZTLTlDLU9yQ0Y3WW0xT1p3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Microspheres for Drug Delivery and Diagnostics Market Global Demand Analysis and Forecast 2026 to 2035 - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Microspheres for Drug Delivery and Diagnostics Market Global Demand Analysis and Forecast 2026 to 2035 - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 09:45:46 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVdZaFF6dk52R2hjZzcydjlYUUhYck5iVlZzWHdhN2ZzUVVkY2FuZ1lRSVgwUWwydVhta1otTHJ4T0VtQXdBeklaLUVBNWp3QnBaOENXV2lHcE82aTh0cW1jRGE4bWIxOFVla214R1ZyakYwNXhzS2FNYjNwT2pkMzhsV0Jac1pwU1MxMGlaZ05vZWprbVVQSlFRY1g?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharmaceutical Grade Lactose Market to Reach USD 2.3 Billion by 2034, Growing from USD 1.4 Billion in 2025 - SRI - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharmaceutical Grade Lactose Market to Reach USD 2.3 Billion by 2034, Growing from USD 1.4 Billion in 2025 - SRI - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 12:03:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0lrVERrcGdvcS1YajhHV01KblViaW1EVVF3VC1lUGJRZlhhdXFOMUhkRms3VThzV2FXRUNBZTEtOHFfMUFzSndqRnluck8wVnZaZkRSSTR5alJOYUtKQ3IxWVRoNTRmb2w2WnIxZEJoc0FKQkltRlFVUHNJekdJRUgzM2cyMkQyY1VEanFLaWlRdExRSnhTc2VneWs?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Schizophrenia Drugs Market Overview: Major Segments, Strategic Developments, and Leading Companies - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Schizophrenia Drugs Market Overview: Major Segments, Strategic Developments, and Leading Companies - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 10:23:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHVoLWQxTjNITnRMWENXQ0hsVkZiM09qcEJmS2tUaTIwRXJxTHI4U08xeThpQ0tJa1JRd0g5amRnZmhBdE1oSUFIYVFCU1VrTEtrNzBYeV92dURxWXdQSllvV0RFaDFxY3YxYkZpbERPMEJLYXFFcENiN3NHNE1waXVlektwYWN0QlhQOVRuZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Key Strategic Developments and Emerging Changes Shaping the Purine Analogues Drugs Market Landscape - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Key Strategic Developments and Emerging Changes Shaping the Purine Analogues Drugs Market Landscape - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 09:36:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNG4yWkdpNHZrQ2w1RUo0Z3JnLU0ya2RBOGFPaDk1eTVMVmpOUXRXUEZRUF9VSkVNNWNlazdIZ3dEaGZiMnZrNy1pV3gxZnRMVm1BZWgyUTgwemxBUVlRektWa3QwQ0xxek55aUdJQzIzUVJ4cmRmVlJ5QlJCSHVaQnN6MHRpckpVTFkzN3Ayc3Y2elFWU3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Structure of the Specialty Pharmaceuticals Market, Current Trends, and Key Player Analysis - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Structure of the Specialty Pharmaceuticals Market, Current Trends, and Key Player Analysis - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 10:45:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFByRTRVNTAzNElESlpVZHBLRFUzel9UcEtmR1BNVndWbzdVTlFEQlRlOUR5TFk2SEpEalkzeVNnMzF6RHZ4b1NqNTN2MUNmcjhoRGVhVmtweVNlVUNIUzZBRXFiVHdEa3NUWURlR1AyamZFc3RLREV5ZHFlR3VjWnprdmJUMVU2YmJqLWFHOUVCemZhU3ZqZA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Emerging Sub-Segments Transforming the Salbutamol Active Pharmaceutical Ingredient (API) Market Landscape - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Emerging Sub-Segments Transforming the Salbutamol Active Pharmaceutical Ingredient (API) Market Landscape - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 06 Aug 2026 10:21:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0JMc3FIcEJLQ0hxbnVOQ2l3d01QcGREelFKblByOC1YT2F2TjlwYmZzcF9vaVc2OTd6V2RPNFRKMEVxb1lpLVZpdXVxX1huTkRNVEJBRzNQbE5VRW5Ic1cxc2RISDZ0dkRGMHA2VmpIWm9TWnBldTJBMHFLWFFsN0NCTlFrcjQ1ZzBJUFJ3ZjZHQUh3X21B?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "pharma",
+        "drugs"
+      ],
+      "articles": [
+        {
+          "title": "These New Drugs Could Fuel Fresh Highs for Biotech and Pharma Stocks - Barron's",
+          "source": "Barron's",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 05:15:00 GMT",
+          "url": "https://www.barrons.com/articles/biotech-pharma-merck-novartis-bristol-myers-stocks-1b626dfc"
+        },
+        {
+          "title": "Govt plans new drugs law to overhaul pharma, medical device regulation - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Govt plans new drugs law to overhaul pharma, medical device regulation - The Economic Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 00:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ2gtZXpnaUhOLUF1X201ZmNmMHlhWmtIV0JDbmlvdzNrU2hEd1BsYlc1T0llVE5feVNtaXM2WWhKeE9ORE44RkdEd3d3RXI2OHlMb281MUdxN0pTcjlDTkRzenowUlJvd21qMzBOM1plN0p2SVRTZVB1UURXNHhJNlA3eU9CeVVKcms5WVA4dEI2bTFNa2Z2QzNsMzhsNXRIQi04WlFsOEFvYmFMQW90QkR1QV8tQ05EajZCX3A0WnhVT1hPNUdpZlhqM1hIYzdhZ1hoMTRjZ1RFemRKMVlZTEdvWFhPNDJaUjRuSlAxN1N3bmRfZ09BRFBCRzVkUHVt0gGAAkFVX3lxTFBDaC1lemdpSE4tQXVfbTVmY2YweWFaa0hXQkNuaW93M2tTaER3UGxiVzVPSWVUTl95U21pczZZaEp4T05ETjhGR0R3d3dFcjY4eUxvbzUxR3E3SlNyOUNORHN6ejBSUm93bWozME4zWmU3SnZJVFNlUHVRRFc0eEk2UDd5T0J5VUpyazlZUDh0QjZtMU1rZnZDM2wzOGw1dEhCLThaUWw4QW9iYUxBb3RCRHVBXy1DTkRqNkJfcDRaeFVPWE81R2lmWGozWEhjN2FnWGgxNGNnVEV6ZEoxWVlMR29YWE80MlpSNG5KUDE3U3duZF9nT0FEUEJHNWRQdW0?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 65,
+      "snippet": "Korea pharma chiefs skip vacations to fix trials and push overseas sales - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzJRRVFRZDVDQmZWcXc4cWUxeUw0Q3EyTlo1c0E3Vnp5LUdrcy1sTUhfMUxNV1M5Y05lZUwteExHYkRuNkdqMnZkdnNQekc1cWVSR2hlYWw2NnJQckFwQUc5eWpRcUVyZ0ZqMVRkRTJhUW1zZDNwZ1VnYUVVNU1KWtIBlAFBVV95cUxNbmVMNDdJTmM3OUJEdE9uLWJ2LU9yN2lDTzA4Z09Ha1owLXNranNxZ1AxTko3Mk9ycEV3TzFUNTgzOEl0OFB2dFVSTzhEZkRKUDJ5UWNRbWdqb25yRXhGaXJmSl9nQ0ZOMHlEV2k2aE5ybEVDTjNsMlR0MjhZbk5oZzBxOTFJelJpREQxWDJtYU5jY2Nt?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网",
+      "source": "广西新闻网",
+      "importance": 60,
+      "snippet": "广西又一国内首仿药品获批上市，仿制药研发实现集群式突破 - 广西新闻网 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lT3VkRW9vYlpnVXA1QUhCV3dsd0NSWU1ud0hsS21ld2NPLU5ERWJGTEJMZUFZRlJBMWlqcFAwT3dqVXNyRVRBeFRlZmRQSENqNEg5VVZiTF95dDNVdGdSS3lGVVEyTXFjdmQxT1pZc2dMNWVrdkJXQUtuczVBMlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Folklore, traditional wisdom and more at Carndonagh 'Walk and Talk' - Donegal Daily",
+      "source": "Donegal Daily",
+      "importance": 55,
+      "snippet": "Folklore, traditional wisdom and more at Carndonagh 'Walk and Talk' - Donegal Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWFnRTdvel9QZWlfbGxXRncyeHlCV09sOXdZUG5xMm1odHJYdmdNWFN0RmxsdFdnbHFYZFFhUmQ3LWoxQS1SUExrOWs1Y0oxa3UtODcyUXBJME5XTjhpeTdVNXVXQWtJMTVwMUZSVkRjUUZtRER0MHF0WkdxSFR6cTJBdFMtZFhwVmpOTEZ0QkJXQ0RzU240cEEweGhBZGE5RUtBU2F4X0dqdXpvaHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Remboursement des médicaments : des pharmaciens de Dordogne s’élèvent contre les baisses à venir - Dordogne Libre",
+      "source": "Dordogne Libre",
+      "importance": 53,
+      "snippet": "Remboursement des médicaments : des pharmaciens de Dordogne s’élèvent contre les baisses à venir - Dordogne Libre | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcVNOS0dPWUlNNkEyNkVKT1dOejh5aDNqYURNXzJsR3M2T3BkN0RuLWdlV0F1dDREak53czkyNDF2bFBwQ19UUGpySFMzQ1huVExpZk1vbFhGUDZqeEktYTZxM3doZ1dKS0o4T2lZbVRsM1ZJc0pOdFc3Y25ZSnlGZXExUHRaV292ZXg4VWVHX1ROQ19mTTgtQzNwd0ZSRVd4dGp4el9JZTNyQVVVc0x5eVo5Y0lrWkpBWGR3Rzk2ODNvb01FSEYxR21kNGlLRjRlMzdDQ3duT1pqdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "לחזק את ניהול צמחי מרפא כדי להבטיח את בטיחות המשתמשים. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "לחזק את ניהול צמחי מרפא כדי להבטיח את בטיחות המשתמשים. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjRidG8yV0UtY1YyekNUOExNVkRGQXU5QVVpejYxQkllcTcyUnZBdXVadDlOWmNOek5oX0xXQnJPVW4xcXc0TU5jNFV5U2ZoeU1NQ3MxNzh0T0c0WUJIMG0zUkFqcVgwYVBKeXNpM3hzdF9UcGpybzBtdExXTWp0dVlLTTJDaFdtNHNFRGFDcDE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Feeling the heat? Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore",
+      "source": "Vogue Singapore",
+      "importance": 50,
+      "snippet": "Feeling the heat? | Here’s how to cool off the TCM and Ayurveda way - Vogue Singapore | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15SUhsbGx6M25Jc2J3NlVvMUtLTjJpYUtLTU1qaHBlWTZ1a05yRGlVOXlJeHNUZ2ludjlZZ2NRSXNNaVZXS09qN0Nfc012UXdTd0JZWnptbmJWWGlVWlFPNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn",
+      "source": "vietnam.vn",
+      "importance": 50,
+      "snippet": "Thach An Beldesi Geleneksel Tıp Derneği'nin Kuruluşu - Cao Bang Çevrimiçi Gazetesi - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZEp1RzUtRmhuN2RTb1U3bnVpTmlBdTRHOWVVYXlUM21hZi1tRE8zS2M5Wi12M012X2swR2FUbjlKTmhKV0hHUnNLXzJWVW1IV0Fzb3ZFM2k5ZEQydEJ2U05zZDduNXJELXc3M0c4amp5ZmNfNm5ieGNuUndxcEFKVmhlSGFWZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews",
+      "source": "bangkokbiznews",
+      "importance": 50,
+      "snippet": "‘องค์การเภสัชกรรม’ อัปศักยภาพโรงงาน ผลิตยาได้ 6,000 ล้านเม็ด 63 รายการ - bangkokbiznews | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FRVZQbEhYOHRsVVRmOGh4NjRYRDRPUm5rTUdYQk9YR2JicG1OajJOQURlTlViZmxZemZ1QVMtejBzVzVkUkdwaWRoeENIT3hqVThldWtQLVZYRm9OZXp5eE12bi1qSGtRUnJF?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "StreetWatch: A $2.9 Billion Takeover Put a Spotlight on Relentless Hunger. Palatin Technologies Is Developing the Next Generation of the Drug That Seeks to Treat It - StreetInsider",
+      "source": "StreetInsider",
+      "importance": 47,
+      "snippet": "StreetWatch: A $2.9 Billion Takeover Put a Spotlight on Relentless Hunger. | Palatin Technologies Is Developing the Next Generation of the Drug That Seeks to Treat It - StreetInsider | 요약문 생성 불가 | 요약문",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQR1hKR0dLR0l6SEVWNW1jb05zOXJpTW1jSTZtUlp1clJiZjh1ZFdoX1BXZlVIYk9GOURDN1VQZkE1TFJKN3BOUXY1WnhkZmRjeVVnTS1ycWlRdzR2QnVnZUZNbzUyTlFldUVJMXBuWF8zODVHOWtwU0Q5LXdPZV83djhvQXdJMXVzZ0VEWTVsNHBIbmtKUUdEemp4OGdQX0dud3c1aHBFYTZhTXUtcFg5MVhpQ0duU3pIQkx5WGtBc0lXNEYzcW53VGpYdUlxN0lwWjJPcEJldVZiVEk1a3RUV2dDRkNBeUticmZERTJMSHZIOXpaS3hJc2p4MVMzNDA4YlZyVFpuZ1l2TmQxdEI3US1hQkZoTmpCaGRodkhhWmZLZVYtUW5SZHN5NmY0VFA4SGc2bWI1RldLMUpBOXhIT2piYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company - PR Newswire",
+      "source": "PR Newswire",
+      "importance": 47,
+      "snippet": "Northwest Biotherapeutics Announces MOU for Collaboration With the Saudi Pharmaceutical Industries and Medical Appliance Company | Oops, something went wrong | Skip to navigation Skip to main content ",
+      "url": "https://finance.yahoo.com/healthcare/articles/northwest-biotherapeutics-announces-mou-collaboration-155800374.html"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 10,
+      "en_count": 6
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 13,
+      "en_count": 13
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 2
+    }
+  ]
+}
