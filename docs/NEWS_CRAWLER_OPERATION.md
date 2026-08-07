@@ -163,6 +163,12 @@ Bing 후보 점수는 다음과 같다.
 
 `analysis.md`는 Google URL 잔존 수, 본문 미수집 수, title fallback 수, 필드 존재율, 5줄 요약 분포를 기록한다. `stats.clustering`은 원문 기사 수, 고유 이슈 수, 관련 기사로 묶인 원문 수를 기록한다.
 
+### 아카이브를 통한 재처리의 범위
+
+`pharmascope-news` 아카이브는 날짜별 `raw.json`의 URL·출처·추출 텍스트·본문 상태를 보존한다. 따라서 `google_url_fallback`, `title_only`, `failed` 항목만 선별해 새 URL 매칭·본문 추출·요약 로직으로 재처리하고 전후 품질을 비교할 수 있다.
+
+다만 아카이브에 `title_only` 텍스트만 남아 있으면 그것이 기사 본문으로 바뀌지는 않는다. Internet Archive/Wayback도 스냅샷이 있을 때만 보조 원문으로 사용할 수 있으며, 스냅샷·직접 URL·본문 모두 없을 때는 실패 상태를 유지한다.
+
 ## 7. 산출물과 GitHub 동기화
 
 일일 실행은 `daily/YYYY-MM-DD/`에 아래 파일을 만든다.
