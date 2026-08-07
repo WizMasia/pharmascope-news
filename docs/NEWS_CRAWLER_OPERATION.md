@@ -100,10 +100,22 @@ Google RSS 검색어 자체에도 `after:YYYY-MM-DD`가 붙는다. 이중 필터
 
 ### 중복 제거
 
-`dedup()`은 아래 두 기준으로 중복을 제거한다.
+`dedup()`은 아래 두 기준으로만 중복을 제거한다.
 
 1. 동일 URL
-2. 제목에서 영문·숫자·한글만 남긴 뒤 앞 40자가 동일한 기사
+2. **같은 출처**에서 제목 정규화 앞 40자가 동일한 기사
+
+서로 다른 언론사가 같은 제목 또는 거의 같은 사건을 보도한 경우에는 제거하지 않는다. 원문 URL을 모두 보존한 뒤, 다음 단계의 이슈 클러스터링이 대표 기사와 관련 링크로 정리한다.
+
+### 이슈 클러스터링과 관련 링크
+
+본문·요약 처리 후 `story_cluster.assign_story_clusters()`가 전체 범주의 기사를 보수적으로 묶는다. 같은 정규화 제목은 같은 이슈로 묶고, 제목이 약간 다른 경우에도 제목 토큰 Jaccard 유사도 0.75 초과·문자열 유사도 0.88 이상·공통 토큰 3개 이상일 때만 묶는다.
+
+- 원문 기사는 삭제하지 않고 모두 `raw.json`에 보존한다.
+- 클러스터 대표 기사는 중요도, `fulltext` 확보 여부, 본문 길이 순으로 선정한다.
+- 대표 기사에는 `story_id`, `story_primary`, `related_count`, `related_articles`, `cluster_reason`을 기록한다.
+- `report.md`는 대표 기사 한 건을 표시하고 그 아래에 관련 언론사의 제목·출처·직접 링크를 모두 표시한다.
+- 단순히 `FDA`, `신약`처럼 일반 단어만 겹치는 서로 다른 제품·사건은 묶지 않도록 보수적으로 처리한다.
 
 ### 중요도 점수
 
@@ -145,9 +157,11 @@ Bing 후보 점수는 다음과 같다.
 | `content_status=fulltext` | 제목보다 충분한 길이의 본문 확보 |
 | `content_status=title_only` | 본문 확보 실패 또는 제목 수준 텍스트만 존재 |
 | `content_status=failed` | URL/본문 처리 실패 |
+| `story_id`, `story_primary`, `related_count` | 보존된 원문을 어떤 이슈로 묶었는지와 대표 기사 여부 |
+| `related_articles` | 대표 기사에 표시하는 같은 이슈의 다른 언론사 링크 목록 |
 | `content_source` | 실제 본문, meta description, snippet, title fallback 등 내용 출처 |
 
-`analysis.md`는 Google URL 잔존 수, 본문 미수집 수, title fallback 수, 필드 존재율, 5줄 요약 분포를 기록한다.
+`analysis.md`는 Google URL 잔존 수, 본문 미수집 수, title fallback 수, 필드 존재율, 5줄 요약 분포를 기록한다. `stats.clustering`은 원문 기사 수, 고유 이슈 수, 관련 기사로 묶인 원문 수를 기록한다.
 
 ## 7. 산출물과 GitHub 동기화
 

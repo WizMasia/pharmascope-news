@@ -13,6 +13,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from adapters import *
 from google_bing_bridge import resolve_via_bing
+from story_cluster import assign_story_clusters
 from html import unescape
 from datetime import datetime, timedelta, timezone
 import json, subprocess, re
@@ -658,6 +659,11 @@ enrich_stats = enrich_articles(all_data['category'])
 all_data['stats']['enrichment'] = enrich_stats
 log(f"  ✅ enrichment 완료: 처리 {enrich_stats.get('processed', 0)}건, URL해석 {enrich_stats.get('url_resolved', 0)}건, 본문취득 {enrich_stats.get('fulltext_ok', 0)}건")
 
+log("🗂️ 이슈 단위 관련 기사 묶기 실행 중...")
+cluster_stats = assign_story_clusters(all_data['category'], DATE_STR)
+all_data['stats']['clustering'] = cluster_stats
+log(f"  ✅ 클러스터링 완료: 원문 {cluster_stats['total_articles']}건, 고유 이슈 {cluster_stats['unique_stories']}개, 관련 기사 {cluster_stats['grouped_articles']}건")
+
 # ===================================================================
 # SAVE
 # ===================================================================
@@ -684,11 +690,12 @@ en_emoji = {'Drugs & Therapies': '💊', 'Pharma Industry': '🏭', 'Pharma Poli
 def write_section(data, emoji_map):
     for cat_name, items in data.items():
         emoji = emoji_map.get(cat_name, '📌')
-        L.append(f"\n### {emoji} {cat_name} ({len(items)}건)")
+        visible_items = [item for item in items if item.get('story_primary', True)]
+        L.append(f"\n### {emoji} {cat_name} ({len(items)}건 / {len(visible_items)}개 이슈)")
         if not items:
             L.append("- _(수집된 뉴스 없음)_")
             continue
-        sorted_items = sorted(items, key=lambda x: x.get('importance', 0), reverse=True)
+        sorted_items = sorted(visible_items, key=lambda x: x.get('importance', 0), reverse=True)
         for i, item in enumerate(sorted_items, 1):
             t = item['title']
             assn_tag = ' *(협회지)*' if is_association_media(item.get('source','')) else ''
@@ -704,6 +711,15 @@ def write_section(data, emoji_map):
             L.append(f"   🧾 요약: {summary}")
             L.append(f"   📊 {item.get('evidence','')}")
             L.append(f"   🔗 {item['url']}")
+            related = item.get('related_articles') or []
+            if related:
+                L.append(f"   🗂️ 관련 보도 {len(related)}건")
+                for related_item in related:
+                    related_source = related_item.get('source') or '-'
+                    related_title = related_item.get('title') or '-'
+                    related_url = related_item.get('url') or '-'
+                    L.append(f"   - {related_source}: {related_title}")
+                    L.append(f"     🔗 {related_url}")
 
 L.append("## 🇰🇷 국내 (한국어)")
 write_section(kr_data, kr_emoji)
@@ -722,11 +738,12 @@ lang_emoji = {'French / 프랑스어': '🇫🇷', 'German / 독일어': '🇩�
               'Hindi / 힌디어': '🇮🇳', 'Arabic / 아랍어': '🇸🇦', 'Hebrew / 히브리어': '🇮🇱', 'Persian / 페르시아어': '🇮🇷'}
 for label, items in ml_data.items():
     emoji = lang_emoji.get(label, '🌏')
-    L.append(f"\n### {emoji} {label} ({len(items)}건)")
+    visible_items = [item for item in items if item.get('story_primary', True)]
+    L.append(f"\n### {emoji} {label} ({len(items)}건 / {len(visible_items)}개 이슈)")
     if not items:
         L.append("- _(수집된 뉴스 없음)_")
         continue
-    for item in items[:5]:
+    for item in visible_items[:5]:
         imp = item.get('importance', 50)
         stars = item.get('stars', '⭐⭐⭐')
         source = article_source(item)
@@ -738,6 +755,12 @@ for label, items in ml_data.items():
         L.append(f"  ⏫ 업로드: {uploaded} | ♻️ 갱신: {modified}")
         L.append(f"  🧾 요약: {summary}")
         L.append(f"  🔗 {item['url']}")
+        related = item.get('related_articles') or []
+        if related:
+            L.append(f"  🗂️ 관련 보도 {len(related)}건")
+            for related_item in related:
+                L.append(f"  - {related_item.get('source') or '-'}: {related_item.get('title') or '-'}")
+                L.append(f"    🔗 {related_item.get('url') or '-'}")
 
 L.append("\n---")
 L.append("## 📊 수집 통계")
@@ -758,6 +781,7 @@ for label, items in ml_data.items():
         L.append(f"- {label}: 0건")
 
 L.append(f"\n**📊 총계: {total_all}건**")
+L.append(f"**🗂️ 고유 이슈: {cluster_stats['unique_stories']}개 | 관련 기사로 묶인 원문: {cluster_stats['grouped_articles']}건**")
 L.append(f"**💾 저장:** `{DAILY_DIR}/`")
 L.append(f"**🔗 GitHub:** https://github.com/WizMasia/pharmascope-news")
 L.append(f"**⚡ 수집:** {NOW.strftime('%Y-%m-%d %H:%M')} KST | Google RSS 발견 + Bing 직접 URL 매칭 + 정적 본문 추출")

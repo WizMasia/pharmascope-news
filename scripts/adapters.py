@@ -127,18 +127,24 @@ def is_within_24h(time_str):
     return (timedelta(0) <= age <= timedelta(hours=24)) or (dt_utc.date() == now_utc.date())
 
 def dedup(articles):
-    """URL + 제목 기반 중복제거"""
+    """Remove exact URLs and same-publisher duplicate headlines.
+
+    Different publishers may cover the same event.  Keep those separate so the
+    later story-clustering step can retain every publisher link under one issue.
+    """
     seen_urls = set()
-    seen_titles = set()
+    seen_source_titles = set()
     result = []
     for a in articles:
         if a['url'] in seen_urls:
             continue
         title_key = re.sub(r'[^a-zA-Z0-9가-힣]', '', a['title'])[:40]
-        if title_key in seen_titles:
+        source_key = re.sub(r'[^a-zA-Z0-9가-힣]', '', a.get('source', '')).lower()
+        source_title_key = (source_key, title_key)
+        if source_title_key in seen_source_titles:
             continue
         seen_urls.add(a['url'])
-        seen_titles.add(title_key)
+        seen_source_titles.add(source_title_key)
         result.append(a)
     return result
 
