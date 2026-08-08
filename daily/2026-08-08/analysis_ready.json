@@ -1,0 +1,772 @@
+{
+  "date": "2026-08-08",
+  "total_articles": 389,
+  "language_breakdown": {
+    "korean": {
+      "total": 136,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 12,
+        "의약정책": 10,
+        "의약단체": 11,
+        "의약관련정부기관": 14,
+        "의료현장": 25,
+        "약국·약사": 5,
+        "의료정책·인력": 23,
+        "전통의학": 1,
+        "감염·보건": 10
+      }
+    },
+    "english": {
+      "total": 132,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 121,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 4,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 10,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 6,
+        "Polish / 폴란드어": 7,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 13
+    },
+    {
+      "keyword": "백신",
+      "count": 7
+    },
+    {
+      "keyword": "급여",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "제네릭",
+      "count": 3
+    },
+    {
+      "keyword": "FDA",
+      "count": 3
+    },
+    {
+      "keyword": "식약처",
+      "count": 3
+    },
+    {
+      "keyword": "수출",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "임상",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 1
+    },
+    {
+      "keyword": "ADC",
+      "count": 1
+    },
+    {
+      "keyword": "특허",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 28
+    },
+    {
+      "keyword": "approval",
+      "count": 9
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "regulation",
+      "count": 3
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 11
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 9
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "kukinews.com",
+      "count": 5
+    },
+    {
+      "source": "네이트",
+      "count": 5
+    },
+    {
+      "source": "newsmp.com",
+      "count": 4
+    },
+    {
+      "source": "데이터투자",
+      "count": 3
+    },
+    {
+      "source": "뉴스1",
+      "count": 3
+    },
+    {
+      "source": "simplywall.st",
+      "count": 3
+    },
+    {
+      "source": "edaily.co.kr",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 6
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 4
+    },
+    {
+      "source": "Kalkine Media",
+      "count": 4
+    },
+    {
+      "source": "kalkine.ca",
+      "count": 3
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 2
+    },
+    {
+      "source": "Market.us Media",
+      "count": 2
+    },
+    {
+      "source": "qz.com",
+      "count": 2
+    },
+    {
+      "source": "Drug Store News",
+      "count": 2
+    },
+    {
+      "source": "MedCity News",
+      "count": 2
+    },
+    {
+      "source": "pharmaphorum",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 신약 허가 러시와 재도전 성공",
+    "제조·투자·R&D 재편이 상업화 속도를 좌우",
+    "국내 급여·약가·보험정책이 시장 접근성을 재조정",
+    "제조 품질·수출 규제가 공급망과 현장 부담을 키움",
+    "약국·한의·전통의학 규제가 현장 운영을 바꾼다"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 34,
+      "keywords": [
+        "drug",
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News",
+          "source": "Drug Discovery News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA approves first-in-class drug to treat narcolepsy - Drug Discovery News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 19:48:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2JNSERzd0wzZW0wNUQwc0lrWld3WmpXS1VkUTdWUFNoY0xzOFFKOTlXVDNOT0JkOEFtMmFkclZnaDRRRmh2dGVaMXVaRWNpdXRERktpaEphb0xGMkkwR0xKanQtQkJValhqZThQMHNKM0s2eE9xYlFwVURwRlg1S1k3X25hYW5kLU9FT0Q1bnZmby1NSlNv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA approves Orzeyful, first drug to treat all symptoms of narcolepsy type 1 - Managed Healthcare Executive",
+          "source": "Managed Healthcare Executive",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA approves Orzeyful, first drug to treat all symptoms of narcolepsy type 1 - Managed Healthcare Executive | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 20:06:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMExzbWpFcXlRT2JoR00yT1d2RW5Qek5OM0d2UlRRWGQ2OGlkb0hkSjNWRzVNczhxWVhTZzhrM2U0TFNkVFpVa2J2b1p0ZVpKS0Z3d0hzUlNNQjlZNHdGZi11am1XSjJJZ1NDbmpoU0N0d2hzZkFRSU1nS0ViUDRBZU5taTBGMmEzVWt2VmRXdzU3ZTR6Q2FBck8xQnpNdjBrX29iSGlSaWNDbUYyS3RIOGpNYl9lcmZlYzVGVDNWM2E?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Shifting GLP-1 research and development: Lessons learned from the first-generation - drugdiscoverytrends.com",
+          "source": "drugdiscoverytrends.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Shifting GLP-1 research and development: Lessons learned from the first-generation - drugdiscoverytrends.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 17:18:36 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbEYtZzVDVGp0NHUwbWVhTjJ0cW03R01ZNEs2aHlIQ3U5WGtleFlsUm1ORVd5Y1RRcXJQNFRyNU5qaHRRcGdjRWM0SzRLOHdxZHVrc1RyZFFEWDFUVTBGY0ZFbmZ3ZHZxcXZjZDBoek5rSDlBYVBTLWpidU5hRmE3c0FnZ3Q2YlkzVHpzdG9XQnVJb0toN0ZMNXhEY3lsSWQ5Y1ptVzJESEh6dE5KQ0loWGZkTWNtUFEwelE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward - Nature",
+          "source": "Nature",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward - Nature | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 09:50:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PRnBXREdkUzdBRklQY3VoTXdBbm96TU5uckNwS2ZhX2ZsUmc3eFdpREpSeXREZlFwZ0twM2o3RlAtajBNaEMyNWpzeTZMN2hpalBfT05xUzNzUVJkZ0t3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Cloud-Based Drug Discovery Platform Market Expanding at 12.6% CAGR Through 2034 - Market.us Media",
+          "source": "Market.us Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Cloud-Based Drug Discovery Platform Market Expanding at 12.6% CAGR Through 2034 - Market.us Media | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 16:56:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZdkQtWEh6Y2ZUTF84c1FBd0Q1cDZCa1dORUZaNUNWNUNZeWJveVQtX2w3Y1F5dFZUcUwyYU04Vko3dGpPb0JSQjJ1NmxkRms2bXpJMVYwUG5NejIybHdob1QzbmJMVjFnMVVYUmNDZVZBbDVWSVYyM2k3dUk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology",
+          "source": "Pharmaceutical Technology",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda nets first-in-class advantage on narcolepsy drug’s FDA go-ahead - Pharmaceutical Technology | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 09:53:37 GMT",
+          "url": "https://www.msn.com/en-us/health/medical/takeda-nets-first-in-class-advantage-on-narcolepsy-drug-s-fda-go-ahead/ar-AA29yRmZ?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA approves Replimune's Tudriqev melanoma drug on third try - qz.com",
+          "source": "qz.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA approves Replimune's Tudriqev melanoma drug on third try - qz.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 13:26:10 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcktvRzU1bzE5djhaQmpoelJxalpydVk1SkdJYmJubC0xSEN0c0FwQ0R4WVNIQlFUcXFPVFM1bkgxdUViWXNuaG40UUJGOWQtXzdmZndQNkg1RldjMmFiZHQxZEJrNjgzQ2c4Mk44ajBXSXJ0MzBLbEtfazV3WDVaWk9n?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Regeneron's Gene Therapy For Genetic Hearing Loss Gets Accelerated FDA Nod — Drug Pricing Deal With White House To Be Announced Today - Stocktwits",
+          "source": "Stocktwits",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Regeneron's Gene Therapy For Genetic Hearing Loss Gets Accelerated FDA Nod — Drug Pricing Deal With White House To Be Announced Today - Stocktwits | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 15:38:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVVpIY2VFTkR2Mm42emFvcGxFRjNqMjh0bzZpak1SSmRFVGFNZllON2xtLW41ek4xWVNFYmhHVktjSGZua3A4UWpHb0lXS296ek9LbUhYQlM4YmdiQVpVVEN2aEhJUEF3OVVOcTRIRGpXZUFldWpiNXJPRnFUZy14TjhRa1g1ZWJ0LWpzRm0zTGEzeVpJUElDVzBVOUFGSnMySkxjeTQ0V3lGU2J0ZVU3bGZRUWJyX2VORkN1VlBNYkJYZXVua3Zv?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Liraglutide combination products using Stevanato Group pen gain European approval - Drug Store News",
+          "source": "Drug Store News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Liraglutide combination products using Stevanato Group pen gain European approval - Drug Store News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 12:30:51 GMT",
+          "url": "https://drugstorenews.com/liraglutide-combination-products-using-stevanato-group-pen-gain-european-approval"
+        },
+        {
+          "title": "Back Pain Drug Breakthrough: Osteoporosis Pills Blocked Spine Mineralization in Disc Study - Tech Times",
+          "source": "Tech Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Back Pain Drug Breakthrough: Osteoporosis Pills Blocked Spine Mineralization in Disc Study - Tech Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 19:58:59 GMT",
+          "url": "https://www.msn.com/en-us/health/diseases-and-conditions/back-pain-drug-breakthrough-osteoporosis-pills-blocked-spine-mineralization-in-disc-study/ar-AA29CzWU?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA - MedCity News | A closely watched Replimune cancer therapy now has FDA approval for treating advanced cases of melanoma, marking a comeba",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 22:12:34 GMT",
+          "url": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/"
+        },
+        {
+          "title": "FLT3 -Mutant AML Study Reveals Ferroptosis as a Hidden Drug Vulnerability - Inside Precision Medicine",
+          "source": "Inside Precision Medicine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FLT3 -Mutant AML Study Reveals Ferroptosis as a Hidden Drug Vulnerability - Inside Precision Medicine | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 17:02:10 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFNsYUVULS13QUlFZmwxd2w4eEZXU21BclEzR280Y0tERlAybi1UV0ZxbVpPdktTb05ZRk5oRFNNZG9ZUnFYYUdTSkpVUTVKVUJndm5mSTQtQ21zVW92aUJEdVJVY2ZlWk81X2JhaDZUVThLcWR0blgtRFltZE5CQ1JxcFEyb0M4WmxwSkZOdG55X3BpSFY1UWNfeGJsQ2k2LUpmYVZNcDE1em1kYTFNU3RlWWpnWGp0SFFCV19odFRLV0JBR3VQOQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Third time lucky for Replimune as FDA OKs melanoma drug - pharmaphorum",
+          "source": "pharmaphorum",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Third time lucky for Replimune as FDA OKs melanoma drug | pharmaphorum | Skip to main content | Third time lucky for Replimune as FDA OKs melanoma drug | National Cancer Institute via Wikimedia Commons | At its third att",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 09:50:13 GMT",
+          "url": "https://pharmaphorum.com/news/third-time-lucky-replimune-fda-oks-melanoma-drug"
+        },
+        {
+          "title": "FDA grants orphan drug status to potential treatment for ALL - Rare Cancer News",
+          "source": "Rare Cancer News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA grants orphan drug status to potential treatment for ALL - Rare Cancer News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 18:08:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ2t5Y0NZTmNUaWtfSTRWLWVNVFVJSDRJQVl4V1JSRWQ3dXVGTWFJbnBGNHZwMHc3QmhRemx4WWpMRW04dkZtS2dXQlEtNHdaUVliaUx5ZnExRVljdHRRSVFFYjd4OHFCZFZ3RGs2VUdncnJyZ1BkNVkxS3I4cjRXZ2hPTlBia2RpSWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Sue Sutter: FDA's IND Pilot 'Changes the Architecture of Drug Regulation' - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Sue Sutter: FDA's IND Pilot 'Changes the Architecture of Drug Regulation' - finance.biggo.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 17:10:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SNmlHcGxQbVM1bmt2LUMtOEJJTDBGYXRBZDVOYmxkQkYzcWdKazhIMHZBdndYYlFueXdFWTFPNkFScG14YjRUMDNLZFhsNEhNbFQ0SlR2SDM1clU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Completes First-Cycle Review of Preservative-Free Ketamine ANDA with No Drug Related Major Deficiencies; Final Packaging Certification Requested for Approval - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Completes First-Cycle Review of Preservative-Free Ketamine ANDA with No Drug Related Major Deficiencies; Final Packaging Certification Requested for Approval | | The Manila Times | ENTERTAINMENT | THE SUNDAY TIMES | ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 11:20:56 GMT",
+          "url": "https://www.manilatimes.net/2026/08/07/tmt-newswire/globenewswire/fda-completes-first-cycle-review-of-preservative-free-ketamine-anda-with-no-drug-related-major-deficiencies-final-packaging-certification-requested-for-approval/2400924"
+        },
+        {
+          "title": "Gedeon Richter Bets on the Billion-Dollar Weight-Loss Drug Market - hungarytoday.hu",
+          "source": "hungarytoday.hu",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Gedeon Richter Bets on the Billion-Dollar Weight-Loss Drug Market - hungarytoday.hu | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 13:54:58 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmxPRmRkQ3lQMDRxWThrZ2VVZ2NhNnhwVWxHT29PWnJRTWwzWGpyY0tiZm9WRzZnTFQ2M291VFVyZWNqR0d6R3k2LVlvQ1pNcE5ka29GWnJlRlhmYUt2Wm9oVjQwTkVXQnFhcUZSOXZCRGU2Ti1RVWxGdUFDUTlGempWSHZqd2hqNnRKbU13V1YySkFq?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Quantum BioPharma's Dual Strategy Targets Neurological Health with MS Drug and Alcohol Supplement - citybuzz -",
+          "source": "citybuzz -",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Quantum BioPharma's Dual Strategy Targets Neurological Health with MS Drug and Alcohol Supplement - citybuzz - | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 08 Aug 2026 00:18:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdjV0SnVVTEFDYUp3d0M3ZmEtNk5PTi1NemlwaWdveXoxU0Nadk8xTkhtd0pwbWtIazg0R3lQc3Z0TVZGTmxWUjl0aGlvejNnMVVVSDdGRTFFd0tHa3EwMms0VmdaTEtPdmZ5NmsxazdJdjJja01BOS0yN29nUUdZYi1ibDZlZmxqeDEzUDZacjFSaEVCaWtnTWVqRzZubUxHMHdwenpFV1hjM3VJSm1xRnVKOFJia1ZpaDd4ZF8wRHRrRjFORldNLTJsdDk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Tudriqev: US FDA Approves Replimune's Skin Cancer Drug After Rejecting It Twice - Health and Me",
+          "source": "Health and Me",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Tudriqev: US FDA Approves Replimune's Skin Cancer Drug After Rejecting It Twice - Health and Me | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 12:34:03 GMT",
+          "url": "https://www.msn.com/en-in/health/general/tudriqev-us-fda-approves-replimune-s-skin-cancer-drug-after-rejecting-it-twice/ar-AA29BThv?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA Approves First Narcolepsy Drug That Targets the Brain Signal Loss Behind the Disorder - inkl",
+          "source": "inkl",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Approves First Narcolepsy Drug That Targets the Brain Signal Loss Behind the Disorder - inkl | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 10:30:02 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUdDTXBINm1zRXhvMFd0T0g1WHdwZDFBRHBqeFNZdjRKMndWZVFsWFd2M1NsYUVPMGJJZjFDZGM3ZW4xTVV0T3dyamhhLUhKcVJLSE5QTEd4dmVCNmRWeGpCenFmZkdxMmZaVnhoNGp1UWR2MEtrVzItQmJzV3U1eG5Vb2ZJeERpV0pJRUtxNVh0c0FuTTl5SzJMMzRVcDhnMG9kRmZYalBkRi1ZT1UxdExkNTZhZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Segmentation, Major Trends, and Competitive Overview of the Wilson's Disease Drugs Market - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Segmentation, Major Trends, and Competitive Overview of the Wilson's Disease Drugs Market - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 10:57:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV1RMTWxWZEtnMVRCWW1jTDVMY012b1hWODFGT0JIeHpUaExHd3JMYVdFZTZ6bGpDdVFVZ1RyNTQ5ejdhV0NnMGplSGpnNW84ejZUQzJXWnR1YXg1RHlQbnppMlJ6enBKZ3NtZDIzU18zWVFEcUxfb0ZudjdRaEdOb3pTZGF6cHFlYVNCU1gzYVA3QUU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Approves First Drug That Targets Root Cause of Narcolepsy, Opening New Era for Sleep Disorders - International Business Times, Singapore Edition",
+          "source": "International Business Times, Singapore Edition",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Approves First Drug That Targets Root Cause of Narcolepsy, Opening New Era for Sleep Disorders - International Business Times, Singapore Edition | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 08 Aug 2026 03:55:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeFY1dDlYUjJwbDgwSVlyZFRoX1dNYUtNZEUyWHZlbFN0VjBqSHdFSXNlWmZZZk40Y0ZRU245dGVxQ2lEbDU1VnlGWlFFYW91NXJFaTBBUkVUbjF2WnJseVB6OTh0bzc0S3YybTcwUmlCVE5oUC1jdEhXeF84VGhhUDdCWGx1QUZoV3JHdDBUR05jdGg4eWxCY0JqeGNiN09MSDBzV0s0SHpnYXFsMHRJU3BUaW11aWxHeGZr?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AstraZeneca Pharma India receives approval for cancer drug sale in India - Business Upturn",
+          "source": "Business Upturn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "AstraZeneca Pharma India receives approval for cancer drug sale in India - Business Upturn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 08 Aug 2026 06:12:40 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWw1RkQzdXNFbElzS2RyUEpSNHVTOXpXdHVWRTVSdTF6SlgxS2tKVFQxRVdTUnl3bC1DWTVrR2N0QVZWNDQ1UWpCMWNBQno1Ty1IT2QxVVdzbGFUNGJaRURPYmZMQkJrZUh5SkNMZmhsZkxvVUJiMDYwcDdTVHViLWtGLUpMWFFFNFQxd2lKdmJDV0dDOEdlVXk4UEpvNlhqY3JEN09GN3A3VlQtLWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Oncology Drugs Market to Reach US$624.6 Billion by 2033 at an 11.8% CAGR | Persistence Market Research - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Oncology Drugs Market to Reach US$624.6 Billion by 2033 at an 11.8% CAGR | Persistence Market Research - openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 08:08:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmpNV0Q0MUxVbVJoREJXV05GQi1vclctOGs1U1lYM1RmTHZaT0dFN2c3dThydnJYTFc5TEtPdmxEekhRRG4zdjJJZlhDNlBsdE5QaHZlQk1oMG9BVTZXQWVIODNieV9qdEdHeUNrUFF1Z1hFU2RTb0VEbnBqQl9yMjRjVGE5OWFlWXh6MFllMUdwcXc0MU85MnJDTkxRZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "TransThera's resistant biliary cancer drug cleared in China - pharmaphorum",
+          "source": "pharmaphorum",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "TransThera's resistant biliary cancer drug cleared in China - pharmaphorum | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 07 Aug 2026 11:50:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbjc2VHdJRnNKaXFYMDJlaWRjZ3p3SFVRQlM4eDl0YkQybThCZ0VsSmtlUDVOaUdRQzdBU1B4d1VEbjJ6N1RWNGF0aTF0RFVTU1NvRGV5WWhYcURhYlJTckhFOTY3UC1HcXI4OVROMVAySGIzaUJIZzhvME16NE1tNURHN1lNUk05VmFuQVp3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East",
+          "source": "Fast Company Middle East",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 20:50:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPREZDcEFCYlVJTXF1TzNJYjEyd0ltX0ZJX3RmZ2FscGk4X1hVRVl3TFdfNkxrS0I4NVk0TmFfMWNpV2FNQmV0dTB3MGxkb2F0Z05DSGstc1FVNVZwck91LUtNSldnc3ZNdF9aWEVtdU9JM3ZDdXdtQkJRZ3hPZEp3aERiLW9fZ0l0NkZKUlRXcGM3RHJ0TEduMl9nT1RmMV9xM0RrSUFB?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Why Are Biotech Pharmaceutical Companies Attracting Investment for Their Niche Disease Targeting Capabilities? - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Why Are Biotech Pharmaceutical Companies Attracting Investment for Their Niche Disease Targeting Capabilities? | - Kalkine Media | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 08:39:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbGUtcDJqeGlaOVZJR3ctZ0ZJcFJXcjJLblZud2M4SWZWTkJBa3lGcENnVklvVkYxOUhTSVExQXpQNzRWdHQzdnhzYTc2andzeC1FRXpEeGp0Q2NFR3F5NzNCelFfQjhNNVlCZmtyUmJkVXUzUThaeE5VS2NGTllNdk1QVEJ6Q29aNFl1MXBZRXVLWE9wMnA2M2NfNjctTWhFdnUxWDJjOElhb2VhOElBNjNWeG1oU3BPXzJIYlo4UldxNjNUTklpbmh0Ykk5YXhxM0VRTWUxaER1bW9WdHpzTUt6SkpzUmh0V0F3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Axygen Pharmatech Training Program : Free Pharma & Biotech Industry Training with Placement Assistance - Sakshi Education",
+          "source": "Sakshi Education",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Axygen Pharmatech Training Program : Free Pharma & Biotech Industry Training with Placement Assistance - Sakshi Education | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 11:15:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbXdJeHRYTU5PU0JUOG9oQ0dMSGs4TVYzcmQ2S1RPNTBWZHZLZUZXZWNZMFRndUpDZEtRWmhRZDIzQVBfYWhfWGxkdF8tbjF4QVJEeWhQRmpEWVd4dnR0SmhxZTZhZkVsY01uZDNJSGlGTmRra2h1dFRvWjJ5cTdyM3BqRTMybFA0TUY4dTdmSTl5TndTRmlaSGpsT0lBbDNqY1BqazQzd0lndHFpcjBXS2Q5RElCd0VUNGpCNWEta2swb1F6cnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Neuren Pharmaceuticals (ASX:NEU) in Focus on Biotech Progress - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Neuren Pharmaceuticals (ASX:NEU) in Focus on Biotech Progress - Kalkine Media | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 10:09:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGNNQS1RU29yN0dEYUdqTDh2cUJRTnJ4SkMtTGxNd2lLTGpvdkRMMGxKcHBhb3J6YXdGU2ZnV0dIcmlldTJweVpNcThYSlUtSF90aU1uNURHYU5RZVJBQ1Noejh6TFZMNHgwS2xfMl9MNUNxa0lETW9SUUdzam5vSko4b1c4OG5fRHA2RDJEVnZkdGJhWXBaSUZsQWJOU2h2REV3TQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "The Structural Problems Causing the Pharma and Biotech Industries’ Compliance Failures - Pharmaceutical Executive",
+          "source": "Pharmaceutical Executive",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Structural Problems Causing the Pharma and Biotech Industries’ Compliance Failures | PharmExec | Advertisement | Feature | Videos | August 7, 2026 | The Structural Problems Causing the Pharma and Biotech Industries’ ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 10:07:54 GMT",
+          "url": "https://www.pharmexec.com/view/structural-problems-causing-biotech-industries-compliance-failures"
+        },
+        {
+          "title": "Latigo IPO raises nearly $350M for pain drug development - BioPharma Dive",
+          "source": "BioPharma Dive",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Latigo IPO raises nearly $350M for pain drug development | Oops, something went wrong | Skip to navigation Skip to main content Skip to right column | Latigo IPO raises nearly $350M for pain drug development | Nasdaq Mar",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 13:05:46 GMT",
+          "url": "https://finance.yahoo.com/healthcare/articles/latigo-ipo-raises-nearly-350m-080000491.html"
+        },
+        {
+          "title": "Northwest Biotherapeutics announces MoU with Saudi Pharmaceutical Industries and Medical Appliance Company - BioSpectrum Asia",
+          "source": "BioSpectrum Asia",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Northwest Biotherapeutics announces MoU with Saudi Pharmaceutical Industries and Medical Appliance Company - BioSpectrum Asia | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 18:45:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeGo1WWpBc2hPR0M4WVVFZHROYTY2U1dzcWQyWUpseVZyU1NWTEczQV9JOVN3dzh3OGdCUHNTYlh5c1pDdld4UkhPLXRSaHNydnpMM0NaZk9LVjNNQk91WjNvMkFfUnRzRU84SG5Ockw3MEVsSnFNQXNpMEp1eXZqU3FUQW1BUkVKQ1A1aV9fMEp6UG5vT0tEUHBydjJsWVlfOFVJa1RPRlRoQWtsWE1tVjhvU3cxc1VSTTlGY3BuaG9YbUp3eTBDQ1J4WEUycXBXZWQ2aDdGcnlRdFo4eURWMl9NNng3X2FvRHpnU1Vn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Oric Pharmaceuticals, Inc. (ORIC) Stock Analysis: A Promising Biotech with 60% Upside Potential - DirectorsTalk Interviews",
+          "source": "DirectorsTalk Interviews",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Oric Pharmaceuticals, Inc. | (ORIC) Stock Analysis: A Promising Biotech with 60% Upside Potential - DirectorsTalk Interviews | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 09:22:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVNCSWYwM1c4cFJteDZtMElSSUNJWUdWMlZVRkV3eWlvR3dCMXpmaGcyTEVlNVFNeUtEX3gxWlRPQ3BaandrTUJsR1NNNGRObHlVTmZFZ1l6b3dZbzZmNVhaRmdUbHVuUGNmWDJ2U19TOUI4emtEN1FIaGFyOExWWWVlNHFWRW1TcEg4YlpZS0FyV1RfNHpSdDN0eTFzQmNDS3haX29kWW5TV3VuOWRNNmY0YjdkOTk0TDN1cHowclRzNnI1aVBuRlJUcHVKRkJiRDNiS0Q4aw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharmaceutical Grade Lactose Market to Reach USD 2.3 Billion by 2034 at 5.5% CAGR - SRI - industrytoday.co.uk",
+          "source": "industrytoday.co.uk",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharmaceutical Grade Lactose Market to Reach USD 2.3 Billion by 2034 at 5.5% CAGR - SRI - industrytoday.co.uk | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 07 Aug 2026 14:24:13 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONk9iNjZlVHBQNnhhRS1LNy1oMXRKRHVoQVlBdVVvem1PSkdqaGRqWnZ2eEgzZi1nVFdfNWNob1lOY2xWTnZfU1pHeV96WWcwY0Z0VXR6aFdCVkdIM2tGcGc2bFhNcFJsdGpYVjVob2NzLUJMWXplbDdyZWVNenI4REx3VXdJU0ZpOVNJbEp6bTNyMzBPbi02NVpiUE5pdkR5UUdsOVBpWHpjTFZOQnF3QkdjUXMzQmc2MGU5TA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "och",
+        "vietnam",
+        "kemedelsindustrin",
+        "att"
+      ],
+      "articles": [
+        {
+          "title": "Läkemedelsmarknaden har nått 7 miljarder dollar, och läkemedelsindustrin strävar efter att öka sin självförsörjning. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Läkemedelsmarknaden har nått 7 miljarder dollar, och läkemedelsindustrin strävar efter att öka sin självförsörjning. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Fri, 07 Aug 2026 17:43:46 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWQ2RFFCOVJobmpiNWlOV2dMR1ctT2lLZml3cGszYmZveGM0QzVoQU11emRrVDVGbHAzQmo3TW05UDRkeG5JRmx4eUZrVGJXbXczRGNqa1JCY2pCVnJsaGhfM3N6b0ZRQU1jWDEtZ2tUUmp3blVGbmtoMHZwc2VCMmc4ZW5xZzZWbmlRTmg3aEpZRlpKWUhfLWdMeTA4b0NFMEp1Y3J3Q1Q?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Minister Dao Hong Lan: Fortsätt att förbättra institutionerna och utveckla läkemedelsindustrin så att den är i nivå med regionen. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Minister Dao Hong Lan: Fortsätt att förbättra institutionerna och utveckla läkemedelsindustrin så att den är i nivå med regionen. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Fri, 07 Aug 2026 17:20:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGRyVHRFWXJBaHpkWFpuXzlKQXlCdkgxWFJiWGhxSkUxTzV0cFVpdVFGbXNmTkh2R1I0VzFnQmtDZE1BS0FGUEoxZ1JiM1pLUmh6WjIyUzVZU1RQeXNwM2tQMERJNkM4am0wX0lCSHk4UDZzRUgzQmExTnBUN0FxQWNlMy1IUGdIYV81ZGJ5SmhlZ2NQTENwVEk0UHlfRnZNU2p4Qkk2cTVuTl9NemFXM05aVERaNWs?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Le marché pharmaceutique a atteint 7 milliards de dollars, et l'industrie pharmaceutique vise à renforcer son autonomie. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "Le marché pharmaceutique a atteint 7 milliards de dollars, et l'industrie pharmaceutique vise à renforcer son autonomie. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2hSNEFNV1JUQWZkMXc2WGtaVG0zUE9XVEVXUjNndmNnZElQQ1dMbGswSW1QZ2ZRY0I5TmRhUnVLYW1vVzJTR1pldVFyMkhxclBsSmYtUkg1M1lOb0psaExRQkNlR0Y3UG5KTzM4SjAxcXVQTXVmM1IxcktIeXhSN0dQdmlRVEZQWkZWdWE0NE1pMGE2OERDYmkwRFRvZ0g1TXh1eE9Kb1g?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "ตลาดเภสัชกรรมมีมูลค่าสูงถึง 7 พันล้านดอลลาร์ และอุตสาหกรรมยาตั้งเป้าที่จะเสริมสร้างความพึ่งพาตนเองให้มากขึ้น - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "ตลาดเภสัชกรรมมีมูลค่าสูงถึง 7 พันล้านดอลลาร์ และอุตสาหกรรมยาตั้งเป้าที่จะเสริมสร้างความพึ่งพาตนเองให้มากขึ้น - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXJEc2U0ZHU5RkJ6WDVKWXF5MnVVaGJpMlJiT0JhNUFKRHdqUHpXV3hkc21UOFotT1VyMXJKTHNMX2dDYl9yaXYzUDRqM253OEE0R1FFMUc2dGZwa3RMTjRnQkdweG1yUG95RlF3eTdRQVVsdWFMTkhCWFhHUlVXa2J3SWhIemVHbDYxQTVhSDJJOVFqVkQ1X0ZYMkhXbTBMTl9TenNOUnQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "दवा बाजार 7 अरब डॉलर तक पहुंच गया है, और दवा उद्योग अपनी आत्मनिर्भरता बढ़ाने का लक्ष्य रख रहा है। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "दवा बाजार 7 अरब डॉलर तक पहुंच गया है, और दवा उद्योग अपनी आत्मनिर्भरता बढ़ाने का लक्ष्य रख रहा है। - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZExUak55X1MzNWp1bkRrQTdtclo1ZVRIamlyYjRLSUxtTzJPN2dKY1pYUFI1SFFCR0k2OEl4UHBOcWhvVVBtYnN2ajY3N3VwOUlELWxrMFBNeWNTSVdLSHFsTE9DX2J4cXktaFV3eEdtOERUUjNjRFhxb1AtRTVVNjdhWFJjaXBaYnQ5NWw5dmdMMFJSTk9kdmhsMHIxWUJPVkdLWWI5ZW8?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "השר דאו הונג לאן: המשך לשפר את המוסדות ולפתח את תעשיית התרופות כך שתהיה ברמה האזורית. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "השר דאו הונג לאן: המשך לשפר את המוסדות ולפתח את תעשיית התרופות כך שתהיה ברמה האזורית. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGpCLU5KWi1JS1RKWUhDQlZDM3FhQjZ4eXA0RUpVWnFxTjhyZVViMXE5bFBZMTdWQkR5TElWcENGWGx6QjYySXdfd29EbnpaNThSZXNsVWowRTdWTnpMa09aZ2lUY3FHMmRQdWVnRmxyUjIwT2dRcjVZU2d6QzNReGZNcWNoRXUyQnZWU0NSLXVNZXFIT3RPbTdIeGt1WW9KTERKenJEWWdzTnRENjVWaTNWV0lHVDA?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Geleneksel tıp uygulayıcıları kılığında reklam veren çete, 120 milyar VND'nin üzerinde gelir elde etti. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "Geleneksel tıp uygulayıcıları kılığında reklam veren çete, 120 milyar VND'nin üzerinde gelir elde etti. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGljckRaNUJFemhxSVEzN1lKdm1oaHpENG5DRU5wS3ZIUVpWV1lkajMwSS1MNVEtTTJZaU11TmhzajZPeVJ0RElFMk80TGZGa0FlbE4wbkMxX3JFRkpUdjRmNWVmcGN2ZjAzcjRtcXZIemU3N0I0eTBjTmFFek85UmUwQ21zRWxSWHc0R3p0VG9mLW9odFBaZnZielg2NjQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "ثلاثون عاماً من إدارة الأدوية في فيتنام: من ضمان جودة كل حبة دواء إلى بناء صناعة دوائية مكتفية ذاتياً - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "ثلاثون عاماً من إدارة الأدوية في فيتنام: من ضمان جودة كل حبة دواء إلى بناء صناعة دوائية مكتفية ذاتياً - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd1RSS2xCbFFqQWJ3V1dzSHRnSWx5TzNEeUxlalJrak9uaEVsREZoZk1EY3c0QkVMaE44bThYZV9LUFlNWktxR2V0ajFhT2V6VE5yS1hEX3VXVjMtaFRKODJGQkxwNXlmNXgxeUxjc3RCWlB2eW1FVndVYmNVTm5XV2VOeXhWXzRuV3RnblRCZ1pjZ1BHMHM3ZGwwYmYwcTJkc29nelpwRFhLcml4WVNUbFA3OWh1RWZq?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "שוק התרופות הווייטנאמי שווה 7 מיליארד דולר. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "שוק התרופות הווייטנאמי שווה 7 מיליארד דולר. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2lQbV9zNVFQamYwSjdkLUVaREFEZzRSS2RoMFZRdGlFQWFSYnZtTENpVXlsUXMxQWtKNGRpQ0pRNEZ3T3hsa3ZsbGEyaHNfQ0V1aGpMbzY5NWM5X1VPSVdyUmdGdjJjWHMwYVBnSTVaSHRyQW54ODE5TlRHOHRyRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "FIOLAX Academy Chile 2026 impulsó el diálogo entre academia e industria farmacéutica - Noticias UdeC",
+      "source": "Noticias UdeC",
+      "importance": 50,
+      "snippet": "FIOLAX Academy Chile 2026 impulsó el diálogo entre academia e industria farmacéutica - Noticias UdeC | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3FvZGhxMTQ1ZURsNjY1Nzk2QjBUekJYNVNZbmwtbG9ucTVabVRrMUg5bEZPYUVzZ3puTUk1S2pOWmtmQnlNZmhNd0gxdzRtcklib2lhV1BzYUhESzk4T1h5ZWJUek1HVkxobjgxUXhKMFgtSjR1MGdSWXBPY2VCTWxNRUJwcE05NE5mSUdkdTJGUEFuemhBeG5tdUhubUpockFmM1FzMFgtZ0tQM0NZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Rynek farmaceutyczny osiągnął wartość 7 miliardów dolarów, a przemysł farmaceutyczny stawia sobie za cel zwiększenie swojej niezależności. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Rynek farmaceutyczny osiągnął wartość 7 miliardów dolarów, a przemysł farmaceutyczny stawia sobie za cel zwiększenie swojej niezależności. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZW1EanJnME1FdG1OZzV5N2NWUE5YdGlNLVR0M0w4SE9iYlgyOU5XVk5WVlhyd1VGQlAwMTZBcEVjaXl5eEwyeUJjQzJQb2NSOVZkakMzTHNKaE5kcUJHVm1nUGcxYmFSMWlVZkw4X3paQkJzOEM0MmdoWktxdFpRSXd4Z1U0c0I2Y3g3SC0yS2lDQ2ItblJINWg4SW9WQlpENGJHSzhMaFo?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "福元医药(601089):北京福元医药股份有限公司关于布瑞哌唑口崩片获得药品注册证书 - cfi.net.cn",
+      "source": "cfi.net.cn",
+      "importance": 50,
+      "snippet": "福元医药(601089):北京福元医药股份有限公司关于布瑞哌唑口崩片获得药品注册证书 - cfi.net.cn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NV1VPMWxGbldpNWZWei04VVRsbm5oTDVtbGdiRjluMV9iXzFBa29rSGZ1aDBQR1ZrakhBN2t2dVVWSDRHYUVmRmFBNmMtSXlzZi1wSXp3?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 7,
+      "en_count": 2
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 9
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 3
+    }
+  ]
+}

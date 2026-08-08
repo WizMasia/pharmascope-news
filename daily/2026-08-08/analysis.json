@@ -1,0 +1,226 @@
+{
+  "date": "2026-08-08",
+  "total_articles": 389,
+  "language_breakdown": {
+    "korean": {
+      "total": 136,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 12,
+        "의약정책": 10,
+        "의약단체": 11,
+        "의약관련정부기관": 14,
+        "의료현장": 25,
+        "약국·약사": 5,
+        "의료정책·인력": 23,
+        "전통의학": 1,
+        "감염·보건": 10
+      }
+    },
+    "english": {
+      "total": 132,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 121,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 4,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 10,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 6,
+        "Polish / 폴란드어": 7,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "글로벌 승인 러시가 신경계·종양 파이프라인을 다시 띄움",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "Recovery for Replimune: Accelerated Approval for Cancer Drug Twice Spurned by FDA - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "url": "https://medcitynews.com/2026/08/replimune-fda-approval-melanoma-oncolytic-viral-therapy-cancer-tudriqev-rp1-repl/"
+        },
+        {
+          "title": "Third time lucky for Replimune as FDA OKs melanoma drug - pharmaphorum",
+          "source": "pharmaphorum",
+          "importance": 47,
+          "url": "https://pharmaphorum.com/news/third-time-lucky-replimune-fda-oks-melanoma-drug"
+        },
+        {
+          "title": "FDA Completes First-Cycle Review of Preservative-Free Ketamine ANDA ... - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "url": "https://www.manilatimes.net/2026/08/07/tmt-newswire/globenewswire/fda-completes-first-cycle-review-of-preservative-free-ketamine-anda-with-no-drug-related-major-deficiencies-final-packaging-certification-requested-for-approval/2400924"
+        },
+        {
+          "title": "Liraglutide combination products using Stevanato Group pen gain European approval - Drug Store News",
+          "source": "Drug Store News",
+          "importance": 47,
+          "url": "https://drugstorenews.com/liraglutide-combination-products-using-stevanato-group-pen-gain-european-approval"
+        }
+      ],
+      "summary_kr": "Replimune, ketamine, liraglutide 계열, 그리고 신경계 신약 허가 뉴스가 동시다발적으로 나오며 규제 성과가 곧 가치 재평가의 출발점이라는 신호를 강화했다.",
+      "summary_en": "Approvals and accelerated reviews across oncology, neurology, and delivery platforms show that regulatory milestones remain the near-term catalyst for value creation.",
+      "emoji": "💊"
+    },
+    {
+      "topic": "비만·GLP-1 상업화 전략이 가격·제조·마케팅을 재배치",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 7,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "한미약품, 비만치료제 신약 출시 '코앞' 시장 공략책 눈길 - fetv.co.kr",
+          "source": "fetv.co.kr",
+          "importance": 37,
+          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308028"
+        },
+        {
+          "title": "Liraglutide combination products using Stevanato Group pen gain European approval - Drug Store News",
+          "source": "Drug Store News",
+          "importance": 47,
+          "url": "https://drugstorenews.com/liraglutide-combination-products-using-stevanato-group-pen-gain-european-approval"
+        }
+      ],
+      "summary_kr": "한미약품의 에페글레나타이드 상업화 준비와 GLP-1 계열 제조·포장 이슈가 맞물리며, 비만치료제 시장은 개발 성과보다 가격·생산·영업 설계가 더 중요한 국면으로 들어갔다.",
+      "summary_en": "GLP-1 commercialization is now being shaped by pricing, manufacturing, and launch strategy, not just clinical readouts.",
+      "emoji": "🏭"
+    },
+    {
+      "topic": "식약처 변경승인·급여 심의가 국내 파이프라인의 문턱을 재조정",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "메드팩토, 골육종 대상 백토서팁 1/2상 IND 식약처 변경승인 신청 - 디지털투데이",
+          "source": "디지털투데이",
+          "importance": 47,
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691193"
+        },
+        {
+          "title": "약평위, 혈우병 신약 '하임파지' 급여 적정성 인정…조건부 통과",
+          "source": "약업닷컴",
+          "importance": 41,
+          "url": "https://www.yakup.com/news/?mode=view&cat=11&cat3=0&nid=330785"
+        }
+      ],
+      "summary_kr": "임상 변경승인과 급여 적정성 심의가 동시에 부각되면서, 국내 파이프라인의 가치는 효능만이 아니라 허가·급여라는 두 개의 문턱을 얼마나 빨리 넘느냐에 따라 갈릴 가능성이 커졌다.",
+      "summary_en": "Clinical amendments and reimbursement review are becoming the key gatekeepers for Korean pipeline valuation and market entry timing.",
+      "emoji": "📋"
+    },
+    {
+      "topic": "백신·예방접종과 공공보건 정책이 다시 전면에 등장",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 41,
+      "key_articles": [
+        {
+          "title": "여름방학 맞아 무료 국가예방접종 맞았어요 - 대한민국 정책브리핑",
+          "source": "대한민국 정책브리핑",
+          "importance": 42,
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969407"
+        },
+        {
+          "title": "백신 연구개발 및 임상시험 협력 통해 국내 백신 경쟁력 제고 - 더글로벌기빙뉴스",
+          "source": "더글로벌기빙뉴스",
+          "importance": 37,
+          "url": "https://theggnews.com"
+        },
+        {
+          "title": "백신 음모론 밀어붙이나…\"트럼프, 자폐증 연구 행정명령 추진\" - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 40,
+          "url": "https://www.edaily.co.kr"
+        }
+      ],
+      "summary_kr": "국가예방접종 수요, 백신 R&D 협력, 미국의 자폐증·백신 논쟁이 한데 묶이며 공공보건과 정치 의제가 다시 전면에 올라왔다.",
+      "summary_en": "Vaccination policy, R&D collaboration, and U.S. vaccine politics are reasserting public-health as a high-visibility pharma theme.",
+      "emoji": "🌍"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 7,
+      "en_count": 2,
+      "significance": "high"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 9,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 3,
+      "significance": "medium"
+    },
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "low"
+    }
+  ],
+  "notable_absences": [
+    "일본어와 페르시아어는 0건으로 완전히 비었고, 중국어 번체도 2건에 그쳤다.",
+    "analysis_ready 기준 클러스터가 2개뿐이라, 오늘 이슈는 대형 연쇄보다는 승인·정책 기사 단위로 분산됐다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "총 기사 414건 → 389건(-25)",
+      "클러스터 5개 → 2개로 축소",
+      "한영 교차 후보는 4개 → 5개로 소폭 확대"
+    ],
+    "changes": [
+      "전날보다 글로벌 허가 뉴스의 집중도는 유지됐지만, 국내 임상·급여·공공보건 이슈가 더 분명하게 분리되었다.",
+      "대형 단일 이슈보다 개별 승인/정책 기사 중심으로 흐르면서 뉴스 흐름의 분산도가 높아졌다."
+    ]
+  },
+  "connections": [
+    "승인 뉴스는 곧바로 기업가치 재평가와 후속 자금 조달 기대를 바꾼다.",
+    "비만치료제 상업화는 임상 성공보다 제조·가격·마케팅 설계가 더 큰 변수가 됐다.",
+    "급여와 변경승인은 국내 파이프라인의 상업화 속도를 결정하는 후행 관문이다."
+  ],
+  "generated_at": "2026-08-08T16:32:12+09:00"
+}
