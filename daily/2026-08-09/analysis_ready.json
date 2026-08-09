@@ -1,0 +1,728 @@
+{
+  "date": "2026-08-09",
+  "total_articles": 287,
+  "language_breakdown": {
+    "korean": {
+      "total": 84,
+      "categories": {
+        "의약품": 12,
+        "의약산업": 6,
+        "의약정책": 3,
+        "의약단체": 3,
+        "의약관련정부기관": 9,
+        "의료현장": 24,
+        "약국·약사": 3,
+        "의료정책·인력": 15,
+        "전통의학": 0,
+        "감염·보건": 9
+      }
+    },
+    "english": {
+      "total": 111,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 6,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 92,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 3,
+        "Spanish / 스페인어": 8,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 3,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 5,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 5
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "식약처",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "generic",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 4
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "Vietnam.vn",
+      "count": 16
+    },
+    {
+      "source": "네이트",
+      "count": 5
+    },
+    {
+      "source": "더퍼스트미디어",
+      "count": 3
+    },
+    {
+      "source": "뉴시스",
+      "count": 3
+    },
+    {
+      "source": "대구뉴스",
+      "count": 3
+    },
+    {
+      "source": "뉴스웍스",
+      "count": 2
+    },
+    {
+      "source": "더구루",
+      "count": 2
+    },
+    {
+      "source": "MEDI:GATE NEWS",
+      "count": 2
+    },
+    {
+      "source": "뉴스1",
+      "count": 2
+    },
+    {
+      "source": "쿠키뉴스",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 15
+    },
+    {
+      "source": "simplywall.st",
+      "count": 9
+    },
+    {
+      "source": "Generics and Biosimilars Initiative",
+      "count": 4
+    },
+    {
+      "source": "futuremarketinsights.com",
+      "count": 4
+    },
+    {
+      "source": "sundayworld.co.za",
+      "count": 3
+    },
+    {
+      "source": "GuruFocus",
+      "count": 3
+    },
+    {
+      "source": "The Clinical Trial Vanguard",
+      "count": 2
+    },
+    {
+      "source": "indianpharmapost.com",
+      "count": 2
+    },
+    {
+      "source": "DiscoverMooseJaw",
+      "count": 2
+    },
+    {
+      "source": "The Economic Times",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "글로벌 승인 러시가 신경계·종양 파이프라인을 다시 띄움",
+    "비만·GLP-1 상업화 전략이 가격·제조·마케팅을 재배치",
+    "식약처 변경승인·급여 심의가 국내 파이프라인의 문턱을 재조정",
+    "백신·예방접종과 공공보건 정책이 다시 전면에 등장"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 6,
+      "keywords": [
+        "vietnam",
+        "industrie",
+        "dollar",
+        "farmaceutische",
+        "vietnams",
+        "een",
+        "miljard",
+        "van",
+        "voor"
+      ],
+      "articles": [
+        {
+          "title": "L'industrie pharmaceutique vietnamienne atteint 7 milliards de dollars, mais le défi de l'autosuffisance demeure. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "L'industrie pharmaceutique vietnamienne atteint 7 milliards de dollars, mais le défi de l'autosuffisance demeure. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "French / 프랑스어",
+          "time": "Sun, 09 Aug 2026 03:40:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTXdTQTlWZF9NNGxLRlhVak93QWczaDlnVWJ0X1NfUEpRQmhSUks5di0tZ0VJMEFSS0tQZ0hNX282d1JGSnNjcEpXVF81LXlFLTBpZFgzc01XbFNCaF9xZC1qcE52SGJTeTk2NTJrY1IwR252LXdDOUpTMVhZTGhwVHgwek9zSEI0XzhjQ3l5MEpUeEp1VlBueXNBRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Vietnams läkemedelsindustri når 7 miljarder dollar, men utmaningen med självförsörjning kvarstår. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Vietnams läkemedelsindustri når 7 miljarder dollar, men utmaningen med självförsörjning kvarstår. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Swedish / 스웨덴어",
+          "time": "Sun, 09 Aug 2026 03:34:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaVRBQW91NEJOMkZDcVhJN0ZEc3N4VFZpeUZyeXJQTnFDTkhtbjRwNWRpQVUyUE1FRWVmbjRfODVWeFhRRF90Wjkyc0hpYUIxVWk5Wm5yQl9yTGpDVVBLbW15c0FCVTZKZ05pWnd5emZ1Z05Yb3psaVl4eWtGN0ZRd0tZUlBTdUpJak11QmJITEk1Y0ZfbjhXNnpsWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "De Vietnamese farmaceutische industrie heeft een omzet van 7 miljard dollar bereikt, maar de uitdaging van zelfvoorziening blijft bestaan. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "De Vietnamese farmaceutische industrie heeft een omzet van 7 miljard dollar bereikt, maar de uitdaging van zelfvoorziening blijft bestaan. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sun, 09 Aug 2026 04:11:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlpkbVVwV1ZPR0NRWVR1S0ZvbGoySGM0enlCMWVrRkZqUERfaW5VOEhkOTlQcXROODAtNXBITGtpSlhnelBITlZ0SXR3U2FQNkRTRXBuNDhHUlM4UGV5cHNXLTQ0d2RYOC1tQTh5LXNfQ2V6SmE0TnRrU0FmREU0NmtlUFNDc3c1UjFoWEVnMUhwMmxJNDB0Si1oYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "\"Hefboomwerking\" voor de farmaceutische industrie - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "\"Hefboomwerking\" voor de farmaceutische industrie - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sun, 09 Aug 2026 01:35:36 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oZGdGYVY5eFNQaUhQdm5rcGlnVzdRLWpmX3JtVEo4VzRZNjBDRXBmTHJGTGxkZFdGSDRRUUtra3pMTUR1cGgxeXdyY2pVWjZ2Q0hvVWNYbllfczhMTkszb2VuRlJHaktGMmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "De deal van 400 miljard dollar is een test voor de farmaceutische industrie. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "De deal van 400 miljard dollar is een test voor de farmaceutische industrie. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sun, 09 Aug 2026 00:48:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Ra3hQc2NIQ3NtTzNqVW1GenlsMXFJQUMzRFBDVzBDLUxwT2U3NVdDczFJZ21NODJ3bGpzUVFEZTgyWXlyX0NraG05X3hfWXJnZWY3NHZaOENvS2lfTGRPbDhQdS1kbmlhMERuRW9zZEVUUEo5ZU1PYnpka1BlQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Vietnams pharmazeutische Industrie erreicht einen Umsatz von 7 Milliarden Dollar, doch die Herausforderung der Selbstversorgung bleibt bestehen. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 38,
+          "stars": "⭐⭐",
+          "snippet": "Vietnams pharmazeutische Industrie erreicht einen Umsatz von 7 Milliarden Dollar, doch die Herausforderung der Selbstversorgung bleibt bestehen. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "German / 독일어",
+          "time": "Sun, 09 Aug 2026 03:52:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGlSZUhSV1ZjNW5ydVZxNVVXdWJjeGp5TnNhVWZ2cEJSWjk2dV9JRl9HaW84UVViMjkzV2FBclA3Vm5RRzl3dUZTdGlVM1lldXFkTGxESUtxdkY0U3FmQ2I2VDNnREtTd0JkOGo3WFhNLWhYdDZVZWJkWWppRHhRamtHUm9kTThBVE5UWGpUd3ZfMUtSOFF1V2FyWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "keywords": [
+        "industria",
+        "utica",
+        "farmac",
+        "vietnam",
+        "farmaceutica",
+        "primer",
+        "semestre",
+        "venezolana"
+      ],
+      "articles": [
+        {
+          "title": "L'industria farmaceutica vietnamita raggiunge i 7 miliardi di dollari, ma la sfida dell'autosufficienza rimane. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "L'industria farmaceutica vietnamita raggiunge i 7 miliardi di dollari, ma la sfida dell'autosufficienza rimane. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Italian / 이탈리아어",
+          "time": "Sun, 09 Aug 2026 04:12:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUGdrcnBBZEI3S3JTSjEyTmxpTTVLY0tqVzM4U2h2aVpsOXl5dW15TXBYbU9NWEN2eEpFczBDRjRGaThSRkM3SzZhdmlEUy02QjR5cnA5QnRDOGRTZXBGT0o2LVlMSkpCNFhhXzFiYm1JRF9ZM3h5ZWloM21BSFBHX0RKWTZEekFVdjY2VTNURzR6VEZtbW1zVzR3OA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "\"Leva finanziaria\" per l'industria farmaceutica - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "\"Leva finanziaria\" per l'industria farmaceutica - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Italian / 이탈리아어",
+          "time": "Sun, 09 Aug 2026 02:21:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZklxaWRlek45aVQ5SzRReXRXQi0tNTBhaTVnZlBfY3pIVFhnNG50UXNucDF4Tk1lemN1cjViZHlJVUs5X2tQUXZoWGdJUjAyNUpJZlFBWTdqZU1PdGZIMF90b0gwUTNkNmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Crecimiento de 10,77% reporta la industria farmacéutica venezolana en primer semestre de este año - EL UNIVERSAL",
+          "source": "EL UNIVERSAL",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Crecimiento de 10,77% reporta la industria farmacéutica venezolana en primer semestre de este año | Espacio publicitario | Diario El Universal | 08/08/2026 05:10 pm | La Industria farmacéutica venezolana reportó un creci",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Sat, 08 Aug 2026 22:32:58 GMT",
+          "url": "https://www.eluniversal.com/economia/238910/crecimiento-de-1077-reporta-industria-farmaceutica-venezolana-en-primer-semestre-de-este-ano"
+        },
+        {
+          "title": "La industria farmacéutica de Vietnam alcanza los 7.000 millones de dólares, pero el reto de la autosuficiencia persiste. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "La industria farmacéutica de Vietnam alcanza los 7.000 millones de dólares, pero el reto de la autosuficiencia persiste. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Sun, 09 Aug 2026 03:32:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczNhXzZwdk93M0NMbVM1RFpaeGVaWGJMeXFWelkzZVdoN1RTV3dWcmJINzhpTldUVVJNYmZLalhlb0xZNnQwcGZLQ1A0X21DbWdhdGRYSmV2V3BsQVpQOEdEajhEOTZ6RGJvc2lKLUtxSVNUazFzWjdKaFg4ZGxhTGViZFJnR2VVXzlIcHZqLXMzakI3TF9uYjVIMA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Indústria farmacêutica fatura R$ 3,9 bilhões no varejo - Associação Comercial e Industrial de Araçatuba",
+          "source": "Associação Comercial e Industrial de Araçatuba",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Indústria farmacêutica fatura R$ 3,9 bilhões no varejo - Associação Comercial e Industrial de Araçatuba | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Portuguese / 포르투갈어",
+          "time": "Sun, 09 Aug 2026 01:45:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZZEhWVHBFcEktYkFxZFJHdFZHdExFOUFXeVhKal9DR2RXc3I5S1VmdTg1S1YtWEw2UWtyVUMwQjZXSkRrUXh4WWFGOG0wQUhNRS1RVVFqdllYRTJoV01QMGxoVDRzYTJRYUQ0Mk1tOGRjMm5L?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Industria farmacéutica venezolana creció 10,77% durante el primer semestre de 2026 - Diario Versión Final",
+          "source": "Diario Versión Final",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Industria farmacéutica venezolana creció 10,77% durante el primer semestre de 2026 - Diario Versión Final | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Sat, 08 Aug 2026 22:10:28 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVZwekM2YjcxbTdneEEzVmFZTE9SNTNGZW1tNnNwaWhXWEpzdDgtdVQycEZRbFN5dTZkSGNJYTNEZkxaSVp3VU9UWXIxZUN0azJXQkQ5MUNrVVRDeEszOXk0S0JzcFJxVWQwZkk5dlNpZ1lnUHM2VmVXZWV5dmtaQ2NyUWxhRDRGdU5ESGU5X1ZERnNjMnY3QjM2YXh6clA2aHItRVVGOFA2YjRpOGZJekJTSzRDOUxoM1dr?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 5,
+      "keywords": [
+        "vietnam",
+        "industri",
+        "farmasi",
+        "dolar",
+        "miliar",
+        "bagi"
+      ],
+      "articles": [
+        {
+          "title": "Wietnamski przemysł farmaceutyczny osiągnął wartość 7 miliardów dolarów, ale wyzwaniem pozostaje samowystarczalność. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "Wietnamski przemysł farmaceutyczny osiągnął wartość 7 miliardów dolarów, ale wyzwaniem pozostaje samowystarczalność. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Polish / 폴란드어",
+          "time": "Sun, 09 Aug 2026 03:10:04 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOEtpVnB2bGZ2THZvX2VBYU5UcnhCODBuQUkxdmtIVW54LU00aEwxWl93eVkxUUVpZ1BfY0lVN0ZIQlA4cDhDZExmYndjcWxLOEZRMnZaNkJtU2pPVENZcjI4ODF6andWQUhwblAyWVFCYU5SWjh2aFNJUTRhZWdQMDV3YnRfcEpRRGxZMkh2Q2tYbUFYMmNRbzN2QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Industri farmasi Vietnam mencapai 7 miliar dolar AS, tetapi tantangan swasembada masih tetap ada. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Industri farmasi Vietnam mencapai 7 miliar dolar AS, tetapi tantangan swasembada masih tetap ada. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sun, 09 Aug 2026 03:20:27 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYXRQZ3lldktTYVJVTzJib3dEN2I2TVJpTXNlMGtGMmQtLXR6dV9LTGxCUHlBOXdLUm9BX2t2QzVTV25Ec2daM05oaUhJelNUNkc2ZS1sMU9nQS1BWklyY0E0LWtPMWVtbEFYN0JRZlBSaFI5NGFwZHlZZFI3TVRQQVdLREpRR1cxUG01SnZmT1dEd2ZzUW5McWJWSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Kesepakatan senilai $400 miliar dan ujian bagi industri farmasi. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Kesepakatan senilai $400 miliar dan ujian bagi industri farmasi. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sun, 09 Aug 2026 00:46:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05MlhkR25vNERic2d1ci1XamphTXNuQ2NtQWZKNU5WcUl2RmlYYk1SUjhjOEJqektVZDhDYzZmSm5uU1RVelF5emQ4b2swNkV2dnltZ2NZNXBKOENRM2psZlpJbVhqOUIweWI0czFQZmpBcER5QVNDcDV1RnNlQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "\"Pengungkit\" bagi industri farmasi - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "\"Pengungkit\" bagi industri farmasi - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sun, 09 Aug 2026 01:25:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RbVRDTGV6WjhPWEN0ZjdhMXo1a2tNXy1yVlJNYVV6Sm5EMjQ1bTk3WlFldlF6aF9pMk5TVXpWbzVxSTNPWXVSTTVRU0ZBbTRVRWVZOVdpVjVmT2tjVEw5bzBidTBoZUZQWWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi Halaman 1 - Kompasiana.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Sun, 09 Aug 2026 04:07:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQmtyZTlJa0VsQ0o0LWc5UVV5QlJQdWVzV29TTnBuYzhGWXdQS0F0Z2hwb3N1QU5oNndqZDJlVEhaLXg1VjllQXlZdlNkTk9Ja2ZwNjVHdGY3MTNCdjdNUFZTa2R6Y19UOWRFRVVvbkY5UXlwUGVacS1HNkstRjRLd2lBaFEyUTFYQTBBT2RIb0RZU05HcnF6QUVxMVJUOXlucFBhM01tWE1NMzZ3QV9kUHhGejJORVlsODdZZndkSGtPbjN1TUJPbQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 4,
+      "keywords": [
+        "glp-1",
+        "glp",
+        "GLP-1",
+        "loss",
+        "weight-loss",
+        "weight",
+        "drugs",
+        "employee",
+        "spends"
+      ],
+      "articles": [
+        {
+          "title": "Starbucks to End GLP-1 Weight-Loss Drug Coverage in October - Briefs Finance",
+          "source": "Briefs Finance",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Starbucks to End GLP-1 Weight-Loss Drug Coverage in October - Briefs Finance | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 08 Aug 2026 22:01:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVTBPbWxDczAycjcxOWVTcHloWjNwbjlkNnFaeW9ob1NxWmRyM3FPOE8tUDR0allZWWk5WXRWVXFzR2RIczVyWVlMc05DWmhUbUpETnVmdWpoWUNPQUVmeTY1ZUZZbVlhbVc5ekJaWE1yMDNvLW1oQ0V4RFFzbGZlNThydkd3dE1wSU8tMkNaUHI?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Bank of America spends more than $250M on employee GLP-1 drugs - NewsNation",
+          "source": "NewsNation",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Bank of America spends more than $250M on employee GLP-1 drugs - NewsNation | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 08 Aug 2026 22:42:11 GMT",
+          "url": "https://www.msn.com/en-us/health/medical/bank-of-america-spends-more-than-250m-on-employee-glp-1-drugs/ar-AA29FoIs?ocid=BingNewsVerp"
+        },
+        {
+          "title": "BofA Spends Over 350 Billion Won Yearly on Employee Weight-Loss Drugs - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "BofA Spends Over 350 Billion Won Yearly on Employee Weight-Loss Drugs - Seoul Economic Daily | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 09 Aug 2026 02:08:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFh4LUNmWnMxSTY5SHVVVlhuT1ZJTjdZb25JT3h2U0R3QTRLN0E0Q21GY3B0alpRLTFxYXNvaDg0ZlVmeEtERGdRNlRla2FXVEhiRHNFUHUtMWstUzRteHMtMG5LN3N1MWcxZHRXZmZGMElnM1BnMzRHdUxna3dTdmhoYV9UTzFRTW1Nc3hIYlhyc3F2MVdZOUVyRV9qUS1ST2NOeGVocDEwZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "[글로벌 제약사 성장 코드] 노보 노디스크, 인슐린에서 GLP-1 비만 치료제로 - g-enews.com",
+          "source": "g-enews.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[글로벌 제약사 성장 코드] 노보 노디스크, 인슐린에서 GLP-1 비만 치료제로 - g-enews.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Sat, 08 Aug 2026 23:00:00 GMT",
+          "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%83%9D%EB%AA%85-%EA%B3%B5%ED%95%99/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A0%9C%EC%95%BD%EC%82%AC-%EC%84%B1%EC%9E%A5-%EC%BD%94%EB%93%9C-%EB%85%B8%EB%B3%B4-%EB%85%B8%EB%94%94%EC%8A%A4%ED%81%AC-%EC%9D%B8%EC%8A%90%EB%A6%B0%EC%97%90%EC%84%9C-glp-1-%EB%B9%84%EB%A7%8C-%EC%B9%98%EB%A3%8C%EC%A0%9C%EB%A1%9C/ar-AA29G4iH?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 3,
+      "keywords": [
+        "times",
+        "economic",
+        "pharma"
+      ],
+      "articles": [
+        {
+          "title": "Vietnam’s pharmaceutical market hits $7 bln mark - Vietnam Economic Times",
+          "source": "Vietnam Economic Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Vietnam’s pharmaceutical market hits $7 bln mark - Vietnam Economic Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 09 Aug 2026 01:10:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KX1p0aFlKVjZOc2N1Rm41U2tqMDVqV3hvSEc3N1UwRGZkQ3YwZUh0LVdsak1qT3NBVUJjTGlDdnZROGFrY19mRWNDaHRDcThoOTM4VGZuMzNrRExFLWR6WkFSbzVmaFVkQkw4SkFWVHVSUC1wVUdUZHFZNHpZcUk?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Gland Pharma inks strategic CDMO deal with global pharma firm, eyes $90-100 million annual revenue - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Gland Pharma inks strategic CDMO deal with global pharma firm, eyes $90-100 million annual revenue - The Economic Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 09 Aug 2026 05:42:46 GMT",
+          "url": "https://www.msn.com/en-in/news/other/gland-pharma-inks-strategic-cdmo-deal-with-global-pharma-firm-eyes-90-100-million-annual-revenue/ar-AA29GBZm?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Pharma as a ‘thrust’ industry in SL - The Sunday Times, Sri Lanka",
+          "source": "The Sunday Times, Sri Lanka",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Pharma as a ‘thrust’ industry in SL - The Sunday Times, Sri Lanka | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 09 Aug 2026 02:41:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3pNV1YxUk5ja0NEeXA3WW5VVFR2YnVIX200eC0xelBQbWNTcUJLU3hkLXFuYjNfMkgxOUNaRTVLekl3eW5pTHBkVDNYZUdlbXJ3R0ZwMW1RSnhFaXp2LWZFejd6TXdYZkxlSDh5eXZ4RFpwdHpCWURrVEdZYk5US1lvOVVuQ3d0eUczVA?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "drug",
+        "targets"
+      ],
+      "articles": [
+        {
+          "title": "US Generic Drug Tariffs: Indian Pharma Targets High-Value Pivot - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "US Generic Drug Tariffs: Indian Pharma Targets High-Value Pivot - Whalesbook | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 09 Aug 2026 06:23:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWZVS0JvRkI2VmVkU0JaeWRYc0xkXzJnQWZoUGllZkJiSnV3UTE4Y1RmUnJiUWF5RFFaNTFTd2QybGJLNnM0WHROWmF6eDM5RzJkbGtzdVNXbkViVDJZQkhHbnN2Y1dhazRDYkxRZGtYM1pLLXp2WmpZaWxwQ2ZjZjgtckVMR2Q5TDVyNHZmQTBWY2M0SkRaMXc2NlZwZnRJdHNiRGcxSmdSeTl3RjQtQm1rckRWaXJ6MU1sN3E1Z3gzWFg1bXBtWGtoelJFUjRDQTBxNnZ3SC1pRllkLXc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Congress Targets Insulin Costs And Drug Patent Practices - bundle.app",
+          "source": "bundle.app",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Congress Targets Insulin Costs And Drug Patent Practices - bundle.app | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 09 Aug 2026 03:00:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbW9XMkxxXzZnX3U5VHZ5TFVLbW9WUUVybVZveU5lWEtKSTczYmFpazl3R0pXVWcxYzN5SmNsZ2JIRWJWaUV1TGhqTjFZTVZ3LWd4VWdacXlvYkxHQW1uSUZ3a2VwanVTWi1PeE9CLWFOY0sxTDhOeFU3RUNGRDBDM0lKSk9KWWJEaXZyRURiSTFUVU1FT05iU1k1V1c1ZUlMay1wR0VheG9hMHJIVFNHQ3NBYmhmMVd1eV9vZmRHeDZILVZU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "earnings",
+        "just",
+        "simplywall",
+        "analysts",
+        "beat"
+      ],
+      "articles": [
+        {
+          "title": "Santen Pharmaceutical Co., Ltd. Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Santen Pharmaceutical Co., Ltd. | Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next - simplywall.st | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 09 Aug 2026 01:11:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSFM1NDVxR1Z1RHlnZUFVNzRRRkFwTjhOWDRaNFF3Z3doeWYyS05fWXJLWXZONXJQbVQtSXNxM1dHRFgwZmQtaVRpYmRlczJoNW9ucGlsYkxpRE16MVZXQlYtSUx1V19nb01NSTF5U1hnX25aZnBUZm5OU29SZWJDRXExVDhQdXZndERhc2F0QUpfbTZiWWFEeHcwS1BFdXFoNlFFWGZva285dExaS2tTZFVTbVhla05PWnljaVFIUTZwcHhvUTBSZWMxemJVYU51Yk5OT29xdEJuRjdGMWJYOXl0cUg2N2c0NEVzSmQ0NTHSAfYBQVVfeXFMTXpFRC0xaExKV0VuYzlER1JKSHlaRkZidWFMdDk2ek9pM3E5S2toZC16WFdHOWtLckF2bXIxT0ttdjlaZjhlb3p5Y1hjT3NJV3FWR1JUaHNWZ1JxMEloczBWNjRHanpGM29wLWxYWXh3R0dvY08yZFJ4TUUwaGxRdzNpRjh2U1VjRWRoRlU0VW1wbGk5akQtMnA4Zi1kR3NBVUJMc20wTk9DeEQ0MmRzeUFSZjZGOUg0OW5sMXZEV1RCaERIR2VSZmRJMmk3N3FncU01R2ZhaVpjMEd2eVE2UlExelZwV3I2V3ktNDRKcmNPSFVoWkN3?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Earnings Beat: Emcure Pharmaceuticals Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Earnings Beat: Emcure Pharmaceuticals Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 09 Aug 2026 03:58:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQalZ3Xzd6V09zQW96d1lGeVh2VDBSQ0p2VUR2YmNabGg0U3BkNFg1TEphUXgzU0RUaWJ6Tk1KYUs4dXdOcFV6RjE1THA2UXpRR2ttdW9wZFZJSGc2MTN3Xzl2Tk00a2t3ZlF5NktKSE9iUkRNeEJZb1NCcGd5d2I4eHNMYjBVUkRnZzhPWXhVaDJvYjhKQ0NrdjRlLXlrd1AtSFFHM25JcGxmNmw4UDZOcjhtbWhMemNueHZxTmFyejhHUGJPSERBNnlLcy1LZkVBVi1WRURxcXlMZ0xJRnRfbzhrc1pJNnpsc2JHZDBKOG5ZMWF10gH6AUFVX3lxTFBNNHdkV1NNU0xhbk44VDd2MzlrZ1lIREpuc3pCY05TbkhZbHlhNVJFOFFOUGFwanN3djdZOTU2dXlIc3ZUZXdSbGxrWF9qM0R5Nm1lUXNfUTlILXlEV0tpZmRXVjBLaWFURjRycGUySGJWRjhxSzhDSVFrSFFuandLMk1ROF95S0sxQjBiWFI3dkJ2NGMtYll3ZUFMUGt5UmxFZlRIYThjZU40azQ2cWtQdk9HekJUSXMzWE50dU9vQnYxU1RlNGxHalZaLUVBb1VNVGtlSmdkWEFIS2hOMEtGb0hia01JVzFta3UyUTY5R18zTF9KOTNBanc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "העסקה של 400 מיליארד דולר ומבחן לתעשיית התרופות. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "העסקה של 400 מיליארד דולר ומבחן לתעשיית התרופות. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9oQ2lnMUdLRGJZTGpXMUg1blpSdHFDNnFGVUhCQU43UzhFOHQ5azN2VDFmSW42RWJ4TkFQczRoY3V1TkxHblBvbUtBNGZ4WjZra2ZySHlBdUZfaGpQdldjMjhDNHloQXNNd1pkTUs4cjc1dFNlSW9XYy04X3lwUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "वियतनाम का दवा उद्योग 7 अरब डॉलर तक पहुंच गया है, लेकिन आत्मनिर्भरता की चुनौती अभी भी बनी हुई है। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "वियतनाम का दवा उद्योग 7 अरब डॉलर तक पहुंच गया है, लेकिन आत्मनिर्भरता की चुनौती अभी भी बनी हुई है। - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUFzZnA0ZGpOaTd2T09NYjRLcTRNQ3lhUTNNLW9rNkdBeS1Hb3BsOEZJcnZyZXgtcHozcFczQUdPTDZUNG1DSnczdENYWDRuVE9ocmtzOERPbWpOeDR1T2Z2cU5RbWJRS0NuakNtZkJMWUpNOXB2LU5zckFvOWROWFlfc0xrTDZmWFVZWm5pU2E0Z2FqWHRWZC1fWQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "\"Hävstångseffekt\" för läkemedelsindustrin - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "\"Hävstångseffekt\" för läkemedelsindustrin - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEaVVaVG43dXJob2ZhQU9paWdvOE1SdkZuVXV1QzQweHI4LV9qeFQ4Z3NTUHEwUEt1R0MxczhaWkZ0YjZXVXVabHdSX0htUWZuam9zaVZ1NUpiSjlUWVFMbEJvenByVjV4Nnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "بلغت صناعة الأدوية في فيتنام 7 مليارات دولار، لكن تحدي الاكتفاء الذاتي لا يزال قائماً. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "بلغت صناعة الأدوية في فيتنام 7 مليارات دولار، لكن تحدي الاكتفاء الذاتي لا يزال قائماً. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdG1KQzBITW9HWVViMFJIblBxUml6cFdEOW9uc0VCdURvMlFkVE1BbXNaMERvRm5kdUtWdEhRekdNQjZWbkdFdC1qQUJ0QUU3bXBBd090YnUtUnJQekxKRlQ0VTlIaFlTMzFxdjBodW1fXzA1V0w5TnBLTHJLVENleEo1NlI1TFJxbGFFSzc5WGxQSUtDN1J2YXJiSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "อุตสาหกรรมยาของเวียดนามมีมูลค่าถึง 7 พันล้านดอลลาร์สหรัฐ แต่ความท้าทายในการพึ่งพาตนเองยังคงอยู่ - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "อุตสาหกรรมยาของเวียดนามมีมูลค่าถึง 7 พันล้านดอลลาร์สหรัฐ แต่ความท้าทายในการพึ่งพาตนเองยังคงอยู่ - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDJ1QnNPZnlDaTJwUFZlYTVUN0F3TmluMG5rNFBXRWY4N2ttVDVJUm81SGk4MUlTdEVJUlZsYXpSNkt2OU4zYmNzaHYxWXprNUs1dUxmQ2Nuc1NRZmJIbXQ0RENxYkZEVWpQOHd2aFNtNzRSWlFMaVVKUy1CY2FsX1hqa0RuTXBvVWR3UXh4dHNROENWZXltZW9KSQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "ข้อตกลงมูลค่า 400 พันล้านดอลลาร์นี้ถือเป็นบททดสอบครั้งสำคัญสำหรับอุตสาหกรรมยา - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "ข้อตกลงมูลค่า 400 พันล้านดอลลาร์นี้ถือเป็นบททดสอบครั้งสำคัญสำหรับอุตสาหกรรมยา - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mYzlJLTUxX0ZadlNLTjRvN2JzMWJiRk5rTlN4OW1nM1RzVEtqRXBTeUZ5ZG1xUlJDcm8wS2dJTWdsYnZ6UG04dEt5MHVRWVl1N2lCSmRmenN6YVdpdWNCV081ZUNrUkZYSzRkcVdHd2VXb2tvWG5CM1Z3d1VWZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "New Era of HIV Drugs - The Good Men Project",
+      "source": "The Good Men Project",
+      "importance": 47,
+      "snippet": "New Era of HIV Drugs - The Good Men Project | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aa19FclVtRFRzVmwwN0JxS2doZHJrTlNxV2NaT1NkMDdRd3RLX1JxR0g2a1BmU0lxWHl3LU0tYUp3ZjM3NmFLaWRYV1dWZ05Ydl9aZVhVdGpvcGxiUFpTZkFqUXppVV95RHJWUVFXeDVGWkE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Plastic Bioprocess Bottles Market to Surpass USD 2.5 Billion by 2035 on Single-Use Shift in Biopharma Manufacturing - IndexBox",
+      "source": "IndexBox",
+      "importance": 47,
+      "snippet": "Plastic Bioprocess Bottles Market to Surpass USD 2.5 Billion by 2035 on Single-Use Shift in Biopharma Manufacturing - IndexBox | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS0ZvcEs0OEhsdEx4Z090RUo0SjJ5bFNjMWtkVzl4eW9jVkF6Wm9ZRUpxcXloQmFXTG1kMkJkRmlZRFZLX3dWZWtENFBFM3BvYktiQ0NtOHQzQTZFeGFuQ3VLSE4wOWJtbk9QZ2gtZDJwSGFvN01YY28tY3VIWFlLRHRRaWRrdXFiTlJpZmNHc0FZYVR1cGUtRzdNRVB6c2dySW12RUo2WmtEWnVqWGNkSENBSWQ3OG0zRmlUSlZJZHFiS0JET3lBeHNNSjEzbnhJOEtVdjRjOXRuZ001dVE?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Pharmaceutical CXOs Stocks Surge Sharply Across the Board: Real Industry Recovery or Hype-Driven Rally? - 36 Kr",
+      "source": "36 Kr",
+      "importance": 47,
+      "snippet": "Pharmaceutical CXOs Stocks Surge Sharply Across the Board: Real Industry Recovery or Hype-Driven Rally? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11V1JoS1hJeV9FVVZILVhUSU1jQTlRQWM5VGl6T242WG5Pa3Nwbi02S2RnbE8wQzRwZEhLUC1vVlNHY1Vma2VSd3NmZDN2S2ZxSnd3?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "From Uber ambulance to local drug manufacturing: Surgeon preaches team approach, early detection, tech in Nigeria’s healthcare - The Sun Nigeria",
+      "source": "The Sun Nigeria",
+      "importance": 47,
+      "snippet": "From Uber ambulance to local drug manufacturing: Surgeon preaches team approach, early detection, tech in Nigeria’s healthcare - The Sun Nigeria | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNX2dTSmc0SklwdHgyWDlzZGFRNDZyMW1MRXhlVUFCSnVCVFdOQkVRY2pRdlJEYWFheGMteTZZYWtBSXk2V19Jbm9zN05jWUx0SjFRcXpsUVFSWnhsSUIyRTlFUEJGV0VYT3NCWkwzQlAzVlR5dUV1Ml90TEhXdS1KMTBIYUszdnNkX1RiRlhXME9IbU5YbnFSSE1FWXhCMndZbDBpanM5ODVQOWFFS25pelp4QzhPZDh5NWlxVEJYaDh0OVV4WmpleXhUYVplZVNKSnFYR0lMX1FNQkFQcnM4MtIB4AFBVV95cUxNX2dTSmc0SklwdHgyWDlzZGFRNDZyMW1MRXhlVUFCSnVCVFdOQkVRY2pRdlJEYWFheGMteTZZYWtBSXk2V19Jbm9zN05jWUx0SjFRcXpsUVFSWnhsSUIyRTlFUEJGV0VYT3NCWkwzQlAzVlR5dUV1Ml90TEhXdS1KMTBIYUszdnNkX1RiRlhXME9IbU5YbnFSSE1FWXhCMndZbDBpanM5ODVQOWFFS25pelp4QzhPZDh5NWlxVEJYaDh0OVV4WmpleXhUYVplZVNKSnFYR0lMX1FNQkFQcnM4Mg?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 2
+    }
+  ]
+}
