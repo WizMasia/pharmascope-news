@@ -1,0 +1,908 @@
+{
+  "date": "2026-08-10",
+  "total": 334,
+  "version": 1,
+  "generated_at": "2026-08-10T15:30:21.403055+09:00",
+  "korean": {
+    "total": 155,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 20,
+      "의약정책": 18,
+      "의약단체": 9,
+      "의약관련정부기관": 13,
+      "의료현장": 25,
+      "약국·약사": 4,
+      "의료정책·인력": 25,
+      "전통의학": 2,
+      "감염·보건": 14
+    },
+    "top_articles": [
+      {
+        "title": "mRNA 독감백신 허가…‘엠플루시바’ 80만명 검증대 오른다",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:31분+20 | 키워드+10 | 순위:83위+2",
+        "snippet": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문 | Yakup-specials | 올바른 건강기능식품 활용가이드 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문",
+          "Yakup-specials",
+          "올바른 건강기능식품 활용가이드",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "약업닷컴 - 보건의약계를 대표하는 전문신문 - 약사, 의사, 제약사 - 약업신문\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원·의료\n 약사·약학\n 글로벌\n 웰에이징\n 특집\n 신문지면보기\n 화장품신문\n 의약정보\n 뉴스레터 신청\n 구독신청\n 뉴스\n 전체기사\n 정책\n 산업\n 제약·바이오\n 유통\n 뷰티\n 건강기능식품\n 의료기기\n 병원 · 의료\n 약사 · 약학\n 글로벌\n 웰에이징\n 인터뷰\n PEOPLE\n 특집 · 이슈기획\n 특집\n 이슈기획\n 팜플러스\n 오피니언\n 컬쳐 · 클래시그널\n Yakup-specials\n DI 의약정보\n 올바른 약 이야기\n 올바른 건강기능식품 활용가이드\n 신제품소개\n 포토\n 그땐 그랬지\n 서비스\n 북몰 · 컨텐츠몰\n 뉴스레터 신청\n 구독신청\n 마이페이지\n 스크랩 관리\n 구독정보\n e-mail 문의\n 회사소개\n 회사개요\n 연혁\n 조직도\n Contact us\n 광고제휴문의\n 회원서비스\n 실시간 인기검색어\n # hlb\n # 권혁진\n # 최윤수\n HOME\n >\n 뉴스\n >\n 전체기사",
+        "content_length": 526,
+        "published_time": "31분",
+        "modified_time": "",
+        "time": "31분",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=330848",
+        "source_url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=330848"
+      },
+      {
+        "title": "올릭스, ‘GSK 출신’ 민지영 박사 영입…글로벌 신약개발 총괄 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 10 Aug 2026 04:28:00 GMT+5 | 키워드+20 | 순위:162위+2",
+        "snippet": "올릭스, ‘GSK 출신’ 민지영 박사 영입…글로벌 신약개발 총괄 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "올릭스, ‘GSK 출신’ 민지영 박사 영입…글로벌 신약개발 총괄 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "올릭스, ‘GSK 출신’ 민지영 박사 영입…글로벌 신약개발 총괄 - 조선비즈 - Chosunbiz",
+        "content_length": 54,
+        "published_time": "Mon, 10 Aug 2026 04:28:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 04:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbGl4U0RqQnFKMVNZTUZpMmtMSHprTktuYy1hM05FUW1VUnFBVE1oNC14bi1zcTZ6M0lNSlJPTTZmQkJoX0tFUGF6THFQa2xUNDVoSGs0VTJlcVZpRkIyQWlackdzZWtNTVdWLXh5N2FPdmtHLXlWYlBTYkc3STI0UmJsUUxlZkHSAZsBQVVfeXFMUGpFb09xeVR3Yjk2RFV3dFJPLW1ERTdHeHY1RVREcmQ4SlV0d2hYRXotVktaMmVQSWVXMXZJM1lfZXZSUkwyUnNOajJMZEJfZ3FxejlQWkZWSzZSNm9XXzJub1BBZ0liTkdRZDMzYWdBR0pVWDU0Sm5VSG5Qb1lfYnhPaEdkb2Z4ekxfaF9nWkVTc0hiR2d4SWM2MUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "건강보험 1분기 4조 적자…‘6년 연속 흑자’ 흔들 - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Mon, 10 Aug 2026 01:46:02 GMT+5 | 키워드+10 | 순위:242위+2",
+        "snippet": "건강보험 1분기 4조 적자…‘6년 연속 흑자’ 흔들 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "건강보험 1분기 4조 적자…‘6년 연속 흑자’ 흔들 - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "건강보험 1분기 4조 적자…‘6년 연속 흑자’ 흔들 - edaily.co.kr",
+        "content_length": 43,
+        "published_time": "Mon, 10 Aug 2026 01:46:02 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 01:46:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGNSRC1OZ2tucWgyLXpCZElpZ18zVC1XYVdnVXp4ay1hek1vazZBMm80Zjl0OHZBUjRFQWVrVjhnX1BtX1doOGYzVnFtc1IzVWZkYTdVSm9UX3c4d1JxV2UtdGE0cTN2ZkFHMGpzaFJoaGZmZ1F2cGRMdFJfdGZ5ZA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
+      },
+      {
+        "title": "중견 제약사, 전문의약품 호조로 '외형 성장'…약가 인하 방어는 숙제 - v.daum.net",
+        "source": "v.daum.net",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:v.daum.net+10 | 최신:Mon, 10 Aug 2026 05:34:05 GMT+5 | 키워드+25 | 순위:103위+2",
+        "snippet": "중견 제약사, 전문의약품 호조로 '외형 성장'…약가 인하 방어는 숙제 - v.daum.net | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "중견 제약사, 전문의약품 호조로 '외형 성장'…약가 인하 방어는 숙제 - v.daum.net",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "중견 제약사, 전문의약품 호조로 '외형 성장'…약가 인하 방어는 숙제 - v.daum.net",
+        "content_length": 51,
+        "published_time": "Mon, 10 Aug 2026 05:34:05 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 05:34:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sR3NwS1JFXzNfcEt6MFJaQTlqTkhjWUstY0h2eVM0VHpjaWxJa3lyOWpCSWREQ2VOcEtCYng3cWdtYlVyVmtTa2lPMjVZUlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://v.daum.net"
+      },
+      {
+        "title": "진행성 피부암 치료제 투드리제브, 규제 난항 끝에 미 FDA 최종 승인 획득 - 캐어유 뉴스",
+        "source": "캐어유 뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:캐어유 뉴스+10 | 최신:Mon, 10 Aug 2026 05:00:00 GMT+5 | 키워드+25 | 순위:67위+2",
+        "snippet": "진행성 피부암 치료제 투드리제브, 규제 난항 끝에 미 FDA 최종 승인 획득 - 캐어유 뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "진행성 피부암 치료제 투드리제브, 규제 난항 끝에 미 FDA 최종 승인 획득 - 캐어유 뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "진행성 피부암 치료제 투드리제브, 규제 난항 끝에 미 FDA 최종 승인 획득 - 캐어유 뉴스",
+        "content_length": 51,
+        "published_time": "Mon, 10 Aug 2026 05:00:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 05:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wNGxVMG4wX2pGSTRlek9sODE0ZlJLZ3NlWTRPSmR6MmVpSHZocE4xWmlOLV9rbk5qSzNBVTl2enFHVVA1bDJuUkMyakRRSFlEcHZnRDBlVE5vYVdDNUt1dHY2MkstNXo0NEVBam9n?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.careyounews.org"
+      },
+      {
+        "title": "호치민시의 병원들은 의사 347명과 간호사 435명을 채용해야 합니다. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Sun, 09 Aug 2026 08:57:46 GMT+5 | 키워드+25 | 순위:186위+2",
+        "snippet": "호치민시의 병원들은 의사 347명과 간호사 435명을 채용해야 합니다. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "호치민시의 병원들은 의사 347명과 간호사 435명을 채용해야 합니다.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "호치민시의 병원들은 의사 347명과 간호사 435명을 채용해야 합니다. - Vietnam.vn",
+        "content_length": 52,
+        "published_time": "Sun, 09 Aug 2026 08:57:46 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 08:57:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbXlVbHhTZTVFaXc4LXJETi03SUJGdjJLTll6RHJVeW5mR0dzU0RBWExpNGdkOWg2cFRCVll3aUl2WmtVU05XVXQ1aVYtbW5pQS00OG1OUVB2RXRmaFlBTnFDNF8xY190cFN5aFJkRkwtbUQ4REF6ZVlWektkTWI0NGxmWVZWWXp6bFN1UDRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Sun, 09 Aug 2026 21:04:28 GMT+5 | 키워드+5 | 순위:143위+2",
+        "snippet": "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈 - Chosunbiz",
+        "content_length": 72,
+        "published_time": "Sun, 09 Aug 2026 21:04:28 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 21:04:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVRjdXd6eEQ0QmVFTzdRUTNtRk5udUFBbjhNa084VHVIVVdFVlUxbHZZWnoxMFA0VHZnRkwyY1AwblBfRDB4R09HRG1CS3M4S2VLd2pLcnNyWV9MdFNYX2FEcFk2dW4tVm1FdEVtTWxUZzUxbWczMGdJWTZJSmJaY1hKN3k2TE3SAZsBQVVfeXFMTUNSVVVaNkRnbEFfX1BiMXRWN3JtYURJQzMtblNMNUNTMG5zXzZTdzVHdXg4SmxXanFfemtacjZpR1p1YVJDS3BTQURBbERSOXNWM3VVMm1RdXdURHA3Q2dDYzA2ODhjOEg0OUNZN3Exa09PRGRpV0xrOVR0VFdUN1VpZ2YzUVN5UmxOSzNRVjN2dXJDSkpPNVZwbkU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "‘팔고 있는데 소송’…삼성바이오에피스, 얀센 등 빅파마와 분쟁 7건 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 10 Aug 2026 00:41:00 GMT+5 | 키워드+5 | 순위:156위+2",
+        "snippet": "‘팔고 있는데 소송’…삼성바이오에피스, 얀센 등 빅파마와 분쟁 7건 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "‘팔고 있는데 소송’…삼성바이오에피스, 얀센 등 빅파마와 분쟁 7건 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "‘팔고 있는데 소송’…삼성바이오에피스, 얀센 등 빅파마와 분쟁 7건 - 조선비즈 - Chosunbiz",
+        "content_length": 56,
+        "published_time": "Mon, 10 Aug 2026 00:41:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 00:41:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjd4V29hLVJYLTRGNmhvaGdmdUkxdVE0S3BQVHl2UW9qMEgteFdhNVdnUWZ4T2lwcXhtNlpuTXg1T2QzWDR2ZXhXY043NExwNUdCQ3hkbk5iOUtZbzV1a1BSUEF0Ung2ajM3UGFqWDN1YS1Ld1Rua2FPcWI1MTVDcEdLT0pIalcwY2lVZWo3MldNeWd5a3EyLUg3SdIBmwFBVV95cUxONjd4V29hLVJYLTRGNmhvaGdmdUkxdVE0S3BQVHl2UW9qMEgteFdhNVdnUWZ4T2lwcXhtNlpuTXg1T2QzWDR2ZXhXY043NExwNUdCQ3hkbk5iOUtZbzV1a1BSUEF0Ung2ajM3UGFqWDN1YS1Ld1Rua2FPcWI1MTVDcEdLT0pIalcwY2lVZWo3MldNeWd5a3EyLUg3SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "증시 혼조 속, 대화제약·랩지노믹스·네오이뮨텍↑ [바이오맥짚기] - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Mon, 10 Aug 2026 03:02:02 GMT+5 | 키워드+5 | 순위:120위+2",
+        "snippet": "증시 혼조 속, 대화제약·랩지노믹스·네오이뮨텍↑ [바이오맥짚기] - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "증시 혼조 속, 대화제약·랩지노믹스·네오이뮨텍↑ [바이오맥짚기] - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "증시 혼조 속, 대화제약·랩지노믹스·네오이뮨텍↑ [바이오맥짚기] - edaily.co.kr",
+        "content_length": 50,
+        "published_time": "Mon, 10 Aug 2026 03:02:02 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 03:02:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWjZBTF9EUGRtVzg0SWRldU1JZzh6RjhNS2lwMURITExPTVBzamgxMmVBRDU5cGRjRVdoLVpqNjZyMTItRkdPQW1iQ1UxZDhqSFVZck9MUDRzODIxRm9acm1YdFdUMzF5WXphc284VGpzclpHai1udjhnMjlNemN0Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
+      },
+      {
+        "title": "‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지 - 약사공론",
+        "source": "약사공론",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:약사공론+10 | 최신:Sun, 09 Aug 2026 20:55:00 GMT+5 | 키워드+20 | 순위:141위+2",
+        "snippet": "‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지 | ‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지 | 기사의 본문 내용은 이 글자크기로 변경됩니다. | 입력 2026.08.10 05:55 | 인공지능이 자동으로 줄인 '세 줄 요약' 기술을 사용합니다.",
+        "summary_lines": [
+          "‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지",
+          "‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지",
+          "기사의 본문 내용은 이 글자크기로 변경됩니다.",
+          "입력 2026.08.10 05:55",
+          "인공지능이 자동으로 줄인 '세 줄 요약' 기술을 사용합니다."
+        ],
+        "content": "‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지\n 이전 기사보기\n 다음 기사보기\n ‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n 스크롤 이동 상태바\n 임태균 기자\n입력 2026.08.10 05:55\n댓글 0\n 요약\n AI기자 요약봇\n 요약 정보\n 인공지능이 자동으로 줄인 '세 줄 요약' 기술을 사용합니다. 전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다.\n ‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지\n아주약품은 안구건조증 치료제 'AJU-S56' 임상 3상 과정에서 임상시험계획 변경 승인 및 보고 절차를 준수하지 않아 1개월 업무정지 처분을 받았습니다.\n해당 임상시험은 이미 종료되었고 품목허가 신청까지 마친 상태라 개발 일정에 큰 차질은 없을 것으로 보입니다.\n이번 처분은 임상시험의 유효성·안전성 결과와 별개로, 임상 수행 과정의 절차 준수 역시 규제 당국의 관리 대상임을 보여줍니다.\n가\n가\n기사의 본문 내용은 이 글자크기로 변경됩니다.\n국내 44호 신약에 도전하고 있는 아주약품의 안구건조증 치료제 ‘AJU-S56’이 임상 3상 수행 과정에서 임상시험계획 변경 승인과 보고 절차를 준수하지 않은 사실이 확인돼 식품의약품안전처로부터 행정처분을 받는다. 다만 해당 임상시험은 이미 종료됐고 아주약품이 품목허가 신청까지 마친 상태인 만큼, 이번 업무정지가 현재 진행 중인 임상시험 일정을 중단시키는 등 개발 과정에 직접적인 차질을 줄 가능성은 크지 않을 것으로 보인다.\n 안구건조증 해결 신약 개발에 초점을 맞춘 AI생성 이미지.\n10일 복수의 규제당국 관계자와 의약품안전나라 등에 따르면 식약처는 최근 아주약품이 임상시험계획 변경 승인을 받지 않고, 변경 보고도 하지 않은 사실을 확인하고, 해당 임상시험 업무정지 1개월 처분을 내렸다. 행정처분일은 8월 10일이며 업무정지 기간은 2026년 8월 10일부터 9월 9일까지다. 이번 조치는 1차 처분에 해당한다.\n문제가 된 임상시험은 ‘안구건조증 환자를 대상으로 AJU-S56 5%의 유효성 및 안전성을 평가하기 위한 다기관, 무작위배정, 이중눈가림, 평행, 위약 대조, 우월성 제3상 임상시험’이다.\n식약처는 아주약품이 해당 임상시험을 수행하면서 변경 승인이 필요한 사항에 대해 승인을 받지 않았고, 별도로 변경 보고가 필요한 사항에 대해서도 보고하지 않은 점을 위반 사유로 판단했다.\n위반 근거는 약사법 제34조제1항·제7항과 의약품 등의 안전에 관한 규칙 제24조제4항제3호라목 및 별표 1 제1호서목, 제24조제5항제2호다.\n이에 따라 약사법 제76조제1항제3호 및 제76조제3항, 의약품 등의 안전에 관한 규칙 제95조와 별표 8 행정처분의 기준 Ⅰ. 일반기준 제1호가목, Ⅱ. 개별기준 제10호가목 및 제10호나목이 적용돼 해당 임상시험에 1개월 업무정지 처분이 내려졌다.\n이번 처분이 주목되는 것은 AJU-S56이 현재 아주약품의 주요 신약 파이프라인 가운데 하나이기 때문이다.\nAJU-S56은 지엘팜텍이 2017년 동아에스티가 개발한 후보물질 ‘레코플라본(Recoflavone)’을 확보하면서 개발이 시작됐다. 이후 점안제에 적합한 제형 개발과 기전 검증을 거쳤으며, 아주약품은 2021년 지엘팜텍과 합작법인 ‘오큐라바이오사이언스’를 설립해 개발에 참여해왔다.\n국내 약 30개 기관에서 진행된 임상 3상은 이미 완료됐으며, 아주약품은 유효성과 안전성 평가를 토대로 현재 품목허가 신청까지 마친 상태다. 회사는 2027년 하반기 출시를 목표로 하고 있다.\nAJU-S56은 △눈물 분비 증가 △뮤신 생성 촉진 △항염 작용 △각막 상피 재생 등 복합 기전을 기반으로 하는 안구건조증 치료제로 개발되고 있다. 아주약품은 최근 제품명 공모 이벤트까지 진행하며 허가 이후 상용화를 위한 준비에도 나서고 있다.\n이 때문에 이번 1개월 업무정지 처분이 AJU-S56의 임상 개발 일정에 미치는 실질적 영향은 제한적일 것으로 예상된다. 처분 대상이 해당 임상시험 업무인 반면, 임상 3상 자체는 이미 종료됐기 때문이다.\n다만 임상시험이 끝났다는 사실과 임상시험 수행 과정에서 준수해야 할 변경관리 의무는 별개의 문제다. 임상시험계획에 변경 사항이 발생할 경우 내용에 따라 식약처의 변경승인을 받거나 정해진 기한 내 변경보고를 해야 하며, 임상 완료 이후에도 실태조사 등을 통해 절차상 미준수 사실이 확인되면 행정처분이 내려질 수 있다.\n식약처 관계자는 “임상시험은 승인된 계획에 따라 수행해야 하며, 시험 과정에서 변경 사항이 발생하는 경우 해당 내용에 따라 변경승인이나 변경보고 절차를 준수해야 한다”며 “임상시험이 종료됐더라도 수행 과정에서 관련 기준을 준수했는지 여부는 별도로 관리되는 사항”이라고 설명했다.\n다만 공개된 행정처분 내용만으로는 이번 위반이 AJU-S56의 유효성·안전성 평가 결과나 현재 진행 중인 품목허가 심사에 어떠한 영향을 미치는지까지는 확인되지 않는다. 처분 사유 역시 임상시험계획의 변경 승인 및 보고 절차 미이행으로 명시돼 있다.\n이날 한미약품도 임상시험 관리 과정에서 관련 규정을 위반해 1차 경고 처분을 받은 것으로 알려졌다.\n복수의 규제당국 관계자에 따르면 식약처는 최근 한미약품이 임상시험계획 변경 보고를 지연하고, 임상시험의 품질보증 및 임상시험자료의 품질관리 기준을 위반한 사실을 확인했다.\n위반 근거는 약사법 제34조제1항, 제34조제3항제2호 및 제34조제7항과 의약품 등의 안전에 관한 규칙 제24조제5항제2호, 제30조제1항 본문 및 별표 4 의약품 임상시험 관리기준 제8호가목이다.\n이에 식약처는 약사법 제76조제1항제3호 및 제76조제3항, 의약품 등의 안전에 관한 규칙 제95조와 별표 8 행정처분의 기준 Ⅱ. 개별기준 제10호나목 및 제16호바목에 따라 한미약품에 경고 처분을 내렸다.\n이번 사례들은 임상시험의 유효성·안전성 결과와 별개로 시험계획 변경과 자료 품질관리 등 수행 과정의 절차 준수 역시 규제당국의 관리 대상이라는 점을 보여준다. 특히 임상이 완료된 이후에도 실태조사 등을 통해 절차상 미비가 확인될 수 있는 만큼 제약사들의 임상시험 변경관리 체계에 대한 보다 세밀한 점검이 요구될 것으로 보인다.\n이기사를 추천합니다!\n 추천해요 0 좋아요 0 감동이에요 0 후속기사 원해요 0\n이 기사를 공유합니다\n관련기사\n 접점 못찾는 국립의대 설립 논의…약사사회도 관심 ↑\n 약대, 지역인재 의무선발 준수율 100%…의대·한의대는?\n 광복절 연휴 배송일정 조정…약국, 발주·보관계획 미리 점검해야\n [위클리이슈] 22대 국회는 뭘하고 있을까\n 약사문예 26집 발간…\"고마의 들, 백강에 뜨다\"\n 씨젠, 2분기 영업익 216억원…비호흡기 성장에 수익성 개선\n 코오롱제약, 신약개발 떼어낸다 '플랫바이오' 다시 독립법인으로\n [릴레이집회-324일차] 한약사 문제 해결 외침…대구 릴레이 동참\n 대원제약, 상반기 매출 3109억 원…전년比 3.1% 성장\n GC녹십자, mRNA 백신 상용화 품질 분석 플랫폼 구축\n 리가켐바이오, B7-H4 ADC 'LNCB74' 단독 개발권 확보\n 서초구약, 서초복지돌봄재단에 후원금 전달\n 알테오젠, 기술수출·키트루다SC '쌍끌이'…상반기 실적 성장\n 서울시약, 서울시의회에 약사 현안 전달 \"제도적 지원 필요\"\n 서울시약, 청년약사 소통 플랫폼 확대…카톡방 참여 250명 돌파\n [위클리이슈]'300평 창고형약국'서 의료플랫폼 논란까지…잠실역에 쏠린 시선\n 보건산업진흥원 신임 원장에 고상백 교수\n 첫째와 둘째, 건강 차이 있을까? 1000만명 분석해보니\n 부작용 피해구제 진료비 상한 5천만원으로 상향 추진\n 한미 법인카드 사용 의혹…사실관계 검증·제보 적정성 '쟁점'\n 허가부터 특허까지…식약처, 제약사 ‘허가특허연계’ 실무 역량 끌어올린다\n ‘시타글립틴·메트포르민’ 복합제 허가 손질…‘간 손상’ 이상반응 추가\n 서대문구약, 반모임 활성화 나선다…‘약 교품방’도 신설\n 코에 뿌려 바이러스 침입 차단…온라인팜 ‘콜드마스크’ 약국 공급\n 임태균 기자 i21@kpanews.co.kr\n 다른기사 보기\n저작권자 © 약사공론 무단전재 및 재배포, AI학습 및 활용 금지\n 댓글 내용입력\n 더보기\n 삭제한 댓글은 다시 복구할 수 없습니다.\n 그래도 삭제하시겠습니까?\n 비밀번호\n 댓글 수정은 작성 후 1분내에만 가능합니다.\n 본문\n / 400\n 비밀번호\n내 댓글 모음\n 닫기\n\"'불멸의 세포(?)' 조인트 스템, 기대가 검증 앞설 수 없다\"\n‘국산 신약’ 노리는 아주약품 건성안 치료제, 임상 절차 위반 1개월 정지\n비만약 시대 약국도 바뀌어야…'체중감량'에서 '치료 지원'으로\n증권가 파마리서치 '수출' 주목…2분기 넘어 하반기도 성장 지속\n코에 뿌려 바이러스 침입 차단…온라인팜 ‘콜드마스크’ 약국 공급\n셀트리온제약, 2025년 매출·영업이익 동반 '사상 최대'\n'조현병·양극성장애' 치료제 확장, 명인제약 '지프라시돈' 도전\nFDA, 한미약품 희귀질환 신약 '에페거글루카곤 혁신치료제 지정\n유유제약, 동물 사료 전문업체 'James & Ella' 전략적 투자 결정\n'메디컬코리아 2026 비즈니스 미팅' 참가 기관 모집\n[위클리이슈]'300평 창고형약국'서 의료플랫폼 논란까지…잠실역에 쏠린 시선\n\"'불멸의 세포(?)' 조인트 스템, 기대가 검증 앞설 수 없다\"\n약대, 지역인재 의무선발 준수율 100%…의대·한의대는?\n접점 못찾는 국립의대 설립 논의…약사사회도 관심 ↑\n[위클리이슈] 22대 국회는 뭘하고 있을까\n“나눔의 가치 배워요”…한미그룹, 지역 아동에 ‘건강 도시락’ 지원\n‘시타글립틴·메트포르민’ 복합제 허가 손질…‘간 손상’ 이상반응 추가\n치료기간 절반으로…리가켐·큐리언트, 글로벌 '결핵' 신약 격돌\n증권가 파마리서치 '수출' 주목…2분기 넘어 하반기도 성장 지속\n블로섬힐·라티고, IPO 기대 웃돌아…각각 1억5000만·3억4560만달러 조달\n서대문구약, 반모임 활성화 나선다…‘약 교품방’도 신설\n폭염에 '몰캉스' 유행…쇼핑몰 안 약국도 영향\n‘시타글립틴·메트포르민’ 복합제 허가 손질…‘간 손상’ 이상반응 추가\n“나눔의 가치 배워요”…한미그룹, 지역 아동에 ‘건강 도시락’ 지원\n약대생들, 건보공단 본부",
+        "content_length": 5028,
+        "published_time": "Sun, 09 Aug 2026 20:55:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 20:55:00 GMT",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540057",
+        "source_url": "https://www.kpanews.co.kr"
+      }
+    ],
+    "top_keywords": [
+      [
+        "허가",
+        16
+      ],
+      [
+        "신약",
+        16
+      ],
+      [
+        "식약처",
+        8
+      ],
+      [
+        "약가",
+        7
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "특허",
+        7
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "백신",
+        4
+      ],
+      [
+        "심사",
+        3
+      ],
+      [
+        "제네릭",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "한약",
+        2
+      ],
+      [
+        "FDA",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "네이트",
+        9
+      ],
+      [
+        "데일리팜",
+        8
+      ],
+      [
+        "뉴스1",
+        6
+      ],
+      [
+        "약사공론",
+        5
+      ],
+      [
+        "청년의사",
+        5
+      ],
+      [
+        "간호사신문",
+        4
+      ],
+      [
+        "메디소비자뉴스",
+        4
+      ],
+      [
+        "메디칼업저버",
+        4
+      ],
+      [
+        "Chosunbiz",
+        3
+      ],
+      [
+        "청년일보",
+        3
+      ],
+      [
+        "약업신문",
+        3
+      ],
+      [
+        "팜뉴스",
+        3
+      ],
+      [
+        "주달",
+        3
+      ],
+      [
+        "한의신문",
+        3
+      ],
+      [
+        "메디파나뉴스",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 111,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 10,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "Korea restarts Ac-225 production next year to ease cancer drug shortage - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Sun, 09 Aug 2026 21:01:00 GMT+5 | 키워드+30 | 순위:141위+2",
+        "snippet": "Korea restarts Ac-225 production next year to ease cancer drug shortage - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Korea restarts Ac-225 production next year to ease cancer drug shortage - CHOSUNBIZ - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Korea restarts Ac-225 production next year to ease cancer drug shortage - CHOSUNBIZ - Chosunbiz",
+        "content_length": 95,
+        "published_time": "Sun, 09 Aug 2026 21:01:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 21:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDM2ak16UEpxWDVQalVPUHRpRTJPZ2FCektfUjNIMHJQNW5MMjVFeHVpMFB2Uk5SM0RJLWVzemQyeEhiT0Jzdm9HS2otWDlGamVZU1UyMzBTY0FqRGRiSEp4Y2VyZUYxRWZMLW14dGJMLWV4Z0x0V0ljYmMybU9uRdIBlAFBVV95cUxPNG5DV2EzRE00UXMwdVV0RjRMTzNiMk93NmxkZHhZOUdpdGE3MjdWaG9DZElIVmltRzgtRzhkYWtmSVFEbVlyZzgyTzVVWllNSURXaWRNTnNKTFhzTUNvdG1La2JmNTZ0V2ZlZGNrYjExNkdMd0RMSmxPNy1IRjdLd1pkUjRDVEJPRGhGckQ3NjA3UnEz?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "New drug delivers promising survival gains in pancreatic cancer - News-Medical",
+        "source": "News-Medical",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:News-Medical+10 | 최신:Mon, 10 Aug 2026 03:11:00 GMT+5 | 키워드+30 | 순위:124위+2",
+        "snippet": "New drug delivers promising survival gains in pancreatic cancer | New drug delivers promising survival gains in pancreatic cancer | Download PDF Copy | Add News Medical on Google | as a preferred source",
+        "summary_lines": [
+          "New drug delivers promising survival gains in pancreatic cancer",
+          "New drug delivers promising survival gains in pancreatic cancer",
+          "Download PDF Copy",
+          "Add News Medical on Google",
+          "as a preferred source"
+        ],
+        "content": "New drug delivers promising survival gains in pancreatic cancer\nNew drug delivers promising survival gains in pancreatic cancer\n Download PDF Copy\n Add News Medical on Google\n as a preferred source\n UT Southwestern Medical Center Aug 9 2026\n Reviewed\nAbout 90% of people with pancreatic cancer have pancreatic ductal adenocarcinoma (PDAC), which is driven by an activating mutation in the KRAS gene.\nThese genes make KRAS proteins, which act as switches that tell our cells when to grow and divide. The mutation locks the switch in the \"on\" mode, making the mutated cells grow out of control when they develop additional mutations and become cancerous tumors. This combination is often more aggressive than standard treatments such as chemotherapy or radiotherapy can completely eradicate.\nThough pancreatic cancer is one of the most complex cancers to treat, new and effective treatments – ranging from medicine and surgery to radiation oncology – have emerged in recent years.\nThe latest medical therapy, daraxonrasib, is producing results that are truly revolutionary. In clinical trials, daraxonrasib doubled median survival (from 6.7 months to 13.2 months) for patients with metastatic PDAC that had stopped responding to prior chemotherapy.\nThis once-daily pill is the beginning of a breakthrough that could deliver better outcomes to more patients with pancreatic cancer. Innovations in medical, surgical, and radiation oncology along with companion diagnostics such as imaging mean patients, even those with metastatic disease, are living longer and maintaining a higher quality of life.\nHow daraxonrasib works\nDaraxonrasib is part of a new class of medications called RAS(ON) inhibitors that target RAS proteins inside cancer cells. RAS proteins are the \"brains\" or master switch of many tumors, instructing them to divide and spread despite aggressive chemotherapy treatment.\nLike a molecular glue, daraxonrasib binds to RAS proteins in their \"on\" state, gumming up their ability to interact with downstream proteins, effectively silencing the proteins to block tumor growth. Daraxonrasib can target several types of KRAS mutations, of which there are more than 20.\nWhy daraxonrasib is a game changer\nThe best cure is to surgically remove pancreatic cancer before it spreads; however, the tumor comes back in most cases. If we cannot safely remove a patient's pancreatic cancer because of local extent or spread, we attempt to optimize treatment to prolong quantity and quality of life with drug therapies and often radiation therapy.\nChemo drugs such as gemcitabine and nab-paclitaxelor FOLFIRINOX (oxaliplatin, irinotecan, fluorouracil, and leucovorin) can be effective, but they can also be hard on the body. Side effects include fatigue, immune system suppression, diarrhea, pain, and numbness in the hands and feet.\nDaraxonrasib will be a new option. It is gentler. Side effects include a skin rash, diarrhea, nausea, and potential inflammation of the mucous lining of the mouth and digestive tract.\nEligibility for daraxonrasib\nAs we await Food and Drug Administration (FDA) approval of the medication, daraxonrasib is available through clinical trials or the drug manufacturer's expanded access program (EAP). However, patients who are successfully taking another medication for metastatic PDAC are not eligible.\nRelated Stories\n Thinning cancer cells' sugar coating could expose tumors to immune attack\n D-serine promotes gastric cancer growth by suppressing tumor immunity\n Targetable MYH9 gene drives cancer progression and inherited genetic disorders\nThe EAP for daraxonrasib, granted in May 2026, makes the drug available to adults with previously treated metastatic PDAC who cannot join a clinical trial and have no other effective or available therapy. EAPs require patients to meet specific criteria, and participating medical centers must complete detailed paperwork as a treatment site and for each individual patient.\nUT Southwestern's Harold C. Simmons Comprehensive Cancer Center is approved as a participating treatment site, allowing eligible patients to be considered for treatment through the EAP. As an Academic and Clinical Center of Excellence recognized by the National Pancreas Foundation, UTSW is consistently focused on providing our patients with the best possible outcomes and an improved quality of life.\nEligibility will change once daraxonrasib is FDA-approved, and we have many patients who could benefit once it is more widely available. Stay up to date on daraxonrasib and other therapies by talking with your doctor and checking with national advocacy organizations such as Pancreatic Cancer Action Network (PanCAN) and Let's Win Pancreatic Cancer.\nThe future of pancreatic cancer treatment\nUT Southwestern will be a site for several studies looking into new ways to treat pancreatic cancer:\nAn upcoming clinical trial will determine whether daraxonrasib could extend the cancer-free interval after pancreatic cancer surgery.\nNRG GI-011 is a phase th",
+        "content_length": 11199,
+        "published_time": "Mon, 10 Aug 2026 03:11:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 03:11:00 GMT",
+        "url": "https://www.news-medical.net/news/20260809/New-drug-delivers-promising-survival-gains-in-pancreatic-cancer.aspx",
+        "source_url": "https://www.news-medical.net"
+      },
+      {
+        "title": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs - MedCity News",
+        "source": "MedCity News",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:MedCity News+10 | 최신:Sun, 09 Aug 2026 22:02:34 GMT+5 | 키워드+30 | 순위:127위+2",
+        "snippet": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs - MedCity News | The race for non-opioid pain drugs continues, and Latigo Biotherapeutics is building the case for a molecule it says could offer advanta",
+        "summary_lines": [
+          "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs - MedCity News",
+          "The race for non-opioid pain drugs continues, and Latigo Biotherapeutics is building the case for a molecule it says could offer advantages over the Vertex Pharmaceuticals product that was first in a new class of medicines.",
+          "With Latigo’s pill on track to enter Phase 3 testing, the company secured $346 million in IPO cash to support this program and the rest of its pipeline.",
+          "Research in non-opioid pain drugs has turned to sodium channels, pathways that transmit signals through the nervous system.",
+          "Latigo’s lead program, LTG-001, selectively blocks NaV1.8, a sodium channel primarily expressed in peripheral nerve tissue and not in the brain."
+        ],
+        "content": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs - MedCity News\nThe race for non-opioid pain drugs continues, and Latigo Biotherapeutics is building the case for a molecule it says could offer advantages over the Vertex Pharmaceuticals product that was first in a new class of medicines. With Latigo’s pill on track to enter Phase 3 testing, the company secured $346 million in IPO cash to support this program and the rest of its pipeline.\nResearch in non-opioid pain drugs has turned to sodium channels, pathways that transmit signals through the nervous system. Latigo’s lead program, LTG-001, selectively blocks NaV1.8, a sodium channel primarily expressed in peripheral nerve tissue and not in the brain. That’s important because the addiction risks of pain drugs, such as opioids, come from hitting targets in the central nervous system.\nNaV1.8 has clinical and regulatory validation from Vertex’s suzetrigine, brand name Journavx, approved last year as a treatment for moderate-to-severe acute pain . While this twice-daily pill ushered in a new class of non-opioid pain drugs, Latigo sees opportunity for its drug to top Vertex’s with a faster onset of effect, better efficacy, and a lower risk of drug-drug interactions.\n presented by\n Sponsored Post\n Inside an Automated Healthcare Practice: Redesigning Care Around People, Not Paperwork\n By reducing administrative burden and redesigning workflows around human needs, it creates space for what matters most: connection between clinicians and patients.\n By Michael Blackman, MD, MBA Chief Medical Officer, Greenway Health®\n“There is a continued unmet need in the pain management landscape, underscored by continued opioid reliance, few novel therapies brought to market, and limitations with first-generation Nav1.8 inhibitors,” Latigo said in its IPO filing. “We believe our differentiated Nav1.8 product candidates that are designed to be used alone or in multi-modal treatment and broader pipeline could transform pain management without the risk of addiction.”\nIn late July, the New England Journal of Medicine published results from a Phase 2b test of LTG-001 in 343 patients with moderate-to-severe pain following an abdominoplasty, also called a tummy tuck. In addition to a high and low dose of the study drug, taken orally twice daily in the two days following surgery, the trial included a Vicodin cohort and another group that received a placebo. The main goal was measuring pain over 48-hours according to sum of the pain-intensity difference (SPID), a standard rating scale used to measure pain in clinical trials. Secondary goals measured the amount of opioid rescue medication taken as well as how many patients required no rescue medication.\nResults showed both doses of the study drug achieved statistically significant reductions in pain scores compared to placebo in the 48 hours after surgery. But only the high dose of LTG-001 was associated with significantly lower opioid use compared to placebo. The high dose group showed a significantly higher percentage of patients who received no opioid rescue medication.\nResults for the high dose also stand out because this dose started to work quickly. In the IPO filing, Latigo said this dose achieved meaningful pain relief 52 minutes after dosing. The opioid comparator took 83 minutes to achieve meaningful pain relief. Latigo said in the filing that the speed of effect comes from rapid penetration of the drug into peripheral nerve tissue. For additional context, Vertex’s Phase 3 test of Journavx showed it started to take effect 119 minutes after abdominoplasty and 240 minutes after bunionectomy surgery.\n“In our market research, onset of meaningful pain relief was identified by prescribers as a key attribute in a preferred pain management therapeutic,” Latigo said in the filing. “With competitor data showing that onset of meaningful pain relief after abdominoplasty occurred approximately two hours post-dose, we believe there is an opportunity to develop a treatment with a more appealing profile.”\n presented by\n Sponsored Post\n Closing the Quality-Affordability Gap in Workplace Mental Health\n In an interview, Kyan Health Co-Founder and Chief Commercial Officer Konstantin Struck discussed how Kyan gives mid-market and enterprise employers access to premium workforce mental healthcare, at a price point that is affordable.\n By Stephanie Baum\nLatigo calls its next pain program, LTG-321, a next-generation NaV1.8 inhibitor. Structural differences from LTG-001 could enable this molecule to lower dosing and once-daily dosing — important features for a chronic medication. This drug is being developed for chronic musculoskeletal pain; osteoarthritis is the lead indication. A placebo-controlled Phase 2 study is underway in knee osteoarthritis; preliminary data are expected in the second half of 2027.\nThe pipeline also includes the preclinical program LTG-418, which the company says could offer substantially lower dosing than either ",
+        "content_length": 9780,
+        "published_time": "Sun, 09 Aug 2026 22:02:34 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 22:02:34 GMT",
+        "url": "https://medcitynews.com/2026/08/latigo-ipo-non-opioid-pain-drug-nav1-8-inhibitor-ltgo-blossomhill-lung-cancer-c797s-blsm/",
+        "source_url": "https://medcitynews.com"
+      },
+      {
+        "title": "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain - SciTechDaily",
+        "source": "SciTechDaily",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:SciTechDaily+10 | 최신:Sun, 09 Aug 2026 15:27:06 GMT+5 | 키워드+30 | 순위:132위+2",
+        "snippet": "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain | Facebook X (Twitter) Instagram | Facebook X (Twitter) Pinterest YouTube RSS | Rare Human Brain Study Reveals How an Alzheimer’s Drug May Prot",
+        "summary_lines": [
+          "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain",
+          "Facebook X (Twitter) Instagram",
+          "Facebook X (Twitter) Pinterest YouTube RSS",
+          "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain",
+          "By Penn Medicine August 9, 2026 No Comments 6 Mins Read"
+        ],
+        "content": "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain\n Close Menu\n Facebook X (Twitter) Instagram\n Facebook X (Twitter) Pinterest YouTube RSS\n Health\nRare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain\n By Penn Medicine August 9, 2026 No Comments 6 Mins Read\n Facebook Twitter Pinterest Telegram LinkedIn WhatsApp Email Reddit\n Share\n Facebook Twitter LinkedIn Pinterest Telegram Email Reddit\n Uneven plaque removal created a natural experiment inside one patient’s brain. The findings suggest that where amyloid persists, other damaging processes may continue to advance. Credit: Stock\n Clearing amyloid plaques may break the chain reaction that fuels brain cell destruction in Alzheimer’s disease.\nOne Alzheimer’s brain offered researchers something they almost never get to see: a natural side-by-side experiment.\nIn some regions, years of anti-amyloid treatment had removed most of the sticky plaques associated with Alzheimer’s disease (AD). Those areas contained little or no tau, the abnormal protein closely tied to neuron loss and cognitive decline. Just millimeters away, neighboring regions where amyloid remained were packed with more tau, inflammation, and signs of continued brain damage.\nThe unusual pattern provides rare human evidence that removing amyloid may do more than reduce plaques. It may also interrupt the chain of biological events that allows Alzheimer’s to spread through the brain.\nResearchers from the Perelman School of Medicine at the University of Pennsylvania presented the findings at the 2026 Alzheimer’s Association International Conference. The report was also published in JAMA .\n“Seeing both disease patterns side by side in the same brain gave us a rare opportunity to understand how amyloid removal affects other proteins that contribute to Alzheimer’s disease,” said co-senior author David Wolk, MD, co-director of the Penn Memory Center and director of the Penn Alzheimer’s Disease Research Center. “The findings provide some of the clearest human evidence to date that anti-amyloid therapies may limit the accumulation of tau and slow the brain changes that lead to memory loss and cognitive decline.”\nWhy Amyloid and Tau Matter\nAlzheimer’s is defined by two major protein abnormalities. Beta-amyloid collects outside neurons and forms plaques, while tau accumulates inside the cells and twists into tangles. Amyloid is thought to appear first, but tau is more closely associated with where neurons are dying and where symptoms are worsening.\nThat distinction has fueled a central debate in Alzheimer’s research over whether removing amyloid also slows the rest of the disease process.\nClinical trials can track memory, brain scans, and biological markers, but they cannot usually show exactly what happened inside individual brain regions over many years. Autopsy studies can provide that level of detail, yet very few people treated with anti-amyloid drugs have donated their brains for examination.\n Two brain regions show persistent amyloid plaque accumulation in the gyri, corresponding to greater tau tangle burden in the same areas. In contrast, the sulci exhibit greater amyloid clearance and, subsequently, reduced tau pathology. Top: Brain section from autopsy stained for beta-amyloid plaque. Bottom: Brain section from autopsy stained for tau tangles. Credit: Penn Health\nThe new report centers on a man in his fifties who had mild cognitive impairment caused by AD. He received 30 doses of aducanumab during a clinical trial over four and a half years. He died about four years after his final dose and more than a decade after his symptoms began.\nBefore his death, he chose to donate his brain to the Center for Neurodegenerative Disease Research within the Department of Pathology and Laboratory Medicine.\nA Patchwork Response to Treatment\nThe examination revealed a patchwork rather than a uniform response.\nThe gyri, the raised ridges of the brain’s folds, had lost most of their amyloid and showed very little tau. In the nearby sulci, the grooves between those ridges, amyloid remained abundant. Those regions also had far more tau, inflammation, and neurodegeneration.\nBrain scans collected while the participant was alive had already shown that the treatment cleared amyloid unevenly. The autopsy allowed researchers to connect that imaging pattern with the later distribution of tau and brain damage.\n“Many previous reports have shown either extensive amyloid clearance or limited clearance,” said co-senior author Edward B. Lee, MD, PhD, the John Q. Trojanowski, MD, PhD Professor for Neurodegenerative Disease Research in Pathology and Laboratory Medicine. “This case represented a unique ‘Goldilocks’ scenario in which some regions cleared amyloid and others did not. It allowed us to directly compare what happened next in neighboring brain regions and better understand the relationship between amyloid, tau, and neurodegeneration.”\nWhat the Findings Could Mean for New Drugs\nAn",
+        "content_length": 8574,
+        "published_time": "Sun, 09 Aug 2026 15:27:06 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 15:27:06 GMT",
+        "url": "https://scitechdaily.com/rare-human-brain-study-reveals-how-an-alzheimers-drug-may-protect-the-brain/",
+        "source_url": "https://scitechdaily.com"
+      },
+      {
+        "title": "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+        "source": "The Spectator",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:The Spectator+10 | 최신:Sun, 09 Aug 2026 09:47:43 GMT+5 | 키워드+30 | 순위:142위+2",
+        "snippet": "Big Pharma wants to sell you psychedelic drugs - The Spectator | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Big Pharma wants to sell you psychedelic drugs - The Spectator",
+        "content_length": 62,
+        "published_time": "Sun, 09 Aug 2026 09:47:43 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 09:47:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPak1LNnV1UEFwSEZ2RjlsTlNQTlY5R0ZmMXBCMVRqUkRNSEV1UGoyTC1hY24tcXRyX3pUYm9WQjVlTlpQQ3ZYUDdxVXJRQkhUWTd3dnpMa0NfUmlGOVRZdHQ0OF9JX2VlcDFWd280LWxMalJvazBiaWU4TWlvQmZfSFZMSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://spectator.com"
+      },
+      {
+        "title": "Watching cancer cells live could open new frontiers in drug discovery: Experts - The Tribune",
+        "source": "The Tribune",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:The Tribune+10 | 최신:Sun, 09 Aug 2026 08:41:38 GMT+5 | 키워드+30 | 순위:154위+2",
+        "snippet": "Watching cancer cells live could open new frontiers in drug discovery: Experts - The Tribune | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Watching cancer cells live could open new frontiers in drug discovery: Experts - The Tribune",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Watching cancer cells live could open new frontiers in drug discovery: Experts - The Tribune",
+        "content_length": 92,
+        "published_time": "Sun, 09 Aug 2026 08:41:38 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 08:41:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnJldWFySGw1UUsxQ2lGcWJvTE5RdUkzYzdUbWlIS2FTN1ZTOWY3YzZMbkh1TjBZODVXYXhRR3BlWHlkWDlGaFJYOG54cnRJVWowNWNUcE9qbmhTU3JNSG5zVWdldTBwbzk0WklkOGtFSk5nbktHQVltNlNaLTM2bG5xVlREUmdOZmo1YkJHN1ZTRE53Tk5WX0lzYVhsSUE0a1g5Wk9VeW8yalFRZEs4anktY3dQQ253OFHSAb8BQVVfeXFMT1BoQTQyUUR3bURFS09OT2tTZ3lJcGtyRmI1anlURVhJQ1BOOWJZMWgwNVdNVmZ2MWxvX2tvQzl6WkhyalFyOXRyS0hJNzVOemJyX0VQQVV0U2NucW5kNHpnNzJaQ3hmRmI4OXJ0R3RQaTdaWDlyYWFvSG9OSDBWMW4zM1dzYWpzQzJzVmhST2p5aEJPZHJLS0QzMXFSc1ZmS2dNbk5yZHNDQmxqakttcGFqN2xDa2R1OHIwVHkwd00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.tribuneindia.com"
+      },
+      {
+        "title": "Studying Live Cancer Cells Could Transform Drug Discovery; Researchers Turn Cell Biology Into ‘Live Cinema’ - Health and Me",
+        "source": "Health and Me",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Health and Me+10 | 최신:Sun, 09 Aug 2026 11:30:00 GMT+5 | 키워드+30 | 순위:156위+2",
+        "snippet": "Studying Live Cancer Cells Could Transform Drug Discovery; Researchers Turn Cell Biology Into ‘Live Cinema’ - Health and Me | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Studying Live Cancer Cells Could Transform Drug Discovery; Researchers Turn Cell Biology Into ‘Live Cinema’ - Health and Me",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Studying Live Cancer Cells Could Transform Drug Discovery; Researchers Turn Cell Biology Into ‘Live Cinema’ - Health and Me",
+        "content_length": 123,
+        "published_time": "Sun, 09 Aug 2026 11:30:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 11:30:00 GMT",
+        "url": "https://www.msn.com/en-in/news/other/studying-live-cancer-cells-could-transform-drug-discovery-researchers-turn-cell-biology-into-live-cinema/ar-AA29HHSm?ocid=BingNewsVerp",
+        "source_url": "https://www.healthandme.com"
+      },
+      {
+        "title": "Watching cancer cells live could transform drug discovery - Bilkul Online",
+        "source": "Bilkul Online",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Bilkul Online+10 | 최신:Sun, 09 Aug 2026 09:58:02 GMT+5 | 키워드+30 | 순위:160위+2",
+        "snippet": "Watching cancer cells live could transform drug discovery - Bilkul Online | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Watching cancer cells live could transform drug discovery - Bilkul Online",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Watching cancer cells live could transform drug discovery - Bilkul Online",
+        "content_length": 73,
+        "published_time": "Sun, 09 Aug 2026 09:58:02 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 09:58:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnZHR0FzZDdaUHpsZEhfV0dVRmJvVngwc2VMeFVoZW9aYzYtQ1RnNDNlbzV6MWwyNF9QeTg0MVFPWFVVZ1pmSzFOcEszcTJ0RlpjaTU5YkEtNG9aNHJJR1hFZXhkSjg0YUVNSjk4eUJKS2JjX3YwTXp0Tms3UWVLYWwwV1FZTW5BcHktRmZhclJUUkJreEdDZk1n?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://bilkulonline.com"
+      },
+      {
+        "title": "Gland Pharma Stock in Focus: Company Signs Strategic CDMO Deal, Revenue Potential of $100 Million - Legal Parivar",
+        "source": "Legal Parivar",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Legal Parivar+10 | 최신:Sun, 09 Aug 2026 12:37:13 GMT+5 | 키워드+30 | 순위:298위+2",
+        "snippet": "Gland Pharma Stock in Focus: Company Signs Strategic CDMO Deal, Revenue Potential of $100 Million - Legal Parivar | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Gland Pharma Stock in Focus: Company Signs Strategic CDMO Deal, Revenue Potential of $100 Million - Legal Parivar",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Gland Pharma Stock in Focus: Company Signs Strategic CDMO Deal, Revenue Potential of $100 Million - Legal Parivar",
+        "content_length": 113,
+        "published_time": "Sun, 09 Aug 2026 12:37:13 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 12:37:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmFPdEN4VXBUUV9GNkktRmVWWEdxaVhZeTJSR0I3OEpVRU9KN00ycG42MDVMVWMyVm1NcnNnbTdqNzRfQ01qXzdnN3pIYnd2cjdxaDhMbjZTVzIzMms4VElzcTZLN242UW5wdG8yelJEaUJRbHRpcFA2RXBKMVlrbXFpUFFVRW9pdWVIUjYzX2hVTGJpR2dxZWwtYWZnS1hXUnBNdDBlVGZxTWJtVXczLUc2TmwtSTA2X1JtYXNrbTh2R2s?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://news.legalparivar.com"
+      },
+      {
+        "title": "Why Tarsus Pharmaceuticals (TARS) Is Up 9.7% After Raising XDEMVY 2026 Sales Guidance And Acquiring Alkeus - simplywall.st",
+        "source": "simplywall.st",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:simplywall.st+10 | 최신:Sun, 09 Aug 2026 08:50:32 GMT+5 | 키워드+30 | 순위:300위+2",
+        "snippet": "Why Tarsus Pharmaceuticals (TARS) Is Up 9.7% After Raising XDEMVY 2026 Sales Guidance And Acquiring Alkeus - simplywall.st | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Why Tarsus Pharmaceuticals (TARS) Is Up 9.7% After Raising XDEMVY 2026 Sales Guidance And Acquiring Alkeus - simplywall.st",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Why Tarsus Pharmaceuticals (TARS) Is Up 9.7% After Raising XDEMVY 2026 Sales Guidance And Acquiring Alkeus - simplywall.st",
+        "content_length": 122,
+        "published_time": "Sun, 09 Aug 2026 08:50:32 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 08:50:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWkNTNDdNT3hYZFQ2d25pMktYZTR5Y2hiRUM3V3ZuWUNDZXladTl6bFFOcDlPbDYwLWtxQ3VYQWtjaVFwMGZnMWs3QllvaDNBNy05S3hVYzVuM3pfM1FNMElWTzhRWjJ4a09BZnNYN2hnZDNVZ0d6Zkpad2xsaHlzR0ZFZldYY2V5dWZYMFotWm43b1BobmphTjBqOWxVR1UySHVlUDFDbDRQS1dqbFItTkQ1U2hkQ1UwSUlTZG8yWnZQR0owb2ViRi1ZRU1UeXlwbEhLUXMzTjVjN2VIT1lzZlQyUWloTUZOdW90MdIB8gFBVV95cUxOclA2dEVOS1VEMkpoVEVmZXlvelY3bVp1QVpyNEtiamhjenhPN1l6c0JyQjJUbUljRGstTFEyZmlfbmY1eGcyRFFfQ2w1cFRUZGRFRzFpcEZDU1M3OEZ2LWw2QndpN3ZhbUhNNVptRnV3OF9UTEZyNDh6MWlfV0pSOEtJQnI0MUItLTlkUFBmRWhHTEJ1VHhNSmVKYk1Cczc5NGdwbVkxRUY3MG5QQ1U5aFdWc1pVWi1JcHJLdDVCa3NiZGtvMl9GN0pqVEItbnNrM01mRmZGMDhBTC1WajZwQWd1TVpFWldCNzN6V21icWdMQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://simplywall.st"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        3
+      ],
+      [
+        "shortage",
+        2
+      ],
+      [
+        "biosimilar",
+        2
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "IndexBox",
+        17
+      ],
+      [
+        "simplywall.st",
+        5
+      ],
+      [
+        "AOL.com",
+        5
+      ],
+      [
+        "Chosunbiz",
+        3
+      ],
+      [
+        "BioSpace",
+        3
+      ],
+      [
+        "MedCity News",
+        2
+      ],
+      [
+        "finance.biggo.com",
+        2
+      ],
+      [
+        "openPR.com",
+        2
+      ],
+      [
+        "sekbernews.id",
+        2
+      ],
+      [
+        "富途牛牛",
+        2
+      ],
+      [
+        "The Economic Times",
+        2
+      ],
+      [
+        "AD HOC NEWS",
+        2
+      ],
+      [
+        "Dailyhunt",
+        2
+      ],
+      [
+        "PharmaDispatch",
+        2
+      ],
+      [
+        "The Times of India",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 68,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 6,
+      "Italian / 이탈리아어": 3,
+      "Portuguese / 포르투갈어": 7,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 5,
+      "Russian / 러시아어": 8,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 4,
+      "Chinese Traditional / 대만": 0,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Var medveten om risken för leverskador vid självmedicinering med naturläkemedel. - vietnam.vn",
+        "source": "vietnam.vn",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:vietnam.vn+10 | 최신:Mon, 10 Aug 2026 04:46:36 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "Var medveten om risken för leverskador vid självmedicinering med naturläkemedel. | - vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Var medveten om risken för leverskador vid självmedicinering med naturläkemedel.",
+          "- vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Var medveten om risken för leverskador vid självmedicinering med naturläkemedel. - vietnam.vn",
+        "content_length": 93,
+        "published_time": "Mon, 10 Aug 2026 04:46:36 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 04:46:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeEFFdU11N3ZPRTBOdWZ1dkxjMHY2X09oYkdZU1dKX3NtbUtySThQSzV5Z09iN0dkXzkzOUdrUG9CWENrb04xNjFEM190OWdKMVZQM2ptOFRGSXdnbnNMY3hobVpZdVlNUUZpYXhJN1dkOGEySWpTOXI3clRqV3M1VHBvRFhuZEdSaUQtQ0w3T3RXUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Kemik ve eklem hastalıkları için geleneksel bitkisel ilaçlarla kendi kendine tedavi uygulamanın karaciğer hasarı riski. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Mon, 10 Aug 2026 00:29:12 GMT+5 | 키워드+30 | 순위:6위+15",
+        "snippet": "Kemik ve eklem hastalıkları için geleneksel bitkisel ilaçlarla kendi kendine tedavi uygulamanın karaciğer hasarı riski. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Kemik ve eklem hastalıkları için geleneksel bitkisel ilaçlarla kendi kendine tedavi uygulamanın karaciğer hasarı riski.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Kemik ve eklem hastalıkları için geleneksel bitkisel ilaçlarla kendi kendine tedavi uygulamanın karaciğer hasarı riski. - Vietnam.vn",
+        "content_length": 132,
+        "published_time": "Mon, 10 Aug 2026 00:29:12 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 00:29:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGFyUlBITW9aUFRTTTVNa3BmWTc1M3lBakNwcDJ0UnpkZW4wUDBNWUQ5c2JOMEVmLXFLZzFTemhib0RHMVNUNXI1QWFlZ2JCX0tyTkhvSW4yOGI0c2dTTXh3TVVnUW1pcUdwOHMzd3V2UlNqbnZ3QkJFQ1FhU2YxNnF6UmxOZElpNlFpc3Nzb1BLOUV5dnpLbk42N2JjRFlP?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Sağlık Bakanlığı, piyasaya sürülecek ilaçların ve ilaç hammaddelerinin kayıt altına alınmasına ilişkin en son düzenlemeleri yayınladı. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Mon, 10 Aug 2026 03:52:22 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "Sağlık Bakanlığı, piyasaya sürülecek ilaçların ve ilaç hammaddelerinin kayıt altına alınmasına ilişkin en son düzenlemeleri yayınladı. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Sağlık Bakanlığı, piyasaya sürülecek ilaçların ve ilaç hammaddelerinin kayıt altına alınmasına ilişkin en son düzenlemeleri yayınladı.",
+          "- Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Sağlık Bakanlığı, piyasaya sürülecek ilaçların ve ilaç hammaddelerinin kayıt altına alınmasına ilişkin en son düzenlemeleri yayınladı. - Vietnam.vn",
+        "content_length": 147,
+        "published_time": "Mon, 10 Aug 2026 03:52:22 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 03:52:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeEkzQzhVN3lpcjlreVUyUzg5SHdVcC1fU3hVcDNjeGIzbzBGZm5xelFEZklzX3llOUVsY21qQmd1UmZNTnNkeldDR2FEd3hpZU9IVW5EWE1ieUEzQ2MwUzBPMmJ4TGJla3p4WmhSaGpBcDZZVFBfQkFHeUE1QlFQZDhtQTRIWS1DSmVrZmk0dmU5cTJXX0xFUVltSVZLczlZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "เสริมสร้างจริยธรรมและคุณวุฒิของบุคลากรด้านการบริหารจัดการในอุตสาหกรรมยา - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Mon, 10 Aug 2026 04:08:09 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "เสริมสร้างจริยธรรมและคุณวุฒิของบุคลากรด้านการบริหารจัดการในอุตสาหกรรมยา - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "เสริมสร้างจริยธรรมและคุณวุฒิของบุคลากรด้านการบริหารจัดการในอุตสาหกรรมยา - Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "เสริมสร้างจริยธรรมและคุณวุฒิของบุคลากรด้านการบริหารจัดการในอุตสาหกรรมยา - Vietnam.vn",
+        "content_length": 84,
+        "published_time": "Mon, 10 Aug 2026 04:08:09 GMT",
+        "modified_time": "",
+        "time": "Mon, 10 Aug 2026 04:08:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTm5zSnloeHNRSS16OUQtM3RmUlF1TW01cUZXbmJTd0VrVWlNU0hlWXRZWWxjSlVGQkhUaDRhN2xjYWVVRHR2b1RRbVM2SFpxRnBacG1hYjVyWXkybGZBMDZvaW55MXpYQUd5R0U2NEFaQmxVUnRsbFFGbnhpLTVMN3hsVjViUWc0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi - RM.ID",
+        "source": "RM.ID",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:RM.ID+10 | 최신:Sun, 09 Aug 2026 14:05:26 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi - RM.ID | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi - RM.ID",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Pemanfaatan Kecerdasan Buatan dalam Transformasi Industri Farmasi - RM.ID",
+        "content_length": 73,
+        "published_time": "Sun, 09 Aug 2026 14:05:26 GMT",
+        "modified_time": "",
+        "time": "Sun, 09 Aug 2026 14:05:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbHZVZV9sVDdJcklZVHNYSGVGVlpXS1hCS1BWU1c2RWFZVEZvOHpmMmNqZHkzQWIwa1JrVHJ1SWhaampRaE5HY3J6VlNXbTBwaGVKeGRfaFVlRWxUeDh1Q3lkTW0wczFtLV81UGtuRDFrN2RmMFFkTEw0Q3RqRFFfTjNFbVBteFRuY1RHTjZnTEEtV3YtU05mX2hnOTVnWVlOTjZvRXZEMVcyUURx?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://rm.id"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        21
+      ],
+      [
+        "atlaspublico.com.br",
+        2
+      ],
+      [
+        "Báo Dân trí",
+        2
+      ],
+      [
+        "Whalesbook",
+        2
+      ],
+      [
+        "Blick",
+        1
+      ],
+      [
+        "sumedico.com",
+        1
+      ],
+      [
+        "EL CEO",
+        1
+      ],
+      [
+        "ABCNoticias.mx",
+        1
+      ],
+      [
+        "eltiempomx.com",
+        1
+      ],
+      [
+        "Imagen de Veracruz",
+        1
+      ],
+      [
+        "Diario del Istmo",
+        1
+      ],
+      [
+        "eventi.news",
+        1
+      ],
+      [
+        "Âncora 1",
+        1
+      ],
+      [
+        "Valor Econômico",
+        1
+      ],
+      [
+        "diariodepernambuco.com.br",
+        1
+      ]
+    ]
+  }
+}
