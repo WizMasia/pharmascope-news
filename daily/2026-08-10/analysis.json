@@ -1,0 +1,233 @@
+{
+  "date": "2026-08-10",
+  "total_articles": 334,
+  "language_breakdown": {
+    "korean": {
+      "total": 155,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 20,
+        "의약정책": 18,
+        "의약단체": 9,
+        "의약관련정부기관": 13,
+        "의료현장": 25,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 14
+      }
+    },
+    "english": {
+      "total": 111,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 10,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 68,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 6,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 7,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 1,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "허가·승인·식약처 실무가 다시 뉴스의 중심으로",
+      "domain": "regulatory",
+      "significance": "medium",
+      "emoji": "🏛️",
+      "article_count": 3,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "mRNA 독감백신 허가…‘엠플루시바’ 80만명 검증대 오른다",
+          "source": "약업닷컴",
+          "importance": 56,
+          "url": "https://www.yakup.com/news/index.html?mode=view&cat=all&nid=330848"
+        },
+        {
+          "title": "FGFR 저해제 내성 대응 담관암 신약 中서 허가 - 약업신문",
+          "source": "약업신문",
+          "importance": 27,
+          "url": "http://www.yakup.com"
+        },
+        {
+          "title": "허가 넘어 특허전략까지…식약처, 제약사 ‘허가특허연계’ 실무 역량 끌어올린다 - 약사공론",
+          "source": "약사공론",
+          "importance": 37,
+          "url": "https://www.kpanews.co.kr"
+        }
+      ],
+      "summary_kr": "mRNA 독감백신 허가, 중국 담관암 신약 허가, 식약처 허가특허연계 교육이 한꺼번에 잡히며 규제·허가 실무가 다시 시장의 핵심 변수로 부각됐다.",
+      "summary_en": "Licensing, approvals, and patent-linkage execution are back at the center of market-moving pharma news."
+    },
+    {
+      "topic": "신약 발견·공급 부족이 항암/희귀질환 파이프라인을 동시에 흔듦",
+      "domain": "drug",
+      "significance": "high",
+      "emoji": "💊",
+      "article_count": 4,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "New drug delivers promising survival gains in pancreatic cancer - News-Medical",
+          "source": "News-Medical",
+          "importance": 47,
+          "url": "https://www.news-medical.net"
+        },
+        {
+          "title": "Rare Human Brain Study Reveals How an Alzheimer’s Drug May Protect the Brain - SciTechDaily",
+          "source": "SciTechDaily",
+          "importance": 47,
+          "url": "https://scitechdaily.com"
+        },
+        {
+          "title": "Latigo Bio’s IPO Lands $346M for Pipeline of Non-Opioid Pain Drugs - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "url": "https://medcitynews.com"
+        },
+        {
+          "title": "A shortage of two Sanofi medicines for Pompe disease rattles patients - STAT",
+          "source": "STAT",
+          "importance": 27,
+          "url": "https://www.statnews.com"
+        }
+      ],
+      "summary_kr": "췌장암·알츠하이머·비마약성 진통제 파이프라인이 이어지는 한편, 폼페병 치료제 공급 부족은 제조·공급 안정성이 신약 가치의 전제조건임을 보여줬다.",
+      "summary_en": "Discovery momentum and supply fragility are moving together; clinical promise still depends on manufacturing reliability."
+    },
+    {
+      "topic": "보험재정과 약가 협상이 특수의약품 접근성의 핵심 변수로 부상",
+      "domain": "policy",
+      "significance": "medium",
+      "emoji": "📋",
+      "article_count": 3,
+      "avg_importance": 36,
+      "key_articles": [
+        {
+          "title": "건강보험 1분기 4조 적자…‘6년 연속 흑자’ 흔들 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr"
+        },
+        {
+          "title": "\"복제약 거품 제거\"…제약업계, 약가인하發 수익성 우려 \"끌탕\" - 청년일보",
+          "source": "청년일보",
+          "importance": 27,
+          "url": "https://www.youthdaily.co.kr"
+        },
+        {
+          "title": "환자단체 \"파드셉-키트루다 병용요법 약가협상 마무리하라\" - 데일리팜",
+          "source": "데일리팜",
+          "importance": 37,
+          "url": "https://www.dailypharm.com"
+        }
+      ],
+      "summary_kr": "건보 적자, 제네릭 약가인하, 환자단체의 약가협상 압박이 동시에 보이며, 급여·가격 설계가 시장 확대의 전제가 됐다.",
+      "summary_en": "Coverage and pricing pressure are now the main gating factors for specialty-drug access and expansion."
+    },
+    {
+      "topic": "바이오시밀러 생산·실적·자본조달이 글로벌 산업 모멘텀을 형성",
+      "domain": "industry",
+      "significance": "medium",
+      "emoji": "🏭",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Kyungdong Pharmaceutical and Asimov Announce Completion of Cell Line Development Campaign for Biosimilar Antibody - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "url": "https://www.manilatimes.net"
+        },
+        {
+          "title": "Q1 Results Today, August 10: Bharat Forge, Bosch, Gland Pharma, Vodafone Idea Among Key Companies; Full List - Goodreturns",
+          "source": "Goodreturns",
+          "importance": 42,
+          "url": "https://www.goodreturns.in"
+        }
+      ],
+      "summary_kr": "바이오시밀러 생산 캠페인과 제약 실적 뉴스가 함께 나오며, 시장은 R&D보다도 생산성과 현금흐름을 다시 보게 됐다.",
+      "summary_en": "Biosimilar manufacturing progress and earnings updates keep execution, not just science, in focus."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 1,
+      "significance": "high"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 1,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 7,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "일본어·중국어 번체·페르시아어는 이번 수집에서도 0건으로 남아 다국어 폭이 제한적이었다.",
+    "베트남/터키어 전통의학·의약품 등록 기사는 다수 title_only/Google fallback 상태여서 이슈 클러스터 신뢰도는 낮았다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "총 기사 287건 → 334건 (+47)",
+      "한영 교차 후보 4개",
+      "클러스터 4개, 미분류 10건"
+    ],
+    "changes": [
+      "오늘은 허가·승인과 보험/약가 압박이 국내 뉴스 축을 형성했고, 글로벌 쪽은 신약 발견과 공급 부족이 동시에 부각됐다.",
+      "다국어 영역은 베트남·인도네시아·러시아어 비중이 여전히 높지만, 전통의학과 등록 규제는 headline보다 fallback 비중이 커 후속 해석이 필요하다."
+    ]
+  },
+  "connections": [
+    {
+      "from": "허가·승인·식약처 실무가 다시 뉴스의 중심으로",
+      "to": "보험재정과 약가 협상이 특수의약품 접근성의 핵심 변수로 부상",
+      "reason": "승인만으로 끝나지 않고 급여·가격 설계가 뒤따라야 실제 시장 진입이 가능하기 때문."
+    },
+    {
+      "from": "신약 발견·공급 부족이 항암/희귀질환 파이프라인을 동시에 흔듦",
+      "to": "바이오시밀러 생산·실적·자본조달이 글로벌 산업 모멘텀을 형성",
+      "reason": "연구 성과와 생산 역량, 자본조달이 함께 맞물려야 파이프라인 가치가 실현되기 때문."
+    }
+  ],
+  "generated_at": "2026-08-10T16:38:49.726162+09:00"
+}
