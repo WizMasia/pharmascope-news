@@ -20,16 +20,17 @@ Google News RSS 검색 (발견·메타데이터)
         └─ 범주별 중요도 점수화
         │
         ▼
-Google RSS 기사별 Bing News 재검색
+Google RSS URL → 직접 URL 해석
         │
-        ├─ 제목 유사도 + 출처 일치 + 직접 URL 점수화
-        ├─ 70점 이상이면 언론사 직접 URL 채택
+        ├─ 1순위: googlenewsdecoder (CBM protobuf 디코딩, ~100% 성공)
+        ├─ 2순위: Bing News 제목 매칭 (70점 이상)
         └─ 실패 시 Google RSS URL을 fallback 상태로 보존
         │
         ▼
-직접 URL 정적 HTML(curl) 본문 추출
+직접 URL 본문 추출 (selectolax 기반)
         │
-        ├─ HTML 본문 텍스트 추출
+        ├─ JSON-in-script (Fusion.globalContent, __NEXT_DATA__) 추출
+        ├─ article body CSS 선택자로 본문 영역 파싱
         ├─ og:description/meta description 보조
         └─ 본문·제목 fallback 여부 상태 기록
         │
@@ -44,12 +45,12 @@ GitHub `WizMasia/pharmascope-news` 동기화
 
 | 단계 | 실제 구현 | 역할 |
 |---|---|---|
-| 기사 발견 | `GoogleNewsRSSAdapter` | 검색어별 RSS에서 제목·출처·발행시각·snippet·Google RSS URL 획득 |
-| 수량 보충 | `BingNewsHTMLAdapter` | Google 결과가 범주별 목표 수에 못 미칠 때 보조 수집 |
-| 직접 URL 확보 | `google_bing_bridge.resolve_via_bing()` | Google 기사 제목을 Bing News에서 재검색해 동일 기사 후보 선택 |
-| 본문 수집 | `fetch_fulltext()` | `curl`로 정적 HTML을 받고 불필요 태그 제거 후 텍스트화 |
+|| 기사 발견 | `GoogleNewsRSSAdapter` | 검색어별 RSS에서 제목·출처·발행시각·snippet·Google RSS URL 획득 |
+|| 수량 보충 | `BingNewsHTMLAdapter` | Google 결과가 범주별 목표 수에 못 미칠 때 보조 수집 |
+|| 직접 URL 확보 | `google_bing_bridge.resolve_google_news_url()` | googlenewsdecoder(1순위) → Bing 매칭(2순위) |
+|| 본문 수집 | `fetch_fulltext()` → `_strip_html_selectolax()` | selectolax 기반 본문 추출 + JSON-in-script 지원 |
 
-따라서 현행 구조는 **Google 발견 → Bing 직접 URL 매칭 → 정적 본문 추출**이다. Bing은 최초 수집의 보조 소스이면서 Google URL을 교체하는 URL 확보 소스이다.
+현행 구조는 **Google 발견 → googlenewsdecoder 직접 URL 해석 → selectolax 본문 추출**이다. googlenewsdecoder가 CBM protobuf를 서버에서 직접 해석해 ~100% 성공률을 보이며, 실패 시 Bing 제목 매칭으로 fallback한다. 본문 추출은 selectolax 파서로 article body CSS 선택자를 사용하고, Fusion.globalContent / __NEXT_DATA__ 등 JSON-in-script 패턴도 처리한다.
 
 ## 3. 수집 주제와 검색 구성
 
@@ -151,9 +152,10 @@ Bing 후보 점수는 다음과 같다.
 
 | 필드/상태 | 의미 |
 |---|---|
-| `url_source=bing_match` | Bing 매칭으로 직접 언론사 URL 확보 |
-| `url_source=original_direct` | 처음부터 직접 URL |
-| `url_source=google_url_fallback` | Bing 매칭 실패로 Google RSS URL이 남음 |
+|| `url_source=decoder` | googlenewsdecoder로 Google CBM URL을 직접 언론사 URL로 해석 |
+|| `url_source=bing_match` | Bing 매칭으로 직접 언론사 URL 확보 (decoder 실패 시 fallback) |
+|| `url_source=original_direct` | 처음부터 직접 URL |
+|| `url_source=google_url_fallback` | decoder·Bing 모두 실패로 Google RSS URL이 남음 |
 | `content_status=fulltext` | 제목보다 충분한 길이의 본문 확보 |
 | `content_status=title_only` | 본문 확보 실패 또는 제목 수준 텍스트만 존재 |
 | `content_status=failed` | URL/본문 처리 실패 |

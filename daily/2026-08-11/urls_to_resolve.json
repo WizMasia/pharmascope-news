@@ -1,0 +1,8 @@
+{
+  "articles": [],
+  "meta": {
+    "date": "2026-08-11",
+    "total": 0,
+    "instructions": "For each article: browser_navigate(rss_url) → browser_console(\"window.location.href\") → save actual_url"
+  }
+}

@@ -10,10 +10,11 @@ Google News RSS 발견 → 시간/중복 필터 → Bing 동일 기사 매칭
 ```
 
 - Google News RSS: 기사 발견과 메타데이터 수집
-- Bing News: Google RSS 기사와 동일한 직접 언론사 URL 확보, 수집 부족 시 보조 소스
-- 본문 수집: `curl` 정적 HTML 우선
+- googlenewsdecoder: Google CBM URL을 직접 언론사 URL로 해석 (1순위, ~100% 성공)
+- Bing News: decoder 실패 시 URL 매칭 fallback, 수집 부족 시 보조 소스
+- 본문 수집: selectolax 기반 파싱 (JSON-in-script, CSS 선택자 지원)
 - 중요도: 정수 기반 0~100점
-- URL 매칭: 제목 유사도·출처 일치·직접 URL을 합산하고 70점 이상만 채택
+- URL 매칭: decoder 우선 → Bing 제목 유사도·출처 일치·직접 URL 합산 70점 이상 fallback
 
 ## 운영 문서
 
