@@ -1,0 +1,787 @@
+{
+  "date": "2026-08-11",
+  "total_articles": 436,
+  "language_breakdown": {
+    "korean": {
+      "total": 209,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 8,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 98,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 9,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 29
+    },
+    {
+      "keyword": "허가",
+      "count": 12
+    },
+    {
+      "keyword": "급여",
+      "count": 10
+    },
+    {
+      "keyword": "ADC",
+      "count": 10
+    },
+    {
+      "keyword": "FDA",
+      "count": 9
+    },
+    {
+      "keyword": "한약",
+      "count": 7
+    },
+    {
+      "keyword": "약가",
+      "count": 6
+    },
+    {
+      "keyword": "식약처",
+      "count": 5
+    },
+    {
+      "keyword": "특허",
+      "count": 5
+    },
+    {
+      "keyword": "R&D",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 2
+    },
+    {
+      "keyword": "임상",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 20
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 9
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "safety",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 13
+    },
+    {
+      "source": "데일리팜",
+      "count": 9
+    },
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "뉴시스",
+      "count": 7
+    },
+    {
+      "source": "의약뉴스",
+      "count": 6
+    },
+    {
+      "source": "청년의사",
+      "count": 6
+    },
+    {
+      "source": "히트뉴스",
+      "count": 5
+    },
+    {
+      "source": "뉴스1",
+      "count": 5
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 4
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 5
+    },
+    {
+      "source": "Medical Daily",
+      "count": 4
+    },
+    {
+      "source": "The Economic Times",
+      "count": 4
+    },
+    {
+      "source": "TradingView",
+      "count": 4
+    },
+    {
+      "source": "IndexBox",
+      "count": 3
+    },
+    {
+      "source": "stocktitan.net",
+      "count": 3
+    },
+    {
+      "source": "Endpoints News",
+      "count": 2
+    },
+    {
+      "source": "Fierce Pharma",
+      "count": 2
+    },
+    {
+      "source": "Drug Science",
+      "count": 2
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "허가·승인·식약처 실무가 다시 뉴스의 중심으로",
+    "신약 발견·공급 부족이 항암/희귀질환 파이프라인을 동시에 흔듦",
+    "보험재정과 약가 협상이 특수의약품 접근성의 핵심 변수로 부상",
+    "바이오시밀러 생산·실적·자본조달이 글로벌 산업 모멘텀을 형성"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "keywords": [
+        "fda",
+        "FDA",
+        "medical",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "美 FDA, 식품 새 성분 '사전 공개' 의무화…초가공식품 규제는 또 미뤘다 - ebn.co.kr",
+          "source": "ebn.co.kr",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "메릴랜드주 실버스프링에 있는 미국 식품의약국(FDA) 사무실 외부에 FDA를 알리는 표지판이 걸려 있다. | 미국 정부가 식품업체가 새로운 성분을 사용할 때 미 식품의약국(FDA)에 이를 의무적으로 알리도록 하는 규제안을 내놨다. | 케네디 주니어 보건복지부 장관이 추진해온 식품 규제 강화의 첫 단계다. | 다만 핵심 정책으로 꼽혔던 '초가공식품'의 공식 정의 발표는 다시 연기됐다. | 월스",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Mon, 10 Aug 2026 21:48:48 GMT",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1719850"
+        },
+        {
+          "title": "Two countries, two different approaches to the use of medical psilocybin - Drug Science",
+          "source": "Drug Science",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Written by Anish Marella | Australia approved the use of psilocybin for treatment-resistant depression in 2023, | becoming the first nation to formally integrate the drug into clinical practice | New Zealand, by contrast",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 11 Aug 2026 01:13:43 GMT",
+          "url": "https://www.drugscience.org.uk/australia-new-zealand-psilocybin"
+        },
+        {
+          "title": "New melanoma drug based on herpes virus granted FDA accelerated approval - Medical Xpress",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "(+contact-url) | Example: MyBot/1.0 (+https://example.com/contact) | If you have a legitimate interest in crawling our site, please contact us | to request whitelisting. | Properly identified bots may be granted access",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 11 Aug 2026 00:20:04 GMT",
+          "url": "https://medicalxpress.com/news/2026-08-melanoma-drug-based-herpes-virus.html"
+        },
+        {
+          "title": "Two countries, two different approaches to the use of medical psilocybin - Drug Science",
+          "source": "Drug Science",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Written by Anish Marella | Australia approved the use of psilocybin for treatment-resistant depression in 2023, | becoming the first nation to formally integrate the drug into clinical practice | New Zealand, by contrast",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 11 Aug 2026 01:13:43 GMT",
+          "url": "https://www.drugscience.org.uk/australia-new-zealand-psilocybin"
+        },
+        {
+          "title": "New melanoma drug based on herpes virus granted FDA accelerated approval - Medical Xpress",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "(+contact-url) | Example: MyBot/1.0 (+https://example.com/contact) | If you have a legitimate interest in crawling our site, please contact us | to request whitelisting. | Properly identified bots may be granted access",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 11 Aug 2026 00:20:04 GMT",
+          "url": "https://medicalxpress.com/news/2026-08-melanoma-drug-based-herpes-virus.html"
+        },
+        {
+          "title": "로엔서지컬, 신장결석 수술로봇 ‘자메닉스’ 美 FDA 허가 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "국내 수술로봇 기업 로엔서지컬은 신장결석 수술로봇 ‘자메닉스(Zamenix™ P)’가 미국 식품의약국(FDA)의 의료기기 510(k) 허가를 획득했다고 11일 밝혔다. | AI 기반 연성요관내시경 신장결석 수술로봇으로는 세계 첫 FDA 허가 사례라고 회사는 설명했다. | 자메닉스는 FDA 의료기기 분류상 Class II(2등급) 제품으로, 미국 시장에서 판매·공급할 수 있는 자격을 확보했다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Tue, 11 Aug 2026 00:14:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/11/YITHCPYRUBEMJP5VCQF4YNSBHQ/"
+        },
+        {
+          "title": "국립대병원 주무부처 교육부→복지부…20일부터 공식 이관 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "국립대학병원과 국립대학치과병원의 소관 부처가 교육부에서 보건복지부로 넘어간다. | 국립대병원을 교육·연구뿐 아니라 지역·필수·공공의료를 책임지는 지역 거점병원으로 육성하기 위한 조치다. | 보건복지부와 교육부는 11일 국무회의에서 이 같은 내용의 ‘국립대학병원 설치법 시행령’과 ‘국립대학치과병원 설치법 시행령’ 개정안을 의결했다고 밝혔다. | 앞서 국립대학병원과 국립대학치과병원의 소관 부처를",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Tue, 11 Aug 2026 05:34:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/11/R6VYYPLSERDATDOMIQP7DQQDMU/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 7,
+      "keywords": [
+        "k-space",
+        "space",
+        "station",
+        "개최",
+        "한국제약바이오협회",
+        "adc",
+        "ADC"
+      ],
+      "articles": [
+        {
+          "title": "제약바이오협회, 20일 'K-SPACE STATION' 개최…차세대 ADC 기술 공유 - asiae.co.kr",
+          "source": "asiae.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "차세대 ADC 개발 전략·제조·분석 플랫폼 소개 | 트리오어·프로티움사이언스 기술 발표 및 협력 논의 | 한국제약바이오협회는 오는 20일 서울 서초구 협회 회관에서 제10회 'K-SPACE STATION'을 개최한다고 11일 밝혔다. | 한국제약바이오협회 기업 로고 이미지. | 이번 행사는 차세대 항체-약물접합체(ADC)를 주제로 개발 전략과 제조·분석 플랫폼 등 관련 기술을 공유하고 기업 ",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 00:38:19 GMT",
+          "url": "https://www.asiae.co.kr/article/2026081109381924235"
+        },
+        {
+          "title": "Pharma-Bio Association to Hold 'K-SPACE STATION' on August 20... Sharing Next-Generation ADC Technology - 아시아경제",
+          "source": "아시아경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Next-Generation ADC Development Strategies, Manufacturing, and Analytical Platforms Introduced | Technical Presentations by Trioher and Protium Science, and Discussions on Collaboration | The Korea Pharmaceutical and Bio",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 11 Aug 2026 00:38:19 GMT",
+          "url": "https://www.asiae.co.kr/en/article/bio-health/2026081109381924235"
+        },
+        {
+          "title": "한국제약바이오협회, 제10회 ‘K-SPACE STATION’ 개최 - 약업신문",
+          "source": "약업신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회(회장 노연홍)는 오는 8월 20일 서울 서초구 협회 회관에서 제10회 ‘K-SPACE STATION’을 개최한다.오픈 이노베이션 생태계 활성화를 목적으로 하는 ‘K-SPACE STATION’은 산·학·연의 기초기술과... | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 00:42:00 GMT",
+          "url": "https://www.yakup.com/news/index.html?mode=view&pmode=&cat=12&cat2=&nid=330937&num_start="
+        },
+        {
+          "title": "한국제약바이오협회, 20일 'K-SPACE STATION' 개최 - 뉴스1",
+          "source": "뉴스1",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회, 20일 'K-SPACE STATION' 개최 | 2026.08.11 오후 02:15 | 구글에서 뉴스1 즐겨찾기 | 구글에서 뉴스1 즐겨찾기 | 코어라인소프트, 美 세인트조셉스 헬스에 흉부CT AI 구축",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 05:15:15 GMT",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6255494"
+        },
+        {
+          "title": "한국제약바이오협회, 제 10회 K-SPACE STATION 개최…차세대 ADC 기술 공유 - 아주경제",
+          "source": "아주경제",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회 전경[사진=한국제약바이오협회] | 한국제약바이오협회가 차세대 항체-약물접합체(ADC) 기술과 협력 방안을 공유하는 기술 교류의 장을 마련한다. | 협회는 오는 20일 서울 서초구 협회 회관에서 제10회 'K-SPACE STATION'을 개최한다고 11일 밝혔다. | K-SPACE STATION은 오픈 이노베이션 생태계 활성화를 위해 산·학·연의 기초·원천기술과 우수기술을 공",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 01:34:06 GMT",
+          "url": "https://www.ajunews.com/view/20260811093908782"
+        },
+        {
+          "title": "한국제약바이오협회, 제10회 'K-SPACE STATION' 개최 - 네이트",
+          "source": "네이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회, 제10회 'K-SPACE STATION' 개최 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 00:54:00 GMT",
+          "url": "https://news.nate.com/view/20260811n08619?mid=n1101"
+        },
+        {
+          "title": "[바이오스냅] 한국제약바이오협회, 항체·약물접합체 정보공유 세미나 - 네이트",
+          "source": "네이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[바이오스냅] 한국제약바이오협회, 항체·약물접합체 정보공유 세미나 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "Tue, 11 Aug 2026 01:48:00 GMT",
+          "url": "https://news.nate.com/view/20260811n11283"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "신약",
+        "신약개발",
+        "R&D",
+        "맞손",
+        "마이크로바이옴",
+        "엔피케이"
+      ],
+      "articles": [
+        {
+          "title": "JW중외제약, 신약개발 역량·R&D 투자 '합격선' 넘어[혁신형 제약으로②] - PRESS9",
+          "source": "PRESS9",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[키움증권 ESG-G] 이사회 중심 책임경영…내부통제 체계 정교화 | [키움증권 ESG-S] 금융 플랫폼에 상생 가치 접목…사회적 책임 실천 | 효성, AI·전력 인프라 선제투자 성과…중공업 호조에 섬유·화학도 회복 | KB증권 \"CJ제일제당, 2분기 영업이익 컨센서스 6.4% 하회…환율·원가 부담 지속\" | 파마리서치, DNA를 항암제 ‘운반체’로…나노 DDS의 차별화[Tech Insigh",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 11 Aug 2026 00:38:21 GMT",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=80879"
+        },
+        {
+          "title": "노보 노디스크, AWS와 전략적 파트너십…AI 신약개발 본격화 - 메디코파마",
+          "source": "메디코파마",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "런던에 공동 혁신 허브 구축…신약 타깃 발굴부터 임상시험 설계까지 | AWS 우선 클라우드·전략적 AI 파트너 선정…에이전틱 AI 기반 R&D 효율화 | [메디코파마뉴스=이호빈 기자] 제약·바이오업계에서 인공지능(AI)을 활용한 신약개발이 확대되는 가운데, 노보 노디스크가 아마존웹서비스(AWS)와 협력을 강화한다. | 기존 업무 효율화에 활용해 온 AI를 신약 타깃 발굴과 후보물질 설계, 임",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 11 Aug 2026 04:25:01 GMT",
+          "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69076"
+        },
+        {
+          "title": "화순전남대병원-엔피케이(주), 마이크로바이옴 신약개발 맞손 - 사이언스엠디뉴스",
+          "source": "사이언스엠디뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "미생물·대사체 임상연구부터 글로벌 플랫폼 구축까지 협력 | 화순전남대학교병원(병원장 이완식)이 엔피케이(주)와 마이크로바이옴 기반 신약개발과 임상연구를 위한 협력체계 구축에 나선다. | 화순전남대병원은 최근 미래의료혁신센터 1층 김재봉홀에서 엔피케이(주)와 업무협약을 체결하고 미생물 및 미생물 대사체를 활용한 비임상·임상 연계 연구와 글로벌 신약개발을 위한 협력을 추진하기로 했다. | 이날 ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 11 Aug 2026 01:27:39 GMT",
+          "url": "https://www.sciencemd.com/ko-kr/articles/139771"
+        },
+        {
+          "title": "엔피케이, 화순전남대병원과 R&D 맞손…'마이크로바이옴 신약개발' 착수 - 녹색경제신문",
+          "source": "녹색경제신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "김상준 대표 등 엔피케이 관계자가 지난 7일 화순전남대학교병원과 공동연구 협약을 맺고 있다. | [사진 제공=엔피케이] | [녹색경제신문 = 민보영 기자] 엔피케이가 미생물 및 마이크로바이옴 기반의 비임상·임상 연계 연구와 신약 개발을 위해 화순전남대학교병원 의생명연구원과 상호협력 협약을 체결했다. | 이들 기관은 보유한 연구 역량과 인프라를 활용해 공동 연구개발과 기술 협력을 추진할 예정이",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 11 Aug 2026 02:23:52 GMT",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=347342"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "cancer",
+        "drug",
+        "biorefineries",
+        "anti-cancer",
+        "patent",
+        "european",
+        "scanx",
+        "composition",
+        "godavari",
+        "secures"
+      ],
+      "articles": [
+        {
+          "title": "Godavari Biorefineries secures European patent for novel anti-cancer drug composition - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Godavari Biorefineries secures European patent for novel anti-cancer drug composition | Godavari Biorefineries secures European patent for novel anti-cancer drug composition | Updated on 11 Aug 2026, 10:19 AM | ScanX New",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 11 Aug 2026 04:51:38 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/godavari-biorefineries-receives-european-patent-office-approval-for-new-anti-cancer-drug-and-its-preparation-process/47969275"
+        },
+        {
+          "title": "Drug discovery: Watching cancer cells live could open new frontiers - DT Next",
+          "source": "DT Next",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Experts now believe that understanding how living cells behave in real time could become one of the next frontiers in biomedical research, particularly in oncology, where cancer cells continuously evolve, adapt and devel",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 11 Aug 2026 01:00:00 GMT",
+          "url": "https://www.dtnext.in/edit/drug-discovery-watching-cancer-cells-live-could-open-new-frontiers"
+        },
+        {
+          "title": "Godavari Biorefineries secures European patent for novel anti-cancer drug composition - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Godavari Biorefineries secures European patent for novel anti-cancer drug composition | Godavari Biorefineries secures European patent for novel anti-cancer drug composition | Updated on 11 Aug 2026, 10:19 AM | ScanX New",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 11 Aug 2026 04:51:38 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/godavari-biorefineries-receives-european-patent-office-approval-for-new-anti-cancer-drug-and-its-preparation-process/47969275"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 3,
+      "keywords": [
+        "truy",
+        "thu"
+      ],
+      "articles": [
+        {
+          "title": "Bộ Y tế quyết liệt siết chặt hoạt động kinh doanh dược liệu, thuốc cổ truyền - VnEconomy",
+          "source": "VnEconomy",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Đại sứ Australia tại Việt Nam: 3 yếu tố then chốt hút FDI chất lượng cao | Kim ngạch thương mại song phương về hàng hóa và dịch vụ giữa Việt Nam và Australia hiện đạt khoảng 30 tỷ AUD (tương đương 21 tỷ USD), tăng hơn gấ",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 11 Aug 2026 02:32:16 GMT",
+          "url": "https://vneconomy.vn/bo-y-te-quyet-liet-siet-chat-hoat-dong-kinh-doanh-duoc-lieu-thuoc-co-truyen.htm"
+        },
+        {
+          "title": "Bộ Y tế: Siết quản lý y, dược cổ truyền, ngăn hàng giả, thuốc kém chất lượng - suckhoemoitruong.com.vn",
+          "source": "suckhoemoitruong.com.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Bộ Y tế: Siết quản lý y, dược cổ truyền, ngăn hàng giả, thuốc kém chất lượng | 10:01 | 11/08/2026 | suckhoemoitruong.com.vn | Theo Bộ Y tế, vẫn còn tình trạng kinh doanh dược liệu, thuốc cổ truyền không rõ nguồn gốc, xuấ",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 11 Aug 2026 03:01:33 GMT",
+          "url": "https://suckhoemoitruong.com.vn/bo-y-te-siet-quan-ly-y-duoc-co-truyen-ngan-hang-gia-thuoc-kem-chat-luong-29794.html"
+        },
+        {
+          "title": "Bộ Y tế cảnh báo 'bẫy' thuốc cổ truyền, dược liệu tại đền, chùa, khu du lịch - Tiin.vn",
+          "source": "Tiin.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Qua công tác kiểm tra của Bộ Y tế và phản ánh từ các cơ quan chức năng, tình trạng kinh doanh dược liệu, thuốc cổ truyền không rõ nguồn gốc, hàng giả, hàng kém chất lượng vẫn còn diễn biến phức tạp. | Cùng với đó là nhữn",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Tue, 11 Aug 2026 03:27:00 GMT",
+          "url": "https://tiin.vn/chuyen-muc/song/bo-y-te-canh-bao-bay-thuoc-co-truyen-duoc-lieu-tai-den-chua-khu-du-lich.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "law",
+        "discount",
+        "legal",
+        "federal",
+        "drug",
+        "dismisses",
+        "judge",
+        "challenges"
+      ],
+      "articles": [
+        {
+          "title": "Federal judge dismisses legal challenges to South Dakota drug discount law - South Dakota Searchlight",
+          "source": "South Dakota Searchlight",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Federal judge dismisses legal challenges to South Dakota drug discount law - South Dakota Searchlight | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 10 Aug 2026 22:38:47 GMT",
+          "url": "https://southdakotasearchlight.com/2026/08/10/federal-judge-dismisses-legal-challenges-to-south-dakota-drug-discount-law/"
+        },
+        {
+          "title": "Federal Judge Dismisses Legal Challenges To SD Drug Discount Law - yankton.net",
+          "source": "yankton.net",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Too Many Requests | client_ip: 141.164.44.81 | request_id: 11058899826 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 11 Aug 2026 02:05:00 GMT",
+          "url": "https://www.yankton.net/community/article_c4627dae-a4dd-465c-aeb4-3106579052ba.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "daily",
+        "navlin"
+      ],
+      "articles": [
+        {
+          "title": "Incorporating MFN into Medicare Drug Price Negotiations Could Save Billions, AARP Analysis Finds - NAVLIN DAILY",
+          "source": "NAVLIN DAILY",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Incorporating MFN into Medicare Drug Price Negotiations Could Save Billions, AARP Analysis Finds - NAVLIN DAILY | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 10 Aug 2026 22:30:07 GMT",
+          "url": "https://www.navlindaily.com/article/31520/incorporating-mfn-into-medicare-drug-price-negotiations-could-save-billions-aarp-analysis-finds"
+        },
+        {
+          "title": "NAVLIN Regulatory Roundup: Approvals & Special Designations - NAVLIN DAILY",
+          "source": "NAVLIN DAILY",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "NAVLIN Regulatory Roundup: Approvals & Special Designations - NAVLIN DAILY | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 10 Aug 2026 22:17:10 GMT",
+          "url": "https://www.navlindaily.com/article/31517/navlin-regulatory-roundup-approvals-special-designations"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "병협",
+        "병원"
+      ],
+      "articles": [
+        {
+          "title": "상속세 공제서 빠진 병원…병협 “지역·필수의료 공백 우려” - 청년의사",
+          "source": "청년의사",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "대한병원협회는 ‘상속세 및 증여세법 일부개정 법률안 의견서’를 재정경제부, 보건복지부, 국회에 제출했다고 11일 밝혔다(이미지출처: 게티이미지). | 정부가 가업상속공제 대상 업종을 법률에 명시하는 상속세 및 증여세법 개정을 추진하면서 병원을 대상에서 제외하자 병원계가 반발하고 나섰다. | 특히 지방 중소병원 승계가 어려워지면 폐업으로 이어져 지역·필수의료 공백이 발생할 수 있다고 강조했다.",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Tue, 11 Aug 2026 03:15:47 GMT",
+          "url": "http://www.docdocdoc.co.kr/news/articleViewAmp.html?idxno=3041696"
+        },
+        {
+          "title": "병협, 상속세법 개정안 ‘가업상속공제 대상에 병원 포함’ 건의 - 간호사신문",
+          "source": "간호사신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "대한병원협회는 정부의 상속세 및 증여세법 개정안과 관련해 병원을 가업상속공제 대상 업종에 포함해 줄 것을 공식 건의했다고 8월 11일 밝혔다. | 병협은 이 같은 내용을 담은 ‘상속세 및 증여세법 일부개정 법률안 의견서’를 재정경제부(기획재정부), 보건복지부, 국회에 각각 제출했다. | 정부가 지난 4일 입법예고한 개정안은 가업상속공제 대상 업종을 한국표준산업분류 세세분류 기준으로 법률에 명",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Tue, 11 Aug 2026 02:56:42 GMT",
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=43225"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "More than weeds: Medicine grows in own backyards, according to Old Soul Apothecary owner - Northwest Arkansas Democrat-Gazette",
+      "source": "Northwest Arkansas Democrat-Gazette",
+      "importance": 55,
+      "snippet": "5XX Level Errors page | Access Denied | IP address: 2401:c080:1c02:5cd:5400:6ff:fe5b:feb6 | Ray ID: a2953a502f3dde6f | Your request has been blocked by our security system due to potential security co",
+      "url": "https://www.nwaonline.com/news/2026/aug/10/more-than-weeds-medicine-grows-in-own-backyards/"
+    },
+    {
+      "title": "Geleneksel tıp ve ilaçların denetimini sıkılaştırın, sahte ve kalitesiz ilaçların önüne geçin. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "Vietnam.vn'i takip et | Vietnam.vn'i ekle | 10 Ağustos'ta Sağlık Bakanlığı, son zamanlarda il ve şehirlerin Halk Komitelerinin, geleneksel tıp ve eczacılık alanının geliştirilmesine yönelik görev ve ç",
+      "url": "https://www.vietnam.vn/tr/siet-quan-ly-y-duoc-co-truyen-ngan-hang-gia-thuoc-kem-chat-luong"
+    },
+    {
+      "title": "קרן פורטיסימו מוכרת את פעילות התרופות של כצט לדקסל פארמה בכ־250 מיליון שקל - Calcalist",
+      "source": "Calcalist",
+      "importance": 53,
+      "snippet": "Access Denied | Access Denied | You don't have permission to access \"http://www.calcalist.co.il/market/article/sjozwyv8gg\" on this server. | Reference #18.bd9fd817.1786430264.7d1cec75 | https://errors",
+      "url": "https://www.calcalist.co.il/market/article/sjozwyv8gg"
+    },
+    {
+      "title": "【中邮医药|行业周报】AI制药持续进展：TWST高增验证DBTL闭环，关注产业链成长机遇 - k.sina.com.cn",
+      "source": "k.sina.com.cn",
+      "importance": 50,
+      "snippet": "（来源：中邮证券研究所） | 制药及相关产业链成长机遇。 | 基于现有的技术和未来的发展状况，我们认为药物研发基于实验科学的本质不会因 | 发挥降本增效的作用之处在于临床前的研发环节 | 其主要原因在于药物发现环节可提供技术附加值多。其中虚拟筛选或是最为重要的",
+      "url": "https://k.sina.com.cn/article_5952915720_162d2490806704o1tk.html?from=finance"
+    },
+    {
+      "title": "Health Check: The hard evidence suggests LTR Pharma’s ED drug is quick and effective - stockhead.com.au",
+      "source": "stockhead.com.au",
+      "importance": 47,
+      "snippet": "Health Check: The hard evidence suggests LTR Pharma’s ED drug is quick and effective | Health & Biotech | Cool bananas: LTR Pharma's 'real world' erectile dysfunction evidence offers hope for prostate",
+      "url": "https://stockhead.com.au/health/health-check-the-hard-evidence-suggests-that-ltr-pharmas-ed-drug-is-quick-and-effective/"
+    },
+    {
+      "title": "Protara Stock: Orphan Drug Indications Drive A Heavily Undervalued Pipeline (NASDAQ:TARA) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "importance": 47,
+      "snippet": "Cypriot Invests | 67 Followers | Protara Therapeutics is rated Buy, with a risk-adjusted fair value of $9.96 per share versus the current ~$4 price. | TARA-002 targets NMIBC and Lymphatic Malformation",
+      "url": "https://seekingalpha.com/article/4934496-protara-stock-orphan-drug-indications-drive-heavily-undervalued-pipeline"
+    },
+    {
+      "title": "What Ono Pharmaceutical (TSE:4528)'s Earnings Beat on Lower Sales and New AI Deal Means for Shareholders - simplywall.st",
+      "source": "simplywall.st",
+      "importance": 47,
+      "snippet": "Ono Pharmaceutical Co., Ltd. | reported past first-quarter 2026 results showing sales of ¥116,160 million versus ¥127,536 million a year earlier, while net income rose to ¥24,151 million and earnings ",
+      "url": "https://simplywall.st/stocks/jp/pharmaceuticals-biotech/tse-4528/ono-pharmaceutical-shares/news/what-ono-pharmaceutical-tse4528s-earnings-beat-on-lower-sale"
+    },
+    {
+      "title": "New Alzheimer’s drug recommendation offers hope patients and families - CP24",
+      "source": "CP24",
+      "importance": 47,
+      "snippet": "A new recommendation from Canada’s Drug Agency could make an Alzheimer’s treatment more accessible to Canadians in the early stages of the disease. | The agency says it issued a draft positive recomme",
+      "url": "https://www.cp24.com/news/canada/2026/08/10/new-alzheimers-drug-recommendation-offers-hope-patients-and-families/"
+    },
+    {
+      "title": "'Did order come from PMO?': Arvind Kejriwal targets BJP over 'zombie drug' video claim linked to Punjab - The Economic Times",
+      "source": "The Economic Times",
+      "importance": 47,
+      "snippet": "Arvind Kejriwal accused BJP MPs of spreading falsehoods regarding a video purportedly from Punjab. | Aam Aadmi Party | (AAP) National Convenor | Arvind Kejriwal | on Tuesday accused",
+      "url": "https://m.economictimes.com/news/politics-and-nation/did-order-come-from-pmo-arvind-kejriwal-targets-bjp-over-zombie-drug-video-claim-linked-to-punjab/articleshow/133142452.cms"
+    },
+    {
+      "title": "บริษัทเภสัชกรรมระดับโลกกำลังลงทุนหลายแสนล้านดอลลาร์เพื่อขยายการดำเนินงานในสหรัฐอเมริกา - vietnam.vn",
+      "source": "vietnam.vn",
+      "importance": 45,
+      "snippet": "ติดตาม Vietnam.vn บน | เพิ่ม Vietnam.vn บน | บริษัทเภสัชกรรม | ขนาดใหญ่กำลังเร่งลงทุนในสหรัฐอเมริกา โดยทุ่มเงินหลายแสนล้านดอลลาร์เพื่อขยายขีดความสามารถด้านการผลิตและการวิจัย เนื่องจากธุรกิจต่างๆ พยายา",
+      "url": "https://www.vietnam.vn/th/cac-hang-duoc-toan-cau-do-hang-tram-ty-usd-de-mo-rong-hoat-dong-tai-my"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 12,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 2
+    }
+  ]
+}
