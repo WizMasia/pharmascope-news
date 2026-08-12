@@ -1,0 +1,202 @@
+{
+  "date": "2026-08-12",
+  "total_articles": 446,
+  "language_breakdown": {
+    "korean": {
+      "total": 216,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 24,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 14,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 133,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 8
+      }
+    },
+    "multilingual": {
+      "total": 97,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 9,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "신약 · drug · com",
+      "domain": "global",
+      "significance": "high",
+      "article_count": 21,
+      "avg_importance": 41,
+      "key_articles": [
+        {
+          "title": "JW Pharmaceutical jumps on phase 3 success for gout drug, targets Korea NDA - CHOSUNBIZ - Chosunbiz",
+          "importance": 65,
+          "url": "https://biz.chosun.com/en/en-finance/2026/08/12/VHXHQW5LKVBXHLK2MEBQAM3RSY/"
+        },
+        {
+          "title": "New Drug Application for LAE002 (afuresertib) Accepted by China's National Medical Products Administration - The Manila Times",
+          "importance": 47,
+          "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/new-drug-application-for-lae002-afuresertib-accepted-by-chinas-national-medical-products-administration/2403562"
+        },
+        {
+          "title": "Laekna's Breast Cancer Drug NDA Accepted by China's NMPA, Targeting First Domestic AKT Inhibitor - finance.biggo.com",
+          "importance": 47,
+          "url": "https://finance.biggo.com/news/03495d3d-563a-4fb6-a154-3f26eb014121"
+        }
+      ],
+      "summary_kr": "<span name=\"stock\" id=\"stock_001060\">JW Pharmaceutical(001060)</span> shares are surging in early trading on the 12th. | Buying is flowing in on news that a gout drug candidate succeeded in a phase 3 clinical trial. | As",
+      "summary_en": "A cluster of PharmaScope articles representing a notable industry trend."
+    },
+    {
+      "topic": "halaman · com · kompasiana · farmasi",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "Pemanfaatan Ai Dalam Industri Farmasi Mendorong Obat Menjadi Efisien Halaman 1 - Kompasiana.com",
+          "importance": 50,
+          "url": "https://www.kompasiana.com/rizkyfadhli5171/6a7c12d734777c40a55eaa14/pemanfaatan-ai-dalam-industri-farmasi-mendorong-obat-menjadi-efisien"
+        },
+        {
+          "title": "Pemanfaatan Artificial Intelligence (AI) dalam Dunia Farmasi Halaman 1 - Kompasiana.com",
+          "importance": 40,
+          "url": "https://www.kompasiana.com/bellafebrianty9249/6a7be45dc925c43e47385d4a/pemanfaatan-artificial-intelligence-ai-dalam-dunia-farmasi"
+        },
+        {
+          "title": "Pemanfaatan AI Dalam Dunia Farmasi: PELUANG, TANTANGAN DAN PERSPEKTIF. Halaman 1 - Kompasiana.com",
+          "importance": 40,
+          "url": "https://www.kompasiana.com/jscaac/6a7bdf3134777c21ff1b7f12/pemanfaatan-ai-dalam-dunia-farmasi-peluang-tantangan-dan-perspektif"
+        }
+      ],
+      "summary_kr": "Favorit Kompasianer | Fahruddin Fitriya | Kabinet Bayangan Memaksa Kita Membayangkan Kabinet Beneran | Roselina Tjiptadinata | Berbagi Cuplikan Kisah Perjalanan Keliling dunia ( seri kelimabelas )",
+      "summary_en": "A cluster of PharmaScope articles representing a notable industry trend."
+    },
+    {
+      "topic": "com · newsis · 택배로 · 보낸",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 41,
+      "key_articles": [
+        {
+          "title": "대웅제약, 상반기 매출도 맑음…효자 품목 '이것' - newsis.com",
+          "importance": 45,
+          "url": "https://www.newsis.com/view/NISX20260812_0003746361"
+        },
+        {
+          "title": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 - newsis.com",
+          "importance": 40,
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260812_0003745620"
+        },
+        {
+          "title": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 - newsis.com",
+          "importance": 40,
+          "url": "https://www.newsis.com/view/NISX20260812_0003745620"
+        }
+      ],
+      "summary_kr": "대웅제약, 상반기 매출도 맑음…효자 품목 '이것' | 등록 2026.08.12 15:17:31 | 구글에서 선호하는 매체로 추가 | 올해 2분기 매출·영업익 모두 증가 | 나보타, 작년 연매출 2000억원 넘어",
+      "summary_en": "A cluster of PharmaScope articles representing a notable industry trend."
+    },
+    {
+      "topic": "영업익 · 분기 · com · chosun",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "식약처, AI 디지털 의료기기 우수 기업 인증 - 조선비즈 - biz.chosun.com",
+          "importance": 45,
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/12/AJNQ32DVMZBC7LTXQCE2BOYFQM/"
+        },
+        {
+          "title": "온코닉테라퓨틱스, 2분기 영업익 전년比 151% 증가…‘자큐보’ 처방 확대 - 조선비즈 - biz.chosun.com",
+          "importance": 40,
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/12/B4WJ5UQCR5EERH2EKM7BM7GH3U/"
+        },
+        {
+          "title": "휴온스, 2분기 영업익 73억원 기록…백신 사업·의약품 매출 회복 - 미래경제",
+          "importance": 37,
+          "url": "https://www.mirae-biz.com/news/articleView.html?idxno=110754"
+        }
+      ],
+      "summary_kr": "식품의약품안전처는 인공지능(AI) 디지털 의료기기 우수 기업을 인증한다고 12일 밝혔다. | 디지털 의료기기는 전통 의료기기와 달리 무형(無形)의 AI나 소프트웨어를 활용해 환자 치료를 돕는다. | 식약처는 AI 제어 조치, 안전 관리 등 4개 역량을 평가한다. | 전문가로 구성된 인증 심의 위원회에서 서면, 현지 조사를 거쳐 적합한 기업에 우수 관리 체계를 인증한다. | 식약처 인증을 받으",
+      "summary_en": "A cluster of PharmaScope articles representing a notable industry trend."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 8,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 7,
+      "significance": "medium"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 7,
+      "en_count": 3,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 3,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-08-12T07:32:11.628733+00:00"
+}
