@@ -1,404 +1,396 @@
 {
   "date": "2026-07-04",
-  "total": 408,
+  "total": 312,
   "version": 1,
-  "generated_at": "2026-07-04T06:31:05.464723+09:00",
+  "generated_at": "2026-07-04T06:30:00+09:00",
   "korean": {
-    "total": 93,
+    "total": 124,
     "categories": {
-      "의약품": 15,
-      "의약산업": 25,
-      "의약정책": 9,
-      "의약단체": 4,
-      "의약관련정부기관": 6,
-      "의료현장": 10,
-      "약국·약사": 0,
-      "의료정책·인력": 12,
-      "전통의학": 2,
-      "감염·보건": 10
+      "의약품": 18,
+      "의약산업": 8,
+      "의약정책": 8,
+      "의약단체": 7,
+      "의약관련정부기관": 9,
+      "의료현장": 25,
+      "약국·약사": 5,
+      "의료정책·인력": 25,
+      "전통의학": 0,
+      "감염·보건": 19
     },
     "top_articles": [
       {
-        "title": "대한약사회-보건복지부, 제2차 약정협의체 개최",
-        "source": "메디파나 뉴스",
-        "importance": 64,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:메디파나 뉴스+24 | 최신:20시간+10 | 키워드+20 | 순위:12위+10",
-        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 제2차 약정협의체 현장. 제공=대한약사회 대한약사회는 지난 1일 보건복지부와 제2차 약정협의체(이하 협의체)를 개최하고, 약정협의체 운영 계획 및 안건에 대해 논의했다. 협의체는 ...",
-        "time": "20시간",
-        "url": "https://www.medipana.com/news/articleView.html?idxno=414043"
+        "title": "복합제 기등재 약가인하 후속 논의...16% 일괄하락 기로",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+20 | 순위:47위+2",
+        "snippet": "기등재 약가인하를 앞두고 복합제에 대한 후속 실무협의가 예정된 가운데, 인하 산식에 따라 복합제 약가도 일괄하락 기로에 놓였다. 만약 복합제 현 최고가를 53.55% 기준으로 놓고, 45% 산정률로 인하하는 방식으로 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/340129"
       },
       {
-        "title": "병원협회, 의료사고배상공제조합 추진…의료분쟁 부담 줄인다",
-        "source": "연합뉴스",
-        "importance": 62,
+        "title": "서스틴베스트 ESG 평가 베스트 제약사는",
+        "source": "의학신문",
+        "importance": 52,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:연합뉴스+30 | 최신:+5 | 키워드+25 | 순위:54위+2",
-        "snippet": "유경하 회장은 먼저 병원의 '안전망 구축' 필요성을 강조했다. 그는 &quot;의료사고 손해배상 책임보험 가입 의무화가 추진되면서 의료기관의 부담과 우려도 커지고 있다&quot;며 &quot;환자 보호와 의료기관의 안정적인 진료환경은 상충하는 가치가 아니라 함께 추구해야 할 목표&quot;라고 강조했다. 이를 위해 유 회장은 &quot;의료사고배상 공제조합",
-        "time": "",
-        "url": "https://www.yna.co.kr/view/AKR20260623124000530"
+        "evidence": "출처:의학신문+10 | 최신:5시간+20 | 키워드+20 | 순위:46위+2",
+        "snippet": "[의학신문&#183;일간보사=김정일 기자] 서스틴베스트 ESG 평가 베스트 기업에 제약사 및 지주사 11개사가 이름을 올렸다. 서스틴베스트는 최근 유가증권시장 상장 기업 741개, 코스닥 상장 기업 329개, 비상장 기업 235개 등 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3007673"
       },
       {
-        "title": "충북대병원 전공의 수련환경 강화…복지부 지원사업 선정",
-        "source": "파이낸셜뉴스",
-        "importance": 60,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+25 | 순위:57위+2",
-        "snippet": "(청주=뉴스1) 임양규 기자 = 충북대학교병원이 전공의 수련환경 강화 기반을 마련했다. 보건복지부의 '2026년 전공의 수련환경 혁신 지원사업' 참여기관으로 선정되면서다.2일 지역의료계에 따르면 보건복지부는 전날 지원사업에 ...",
-        "time": "",
-        "url": "https://www.fnnews.com/news/202607021126363772"
-      },
-      {
-        "title": "식약처장 &quot;의료제품 허가심사 혁신 차질 없이 추진&quot;",
-        "source": "Yonhap News Agency",
-        "importance": 57,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Yonhap News Agency+30 | 최신:+5 | 키워드+20 | 순위:36위+2",
-        "snippet": "식약처의 의료제품 허가&#183;심사 혁신방안에는 자료 준비 단계에서 '체크리스트'를 제공하고 허가 신청 전 대면회의를 하며 허가&#183;심사 단계에서 수시 검토&#183;보완체계를 도입하는 등 구체적인 사업계 지원 내용이 담겼다.",
-        "time": "",
-        "url": "https://www.yna.co.kr/view/AKR20260619086600017"
-      },
-      {
-        "title": "빌릭스,'BX-001N' 국가신약개발사업 임상 2상 과제 선정",
+        "title": "한국약국화장품학회 첫발…&quot;약사 전문성으로 K-뷰티 새 기준 만든다&quot;",
         "source": "약업닷컴",
-        "importance": 56,
+        "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:약업닷컴+24 | 최신:20시간+10 | 키워드+20 | 순위:78위+2",
-        "snippet": "차세대 항염치료제 개발기업 빌릭스(Bilix)는 심장수술 관련 급성신장손상(CSA-AKI) 치료제 후보물질 ‘BX-001N’이 국가신약개발사업단(KDDF, 단장 박영민)이 주관하는 2026년도 제1차 국가신약개발사업 ...",
-        "time": "20시간",
-        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=329362"
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+10 | 순위:40위+2",
+        "snippet": "한국약국화장품학회 설립추진위원회가 4일 대한약사회관에서 '한국약국화장품학회(KSPC) 발기인대회'를 개최하고 참석자들과 기념촬영을 하고 있다. &#169;약업신문=전하연 기자기능성 화장품과 더마코스메틱 시장이 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=329395"
       },
       {
-        "title": "'美정부 임상시험계획&#183;1상 절차 간소화'...셀트리온, 신약 20종 가동력 커진다",
-        "source": "이데일리",
-        "importance": 55,
+        "title": "약사 전문성으로 K-뷰티 키운다…한국약국화장품학회 출범 시동",
+        "source": "메디파나 뉴스",
+        "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:이데일리+28 | 최신:+5 | 키워드+20 | 순위:87위+2",
-        "snippet": "이 기사는 2026년06월29일 08시10분에 팜이데일리 프리미엄 콘텐츠로 선공개 되었습니다. 셀트리온(068270)이 미국 보건당국의 전격적인 임상개발 혁신 정책에 힘입어 글로벌 신약개발 행보에 한층 속도를 낼 전망이다.",
-        "time": "",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=03079926645486640"
+        "evidence": "출처:메디파나 뉴스+24 | 최신:19시간+10 | 키워드+10 | 순위:42위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국약국화장품학회 발기인 대회. 사진=조해진 기자 [메디파나뉴스 = 조해진 기자] 한국약국화장품학회(KSPC)가 '약사의 전문성을 바탕으로 K-뷰티를 선도한다'는 슬로건을 걸고 ...",
+        "published_time": "19시간",
+        "modified_time": "",
+        "time": "19시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=414099"
       },
       {
-        "title": "LG화학, 고형암 신약후보물질 美FDA 임상시험계획 승인",
-        "source": "아시아경제",
-        "importance": 55,
+        "title": "&quot;전문성이 곧 약사의 힘&quot;…대구시약사회, 미래 약국 경쟁력 키운다",
+        "source": "약업닷컴",
+        "importance": 46,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:아시아경제+28 | 최신:+5 | 키워드+20 | 순위:88위+2",
-        "snippet": "LG00313112는 LG화학이 지난 4월 미국 프론티어 메디신즈로부터 도입한 신약 후보물질이다. LG화학은 중화권을 제외한 글로벌 독점 개발 및 상업화 권리를 확보했다. 이 물질은 전체 암 환자의 1~3%에서 나타나는 'TP53 Y220C' 변이를 표적한다. TP53은 암 발생을 억제하는 대표적인 종양 억제 유전자로, 해당 변이가 발생하면 p53 단백질 ",
-        "time": "",
-        "url": "https://www.asiae.co.kr/article/2026063008154861585"
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+10 | 순위:30위+2",
+        "snippet": "&quot;회원 여러분의 전문성이 곧 국민의 건강이자 약사회의 힘입니다.&quot; 약국 환경이 AI와 플랫폼 확산, 건강기능식품 시장 성장, 창고형 약국 등장 등으로 빠르게 변화하는 가운데 대구광역시약사회가 '전문성 강화'를 약사의 미래 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=329404"
       },
       {
-        "title": "애드바이오텍, 유증&#183;지배구조 개편에 급등…프레스티지는 CDMO 기대감[바이오맥짚기]",
-        "source": "Edaily",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Edaily+28 | 최신:+5 | 키워드+20 | 순위:147위+2",
-        "snippet": "25일 국내 제약업종은 전반적으로 약세를 보였다. 제약업종 지수는 전일 대비 0.45% 하락했다. 전체 160개 종목 가운데 상승 34개, 보합 13개, 하락 113개를 기록했다. 생명과학 업종은 낙폭이 더 컸다. 지수는 2 ...",
-        "time": "",
-        "url": "https://www.edaily.co.kr/News/Read?newsId=02069686645486640"
+        "title": "[인증! 혁신형제약사] 유한양행 'R&D 역설'…'의약품 매출' 기준 개편안이 풀까 - MSN",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 21:23:10 GMT+5 | 키워드+25 | 순위:43위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgNBVV95cUxPc0U5UzRVMzN5ZF9kZ3piY1ZqVGpKVG5sdXRISU9SUFVUa2RYczFjdHNJWEZlU2k5UTRBOGRJWGo2aDEtWmNBSnJscUw2Q2RrZC10MFIzV1FUR0NoeHJNWV9KeUs3Y2R1UzNMVkVtS2",
+        "published_time": "Fri, 03 Jul 2026 21:23:10 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 21:23:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPc0U5UzRVMzN5ZF9kZ3piY1ZqVGpKVG5sdXRISU9SUFVUa2RYczFjdHNJWEZlU2k5UTRBOGRJWGo2aDEtWmNBSnJscUw2Q2RrZC10MFIzV1FUR0NoeHJNWV9KeUs3Y2R1UzNMVkVtS2VvdTFpVEhBT3NkaHBzNG1EclEtSnpZdjI0cGFINWVrTzQtQ19hdWh2dDdUamJqOGQ2UGxuWW1zbnFFSlY4ZXZ0SnlMVjlaSklYT0d6U3dSM0RuSFFOYTYtMC1TajNLOU1oWnFFdUZBSFp1TXNPeDlqZ1lrN2NpeGMwSUpoQy01TXlfZXNaeE5VaGVUUmx4SkpZRTNtbXgwT0dET1diNVhuX0xuaHlSUzBZZ3RpWjJZYVhtTFNBOF9nN2VLTE9ObGRsei1WUGFWeTZGbzB4clB5Zi1xWDNDRlpFcS12WFJjS1gwdDFfbWxyd2xsa0xfbG9yZXZlQ2ltWlJnUURBcXpuY3h1dHBFUUdxT2pUMmhSLWN5M0hUbzVhQlBzOEJybDNWVzBNOE5JWnZqeERLMXNVVEZ1QU5xb0tXVTBaU2d3MFdKQQ?oc=5"
       },
       {
-        "title": "&quot;ESG, 실적만큼 중요&quot;…제약사, 보고서 잇단 발간",
-        "source": "Financial News",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:Financial News+28 | 최신:+5 | 키워드+20 | 순위:157위+2",
-        "snippet": "[서울=뉴시스]이소헌 기자 = 국내 제약바이오 기업들이 ESG(환경&#183;사회&#183;거버넌스)를 주요 가치로 삼고 지속가능 경영보고서를 잇달아 발간하는 등 경영 현황과 방향성을 공개하고 있다. 23일 제약바이오업계에 따르면 ESG 공시 ...",
-        "time": "",
-        "url": "https://www.fnnews.com/news/202606230701592618"
+        "title": "약가우대 혁신형 제약기업 '인증&#183;연구개발비 기준' 등 공개",
+        "source": "지디넷코리아 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:지디넷코리아 on MSN+10 | 최신:2시간+20 | 키워드+10 | 순위:46위+2",
+        "snippet": "(지디넷코리아=조민규 기자)정부가 특허만료 및 제네릭 의약품에 대한 대규모 약가인하 계획을 발표한 가운데, 당근으로 내놓은 약가 우대 혁신형 제약기업의 인증 기준이 공개됐다. 앞서 정부는 ‘의료AI&#183;제약&#183;바이오헬스 강국 실현 ...",
+        "published_time": "2시간",
+        "modified_time": "",
+        "time": "2시간",
+        "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%95%BD%EA%B0%80%EC%9A%B0%EB%8C%80-%ED%98%81%EC%8B%A0%ED%98%95-%EC%A0%9C%EC%95%BD%EA%B8%B0%EC%97%85-%EC%9D%B8%EC%A6%9D-%EC%97%B0%EA%B5%AC%EA%B0%9C%EB%B0%9C%EB%B9%84-%EA%B8%B0%EC%A4%80-%EB%93%B1-%EA%B3%B5%EA%B0%9C/ar-AA27gVR2?ocid=BingNewsVerp"
       },
       {
-        "title": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대",
-        "source": "파이낸셜뉴스",
-        "importance": 55,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:파이낸셜뉴스+28 | 최신:+5 | 키워드+20 | 순위:52위+2",
-        "snippet": "R&amp;D투자 제약사 약가인하 30% 감면…국산 신약 환급계약 확대 (서울=연합뉴스) 서한기 기자 = 건강보험공단이 사용량이 급증한 의약품의 약가를 조정하는 제도를 손질해 연구개발(R&amp;D) 투자 제약사에는 약가 인하 부담을 ...",
-        "time": "",
-        "url": "https://www.fnnews.com/news/202606270611049823"
+        "title": "약사들, &quot;전문성 앞세워 화장품 유통 주도권 쥐겠다&quot;",
+        "source": "뷰티누리",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뷰티누리+10 | 최신:5시간+20 | 키워드+10 | 순위:41위+2",
+        "snippet": "국내 화장품 시장이 의약품과 비슷한 규모로 성장했지만, 약국 내 화장품 매출은 전체의 5% 수준에 불과한 수준이다. K-뷰티가 글로벌을 향해가는 팽창기인 지금, 약국이 전문성을 앞세워 화장품 유통 주도권을 확보하고 시장 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.beautynury.com/news/view/111722/cat/10"
+      },
+      {
+        "title": "군위군, 촘촘한 방역&#183;맞춤형 건강관리로 하절기 주민 안전 총력",
+        "source": "프라임경제",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:프라임경제+10 | 최신:1시간+20 | 키워드+10 | 순위:114위+2",
+        "snippet": "[프라임경제] 군위군은 여름철 감염병 예방과 어르신 건강 증진을 위해 전방위적인 보건 행정을 펼친다.전국에 일본뇌염 경보가 내려짐에 따라, 군위군 보건소는 하절기 동안 고강도 집중 방역을 전개한다. 기후변화로 인해 모기 매개 감염병 위험이 커진 만큼, 주민 밀착형 방역망을 구축하는 것이 핵심이다.보건소는 방제..",
+        "published_time": "1시간",
+        "modified_time": "",
+        "time": "1시간",
+        "url": "https://www.newsprime.co.kr/news/article/?no=739132"
+      },
+      {
+        "title": "[인베스트] 다케다, AI 신약개발에 6억 달러 투자…인실리코와 전략적 협력 - 위키리크스한국",
+        "source": "",
+        "importance": 37,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 21:22:36 GMT+5 | 키워드+20 | 순위:106위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE52TkNxMUowWW5aUkItOVlZSGh3VVhCYlVqNHNmLVBIVXQ3dGpHTThxS0NpaWhSclRlako1MHF1dHE3UnVobWRHUEJPbTB0OTRJMkh3ZWd6d3B0UWpGcnlvNzhqUTZwYXdXWWNSb180bw",
+        "published_time": "Fri, 03 Jul 2026 21:22:36 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 21:22:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52TkNxMUowWW5aUkItOVlZSGh3VVhCYlVqNHNmLVBIVXQ3dGpHTThxS0NpaWhSclRlako1MHF1dHE3UnVobWRHUEJPbTB0OTRJMkh3ZWd6d3B0UWpGcnlvNzhqUTZwYXdXWWNSb180bw?oc=5"
       }
     ],
     "top_keywords": [
       [
         "신약",
-        14
+        12
       ],
       [
         "임상",
-        10
-      ],
-      [
-        "허가",
         6
-      ],
-      [
-        "급여",
-        5
-      ],
-      [
-        "식약처",
-        5
-      ],
-      [
-        "특허",
-        5
-      ],
-      [
-        "심사",
-        4
-      ],
-      [
-        "FDA",
-        4
-      ],
-      [
-        "CDMO",
-        4
       ],
       [
         "약가",
         3
       ],
       [
-        "항암",
+        "급여",
         3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "허가",
+        1
+      ],
+      [
+        "항암",
+        1
       ],
       [
         "백신",
-        3
-      ],
-      [
-        "바이오시밀러",
-        1
-      ],
-      [
-        "한약",
-        1
-      ],
-      [
-        "수출",
         1
       ]
     ],
     "top_sources": [
       [
-        "파이낸셜뉴스",
-        8
-      ],
-      [
-        "아이뉴스24",
-        5
-      ],
-      [
-        "아시아경제",
-        4
-      ],
-      [
-        "서울경제 on MSN",
-        4
-      ],
-      [
-        "Yonhap News Agency",
-        4
-      ],
-      [
-        "연합뉴스",
-        4
-      ],
-      [
-        "한국경제",
-        3
-      ],
-      [
-        "이투데이",
-        3
-      ],
-      [
-        "뉴스토마토",
+        "약업닷컴",
         2
       ],
       [
-        "Financial News",
-        2
+        "의학신문",
+        1
       ],
       [
-        "IT Chosun on MSN",
-        2
+        "토큰포스트",
+        1
       ],
       [
-        "데일리안 on MSN",
-        2
+        "팜뉴스 on MSN",
+        1
       ],
       [
-        "매일경제 on MSN",
-        2
+        "데일리팜",
+        1
       ],
       [
-        "이투데이 on MSN",
-        2
+        "지디넷코리아 on MSN",
+        1
       ],
       [
-        "아주경제 on MSN",
-        2
+        "메디컬투데이 on MSN",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "뷰티누리",
+        1
+      ],
+      [
+        "프라임경제",
+        1
       ]
     ]
   },
   "english": {
-    "total": 148,
+    "total": 113,
     "categories": {
       "Drugs & Therapies": 25,
       "Pharma Industry": 25,
       "Pharma Policy": 25,
-      "Pharma Associations": 25,
-      "Regulatory Agencies": 23,
-      "Traditional & Complementary Medicine": 25
+      "Pharma Associations": 23,
+      "Regulatory Agencies": 8,
+      "Traditional & Complementary Medicine": 7
     },
     "top_articles": [
       {
-        "title": "US FDA approves GSK's oral antibiotic for drug-resistant UTIs",
-        "source": "Reuters on MSN",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:120위+2",
-        "snippet": "By Bhanvi Satija and Sriparna Roy June 17 (Reuters) - The U.S. FDA has approved GSK's oral antibiotic to treat complicated urinary tract infections, the regulator said on Wednesday, giving patients a ",
-        "time": "",
-        "url": "https://www.msn.com/en-us/health/other/us-fda-approves-gsks-oral-antibiotic-for-drug-resistant-utis/ar-AA25SsPi?ocid=BingNewsVerp"
-      },
-      {
-        "title": "Analysis-US prices for new drugs fell in 2025 as fewer costly gene therapies were launched",
-        "source": "Reuters on MSN",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:122위+2",
-        "snippet": "By Deena Beasley June 25 (Reuters) - Launch prices for prescription medicines approved by U.S. regulators in 2025 fell from ...",
-        "time": "",
-        "url": "https://www.msn.com/en-us/health/other/analysis-us-prices-for-new-drugs-fell-in-2025-as-fewer-costly-gene-therapies-were-launched/ar-AA26vOjQ?ocid=BingNewsVerp"
-      },
-      {
-        "title": "Trump's push for the world's lowest drug prices hits snag with mid-sized companies",
-        "source": "Reuters on MSN",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:111위+2",
-        "snippet": "By Michael Erman and Deena Beasley NEW YORK/SAN DIEGO, June 30 (Reuters) - President Donald Trump has promised to make U.S.",
-        "time": "",
-        "url": "https://www.msn.com/en-us/news/other/trumps-push-for-the-worlds-lowest-drug-prices-hits-snag-with-mid-sized-companies/ar-AA26Txwo?ocid=BingNewsVerp"
-      },
-      {
-        "title": "Pfizer, Innovent GLP-1 drugs clear China insurance hurdle",
-        "source": "Reuters on MSN",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+30 | 순위:121위+2",
-        "snippet": "By Andrew Silver SHANGHAI, June 29 (Reuters) - GLP-1 drugs from Pfizer and Innovent Biologics have passed a preliminary ...",
-        "time": "",
-        "url": "https://www.msn.com/en-us/health/other/pfizer-innovent-glp-1-drugs-clear-china-insurance-hurdle/ar-AA26LLGK?ocid=BingNewsVerp"
-      },
-      {
-        "title": "EU proposal may accelerate pharma innovation decline, industry group says",
-        "source": "Reuters",
-        "importance": 67,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:2y+5 | 키워드+30 | 순위:131위+2",
-        "snippet": "BRUSSELS, Nov 6 (Reuters) - A major pharmaceutical rules overhaul, proposed by the European Commission in April, could see Europe's share in global research and development contract by a third to 21% ",
-        "time": "2y",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eu-proposal-may-accelerate-pharma-innovation-decline-industry-group-says-2023-11-06/"
-      },
-      {
-        "title": "European patient access to new drugs worsens, pharma lobby says",
-        "source": "Reuters on MSN",
-        "importance": 62,
+        "title": "FDA News Recap: Novel Drug Approvals in Q2 2026 - HCPLive",
+        "source": "",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+25 | 순위:127위+2",
-        "snippet": "By Maggie Fick and Bhanvi Satija LONDON, June 22 (Reuters) - Patient access to new medicines is worsening across Europe, the ...",
-        "time": "",
-        "url": "https://www.msn.com/en-us/health/other/european-patient-access-to-new-drugs-worsens-pharma-lobby-says/ar-AA26kWj0?ocid=BingNewsVerp"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 15:06:24 GMT+5 | 키워드+30 | 순위:169위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE00aGhUcnVtdXM0RXpxQW9GWlBESmJuOEVCRTZ0Z3FHZVhkYVRPd3Fmc1lmS2lQZWVJTzhDU2JKeWJsRkpMelp6Q05WWVJfcDBzUFFVZWV3Y3VMbnRJRzhpc2lOdzR3QWZKYnhjTnZoYV",
+        "published_time": "Fri, 03 Jul 2026 15:06:24 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 15:06:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00aGhUcnVtdXM0RXpxQW9GWlBESmJuOEVCRTZ0Z3FHZVhkYVRPd3Fmc1lmS2lQZWVJTzhDU2JKeWJsRkpMelp6Q05WWVJfcDBzUFFVZWV3Y3VMbnRJRzhpc2lOdzR3QWZKYnhjTnZoYVBvanVBSmlQVFlwRGk?oc=5"
       },
       {
-        "title": "Pharma companies left out of Trump's drug-pricing deals look for way in",
-        "source": "Reuters",
-        "importance": 62,
+        "title": "AI tool improves prediction of who will respond to cancer immunotherapy drugs - Medical Xpress",
+        "source": "",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters+30 | 최신:4mon+5 | 키워드+25 | 순위:141위+2",
-        "snippet": "SAN FRANCISCO, Feb 11 (Reuters) - Some pharmaceutical companies not targeted by President Donald Trump for agreements to lower their U.S. drug pricing are looking to craft their own deals in an ...",
-        "time": "4mon",
-        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/pharma-companies-left-out-trumps-drug-pricing-deals-look-way-2026-02-11/"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 15:40:01 GMT+5 | 키워드+30 | 순위:170위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzJZOXQ0SGduVmVCTTBIbnVsM1lFTnFRUE5iTGxXdGRRQ2U2c1QtOUlueVlGZS1KVWk4MXI0TGJsRVFGNmp4VFNfQThjclVGdHNtQ2tPdW1ReUtpbVRBUUlMakNUS1ZNaUJGTzZ2ek",
+        "published_time": "Fri, 03 Jul 2026 15:40:01 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 15:40:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzJZOXQ0SGduVmVCTTBIbnVsM1lFTnFRUE5iTGxXdGRRQ2U2c1QtOUlueVlGZS1KVWk4MXI0TGJsRVFGNmp4VFNfQThjclVGdHNtQ2tPdW1ReUtpbVRBUUlMakNUS1ZNaUJGTzZ2ektJVzNOUTFzUFNHRUhnQWhPZ3JCR1M?oc=5"
       },
       {
-        "title": "Fierce Pharma Asia—Kyowa ends OX40 program; Sanofi licenses first-in-class drug; BioNTech advances Duality ADC",
-        "source": "FiercePharma",
-        "importance": 61,
+        "title": "AstraZeneca pens $1.7B kidney drug discovery pact with go-to Chinese partner CSPC - Fierce Biotech",
+        "source": "",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:FiercePharma+24 | 최신:3mon+5 | 키워드+30 | 순위:155위+2",
-        "snippet": "Kyowa Kirin has decided to discontinue all clinical development of its OX40 drug after two new cancer cases emerged. Sanofi is committing up to $1.5 billion for global rights to Sino Biopharm's ...",
-        "time": "3mon",
-        "url": "https://www.fiercepharma.com/pharma/kyowa-ends-ox40-program-sanofi-licenses-first-class-drug-biontech-advances-duality-adc"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 12:00:00 GMT+5 | 키워드+30 | 순위:171위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0RjbnMwdm9ZR2RNazVhblZ4ZDF1bmVTTHYyVFR1MmloRmJrbjJYZmVsdlMyU0dkbFpYQ3NrS25RVHcwcWlwYjU1aDRVSTJPNzl5Wl9odGdqWFpFVDlHaWdyZlF1QUUyMkZCV3NsYl",
+        "published_time": "Fri, 03 Jul 2026 12:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 12:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS0RjbnMwdm9ZR2RNazVhblZ4ZDF1bmVTTHYyVFR1MmloRmJrbjJYZmVsdlMyU0dkbFpYQ3NrS25RVHcwcWlwYjU1aDRVSTJPNzl5Wl9odGdqWFpFVDlHaWdyZlF1QUUyMkZCV3NsYlp0TTJxdUpnNWRZemtYOFVGcTlkUjlWNjUwSHVTc2JmRm5XdU1DNDJvUTEwN2k3aVRiV0xKZFNkaTV6UE9yV2FyQ0tNZnI?oc=5"
       },
       {
-        "title": "FDA’s plan to boost biosimilar drugs could stall at the patent office",
-        "source": "FiercePharma",
-        "importance": 61,
+        "title": "Biopharma Shakti scheme to roll out in three months as Centre pushes faster drug approvals and biotech expansion - boldnewsonline.com",
+        "source": "",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:FiercePharma+24 | 최신:7mon+5 | 키워드+30 | 순위:132위+2",
-        "snippet": "While the FDA is streamlining regulation of copycat versions of the expensive drugs that millions take for arthritis, cancer, and other diseases, the U.S. patent office is making it harder for the ...",
-        "time": "7mon",
-        "url": "https://www.fiercepharma.com/pharma/fdas-plan-boost-biosimilar-drugs-could-stall-us-patent-office"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 12:50:13 GMT+5 | 키워드+30 | 순위:178위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYTF0cGhBYUt6X1VUS0VQdzJMa1dzU3BCa3lxS3BtZUtZOVROUnJvcUt1ODNESVZVWHdlV05lWUpjM1kteDBqNEItLWQ2Y2Y5MGpjRkpPc19iLWRQWC1CU3JXRklDN1hnWDZ5Zk9mWG",
+        "published_time": "Fri, 03 Jul 2026 12:50:13 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 12:50:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYTF0cGhBYUt6X1VUS0VQdzJMa1dzU3BCa3lxS3BtZUtZOVROUnJvcUt1ODNESVZVWHdlV05lWUpjM1kteDBqNEItLWQ2Y2Y5MGpjRkpPc19iLWRQWC1CU3JXRklDN1hnWDZ5Zk9mWGVCQXEzZU5NWEpmdzY3VUoxcFhHb1J4S2N5SWtncWptN2lXWkowSmVKaXZMSm14Ykp3Y0NRQl9NZ05vU2dTbmRzbWt4aFNkcm5pSEZ1d3hYUUFFeUN2Ung2ck9yY3FnM0VQb21aS0hGVjk2eFRo0gHcAUFVX3lxTE1hMXRwaEFhS3pfVVRLRVB3MkxrV3NTcEJreXFLcG1lS1k5VE5Scm9xS3U4M0RJVlVYd2VXTmVZSmMzWS14MGo0Qi0tZDZjZjkwamNGSk9zX2ItZFBYLUJTcldGSUM3WGdYNnlmT2ZYZUJBcTNlTk1YSmZ3NjdVSjFwWEdvUnhLY3lJa2dxam03aVdaSjBKZUppdkxKbXhiSndjQ1FCX01nTm9TZ1NuZHNta3hoU2RybmlIRnV3eFhRQUV5Q3ZSeDZyT3JjcWczRVBvbVpLSEZWOTZ4VGg?oc=5"
       },
       {
-        "title": "US FDA approves Vertex's gene therapy for sickle cell disease in children as young as two",
-        "source": "Reuters on MSN",
-        "importance": 57,
+        "title": "New Drug List Established: Greater Therapy Availability and More Rational Spending - gradski.me",
+        "source": "",
+        "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters on MSN+30 | 최신:+5 | 키워드+20 | 순위:118위+2",
-        "snippet": "July 1 (Reuters) - The U.S. Food and Drug Administration approved expanded use of Vertex Pharmaceuticals' gene therapy in ...",
-        "time": "",
-        "url": "https://www.msn.com/en-us/health/medical/us-fda-approves-vertex-s-gene-therapy-for-sickle-cell-disease-in-children-as-young-as-two/ar-AA270v5h?ocid=BingNewsVerp"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 11:34:00 GMT+5 | 키워드+30 | 순위:179위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1hfdnZ3LXIyWTZEaW5mdXFueF9qZjZiSmZtWU9NeVdzRVY1V3ZfMmxwamJ0dmdKMlJaTTcta2hCd2dTUFFCaGxObkdtM2ZxekZlWWZVbDNhcElXb3B6elJhcng4Xy1SUkhhbnF0ZW",
+        "published_time": "Fri, 03 Jul 2026 11:34:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 11:34:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1hfdnZ3LXIyWTZEaW5mdXFueF9qZjZiSmZtWU9NeVdzRVY1V3ZfMmxwamJ0dmdKMlJaTTcta2hCd2dTUFFCaGxObkdtM2ZxekZlWWZVbDNhcElXb3B6elJhcng4Xy1SUkhhbnF0ZWtreW5qbDhwRUZ1bkFUMDVjc01KSGNETURVUnpNZnJjNkNPaGJiTnhjVERzREZSbWdFeGp5bExBdEtISnA5?oc=5"
+      },
+      {
+        "title": "Charles River Laboratories highlights its role in drug development. The stock reflects a specialized - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 19:59:09 GMT+5 | 키워드+30 | 순위:180위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM08xX1Nhc1RySHlpbnhxQVZCX0UwdmNZOFIySDMwMTJLN1I5RWRrcmFfUGhORVczNXd6QjNxQW5tLVBnVXIyeEJCSEJoemRkUWpTUW40QU5FdHMycWVOSVhseHlDRFNHS3pkbE1vUl",
+        "published_time": "Fri, 03 Jul 2026 19:59:09 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 19:59:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM08xX1Nhc1RySHlpbnhxQVZCX0UwdmNZOFIySDMwMTJLN1I5RWRrcmFfUGhORVczNXd6QjNxQW5tLVBnVXIyeEJCSEJoemRkUWpTUW40QU5FdHMycWVOSVhseHlDRFNHS3pkbE1vUlJtdDBUcjNJX25BMWQ3ZDJBOUgwZFVJWkFBSm1peXlOYU1CSGJuckJTR1lFNHQwX2M1cnJNdkVuYTJTNkNrVUNPVWp2VmNsSjBtU0xpMElHcGZPQy02bXQ1OA?oc=5"
+      },
+      {
+        "title": "Bristol-Myers Squibb focuses on drug pipeline as investors track long-term growth - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 12:38:09 GMT+5 | 키워드+30 | 순위:181위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONS1vUGlMMnByaVYwa28zZ295d1U1OEdmX2JPX1JjYkJaUkJodU5FdENVaTFFVmd5SGl0Tml3YjVqSi1qUGFvZmdua0pNOFVUZnRGcms2NG1fZER6SlpfRl83SGhNXy1PN1dVS3BpbW",
+        "published_time": "Fri, 03 Jul 2026 12:38:09 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 12:38:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONS1vUGlMMnByaVYwa28zZ295d1U1OEdmX2JPX1JjYkJaUkJodU5FdENVaTFFVmd5SGl0Tml3YjVqSi1qUGFvZmdua0pNOFVUZnRGcms2NG1fZER6SlpfRl83SGhNXy1PN1dVS3BpbWNITDRoYklOYXJTV2FjN3pVN2ZZVkFoeU9MQ2ZHY0xoMkxyUWZuRFpqQ1BvT1dHdUcxb3U4cXEyY0pFc0hmT0JDdVc3VjhsTmh2Y2J2VzZ6R2JCMzBxanBkNU5DWlk2Zw?oc=5"
+      },
+      {
+        "title": "Ionis Pharmaceuticals updates its antisense drug pipeline. Ionis stock reflects long-term biotech ri - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 17:38:28 GMT+5 | 키워드+30 | 순위:184위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEVfWmtaQWNycW8tODRveks0bE5mTVZscUlKcHYtd0VzbTRMRVFmSE9oeHNwR0tXY08wbGJGUGgwSDhPc0h3TWtIcGNZSWZuMG82OW4yeDRVZEVUUEVSaWRyanJIVmlpeUQ1TzJmUE",
+        "published_time": "Fri, 03 Jul 2026 17:38:28 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 17:38:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEVfWmtaQWNycW8tODRveks0bE5mTVZscUlKcHYtd0VzbTRMRVFmSE9oeHNwR0tXY08wbGJGUGgwSDhPc0h3TWtIcGNZSWZuMG82OW4yeDRVZEVUUEVSaWRyanJIVmlpeUQ1TzJmUEVKUmotTUZYQVNEU09TYTM3aldxZTZyS29GeG8wdVJKUHZyeFBxZFBIM0pqZENaN19WZl93aTRwUzZqWnFYVmpQVW1nSVRKZ01JaW1vQ2FGVWFaYVNjSEh3?oc=5"
+      },
+      {
+        "title": "Schott Pharma outlines growth path as injectable drug demand rises - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 14:36:16 GMT+5 | 키워드+30 | 순위:185위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzN2MF9DSzlieUxZWlNacVZwODRGYkMwRW5pekZHeEM4MTFwTTdCbV9mWFRUOUhEN2w4SzdlRFItVzNab3RmMXFGeW93ek1TZ21XelNsTTgtbklGUmg3TjZ1WGlGN0pnS2RUd0xLTV",
+        "published_time": "Fri, 03 Jul 2026 14:36:16 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 14:36:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMzN2MF9DSzlieUxZWlNacVZwODRGYkMwRW5pekZHeEM4MTFwTTdCbV9mWFRUOUhEN2w4SzdlRFItVzNab3RmMXFGeW93ek1TZ21XelNsTTgtbklGUmg3TjZ1WGlGN0pnS2RUd0xLTVk4NDNXSEpaVGtzMGNVVEY1WDh5eHpic2Y4RGwtOFNzcmljLVZwb2h5U1ZsWm9Hck8zaElPUEQ3VnRveVl0Ujk1QnFDTmRVSFVTTC1HMGh1MlV2N00?oc=5"
+      },
+      {
+        "title": "HIV Drugs Pipeline Updates and Emerging Treatments - Infectious Disease Special Edition",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 11:07:11 GMT+5 | 키워드+30 | 순위:186위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGktN2ExaTUwNGg1bmdudkZCT3ZHNEJ0YXpOYzdVTDA2Sm9SbFNuVUd0dkFQZWhBd3RNamtiQjZuc095ZzA2TW9ZZ1hqU1l0aFhucDF6UUxEYndvcnFLLWxpaVBPSkNzOGJWaDdUen",
+        "published_time": "Fri, 03 Jul 2026 11:07:11 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 11:07:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGktN2ExaTUwNGg1bmdudkZCT3ZHNEJ0YXpOYzdVTDA2Sm9SbFNuVUd0dkFQZWhBd3RNamtiQjZuc095ZzA2TW9ZZ1hqU1l0aFhucDF6UUxEYndvcnFLLWxpaVBPSkNzOGJWaDdUendJdUhvb1k4WHU5WTUwYjYxRzN1eEk0Q1pNSmJsZ2RnUy1INi1hZTVXRVRiYVY4aUZUT0k1aQ?oc=5"
       }
     ],
     "top_keywords": [
       [
         "FDA",
-        21
-      ],
-      [
-        "GMP",
-        11
-      ],
-      [
-        "pricing",
-        9
-      ],
-      [
-        "inspection",
-        7
+        8
       ],
       [
         "approval",
         6
       ],
       [
-        "manufacturing",
-        5
-      ],
-      [
-        "clinical trial",
-        4
-      ],
-      [
-        "patent",
-        4
-      ],
-      [
-        "biosimilar",
+        "pricing",
         3
       ],
       [
-        "generic",
+        "manufacturing",
+        3
+      ],
+      [
+        "clinical trial",
         2
       ],
       [
-        "recall",
+        "vaccine",
         2
       ],
       [
@@ -414,211 +406,99 @@
         1
       ],
       [
-        "quality",
+        "patent",
         1
       ]
     ],
-    "top_sources": [
-      [
-        "FiercePharma",
-        8
-      ],
-      [
-        "JD Supra",
-        8
-      ],
-      [
-        "Reuters on MSN",
-        6
-      ],
-      [
-        "News Medical",
-        5
-      ],
-      [
-        "RAPS",
-        5
-      ],
-      [
-        "EurekAlert!",
-        4
-      ],
-      [
-        "AOL",
-        3
-      ],
-      [
-        "Medical Xpress",
-        3
-      ],
-      [
-        "Markets Insider",
-        3
-      ],
-      [
-        "MarketWatch",
-        3
-      ],
-      [
-        "CNBC",
-        3
-      ],
-      [
-        "Nasdaq",
-        3
-      ],
-      [
-        "Forbes",
-        3
-      ],
-      [
-        "Morningstar",
-        2
-      ],
-      [
-        "Nature",
-        2
-      ]
-    ]
+    "top_sources": []
   },
   "multilingual": {
-    "total": 167,
+    "total": 75,
     "languages": {
-      "French / 프랑스어": 10,
-      "German / 독일어": 10,
-      "Spanish / 스페인어": 10,
-      "Italian / 이탈리아어": 10,
-      "Portuguese / 포르투갈어": 10,
-      "Dutch / 네덜란드어": 10,
-      "Swedish / 스웨덴어": 10,
-      "Polish / 폴란드어": 10,
-      "Turkish / 터키어": 10,
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 6,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 5,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
       "Russian / 러시아어": 10,
-      "Japanese / 일본어": 9,
-      "Chinese Simplified / 중국어": 0,
-      "Chinese Traditional / 대만": 6,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 2,
       "Vietnamese / 베트남어": 10,
       "Thai / 태국어": 10,
-      "Indonesian / 인도네시아어": 10,
-      "Hindi / 힌디어": 8,
-      "Arabic / 아랍어": 6,
-      "Hebrew / 히브리어": 6,
-      "Persian / 페르시아어": 2
+      "Indonesian / 인도네시아어": 6,
+      "Hindi / 힌디어": 6,
+      "Arabic / 아랍어": 0,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
     },
     "top_articles": [
       {
-        "title": "Khẩn: Ni&#234;m phong l&#244; thuốc cao Actis&#244; của 1 c&#244;ng ty dược phẩm nổi tiếng",
-        "source": "Kenh14.vn",
-        "importance": 65,
-        "stars": "⭐⭐⭐⭐",
-        "evidence": "출처:Kenh14.vn+28 | 최신:2 ngày+5 | 키워드+30 | 순위:27위+2",
-        "snippet": "Một l&#244; thuốc cao do C&#244;ng ty Cổ phần Dược L&#226;m Đồng (Ladophar) sản xuất vừa bị ph&#225;t hiện kh&#244;ng đạt y&#234;u cầu chất lượng về chỉ ...",
-        "time": "2 ngày",
-        "url": "https://kenh14.vn/khan-niem-phong-lo-thuoc-cao-actiso-cua-1-cong-ty-duoc-pham-noi-tieng-21526070112043611.chn"
+        "title": "IA : Anthropic veut se lancer dans l'industrie du médicament - Atlantico",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 08:24:19 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUElRRVN4Q2hsOTh3UmFpV3VpYW13UVhiUnI4WG1FajMxZ2hNSWwwRWZtdWhJQ3VabURnZ3dZZkRJRHhheGZOM0drZkYzOHRqWi1kWFhRWENEbEZqSjBfTEZDZDJmZjJGWU9jMmpDRX",
+        "published_time": "Fri, 03 Jul 2026 08:24:19 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 08:24:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUElRRVN4Q2hsOTh3UmFpV3VpYW13UVhiUnI4WG1FajMxZ2hNSWwwRWZtdWhJQ3VabURnZ3dZZkRJRHhheGZOM0drZkYzOHRqWi1kWFhRWENEbEZqSjBfTEZDZDJmZjJGWU9jMmpDRXpTNjZJeWtjTi1pTUVVWncyNGI0UmJpSEJFbnpoSGYtdnpjcTZkempJWV9QWTJZTE8wTFlfZXVxR2lWaFM1amVSV0VMRFBkT0NBcXp6WE5IQ2YxSkJTVmUtOV9EQQ?oc=5"
       },
       {
-        "title": "چالش‌های صنعت داروسازی کشور؛ ماجرای ۹۰۰ میلیون دلار ارز دارو",
-        "source": "Mehr News Agency",
-        "importance": 60,
+        "title": "La pharmacie Pharmacity, située à Hô Chi Minh-Ville, a été condamnée à une amende pour des infractions liées aux produits pharmaceutiques et cosmétiques. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Mehr News Agency+10 | 최신:20 روز+5 | 키워드+25 | 순위:3위+20",
-        "snippet": "به گزارش خبرنگار مهر، رئیس و اعضای هیئت مدیره سندیکای صاحبان صنایع داروهای انسانی ایران، روز چهارشنبه ۱۳ خرداد ۱۴۰۵، در نشست خبری که در محل ...",
-        "time": "20 روز",
-        "url": "https://www.mehrnews.com/news/6848711/%DA%86%D8%A7%D9%84%D8%B4-%D9%87%D8%A7%DB%8C-%D8%B5%D9%86%D8%B9%D8%AA-%D8%AF%D8%A7%D8%B1%D9%88%D8%B3%D8%A7%D8%B2%DB%8C-%DA%A9%D8%B4%D9%88%D8%B1-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%DB%B9%DB%B0%DB%B0-%D9%85%DB%8C%D9%84%DB%8C%D9%88%D9%86-%D8%AF%D9%84%D8%A7%D8%B1-%D8%A7%D8%B1%D8%B2-%D8%AF%D8%A7%D8%B1%D9%88"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 15:51:15 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm8tOGd3a1docHRzN3U1dWlpNHctM1RyRkd4aEE1bEhOUjRuWkx2RHdSUWJzbEpYalI4QkowZ2tvbE9KdXJmVjB2WEpKR21DUkM5QTBjNmZtM3BKdUVseFAwMGZWUUtZQ080UnVBcH",
+        "published_time": "Fri, 03 Jul 2026 15:51:15 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 15:51:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm8tOGd3a1docHRzN3U1dWlpNHctM1RyRkd4aEE1bEhOUjRuWkx2RHdSUWJzbEpYalI4QkowZ2tvbE9KdXJmVjB2WEpKR21DUkM5QTBjNmZtM3BKdUVseFAwMGZWUUtZQ080UnVBcHEtREdhNlBoM0hfaXJBTkJHSzBDRXpQSlNvSDB0SFVrM0V6TE1r?oc=5"
       },
       {
-        "title": "米ＦＤＡ、製薬7社の新工場を審査迅速化プログラムに選定",
-        "source": "Reuters Japan on MSN",
-        "importance": 55,
+        "title": "Los medicamentos innovadores se medirán también por su valor para la sociedad - IM Farmacias",
+        "source": "",
+        "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Reuters Japan on MSN+30 | 최신:+5 | 키워드+10 | 순위:12위+10",
-        "snippet": "[２９日 ロイター] - ...",
-        "time": "",
-        "url": "https://www.msn.com/ja-jp/money/other/%E7%B1%B3%EF%BD%86%EF%BD%84%EF%BD%81-%E8%A3%BD%E8%96%AC7%E7%A4%BE%E3%81%AE%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%82%92%E5%AF%A9%E6%9F%BB%E8%BF%85%E9%80%9F%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E9%81%B8%E5%AE%9A/ar-AA26PRVm?ocid=BingNewsVerp"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 09:30:00 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2QzTzdpbnhuYUpwRXJKdnhpREw0d1BDN0RSR3JzaVRLZGVaS3NvOFd2eFZyZUJ6bnkwZnU3di1hMXdOY29oSkFCN0ZhS2NtTDJTLXFxT3ZKZzJXQjV1UWRzRGFLNWpRS2J2VDdsZX",
+        "published_time": "Fri, 03 Jul 2026 09:30:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 09:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc2QzTzdpbnhuYUpwRXJKdnhpREw0d1BDN0RSR3JzaVRLZGVaS3NvOFd2eFZyZUJ6bnkwZnU3di1hMXdOY29oSkFCN0ZhS2NtTDJTLXFxT3ZKZzJXQjV1UWRzRGFLNWpRS2J2VDdsZXB1V1BYUTQ0WW1lX1Zjdm9Ec2VYTm9wLURTYlhMZWYwUGlmczQ4LVpCVUc3RTJobFMzNExZWk96cFB0U19QU3lkNzhiQmnSAa8BQVVfeXFMTnd5VjZHNFUyUlozWlNkdlRWZzg2MzhWMWMyRnoxT2UwWTJ0ZGQwRVRQYXN5cHl6S3dXeGFzZUdvYXJiUFVsQ0FoYV9FN014MW16Vk9CbDVUZ285bzMyNFdZbVE5enpEd28xWkRZMFJRM0huZGVPc1hmaFhVT2JLMXdQdEJqMXhhUUZub2NEX2x2endmNGIzRm9jN1lNOWExLW9VVjhZV2l4c3M4dks4Yw?oc=5"
       },
       {
-        "title": "K-MEX展會於首爾開幕 針灸科學化 中醫、韓醫兩大傳統醫學撞出火花",
-        "source": "聯合新聞網",
-        "importance": 55,
+        "title": "Cámara Venezolana de Farmacia garantiza abastecimiento de medicamentos El motor farmacéutico cuenta con una sólida estructura de producción y distribución que garantiza el pleno abastecimiento de medicamentos en todo el territorio nacional tras los e - instagram.com",
+        "source": "",
+        "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:聯合新聞網+10 | 최신:12 個月+5 | 키워드+25 | 순위:9위+15",
-        "snippet": "中醫與韓醫均為傳統醫學，台灣顏面針灸 醫學會近日率團遠赴韓國，參與南韓首爾舉辦的K-MEX韓醫藥及統合性醫藥國際產業博覽會，協同長庚大學中醫學系、輔仁大學應用科學與工程研究所共同 ...",
-        "time": "12 個月",
-        "url": "https://udn.com/news/story/7270/8851185"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 18:48:45 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzenI2VVJRU1BoN2JTYTFWVmh3aFotMThOQlBrYV9fOUVKVUtNSUtnX3BKU1V5d3BSaXAyQ1BnVHQycWNsYktNdVhhbkoxalhtdFE?oc=5\" target=\"_blank\">Cámara Venezolan",
+        "published_time": "Fri, 03 Jul 2026 18:48:45 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 18:48:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzenI2VVJRU1BoN2JTYTFWVmh3aFotMThOQlBrYV9fOUVKVUtNSUtnX3BKU1V5d3BSaXAyQ1BnVHQycWNsYktNdVhhbkoxalhtdFE?oc=5"
       },
       {
-        "title": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की ...",
-        "source": "Navbharat Times",
-        "importance": 55,
+        "title": "Kuliah Siap Kerja Hanya di Akafarma Sunan Giri Ponorogo: Unggul di Farmasi dan Anafarma - TIMES Indonesia",
+        "source": "",
+        "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:Navbharat Times+10 | 최신:4वर्ष+5 | 키워드+25 | 순위:10위+15",
-        "snippet": "दवा, स्वास्थ्य उद्योग को उम्मीद, वर्ष 2022 में बनी रहेगी वृद्धि की रफ्तार भाषा • 23 Dec 2021, 6:44 pm IST ...",
-        "time": "4वर्ष",
-        "url": "https://navbharattimes.indiatimes.com/business/business-news/the-pharmaceutical-health-industry-expects-growth-to-continue-in-the-year-2022/articleshow/88456346.cms"
+        "evidence": "출처:+10 | 최신:Fri, 03 Jul 2026 22:37:40 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYUtVclRjRWp4Z3A5Zjgzc1lGNkdkbDdZZTktcklyaG9ubjRGd2xrREl3REpQVkxXd2NwY05DNW9xbXVYWG5BTXdWY2JEOFM2enBZX3FSTTVwRmFvWHdQMnZrTnpKZGg2LXhzR0VVQ2",
+        "published_time": "Fri, 03 Jul 2026 22:37:40 GMT",
+        "modified_time": "",
+        "time": "Fri, 03 Jul 2026 22:37:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYUtVclRjRWp4Z3A5Zjgzc1lGNkdkbDdZZTktcklyaG9ubjRGd2xrREl3REpQVkxXd2NwY05DNW9xbXVYWG5BTXdWY2JEOFM2enBZX3FSTTVwRmFvWHdQMnZrTnpKZGg2LXhzR0VVQ2ZDRDdKS08xZ05heWNoby1lcUptS1dWVmJnOF80Ym1VXzZVVWNtRkZZT25YY1dHYkJYZTl2UUd0cGFsMGE1WUw0cjQtZktvVEM0UkhXblRmLU1MQ2hTX29zWVdyOS1nU3REUnBKb19LYw?oc=5"
       }
     ],
     "top_keywords": [],
-    "top_sources": [
-      [
-        "PR TIMES",
-        3
-      ],
-      [
-        "Antara News",
-        3
-      ],
-      [
-        "Pressemitteilungen",
-        2
-      ],
-      [
-        "dw",
-        2
-      ],
-      [
-        "Ärzteblatt",
-        2
-      ],
-      [
-        "ZEIT",
-        2
-      ],
-      [
-        "Interempresas",
-        2
-      ],
-      [
-        "Quotidianosanità.it",
-        2
-      ],
-      [
-        "Diário de Notícias",
-        2
-      ],
-      [
-        "Estado de Minas",
-        2
-      ],
-      [
-        "The Conversation",
-        2
-      ],
-      [
-        "Waterkant",
-        2
-      ],
-      [
-        "Yle",
-        2
-      ],
-      [
-        "Expressen",
-        2
-      ],
-      [
-        "RMF24",
-        2
-      ]
-    ]
+    "top_sources": []
   }
 }

@@ -1,0 +1,771 @@
+{
+  "date": "2026-08-12",
+  "total_articles": 446,
+  "language_breakdown": {
+    "korean": {
+      "total": 216,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 24,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 14,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 133,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 8
+      }
+    },
+    "multilingual": {
+      "total": 97,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 9,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 27
+    },
+    {
+      "keyword": "허가",
+      "count": 16
+    },
+    {
+      "keyword": "식약처",
+      "count": 11
+    },
+    {
+      "keyword": "FDA",
+      "count": 10
+    },
+    {
+      "keyword": "백신",
+      "count": 8
+    },
+    {
+      "keyword": "급여",
+      "count": 7
+    },
+    {
+      "keyword": "임상",
+      "count": 7
+    },
+    {
+      "keyword": "R&D",
+      "count": 5
+    },
+    {
+      "keyword": "수출",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 3
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 19
+    },
+    {
+      "keyword": "approval",
+      "count": 7
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 5
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "safety",
+      "count": 3
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "news.nate.com",
+      "count": 13
+    },
+    {
+      "source": "Gwara Media",
+      "count": 12
+    },
+    {
+      "source": "데일리팜",
+      "count": 11
+    },
+    {
+      "source": "newsis.com",
+      "count": 7
+    },
+    {
+      "source": "뉴스1",
+      "count": 6
+    },
+    {
+      "source": "v.daum.net",
+      "count": 5
+    },
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "팜뉴스",
+      "count": 4
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "kalkine.ca",
+      "count": 5
+    },
+    {
+      "source": "The Manila Times",
+      "count": 4
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 4
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 3
+    },
+    {
+      "source": "아시아경제",
+      "count": 3
+    },
+    {
+      "source": "cen.acs.org",
+      "count": 3
+    },
+    {
+      "source": "koreabiomed.com",
+      "count": 3
+    },
+    {
+      "source": "BioPharma Dive",
+      "count": 3
+    },
+    {
+      "source": "Kalkine",
+      "count": 3
+    },
+    {
+      "source": "The Economic Times",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 21,
+      "keywords": [
+        "신약",
+        "drug",
+        "com"
+      ],
+      "articles": [
+        {
+          "title": "JW Pharmaceutical jumps on phase 3 success for gout drug, targets Korea NDA - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "<span name=\"stock\" id=\"stock_001060\">JW Pharmaceutical(001060)</span> shares are surging in early trading on the 12th. | Buying is flowing in on news that a gout drug candidate succeeded in a phase 3 clinical trial. | As",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 12 Aug 2026 00:24:00 GMT",
+          "url": "https://biz.chosun.com/en/en-finance/2026/08/12/VHXHQW5LKVBXHLK2MEBQAM3RSY/"
+        },
+        {
+          "title": "New Drug Application for LAE002 (afuresertib) Accepted by China's National Medical Products Administration - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "12, 2026 /PRNewswire/ -- Laekna (2105.HK) announced today that the New Drug Application (NDA) for LAE002 (afuresertib) has been accepted by the Center for Drug Evaluation (CDE) of China's National Medical Products Admini",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 12 Aug 2026 01:02:01 GMT",
+          "url": "https://www.manilatimes.net/2026/08/12/tmt-newswire/pr-newswire/new-drug-application-for-lae002-afuresertib-accepted-by-chinas-national-medical-products-administration/2403562"
+        },
+        {
+          "title": "Laekna's Breast Cancer Drug NDA Accepted by China's NMPA, Targeting First Domestic AKT Inhibitor - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Laekna's Breast Cancer Drug NDA Accepted by China's NMPA, Targeting First Domestic AKT Inhibitor | Add to Google Preferred Sources | Hong Kong-listed Laekna (2105.HK) announced that China's National Medical Products Admi",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 12 Aug 2026 01:06:00 GMT",
+          "url": "https://finance.biggo.com/news/03495d3d-563a-4fb6-a154-3f26eb014121"
+        },
+        {
+          "title": "LG CNS Builds AI Drug Discovery Platform for Dong-A Socio Group, Accelerating Pharma AX Business - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "LG CNS Builds AI Drug Discovery Platform for Dong-A Socio Group, Accelerating Pharma AX Business | Add to Google Preferred Sources | LG CNS, in collaboration with DAI — the IT affiliate of Dong-A Socio Group — has comple",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 12 Aug 2026 02:05:00 GMT",
+          "url": "https://finance.biggo.com/news/d4543a0e-9851-4439-af9d-16f87dfe7b87"
+        },
+        {
+          "title": "Drug regulator prescribes complete review of globally unapproved drugs - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 12, 2026 at 08:43 AM IST | New Delhi: India’s apex drug regulator has clarified that drugs under development or evaluated under | global clinical trials | , with Indian subjects, but not ye",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 12 Aug 2026 02:20:35 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/policy-and-regulations/drug-regulator-prescribes-complete-review-of-globally-unapproved-drugs/133168075"
+        },
+        {
+          "title": "Maharashtra FDA Launches Statewide Crackdown On Ayurvedic Drug Makers, Cancels 10 Licences Over Serious GMP & - Free Press Journal",
+          "source": "Free Press Journal",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Maharashtra Food and Drug Administration (FDA) has launched a statewide crackdown on Ayurvedic drug manufacturers after inspections found serious violations of prescribed manufacturing and quality-control standards a",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 12 Aug 2026 04:11:46 GMT",
+          "url": "https://www.freepressjournal.in/mumbai/maharashtra-fda-launches-statewide-crackdown-on-ayurvedic-drug-makers-cancels-10-licences-over-serious-gmp-quality-violations"
+        },
+        {
+          "title": "Predictions realized: Regulators and enforcement authorities dial up the heat on prediction markets while event contracts expand into clinical trial outcomes and FDA approvals - what companies need to know - hlc.com",
+          "source": "hlc.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Insights and Analysis | Predictions realized: Regulators and enforcement authorities dial up the heat on prediction markets while event contracts expand into clinical trial outcomes and FDA approvals - what companies nee",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 12 Aug 2026 02:01:13 GMT",
+          "url": "https://www.hlc.com/en/publications/predictions-realized-regulators-and-enforcement-authorities-dial-up-the-heat-on-prediction-markets"
+        },
+        {
+          "title": "Maharashtra FDA revokes licences of 10 Ayurvedic drug manufacturers - thenewsmill.com",
+          "source": "thenewsmill.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The Maharashtra Food and Drug Administration (FDA) has cancelled the manufacturing licences of 10 Ayurvedic drug manufacturers following the detection of serious violations during a statewide inspection drive. | The FDA ",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 12 Aug 2026 03:22:13 GMT",
+          "url": "https://thenewsmill.com/2026/08/maharashtra-fda-cancels-licences-of-10-ayurvedic-drug-firms-over-major-violations/"
+        },
+        {
+          "title": "Maharashtra FDA cracks down on Ayurvedic drug makers, cancels 10 licences - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Maharashtra FDA cracks down on Ayurvedic drug makers, cancels 10 licences | Maharashtra FDA has launched a statewide crackdown on Ayurvedic drug manufacturers. | Inspections revealed serious violations of manufacturing a",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 12 Aug 2026 03:37:00 GMT",
+          "url": "https://m.economictimes.com/industry/healthcare/biotech/healthcare/maharashtra-fda-cracks-down-on-ayurvedic-drug-makers-cancels-10-licences/amp_articleshow/133169140.cms"
+        },
+        {
+          "title": "JW중외제약 통풍 신약 ‘에파미뉴라드’, 임상 3상서 표준 치료제 대비 우월성 입증 - S저널",
+          "source": "S저널",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "JW사옥 ⓒ JW중외제약 | JW중외제약은 통풍치료제 후보물질 ’에파미뉴라드(Epaminurad, 코드명 URC102)’의 다국가 임상 3상 결과, 주력 개발 용량인 6mg이 기존 표준 치료제 대비 우수한 혈중 요산 감소 효과와 통계적 우월성을 입증했다고 밝혔다. | 에파미뉴라드는 사람 요산수송체(hURAT1, human uric acid transporter-1)를 선택적으로 저해해 신장에",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 05:07:30 GMT",
+          "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=42980"
+        },
+        {
+          "title": "JW중외제약 통풍 신약 ‘에파미뉴라드’, 3상서 표준치료제 대비 우월성 입증 - fetv.co.kr",
+          "source": "fetv.co.kr",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[FETV=이건우 기자] JW중외제약의 통풍치료제 후보물질 ‘에파미뉴라드’가 다국가 임상 3상에서 주력 개발 용량인 6mg의 유효성과 안전성을 확인했다. | JW중외제약은 에파미뉴라드 6mg이 기존 표준 치료제인 페북소스타트 40mg 대비 혈중 요산 감소 효과에서 비열등성을 충족하고 통계적 우월성도 입증했다고 11일 밝혔다. | JW사옥 [사진 JW중외제약] | 에파미뉴라드는 사람 요산수송체",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 00:21:20 GMT",
+          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308242"
+        },
+        {
+          "title": "JW중외제약 15%대↑…통풍 신약 국내 품목허가 추진 - 이코노뉴스",
+          "source": "이코노뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "(그래픽=네이버페이 증권 캡처) | [이코노뉴스=어 만 기자] JW중외제약이 통풍 치료제 후보물질 ‘에파미뉴라드’의 국내 품목허가 신청을 추진한다는 소식에 급등하고 있다. | JW중외제약은 12일 코스피 시장에서 오전 9시27분 현재 전 거래일보다 15.62%(4100원) 상승한 3만350원에 거래되고 있다. | JW중외제약 주가는 지난 4일부터 이날까지 7거래일 연속 상승세를 이어가고 있다",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 00:29:55 GMT",
+          "url": "https://www.econonews.co.kr/news/articleView.html?idxno=442683"
+        },
+        {
+          "title": "JW중외제약 통풍신약, 3상서 표준치료제 대비 우월…내년 허가 목표 - news.nate.com",
+          "source": "news.nate.com",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "JW중외제약 통풍신약, 3상서 표준치료제 대비 우월…내년 허가 목표 - news.nate.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 11 Aug 2026 22:35:00 GMT",
+          "url": "https://news.nate.com/view/20260812n03555"
+        },
+        {
+          "title": "JW중외제약, 통풍 신약 ‘에파미뉴라드’ 임상 3상서 표준 치료제 대비 우월성 입증 - newstnt.com",
+          "source": "newstnt.com",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "6mg 용량서 페북소스타트 대비 높은 요산 감소 효과 확인… 2027년 국내 품목허가 목표 | JW중외제약은 개발 중인 통풍치료제 후보물질 ‘에파미뉴라드(코드명 URC102)’의 다국가 임상 3상 시험에서 주력 용량인 6mg이 기존 표준 치료제인 페북소스타트 대비 우수한 혈중 요산 감소 효과와 통계적 우월성을 입증했다고 11일 밝혔다. | 이번 임상 3상은 한국을 포함한 아시아 5개국 52개",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 01:42:53 GMT",
+          "url": "https://www.newstnt.com/news/articleView.html?idxno=713657"
+        },
+        {
+          "title": "LG CNS, 동아쏘시오그룹 플랫폼 구축···신약개발 AI로 단축 - 시사저널e",
+          "source": "시사저널e",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "이미지 = 제미나이 생성 | [시사저널e=송주영 기자] LG CNS가 동아쏘시오그룹의 IT 계열사 DAI(디에이아이)와 협력해 ‘동아쏘시오그룹 AI 신약개발 플랫폼’을 구축했다고 12일 밝혔다. | 이 플랫폼은 신약 후보물질 발굴부터 검증까지 전 주기를 AI로 지원한다. | 양사는 약 6개월간의 개발 작업을 거쳐 이번 플랫폼 구축을 마무리했다. | 신약 개발은 후보물질을 반복적으로 검증하는 ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 03:03:46 GMT",
+          "url": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno=423026"
+        },
+        {
+          "title": "LG CNS, ‘AI 신약개발 플랫폼’ 구축 - 헤럴드경제",
+          "source": "헤럴드경제",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "동아쏘시오 맞손…후보물질 검증까지 | 연구 진행될수록 예측 성능 높아져 | LG CNS(대표 현신균·사진)가 인공지능(AI) 기술로 신약 주요 연구 과정을 원스톱으로 구현할 수 있는 신약 개발 플랫폼을 구축했다. | 12일 LG CNS는 동아쏘시오그룹 IT 계열사 DAI(디에이아이)와 함께 동아쏘시오그룹의 ‘AI 신약개발 플랫폼’ 구축을 완료했다고 밝혔다. | 이번 플랫폼은 양사가 약 6개월",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 02:26:07 GMT",
+          "url": "https://biz.heraldcorp.com/article/10838671"
+        },
+        {
+          "title": "LG CNS, ?'AI 신약개발 플랫폼' 구축 - news.nate.com",
+          "source": "news.nate.com",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "LG CNS, ?'AI 신약개발 플랫폼' 구축 - news.nate.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 02:27:00 GMT",
+          "url": "https://news.nate.com/view/20260812n13955?mid=n0105"
+        },
+        {
+          "title": "[AI정책노트] AI가 신약 후보 찾고 실험실이 검증…정부, K-문샷 신약개발 거점 가동 - 디지털데일리",
+          "source": "디지털데일리",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "‘AI정책노트’는 정부가 추진하는 AI 정책을 빠르게 살펴볼 수 있도록 제도, 지원사업, 인재양성, 국제협력 등 흩어져 있는 AI 정책 소식을 정리합니다. | [사진=과학기술정보통신부] | [디지털데일리 오병훈기자] 정부가 인공지능(AI) 모델과 실제 실험실이 함께 학습하고 진화하는 새로운 신약개발 체계 구축에 나섭니다. | AI가 바이오데이터를 토대로 후보물질과 실험 조건을 제안하면 자동화",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 04:16:04 GMT",
+          "url": "https://www.ddaily.co.kr/page/view/2026081212070905179"
+        },
+        {
+          "title": "노보, 아마존 자회사와 AI 통한 신약개발 제휴 - 약업닷컴",
+          "source": "약업닷컴",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "노보 노디스크社와 아마존닷컴의 클라우드 컴퓨팅 자회사인 아마존 웹 서비스社(AWS: Amazon Web Services)가 전략적 제휴에 합의했다고 10일 공표했다.양사는 약물발굴을 가속화하고, 에이전틱 인공지능(A... | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 03:04:00 GMT",
+          "url": "http://m.yakup.com/news/?mode=view&cat=16&cat2=&cat3=0&nid=331010"
+        },
+        {
+          "title": "삼성 '갤럭시 버즈3 프로·4 프로' 보청기로 쓴다…美 FDA 승인 획득 - 케이벤치",
+          "source": "케이벤치",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "삼성 '갤럭시 버즈3 프로·4 프로' 보청기로 쓴다…美 FDA 승인 획득 | 2026/08/12 09:22:47 | 삼성전자가 갤럭시 버즈의 보청기 기능에 대해 미국 식품의약국(FDA) | 이에 따라 호환되는 갤럭시 버즈는 경도에서 중등도의 난청이 있는 | 18세 이상 성인이 일반 의약품 보청기처럼 사용할 수 있게 된다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 12 Aug 2026 00:22:47 GMT",
+          "url": "https://kbench.com/?q=node/281096"
+        },
+        {
+          "title": "LG전자, 美 FDA 승인 진단용 모니터 출시…B2B 의료시장 공략 강화 - 아주경제",
+          "source": "아주경제",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "LG전자는 의료기기로 미국 식품의약국(FDA) 승인을 받은 진단용 모니터 신제품을 출시하며, B2B 의료용 모니터 라인업을 대폭 강화했다. | LG전자가 미국 식품의약국(FDA) 승인을 받은 진단용 모니터 신제품을 앞세워 기업간거래(B2B) 의료용 모니터 시장 공략에 속도를 낸다. | LG전자는 최근 FDA 승인을 받은 40형 진단용 모니터 신제품(모델명 40HT513D)을 출시하고 의료용 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 12 Aug 2026 01:00:00 GMT",
+          "url": "https://www.ajunews.com/view/20260812081502874"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "halaman",
+        "com",
+        "kompasiana",
+        "farmasi",
+        "pemanfaatan",
+        "dalam",
+        "dunia"
+      ],
+      "articles": [
+        {
+          "title": "Pemanfaatan Ai Dalam Industri Farmasi Mendorong Obat Menjadi Efisien Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Favorit Kompasianer | Fahruddin Fitriya | Kabinet Bayangan Memaksa Kita Membayangkan Kabinet Beneran | Roselina Tjiptadinata | Berbagi Cuplikan Kisah Perjalanan Keliling dunia ( seri kelimabelas )",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Wed, 12 Aug 2026 06:29:43 GMT",
+          "url": "https://www.kompasiana.com/rizkyfadhli5171/6a7c12d734777c40a55eaa14/pemanfaatan-ai-dalam-industri-farmasi-mendorong-obat-menjadi-efisien"
+        },
+        {
+          "title": "Pemanfaatan Artificial Intelligence (AI) dalam Dunia Farmasi Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Favorit Kompasianer | Fahruddin Fitriya | Kabinet Bayangan Memaksa Kita Membayangkan Kabinet Beneran | Roselina Tjiptadinata | Berbagi Cuplikan Kisah Perjalanan Keliling dunia ( seri kelimabelas )",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Wed, 12 Aug 2026 03:11:25 GMT",
+          "url": "https://www.kompasiana.com/bellafebrianty9249/6a7be45dc925c43e47385d4a/pemanfaatan-artificial-intelligence-ai-dalam-dunia-farmasi"
+        },
+        {
+          "title": "Pemanfaatan AI Dalam Dunia Farmasi: PELUANG, TANTANGAN DAN PERSPEKTIF. Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Favorit Kompasianer | Fahruddin Fitriya | Kabinet Bayangan Memaksa Kita Membayangkan Kabinet Beneran | Roselina Tjiptadinata | Berbagi Cuplikan Kisah Perjalanan Keliling dunia ( seri kelimabelas )",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Wed, 12 Aug 2026 02:49:21 GMT",
+          "url": "https://www.kompasiana.com/jscaac/6a7bdf3134777c21ff1b7f12/pemanfaatan-ai-dalam-dunia-farmasi-peluang-tantangan-dan-perspektif"
+        },
+        {
+          "title": "AI di Dunia Farmasi: Ancaman bagi Profesi atau Justru Partner Apoteker? Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Favorit Kompasianer | Fahruddin Fitriya | Kabinet Bayangan Memaksa Kita Membayangkan Kabinet Beneran | Roselina Tjiptadinata | Berbagi Cuplikan Kisah Perjalanan Keliling dunia ( seri kelimabelas )",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Wed, 12 Aug 2026 03:43:45 GMT",
+          "url": "https://www.kompasiana.com/khusnul66778/6a7bebf1c925c4591c33e133/ai-di-dunia-farmasi-ancaman-bagi-profesi-atau-justru-partner-apoteker"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "com",
+        "newsis",
+        "택배로",
+        "보낸",
+        "백옥주사",
+        "불법",
+        "송치",
+        "판매자",
+        "검찰"
+      ],
+      "articles": [
+        {
+          "title": "대웅제약, 상반기 매출도 맑음…효자 품목 '이것' - newsis.com",
+          "source": "newsis.com",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "대웅제약, 상반기 매출도 맑음…효자 품목 '이것' | 등록 2026.08.12 15:17:31 | 구글에서 선호하는 매체로 추가 | 올해 2분기 매출·영업익 모두 증가 | 나보타, 작년 연매출 2000억원 넘어",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Wed, 12 Aug 2026 06:17:31 GMT",
+          "url": "https://www.newsis.com/view/NISX20260812_0003746361"
+        },
+        {
+          "title": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 - newsis.com",
+          "source": "newsis.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 | 2026/08/12 09:45:12 | 최종수정 2026/08/12 10:06:25 | 1억6000만원 상당 불법 판매해 적발 | 온라인 카페 통해 전문의약품 판매",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 00:45:12 GMT",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260812_0003745620"
+        },
+        {
+          "title": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 - newsis.com",
+          "source": "newsis.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 | 등록 2026.08.12 09:45:12 | 수정 2026.08.12 10:06:25 | 구글에서 선호하는 매체로 추가 | 1억6000만원 상당 불법 판매해 적발",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 12 Aug 2026 00:45:12 GMT",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745620"
+        },
+        {
+          "title": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 - newsis.com",
+          "source": "newsis.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "'백옥주사' 택배로 보낸 불법 판매자…검찰 송치 | 2026/08/12 09:45:12 | 최종수정 2026/08/12 10:06:25 | 1억6000만원 상당 불법 판매해 적발 | 온라인 카페 통해 전문의약품 판매",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Wed, 12 Aug 2026 00:45:12 GMT",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260812_0003745620"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 4,
+      "keywords": [
+        "영업익",
+        "분기",
+        "com",
+        "chosun",
+        "조선비즈",
+        "biz",
+        "매출",
+        "백신",
+        "의약품",
+        "휴온스"
+      ],
+      "articles": [
+        {
+          "title": "식약처, AI 디지털 의료기기 우수 기업 인증 - 조선비즈 - biz.chosun.com",
+          "source": "biz.chosun.com",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "식품의약품안전처는 인공지능(AI) 디지털 의료기기 우수 기업을 인증한다고 12일 밝혔다. | 디지털 의료기기는 전통 의료기기와 달리 무형(無形)의 AI나 소프트웨어를 활용해 환자 치료를 돕는다. | 식약처는 AI 제어 조치, 안전 관리 등 4개 역량을 평가한다. | 전문가로 구성된 인증 심의 위원회에서 서면, 현지 조사를 거쳐 적합한 기업에 우수 관리 체계를 인증한다. | 식약처 인증을 받으",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 12 Aug 2026 06:13:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/12/AJNQ32DVMZBC7LTXQCE2BOYFQM/"
+        },
+        {
+          "title": "온코닉테라퓨틱스, 2분기 영업익 전년比 151% 증가…‘자큐보’ 처방 확대 - 조선비즈 - biz.chosun.com",
+          "source": "biz.chosun.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "<span name=\"stock\" id=\"stock_271980\">제일약품(271980)</span> 자회사 <span name=\"stock\" id=\"stock_476060\">온코닉테라퓨틱스(476060)</span>는 올해 2분기 영업이익은 27억8920만원으로 지난해 같은 기간보다 150.6% 증가한 것으로 집계됐다고 12일 밝혔다. | 같은 기간 매출액은 24억3993만원으로 158.7",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 12 Aug 2026 05:45:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/12/B4WJ5UQCR5EERH2EKM7BM7GH3U/"
+        },
+        {
+          "title": "휴온스, 2분기 영업익 73억원 기록…백신 사업·의약품 매출 회복 - 미래경제",
+          "source": "미래경제",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "별도 매출 1176억원으로 6.4% 증가…연결 영업익도 흑자전환 | 휴온스그룹 사옥 전경.[사진=휴온스 제공] ⓜ | [미래경제 김대희 기자] 휴온스가 올해 2분기 국내 의약품 사업과 백신 신사업 성장에 힘입어 전분기 대비 실적을 개선했다. | 휴온스는 올해 2분기 별도 기준 잠정 매출액 1176억원, 영업이익 73억원을 기록했다고 밝혔다. | 전분기와 비교하면 매출은 6.4%, 영업이익은 ",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Wed, 12 Aug 2026 00:30:00 GMT",
+          "url": "https://www.mirae-biz.com/news/articleView.html?idxno=110754"
+        },
+        {
+          "title": "휴온스, 2분기 영업익 흑자전환…백신·의약품 매출 성장 - fetv.co.kr",
+          "source": "fetv.co.kr",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[FETV=이건우 기자] 휴온스가 국내 의약품과 백신 신사업 성장에 힘입어 2분기 영업이익 흑자전환에 성공했다. | 휴온스는 2분기 별도 기준 매출 1176억원, 영업이익 73억원을 기록했다고 11일 밝혔다. | 전분기 대비 각각 6.4%, 485.7% 증가했다. | 연결 기준 매출은 1470억원, 영업이익은 29억원으로 전분기 대비 매출은 3.6% 늘고 영업이익은 흑자전환했다. | 휴온스 ",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Wed, 12 Aug 2026 00:13:28 GMT",
+          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=308239"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Pas op voor traditionele Chinese geneesmiddelen die op sociale media worden aangeprezen en beweren de vitaliteit te verhogen. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "Volg Vietnam.vn op | Voeg Vietnam.vn toe op | Het Centraal Militair Ziekenhuis 108 ontvangt de laatste tijd regelmatig mannelijke patiënten tussen de 30 en 40 jaar met verminderde seksuele functie. | ",
+      "url": "https://www.vietnam.vn/nl/can-trong-thuoc-dong-y-tang-cuong-sinh-luc-ban-tren-mang-xa-hoi"
+    },
+    {
+      "title": "Rekabet Kurumu beklenen ilaç sektörü ön raporunu yayımladı - medimagazin.com.tr",
+      "source": "medimagazin.com.tr",
+      "importance": 50,
+      "snippet": "Rekabet Kurumunun internet sitesinden yapılan açıklamada, Kurulun 8 Aralık 2021'de ilaç sektöründeki yapısal rekabet sorunlarının tespiti ve rekabetçi çözüm önerilerinin getirilmesi amacıyla sektör in",
+      "url": "https://medimagazin.com.tr/ilac-sanayi/rekabet-kurumu-beklenen-ilac-sektoru-on-raporunu-yayimladi-120956"
+    },
+    {
+      "title": "IRA drug price negotiation could discourage biosimilar development - Managed Healthcare Executive",
+      "source": "Managed Healthcare Executive",
+      "importance": 47,
+      "snippet": "IRA drug price negotiation could discourage biosimilar development - Managed Healthcare Executive | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.managedhealthcareexecutive.com/shorts/ira-drug-price-negotiation-could-discourage-biosimilar-development"
+    },
+    {
+      "title": "국내 첫 국립소방병원 개원…19개 진료과·302병상 규모 - 청년의사",
+      "source": "청년의사",
+      "importance": 42,
+      "snippet": "화상·정신건강 등 특성화…충북 중부권 지역거점 역할도 | 국립소방병원 전경(국립소방병원 홈페이지 발췌). | 소방공무원의 직무 특성을 고려해 진료부터 치료·재활, 건강관리까지 전담하는 국내 첫 소방 전문 공공의료기관인 국립소방병원이 문을 열었다. | 소방청은 지난 11일 충북 음성군 국립소방병원에서 개원식을 열고 국립소방병원이 공식 개원했다고 12일 밝혔다",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3041727"
+    },
+    {
+      "title": "Eupraxia Pharmaceuticals Reports Second Quarter 2026 Financial Results - Investing News Network",
+      "source": "Investing News Network",
+      "importance": 42,
+      "snippet": "Investing News Network | August 11, 2026 | New data presented at Digestive Disease Week (DDW) demonstrating improvement of fibrosis and inflammation following a single treatment of EP-104GI | Strength",
+      "url": "https://investingnews.com/eupraxia-pharmaceuticals-reports-second-quarter-2026-financial-results/"
+    },
+    {
+      "title": "Công an xã Hoàn Long tăng cường công tác phối hợp rà soát, kiểm tra việc thực hiện các quy định của pháp luật về hành nghề y, dược tư nhân, mỹ phẩm và cơ sở dịch vụ thẩm mỹ - Công an Hưng Yên",
+      "source": "Công an Hưng Yên",
+      "importance": 42,
+      "snippet": "Công an xã Hoàn Long tăng cường công tác phối hợp rà soát, kiểm tra việc thực hiện các quy định của pháp luật về hành nghề y, dược tư nhân, mỹ phẩm và cơ sở dịch vụ thẩm mỹ | 요약문 생성 불가 | 요약문 생성 불가 | 요",
+      "url": "https://congan.hungyen.gov.vn/cong-an-xa-hoan-long-tang-cuong-cong-tac-phoi-hop-ra-soat-kiem-tra-viec-thuc-hien-cac-quy-dinh-cua-p-c238962.html"
+    },
+    {
+      "title": "Bộ Y tế yêu cầu chấn chỉnh hoạt động y, dược cổ truyền - Đài Phát thanh và Truyền hình TP.HCM",
+      "source": "Đài Phát thanh và Truyền hình TP.HCM",
+      "importance": 42,
+      "snippet": "Trồng cây dược liệu là hướng đi mới với nhiều nông dân ở Hưng Yên. | Ảnh minh họa: Thu Hoài/TTXVN | Theo Bộ Y tế, thời gian qua, các địa phương đã quan tâm chỉ đạo triển khai các nhiệm vụ phát triển l",
+      "url": "https://htv.vn/bo-y-te-yeu-cau-chan-chinh-hoat-dong-y-duoc-co-truyen-222260812072115603.htm"
+    },
+    {
+      "title": "Dược Hậu Giang đồng hành cùng Tuần lễ cập nhật kiến thức y khoa liên tục - Bệnh viện Đại học Y Dược Thành phố Hồ Chí Minh 2026 - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 42,
+      "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Chương trình là một hoạt động đào tạo thường niên đã được tổ chức xuyên suốt hơn 10 năm qua. | Năm 2026 sẽ đem đến 45 chuyên đề với hơn 270 bài báo cá",
+      "url": "https://www.vietnam.vn/duoc-hau-giang-dong-hanh-cung-tuan-le-cap-nhat-kien-thuc-y-khoa-lien-tuc-benh-vien-dai-hoc-y-duoc-thanh-pho-ho-chi-minh-2026"
+    },
+    {
+      "title": "대화제약 ‘리포락셀‘ 中 유방암 허가심사 후반부…임상·통계 검토 완료 - medicopharma.co.kr",
+      "source": "medicopharma.co.kr",
+      "importance": 41,
+      "snippet": "RMX3001 중국 유방암 NDA 심사 ‘잠시 멈춤’…보완자료·등록검사 등 후속 절차 가능성 | [메디코파마뉴스=최원석 기자] 대화제약의 경구용 파클리탁셀 '리포락셀(코드명: RMX3001)'이 중국 유방암 적응증 허가심사에서 임상과 통계 분야 전문검토를 마친 것으로 나타났다. | 다만 전체 심사 상태는 '잠시 멈춤(暂停)'으로 표시돼 있어 보완자료 제출이",
+      "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=69082"
+    },
+    {
+      "title": "\"한약사, 의사 처방약 조제 못한다\"…복지부, 전국 지자체에 공문 - 뉴스1",
+      "source": "뉴스1",
+      "importance": 40,
+      "snippet": "약정협의체 후속 조치…전문·일반의약품 조제 불가 안내 | 조제·판매 시 1차 업무정지 15일…4차 위반 시 면허취소 | 대한약사회 임원들이 지난해 12월 서울 여의도 국회 본청 앞에서 한약사 문제 해결을 위한 약사법 개정 촉구 결의대회를 하고 있다. | ⓒ 뉴스1 신웅수 기자 | 권영희 대한약사회장이 지난달 12일 서울역 앞에서 대국민 인식 개선 캠페인 진",
+      "url": "https://www.news1.kr/bio/general/6256855"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 8,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 7
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 7,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 3
+    }
+  ]
+}

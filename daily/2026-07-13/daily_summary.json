@@ -1,171 +1,291 @@
 {
   "date": "2026-07-13",
-  "total": 269,
+  "total": 381,
   "version": 1,
-  "generated_at": "2026-07-13T07:01:16.753662+09:00",
+  "generated_at": "2026-07-13T17:27:11.697049+09:00",
   "korean": {
-    "total": 109,
+    "total": 180,
     "categories": {
-      "의약품": 14,
-      "의약산업": 10,
-      "의약정책": 4,
-      "의약단체": 9,
-      "의약관련정부기관": 5,
-      "의료현장": 22,
-      "약국·약사": 4,
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 16,
+      "의약단체": 12,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 7,
       "의료정책·인력": 25,
-      "전통의학": 1,
-      "감염·보건": 15
+      "전통의학": 3,
+      "감염·보건": 17
     },
     "top_articles": [
       {
-        "title": "휴온스, 개량신약 기반 넓혀 안과&#183;비만 신약 R&amp;D 확장",
-        "source": "메디파나 뉴스",
-        "importance": 56,
+        "title": "셀트리온, 바이오시밀러 넓히고 신약 키운다…성장동력 강화 - 조선비즈 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 55,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:메디파나 뉴스+24 | 최신:8분+20 | 키워드+10 | 순위:84위+2",
-        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. R&amp;D 3년 해부 기획. 사진=메디파나뉴스 '3년'. 짧다면 짧은 시간이지만, 신약 연구개발(R&amp;D) 전략에 변화가 생기기엔 충분한 시간이기도 합니다. 어떤 기업은 R&amp;D 투자를 ...",
-        "published_time": "8분",
+        "evidence": "출처:Chosunbiz+28 | 최신:Sun, 12 Jul 2026 23:36:00 GMT+5 | 키워드+20 | 순위:258위+2",
+        "snippet": "셀트리온, 바이오시밀러 넓히고 신약 키운다…성장동력 강화 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "셀트리온, 바이오시밀러 넓히고 신약 키운다…성장동력 강화 - 조선비즈 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "셀트리온, 바이오시밀러 넓히고 신약 키운다…성장동력 강화 - 조선비즈 - Chosunbiz",
+        "content_length": 50,
+        "published_time": "Sun, 12 Jul 2026 23:36:00 GMT",
         "modified_time": "",
-        "time": "8분",
-        "url": "https://www.medipana.com/news/articleView.html?idxno=414443"
+        "time": "Sun, 12 Jul 2026 23:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXpCQWFGd1E1VDNpX1lwT1FYbV9iaDk0SWpZY3JkYm5JenpkREw2enBSYWtfRVF5enNpUDB4Vk9EY1p4ck04TVJTZWlzNHc2VkhKbENOM0FIT0s2N0hXcWJUQ2tmZ1B0MUNTNEk3OURNMjJZUVlEbkxDN29TSC1CczhJeExtNDjSAZsBQVVfeXFMTXJGeDBGWXdYTmxJUDR6Y2hrQkg4VUlXdTVxOFdoOVlfNEQzQVpzUWI4ZWtpLXJsZ1FzTERCLXoySzdQRnlwSlhCOGx2bnFoTmxhU2Y0M2Q5T0k3WlozV2hVWThHb1BHUkNVaGtlSUNVMUFBWXNVRC1ONy1QakNsQ0NkTWFHRkZxX3N4ZUpQYWxBbEwzVjhXckZVTWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
       },
       {
-        "title": "FDA CRL 뜯어보니, 최종 허가 가른 CMC…규격&#183;제조소&#183;완제공정 핵심",
-        "source": "약업닷컴",
-        "importance": 56,
+        "title": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 45,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:약업닷컴+24 | 최신:54분+20 | 키워드+10 | 순위:30위+2",
-        "snippet": "셀트리온 박현수 CMC&#183;RA 부서장이 9일 서울 마곡 서울창업허브 엠플러스에서 열린 ‘제2회 BIOCHINA Global Forum @ Korea’에서 발표하고 있다.&#169;약업신문=권혁진 기자미국 FDA 허가(Approval, ...",
-        "published_time": "54분",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 13 Jul 2026 02:04:00 GMT+5 | 키워드+10 | 순위:294위+2",
+        "snippet": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+        "content_length": 41,
+        "published_time": "Mon, 13 Jul 2026 02:04:00 GMT",
         "modified_time": "",
-        "time": "54분",
-        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=photo&amp;nid=329685"
+        "time": "Mon, 13 Jul 2026 02:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVdlM2pZd2dLcVR2YkZUSHNYSlBHTkpVUTMxUkRwODdBN3lUVVlrU3N5LVpuLTA5aWJCRE55Vmt0eGxpaEo1WG02Qk5lTUdtUmRDWXdsUU9FTlVONUE1WlUzNlJIejdZN0ZNNFhKZUk2UDA1MndGcFhxVzhHS2FsWEtJY1luMGkyb2Rna2NwNDFiZWZUQ3d5dmd3YnV1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
       },
       {
-        "title": "신약개발의 무덤 ‘안구건조증’…K바이오 도전 성공할까 - supple.kr",
-        "source": "",
-        "importance": 37,
+        "title": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+        "source": "ebn.co.kr",
+        "importance": 41,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 20:00:00 GMT+5 | 키워드+20 | 순위:76위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE13N3dVTW5NNWZVdkNRVUhOcjc2Z0EtcjVINWhDa0lFRXFfdGVxeC0xV3cyREczMmVUYkczaDJIQ3hmZkxjcFBDejE1MmNnTHFkNWNTUUpreDZMZXZl?oc=5\" target=\"_blank\">신약개",
-        "published_time": "Sun, 12 Jul 2026 20:00:00 GMT",
+        "evidence": "출처:ebn.co.kr+24 | 최신:Mon, 13 Jul 2026 03:57:23 GMT+5 | 키워드+10 | 순위:260위+2",
+        "snippet": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+        "content_length": 43,
+        "published_time": "Mon, 13 Jul 2026 03:57:23 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 20:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13N3dVTW5NNWZVdkNRVUhOcjc2Z0EtcjVINWhDa0lFRXFfdGVxeC0xV3cyREczMmVUYkczaDJIQ3hmZkxjcFBDejE1MmNnTHFkNWNTUUpreDZMZXZl?oc=5"
+        "time": "Mon, 13 Jul 2026 03:57:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fNnl0aHF0aHV4LXdRYzNlb1lYaWdJRjBua2FuM1VpSDVoT18zSkVMeHpqeDBMeldzdEdtaW00T2VzUUM5VlhYVWR0OUU4dGJYU2FqVkdRQVRPNzdMZ3dFNURVZ2JUZnRj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ebn.co.kr"
       },
       {
-        "title": "신약개발의 무덤 ‘안구건조증’…K바이오 도전 성공할까 - 이투데이",
-        "source": "",
-        "importance": 37,
+        "title": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+        "source": "ebn.co.kr",
+        "importance": 41,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 20:00:00 GMT+5 | 키워드+20 | 순위:81위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFNGdSNlkxQ2hoWDZzeTBmbHZhWWhkRWRhdlBjRFgweDJDWE9Hby1WTmRuVERVUmJ0T29UTzJXOGRNbEF6eUpsdWlINTUxTFRpc3gzUg?oc=5\" target=\"_blank\">신약개발의 무덤 ‘안구건",
-        "published_time": "Sun, 12 Jul 2026 20:00:00 GMT",
+        "evidence": "출처:ebn.co.kr+24 | 최신:Mon, 13 Jul 2026 03:57:23 GMT+5 | 키워드+10 | 순위:172위+2",
+        "snippet": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "식약처, 다발신경병증 희귀신약 '와이누아오토인젝터' 허가 - ebn.co.kr",
+        "content_length": 43,
+        "published_time": "Mon, 13 Jul 2026 03:57:23 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 20:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFNGdSNlkxQ2hoWDZzeTBmbHZhWWhkRWRhdlBjRFgweDJDWE9Hby1WTmRuVERVUmJ0T29UTzJXOGRNbEF6eUpsdWlINTUxTFRpc3gzUg?oc=5"
+        "time": "Mon, 13 Jul 2026 03:57:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fNnl0aHF0aHV4LXdRYzNlb1lYaWdJRjBua2FuM1VpSDVoT18zSkVMeHpqeDBMeldzdEdtaW00T2VzUUM5VlhYVWR0OUU4dGJYU2FqVkdRQVRPNzdMZ3dFNURVZ2JUZnRj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ebn.co.kr"
       },
       {
-        "title": "[영상]대한약사회, 서울역 두 번째 대국민 캠페인 - 약사공론",
-        "source": "",
-        "importance": 37,
+        "title": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 40,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 10:18:00 GMT+5 | 키워드+20 | 순위:46위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRFVlMkNwY3RCS1dpd0lobmwyT3VuN19aaEZrSFFRWHdOdTgtWjZaWUZaX2Q2QzJ6akJyUVFySFlQc000c3Vwc2dTOEFQX1FFdGZ4V1Q0cVNZOHRjdjlHYThTU0lsOVduY3hzQw?oc=",
-        "published_time": "Sun, 12 Jul 2026 10:18:00 GMT",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 13 Jul 2026 02:04:00 GMT+5 | 키워드+5 | 순위:153위+2",
+        "snippet": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "英, 치매 신약 개발 속도전… 전국 임상 플랫폼 구축 - Chosunbiz",
+        "content_length": 41,
+        "published_time": "Mon, 13 Jul 2026 02:04:00 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 10:18:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRFVlMkNwY3RCS1dpd0lobmwyT3VuN19aaEZrSFFRWHdOdTgtWjZaWUZaX2Q2QzJ6akJyUVFySFlQc000c3Vwc2dTOEFQX1FFdGZ4V1Q0cVNZOHRjdjlHYThTU0lsOVduY3hzQw?oc=5"
+        "time": "Mon, 13 Jul 2026 02:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVdlM2pZd2dLcVR2YkZUSHNYSlBHTkpVUTMxUkRwODdBN3lUVVlrU3N5LVpuLTA5aWJCRE55Vmt0eGxpaEo1WG02Qk5lTUdtUmRDWXdsUU9FTlVONUE1WlUzNlJIejdZN0ZNNFhKZUk2UDA1MndGcFhxVzhHS2FsWEtJY1luMGkyb2Rna2NwNDFiZWZUQ3d5dmd3YnV1Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
       },
       {
-        "title": "대한약사회 \"약사 개설은 약국, 한약사 개설은 한약국으로 명확히 구분해야\" - 팜뉴스",
-        "source": "",
-        "importance": 37,
+        "title": "HLB 간암신약 결국 세 번째 CRL…허가 지연에 상업성 우려까지 - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 40,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 20:50:00 GMT+5 | 키워드+20 | 순위:47위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1BX0c0SjJpdl9kQmRVZDh1ZXdGdnRSMU9yeFdmdWMxZC1FVzZfMDBnVzlFa0N3bkhpWk1oa2NLZWNTQ3NaVFBBLVdwM1R4Q1BkZVhOOG1ERm1ZSXFKUEphNXd6eG14QU1Nd05USA?oc=",
-        "published_time": "Sun, 12 Jul 2026 20:50:00 GMT",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Sun, 12 Jul 2026 23:26:01 GMT+5 | 키워드+5 | 순위:174위+2",
+        "snippet": "HLB 간암신약 결국 세 번째 CRL…허가 지연에 상업성 우려까지 - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "HLB 간암신약 결국 세 번째 CRL…허가 지연에 상업성 우려까지 - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "HLB 간암신약 결국 세 번째 CRL…허가 지연에 상업성 우려까지 - edaily.co.kr",
+        "content_length": 51,
+        "published_time": "Sun, 12 Jul 2026 23:26:01 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 20:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BX0c0SjJpdl9kQmRVZDh1ZXdGdnRSMU9yeFdmdWMxZC1FVzZfMDBnVzlFa0N3bkhpWk1oa2NLZWNTQ3NaVFBBLVdwM1R4Q1BkZVhOOG1ERm1ZSXFKUEphNXd6eG14QU1Nd05USA?oc=5"
+        "time": "Sun, 12 Jul 2026 23:26:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUNOUTVmWFRmWGROeW5ZeXF0SlNkVDlTRE13SjNtcEowZnZNVnptRWg0aW1zQlM2YnozUzFaLTBPZ3hjdnc5eks2bU5LLVlWTEJDNXkzYTJXSXVQM2dDcGxGMmZ2ZXIzaHA1QlVXamMzMi1pbldlUkxFdnFkRW5vbg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
       },
       {
-        "title": "필리핀 의사·간호사 \"K-선진 의료 배워갑니다\" - 충청매일",
-        "source": "",
-        "importance": 37,
+        "title": "휴가철 앞두고 A형간염·백일해 주의보…\"백신 접종이 최선\" - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 40,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 08:15:00 GMT+5 | 키워드+20 | 순위:117위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1sTElpTjRudElpaTVJU3BSZjZXU2hDOS1Nc2ExLUtPdkJ3ZjVIRVJWaUtQLXpOMWxXQWc1NTBVVXJZN29DdEZyejJFYzJLQzlvZU5EZ2VoTTdLMFJSa1VrR2RadEZPNFRoZ0E?oc=5\" ",
-        "published_time": "Sun, 12 Jul 2026 08:15:00 GMT",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Mon, 13 Jul 2026 02:25:02 GMT+5 | 키워드+5 | 순위:89위+2",
+        "snippet": "휴가철 앞두고 A형간염·백일해 주의보…\"백신 접종이 최선\" - edaily.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "휴가철 앞두고 A형간염·백일해 주의보…\"백신 접종이 최선\" - edaily.co.kr",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "휴가철 앞두고 A형간염·백일해 주의보…\"백신 접종이 최선\" - edaily.co.kr",
+        "content_length": 47,
+        "published_time": "Mon, 13 Jul 2026 02:25:02 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 08:15:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sTElpTjRudElpaTVJU3BSZjZXU2hDOS1Nc2ExLUtPdkJ3ZjVIRVJWaUtQLXpOMWxXQWc1NTBVVXJZN29DdEZyejJFYzJLQzlvZU5EZ2VoTTdLMFJSa1VrR2RadEZPNFRoZ0E?oc=5"
+        "time": "Mon, 13 Jul 2026 02:25:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdEZvQWREVnBvQVYyN0oxV2pIZGxGSURSaE9GMjR6R3hPRkUyNlBRaE5sUC05T3lGcWJJMHBYRl9DS1o0ajlZZ3lIUXMwbjNPLUFQaHNtY1Utb29QV2NpYkM4cTZqRWZhSHh2OHNJSFBLTFFQbzkxNkRMUU80ajEyVg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.edaily.co.kr"
       },
       {
-        "title": "초라이 병원은 보트 전복 사고 피해자들을 돕기 위해 의사와 의료 물품을 푸꾸옥으로 보냈습니다. - Vietnam.vn",
-        "source": "",
+        "title": "희귀 다발신경병증 신약 '와이누아' 허가…ASO 치료제 등장 - 바이오북미디어",
+        "source": "바이오북미디어",
         "importance": 37,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 15:50:18 GMT+5 | 키워드+20 | 순위:118위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFI0d09ZN1FXNkhBOUZ5dXpWNVVaUDhScHY3Zko4WmhLR21NVE9BNTNXU0RVbVU1X1lxM29CZ2ktTmlyZkk1TjQ4dTBDZFUyVGNVbTQ0WGQwVzM1UjFTbklnWGdpc0V4U2ZpdHNXSm",
-        "published_time": "Sun, 12 Jul 2026 15:50:18 GMT",
+        "evidence": "출처:바이오북미디어+10 | 최신:Mon, 13 Jul 2026 00:32:00 GMT+5 | 키워드+20 | 순위:270위+2",
+        "snippet": "희귀 다발신경병증 신약 '와이누아' 허가…ASO 치료제 등장 - 바이오북미디어 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "희귀 다발신경병증 신약 '와이누아' 허가…ASO 치료제 등장 - 바이오북미디어",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "희귀 다발신경병증 신약 '와이누아' 허가…ASO 치료제 등장 - 바이오북미디어",
+        "content_length": 43,
+        "published_time": "Mon, 13 Jul 2026 00:32:00 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 15:50:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFI0d09ZN1FXNkhBOUZ5dXpWNVVaUDhScHY3Zko4WmhLR21NVE9BNTNXU0RVbVU1X1lxM29CZ2ktTmlyZkk1TjQ4dTBDZFUyVGNVbTQ0WGQwVzM1UjFTbklnWGdpc0V4U2ZpdHNXSmtzTU43UUFfOFJ1X3J4RTVrTVlHaU1hSlNYTDlOd0RjSlFod0h2YTJhSnRacFFpNkVISjR1ZjhHN18wRDhfZDFF?oc=5"
+        "time": "Mon, 13 Jul 2026 00:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zMnBGUHFyb2Yxb1hxc0pucG9JNlQ1NnZpdU9CMXFKa0ZYR2ZiQzVsQ0ZNRXFaX1BVNXRHS21NSW1tS0laTnNBaEVGZmd1am9tcFdSMGpSZmstdHVSem5uQ3UwR3JlY1VWMUUwU253?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.biobookmedia.com"
       },
       {
-        "title": "\"형사특례 성패 시행령에\" 우려에…政 \"의료진 보호 기준 구체화\" - 청년의사",
-        "source": "",
+        "title": "中, 신약개발 경쟁에 몸값 뛴 원숭이…“4400만원? 돈 줘도 못 구해” - 전자신문",
+        "source": "전자신문",
         "importance": 37,
         "stars": "⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 21:20:58 GMT+5 | 키워드+20 | 순위:130위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9aajllUnlveVBqZzhHUkNUUjl0WTNYZVRZQVotQVZhalhhVEtKRE1FWE1BT2wyVlpjcU5QTUpkRWhsMWJQRzU0Q1Bzd0VMLXBHQlJMUF9WVlo5cVA3NW95ZlBra0lvb0JmWXBsdnRJb0",
-        "published_time": "Sun, 12 Jul 2026 21:20:58 GMT",
+        "evidence": "출처:전자신문+10 | 최신:Mon, 13 Jul 2026 04:38:43 GMT+5 | 키워드+20 | 순위:293위+2",
+        "snippet": "中, 신약개발 경쟁에 몸값 뛴 원숭이…“4400만원? | 돈 줘도 못 구해” - 전자신문 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "中, 신약개발 경쟁에 몸값 뛴 원숭이…“4400만원?",
+          "돈 줘도 못 구해” - 전자신문",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "中, 신약개발 경쟁에 몸값 뛴 원숭이…“4400만원? 돈 줘도 못 구해” - 전자신문",
+        "content_length": 47,
+        "published_time": "Mon, 13 Jul 2026 04:38:43 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 21:20:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aajllUnlveVBqZzhHUkNUUjl0WTNYZVRZQVotQVZhalhhVEtKRE1FWE1BT2wyVlpjcU5QTUpkRWhsMWJQRzU0Q1Bzd0VMLXBHQlJMUF9WVlo5cVA3NW95ZlBra0lvb0JmWXBsdnRJb03SAXNBVV95cUxNb3pCVWk1djJZSmJCV2xYQXZKYnZnWlhkajJiSEdxbDVZUjZUWklUVF9YQWJ2TkNkZXl1dmgyUUhDTzctV1RZU1BSOENVLUNEOEJLTy1ZcWRNWDR5N2dGMlBBNHIwYlliRFcxVW9wSmxWX2xj?oc=5"
+        "time": "Mon, 13 Jul 2026 04:38:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xZzdNeUd1VDQtNGl3Rm4xbUxPbUp3YTc3YmtTWm9sQkpMamVxLWJDRlAyUEttTkZJNFN4UEp2U1hXZ2E5QzFjTmFzaS14UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.etnews.com"
       },
       {
-        "title": "여름철 가축전염병 신고센터 운영",
-        "source": "광주매일신문 on MSN",
+        "title": "‘신약개발 열풍’ 中서 귀한몸 된 원숭이…한마리 몸값이 무려 - 서울경제",
+        "source": "서울경제",
         "importance": 37,
         "stars": "⭐⭐",
-        "evidence": "출처:광주매일신문 on MSN+10 | 최신:12시간+15 | 키워드+10 | 순위:90위+2",
-        "snippet": "전남광주통합특별시 동물위생시험소는 여름철 폭염, 집중호우 등 자연재해에 따른 가축 전염병 발생과 ...",
-        "published_time": "12시간",
+        "evidence": "출처:서울경제+10 | 최신:Sun, 12 Jul 2026 22:00:00 GMT+5 | 키워드+20 | 순위:299위+2",
+        "snippet": "‘신약개발 열풍’ 中서 귀한몸 된 원숭이…한마리 몸값이 무려 - 서울경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "‘신약개발 열풍’ 中서 귀한몸 된 원숭이…한마리 몸값이 무려 - 서울경제",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "‘신약개발 열풍’ 中서 귀한몸 된 원숭이…한마리 몸값이 무려 - 서울경제",
+        "content_length": 40,
+        "published_time": "Sun, 12 Jul 2026 22:00:00 GMT",
         "modified_time": "",
-        "time": "12시간",
-        "url": "https://www.msn.com/ko-kr/news/other/%EC%97%AC%EB%A6%84%EC%B2%A0-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EC%8B%A0%EA%B3%A0%EC%84%BC%ED%84%B0-%EC%9A%B4%EC%98%81/ar-AA27K7gJ?ocid=BingNewsVerp"
+        "time": "Sun, 12 Jul 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tNWNQdXdQb2hNbnVqU0hEb3J6WkhpcGZ2NDZKaEhBcVZhRzd0UlFjRms2NUw3ZUlGcU5XdDRDN0lQLUJJcmQyQkhrLVN6bFF6SmRN0gFTQVVfeXFMTy01Y1B1d1BvaE1udWpTSERvcnpaSGlwZnY0NkpoSEFxVmFHN3RSUWNGazY1TDdlSUZxTld0NEM3SVAtQklyZDJCSGstU3psUXpKZE0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://m.sedaily.com"
       }
     ],
     "top_keywords": [
       [
         "신약",
-        17
+        29
       ],
       [
-        "R&D",
+        "허가",
+        28
+      ],
+      [
+        "식약처",
+        18
+      ],
+      [
+        "한약",
+        9
+      ],
+      [
+        "급여",
+        7
+      ],
+      [
+        "약가",
         6
       ],
       [
         "FDA",
+        5
+      ],
+      [
+        "심사",
         4
       ],
       [
-        "허가",
+        "비만",
         3
       ],
       [
-        "한약",
+        "제네릭",
         3
       ],
       [
-        "급여",
-        2
+        "임상",
+        3
       ],
       [
-        "ADC",
+        "GMP",
         2
       ],
       [
@@ -173,193 +293,349 @@
         2
       ],
       [
-        "비만",
+        "수출",
+        2
+      ],
+      [
+        "바이오시밀러",
         1
       ],
       [
-        "수출",
+        "항암",
+        1
+      ],
+      [
+        "R&D",
         1
       ]
     ],
     "top_sources": [
       [
-        "메디파나 뉴스",
-        1
+        "v.daum.net",
+        8
       ],
       [
-        "약업닷컴",
-        1
+        "Vietnam.vn",
+        7
       ],
       [
-        "광주매일신문 on MSN",
-        1
+        "네이트",
+        6
       ],
       [
-        "데일리스포츠한국",
-        1
+        "메디파나뉴스",
+        5
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        5
+      ],
+      [
+        "간호사신문",
+        5
+      ],
+      [
+        "ebn.co.kr",
+        4
+      ],
+      [
+        "히트뉴스",
+        4
+      ],
+      [
+        "청년의사",
+        4
+      ],
+      [
+        "의약뉴스",
+        4
+      ],
+      [
+        "Chosunbiz",
+        3
+      ],
+      [
+        "서울경제",
+        3
+      ],
+      [
+        "파이낸셜뉴스",
+        3
+      ],
+      [
+        "메디칼타임즈",
+        3
+      ],
+      [
+        "데일리메디",
+        3
       ]
     ]
   },
   "english": {
-    "total": 114,
+    "total": 117,
     "categories": {
       "Drugs & Therapies": 25,
       "Pharma Industry": 25,
       "Pharma Policy": 25,
       "Pharma Associations": 25,
-      "Regulatory Agencies": 13,
-      "Traditional & Complementary Medicine": 1
+      "Regulatory Agencies": 15,
+      "Traditional & Complementary Medicine": 2
     },
     "top_articles": [
       {
+        "title": "HLB plunges as FDA rejects liver cancer drug; company pursues rapid reapproval - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 13 Jul 2026 06:27:00 GMT+5 | 키워드+30 | 순위:213위+2",
+        "snippet": "HLB plunges as FDA rejects liver cancer drug; company pursues rapid reapproval - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "HLB plunges as FDA rejects liver cancer drug; company pursues rapid reapproval - CHOSUNBIZ - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "HLB plunges as FDA rejects liver cancer drug; company pursues rapid reapproval - CHOSUNBIZ - Chosunbiz",
+        "content_length": 102,
+        "published_time": "Mon, 13 Jul 2026 06:27:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 06:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEdTQTJYZW9zb01ZMFV0SkFFX0w4eFpCVUdtVlBZSHVlSjJTLU5tV0Jpc3BHOXJ4ODRRUUhJeVBYUkh0SVprUUFhekRROTRKb25vZnVPS2g3U1FSY2FGbkFLZWpKQUM0d2Y2bjFQd2loZXJTUld5SHRYWWRYc2ZHV9IBlAFBVV95cUxOSHVGRTFXdXhKWlBLbV9qTVZTRVMyTjdpT0lBaG9KOVhOWUdUMlRlYlRMNXBDbmVINWs3ZUVLNWRFZnhONTJTanl6anhCZ1VYWFFNSENCSVlvZmRHMVhMdUJRcW5JakxJajRUQUgySWYyY1E2cVFiSldTR0JCSXZtVkF5eEkzSlNVaFZFQVpRLWluV3E0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "UK links 180 dementia databases to speed drug trials and lure R&D investment - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Mon, 13 Jul 2026 02:04:00 GMT+5 | 키워드+30 | 순위:301위+2",
+        "snippet": "UK links 180 dementia databases to speed drug trials and lure R&D investment - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "UK links 180 dementia databases to speed drug trials and lure R&D investment - CHOSUNBIZ - Chosunbiz",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "UK links 180 dementia databases to speed drug trials and lure R&D investment - CHOSUNBIZ - Chosunbiz",
+        "content_length": 100,
+        "published_time": "Mon, 13 Jul 2026 02:04:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 02:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdHA1ckZZdVVVYTJneE9rejJ0R0hoejdqalJqalItUEF3T3JQcG9RbjB5UE9jS2tBd29NeDJTbTl4MWswUGZrcF9RZTI4YnJHUF9CTzNQWWNfSG1PcUJRQ0NxQkNuem9TaXNuaUJ0QVZiVFdHcnpYVmtQc21KUm1Rc2hYNlhVel9Y0gGcAUFVX3lxTE9WekQtS3J3QldLLXNxckl4V2tjM3dDSDlVSlNYc2RGU3FnM2FucHhpRDJVaXhfSWZ4REZjbHNQWnFoN09rd3hPUWwyTVRNb2F4NEpEc3ZPVWRhNVJHMVY5UUNabUREX05LeG5wM2J0b2xIOXNBakJJR3NERy1acndMX1FMdEZtY3Z2Y1dKMzNRa1gyYThuQ2FyeTVuRg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
         "title": "Psychology says people who reach for herbal remedies when they feel sick aren't avoiding medicine, they may be trusting a 2,000-year-old pharmacopoeia that a Turkish mountain suggests was never entirely forgotten - ecoportal.net",
-        "source": "",
-        "importance": 63,
+        "source": "ecoportal.net",
+        "importance": 60,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 14:50:00 GMT+5 | 키워드+30 | 순위:4위+18",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWJ5d2NYRWZQTF9UN2ZScWZITlJ3Tk5IZlg3ZXdwZTB4U2I2bC1rWl85cFNHUVdneDNFSm95Ujg3VlR2U3VOWk5xRE1WRGtHR0FnaEZmT21yT3lIMHB5Z1JMR3FucDM0YllUX3RXaz",
+        "evidence": "출처:ecoportal.net+10 | 최신:Sun, 12 Jul 2026 14:50:00 GMT+5 | 키워드+30 | 순위:8위+15",
+        "snippet": "Psychology says people who reach for herbal remedies when they feel sick aren't avoiding medicine, they may be trusting a 2,000-year-old pharmacopoeia that a Turkish mountain suggests was never entirely forgotten - ecopo",
+        "summary_lines": [
+          "Psychology says people who reach for herbal remedies when they feel sick aren't avoiding medicine, they may be trusting a 2,000-year-old pharmacopoeia that a Turkish mountain suggests was never entirely forgotten - ecoportal.net",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Psychology says people who reach for herbal remedies when they feel sick aren't avoiding medicine, they may be trusting a 2,000-year-old pharmacopoeia that a Turkish mountain suggests was never entirely forgotten - ecoportal.net",
+        "content_length": 228,
         "published_time": "Sun, 12 Jul 2026 14:50:00 GMT",
         "modified_time": "",
         "time": "Sun, 12 Jul 2026 14:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWJ5d2NYRWZQTF9UN2ZScWZITlJ3Tk5IZlg3ZXdwZTB4U2I2bC1rWl85cFNHUVdneDNFSm95Ujg3VlR2U3VOWk5xRE1WRGtHR0FnaEZmT21yT3lIMHB5Z1JMR3FucDM0YllUX3RXazJVaUx3U1Z4My1lQThrSmJnSmVudEVMYjA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWJ5d2NYRWZQTF9UN2ZScWZITlJ3Tk5IZlg3ZXdwZTB4U2I2bC1rWl85cFNHUVdneDNFSm95Ujg3VlR2U3VOWk5xRE1WRGtHR0FnaEZmT21yT3lIMHB5Z1JMR3FucDM0YllUX3RXazJVaUx3U1Z4My1lQThrSmJnSmVudEVMYjA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ecoportal.net"
       },
       {
-        "title": "Anthropic wants to disrupt drug discovery. Industry experts say the real challenge comes later - CTech",
-        "source": "",
+        "title": "Navigating The New EU Pharmaceutical Legislation Key Implications For Pediatric Drug Development - Clinical Leader",
+        "source": "Clinical Leader",
         "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 09:20:00 GMT+5 | 키워드+30 | 순위:112위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGhHb2IwcElVbHFsdnFVSHJlM1VzMW1hTHRoX0J0N19oSFJCX0NDTEhRS0ZjYnhKcnVfRmlXRm9JS1pMVDcxOC12ZWNzaVM0MGVzZldCbFcxTk9ZTG9jVTA2Z0syOXFH?oc=5\" tar",
-        "published_time": "Sun, 12 Jul 2026 09:20:00 GMT",
+        "evidence": "출처:Clinical Leader+10 | 최신:Mon, 13 Jul 2026 07:10:08 GMT+5 | 키워드+30 | 순위:211위+2",
+        "snippet": "Navigating The New EU Pharmaceutical Legislation Key Implications For Pediatric Drug Development - Clinical Leader | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Navigating The New EU Pharmaceutical Legislation Key Implications For Pediatric Drug Development - Clinical Leader",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Navigating The New EU Pharmaceutical Legislation Key Implications For Pediatric Drug Development - Clinical Leader",
+        "content_length": 114,
+        "published_time": "Mon, 13 Jul 2026 07:10:08 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 09:20:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YTGhHb2IwcElVbHFsdnFVSHJlM1VzMW1hTHRoX0J0N19oSFJCX0NDTEhRS0ZjYnhKcnVfRmlXRm9JS1pMVDcxOC12ZWNzaVM0MGVzZldCbFcxTk9ZTG9jVTA2Z0syOXFH?oc=5"
+        "time": "Mon, 13 Jul 2026 07:10:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGZSUE02dGdlVG1od1RwOXlwZUpYbVlTR2RKQTdvSm5WUmxESVpyV1dDaXhFVG1JWjNNWGtkekdvazZ4SklETWpDUGVXeEJBaGdXcUVBZ2d4OGtnNmY1VDJvRVY0alFsZkUxLUh5Wm9yamhMU3hRWWduMmQ1XzhhY1ZTUlpnb3ZVT3pDYmlnVEdod2pRb1c3Y21fTGgzeHRlU3YyeGN3VzJNbUh5Wmg0bEFxNE80dm03dEYyNU53Q2cyeDF2TFpUdkRqM09IamlGVFE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.clinicalleader.com"
       },
       {
-        "title": "AstraZeneca Turns to China for Molecule That Might Top New Merck COPD Drug - MedCity News",
-        "source": "",
+        "title": "Drugmaker Vertex spends $10B to buy biotech firm to expand rare-disease offerings - Post and Courier",
+        "source": "Post and Courier",
         "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 19:37:17 GMT+5 | 키워드+30 | 순위:113위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTQwb2FWUi1rUW14ZWh4cGZpTEs0TmctUUZsQkQxS3dsb085eFB1c0tqbU1ab0xkc1Ywb0NmckE4dHhZVjhOdUNOQ3dHZ2o2SDhuYnZ5d2prQnZUcUNuQWpFVDNfNmZaZnF6Y25tbm",
-        "published_time": "Sun, 12 Jul 2026 19:37:17 GMT",
+        "evidence": "출처:Post and Courier+10 | 최신:Mon, 13 Jul 2026 08:00:00 GMT+5 | 키워드+30 | 순위:212위+2",
+        "snippet": "Drugmaker Vertex spends $10B to buy biotech firm to expand rare-disease offerings - Post and Courier | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Drugmaker Vertex spends $10B to buy biotech firm to expand rare-disease offerings - Post and Courier",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Drugmaker Vertex spends $10B to buy biotech firm to expand rare-disease offerings - Post and Courier",
+        "content_length": 100,
+        "published_time": "Mon, 13 Jul 2026 08:00:00 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 19:37:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTQwb2FWUi1rUW14ZWh4cGZpTEs0TmctUUZsQkQxS3dsb085eFB1c0tqbU1ab0xkc1Ywb0NmckE4dHhZVjhOdUNOQ3dHZ2o2SDhuYnZ5d2prQnZUcUNuQWpFVDNfNmZaZnF6Y25tbmsyMEdxejNfYk5sV3lBYlZxZlpTLTIwRkI5TkdhXzk2TGlKRHhpWno4TXJfUnMxUlFxTm1pSUpLZzRkaTd0QnJ5UWRtcm5VOEZq?oc=5"
+        "time": "Mon, 13 Jul 2026 08:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWmN5QlZnQUVVLXlmWVBjQ0l5VHU5ZUVYRzVsQmVUUnhCa1FOUWZvWHk4c1RPc0hORVRYQl9za3JYWktfZk52ZjdOVWV6dlp5Q1F0Y3JyLVhJeHJoTDJ5cEJBZTY5Vkc3QTh2UUZ0a1hXNG1ERHVrcTBub0M4cUlRdFJNMnNyazZxVVMzM3hYb0lHWU1kaFhEVlE3OGRnS0MyNXRKdDdTUWJuNFRWV2RSZlpla0hIVFFjOHpTc0RIOXF6TWFSb09GNUlRU0tjdTJVem8tTDB5T0c4OWtfT05FU0xXRFRjWUZFNXZkMENYSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.postandcourier.com"
+      },
+      {
+        "title": "Azelastine Drug Market Outlook 2035: Size, Trends, Growth & Key Insights - Global Growth Insights",
+        "source": "Global Growth Insights",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Global Growth Insights+10 | 최신:Mon, 13 Jul 2026 06:21:49 GMT+5 | 키워드+30 | 순위:217위+2",
+        "snippet": "Azelastine Drug Market Outlook 2035: Size, Trends, Growth & Key Insights - Global Growth Insights | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Azelastine Drug Market Outlook 2035: Size, Trends, Growth & Key Insights - Global Growth Insights",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Azelastine Drug Market Outlook 2035: Size, Trends, Growth & Key Insights - Global Growth Insights",
+        "content_length": 97,
+        "published_time": "Mon, 13 Jul 2026 06:21:49 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 06:21:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWlTZUU1X29JRVZLQTRuYnE5Qld0X0dsMDBOS1BkYk55TWFGQWFtcDhiYk5DUk5wbHRkUnBPVHlqV05vczVVV3V5dnpOTWxVODh4QmhvTUpXSmlsMUo2dG5rb0R5bkhwTmZKNlNIVG8zcENNbVMzUi04MV9lLVRBRGdja2dMd3hU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.globalgrowthinsights.com"
+      },
+      {
+        "title": "HLB Determined to Retry Liver Cancer Drug Approval: \"Multiple Cases of FDA Approval After Three CRLs\" - 아시아경제",
+        "source": "아시아경제",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:아시아경제+10 | 최신:Sun, 12 Jul 2026 23:57:26 GMT+5 | 키워드+30 | 순위:219위+2",
+        "snippet": "HLB Determined to Retry Liver Cancer Drug Approval: \"Multiple Cases of FDA Approval After Three CRLs\" - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "HLB Determined to Retry Liver Cancer Drug Approval: \"Multiple Cases of FDA Approval After Three CRLs\" - 아시아경제",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "HLB Determined to Retry Liver Cancer Drug Approval: \"Multiple Cases of FDA Approval After Three CRLs\" - 아시아경제",
+        "content_length": 109,
+        "published_time": "Sun, 12 Jul 2026 23:57:26 GMT",
+        "modified_time": "",
+        "time": "Sun, 12 Jul 2026 23:57:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrTTgxdkVjRmlGemlhNXV3d0Y4cmdiT2xpSFpJaEFMd3k0cjlNckhhaFVPeU9rblRYSk9oVDJzMGxWdUxPVzFROEp4M2lacmd5Ni11bmNjcU5ERnRod1djVkJKUWFlVWF6WlJscl9oTFE1NTZrbXkxTVY2QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.asiae.co.kr"
+      },
+      {
+        "title": "Merck & Co. stock holds steady as pharma giant leans on diversified drug portfolio - ad-hoc-news.de",
+        "source": "ad-hoc-news.de",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:ad-hoc-news.de+10 | 최신:Mon, 13 Jul 2026 08:05:11 GMT+5 | 키워드+30 | 순위:221위+2",
+        "snippet": "stock holds steady as pharma giant leans on diversified drug portfolio - ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "stock holds steady as pharma giant leans on diversified drug portfolio - ad-hoc-news.de",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Merck & Co. stock holds steady as pharma giant leans on diversified drug portfolio - ad-hoc-news.de",
+        "content_length": 99,
+        "published_time": "Mon, 13 Jul 2026 08:05:11 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 08:05:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY19UN2tjcDFhNV9HWVJTYmZkZ0l2YTQxYkh2YmV1bnBobzZIX1BHMDB4TU9mZEdHVzlVZ1NpbnFTUFNMWEVNUU9YRFRnVnprYUJIckdRSG1xU1poOW5pUTdNUjJMZEgzTkp0cHVBYW5LQmNhYnZCNWdEZy1yOVdLc2RRNWJrS2RBMlV3dXRKZ0tVYW1xTlRUM3plRG9Ub0dIT1RlR09aQzJiaWRRNTZpUEpxaUhSYTJhV2QyYXFTN2phMjhjaWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ad-hoc-news.de"
       },
       {
         "title": "A good new drug candidate does not immediately become a good drug. The value of a drug depends on ho.. - 매일경제",
-        "source": "",
+        "source": "매일경제",
         "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 15:10:00 GMT+5 | 키워드+30 | 순위:117위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yajBNTGlKekFJVkJ5UEo4eWdhSExtUkotLW9DSFRzMGtZY2ttUmEybmo5NFo3R3BTVUJOUDhwLTAySlRJLS1RVXVxcElRcXZCb1E?oc=5\" target=\"_blank\">A good new drug ",
+        "evidence": "출처:매일경제+10 | 최신:Sun, 12 Jul 2026 15:10:00 GMT+5 | 키워드+30 | 순위:223위+2",
+        "snippet": "A good new drug candidate does not immediately become a good drug. | The value of a drug depends on ho.. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "A good new drug candidate does not immediately become a good drug.",
+          "The value of a drug depends on ho..",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "A good new drug candidate does not immediately become a good drug. The value of a drug depends on ho.. - 매일경제",
+        "content_length": 109,
         "published_time": "Sun, 12 Jul 2026 15:10:00 GMT",
         "modified_time": "",
         "time": "Sun, 12 Jul 2026 15:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yajBNTGlKekFJVkJ5UEo4eWdhSExtUkotLW9DSFRzMGtZY2ttUmEybmo5NFo3R3BTVUJOUDhwLTAySlRJLS1RVXVxcElRcXZCb1E?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yajBNTGlKekFJVkJ5UEo4eWdhSExtUkotLW9DSFRzMGtZY2ttUmEybmo5NFo3R3BTVUJOUDhwLTAySlRJLS1RVXVxcElRcXZCb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.mk.co.kr"
       },
       {
         "title": "WuXi Biologics earns FDA approval for China drug substance facility - megaproject.com",
-        "source": "",
+        "source": "megaproject.com",
         "importance": 47,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 10:06:05 GMT+5 | 키워드+30 | 순위:118위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmtGMzhyX2xkclR1Qkc0d2JDenZ2TXM1cnJvTWxfYmdONXF0b01aenh5eHg0dmtHM21uaGk1VGQ0eFhJSzhlWFZxejdEU1p1c09lT09VRmc4LUpIM1Y5dHpuWjd6eEV2WjJOcFlHdm",
+        "evidence": "출처:megaproject.com+10 | 최신:Sun, 12 Jul 2026 10:06:05 GMT+5 | 키워드+30 | 순위:224위+2",
+        "snippet": "WuXi Biologics earns FDA approval for China drug substance facility - megaproject.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "WuXi Biologics earns FDA approval for China drug substance facility - megaproject.com",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "WuXi Biologics earns FDA approval for China drug substance facility - megaproject.com",
+        "content_length": 85,
         "published_time": "Sun, 12 Jul 2026 10:06:05 GMT",
         "modified_time": "",
         "time": "Sun, 12 Jul 2026 10:06:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmtGMzhyX2xkclR1Qkc0d2JDenZ2TXM1cnJvTWxfYmdONXF0b01aenh5eHg0dmtHM21uaGk1VGQ0eFhJSzhlWFZxejdEU1p1c09lT09VRmc4LUpIM1Y5dHpuWjd6eEV2WjJOcFlHdmtra0RQS3BqSlVjUzRrZFZuUUpDTl9sR0Z2UkpxMGlMMk52a1hUbmQyWVBwSkl2QmVGZjRpazVENA?oc=5"
-      },
-      {
-        "title": "Orion stock reflects steady pharma strategy as Helsinki-listed drug maker leans on specialty medicin - ad-hoc-news.de",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 09:39:41 GMT+5 | 키워드+30 | 순위:127위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOUW94NUhBRWF6WkxDelYtakhDVmRiV2diaHNuekF4YjdBZjEyTkZBT0c2M01UYVh5cnl1bmRHcFNIeGYyUkplMkVtMWpSeVFpUjFvRXhnTzVqeVBITWdncWIzd2wzd29vMzc0NHRMS0",
-        "published_time": "Sun, 12 Jul 2026 09:39:41 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 09:39:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUW94NUhBRWF6WkxDelYtakhDVmRiV2diaHNuekF4YjdBZjEyTkZBT0c2M01UYVh5cnl1bmRHcFNIeGYyUkplMkVtMWpSeVFpUjFvRXhnTzVqeVBITWdncWIzd2wzd29vMzc0NHRMS0g5WDFWRWRycWo5NHRtOWV3Tk8teG9Ua19jRUg0Ynp0OTBDVzNMUmZJSjRuSGhrS2F4dEhCTlIxcnc4VzF4bmZPelZlaGxKOWotRnlZRWdYVUYwbWJmb3N0Uzd0THY?oc=5"
-      },
-      {
-        "title": "SLS Stock Kicks Off Week In Green: CEO Flags Role In EU Biotech Policy Talks That Could Impact Drug Approvals - Stocktwits",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 10:58:11 GMT+5 | 키워드+30 | 순위:132위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnNjVE9wdlhobHQ1RDEzNTE1NGtXTVNOUWVpX1o4anFMaVJnRnZLVmFvSHh3NWV6NjBKaDYwWWVsbk8xVnRONlhSVWZaVERNWGxYZ2ljSU43NXEzOVIzTDQ5U2NjRVVVU0JfVTN0OV",
-        "published_time": "Sun, 12 Jul 2026 10:58:11 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 10:58:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnNjVE9wdlhobHQ1RDEzNTE1NGtXTVNOUWVpX1o4anFMaVJnRnZLVmFvSHh3NWV6NjBKaDYwWWVsbk8xVnRONlhSVWZaVERNWGxYZ2ljSU43NXEzOVIzTDQ5U2NjRVVVU0JfVTN0OVdaMVY4cm5ORUQ2cm05NjN2QnFBUlpEUzR0aHFsYmNiMVl6NTEwVzhvMDQ4UklYcVRJb1BsVk9TSTNIV1FETTRkNFlzdXVWV0U?oc=5"
-      },
-      {
-        "title": "Health: New drug cleared for compassionate use in Bundibugyo - NewVision.co.ug",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 10:00:05 GMT+5 | 키워드+30 | 순위:137위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlTUnQwY09FaUJnQXF5N2ZseTBSLWxFMWttd3dhMk9YRVFRV0NsNWkzemxGbTlfQnI0OTBfaXdBRGY0enl1akstWlVES3M1alRieDVvWFZlMG5ZWHJHVTN2bm8wb0VPdVB0bHd0Zn",
-        "published_time": "Sun, 12 Jul 2026 10:00:05 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 10:00:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSmlTUnQwY09FaUJnQXF5N2ZseTBSLWxFMWttd3dhMk9YRVFRV0NsNWkzemxGbTlfQnI0OTBfaXdBRGY0enl1akstWlVES3M1alRieDVvWFZlMG5ZWHJHVTN2bm8wb0VPdVB0bHd0ZnNWdjFDT1MyR3o5Q3hPWWszdk5oN1hrOFQ5aEt1WEp2S3pnYXFCX3ZFTGN5ZVR1bm1DdGpHUkloaXpUZw?oc=5"
-      },
-      {
-        "title": "Lung cancer drug hits main goal in trial - ARY News",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 17:37:03 GMT+5 | 키워드+30 | 순위:141위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bDY1NXRVd2hJVXBrT01jMFpiY3pZR0dmaGUwSXFvdHhjLVdwVDBWOHlUZmFxQ0I3SjZzVTIwaGNXVkFCZWNra01FTlF5VWxkYlkwU3JNNGFkdlltV1c4dWJKMTBpNEVobVpZ0gFwQV",
-        "published_time": "Sun, 12 Jul 2026 17:37:03 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 17:37:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bDY1NXRVd2hJVXBrT01jMFpiY3pZR0dmaGUwSXFvdHhjLVdwVDBWOHlUZmFxQ0I3SjZzVTIwaGNXVkFCZWNra01FTlF5VWxkYlkwU3JNNGFkdlltV1c4dWJKMTBpNEVobVpZ0gFwQVVfeXFMTnpyNzBFcHlOajhKUkxDdHA2bmU1ZVVaT3JxQXIybW5NOGpuUTBuX3RGMnpKLWxwQklEamx5RGFRekpxVUExZ2ZFVW9zdVN5TkJLT0NjMzc2TjZ1enFiZGo4c2xfdXNncC05cjRWSTdITw?oc=5"
-      },
-      {
-        "title": "Medicine Price Update: Essential Drugs, Medicines to Become Cheaper, Big Relief for People - Timesbull",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 11:11:34 GMT+5 | 키워드+30 | 순위:142위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxONEQyZjBCclE3VzNOX2dGNkVpU0hqZDUxTWJsOEtILVVsMHN6U1ZVNXVGTEdBXzRoRGR6UFd6azBNRTVjcFFqMFBRUXpPekNMUlBzX2MtaDVRWUFjT1VadTdpLThRYURZSHRqSlk4am",
-        "published_time": "Sun, 12 Jul 2026 11:11:34 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 11:11:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEQyZjBCclE3VzNOX2dGNkVpU0hqZDUxTWJsOEtILVVsMHN6U1ZVNXVGTEdBXzRoRGR6UFd6azBNRTVjcFFqMFBRUXpPekNMUlBzX2MtaDVRWUFjT1VadTdpLThRYURZSHRqSlk4amdlSXdDajdHOXVhYWhlUHItMTJpTjJGRGowNzVoaXFSRGtfUWFhcEFLYVFFN0d5MGgwUUJKd255R3hoclRhcEdidTM5Zw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmtGMzhyX2xkclR1Qkc0d2JDenZ2TXM1cnJvTWxfYmdONXF0b01aenh5eHg0dmtHM21uaGk1VGQ0eFhJSzhlWFZxejdEU1p1c09lT09VRmc4LUpIM1Y5dHpuWjd6eEV2WjJOcFlHdmtra0RQS3BqSlVjUzRrZFZuUUpDTl9sR0Z2UkpxMGlMMk52a1hUbmQyWVBwSkl2QmVGZjRpazVENA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://megaproject.com"
       }
     ],
     "top_keywords": [
       [
         "FDA",
-        10
+        12
       ],
       [
         "approval",
-        8
-      ],
-      [
-        "GLP-1",
-        4
-      ],
-      [
-        "recall",
-        4
-      ],
-      [
-        "pricing",
-        3
+        7
       ],
       [
         "manufacturing",
+        5
+      ],
+      [
+        "pricing",
+        4
+      ],
+      [
+        "GLP-1",
         3
       ],
       [
-        "clinical trial",
+        "recall",
+        3
+      ],
+      [
+        "generic",
         2
+      ],
+      [
+        "shortage",
+        1
       ],
       [
         "vaccine",
@@ -370,103 +646,271 @@
         1
       ],
       [
-        "patent",
-        1
-      ],
-      [
         "safety",
         1
       ]
     ],
-    "top_sources": []
+    "top_sources": [
+      [
+        "ad-hoc-news.de",
+        16
+      ],
+      [
+        "Kalkine",
+        4
+      ],
+      [
+        "MarketBeat",
+        4
+      ],
+      [
+        "Post and Courier",
+        3
+      ],
+      [
+        "매일경제",
+        3
+      ],
+      [
+        "Indian Pharma Post",
+        3
+      ],
+      [
+        "IndexBox",
+        3
+      ],
+      [
+        "Chosunbiz",
+        2
+      ],
+      [
+        "Clinical Leader",
+        2
+      ],
+      [
+        "Global Growth Insights",
+        2
+      ],
+      [
+        "아시아경제",
+        2
+      ],
+      [
+        "IndiaMedToday",
+        2
+      ],
+      [
+        "Seoul Economic Daily",
+        2
+      ],
+      [
+        "BW Businessworld",
+        2
+      ],
+      [
+        "openPR.com",
+        2
+      ]
+    ]
   },
   "multilingual": {
-    "total": 46,
+    "total": 84,
     "languages": {
-      "French / 프랑스어": 1,
-      "German / 독일어": 0,
-      "Spanish / 스페인어": 0,
-      "Italian / 이탈리아어": 1,
+      "French / 프랑스어": 2,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 5,
+      "Italian / 이탈리아어": 4,
       "Portuguese / 포르투갈어": 0,
-      "Dutch / 네덜란드어": 2,
+      "Dutch / 네덜란드어": 3,
       "Swedish / 스웨덴어": 0,
       "Polish / 폴란드어": 0,
-      "Turkish / 터키어": 0,
-      "Russian / 러시아어": 5,
-      "Japanese / 일본어": 0,
-      "Chinese Simplified / 중국어": 2,
-      "Chinese Traditional / 대만": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 9,
+      "Japanese / 일본어": 1,
+      "Chinese Simplified / 중국어": 8,
+      "Chinese Traditional / 대만": 2,
       "Vietnamese / 베트남어": 10,
-      "Thai / 태국어": 4,
-      "Indonesian / 인도네시아어": 9,
-      "Hindi / 힌디어": 3,
-      "Arabic / 아랍어": 2,
-      "Hebrew / 히브리어": 7,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 9,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 5,
       "Persian / 페르시아어": 0
     },
     "top_articles": [
       {
-        "title": "Trovato farmaco per i tumori dei cani: speranze anche per la medicina umana - Il Digitale",
-        "source": "",
+        "title": "2026最新24大医药领域核心龙头:创新药+中药+AI医药+CRO+仿制药_读书少女金 - 新浪网",
+        "source": "新浪网",
         "importance": 55,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 07:00:00 GMT+5 | 키워드+20 | 순위:2위+20",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1oeTFvVF81MDJfZ2RnZDQ0ejdoSDdyeWpYRjZlOGZSLXE2cnN4a0xkbWdqbkh2Q2dOVDI4c0JZWFI4WWIzYWlLZ1RtRFFFYm9CVHllejFQUGtUaE95anFsb3l4NlM0dFJYSVU1V0xicm",
-        "published_time": "Sun, 12 Jul 2026 07:00:00 GMT",
+        "evidence": "출처:新浪网+10 | 최신:Mon, 13 Jul 2026 06:18:00 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "2026最新24大医药领域核心龙头:创新药+中药+AI医药+CRO+仿制药_读书少女金 - 新浪网 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "2026最新24大医药领域核心龙头:创新药+中药+AI医药+CRO+仿制药_读书少女金 - 新浪网",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "2026最新24大医药领域核心龙头:创新药+中药+AI医药+CRO+仿制药_读书少女金 - 新浪网",
+        "content_length": 49,
+        "published_time": "Mon, 13 Jul 2026 06:18:00 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oeTFvVF81MDJfZ2RnZDQ0ejdoSDdyeWpYRjZlOGZSLXE2cnN4a0xkbWdqbkh2Q2dOVDI4c0JZWFI4WWIzYWlLZ1RtRFFFYm9CVHllejFQUGtUaE95anFsb3l4NlM0dFJYSVU1V0xicmVYOFJoZkJHQWo2UdIB1AJBVV95cUxNOW1WY0pmRlVnekpHWmdIOTZwbzZHZDNlMzl4cUhHOVJ4ZG4wYVlUSnZvdlZMa1JZbEJuZjhQQnk5NVFvYTZIODFoZVlWSXJpbTlZTFBvSlVFLXVFWWhnN0E0RFZ1X2s4Sk04UjBZdDdXb0NQR2h1UzNKSWRzVkY1VVlkamR4elRnbG1aaWFyWmFuUVhDbFlqdDF5bUhlNVp2N3ZTcHIyWkVWN2JZVEdBNE1SVF9oUFBLVUpQN0kwOXA4RDJ6ckRmT1d4akdKZi1YbXhFS01PSW9OdmZ0TTBBT0dqUjdUOEdyaW81elNSRGp3QTc5d1RQMk0wcVdvZFlVQkJ1UWIzSWgxZ0pxQkQzb3l0dk43Tl9hTVFXbENlUFFMMHk2cmdXSUh5TW1oU09iVmZqSGdqRnlvYk1fS0tCYTQyUlgxU3N5X2pfb0QxT1I5YUcx?oc=5"
+        "time": "Mon, 13 Jul 2026 06:18:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONFRrZ2FHNXJNQUM0RHFmZlRSUUZvcV95TWhHRFh2UXRTeDhwM1o0bVZlT2lqcTc4eXdfOUxsNDZSNFhQNTBpbEYyQ2pJLTA2UjU1T29HZWxqV2xncVMxMjhFTHFxSWdmV0FNZE1zM0ZfTGFiTWw3aGY2b3hCaWxRMVg4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://k.sina.com.cn"
       },
       {
-        "title": "Komisi VI DPR Dorong Kemandirian Industri Farmasi Nasional - RRI.co.id",
-        "source": "",
+        "title": "《中医药振兴发展规划》来了！中药逆市爆发！时隔8年，新版国家基药目录发布！以岭药业等创新中药新入选！中药ETF汇添富(560080)大涨超3% - 东方财富",
+        "source": "东方财富",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:东方财富+10 | 최신:Mon, 13 Jul 2026 06:38:28 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "《中医药振兴发展规划》来了！中药逆市爆发！时隔8年，新版国家基药目录发布！以岭药业等创新中药新入选！中药ETF汇添富(560080)大涨超3% - 东方财富 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "《中医药振兴发展规划》来了！中药逆市爆发！时隔8年，新版国家基药目录发布！以岭药业等创新中药新入选！中药ETF汇添富(560080)大涨超3% - 东方财富",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "《中医药振兴发展规划》来了！中药逆市爆发！时隔8年，新版国家基药目录发布！以岭药业等创新中药新入选！中药ETF汇添富(560080)大涨超3% - 东方财富",
+        "content_length": 78,
+        "published_time": "Mon, 13 Jul 2026 06:38:28 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 06:38:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CM0k2UHpLVHNpa0lCd2NuYU1JYV9va1MzVGtmMTFjVEtLcHdRTmM2WTlibmJJb1IyaVd4VGNGTmNpUXpTNDdfU192OXpYVGQ1WXVkVEhfbm41TnJpcHF1SDVtVXRfQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://finance.eastmoney.com"
+      },
+      {
+        "title": "Industria farmaceutica e Most Favoured Nation, Novo Nordisk avverte: \"Servono più investimenti in Europa\". Il piano su Anagni - Il Riformista",
+        "source": "Il Riformista",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Il Riformista+10 | 최신:Mon, 13 Jul 2026 06:00:00 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "Industria farmaceutica e Most Favoured Nation, Novo Nordisk avverte: \"Servono più investimenti in Europa\". | Il piano su Anagni - Il Riformista | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Industria farmaceutica e Most Favoured Nation, Novo Nordisk avverte: \"Servono più investimenti in Europa\".",
+          "Il piano su Anagni - Il Riformista",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Industria farmaceutica e Most Favoured Nation, Novo Nordisk avverte: \"Servono più investimenti in Europa\". Il piano su Anagni - Il Riformista",
+        "content_length": 141,
+        "published_time": "Mon, 13 Jul 2026 06:00:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 06:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb2RXRnRUaU82ZmRjSnJWZDdvV28xR0RIcFZ4QVhsbmttQVpXNXBJSnU2NEdGdnI2ZVlfUGctUlhaQlhDcVJoNTAtOG12U2h2eU9XWTkxcXV6dUtzRWt3eTFfVUtkZXM0NlVSaG9iSkZSWkNFSEsyVDdsaUlIbTdKVWtzVnNHNFo5SjF3SHJTYVZJcXJkdnVMMXhxZThOc29CbEViZDVUelVmTlNrVkZteDVrQ3k1TEhNVTYxSWhoYlQzVHpWX2NyOW9uTEotUGhrcDV2Y2E4TUZsZ2NvRUl0MVVKMk9ZdGxmN0xUNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.ilriformista.it"
+      },
+      {
+        "title": "Quang Ninh Geleneksel Tıp Hastanesindeki Yenilikler - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Mon, 13 Jul 2026 00:26:58 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "Quang Ninh Geleneksel Tıp Hastanesindeki Yenilikler - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Quang Ninh Geleneksel Tıp Hastanesindeki Yenilikler - Vietnam.vn",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Quang Ninh Geleneksel Tıp Hastanesindeki Yenilikler - Vietnam.vn",
+        "content_length": 64,
+        "published_time": "Mon, 13 Jul 2026 00:26:58 GMT",
+        "modified_time": "",
+        "time": "Mon, 13 Jul 2026 00:26:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0JuRllZT2ExX3NXMTZoT3dxbm44OVhhbDlES1U4RXVYaE1TbEhlVlpodTMwZ1poaDY0MHpEdHdaVlBXeVVMazdXZFVVZTFFcWU3MnZNRVhHbnk5NHkydzUwaTg3SERmcE91T1FHOV9nNlFwaDVtMWgwb2NxcFZGZTFFaklKNHBL?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "Edomex concentra industria farmacéutica nacional - La Jornada Estado de México",
+        "source": "La Jornada Estado de México",
         "importance": 50,
         "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 07:50:00 GMT+5 | 키워드+25 | 순위:12위+10",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1Q2a1VWcjRKczNqMUhkVHJrNnAxcU8zZVpYa1hSUW1xcUt1RmhQUEt1M0h4eElhMERPN2lueElwUDdLZmowY3lfNzQ0bmxENEhkcm92WXJ4azVaSERmQklQRDM1OEZFR1BTOGFVR0",
-        "published_time": "Sun, 12 Jul 2026 07:50:00 GMT",
+        "evidence": "출처:La Jornada Estado de México+10 | 최신:Sun, 12 Jul 2026 21:44:39 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "Edomex concentra industria farmacéutica nacional - La Jornada Estado de México | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Edomex concentra industria farmacéutica nacional - La Jornada Estado de México",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Edomex concentra industria farmacéutica nacional - La Jornada Estado de México",
+        "content_length": 78,
+        "published_time": "Sun, 12 Jul 2026 21:44:39 GMT",
         "modified_time": "",
-        "time": "Sun, 12 Jul 2026 07:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1Q2a1VWcjRKczNqMUhkVHJrNnAxcU8zZVpYa1hSUW1xcUt1RmhQUEt1M0h4eElhMERPN2lueElwUDdLZmowY3lfNzQ0bmxENEhkcm92WXJ4azVaSERmQklQRDM1OEZFR1BTOGFVR0xsdjhXbzNHYk16RGtnTjFPU0hiUWNELXdQNGtkbFJCc01VODFoRnRobw?oc=5"
-      },
-      {
-        "title": "Phó Giáo sư, Tiến sĩ Nguyễn Quốc Huy quê Bắc Ninh được bổ nhiệm Giám đốc Học viện Y - Dược học cổ truyền Việt Nam - Báo Bắc Ninh",
-        "source": "",
-        "importance": 47,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 09:44:59 GMT+5 | 키워드+30 | 순위:21위+2",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3Wl",
-        "published_time": "Sun, 12 Jul 2026 09:44:59 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 09:44:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGd3V0k5TTdxc09UMm1FTnBaTjRyOGtpUTRZY3ZSckRvTEZPaHBBZkJrdjFrS2xDeHkzQmVveUNhN1VqLW5SdkJ1YkY0cWhaeVpIejc1dFlJNTA0eVBOTFdadlJLNTlvVWx6MDI3WlVpeE9KU2ZVVUllM1NZWTlxVTNHN2NyYW1DNDNLTlBZcEd2dFN1VlQ5eGw1MUwzMng3OUdVcllOYlJaSUpxZnl2SU9SMHBjQW9FclBVWGtsZWhib05WZDhlU3BNbDh2N3BsWXZtLTJMZUlLSjVhUlVMWXdCOVBDdw?oc=5"
-      },
-      {
-        "title": "Santé : La 2ᵉ édition du CAPEP réunit les acteurs de la pharmaceutique - Maghreb Émergent",
-        "source": "",
-        "importance": 45,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 21:09:29 GMT+5 | 키워드+10 | 순위:2위+20",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUxrMEx0cXBXMmNTYmNjTHctYzZtM2xTeG1nbG13Wk5ITTBmeTlDRDVNM05EVkliR2pEaVQ1Q25DR3hfVkVrN1MxRTdWRExzUTR6MWdtUVdFUWFzNTduZHhuOG9wam5jU1JnaVYzUH",
-        "published_time": "Sun, 12 Jul 2026 21:09:29 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 21:09:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUxrMEx0cXBXMmNTYmNjTHctYzZtM2xTeG1nbG13Wk5ITTBmeTlDRDVNM05EVkliR2pEaVQ1Q25DR3hfVkVrN1MxRTdWRExzUTR6MWdtUVdFUWFzNTduZHhuOG9wam5jU1JnaVYzUHVFdnZ5T0VXSXNWN2dHTEduMlBDQ0RkVDdLVTRsdzAxWmViMFAybzB5WTRFVTUzRTJfM0lVT1JXODVtSFJMTlE?oc=5"
-      },
-      {
-        "title": "Bộ Y tế công bố 21 loại thuốc giả - Cổng thông tin điện tử tỉnh Hà Tĩnh",
-        "source": "",
-        "importance": 45,
-        "stars": "⭐⭐⭐",
-        "evidence": "출처:+10 | 최신:Sun, 12 Jul 2026 11:59:12 GMT+5 | 키워드+25 | 순위:20위+5",
-        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE93ZnJoMzZhOGxmdG8za0tubWFTRmk2ZXFiZF9fVm9GU1B2Z3QtUFBEcFBWZGNTLWFGUlQ2NmZkNXktUUpXTmNPRlVuREV2enJUNVJudmZ3aU1jYXRKZXYzZ1k4ZDRrOFlLWXdsSXhNTk",
-        "published_time": "Sun, 12 Jul 2026 11:59:12 GMT",
-        "modified_time": "",
-        "time": "Sun, 12 Jul 2026 11:59:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93ZnJoMzZhOGxmdG8za0tubWFTRmk2ZXFiZF9fVm9GU1B2Z3QtUFBEcFBWZGNTLWFGUlQ2NmZkNXktUUpXTmNPRlVuREV2enJUNVJudmZ3aU1jYXRKZXYzZ1k4ZDRrOFlLWXdsSXhNTk9mZUxRT0E?oc=5"
+        "time": "Sun, 12 Jul 2026 21:44:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTlVQWjZVS2c0NmVQaEhJMUo2bjVoNGE4UE00MFlDMlFzdGxWc1ZWeXdlZlFzb0RlVGRkcnBsck5kTjFOd2pDNWItQjJpYUNrSFM2VkJMakxKNkRNRmlUUy03YURjeEVhX1ZvX1BDWThrbldpalc5Rko5MmhubTFyNmlOV0ltTU9RaF9JSFlR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "source_url": "https://lajornadaestadodemexico.com"
       }
     ],
     "top_keywords": [],
-    "top_sources": []
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        10
+      ],
+      [
+        "ByDrug",
+        3
+      ],
+      [
+        "El Globalfarma",
+        2
+      ],
+      [
+        "新浪网",
+        2
+      ],
+      [
+        "手机网易网",
+        2
+      ],
+      [
+        "thansettakij",
+        2
+      ],
+      [
+        "Amar Ujala",
+        2
+      ],
+      [
+        "Zonebourse Suisse",
+        1
+      ],
+      [
+        "Maghreb Émergent",
+        1
+      ],
+      [
+        "ad-hoc-news.de",
+        1
+      ],
+      [
+        "La Jornada Estado de México",
+        1
+      ],
+      [
+        "La Silla Rota",
+        1
+      ],
+      [
+        "El Territorio",
+        1
+      ],
+      [
+        "Il Riformista",
+        1
+      ],
+      [
+        "NCF - Notiziario Chimico Farmaceutico",
+        1
+      ]
+    ]
   }
 }

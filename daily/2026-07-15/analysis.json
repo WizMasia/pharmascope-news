@@ -1,0 +1,250 @@
+{
+  "date": "2026-07-15",
+  "total_articles": 424,
+  "language_breakdown": {
+    "korean": {
+      "total": 192,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 12,
+        "의약단체": 20,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 132,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 100,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 7,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 7,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "허가·FDA·임상이 하루 뉴스 흐름을 주도",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 28,
+      "avg_importance": 46,
+      "key_articles": [
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - Reuters",
+          "importance": 67,
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlQwdGFBOVJZNDBha3U3SkdCaF9hOHE4QmxPR2YzVXdIT2ZBM3FNbG8ycHJMSVVVNHZhOHdoRU1iekp0QnowME0zMkhWdGlkdzItMF80eVNRVklWOXFUeVI3QjF4ckRoS3BFTHdLaFo3UkxNZElGQjBzNVJCajJwZHZCQzE2N2JhTDlZM0RTX2ZOXzZHNjVDU0N1TGMzQzNPaHo4enFfd191eVNuVEFMaWprZnRXQ0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "HLB 간임 신약 원료 공장, FDA 실사 'VAI' 통보…FDA와 소통 재개 - ebn.co.kr",
+          "importance": 51,
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSTV5Z2U2d1F1WWdsaW14c0lxbjNLMF9pVE80X29qUHlMZmNiMGpoZ2pYREEzXzZ0M1FtQ1ZDMUo2WHNiVFA1c1JwbU93NUVGSU5uQl9ENHRCdElrZVI3Yktwc29xdVJj?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AstraZeneca Licenses Global Rights to Dizal Lung Cancer Drug for Up-to-$1.5B - Genetic Engineering and Biotechnology News",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW0yQ01TbWdPWm5idUtLRURaRk05Q1NXbFFtZzE4YUxnaVlCcExyaFZEd25wUmtFbVpjcmQtbER4ZGQ0NnhqT2U3bXIyd20tcUc5TlpIOGVYTnlRNU51d2RBeXhSRVhkMENZTXFnVjJsbzB5X3JFWEhWLWVqWURvWjFxbzVTQXpDZVFOY2JyNWNRZDR5enJOT2dFMUhobWRQZDJJdHhGYTNqNThHXzMtQ0x2aS0yQmZu?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Clears Atrium Therapeutics' IND Application for Cardiomyopathy Drug - dicardiology.com",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHJUUE5tNjBNNzVKZ3AyR082WDVFS2Q3dmlzeEw0c2N4ejRFejc4dHgyOVNqNGloRjFLR1lvUHFmWDN0bGs2RzF3elRJQWEtc0F0al80NUZ4SUJ1dEkzM3BLTmYwUlhzalFaY3puTm5YX2tsaXYzNzR5aUZtNldLOFlFM0QtazVTcGVpS3JCWlVGaEVIVmk4M09zeHZuMTZDdDNKR0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - ETPharma.com",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWRCX25MNGxGYkpZTWxsOEdBSnN6ZTdxWGw0WTlqNzFjR205NG5QSTVVSHE4cm5qZjJuaEdpMXUyZW1XSUVDemJsSVozVTBoZTJtS3pYVzRoa1g0RjlGa2pKRHl5UnExMUFHWVd0RVZZLWE0S0ZBYXpzNENrVDI1bGZkZkZKZW5IWTZlR214clhaNHhRSU1ON2s1Wl9VRzNpV1JCZmdoVEpaZC1acG82VTl4S2UyMWRUYWtRWDZ5V2tYZmNpUWgzMzhUNzc0LXln0gHQAUFVX3lxTE01ZEJfbkw0bEZiSllNbGw4R0FKc3plN3FYbDRZOWo3MWNHbTk0blBJNVVIcThybmpmMm5oR2kxdTJlbVdJRUN6YmxJWjNVMGhlMm1LelhXNGhrWDRGOUZrakpEeXlScTExQUdZV3RFVlktYTRLRkFhenM0Q2tUMjVsZmRmRkplbkhZNmVHbXhyWFo0eFFJTU43azVaX1VHM2lXUkJmZ2hUSlpkLVpwbzZVOXhLZTIxZFRha1FYNnlXa1hmY2lRaDMzOFQ3NzQteWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "FDA 승인·IND 수용·제조소 실사(VAI)·항암 신약 라이선스가 한 축으로 묶이며, 승인 그 자체보다 CMC·제조실사·임상 설계가 실제 관문으로 재확인됐다.",
+      "summary_en": "FDA approvals, IND clearance, manufacturing inspections, and oncology licensing dominated the day, reinforcing that CMC quality, site readiness, and trial design remain the real gatekeepers."
+    },
+    {
+      "topic": "제약·바이오의 ESG 대응이 공시 의무를 앞두고 선제화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYWMwdzNSREQ4cGRHRWpmQjlpbVpQUGZsb1ByblZKb3NKRDl5SHdpNl9WTlFNclA4N2dNOVZueXhyX2wxRGxLS3JFVjNLVFZJMkJoNkM4cUttZTVJcG9IdzBKU2o?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYWMwdzNSREQ4cGRHRWpmQjlpbVpQUGZsb1ByblZKb3NKRDl5SHdpNl9WTlFNclA4N2dNOVZueXhyX2wxRGxLS3JFVjNLVFZJMkJoNkM4cUttZTVJcG9IdzBKU2o?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "강제 ESG 공시를 앞두고 제약·바이오 기업이 대응책을 앞당겨 마련하는 흐름이 확인됐다. 규제 리스크가 경영 이슈로 빠르게 전환되고 있다.",
+      "summary_en": "Pharma and biotech firms are moving early on ESG disclosure readiness, showing that regulatory compliance is increasingly a board-level operating issue."
+    },
+    {
+      "topic": "전통의학 국제표준 정렬이 가시화",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Ayush Ministry Moves To Align Traditional Medicine With International Health Standards - BW Businessworld",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnY2V1Q3REdBbElSVlZmVVdsN0Njd2hzZkRSbUY3SEZRMVJqUDV5b2pSdHVzczIxQ2lBTEJvcE5vRUhURGZYbVlORUloQkppTGFONUtLQUNWXzh6WGswYkh0QWxSY0xNZWRvM3ktMzlRT2JzNlJsaXMzTEx1b3JhU28yV3NrRWJOTGJwQ0pncnl3Q0JpQ1AzRXl3NF9hRkZ4Z2ZMZ0ptNUEtTFpKSEFCV1U4M3FHMDdzTGJvdHA1MGl1MXJkT0tuWXZR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Ministry of Ayush Launches Five-Day Editorial Workshop on WHO-ICHI Framework for Ayurveda, Siddha and Unani Systems - India Education Diary",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2l5bmJaUmhpRVd3S2M5aE9kZWxSZXhiQzhJVFV4MUM3Zm53WFRyOFBOWXRybnRVX0ZFRHlJdVBzcXF1clVpa3ppZHB6SVk2cEdkaE5ZVERjVmwtdWczWXV1cklRQkx3N1d3bW9GNDJmYWZWUFM1RERMSFZQbm03REZSVzNlVmdpMTllaFBTY0JIdktEakhhbVhJYlF5VlMzUDRzQnBrNTJHZ0xVd0JZUGFTenRyM3R0VG1hQ2dFb3BpZDBUYW1oNGxSc0p5QWJKVDA0eXJMcF9kOERnek9B?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "인도 AYUSH 부처가 전통의학을 국제보건 기준과 맞추는 작업을 전면에 내세웠다. 전통의학 뉴스가 단순 홍보가 아니라 표준화·교육·국제화 이슈로 이동하고 있다.",
+      "summary_en": "India’s AYUSH ministry is aligning traditional medicine with international health standards, moving the topic from promotion to standardization, education, and global interoperability."
+    },
+    {
+      "topic": "유럽 확장과 파트너십이 산업 뉴스의 보조 축으로 부상",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHRxMUswMFl6WFFEbXEtWjNycE8tWmpfcGJQbm44ZHd1RGN1VW9JNVJZeUdrVHNZTDdBd2RiRmlPcHRsNzNId0w4cDYtS0xqdFk3bnIyWGV3N2lacEs1WXgxRU1sajR0S1NwbGQ0dmNCRWJtTU00WlpYRFdwNGw4ZW4wWUwwWkJFc2w5S1dpSzNhaGhqX0tsYk54dWFQRjJsV01GVzV1YS1rODAtWkl0MmhEZ1Fva3VLYzc5US10OWpZNFVZbHVydFRpUFlycFVuaHUybE5Gb9IB3AFBVV95cUxOdXlGT0NHZU1tQUtyRC1HOXgxb2lyLWFYUl8yb3poYTZibTdQWk9lbl9EMnhaYmtWTmI4WDJkMl9USk1SNWx3N09pN1lRaVZHYWlaMlRmZUtZMGthVGQ1S2FLRlpidUlacm9CVTNQbUNVbUpZMDgwWDVBMmFabDZCN3RNTWV1dWJuQm1YM3NKYzhfSkdGV2lkQy1CaWNnYmtueGp2YklLbjV2cEFlMGVHc2YxeHYxa0oxSFJROUJYN1puWmdfQTd5QW16YU0yQ0tUdWk3dVFja0tVZDBt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHRxMUswMFl6WFFEbXEtWjNycE8tWmpfcGJQbm44ZHd1RGN1VW9JNVJZeUdrVHNZTDdBd2RiRmlPcHRsNzNId0w4cDYtS0xqdFk3bnIyWGV3N2lacEs1WXgxRU1sajR0S1NwbGQ0dmNCRWJtTU00WlpYRFdwNGw4ZW4wWUwwWkJFc2w5S1dpSzNhaGhqX0tsYk54dWFQRjJsV01GVzV1YS1rODAtWkl0MmhEZ1Fva3VLYzc5US10OWpZNFVZbHVydFRpUFlycFVuaHUybE5Gb9IB3AFBVV95cUxOdXlGT0NHZU1tQUtyRC1HOXgxb2lyLWFYUl8yb3poYTZibTdQWk9lbl9EMnhaYmtWTmI4WDJkMl9USk1SNWx3N09pN1lRaVZHYWlaMlRmZUtZMGthVGQ1S2FLRlpidUlacm9CVTNQbUNVbUpZMDgwWDVBMmFabDZCN3RNTWV1dWJuQm1YM3NKYzhfSkdGV2lkQy1CaWNnYmtueGp2YklLbjV2cEFlMGVHc2YxeHYxa0oxSFJROUJYN1puWmdfQTd5QW16YU0yQ0tUdWk3dVFja0tVZDBt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "유럽 시장 진출·파트너십·사업 확장이 소규모 클러스터로 묶였다. 대형 임상/허가 이슈는 아니지만 글로벌 네트워크 재편의 방향성을 보여준다.",
+      "summary_en": "European expansion and partnership announcements formed a small but coherent cluster, signaling ongoing restructuring in global commercialization networks."
+    },
+    {
+      "topic": "신흥시장 규제·유통 재정비와 접근성 개선",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Thu hồi 13 loại thuốc sản xuất từ nguyên liệu không đảm bảo - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnA3emhpZVBXV3d6Vk41RFBaWXlPT0NxZFJSZld2cHdFZ3Y1VzVoQ0xpcnpwMDczOUZLbzM2dnpjc3poMDFnNDZpcE9XS0J1cnVVeEtpOTJxWnpROW91aXJxYUVyMF9oeFY0Rm5KaHUtQUNCekZUZkRIR01MQlFFZ1E1WFRFNlMyVk4yS3JGSmIzVVNURXdRRw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Đằng sau kế hoạch đưa hơn 30 loại thuốc mới về Việt Nam: Khi người Việt không còn phải nhìn những tiến bộ y học qua tin tức nước ngoài - GenK.vn",
+          "importance": 42,
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLUNadThPNXlybTVoamtTX25BbXlOVmtPd3h1QVJmWXJCWlNTSUxxY3J4c3UtaEVLZ2hySDdRaGVqX1NOX01QSURSeEZXaXJMVk5yNkplNmhpRHpXdDV0VHlaeDE1U0taZDRlbFdiT3ZwWnp4bEE0ckN0WV9uOUxJTS1WUjdjSGZ2Um1yVlBsLVJkSU1oVmZFUmVOWWRoeEJPU2NseTYzb2pNTnJyQ082Q0ZEaWxlSHZnb2UxNkJOMVN0NXFSSFBDU1UxaVB0b3JxcWFpQUpYQmpFTWtqMUY2bm9ZYkJvLWtKV2lMOG1Tb3NOVlJGNlNVYU1QeThPSTlEcGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Radyoaktif ilaçların teminine ilişkin idari prosedürleri kaldırın. - Vietnam.vn",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDZtUTFMV3g0TGdrTWhpcFFTeVJpZ0Z1cms5aG8tdTNkaU44Z3NtdnRFWjI3MFhWbmxuTkhmd3JpaHBkTDl6cGJnNW9tTnhWTzVvdGl0NnFQQXByTk5PVXFQUUpBQ25jbmU4eVF2bjFvTnE5VWIyR0ViZWtsd3Jtc3JpQ0Y?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "三大BD集中爆发！迪哲医药、翰森制药、信达生物齐传利好！科创创新药ETF汇添富(589120)大涨超4%，港股通创新药ETF汇添富(159570)大涨近3% - 手机网易网",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ybFkwbGRDYnpDdzQ1ZFpIbEtBUmpmbUoza0MyelVQMkthLVRHWjMxQzdsRUZyNHNGeG1TdlNmOUFGYXZwYkZwNUhUT1B5MU0wZ0JZcmIydHJwN3hac0lYWE93?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "מודרניזציה של מערכת הפצת התרופות כדי להבטיח לאנשים גישה לתרופות בטוחות, בזמן ובמחיר סביר. - Vietnam.vn",
+          "importance": 50,
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnVwOWxiMXdteWNHQ0gtTmxEOXdNVFRIRVFFaEw0UU5pS21jS3FJTldiUVd0U2c2LU9VeV9JZ0s5UzV5UnVESk5oeTI4TWdUcW9YNGd5MS1aaTJ6TzNwX19qa2F3X2RiVTUtU0pwTE9MYUR5ZjdSRDhsVkxXRy1yU0dzeHY2TC1GNzl1UnpEY19QZWVEUDEzNHp1RkFEMHVwTnUzWDRtOEJKNGtNamdIdTI3Z3lDbW1GZ3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ],
+      "summary_kr": "베트남 의약품 회수, 방사성 의약품 행정절차 폐지, 약물 유통 현대화 등 접근성·안전성 중심의 제도 정비가 이어졌다. 여기에 중국/아시아 바이오 모멘텀이 겹치며 신흥시장 규제 환경이 재정렬되는 모습이다.",
+      "summary_en": "Drug recalls, distribution modernization, and administrative simplification in emerging markets point to a broader regulatory reset focused on access and safety, with additional biotech momentum across Asia."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 7,
+      "en_count": 2,
+      "significance": "medium"
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 15,
+      "en_count": 5,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 5,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "대형 M&A나 국내 자본시장 메가딜은 상대적으로 적었다.",
+    "전통의학은 기사 수가 적지만 표준화·국제화 이슈로 유지됐다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "허가·임상·FDA가 하루 뉴스 흐름을 주도",
+      "복지부 개편과 국민연금, 그리고 인력 부족 경고가 맞물림",
+      "제약산업은 실적·투자·AI 신약개발 난점이 동시에 부각",
+      "약사회·한약·지역 일차의료 현안이 조용하지만 꾸준히 이어짐",
+      "글로벌 협력·규제 재편·전시회가 해외 섹션을 채움"
+    ],
+    "changes": [
+      "총 기사 수가 전일 대비 19건 감소했다.",
+      "FDA·허가·임상 축은 여전히 강세였고, 제조·공시·유통 같은 실행 이슈가 함께 부각됐다.",
+      "다국어권에서는 베트남·터키·중국 기사처럼 접근성과 제도정비 중심의 뉴스가 늘었다."
+    ]
+  },
+  "connections": [
+    "FDA/식약처/제조소 실사 이슈가 허가 뉴스의 공통 배경으로 이어진다.",
+    "ESG 공시 대응은 제약·바이오 기업의 운영 리스크 관리와 맞닿아 있다.",
+    "신흥시장 유통 재정비는 가격·안전·공급망 문제를 동시에 건드린다."
+  ],
+  "generated_at": "2026-07-15T16:34:27.293235+09:00"
+}

@@ -1,0 +1,816 @@
+{
+  "date": "2026-07-15",
+  "total_articles": 424,
+  "language_breakdown": {
+    "korean": {
+      "total": 192,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 12,
+        "의약단체": 20,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 132,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 100,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 7,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 7,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 29
+    },
+    {
+      "keyword": "허가",
+      "count": 15
+    },
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "한약",
+      "count": 9
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 6
+    },
+    {
+      "keyword": "R&D",
+      "count": 5
+    },
+    {
+      "keyword": "실사",
+      "count": 4
+    },
+    {
+      "keyword": "급여",
+      "count": 4
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 26
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 9
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "pricing",
+      "count": 5
+    },
+    {
+      "keyword": "regulation",
+      "count": 3
+    },
+    {
+      "keyword": "safety",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "청년의사",
+      "count": 11
+    },
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "데일리팜",
+      "count": 9
+    },
+    {
+      "source": "의약뉴스",
+      "count": 7
+    },
+    {
+      "source": "edaily.co.kr",
+      "count": 5
+    },
+    {
+      "source": "약업신문",
+      "count": 5
+    },
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 5
+    },
+    {
+      "source": "머니투데이",
+      "count": 5
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 5
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "ETPharma.com",
+      "count": 5
+    },
+    {
+      "source": "Ad-hoc-news.de",
+      "count": 4
+    },
+    {
+      "source": "Fierce Pharma",
+      "count": 4
+    },
+    {
+      "source": "The Manila Times",
+      "count": 4
+    },
+    {
+      "source": "PR Newswire",
+      "count": 3
+    },
+    {
+      "source": "The Globe and Mail",
+      "count": 3
+    },
+    {
+      "source": "medwatch.com",
+      "count": 3
+    },
+    {
+      "source": "AOL.com",
+      "count": 3
+    },
+    {
+      "source": "Reuters",
+      "count": 2
+    },
+    {
+      "source": "STAT",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "허가·임상·FDA가 하루 뉴스 흐름을 주도",
+    "복지부 개편과 국민연금, 그리고 인력 부족 경고가 맞물림",
+    "제약산업은 실적·투자·AI 신약개발 난점이 동시에 부각",
+    "약사회·한약·지역 일차의료 현안이 조용하지만 꾸준히 이어짐",
+    "글로벌 협력·규제 재편·전시회가 해외 섹션을 채움"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 28,
+      "keywords": [
+        "drug",
+        "FDA",
+        "fda"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "US FDA approves Celcuity's breast cancer drug - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 14 Jul 2026 22:36:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVlQwdGFBOVJZNDBha3U3SkdCaF9hOHE4QmxPR2YzVXdIT2ZBM3FNbG8ycHJMSVVVNHZhOHdoRU1iekp0QnowME0zMkhWdGlkdzItMF80eVNRVklWOXFUeVI3QjF4ckRoS3BFTHdLaFo3UkxNZElGQjBzNVJCajJwZHZCQzE2N2JhTDlZM0RTX2ZOXzZHNjVDU0N1TGMzQzNPaHo4enFfd191eVNuVEFMaWprZnRXQ0k?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "HLB 간임 신약 원료 공장, FDA 실사 'VAI' 통보…FDA와 소통 재개 - ebn.co.kr",
+          "source": "ebn.co.kr",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "HLB 간임 신약 원료 공장, FDA 실사 'VAI' 통보…FDA와 소통 재개 - ebn.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Tue, 14 Jul 2026 23:50:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSTV5Z2U2d1F1WWdsaW14c0lxbjNLMF9pVE80X29qUHlMZmNiMGpoZ2pYREEzXzZ0M1FtQ1ZDMUo2WHNiVFA1c1JwbU93NUVGSU5uQl9ENHRCdElrZVI3Yktwc29xdVJj?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "AstraZeneca Licenses Global Rights to Dizal Lung Cancer Drug for Up-to-$1.5B - Genetic Engineering and Biotechnology News",
+          "source": "Genetic Engineering and Biotechnology News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "AstraZeneca Licenses Global Rights to Dizal Lung Cancer Drug for Up-to-$1.5B - Genetic Engineering and Biotechnology News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 15 Jul 2026 01:47:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSW0yQ01TbWdPWm5idUtLRURaRk05Q1NXbFFtZzE4YUxnaVlCcExyaFZEd25wUmtFbVpjcmQtbER4ZGQ0NnhqT2U3bXIyd20tcUc5TlpIOGVYTnlRNU51d2RBeXhSRVhkMENZTXFnVjJsbzB5X3JFWEhWLWVqWURvWjFxbzVTQXpDZVFOY2JyNWNRZDR5enJOT2dFMUhobWRQZDJJdHhGYTNqNThHXzMtQ0x2aS0yQmZu?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Clears Atrium Therapeutics' IND Application for Cardiomyopathy Drug - dicardiology.com",
+          "source": "dicardiology.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA Clears Atrium Therapeutics' IND Application for Cardiomyopathy Drug - dicardiology.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 15 Jul 2026 00:35:37 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHJUUE5tNjBNNzVKZ3AyR082WDVFS2Q3dmlzeEw0c2N4ejRFejc4dHgyOVNqNGloRjFLR1lvUHFmWDN0bGs2RzF3elRJQWEtc0F0al80NUZ4SUJ1dEkzM3BLTmYwUlhzalFaY3puTm5YX2tsaXYzNzR5aUZtNldLOFlFM0QtazVTcGVpS3JCWlVGaEVIVmk4M09zeHZuMTZDdDNKR0tR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - ETPharma.com",
+          "source": "ETPharma.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "US FDA approves Celcuity's breast cancer drug - ETPharma.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 15 Jul 2026 02:11:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWRCX25MNGxGYkpZTWxsOEdBSnN6ZTdxWGw0WTlqNzFjR205NG5QSTVVSHE4cm5qZjJuaEdpMXUyZW1XSUVDemJsSVozVTBoZTJtS3pYVzRoa1g0RjlGa2pKRHl5UnExMUFHWVd0RVZZLWE0S0ZBYXpzNENrVDI1bGZkZkZKZW5IWTZlR214clhaNHhRSU1ON2s1Wl9VRzNpV1JCZmdoVEpaZC1acG82VTl4S2UyMWRUYWtRWDZ5V2tYZmNpUWgzMzhUNzc0LXln0gHQAUFVX3lxTE01ZEJfbkw0bEZiSllNbGw4R0FKc3plN3FYbDRZOWo3MWNHbTk0blBJNVVIcThybmpmMm5oR2kxdTJlbVdJRUN6YmxJWjNVMGhlMm1LelhXNGhrWDRGOUZrakpEeXlScTExQUdZV3RFVlktYTRLRkFhenM0Q2tUMjVsZmRmRkplbkhZNmVHbXhyWFo0eFFJTU43azVaX1VHM2lXUkJmZ2hUSlpkLVpwbzZVOXhLZTIxZFRha1FYNnlXa1hmY2lRaDMzOFQ3NzQteWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "HLB resolves issues behind FDA setback for novel liver cancer drug - The Korea Times",
+          "source": "The Korea Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "HLB resolves issues behind FDA setback for novel liver cancer drug - The Korea Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 15 Jul 2026 06:15:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2IxbV8zZlEweWdERlNvNWgzRm1fN0Q2NDBxZzY5OXVTTUY4ZnhPM3U2RVhMeGJGUk9zcnNGOFJqS28wa1JiZW5Ha2pLdkdweU9PU1lfajh6RlJtM1RRNnVWNXN1Mno0T0hELVlJNE9zNmt5WFZncGNJVVdYZGNmTzhUYVNnYU5vT0paOFNfTlFUT0VyNDc2N1dVUm52bC1ETWp5cTF2bjU1aTROamNSdUREeFRNMjlBLVpnRWNMcTnSAcYBQVVfeXFMTTFRN2ZmV3EzQ1VFMjg5Ny1hV2Y4MzNEaTdOdmFzWGxLcG1ZOXpaQmFhQlUzVGRmVDkxYUxva2NEbkN1ekR2UlZLQmM1NHpzeVQtYkVYUjNzSHNEQkwyUFptbko2dWwwR1V6SFlJT1lXLXR3aWpiNi11bmNWdnp2eGNVcDZZWXBwM0NLb0xPM0VPendRSlFiQlptMVpVM2NjZ19wTk9zWFNtM2dxR19LZW5COEtueWE5MTJaY2Q1ZF84ejVVSHhR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Evotec stock reflects biotech momentum as the company advances its global drug discovery platform - Ad-hoc-news.de",
+          "source": "Ad-hoc-news.de",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Evotec stock reflects biotech momentum as the company advances its global drug discovery platform - Ad-hoc-news.de | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 05:52:10 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQm1SQnZGUTNBTUYtUDlUTWg1TENPX1hjMkhJUWVsNkdaTFJrcjdQdFZKMDJva0NxLWViTEFQLWpweFI5TlB4eTdueVpyZ2FkMGpYczJoTW53QmpIc095SERCOVVIb2xSUmtycG1nTUtDTmVtemhobDNHNHlVcW5QXzRLdFJ4UXY5TU96ZHIwaUZOZWlWOHN3TlVJT00xR2VCSWViVWF2N3VRb3ZqZnNXUEphQVVxRndCQTZDZElhZk5pNmVpOXV4SWxlSTc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - ETPharma.com",
+          "source": "ETPharma.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "US FDA approves Celcuity's breast cancer drug - ETPharma.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 02:11:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWRCX25MNGxGYkpZTWxsOEdBSnN6ZTdxWGw0WTlqNzFjR205NG5QSTVVSHE4cm5qZjJuaEdpMXUyZW1XSUVDemJsSVozVTBoZTJtS3pYVzRoa1g0RjlGa2pKRHl5UnExMUFHWVd0RVZZLWE0S0ZBYXpzNENrVDI1bGZkZkZKZW5IWTZlR214clhaNHhRSU1ON2s1Wl9VRzNpV1JCZmdoVEpaZC1acG82VTl4S2UyMWRUYWtRWDZ5V2tYZmNpUWgzMzhUNzc0LXln0gHQAUFVX3lxTE01ZEJfbkw0bEZiSllNbGw4R0FKc3plN3FYbDRZOWo3MWNHbTk0blBJNVVIcThybmpmMm5oR2kxdTJlbVdJRUN6YmxJWjNVMGhlMm1LelhXNGhrWDRGOUZrakpEeXlScTExQUdZV3RFVlktYTRLRkFhenM0Q2tUMjVsZmRmRkplbkhZNmVHbXhyWFo0eFFJTU43azVaX1VHM2lXUkJmZ2hUSlpkLVpwbzZVOXhLZTIxZFRha1FYNnlXa1hmY2lRaDMzOFQ3NzQteWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Insilico Medicine and Bora Pharmaceuticals Announce Strategic Alliance for AI-Driven Drug Discovery and Development - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Insilico Medicine and Bora Pharmaceuticals Announce Strategic Alliance for AI-Driven Drug Discovery and Development - The Manila Times | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 00:25:34 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQbmViZ2xzdkY1dUY4QUdZdVlDNndjV3dXMTJtS2ZING5Wc3BHT1cyZklHTmVNS0NuWFZmZXVXYkNjWk5xQWhOVk5GdVVQb0lRc3dRTzZRV2owU3pDUFhpSjN5cG5hdU45bmZtTWFYbl9pRG1qOHNRdk9KQ090Rnp0a0Q2UGtFcEExUHVGbnUwMGk2Y19GQ3RYU3N6SXdVcjdDbUdzQ2EtUHRSem1aS1NzemdNSDlXcHBTOTJxeXRlcldBWnVXVU1SSVo4c3VPMFlibFhqMkF5TlpLZzhfQUduQVl1WEFEVUpTWHd3azNvOXdtRTJLd3JMLWlabERINlZFU3RuZVpCYmcwTXpKNkE0U2ZOcXREZ9IBmwJBVV95cUxNazZFNFZCdThxR1Q0eE40SXh3ZkpKNGNCb2M4V3pLdWo3UDZHV1hOd0lRUVRGc3N4NjR2M0F0YzZWdkRYTWxielYxa1ozTUpmWnptZDJqMEJMWmxJT3lFTFJKVk1teGNFTlZzdUZjVFExVVlVVmlfaERtbnRRSVB2OW5jV3E2bEE1aUZzWm0wcEJJYS1ENnNtSkdsM1pTWC1INDBVX0pYQXFmUXctMVhZX1pMQ1FPU0xwX0Fnek9ybG1BWTZFTDVMMU9fLUx5VE0xRW9yWmlGdnBIa0ZrUFdpRWJ0TXhWdk9qS2JKWEw4M2lIXzNvX19nYXpSZVdibzJkUmxKY0FoT1NqTDRveHQyX0NrbG81TDR5dWdn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Insilico Medicine and Bora Pharmaceuticals announce strategic alliance for AI-driven drug discovery and development - EurekAlert!",
+          "source": "EurekAlert!",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Insilico Medicine and Bora Pharmaceuticals announce strategic alliance for AI-driven drug discovery and development - EurekAlert! | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 01:12:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fbDBXdU4wZEpYM3NpeFpKSk80eWhaQ256eG1IejcwV1Z4NVFJZXE4cGZVdFhLUDBicnZiSTQxVmtSS1VDaDZSbTIzdk0tb3otWWNfV01xRFRSa1lX?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Drug Pipeline Wins State Street Over on Healthcare - ETF Database",
+          "source": "ETF Database",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug Pipeline Wins State Street Over on Healthcare - ETF Database | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 14 Jul 2026 21:49:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWm5EeE5EUE13c2JHNy1fRFpBQXlIbUVjQ1BQZklGRWNNdUszU3hzODJYSFdCM1BvSzAwUlVLQ1ZLMGgwRmltdjg4X0J2N3FWU2RNZ0dUeTl4OWFvSVhWV2NVaFhMeGhkbl93LVFwR3JJU0ZYQnZXd2Y3R3hybjNYRUpBb3JBSW02TVZoS2FkMThqMVZ5TmFj?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "15 More Medicare Drugs Are Getting Price Cuts in 2027 - Find Out If Yours Is on the List - AOL.com",
+          "source": "AOL.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "15 More Medicare Drugs Are Getting Price Cuts in 2027 - Find Out If Yours Is on the List - AOL.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 14 Jul 2026 22:58:33 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PM3hmQTcxVVRaMjhRRmx3QU95b205SGt3NktCOHdiTjQtY0p6dDlfVHA0ZXpVb2tXOHd5NVNLclBuNGtNcUVOSUR3SkhlNFp4Z200RkthSmJRN24zQ251SXEtTU9uZndTOWZXVjl2THExS19UZlFfZlVhV1YtaW8?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Is This Drug Pricing Program Actually Making US Healthcare Affordability Crisis, Hospital Consolidation Worse? - AOL.com",
+          "source": "AOL.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Is This Drug Pricing Program Actually Making US Healthcare Affordability Crisis, Hospital Consolidation Worse? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 15 Jul 2026 01:20:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTl4Qmlrd09GUHZrOHdVWnVnOEdUVUdrLXZ5UHU5bGtvbE5hX3QtZEcwQzR2amtQYVVwWnprb3dHbTJ1YTdSZ0l0bmdrQjBaY3lKMW9hcWhMU3V3Rk43VmpSUTdvNElBVFNkZ1FURXZqQmxZVkFocXpWQjQwWFhySXowRnlWMWM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "India's life sciences sector gathers pace in novel drug discovery- BCG & HealthKois report - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "India's life sciences sector gathers pace in novel drug discovery- BCG & HealthKois report - BioSpectrum India | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 15 Jul 2026 03:43:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDBTNHhSQmU5cTJpZ2U4b2o1NjRaTGpyeDVFTko2OFRhdjZGeUJNc0FlZlQ3dmxYYVY4MWFwQ3EyaklWaG1oQjQ4bmowUC1Tck1zTlNRTnRoNTdnUXp6R0gtcVpGdHUtY0laenBHY2RxSXJqeEVkY1ItWE9CR2xRRnpMMFVwODZTbDJ6VFl4eXpzOHNhSENnSEZQVlBSRVdGUGJPQ0taUGJGa0w1WElvY2ZFWUdQT2dLdVJFQjhORVFqemVESk5JTUxsSUc4eUdmaGE0?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Hiện đại hóa hệ thống phân phối dược để người dân tiếp cận thuốc an toàn, kịp thời, giá hợp lý - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Hiện đại hóa hệ thống phân phối dược để người dân tiếp cận thuốc an toàn, kịp thời, giá hợp lý - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Wed, 15 Jul 2026 02:30:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWEpYZFViaE9Mb1FueW52WFRKenhlU0d0QnFpdDRMejhzUDlMU2E0NE1PSmNFWFlNMDRyM3lTYkxrTmZNSDR5b3hKRE5JZHhCTUtQY2ZSei13aVgxZGVHd3o4R0VzU01heEJ1Y2hpQXdxRTJ3aG9PaWwzbmpUQnR6NUN5WXEyVlZTYlZFcXlhYmhBZk1JR182WWlTcm1ENGM3dWE3eVJCT1JkRzhYT3p3YkpkQVVSUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "HLB “FDA, 中항서 제조시설 ‘개선 권고’ 판정…간암 신약 허가 걸림돌 해소” - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "HLB “FDA, 中항서 제조시설 ‘개선 권고’ 판정…간암 신약 허가 걸림돌 해소” - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 15 Jul 2026 01:07:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNVRLUzhHZkJZd0JvMnVlR3lJMm9sNXBGQTlWSk16TW5kaFpyODJsYW4wcWVjdXhLZENIRFpEOEdBTTMtTDVZdjBtd1lKdjFPb0lVOGRFTG81NWJiUkJqTEJvX0dEUWo4ZWhlOW9ZVVEtUGY0WTZiWC1IcEsyZ3I2bXVVRzJ0Y1nSAZsBQVVfeXFMT0VXdW5HdVpRcFc1WjRWZVZMblE0NzMwcXFvc0ZxYWtOU0J2THlQdUhla3lRb09WRDFMeENlOHZVT0pON21YUnRGYnFYUVlmMlBjUWRUcW5wbk5BWDlSc3Btb3FYNU11OXY5VmFlZEdqaEEwR1J5MnNzb3h2dFBfWTIzTE9Wbkw5bGp2aGpUNk9HNkVUQkVMbHRVSnM?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "李대통령 ‘임신중지 의약품’ 실용론…식약처 허가 기조 바뀌나 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "李대통령 ‘임신중지 의약품’ 실용론…식약처 허가 기조 바뀌나 - 조선비즈 - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 15 Jul 2026 03:03:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQ1dORFlTMlFVYkQyTlpEQnBGZjVldV9KZm5lSVBVai1jQVlNTDA3MmxabHVaNGNMamt3OGYzYzJjc0l5RTNUb084YnAwaDJ0VlpmM2poYi1sS2JhNVNwN1RNQmJscXJsXzFBeTI0S29CaGViWTc2QktsYmVYMm5aRUtQVHBGOHlJbXU3S0pWLTNheEh5eDRF0gGrAUFVX3lxTE0xSWc2ZTVlUW05WGVmQTNoSlo3eWl4bEtxTFNWRVFjY3h1Um45T0NabWt1SXdVQzBYSzlhbkRXejVtQzlPcG43U1BXLU9Kb2gwYTR6TGFVU19zYkcwakwycWkxNURjNl95aFlucDNEN0pZdVEyM0FMdm1JTzBPTnBOdTV6NGlySWFRS1BWRTB2RlYwWTV1c2Q1ZU5wMFFqMENuTHR4d0k5enQyVQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "에트노바, 간암 신약 ‘ETN101’ 美 FDA 희귀의약품 지정 - 메디코파마",
+          "source": "메디코파마",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "에트노바, 간암 신약 ‘ETN101’ 美 FDA 희귀의약품 지정 - 메디코파마 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 15 Jul 2026 00:34:14 GMT",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XYzdabWpfLXl3SlgzV0xPekVjWFNYQjhJYjFmZ3R1SlZYb04wa1I5eWRYclNZdE5JREJhQzdHRm80WWxMSEhPQTQxSGNSTkhNQ0NLVlJ6aXJTU2NiaFFoYm5sd2ZLNTVmMnR1WFpKVkhwQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "UK-Switzerland strike trade deal with first-of-its-kind pharma rules - Life Sciences IP Review",
+          "source": "Life Sciences IP Review",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "UK-Switzerland strike trade deal with first-of-its-kind pharma rules - Life Sciences IP Review | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 14 Jul 2026 22:45:31 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYURxeFozeVZrOFZ3RFY1TEg3MHZ2X1NZd002clJrVGxfT0FBM1NQaW5yNllwY2JTelFGU0dZZGpXWkFIdzVYVU5VNklyaFB1SU1iMHdvcklBcWx1dzBnQ2hHeURoTnRQUTE1T3FPeDY3SjNrNHhaTHBlcEFhRlVOMTBUN3M0YUdNV3ZJZkJvZzhVQ0p0V0pHZVFjaWR5V0JDNFNmd0hHbHJERjFtWElMOWtn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Sun Pharma to manufacture and market Semaglutide in South Africa; shares trade in green - Upstox",
+          "source": "Upstox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Sun Pharma to manufacture and market Semaglutide in South Africa; shares trade in green - Upstox | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Wed, 15 Jul 2026 04:05:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUzhvLTF5ZHFDMzNtTlo1YTFuMTlwcXREQWtCTXRxcmFnUUtPZjhnUnc3SWpGNGY5T2ZaUVNiZV9WNkpocHM0LWx0Q2Fua2R2QmtXUDlSR1kwMjcyQ2ducEdOX1YwUGtNLVJmQ3E1cFQ1NkZBdUJINGNia05JSEJPLU9CVFV3QVVudWlYVVNMYzZJZXZfX1o2Z3pscUxXQXYtVm1nVkE5d2NCTlFBU3lUS2RZZ051Z1lZWC1LS0pCQ1libjdLSUFvd205bnVSckg2R1NGSlVEU3NndFNMQ1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA Proposes New Registration And Listing Pathway For Distributed Drug Manufacturing And Aligns Foreign Establishment Obligations With Current Law - Mondaq",
+          "source": "Mondaq",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "FDA Proposes New Registration And Listing Pathway For Distributed Drug Manufacturing And Aligns Foreign Establishment Obligations With Current Law - Mondaq | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 14 Jul 2026 23:18:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZGFqcnV1ZWd0Zkc0bTZHZlFZdjdWQ1lrOEZ5T2NXNWpSb1dfLWVUdFRjOVJMYkplem1HTDFlY0ItQXZoVkgwV3JOY0MwaW51bHF5enRZS2dRaWozZGNxYnZ1ZUgzS0VhVGVhYWR2Rm1xQll1dHNGaDFCQ3FMb3hTeUR2UzQ2ZldiV1dRX2s3aXhucDhLY2pPVkl5cjJmWWM1OUx3aUFUbmF1R3VraXFtUzBrZXNRcWk5QmZtVjUwS2NGSDdRek1lM1FiMXh2Y3NQbUxGMkpNZGdkQS1oVDRTUGpsa3hNdldLdkVzNTIxNjdVYTNlMFFEVHR0b252VG5CM1duYmtGZVdLWHpDVkk4bDRicllBbldXY3h5ZmpiVnh0Rk1wckNjemxqZ21HT1pNLXBR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US FDA approves Celcuity's breast cancer drug - ETPharma.com",
+          "source": "ETPharma.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "US FDA approves Celcuity's breast cancer drug - ETPharma.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 15 Jul 2026 02:11:42 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWRCX25MNGxGYkpZTWxsOEdBSnN6ZTdxWGw0WTlqNzFjR205NG5QSTVVSHE4cm5qZjJuaEdpMXUyZW1XSUVDemJsSVozVTBoZTJtS3pYVzRoa1g0RjlGa2pKRHl5UnExMUFHWVd0RVZZLWE0S0ZBYXpzNENrVDI1bGZkZkZKZW5IWTZlR214clhaNHhRSU1ON2s1Wl9VRzNpV1JCZmdoVEpaZC1acG82VTl4S2UyMWRUYWtRWDZ5V2tYZmNpUWgzMzhUNzc0LXln0gHQAUFVX3lxTE01ZEJfbkw0bEZiSllNbGw4R0FKc3plN3FYbDRZOWo3MWNHbTk0blBJNVVIcThybmpmMm5oR2kxdTJlbVdJRUN6YmxJWjNVMGhlMm1LelhXNGhrWDRGOUZrakpEeXlScTExQUdZV3RFVlktYTRLRkFhenM0Q2tUMjVsZmRmRkplbkhZNmVHbXhyWFo0eFFJTU43azVaX1VHM2lXUkJmZ2hUSlpkLVpwbzZVOXhLZTIxZFRha1FYNnlXa1hmY2lRaDMzOFQ3NzQteWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Maha FDA cracks down on blood centres, suspends 34 licences and cancels 4 for violating drug norms - Pharmabiz.com",
+          "source": "Pharmabiz.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Maha FDA cracks down on blood centres, suspends 34 licences and cancels 4 for violating drug norms - Pharmabiz.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 15 Jul 2026 02:32:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FUFQwU2hRUXlqQjZBeG5kUVNhaXdyLXVJNEtpd1ZvaEVZOXdiMW1lTl9hVEQ1MDNpOUtFam85VUlEd0M2d0JZbkY1RHFSMUk4MDIyNXZqTHd1OXBMbFZzX0tKUnBuOGhCLUJZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "US FDA approves Celcuity’s breast cancer drug - WTVB",
+          "source": "WTVB",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "US FDA approves Celcuity’s breast cancer drug - WTVB | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 15 Jul 2026 01:31:40 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlZMM0tJblB2Qm5BX3B6VDNpdVZvWllVY3U5dFF4TDdpNkY4VTBIX0JJdVpyanIzLXlsRW16ZjEzcWd3cnZmTlRaX3ZGMjFyaGxFaGtvM0VqMjdqYThZTDdhQ3R4V0VxRUpYb29nd2NnbDk3akRsOEowZ1FDOGZIOQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Trump purge at FDA and USDA triggers food safety ‘brain drain’ - FoodNavigator.com",
+          "source": "FoodNavigator.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Trump purge at FDA and USDA triggers food safety ‘brain drain’ - FoodNavigator.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 14 Jul 2026 22:07:19 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYXctV1dzRkNhYXBxXzJ1VUViUVBUSXp6VlRZaG9JVWkycF83SlNXT3FNSkdvYWk2SVBSdGhvNnBLOXBsTFAzdFlUNDZWTjQyUDNNVVZqOW81T1FDUGsyYm12ZHBnU3FYT1JyaXNBR3JlVmM3Yl8wSDFuT3ZORHo5a3I2bkpJNFY4cUQ1VWl2QXRlSjdkTUZiU2dCTFJ5bDM3ZGdIeEZXM0xSUjB6bHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Where Drug Discovery Can Take You - The Statesman",
+          "source": "The Statesman",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Where Drug Discovery Can Take You - The Statesman | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 15 Jul 2026 04:14:21 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUNJNlFwZmREOGpmdmdxWE9OMXVpLTg3MEdfS3BVTTVhLWZwcXFiQ0xfM1RRaktjYWJrS2dmekFZbWt0QzBybElERmd2MS1jTFhkUnpLV1dwX2dsdWhBR3MyUHZFWnZ2aHdxcTA4UVB3M1Q5R2ROc2R2SnZxRDVtb3Jnck1FV25GRlc1c3h5OUU0M0dJX183eTZTc2otWDk3azZV0gGjAUFVX3lxTE1RQ0k2UXBmZEQ4amZ2Z3FYT04xdWktODcwR19LcFVNNWEtZnBxcWJDTF8zVFFqS2NhYmtLZ2Z6QVlta3RDMHJsSURGZ3YxLWNMWGRSektXV3BfZ2x1aEFHczJQdkVadnZod3FxMDhRUHczVDlHZE5zZHZKdnFENW1vcmdyTUVXbkZGVzVzeHk5RTQzR0lfXzd5NlNzai1YOTdrNlU?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "FDA đối mặt sức ép vì thuốc lá điện tử - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "FDA đối mặt sức ép vì thuốc lá điện tử - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Wed, 15 Jul 2026 03:50:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92SUItdWFMSHJZbWhoZDByNWN2LWVyay1ZNlhneEpUTkxOamVpNnFWeVZibWctcmhQSDA1NGFlckRqTHlvOG9TeDQ0ODJCdThRVTUzX01HZXZiM1NWdm8tYmZMZHNsMXZsNnBtTlJn?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Bãi bỏ thủ tục hành chính về cung cấp thuốc phóng xạ - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Bãi bỏ thủ tục hành chính về cung cấp thuốc phóng xạ - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Wed, 15 Jul 2026 02:51:23 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlA4MDNycmhWaVR2V2FGdU1RbjNiaXlsZGpsd1JfOVBKeVVNUmREUzZ1eFVhT0NNRUllRGwydkE0aldzNG50eWhEc0tFVTMtX2pXQm5VUU8ycFF5c2tHRWFpd3lDYjg2cHdwb2N2eHhIbk5LYm8yNWFFNU5kSFFQcQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "responses",
+        "pharmaceutical",
+        "mandatory",
+        "ahead",
+        "firms",
+        "biotech",
+        "accelerate",
+        "proactive",
+        "disclosures",
+        "아시아경제"
+      ],
+      "articles": [
+        {
+          "title": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 06:03:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYWMwdzNSREQ4cGRHRWpmQjlpbVpQUGZsb1ByblZKb3NKRDl5SHdpNl9WTlFNclA4N2dNOVZueXhyX2wxRGxLS3JFVjNLVFZJMkJoNkM4cUttZTVJcG9IdzBKU2o?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제",
+          "source": "아시아경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Pharmaceutical and Biotech Firms Accelerate Proactive Responses Ahead of Mandatory ESG Disclosures - 아시아경제 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Wed, 15 Jul 2026 06:03:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYWMwdzNSREQ4cGRHRWpmQjlpbVpQUGZsb1ByblZKb3NKRDl5SHdpNl9WTlFNclA4N2dNOVZueXhyX2wxRGxLS3JFVjNLVFZJMkJoNkM4cUttZTVJcG9IdzBKU2o?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "ministry",
+        "ayush"
+      ],
+      "articles": [
+        {
+          "title": "Ayush Ministry Moves To Align Traditional Medicine With International Health Standards - BW Businessworld",
+          "source": "BW Businessworld",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ayush Ministry Moves To Align Traditional Medicine With International Health Standards - BW Businessworld | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Tue, 14 Jul 2026 21:49:57 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYnY2V1Q3REdBbElSVlZmVVdsN0Njd2hzZkRSbUY3SEZRMVJqUDV5b2pSdHVzczIxQ2lBTEJvcE5vRUhURGZYbVlORUloQkppTGFONUtLQUNWXzh6WGswYkh0QWxSY0xNZWRvM3ktMzlRT2JzNlJsaXMzTEx1b3JhU28yV3NrRWJOTGJwQ0pncnl3Q0JpQ1AzRXl3NF9hRkZ4Z2ZMZ0ptNUEtTFpKSEFCV1U4M3FHMDdzTGJvdHA1MGl1MXJkT0tuWXZR?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Ministry of Ayush Launches Five-Day Editorial Workshop on WHO-ICHI Framework for Ayurveda, Siddha and Unani Systems - India Education Diary",
+          "source": "India Education Diary",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Ministry of Ayush Launches Five-Day Editorial Workshop on WHO-ICHI Framework for Ayurveda, Siddha and Unani Systems - India Education Diary | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Wed, 15 Jul 2026 01:03:34 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2l5bmJaUmhpRVd3S2M5aE9kZWxSZXhiQzhJVFV4MUM3Zm53WFRyOFBOWXRybnRVX0ZFRHlJdVBzcXF1clVpa3ppZHB6SVk2cEdkaE5ZVERjVmwtdWczWXV1cklRQkx3N1d3bW9GNDJmYWZWUFM1RERMSFZQbm03REZSVzNlVmdpMTllaFBTY0JIdktEakhhbVhJYlF5VlMzUDRzQnBrNTJHZ0xVd0JZUGFTenRyM3R0VG1hQ2dFb3BpZDBUYW1oNGxSc0p5QWJKVDA0eXJMcF9kOERnek9B?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "selected",
+        "eutopos",
+        "health",
+        "operations",
+        "quest",
+        "vidac",
+        "ein",
+        "pharma",
+        "european",
+        "news"
+      ],
+      "articles": [
+        {
+          "title": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News",
+          "source": "EIN News",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 15 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHRxMUswMFl6WFFEbXEtWjNycE8tWmpfcGJQbm44ZHd1RGN1VW9JNVJZeUdrVHNZTDdBd2RiRmlPcHRsNzNId0w4cDYtS0xqdFk3bnIyWGV3N2lacEs1WXgxRU1sajR0S1NwbGQ0dmNCRWJtTU00WlpYRFdwNGw4ZW4wWUwwWkJFc2w5S1dpSzNhaGhqX0tsYk54dWFQRjJsV01GVzV1YS1rODAtWkl0MmhEZ1Fva3VLYzc5US10OWpZNFVZbHVydFRpUFlycFVuaHUybE5Gb9IB3AFBVV95cUxOdXlGT0NHZU1tQUtyRC1HOXgxb2lyLWFYUl8yb3poYTZibTdQWk9lbl9EMnhaYmtWTmI4WDJkMl9USk1SNWx3N09pN1lRaVZHYWlaMlRmZUtZMGthVGQ1S2FLRlpidUlacm9CVTNQbUNVbUpZMDgwWDVBMmFabDZCN3RNTWV1dWJuQm1YM3NKYzhfSkdGV2lkQy1CaWNnYmtueGp2YklLbjV2cEFlMGVHc2YxeHYxa0oxSFJROUJYN1puWmdfQTd5QW16YU0yQ0tUdWk3dVFja0tVZDBt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News",
+          "source": "EIN News",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Eutopos Pharma Selected to Join Quest for Health as Vidac Pharma Group Expands European Operations - EIN News | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Wed, 15 Jul 2026 05:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZHRxMUswMFl6WFFEbXEtWjNycE8tWmpfcGJQbm44ZHd1RGN1VW9JNVJZeUdrVHNZTDdBd2RiRmlPcHRsNzNId0w4cDYtS0xqdFk3bnIyWGV3N2lacEs1WXgxRU1sajR0S1NwbGQ0dmNCRWJtTU00WlpYRFdwNGw4ZW4wWUwwWkJFc2w5S1dpSzNhaGhqX0tsYk54dWFQRjJsV01GVzV1YS1rODAtWkl0MmhEZ1Fva3VLYzc5US10OWpZNFVZbHVydFRpUFlycFVuaHUybE5Gb9IB3AFBVV95cUxOdXlGT0NHZU1tQUtyRC1HOXgxb2lyLWFYUl8yb3poYTZibTdQWk9lbl9EMnhaYmtWTmI4WDJkMl9USk1SNWx3N09pN1lRaVZHYWlaMlRmZUtZMGthVGQ1S2FLRlpidUlacm9CVTNQbUNVbUpZMDgwWDVBMmFabDZCN3RNTWV1dWJuQm1YM3NKYzhfSkdGV2lkQy1CaWNnYmtueGp2YklLbjV2cEFlMGVHc2YxeHYxa0oxSFJROUJYN1puWmdfQTd5QW16YU0yQ0tUdWk3dVFja0tVZDBt?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "tin",
+        "thu"
+      ],
+      "articles": [
+        {
+          "title": "Thu hồi 13 loại thuốc sản xuất từ nguyên liệu không đảm bảo - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+          "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Thu hồi 13 loại thuốc sản xuất từ nguyên liệu không đảm bảo - Cổng thông tin điện tử tỉnh Hà Tĩnh | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Wed, 15 Jul 2026 02:30:23 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnA3emhpZVBXV3d6Vk41RFBaWXlPT0NxZFJSZld2cHdFZ3Y1VzVoQ0xpcnpwMDczOUZLbzM2dnpjc3poMDFnNDZpcE9XS0J1cnVVeEtpOTJxWnpROW91aXJxYUVyMF9oeFY0Rm5KaHUtQUNCekZUZkRIR01MQlFFZ1E1WFRFNlMyVk4yS3JGSmIzVVNURXdRRw?oc=5&hl=en-US&gl=US&ceid=US:en"
+        },
+        {
+          "title": "Đằng sau kế hoạch đưa hơn 30 loại thuốc mới về Việt Nam: Khi người Việt không còn phải nhìn những tiến bộ y học qua tin tức nước ngoài - GenK.vn",
+          "source": "GenK.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Đằng sau kế hoạch đưa hơn 30 loại thuốc mới về Việt Nam: Khi người Việt không còn phải nhìn những tiến bộ y học qua tin tức nước ngoài - GenK.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Wed, 15 Jul 2026 01:59:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLUNadThPNXlybTVoamtTX25BbXlOVmtPd3h1QVJmWXJCWlNTSUxxY3J4c3UtaEVLZ2hySDdRaGVqX1NOX01QSURSeEZXaXJMVk5yNkplNmhpRHpXdDV0VHlaeDE1U0taZDRlbFdiT3ZwWnp4bEE0ckN0WV9uOUxJTS1WUjdjSGZ2Um1yVlBsLVJkSU1oVmZFUmVOWWRoeEJPU2NseTYzb2pNTnJyQ082Q0ZEaWxlSHZnb2UxNkJOMVN0NXFSSFBDU1UxaVB0b3JxcWFpQUpYQmpFTWtqMUY2bm9ZYkJvLWtKV2lMOG1Tb3NOVlJGNlNVYU1QeThPSTlEcGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Radyoaktif ilaçların teminine ilişkin idari prosedürleri kaldırın. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Radyoaktif ilaçların teminine ilişkin idari prosedürleri kaldırın. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDZtUTFMV3g0TGdrTWhpcFFTeVJpZ0Z1cms5aG8tdTNkaU44Z3NtdnRFWjI3MFhWbmxuTkhmd3JpaHBkTDl6cGJnNW9tTnhWTzVvdGl0NnFQQXByTk5PVXFQUUpBQ25jbmU4eVF2bjFvTnE5VWIyR0ViZWtsd3Jtc3JpQ0Y?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "三大BD集中爆发！迪哲医药、翰森制药、信达生物齐传利好！科创创新药ETF汇添富(589120)大涨超4%，港股通创新药ETF汇添富(159570)大涨近3% - 手机网易网",
+      "source": "手机网易网",
+      "importance": 50,
+      "snippet": "三大BD集中爆发！迪哲医药、翰森制药、信达生物齐传利好！科创创新药ETF汇添富(589120)大涨超4%，港股通创新药ETF汇添富(159570)大涨近3% - 手机网易网 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ybFkwbGRDYnpDdzQ1ZFpIbEtBUmpmbUoza0MyelVQMkthLVRHWjMxQzdsRUZyNHNGeG1TdlNmOUFGYXZwYkZwNUhUT1B5MU0wZ0JZcmIydHJwN3hac0lYWE93?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "מודרניזציה של מערכת הפצת התרופות כדי להבטיח לאנשים גישה לתרופות בטוחות, בזמן ובמחיר סביר. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "מודרניזציה של מערכת הפצת התרופות כדי להבטיח לאנשים גישה לתרופות בטוחות, בזמן ובמחיר סביר. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnVwOWxiMXdteWNHQ0gtTmxEOXdNVFRIRVFFaEw0UU5pS21jS3FJTldiUVd0U2c2LU9VeV9JZ0s5UzV5UnVESk5oeTI4TWdUcW9YNGd5MS1aaTJ6TzNwX19qa2F3X2RiVTUtU0pwTE9MYUR5ZjdSRDhsVkxXRy1yU0dzeHY2TC1GNzl1UnpEY19QZWVEUDEzNHp1RkFEMHVwTnUzWDRtOEJKNGtNamdIdTI3Z3lDbW1GZ3c?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Clinuvel Pharmaceuticals (ASX:CUV) Falls — What Is Pulling Rare Disease Biotech Lower? - Kalkine",
+      "source": "Kalkine",
+      "importance": 47,
+      "snippet": "Clinuvel Pharmaceuticals (ASX:CUV) Falls — What Is Pulling Rare Disease Biotech Lower? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHdsZlNDblh4QUdjMXRPQlpUOVFJTHNwTUJkVk5Tbk9Wb0lOUHFHUTYzaTJ1eEJfTmUxR2czOWY2cHpXSlNGWDUtSzQ5T3BvN3E1ZEhUM3dmbnVzbnhlbnh3ZXZ1OEpacVpOVUsybm1DSHdCSWszOFl3TFhCQ1pIM0NYZHJjVExNdnNUSTMxTGNsaWRPc2RPRk9lOF9JUnMzVE0zeFREQ3hnZmhIM1E0UFpHYm1hLUcyRlFN?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Dymbio taps Lee Byung-gun to steer global strategy and partnerships - CHOSUNBIZ - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 45,
+      "snippet": "Dymbio taps Lee Byung-gun to steer global strategy and partnerships - CHOSUNBIZ - Chosunbiz | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNXBMdFdycHZqTkgxSFVsZXJYdzI5ZDJGVElHTTFkYWdvb0hPV2MyY0JaU0k3NjJEV0JXTy02cUdWVmZzSXYzeEtuNnNNS3NQM19FTnBHLThuQ2lGbzRpWGIyajl3ODhUV0s4Q3IzUGxlc0JXMHFkM2ljRVNQZ0J3c9IBlAFBVV95cUxQb1AxVFdENWFya2MyS2t6Wnc4VVBtaW54cHkxWDdTOGRISDc2UXFlTjZpamt6SHJBVzM3dDBKa2M0bFJxWDBWdEpIM3c0NEpjNUhNNmx3RFpHeTRRMjVfNUNnREQ2VXNoLUVrRkpfbEJRdjdCMy1oLVBjMXBkazdDUVhQMEtjd0s5OEJjclRfWEdkRFJi?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Moderniser le système de distribution pharmaceutique pour garantir l'accès de tous à des médicaments sûrs, disponibles en temps voulu et abordables. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Moderniser le système de distribution pharmaceutique pour garantir l'accès de tous à des médicaments sûrs, disponibles en temps voulu et abordables. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbk9JUHEzTk4yZWxraC1jckNteFQ2TUZNVUR2UHhxd0xmS0F4SmowZ0UwTTlqRVlJZF9IRDVmYktIajdjYUpJR2pNTlB2amtMMUFoZU5KV1lqWjl6QnFFOTRzSXZLWmRjbWM0NG1KMWQ2NUx5djNEUTJiMXh5c1hLdGNFa0xVM1Z3cGt1cjhmSXJzaHRVQWtmTGlDX3lzVFh5clJKbXZlZHFyY2EzNm84OVA0aUlHMWZHN0E?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "إلغاء الإجراءات الإدارية لتوريد الأدوية المشعة. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 43,
+      "snippet": "إلغاء الإجراءات الإدارية لتوريد الأدوية المشعة. | - Vietnam.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2tqVEtRNXFPWUpJZFFadTN5RnhhVHJGSHNJeVI5NWpaRGQway1YM2dyMkZWbmgtQTZvaTVPcVBvc2VoVXlKeDFHTjE4anl6OTd1UHRXSWdkak9MeWpFbFlVNzhkUjR2OUdsU2h0bEQ0LU9fN1RGYm85N29jdVBBTmpyVWU?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "איך אני נראית? טריליון דולר: החברה שהשתלטה על שוק תרופות ההרזיה - TheMarker",
+      "source": "TheMarker",
+      "importance": 43,
+      "snippet": "איך אני נראית? | טריליון דולר: החברה שהשתלטה על שוק תרופות ההרזיה - TheMarker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGtzTHZUMFdKa3dLcERMejJtcmltX3RZYU1INHRzMUE1c09ObmVLQkEtZ2MzNmJ0cXRxb0M0M1o4bmZ2UXFwY1R1cjFTN1MwbWpVSG9KdTVqTTJTTHFwdzFKWnRCeVY2REFWY3ptLVhJSU1HZUJOcjNWaHNIakFNZVVBdTNncVR0d2tJNS1EbkpTQU1FUDV0MlBJR29jaXNaVmhsemlUY0RlOW1mcmxfMmZCNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "전공의 “병원 내 폭력에 교육은 제자리”… 수련환경 여전히 '낙제점' - 매일일보",
+      "source": "매일일보",
+      "importance": 42,
+      "snippet": "전공의 “병원 내 폭력에 교육은 제자리”… 수련환경 여전히 '낙제점' - 매일일보 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0NF9fb2ZjejM3b2FpTW9TdTJwaVhCakxwTDZmbUh2NTZOam1JUF9Ba0JETzNFb3drbmJVRTdZR3VzSno0OXY2STZLYmlMVlE0WXBzRDEtNjk0dWY1OUswMnNXd3g?oc=5&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "title": "Zulum woos investors, assures pharma industry of support - The Nation Newspaper",
+      "source": "The Nation Newspaper",
+      "importance": 42,
+      "snippet": "Zulum woos investors, assures pharma industry of support - The Nation Newspaper | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX25YaGdhOUVmbEt4QlV4QU1hYTFMejZJdF8wSWZIUk8ya0VicXN2bkduQkk5bkF5N1gwV2RLRi1qaGdoakp6aG1rTU40RDBCYzVOQ0lYTkg4M011UlozZzI2dDJ1ZmY1d1Z4X09kZmRhQk5kU2E5ZHBsdEpycGRsM1pMMTZxN0kzc0FnQllBOTZfYk4y0gGUAUFVX3lxTE9fblhoZ2E5RWZsS3hCVXhBTWFhMUx6Nkl0XzBJZkhSTzJrRWJxc3ZuR25CSTluQXk3WDBXZEtGLWpoZ2hqSnpobWtNTjREMEJjNU5DSVhOSDgzTXVSWjNnMjZ0MnVmZjV3VnhfT2RmZGFCTmRTYTlkcGx0SnJwZGwzWkwxNnE3STNzQWdCWUE5Nl9iTjI?oc=5&hl=en-US&gl=US&ceid=US:en"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 7,
+      "en_count": 2
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 15,
+      "en_count": 5
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 5
+    }
+  ]
+}

@@ -1,55 +1,55 @@
 {
   "date": "2026-07-09",
-  "total_articles": 416,
+  "total_articles": 437,
   "language_breakdown": {
     "korean": {
-      "total": 190,
+      "total": 195,
       "categories": {
         "의약품": 25,
-        "의약산업": 24,
+        "의약산업": 25,
         "의약정책": 25,
         "의약단체": 12,
         "의약관련정부기관": 25,
-        "의료현장": 15,
-        "약국·약사": 13,
+        "의료현장": 25,
+        "약국·약사": 9,
         "의료정책·인력": 25,
-        "전통의학": 5,
-        "감염·보건": 21
+        "전통의학": 1,
+        "감염·보건": 23
       }
     },
     "english": {
-      "total": 130,
+      "total": 132,
       "categories": {
         "Drugs & Therapies": 25,
         "Pharma Industry": 25,
         "Pharma Policy": 25,
         "Pharma Associations": 25,
         "Regulatory Agencies": 25,
-        "Traditional & Complementary Medicine": 5
+        "Traditional & Complementary Medicine": 7
       }
     },
     "multilingual": {
-      "total": 96,
+      "total": 110,
       "languages": {
-        "French / 프랑스어": 2,
-        "German / 독일어": 1,
+        "French / 프랑스어": 7,
+        "German / 독일어": 2,
         "Spanish / 스페인어": 10,
-        "Italian / 이탈리아어": 5,
+        "Italian / 이탈리아어": 6,
         "Portuguese / 포르투갈어": 10,
-        "Dutch / 네덜란드어": 0,
+        "Dutch / 네덜란드어": 1,
         "Swedish / 스웨덴어": 2,
         "Polish / 폴란드어": 0,
         "Turkish / 터키어": 2,
         "Russian / 러시아어": 10,
         "Japanese / 일본어": 0,
-        "Chinese Simplified / 중국어": 5,
-        "Chinese Traditional / 대만": 1,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 2,
         "Vietnamese / 베트남어": 10,
         "Thai / 태국어": 10,
         "Indonesian / 인도네시아어": 10,
         "Hindi / 힌디어": 10,
-        "Arabic / 아랍어": 5,
-        "Hebrew / 히브리어": 3,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 4,
         "Persian / 페르시아어": 0
       }
     }
@@ -57,7 +57,7 @@
   "top_kr_keywords": [
     {
       "keyword": "신약",
-      "count": 22
+      "count": 24
     },
     {
       "keyword": "급여",
@@ -65,65 +65,65 @@
     },
     {
       "keyword": "비만",
-      "count": 13
-    },
-    {
-      "keyword": "식약처",
-      "count": 12
-    },
-    {
-      "keyword": "수출",
       "count": 10
     },
     {
-      "keyword": "GLP-1",
-      "count": 6
+      "keyword": "식약처",
+      "count": 10
     },
     {
-      "keyword": "오남용",
-      "count": 6
+      "keyword": "R&D",
+      "count": 8
     },
     {
-      "keyword": "한약",
+      "keyword": "약가",
+      "count": 7
+    },
+    {
+      "keyword": "GMP",
       "count": 5
     },
     {
       "keyword": "임상",
-      "count": 4
+      "count": 5
     },
     {
       "keyword": "허가",
-      "count": 3
+      "count": 4
     },
     {
-      "keyword": "약가",
-      "count": 3
+      "keyword": "FDA",
+      "count": 4
     },
     {
       "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
       "count": 3
     },
     {
-      "keyword": "CDMO",
+      "keyword": "오남용",
+      "count": 3
+    },
+    {
+      "keyword": "실사",
       "count": 3
     },
     {
       "keyword": "심사",
-      "count": 2
-    },
-    {
-      "keyword": "제네릭",
-      "count": 2
+      "count": 3
     }
   ],
   "top_en_keywords": [
     {
       "keyword": "FDA",
-      "count": 23
+      "count": 21
     },
     {
       "keyword": "approval",
-      "count": 6
+      "count": 7
     },
     {
       "keyword": "manufacturing",
@@ -135,11 +135,15 @@
     },
     {
       "keyword": "GLP-1",
-      "count": 2
+      "count": 4
     },
     {
-      "keyword": "clinical trial",
-      "count": 2
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "inspection",
+      "count": 3
     },
     {
       "keyword": "regulation",
@@ -148,51 +152,11 @@
     {
       "keyword": "vaccine",
       "count": 1
-    },
-    {
-      "keyword": "pricing",
-      "count": 1
     }
   ],
   "top_kr_sources": [
     {
-      "source": "의학신문",
-      "count": 7
-    },
-    {
-      "source": "약사공론",
-      "count": 5
-    },
-    {
-      "source": "약업닷컴",
-      "count": 4
-    },
-    {
-      "source": "히트뉴스",
-      "count": 2
-    },
-    {
-      "source": "문화뉴스",
-      "count": 2
-    },
-    {
-      "source": "데일리팜",
-      "count": 1
-    },
-    {
-      "source": "메디파나 뉴스",
-      "count": 1
-    },
-    {
-      "source": "대한경제",
-      "count": 1
-    },
-    {
-      "source": "메디칼업저버",
-      "count": 1
-    },
-    {
-      "source": "한겨레",
+      "source": "뉴스핌",
       "count": 1
     }
   ],
@@ -202,64 +166,548 @@
     "K-신약과 전문의약품 성장세가 바이오 시장 확장을 견인",
     "제네릭 산업구조 개편 논의가 본격화"
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 42,
+      "keywords": [
+        "drug",
+        "news"
+      ],
+      "articles": [
+        {
+          "title": "Vera Therapeutics’ First-in-Class Kidney Disease Drug Lands Speedy FDA Approval - MedCity News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlhMeU9jWHd6U3lIXzNpY2M2WDBkMnhyZTBOLVBqR0c5VHljNUR3VklGN3FJWnhoOXpuLUhfdG5zOEJBcVVOZDdjUlFXZkJIOUFOQVJkQURPY1FVcXVOT3B3elZIbnlSa0dLdEhCT1",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 22:57:44 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZlhMeU9jWHd6U3lIXzNpY2M2WDBkMnhyZTBOLVBqR0c5VHljNUR3VklGN3FJWnhoOXpuLUhfdG5zOEJBcVVOZDdjUlFXZkJIOUFOQVJkQURPY1FVcXVOT3B3elZIbnlSa0dLdEhCT1ZQaERlODc0T19aS2QzSTFnaDBsV3RQTC13NDdRUG9JUzBQYWNWcGhLMnA2dnRZVFJ4MS1Vdm9rUnJrWXpyb0c4RS05NVE?oc=5"
+        },
+        {
+          "title": "How in vivo CAR T is reshaping advanced therapy manufacturing - Drug Discovery News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDhGX2sybzQ3aHZrSE44Zmw1TTB1NHMtdlNkeEc0YV8xQmZjM09sMjF4OXJBN0lzQTNLM05QMUZ3bFhCVnFQbW4tVTNrOFphX2JyaWtSanNfbWlWVENyWVIyczRTZUNGZTk0OU96Rk",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 13:22:46 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDhGX2sybzQ3aHZrSE44Zmw1TTB1NHMtdlNkeEc0YV8xQmZjM09sMjF4OXJBN0lzQTNLM05QMUZ3bFhCVnFQbW4tVTNrOFphX2JyaWtSanNfbWlWVENyWVIyczRTZUNGZTk0OU96RkVrb043RTE0azdPUTZKX05ZQU1kYmU3N3AyVXVybHpFQmRqd2hoQlNUa2J1ai1ybkJuTzZ3?oc=5"
+        },
+        {
+          "title": "FDA halts release of new drug rejection letters while working to formalize policy - Fierce Biotech",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNG9CRmF2VU1SVXFsU3c2T3E0S0swc0thMW1DWVhPSUJhYmxlWWhlcDZQOWt2aTIzN3lpR1pmcVNya0RCQlJuWHhKRGhHcXZMOVBDeWxDMUV5WGxCbEI1OGpyT3NGZTR6LWJKMjlDVm",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 17:33:27 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNG9CRmF2VU1SVXFsU3c2T3E0S0swc0thMW1DWVhPSUJhYmxlWWhlcDZQOWt2aTIzN3lpR1pmcVNya0RCQlJuWHhKRGhHcXZMOVBDeWxDMUV5WGxCbEI1OGpyT3NGZTR6LWJKMjlDVmNqT1pFbWI2YnhRU1lPVUpuSGg2WjBYRzJjejFaNlV1d080cHBrOERKT3BaVVBCanRSOHBWNlBSQkZ1VFp6SU9ubnNfRQ?oc=5"
+        },
+        {
+          "title": "BridgeBio Stock Outlook Hinges on Attruby & New Drug Catalysts - TradingView",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3V2QmpWbzNleWdPTXFNcWxzdU5fZGE2MHcwdFEwQm1hel9BejVHUUU3eUR2Q3VXQnFycXFBV0lMaEsyMUxHWnlObTM5M1ZOdVoybW5aY0hwMjJ4ZUZfcVRGZGhwb3ZaY0sxZHB3RF",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 16:23:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa3V2QmpWbzNleWdPTXFNcWxzdU5fZGE2MHcwdFEwQm1hel9BejVHUUU3eUR2Q3VXQnFycXFBV0lMaEsyMUxHWnlObTM5M1ZOdVoybW5aY0hwMjJ4ZUZfcVRGZGhwb3ZaY0sxZHB3RFBZWmtSRy1ZckpWV3g4Zko2d3RqbUpqVU9BZDBEbVNELUhwV01pWDZUSVJZREFVZDhiNlh1TUdsbmdPOW5uUkZJU1VqcVhhRzA?oc=5"
+        },
+        {
+          "title": "Rhythm’s obesity drug data lands in NEJM after 52-week Phase 3 trial - Stock Titan",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRy1vemRhWDhLYm9VbkU3M1BGcEpXY1l0bWduTzI1d2w5MzhldzQ0ZVZaYjJyU2hVMm9Ld2hxVWdlNmtVYTJTLXhMbHgwdU1WMTNPY3ZpMHI2bDlrSmNKTUJXMFR3LWVzV3lWU1hEc0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 21:07:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRy1vemRhWDhLYm9VbkU3M1BGcEpXY1l0bWduTzI1d2w5MzhldzQ0ZVZaYjJyU2hVMm9Ld2hxVWdlNmtVYTJTLXhMbHgwdU1WMTNPY3ZpMHI2bDlrSmNKTUJXMFR3LWVzV3lWU1hEc0V3ZnV6eUQwOFkyb3VNYlBTLVBEaVU4cUsteHJIY3VpUVp5NEhQN2ZzLWlzMFQ2OFAtMUEzY0U0dnNyOGNSOGtxdUJMdEhHUXZadmJucDBZVmY?oc=5"
+        },
+        {
+          "title": "Syria Eyes Jordan FDA-Style Drug Authority, Holds Talks on Regulation & Drug Registration - NAVLIN DAILY",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5TGMzOV9WNEU3VWl3UF91ZHJOdHhuNGUwU2Y1MS1rcElDeVM5ZGE5Y1ZrOWhCN0FrYUhSa0xSckRXR0Mxa0phaW5vY1dPandBSG82MDBkQng4eEtDSHJkVEFHeVRYRTR2d2lqSV",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 09:36:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEk5TGMzOV9WNEU3VWl3UF91ZHJOdHhuNGUwU2Y1MS1rcElDeVM5ZGE5Y1ZrOWhCN0FrYUhSa0xSckRXR0Mxa0phaW5vY1dPandBSG82MDBkQng4eEtDSHJkVEFHeVRYRTR2d2lqSVU4cC1HaU1OdW1XRVY3aFRXVko5VHhhNC0za05LLTFnZERaT3RNZ1F0Q2t4eENxclFmMG15OUlWX01rZDVKdjJka2FDVm1OUGMxUW9ZY1JUMktvS3lyemdB?oc=5"
+        },
+        {
+          "title": "Goldenrod Therapeutics raises $6.5 million to test UNMC-created drug that could change modern medicine - Silicon Prairie News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFjaWo3d3RJNFVMS2s1bjFqcTJUc2ZmTnp4T2pGenlNeXBSNXI1NVZRbTdrc1hhSU1ja1VCUHhES1NXSjJLYzV6RkhrOFJ6NzBmNm1yYk9TUnFGVGhmTFR4YmpCaW5UUHNEY1Eta2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 20:00:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkFjaWo3d3RJNFVMS2s1bjFqcTJUc2ZmTnp4T2pGenlNeXBSNXI1NVZRbTdrc1hhSU1ja1VCUHhES1NXSjJLYzV6RkhrOFJ6NzBmNm1yYk9TUnFGVGhmTFR4YmpCaW5UUHNEY1Eta2dQYVNDdlhtRzluVVUyeG9vd18zQmk5T3dmZWdBR2Fpci1vWUJ3LWZKT3kxRzYxdC1FbW5zblAtcHBhb3FUY3NKQk1EX1JoSUhFaDlzN19nbTQ2OVFtWEVIVGlYOVlIeC0xaXF2MDM1Qzk?oc=5"
+        },
+        {
+          "title": "Immunome Announces U.S. FDA Acceptance of New Drug Application for Varegacestat for the Treatment of Adults with Desmoid Tumors - Business Wire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOT2pVMXRSd1pydXdJYktYN1VuLWlUb2NjelY2YXFPNVgyNEVUS1ZVeFlxdlZPSTRXT1pXbzVkaTBGYWpRaFRTQVRkUmhVV1VKQ0YzeTBpeUVaTEdUMmdTbUpMLXVxRzhoZFB3NnNva2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 11:30:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOT2pVMXRSd1pydXdJYktYN1VuLWlUb2NjelY2YXFPNVgyNEVUS1ZVeFlxdlZPSTRXT1pXbzVkaTBGYWpRaFRTQVRkUmhVV1VKQ0YzeTBpeUVaTEdUMmdTbUpMLXVxRzhoZFB3NnNva2xwSlRpMUYtWGFpUEdLVURVNTNYS1NhaUkyNy16SDByUzZlamVqQ2xxTkxqbUtnUGVsXzZBX3pvMFlGOXBTZUVDS0g1YUwyMzJTN29QQXJERWtMdVNUQUZLYmtsWlU1TklsVVE5MnZ5OGpmeW9KTExlWERqNUh0NWtlYWN4SExfWnp4QmowNXBsdFllemhyWFhqZUh4Z045VDg0ekFKM2V5dzR3?oc=5"
+        },
+        {
+          "title": "New drug seeks to help pancreatic cancer patients at Memorial Cancer Institute - WSVN",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE52U0ViRHZPSmhVR09ibV9CX1ZrQVJBdEt0Q2ZScVp6VW9keVhidE50NnZYZVBFRTFkN1BXWWpKMi1rQmI4NnVqaVZyaWtzdTJ1VEVxcEYxT0ZUWGM1OVNPSGFQZjdlMjd3UEJ2Z2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 22:24:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE52U0ViRHZPSmhVR09ibV9CX1ZrQVJBdEt0Q2ZScVp6VW9keVhidE50NnZYZVBFRTFkN1BXWWpKMi1rQmI4NnVqaVZyaWtzdTJ1VEVxcEYxT0ZUWGM1OVNPSGFQZjdlMjd3UEJ2Z21mTWRvTzhaWGEzZ3FwQmN5bGhDdVplV1BqYXBjVTdCbWpYdUthY3R5YmtoVE5SajdrNlAtQlQweUVsc2dJRk5uQTdfTmZ0UQ?oc=5"
+        },
+        {
+          "title": "New drug enters major glioblastoma trial for hard-to-treat cancer - Rare Cancer News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDFGNEZxVkUzSDcxek5ZbnpxYXFiMWdNV1BwUHZ0Z2pLNWJZS1NwZG9tclN6LTNkcVNDVVpoU1Z0MmgwVHlBeVBCZzgzWlZSbGhRSHVNc1NPSDZnd24tR2JDeTBZX2Fnc3E0akpGM2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 15:30:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDFGNEZxVkUzSDcxek5ZbnpxYXFiMWdNV1BwUHZ0Z2pLNWJZS1NwZG9tclN6LTNkcVNDVVpoU1Z0MmgwVHlBeVBCZzgzWlZSbGhRSHVNc1NPSDZnd24tR2JDeTBZX2Fnc3E0akpGM210eEU1eEJsN3JnYWlfUEw2a1RLb0hHUEwtbV9ZRXlvMENaZmVRSFE?oc=5"
+        },
+        {
+          "title": "Novel Drug Reconstitution Systems Market Growth Trajectory to 2035: Biologics and Automation Fuel Demand - News and Statistics - IndexBox",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3V0TmszLTQ3bnRrT0NXa0hIczdVblVyY2c0a1gzUmNybGQtMERySXpmRDFHRXFXcnFPQW5UUjkzTHpFVkVha2pscXlDbUFEWnlnZk5lWFhRdW1od3pVVk5fbVNDbWFiUlNqNU9wT2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 18:36:10 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU3V0TmszLTQ3bnRrT0NXa0hIczdVblVyY2c0a1gzUmNybGQtMERySXpmRDFHRXFXcnFPQW5UUjkzTHpFVkVha2pscXlDbUFEWnlnZk5lWFhRdW1od3pVVk5fbVNDbWFiUlNqNU9wT2Q1VFFwbkpuZzhkZ1VOYWFfTDk3a0NBejlkb1ZIempfbXRFMUJVOHZKdkZnQThyT1M0eTRXZ292RjRGSVhfWTR5bEFnemUtV0hIOWNkNDE0NUNRWk1IcTdkN0J5Q05VdnE3Sk1ncGFSWnBmNlBI?oc=5"
+        },
+        {
+          "title": "Saol Therapeutics Resubmits the New Drug Application for SL1009 (DCA) for the Treatment of Pyruvate Dehydrogenase Complex Deficiency (PDCD), an Ultra-Rare Disease - StreetInsider",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwWDhkaU5mcEF5anFSNHBoWnhic1M1SWJrdWZNMk5GbWNKcGJjNy14MHlYcHp1OUlLdV9XaHdPLWZRR3lQaWFwRFZqelh4b3BDaUEyY0Z4RGlKOG91QUh6LXJYRQ?oc=5\" target=\"_",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 10:26:15 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwWDhkaU5mcEF5anFSNHBoWnhic1M1SWJrdWZNMk5GbWNKcGJjNy14MHlYcHp1OUlLdV9XaHdPLWZRR3lQaWFwRFZqelh4b3BDaUEyY0Z4RGlKOG91QUh6LXJYRQ?oc=5"
+        },
+        {
+          "title": "FDA Accepts Supplemental New Drug Application for Arcutis’ ZORYVE® (roflumilast) Cream 0.05% for the Treatment of Mild to Moderate Atopic Dermatitis in Infants Down to 3 Months - The Manila Times",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQ2ZxTmdlM05xaXpPM0NMOThzQlJpUEpCeW8zSFZqWUppek55MnBtdzVtWWdXRUFPQWxlMjc1WEQ2NG5HcUVGN29BcTVCZmtBazh0VzhnR0hCUURwS0RhN1JKRklLenhYVGFybTNCbi",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 12:04:47 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNQ2ZxTmdlM05xaXpPM0NMOThzQlJpUEpCeW8zSFZqWUppek55MnBtdzVtWWdXRUFPQWxlMjc1WEQ2NG5HcUVGN29BcTVCZmtBazh0VzhnR0hCUURwS0RhN1JKRklLenhYVGFybTNCbi1tUmhsbldRMW5fSS1xeGxfdVRyNWdEbmN1TGVKX3h3REV6ODZsRlE5WnhUZWdkdjVvaUlubmh1SGRtU0hfd3NDX1R5Rm02N1hmSmRFNFdCVC1wd2JEZkpIa0dIUXFreUMyRkVUU1ZGNm5jMVJkR2lSclk4RTROaEtVaEcxaUN6R0ZzR2lEdUdrX2NlRDRYYUVRcFpKSWpyc0JiV1JVMHFVODBMVXBPSk5oVENxSHFmYWJ3S0ZaSlpfSDZvX3B3b0JWWFktRnRiZ2RhVHU5ZkI1aGhrTENQaWI4bmNHcVhVUFNtUUlCZHVDbmtwYUhieUpDZFHSAecCQVVfeXFMUGF4cUl6RHVlOEJpX0h0cWRCcklvUnhRZXBXaGpYSndlYVNBYXFMRkYwZ2liYmpQeWp0NHBLVWFObzhPQ1lRT2YyMXA1enNPZ0tIZ1NxRzg3U1ExQXpMTV9UWUZjdkh6cl9DNGVnRGJDZ2V6eURXaDlGUTNwN2wtQzZMSlgyd29TZW9fVGhBLWpEWTV1RFVqanpyUGVaSTBZSFVtYWtIZUQ0bzVVdEFJb1RNY1BpZVBnRGMwNHpHaVJBQUZKVF9xcFQzSzhkSURmN2hWNkpoOWpjSHdpMEZUbEhUMi1QNUlGbDdxeWFOamowbkR6MkJkaG43TXVkc0FNaE5iQWtCUlZHTmFUVjVxU3RReVdlMmd2LWtUZ1pxVUs0UXRLdThkT0E1QTRyWERBblY4NWY1Mzh1MjRLbGRoYUt6UnZmdGhwZklNWHdEelJwNmlva2hsWXQ5OURuWDN1WnN2aHloUFk?oc=5"
+        },
+        {
+          "title": "Korean New Drug Output Hits Record 738.5 Billion Won, Led by P-CAB - Seoul Economic Daily",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNeU9mcDhEVHh3OFowVDJ3cTRHbEtncjNnLTFaMHY3UmFPMmVZaTVYUHYyWWQyaHlVd0Y2Njk5TFRIeDdoaTROclh1aXdhRmZEQU9nWkdNLXVNLWgzSkkxSVZBeS13WmpfaW15UDhlUT",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 22:00:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeU9mcDhEVHh3OFowVDJ3cTRHbEtncjNnLTFaMHY3UmFPMmVZaTVYUHYyWWQyaHlVd0Y2Njk5TFRIeDdoaTROclh1aXdhRmZEQU9nWkdNLXVNLWgzSkkxSVZBeS13WmpfaW15UDhlUTJhTkZfc0o1bUNScnhwN19OU2FWeGtFeDRMZ2NvdzlGZ242WkM1dW5PNGJOc2xxekVYZHc?oc=5"
+        },
+        {
+          "title": "Insmed (NASDAQ:INSM) Drug Launch Fuels Healthcare Market Buzz - Kalkine Media",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUR6WEZSYW9TNjVHallCdVlvZmcyNzZNWW04akx4UDByZUxLOVRDVXI3ME5DbUYxYTBTS2hPU2VsMm5obnZRRlJpNWRLeE9ocmFMUHlkRk1GbC1LLThyMldrTnZYTmVmcldQSHVOdD",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 21:29:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUR6WEZSYW9TNjVHallCdVlvZmcyNzZNWW04akx4UDByZUxLOVRDVXI3ME5DbUYxYTBTS2hPU2VsMm5obnZRRlJpNWRLeE9ocmFMUHlkRk1GbC1LLThyMldrTnZYTmVmcldQSHVOdDBRdG84WDVkWTVpYjhnNjlldlcxczBLazRwY3dPeUJqcVU3b2NZM2hCanhNR0xXc2I5RlA2dGtmUQ?oc=5"
+        },
+        {
+          "title": "New Cancer Drug Vepdegestrant Gets FDA Approval - GK Today",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBnN0tDWXljZ1VSd3BQZDA4b2ZpT0tQaEk2MzQzRTJGMTgzdHBWLVRVR2FMNkUzYkNQQ1doeVRFaFlWM0Q1YzI5UG9FUFZsNHlxc2I1X24zR2oybE9UQy1CWnZKSVF4Mkhidmt1NTYzQU",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 07:07:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnN0tDWXljZ1VSd3BQZDA4b2ZpT0tQaEk2MzQzRTJGMTgzdHBWLVRVR2FMNkUzYkNQQ1doeVRFaFlWM0Q1YzI5UG9FUFZsNHlxc2I1X24zR2oybE9UQy1CWnZKSVF4Mkhidmt1NTYzQUpGUGtJT2FBa2RUQQ?oc=5"
+        },
+        {
+          "title": "Daiichi Sankyo focuses on oncology growth. Long-term drug pipeline remains key - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2huaGV5ZXA2UEtfaC1ESVNpUUxUTXRfQzFWUFA5eFZpMjVfc25fNkFmdWxyQVBMRWFRcWYyTzFad1RnZ0hPenF3bUdjRmlDcWxBMUxuMWE0OWpjVHF4RXlHWGpnSW5ocEJMUlNaUm",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 18:12:07 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU2huaGV5ZXA2UEtfaC1ESVNpUUxUTXRfQzFWUFA5eFZpMjVfc25fNkFmdWxyQVBMRWFRcWYyTzFad1RnZ0hPenF3bUdjRmlDcWxBMUxuMWE0OWpjVHF4RXlHWGpnSW5ocEJMUlNaUmtfYTdqSENMNllUek1KUnJKSFgzclFGSTBPa0RTQ2RWZEx2MHhZZVhidlFaclI4S2taZU85eVAySWNvVk13Vk9rOUZuVXNfZjRxNnBlck9xdFJKVjFJM0U2bHpOTUs?oc=5"
+        },
+        {
+          "title": "'Every effort must be made' to provide prostate cancer drug to public patients - MSN",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcGVwdElEdXc0dDRObkdLX3RXRk5lNWhaVWpNQkZUV0NST3ViMkFsVmpCUklrcExxQzhGdlpSbWpvNk12R1duUGJ3THNya0F2LS1icGV6U2RfNjc3eS1UY0p0Ql9mMHRXMDRuT01Yam",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 09:35:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNcGVwdElEdXc0dDRObkdLX3RXRk5lNWhaVWpNQkZUV0NST3ViMkFsVmpCUklrcExxQzhGdlpSbWpvNk12R1duUGJ3THNya0F2LS1icGV6U2RfNjc3eS1UY0p0Ql9mMHRXMDRuT01YamM1UmYwZ2twNGRKZzFBWHRjSVg0YUxMLTU1UzA3dk52bHZUcGM2bzFVdFYtX0dZSkx6RXVmb1liY285UHZhWk53VVNoTlJKWkZOWlJMV0lFV09Vd2pjbWJWWjZpRFZxNzJwRWN1WkwtdXFxQnRTSmtUUDJPMnFHa1pJU2pmdHdxTXBLMGNjRTlpajNWVm4xN1BqZm04MWdVeVJuRmUwaUZIdFRfeUtZbWJOTUNfdmMxemtsQkRmUzBuT3p0SnFTNkIybjc4RlMwUjFJVGVCbFRVYWZVUVo4RUU1ZHNtcnZLWjN4S3Exd2tLOGtVcjA?oc=5"
+        },
+        {
+          "title": "FDA Orphan Drug and Rare Pediatric Disease designations for tegacorat - The Pharma Letter",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0FfTnRjSzZXZVV6ZWFRdDVJYjFVUmZkaW1QUmotTmRQR3R2WlRYM2ZzbUc5dC0wYUFISk5kWDRHeHNXSzlMdjhCWDMybWJZYkNydEltVHZuNWxiZzhTQzRuQ0FxS0E4OXY2M0cyU0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 11:37:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0FfTnRjSzZXZVV6ZWFRdDVJYjFVUmZkaW1QUmotTmRQR3R2WlRYM2ZzbUc5dC0wYUFISk5kWDRHeHNXSzlMdjhCWDMybWJZYkNydEltVHZuNWxiZzhTQzRuQ0FxS0E4OXY2M0cyU0RUVWJvQUNoSHhOZXVmSGUwUWhkRng5akJuRUt4THF5bmxDYWc2alFONG90NGVTYmhaUjNPRlIyQ2NsXzVOZEY4bnVmdw?oc=5"
+        },
+        {
+          "title": "Sanofi builds on global drug portfolio as investors track long-term growth. Focus on innovation and - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2dqSUlrdEJBRVVzUU5xOFltbzk1aFNPaDlYc3MydlNvUFgxeFVzWlo5T2VXMjVvOTdWdzhwdTdKajFESUdyLUU2Qzg2c21SR0NYUzMwNkNVakFWMVEzdkJjbVlQcnptNWdPREZndz",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 09 Jul 2026 05:01:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2dqSUlrdEJBRVVzUU5xOFltbzk1aFNPaDlYc3MydlNvUFgxeFVzWlo5T2VXMjVvOTdWdzhwdTdKajFESUdyLUU2Qzg2c21SR0NYUzMwNkNVakFWMVEzdkJjbVlQcnptNWdPREZndzVadnNkeFpqd2sxOGhzbXotOFh2LVV2MGh3R2wzaVlGYUpQNkFFN0cxaUVmUHJseEFXSWUwcTVmaGVCSjZKTWx5eU5Ccjk4dkx2Sm8tcVZoLU9JSTRX?oc=5"
+        },
+        {
+          "title": "Large Language Models Support Antimicrobial Stewardship Pharmacy Services - Drug Topics",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm9idGMtdFBtcHRnTDhoRkJWRFVHcDFILTJTOVZYQzJjSTh0U255aUQzVW5VcDM0SmFhTDZVQ2lpSTVVVGxzLTNnZ2JnZkFLaUtnbmJmVGx1eDJNSnBiRF9UT2pPdVZZU2xXbVVVVW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 08 Jul 2026 18:43:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbm9idGMtdFBtcHRnTDhoRkJWRFVHcDFILTJTOVZYQzJjSTh0U255aUQzVW5VcDM0SmFhTDZVQ2lpSTVVVGxzLTNnZ2JnZkFLaUtnbmJmVGx1eDJNSnBiRF9UT2pPdVZZU2xXbVVVVWxIQm1iT2oyc0VoMHdOVXF3ODNHd1hxX1dIYnVHa0FhOUpfMzU4dFpPeEM0R2xzcDNmMVpBb1FtWlY?oc=5"
+        },
+        {
+          "title": "Former Merck and NASA Leaders Bring Strategic Expertise to SpaceMD Amid Rising Demand for its In-Space Pharmaceutical Development Capabilities - Business Wire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxNR1l4MjFROUJvemdmZHVyVHpaRlJ1dXYwOUpUZUVOcGdoMk90ZFNDVFpwVjFZbmI4SnVCcS11aDhYSkVoaG9kSVFkcURzaDFvSTZUYzlnejhmY1B6ZXFNMm9hUDA0a1NOb3dhRFV3eE",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 11:00:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNR1l4MjFROUJvemdmZHVyVHpaRlJ1dXYwOUpUZUVOcGdoMk90ZFNDVFpwVjFZbmI4SnVCcS11aDhYSkVoaG9kSVFkcURzaDFvSTZUYzlnejhmY1B6ZXFNMm9hUDA0a1NOb3dhRFV3eE1pdS1yaTZSM3k0VmQ4d3NLZEgtdXlBTzJuQTkyb2pVcW5YMTdYZE5WZzg3RzZDa3RBZUNlbm9fR2FBUHBvN2JwTkY0dVlocnpYMHRSakh1cTZjMWw5ZTg4amx5YVJkUHUySmhjblZHMmRWNElTUmxBUmZKMS1VOGpsQ2t4T01iRUh6TzJQSWVnN2JwMnhiU3NxQjRjR0VqZmR2SDZuODVHLUxCTGNKcXQ3Z2JmVlAyMmR1YkhOVlE?oc=5"
+        },
+        {
+          "title": "Inovio Pharmaceuticals updates investors on strategy as Nasdaq-listed biotech navigates a challengin - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkJ2Mm50dGlFNDBnU2hjNEQwRFREdmJyb2doby13Sl91R0pBN3RzQl9wYkRHeEJwb3hTSDdsOFVsSjBzZktwZXBSSjl5elR3WjJ0V2gybThuM1VFUWlFOFZGeWZSdl9Ec1k3ZHB6dE",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 13:52:21 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkJ2Mm50dGlFNDBnU2hjNEQwRFREdmJyb2doby13Sl91R0pBN3RzQl9wYkRHeEJwb3hTSDdsOFVsSjBzZktwZXBSSjl5elR3WjJ0V2gybThuM1VFUWlFOFZGeWZSdl9Ec1k3ZHB6dENVWnZUZFhUUTZaWS13VThidERsX0J5TE85a0ltRmttck1yN0JxU0dlb1d3X3NFR1Bpdi1tS2ZjWkxMRU5YaGZlaFRjb0pZeFZtNHJ5M3lkM2o4SmJFZG44?oc=5"
+        },
+        {
+          "title": "Halozyme Therapeutics focuses on drug-delivery partnerships as investors watch Nasdaq biotech sentim - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaVgxVjhabGZaeW4zX1NVUmcwWFNYWlZzNnoyQWN5Q1VfemJ4d05yb2pjVlNwdUR4VV9YMElxUUd5Ym9oUmhIN3d4MXNLakxiY1NnaW9FZW9QdVJWN3pqd2dyV0FHMThkT3FQX0RnNU",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 17:41:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaVgxVjhabGZaeW4zX1NVUmcwWFNYWlZzNnoyQWN5Q1VfemJ4d05yb2pjVlNwdUR4VV9YMElxUUd5Ym9oUmhIN3d4MXNLakxiY1NnaW9FZW9QdVJWN3pqd2dyV0FHMThkT3FQX0RnNUQ1bGJ6VFU5RkhhUUFJbHhJT3Q4LTRVaEFJTk5HYjFkNHQxRWpiZ1FTbUlTaWUyUDNEd3pYQUllMXVXN29zam9VVzdkdTItX0o1ZEtZVElNaGM4S3BEMnB3Yk5pMA?oc=5"
+        },
+        {
+          "title": "Regeneron Pharmaceuticals balances growth prospects as a major biotech player. The company continues - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWdtUjBMUTduUTZHSFBuVVQwcnRRR3h2VWEtVHZ0NEpPUVZBZFdfd3FMd2Z5bDB3dnRpdzdtMnFlTkZyMEx2OFRwSXNRRUwyV2pVMnVzbW4yOHFBdWphZnBBQnNqVWdGMFRZVDJXV2",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 12:24:30 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWdtUjBMUTduUTZHSFBuVVQwcnRRR3h2VWEtVHZ0NEpPUVZBZFdfd3FMd2Z5bDB3dnRpdzdtMnFlTkZyMEx2OFRwSXNRRUwyV2pVMnVzbW4yOHFBdWphZnBBQnNqVWdGMFRZVDJXV2NZQUpxUjJ5S0U0MlpxelBzV1BqcEFGdnZ3SEJjS3cxbndFbjBqNVNGb2pheUoxMjNaajlJQnoxbU5faERzLV9JT1FkYlpUUnlHN1ZFdWRCVTF2TkRMWmd6YQ?oc=5"
+        },
+        {
+          "title": "Oramed Pharmaceuticals highlights oral drug platform as investors assess long-term prospects - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFFFbjNMb19FSUtQLS1uLUpXN3pvY3MxNk9LanlXM2p2S2NsaDBEVWJYTFJsRmMtZzgxajlDc3d1cy1zV0ZwaVpnaFFfdDNkOU9PT0x5NUNfRmszWERBMUNhTG1uQ3NpNDJOWlFOMT",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 18:34:11 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFFFbjNMb19FSUtQLS1uLUpXN3pvY3MxNk9LanlXM2p2S2NsaDBEVWJYTFJsRmMtZzgxajlDc3d1cy1zV0ZwaVpnaFFfdDNkOU9PT0x5NUNfRmszWERBMUNhTG1uQ3NpNDJOWlFOMTA2MHB3ejVnY1AyRDZOWFZHWVRDTGIzdWxsWjNQV25JX2hDNXQwb1pJUWNEa2dXUnBSREJoWGs3SWc4UUc4cDFuZkU1Nk5qZGNHYU5qN2tVVVNqX0VIbGdISnBJQQ?oc=5"
+        },
+        {
+          "title": "Catalyst Pharmaceuticals focuses on rare neuromuscular diseases as a specialized Nasdaq biotech - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmNsNk0wTVN2SmduNVk4RUpSd1VaMEwtbUVhVXdTYWtDcThFZzdCbzNkUFhmOXZlRmV5amhjX0YyWVhkSHpaNTc4NlhIeDNGeTNhRVVBMy11SjZERFJpTFloc2ZOYVZRWjN2cm9ic0",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 17:22:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmNsNk0wTVN2SmduNVk4RUpSd1VaMEwtbUVhVXdTYWtDcThFZzdCbzNkUFhmOXZlRmV5amhjX0YyWVhkSHpaNTc4NlhIeDNGeTNhRVVBMy11SjZERFJpTFloc2ZOYVZRWjN2cm9ic0pCRlZ1S2N3MG03bWhhZXZZMkdIUlI0SWNTdjgwV1ZBMUFCZWJWeFM4NHRhSUlNR0pmM3dmbnpENVRUR2c2RDloYnJwWmlBTkNzVzJYeFRpcW13ZDZMdFE?oc=5"
+        },
+        {
+          "title": "Iteos Therapeutics seeks partners for cancer drug programs as Nasdaq-listed biotech advances trials - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORmdXWGJTYkQ3OW9GdVN6bUQ2ME1Gb2ZKODQtWGVWZlRVaENTMjFxMmJQRjdzNjVHRzVvMEZRTWdXODJLWXVpRTEzT1lZaHdWY3NHTmFLZlJCLTl0aXZmeDNYQnBEdV9OWWdSSzBrZk",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 19:44:51 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmdXWGJTYkQ3OW9GdVN6bUQ2ME1Gb2ZKODQtWGVWZlRVaENTMjFxMmJQRjdzNjVHRzVvMEZRTWdXODJLWXVpRTEzT1lZaHdWY3NHTmFLZlJCLTl0aXZmeDNYQnBEdV9OWWdSSzBrZkoyR3JyOEdZVmRObjRCR09vZkw5dWN6N3pwWG03dEkwa2tEZzhlS3lZS0ZsZUljUjVHV3YtaWhIdkxqVnNWeFgwYXJYMWNXdnpFMnM2YQ?oc=5"
+        },
+        {
+          "title": "Why Is Telix Pharmaceuticals (ASX:TLX) Lifting Sentiment Across ASX Biotech Stocks? - Kalkine Media",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWIwLUp6a21QOE9EV1MzX3Qxek8zY3U1eDM2YzJhRzBhQnNXVTlaTHRqOWQzUDc0cm9XYXR4Tk8tNHBxVllKS0Q2WEptcmpKYXc3X0RrUkl5Y2FSNHpoVnJfc1p1Q283cXpHTm5wb0",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 08:02:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdWIwLUp6a21QOE9EV1MzX3Qxek8zY3U1eDM2YzJhRzBhQnNXVTlaTHRqOWQzUDc0cm9XYXR4Tk8tNHBxVllKS0Q2WEptcmpKYXc3X0RrUkl5Y2FSNHpoVnJfc1p1Q283cXpHTm5wb0tWZjBMVDFteFhRSERGbDBYR252MDM2SV9wTEo3ZV9FWkNJby1GWFFUckVnMVdwVXhjdjlLV0JUMkhQTWctaUhYc2tZcjVZREZkTVp5VnZBQUdpTmc?oc=5"
+        },
+        {
+          "title": "Schizophrenia Market Gains Momentum with Expanding Pipeline and Investment Potential by 2036 – DelveInsight | Teva Pharma, Royalty Pharma, MedinCell, Sumitomo Pharma, Otsuka Pharma, Reviva Pharma - Barchart.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxOTHY1a1NteWduQWJ4ckY2QXdNbHhQYnBlRENQb2xHZDVmbXVHNkRWcm9mWFNXRUQ4eEFkYzZwSGJDWEhyU3ZFeWFya3ZIM0xvVUM3aWRrdmRJZEtsQlRkY2RMbUZZejlpUTNxV19zeW",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 12:30:18 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOTHY1a1NteWduQWJ4ckY2QXdNbHhQYnBlRENQb2xHZDVmbXVHNkRWcm9mWFNXRUQ4eEFkYzZwSGJDWEhyU3ZFeWFya3ZIM0xvVUM3aWRrdmRJZEtsQlRkY2RMbUZZejlpUTNxV19zeWVUMW83ektIVExRbmZfQnRQUnRnN1JLQXVtZk5sSEFJZDFoQldPSEllUkZuZFl5bVdMdjVQX0dXU2xCRTJTcXVDczlPcDlIY2o1UUJLNGtBS01VSXJLMXFBQ2pySDl2Y3lWUGF5Sm4yUzNjdVdkMWhTMGNmUXAyUW5xU1o1a0NGd0NQcHJ2THpVSGRMRFBhZk9xV1kwRWpNYjJzQmY5VERXV1VqbkpEejlJUTBPSVFPZTdyaUoySFhZNF9CeFV0ZVpJdXJRSlRSNEVJSGg0Z3JNVmJ6T3RpV0hBejF1U0h6UQ?oc=5"
+        },
+        {
+          "title": "FinancialContent - IGC Pharma (NYSE: IGC) CEO Discusses AI, Alzheimer’s Drug Development and Key 2026 Catalysts on The Street Podcast - FinancialContent",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPRnc5N1FHNkRxWElOSmZaX0k2a2Jra2dFUDNpYmN5Uk1BenQ4U0xBX2V5VDVoRjFTR0hpLVpCT0lITVRvb0lBbGVRdFMxTlZ5bzEzbjhiOWRkdkk0ZFpncXFzN2RhWUtxMUZOcHJROX",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 20:35:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRnc5N1FHNkRxWElOSmZaX0k2a2Jra2dFUDNpYmN5Uk1BenQ4U0xBX2V5VDVoRjFTR0hpLVpCT0lITVRvb0lBbGVRdFMxTlZ5bzEzbjhiOWRkdkk0ZFpncXFzN2RhWUtxMUZOcHJROXRaM3d2NlRiamRXeW9NVVZpZDF4Qi1fZTF6ZmNxRDIwdkl5Z3pXU2RQaTR3OUkwN2NzbGdIZnBnbWpNYlhocmQ5Vkp1NFJmS250QUljTkJjVl90VDdodW9sV0pqS0UyX2xVWm1hZmdHNzlTbThBcjBEVXdwV2lqSDVyZ1gwckhfb2loLWExdzJYcmRKcHBaeS1UblEzaVZyVUNNMC1feWc?oc=5"
+        },
+        {
+          "title": "Evonik’s $100M Investment in Tippecanoe Labs Boosts US Drug Substance CDMO Capacity - News and Statistics - IndexBox",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNa1IwSl8wdzNNQXZBUUFhSng3Q0l0b053VzZ6NTJBQ3hwRXlTTnhMN2ZXV0xQWXZsNXlLTzFPYjY4NDBRdmhidDdveEhFRW1SX1VQZXpJdldyREFqMGo2VkdaYVhOV2lIc2lKZ1N5b3",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 17:41:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa1IwSl8wdzNNQXZBUUFhSng3Q0l0b053VzZ6NTJBQ3hwRXlTTnhMN2ZXV0xQWXZsNXlLTzFPYjY4NDBRdmhidDdveEhFRW1SX1VQZXpJdldyREFqMGo2VkdaYVhOV2lIc2lKZ1N5b3RBM1gxeGFxQkY1TXUySE9wbjNpRTg1Z1UwMjRDWGRvRURfYjh1WDBVbzZYVVZldw?oc=5"
+        },
+        {
+          "title": "Epilepsy Market Shows Strong Future Potential with Increasing Industry Investments by 2036 – DelveInsight | ES Therapeutics, PhytoTech Therapeutics, UCB Biopharma, SK Life Science, UCB Biopharma - Barchart.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxPOVJOOWJaZ0dzN3ZKTk9uOTlQc0dmZzVwaTNJZlJEN00yQkk4UndjbUEzanRlZXVGVE1Pd0RfdnFyM1hVQkxFQkFJYUczVkM1bUR3T204WS1HeDNrTjUtRXVEaERrWW92eUNLeV9SVT",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 14:38:17 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPOVJOOWJaZ0dzN3ZKTk9uOTlQc0dmZzVwaTNJZlJEN00yQkk4UndjbUEzanRlZXVGVE1Pd0RfdnFyM1hVQkxFQkFJYUczVkM1bUR3T204WS1HeDNrTjUtRXVEaERrWW92eUNLeV9SVTZlLXZURDlhQk1SX2NLd2h1UkVhd1BmbTZlX18zYU80NDdYUklhYUlxdF8ydVB4WW9iQlpJSi1YX19kSDUxZjRJVU4yZjJzSy1oU2lpRTFzYXVzNTQwRC1FczhiQ3NDR21sNVVjYWR1SE9Mdnl5NlJ4Y3lMRlNkSVVBenl0MnFnYmlMZzM3NHZfczRpTHBxSC1QWXJiUkhKaVJWQVROSndnenRTM0FwTlJiWDFHMHhJX29jNkdHMFFQV1BUTk54ZFlIT3I2dGdhWFZHcFRYSXBGakhzcmJRZjc4ci1NYTNndw?oc=5"
+        },
+        {
+          "title": "Lexicon Pharmaceuticals outlines its path in gastrointestinal disease. Drug pipeline and Nasdaq list - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzY1QUpSbmFjQ3dZVnh1UWxKUVFaeWpGZ1F6ZkFMSklaOE94dzg2bTlKVHhlb2hmbTE1QTNsbFo1Q1l5Wlg1UGpGYWI5VENBTllEZFBETkZzaHhGeDN1ZF9CU2RUTF8zTlVwVTlOYj",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 18:30:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzY1QUpSbmFjQ3dZVnh1UWxKUVFaeWpGZ1F6ZkFMSklaOE94dzg2bTlKVHhlb2hmbTE1QTNsbFo1Q1l5Wlg1UGpGYWI5VENBTllEZFBETkZzaHhGeDN1ZF9CU2RUTF8zTlVwVTlOYjk0ZXNEU05UR25nR2tYTkdCUk00S0ZrR2NqckhEVGlkbGNhb1htQ0lvZVZzRGYzTElNX1I3M1I1MFVBbE5uNTRSdjAzTE5mZEZCWHNVRWp5THZhUFh1MFJB?oc=5"
+        },
+        {
+          "title": "Bayer focuses on pharmaceuticals and crop science as global markets evolve - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0xwU2VCVGZxbUNFV2VuVGV0Tmh1WGR3LW5WeDMzNHBxUnZwdV9EanlwbnpqcnJ1US1OaU1TUHNNUHJDdDQtaEhTRlF0cEJEaEFPV3QtVENFVm9rZEdDZ18yYTlHa1BUVTZONTFQOV",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 19:27:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU0xwU2VCVGZxbUNFV2VuVGV0Tmh1WGR3LW5WeDMzNHBxUnZwdV9EanlwbnpqcnJ1US1OaU1TUHNNUHJDdDQtaEhTRlF0cEJEaEFPV3QtVENFVm9rZEdDZ18yYTlHa1BUVTZONTFQOVh6c0hwOFgwQVpLdTdJZmZ6dzduek9TY05OOVhuNW9FVzRwWkc4VktLMDJZLXBtVVhTeW9jbU0zbHBnOXRhbndtczZpcE14OVQzQVFSLXR5QTBpaWJMMUN3TldhWHVNdw?oc=5"
+        },
+        {
+          "title": "ESCLC Pipeline Accelerates as 25+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight - Barchart.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXlmMnZHUGNyYTZoYkhISjloYjBjUUh6bUtHTXZYUW1Ga290a3lDeE11QmszdkRZSDVMc2QyeEFHNnZSYUFONE1hdzhMaU1Jd050cjV2SlJ4ZnJsajZudjJqM2NxdkR0dXVsaHBYRU",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 21:34:21 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRXlmMnZHUGNyYTZoYkhISjloYjBjUUh6bUtHTXZYUW1Ga290a3lDeE11QmszdkRZSDVMc2QyeEFHNnZSYUFONE1hdzhMaU1Jd050cjV2SlJ4ZnJsajZudjJqM2NxdkR0dXVsaHBYRUpqS3AxOXU4dGZ2cXptVktCcU9uVzlkYWg1TVB4bldRWEQyQUJVeEpmUE5MM1JmS05wRGtIT2pVOWhURm1TcDZMdHlDVXJ0QmNFWjhjYnZ3cjZxR2JMUmRKSnpZRkwzTVFERDFVcXBvWWJ0c2R6NFRFV2d3?oc=5"
+        },
+        {
+          "title": "Eczema Pipeline Accelerates as 100+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight - Barchart.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTh3aU50bXc5WmJiM0tSSThPMDg2b3M3dTJ1SWNSMVNPT2xuRnF5ZnhjQmpVaERUVE5SMU10dldfQ1huNUdXSGQxcGttcVgzelgxcDlkQl9RMGhlaU9ycVhWVmR1algwM0JsLUh6dn",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 21:34:19 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTh3aU50bXc5WmJiM0tSSThPMDg2b3M3dTJ1SWNSMVNPT2xuRnF5ZnhjQmpVaERUVE5SMU10dldfQ1huNUdXSGQxcGttcVgzelgxcDlkQl9RMGhlaU9ycVhWVmR1algwM0JsLUh6dnk5Q1RUV0ZIOFpmVGZTT2t1NUNrN2x6UkNjRThnVU1GT3VTZmE0elo4UW1yYV9FaVNUb1VkZThTME8taWxjbHZKa29rSFpVZkFBX25Pdlp1VU83X1F4Z1VrNGFyNnU5dGg5ZC1ZVVlFT0luTHRNalN0V1NQU0I?oc=5"
+        },
+        {
+          "title": "AI in pharma market to hit $28.6b by 2034 on drug discovery push - Healthcare Asia Magazine",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZUllSm0wRFZ0b2dYdk9rb0dYTGFpRS1kNTFuVl9fNjFJd1V4VmZ5NVp2UHlfY0kwbjk4TFJ0ZWJ3UHc2NXNDYUVuR3RlRXNyYlZBSVRwMkxHN0g4SVFrd3RWWmRBRVlGWnBjQXNQZm",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 09 Jul 2026 02:04:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZUllSm0wRFZ0b2dYdk9rb0dYTGFpRS1kNTFuVl9fNjFJd1V4VmZ5NVp2UHlfY0kwbjk4TFJ0ZWJ3UHc2NXNDYUVuR3RlRXNyYlZBSVRwMkxHN0g4SVFrd3RWWmRBRVlGWnBjQXNQZmpsZFN5NTctZ3VhTXIybHViS09XSHJkQmZHY2s2dS1DUnVwY1pEcVEyMjBNRXBwQW1TUm5xN1FlZXE1Ym5x?oc=5"
+        },
+        {
+          "title": "Oman pharmaceutical market to hit $1.24bln - ZAWYA",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUtIMXA4MlVTQnJ4R1N6OUlQc2x4c1otd1psTmNaMDVUUG5HdW5sQ2Z2OVR0dGVzVnNfdXRFbVFGY055aEJvUU1UVWhhZ0RmZE1UeEY5a016dHNaekZ2dHJpZjJUUjhPc1RPMjJNaT",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 07:17:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUtIMXA4MlVTQnJ4R1N6OUlQc2x4c1otd1psTmNaMDVUUG5HdW5sQ2Z2OVR0dGVzVnNfdXRFbVFGY055aEJvUU1UVWhhZ0RmZE1UeEY5a016dHNaekZ2dHJpZjJUUjhPc1RPMjJNaTJHb0FGemU5YlgyTE1PNmFkS1U3VjRiWEU1c0NOQ1JONA?oc=5"
+        },
+        {
+          "title": "Merck & Co. Inc. balances pharmaceuticals growth and pipeline investment - Ad-hoc-news.de",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk5mWURvQVZJdnU0dnd0QXJyLWd6OEQ5M3BiS3JTWWJZbmg1NnNzM0ppcTg5VnEtbHpGUHRvWjRIeWhWaXVReUpROUtQa1lQNi0zZ2VtV2g1TXZXNjUwY2dHQk0tT1pQZ011bDMzQW",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 10:02:28 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRk5mWURvQVZJdnU0dnd0QXJyLWd6OEQ5M3BiS3JTWWJZbmg1NnNzM0ppcTg5VnEtbHpGUHRvWjRIeWhWaXVReUpROUtQa1lQNi0zZ2VtV2g1TXZXNjUwY2dHQk0tT1pQZ011bDMzQWVSRUg1SEdTM0ZjZ2RqRHlFLWh6Mm9id0FrWG14V1FwcWQ4dXBpTE1YUUdxaW8ySkpNdzhPQzFlMjlBNTVDRDZRMWdCMEpnYjhQQldnYQ?oc=5"
+        },
+        {
+          "title": "The Role of CROs and CDMOs in Supporting Global Drug Development - EIN Presswire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWxVUEI1N19ESS1nUEdnYVloWkJxaTBzUnpaczh0UlBRWnBPRC03ZExzNUJzY1A3enl4ci1hbS1MNkJ1cFRtbzcwNW9zU1Q5TG9qTnZTcmFSSjRfd3ZsTFZpRFBCem5uMm9GMFdmcH",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 11:36:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUWxVUEI1N19ESS1nUEdnYVloWkJxaTBzUnpaczh0UlBRWnBPRC03ZExzNUJzY1A3enl4ci1hbS1MNkJ1cFRtbzcwNW9zU1Q5TG9qTnZTcmFSSjRfd3ZsTFZpRFBCem5uMm9GMFdmcHZNY3dfa0lNWlNKMWRsdkVLcFNoVWtjLU1KQmhSSHVPaVlnY3RKdmt3UmhVY21CX3RhUEdiY0NUb2d4Z2U4N1dfYw?oc=5"
+        },
+        {
+          "title": "How Integrated CRO and CDMO Platforms Support End-to-End Drug Development - EIN Presswire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVBfazN2T2R1TWdKZHhmU25CN2JCblVVNjk4Q0FTSmN1OHBUb3hDWWdjWFpKUjk5WHU1WmxGLTRRY3NlNGdtYjczY2ZacVBiZFdIMUx6VmJFNVdqeHdydUdnYXlXbVJ5YTNNaWVmdH",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 08 Jul 2026 11:36:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQVBfazN2T2R1TWdKZHhmU25CN2JCblVVNjk4Q0FTSmN1OHBUb3hDWWdjWFpKUjk5WHU1WmxGLTRRY3NlNGdtYjczY2ZacVBiZFdIMUx6VmJFNVdqeHdydUdnYXlXbVJ5YTNNaWVmdHNoMjBGaUR0cGl2akZwdHIzQmZRQ1Z0Yzc5QkpaUTU2eWVFYXVpS0QzclJ5OURjZnljdllWRHh4YzIzWlQwLTNQUkdLcjJXSUdwYkI3Vg?oc=5"
+        }
+      ]
+    }
+  ],
   "uncategorized_articles": [
     {
-      "title": "‘무모한 엄마’의 저인산혈증 치료제 급여 확정 투쟁기 [건강한겨레]",
-      "source": "한겨레",
+      "title": "Geleneksel tıp ve eczacılık alanında dört yeni idari prosedür duyuruldu. - Vietnam.vn",
+      "source": "",
+      "importance": 60,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2VGdEdYT1FxaEdFa2FqdTJMMGZ2OWh4Mi0xYXNCdEZvRTByaTVoakpjRXhNQ1dfSmdIdlphcGtnSzVaSWVJMTJ1dnZyczVycFpFVWtSb3Y4OUJ4b3hLNVZSeWQybEJ1dVVybEJkdz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ2VGdEdYT1FxaEdFa2FqdTJMMGZ2OWh4Mi0xYXNCdEZvRTByaTVoakpjRXhNQ1dfSmdIdlphcGtnSzVaSWVJMTJ1dnZyczVycFpFVWtSb3Y4OUJ4b3hLNVZSeWQybEJ1dVVybEJkdzhTME5saDBNcFB2NDkzNXRUSHJJdU1OZTBMdWczZw?oc=5"
+    },
+    {
+      "title": "Utbildningsministeriet tillkännager de lägsta antagningspoängen för medicin, läkemedelsindustrin, lärarutbildningen och juridik. - Vietnam.vn",
+      "source": "",
+      "importance": 58,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPemozYWdLbkRvM2FEOEZuUGxZZW5WQWc1OHg4WlFlNEUySkwtaGcxTFNVNWdlczZMUEFSZWZXSUhhcVpmRkpKSEh6WkZvWUREcndFQW05Q19uRExKOVBuQ3o3Sk4ybDlyaHNrbHJ3UW",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemozYWdLbkRvM2FEOEZuUGxZZW5WQWc1OHg4WlFlNEUySkwtaGcxTFNVNWdlczZMUEFSZWZXSUhhcVpmRkpKSEh6WkZvWUREcndFQW05Q19uRExKOVBuQ3o3Sk4ybDlyaHNrbHJ3UWk1YUYxZm1KcXJ2bG1uR0RJdGM1ckVqYVh0ekNKOXh2VQ?oc=5"
+    },
+    {
+      "title": "”Läkemedelsindustrin är en tillväxtmotor” - Lif – de forskande läkemedelsföretagen",
+      "source": "",
       "importance": 55,
-      "snippet": "엄마는 무모했다. 그 무모함이 딸아이의 치료제를 급여로 사용할 수 있도록 세상을 바꿨다. 지난 7월1일, 엑스(X) 염색체 연관 저인산혈증(XLH) 치료제 ‘크리스비타(성분명 부로수맙)’가 건강보험심사평가원의 ...",
-      "url": "https://www.hani.co.kr/arti/hanihealth/healthcolumn/1267397.html"
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE16MXlRS2o1X2d2QUstb001X2gyRlk4SFZRX3N4UmtrTkJaX1hYSnhDLUp2UGxDd0hPdlRJZk54MW9QeGVmZFRmdjdlbF9sb2haMWhQUEZ4ZmtBVjJnRXd5ZV8xX0ZYRTFjSktyUWRtNV",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16MXlRS2o1X2d2QUstb001X2gyRlk4SFZRX3N4UmtrTkJaX1hYSnhDLUp2UGxDd0hPdlRJZk54MW9QeGVmZFRmdjdlbF9sb2haMWhQUEZ4ZmtBVjJnRXd5ZV8xX0ZYRTFjSktyUWRtNVUwTU9QSll3T2hyUEFKc28?oc=5"
     },
     {
-      "title": "[기자의 눈] 복잡한 약가 제도와 씁쓸한 로펌의 특수",
-      "source": "데일리팜",
-      "importance": 51,
-      "snippet": "대규모 약가제도 개편을 앞두고 제약바이오 업계의 발걸음은 세종시가 아닌 서울 서초동과 광화문의 대형 로펌으로 향하고 있다. 국내 제약사들은 새로 도입될 혁신형&#183;준혁신형 기준 충족 여부를 따져 손실을 최소화하기 위해, ...",
-      "url": "https://www.dailypharm.com/user/news/340266"
+      "title": "צמחי מרפא נקיים, מפעל GMP - המסע של 'עשיית דברים נכון' עבור טאם בין פרמצבטיקה. - Vietnam.vn",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU5LUXVyaGNQbExhdm9RUV9hMmpBUzlNU1MzaFQ1b2Z2Z1QzX2lzTDJ4LUFlZ2xZTGQ5VUppdUF2b0QyVEZIc0dxbWxxWklMSTlPX0Q1dlRlY2hReHFoUFFUeXFQTTRFcFExcmJjTm",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU5LUXVyaGNQbExhdm9RUV9hMmpBUzlNU1MzaFQ1b2Z2Z1QzX2lzTDJ4LUFlZ2xZTGQ5VUppdUF2b0QyVEZIc0dxbWxxWklMSTlPX0Q1dlRlY2hReHFoUFFUeXFQTTRFcFExcmJjTmUxUFNveXc4eXBHUEVMNGN6SnJSbnJsOFl2dmJIT2VwZmhudjN0NFpVYXBlWQ?oc=5"
     },
     {
-      "title": "국산 첫 CAR-T '림카토' 급여기준 설정…암질심 문턱 넘었다",
-      "source": "히트뉴스",
-      "importance": 51,
-      "snippet": "국내 기업이 개발한 첫 번째 CAR-T 치료제인 큐로셀 '림카토주(성분명 안발캅타젠오토류셀)'가 건강보험 급여기준을 설정하며 건강보험 등재를 위한 첫 관문을 통과했다. 지난 암질환심의위원회에서 임상 근거 부족으로 급여기준이 ...",
-      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=77520"
+      "title": "Europe will accelerate its review of RevMed’s drug - STAT",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FUUzl6UjgwSGR2UmdMRVB4d2VEMlpzZi1HNjlhVUhCRFF5aDNYM3A0R0I3SFNySjYxcHlWZmJnZV9JdFRENHFkLW5jRGoyNU5vZUVSTjNaal9ZVTBvdXJrT0pEWDR6S3pIU1pnRE",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT2FUUzl6UjgwSGR2UmdMRVB4d2VEMlpzZi1HNjlhVUhCRFF5aDNYM3A0R0I3SFNySjYxcHlWZmJnZV9JdFRENHFkLW5jRGoyNU5vZUVSTjNaal9ZVTBvdXJrT0pEWDR6S3pIU1pnREF4UExsR2lWUnliM2ZJaDVSTE5tenFUSjdtUVZ5QUsxbUdNU1Z5anpyTmRCVmQ5RnNnSUhoWWZ1bFQ?oc=5"
+    },
+    {
+      "title": "AstraZeneca bets $200m on Chinese COPD drug - European Medical Journal",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzVMY1lrUkNxTGtvYW9LNXkwTGtpcTdjcnBSZlRzMWFXQ2Q5MmJQVVVDYVAzY0FScGZBY3hVZlhJT1ZrNk93bThxOWpJQ0RfN0JZUlFpd1dfZlhZZ181XzlQVU1rdXY0XzhZVnZFU0",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzVMY1lrUkNxTGtvYW9LNXkwTGtpcTdjcnBSZlRzMWFXQ2Q5MmJQVVVDYVAzY0FScGZBY3hVZlhJT1ZrNk93bThxOWpJQ0RfN0JZUlFpd1dfZlhZZ181XzlQVU1rdXY0XzhZVnZFU09GZVBLbFdWblNfazVtZFRqaTFkRjcxb3psMElMQg?oc=5"
     },
     {
       "title": "Scientists finally crack nature's secret for building better cancer drugs - ScienceDaily",
       "source": "",
       "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVnM3dkVQX1BwX0ZhVHVVcXpsOFdYMmVWck1sMk1KbWRoU1U2OE1hbkJZdlJiSTZwSUN0WFgtNmJSTTRyVzZocVRpSGdzb3Jha0RJdk9ma0NMVUYzTmdpYzZnRDREYUZ3NWNoMGln?o",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IVnM3dkVQX1BwX0ZhVHVVcXpsOFdYMmVWck1sMk1KbWRoU1U2OE1hbkJZdlJiSTZwSUN0WFgtNmJSTTRyVzZocVRpSGdzb3Jha0RJdk9ma0NMVUYzTmdpYzZnRDREYUZ3NWNoMGln?oc=5"
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ldWsxdWd2OThpOTQtenNXWUlyQmpYNkw2QW1aNFFSNHkzVlhwbTdscWl6OXlVN0JQLTJBYUdlYlNYREoxRHg1b3BQMkcxSTdfSGZYVjJ4Tm5Dcnp4bS11UENiekEwUTloNVQtOVFsWQ",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ldWsxdWd2OThpOTQtenNXWUlyQmpYNkw2QW1aNFFSNHkzVlhwbTdscWl6OXlVN0JQLTJBYUdlYlNYREoxRHg1b3BQMkcxSTdfSGZYVjJ4Tm5Dcnp4bS11UENiekEwUTloNVQtOVFsWQ?oc=5"
     },
     {
-      "title": "삼성바이오&#183;롯데바이오&#183;셀트리온, 엇갈린 상반기 CDMO 성적표",
-      "source": "대한경제",
-      "importance": 42,
-      "snippet": "지난달 22일 사용승인을 받은 송도 바이오 캠퍼스 1공장은 연내 글로벌 CDMO 사업 첫 상업화 물량 수주계약을 목표로 투자를 지속하고 있다. 롯데바이오로직스는 지난 7일 2553억원 규모의 유상증자를 결정했다. 지난 3월 ...",
-      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607080956153290357"
+      "title": "Sino Biopharmaceutical, GSK expand alliance with China rights to respiratory drugs - Reuters",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3VZY25QTUNzLW9yekZ6eGs3N1d1OUdQTjdBZ3lKcFlnQzBUaVVDekxBQ3ZONTVZdVYyRmpLMk9JM1FON0R6aDh6TDlXUmhQNUJIdlFtT3JISmNXRVQ0REswbDF6WnZNUFpzRnRWTH",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3VZY25QTUNzLW9yekZ6eGs3N1d1OUdQTjdBZ3lKcFlnQzBUaVVDekxBQ3ZONTVZdVYyRmpLMk9JM1FON0R6aDh6TDlXUmhQNUJIdlFtT3JISmNXRVQ0REswbDF6WnZNUFpzRnRWTHlXaHhvVnV5MmRDRG1KVm1PSnlHNThqRC15NGViUWFaTXJabGEzU0J5eGc2dzhHbTMtOTJnOVNKLXJnWW93S2xBT1JqUDd0ZmpHZzd3WGtVLXJPVk5PRmpIWHpCcw?oc=5"
     }
   ],
   "cross_language_candidates": [
     {
       "keyword": "백신",
-      "kr_count": 3,
+      "kr_count": 4,
       "en_count": 1
     },
     {
       "keyword": "허가",
-      "kr_count": 3,
-      "en_count": 6
-    },
-    {
-      "keyword": "임상",
       "kr_count": 4,
-      "en_count": 2
-    },
-    {
-      "keyword": "약가",
-      "kr_count": 3,
-      "en_count": 1
+      "en_count": 7
     }
   ]
 }
