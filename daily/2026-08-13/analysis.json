@@ -1,0 +1,183 @@
+{
+  "date": "2026-08-13",
+  "total_articles": 439,
+  "language_breakdown": {
+    "korean": 217,
+    "english": 135,
+    "multilingual": 87
+  },
+  "issues": [
+    {
+      "topic": "fda · FDA · drug · what · means",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 8,
+      "avg_importance": 43,
+      "key_articles": [
+        {
+          "title": "What The FDA's Latest Move On Psychedelics Means For Non-Hallucinogenic Drug Sponsors - Clinical Leader",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXRrOG9VQU02eWpsZThjQUt5cjB2UDE2VkJ2dkIzdE51SDYwbmRvMjhwMm9sX1FEWVhaeHBfLUtVUEgtMmlJbnVLNTkzRmZKRmdGSHNsdlpsZWw4OWhhZHU5R2xxZzlYR1lJNTFrdjZOekxsX3VvbWNvQk9iR0JKbHgySjZsa2ZRbWUxYXJidlpXakR1akRoOTc4dm9aLWRtR1FXVXhTQ0tPeUdoYXFzOE0xeWJpVWRmNnhQME15d2poX1U?oc=5"
+        },
+        {
+          "title": "A new ADHD drug targets three brain chemicals instead of two. Here’s what that means - The Conversation",
+          "importance": 47,
+          "url": "https://www.msn.com/en-au/health/medical/a-new-adhd-drug-targets-three-brain-chemicals-instead-of-two-here-s-what-that-means/ar-AA29ZmhI?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Maharashtra FDA cracks down on Ayurvedic drug makers, cancels 10 licences - pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXVkTURrLXllU3g0czVVSk02T3N0M09UbDl2aDBmNmdsRVZrYl9fYWVYZDdaWG10Zl9vMkdRTFpVU3VSRnliYU9UMWhUMFRiS0Z1SDhqV1JuLVJxZGZfNjBndWVUZHJ0WFRXNDFhdDhySEM5ZDZ6UlhjVU1hWEJBUDF1bHV2Q3JZZDkyMXNGVE1iSDFyMjl2aWZzLVc3YWQ1S3hZNU94X1BrcGk0d2NhbDNVWnVjeHJoYWZEWGZsOEg5MlFta21MUnJlczJvUENRbl9lcWRwLVdudlhfZTNjaGhtUnpKS09z0gHoAUFVX3lxTE95dWRNRGsteWVTeDRzNVVKTTZPc3QzT1RsOXZoMGY2Z2xFVmtiX19hZVhkN1pYbXRmX28yR1FMWlVTdVJGeWJhT1QxaFQwVGJLRnVIOGpXUm4tUnFkZl82MGd1ZVRkcnRYVFc0MWF0OHJIQzlkNnpSWGNVTWFYQkFQMXVsdXZDcllkOTIxc0ZUTWJIMXIyOXZpZnMtVzdhZDVLeFk1T3hfUGtwaTR3Y2FsM1VadWN4cmhhZkRYZmw4SDkyUW1rbUxScmVzMm9QQ1FuX2VxZHAtV252WF9lM2NoaG1SekpLT3M?oc=5"
+        }
+      ],
+      "summary_kr": "베모트리지놀 기반 신규 UV 필터…“25년 이상 만의 신규 자외선차단 유효성분” | PARSOL® Shield Official FDA Approval KV Landscape | [더케이뷰티사이언스] dsm-퍼메니쉬(dsm-firmenich)의 베모트리지놀(Bemotrizinol, BEMT) 기반 자외선차단 성분 PARSOL® Shield가 미국 식품의약국(FDA) 승인을 받았다. | dsm-",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    },
+    {
+      "topic": "farmasi · kompasiana · com · dunia · apoteker",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "AI di Dunia Farmasi: Ancaman atau Peluang bagi Generasi Apoteker? Halaman 1 - Kompasiana.com",
+          "importance": 45,
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnlfZHo5LWtkVlNKTnVNaHhFcGY1SG1CRzIyTXFWWUYzbWlNMEJYSWJhM1FPWHpXOTkwTzdpXy14dk9RbEhhVjliLUJWb0FReW9VWFN3M2k5QVhmdmlqODN3RDZnU1R5aHc4SmZqeXZvbndiUC00SkgzVUMyNmR4UjlkZ2ZKYVEwTkVLWUNuaGFPTjdqdkx1UGVSRWczRFVQaU9YTWc5T1hTdXJEQVAyOEFLNGpVZWRSMUw0TlQtencwaVJLSXVYcg?oc=5"
+        },
+        {
+          "title": "AI Di dunia farmasi membantu apoteker, bukan menggantikan perannya - Kompasiana.com",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmgzcFNkdTBWYVBJNkMwYU9UTF8yd1d6LWlkMTRtYUZCX1BWc3NpQmNsN21ZbU5PdERvTEQzQWIyY1RtMHYyZXNBZlBQS0ExcW9SSjhMd0dpbkhReDNpdV93VmtsaHQtaVJuSjZrM25SSWpWLUhSSzYxQmd0UmNMb01sSUh4NXBkS3gwNTZFV0hZcWtoQzJxTnZQVUV2S1hlT2o2MjVQWVB6YmxTOUVDVUo5cUxVNk1jdTAtZkNhYUk0ZTBkNnZkWml3?oc=5"
+        },
+        {
+          "title": "Pemanfaatan AI di Dunia Farmasi: Membantu Manusia, Bukan Menggantikannya Halaman 1 - Kompasiana.com",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2t0cURJUV9Yb2dVcFVpdnhYWkRSdTU0Ny1aRndPWFhCbW5KWFBWY1E1UWhEOUFndlluV2xRNUx5VWZPZDRrakhpVWpzdnE0dXlTbkM5ZEV0WEdQSWJTSnBkdXgwaktDNHBzTFlnUFIzTFdyRXh2N1lXbVNEbUNtaDBrSDlwdmt4UnZiY1E2UlAwMzNwUFVCMzdBd3dIb3ROY1lua0dQMDhmSk9LVXU0bzdnSUtRb3NlUG9RWDIwME94WUFmaU05YlB4ektQS2szVnltTw?oc=5"
+        }
+      ],
+      "summary_kr": "클러스터에 포함된 기사들의 제목·출처·중요도 기반으로 추가 확인이 필요한 동향입니다.",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    },
+    {
+      "topic": "reuters · drug",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 67,
+      "key_articles": [
+        {
+          "title": "Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide - Reuters",
+          "importance": 67,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGtsOW5abVRWVU1VTnFQazhOeFVWNTN1TGdlUTVOYkI4VlhOc2Q2RDA4azhkdWNJUTVJTFZ4bl81MkVxMFJTZjFfZ3BvSXJnTnRuc0YxV1plbjhKZHc4c200LV9FSWRyMUZCRHI5cnFkclRYXzRkc21FSnhKdkFNWmNJU25FTkZUUXdVc0dsclVEbVdQaVlRNmpxb1dzRVFiRTVVTVlKNEVBMGUxZmEzMHdVcmRkZ1lCdnRPbGZYcEE4YVdrMVRtOTln?oc=5"
+        },
+        {
+          "title": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - Reuters",
+          "importance": 67,
+          "url": "https://www.msn.com/en-us/health/medical/prader-willi-experts-flag-safety-risks-linked-to-neurocrine-s-rare-disease-drug/ar-AA29WE2i?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "클러스터에 포함된 기사들의 제목·출처·중요도 기반으로 추가 확인이 필요한 동향입니다.",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    },
+    {
+      "topic": "vietnam · thu",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Xây dựng Chính sách quốc gia về dược hướng đến 3 mục tiêu: Sức khỏe nhân dân, an ninh thuốc và phát triển ngành dược - Vietnam.vn",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNW5HdkRjZzJ1NFZmRmg1akFNVFRSTmRPeUdaUlNvR0xRV1F3T2Y5UVhJTDBrT2NsbE5ld1RtNGc3STRfaU94NHBncHRpQUxqZW52QnVoR0JPU1VoMi12WWVVMlFxS04xZk5vbkFfRHhPYm9zQ2Rrb2hBdTdZQ3o1eGtwcUcxUF9hSGhuU1VsUVNod0d0THA4b2VJbC1jRmxkZU5zdUVsM2ptV0ZaYkpkVlgyM2IwZzVWRXBjaV9RM015YW1TTjV2cjZXVHlXV01PNU9n?oc=5"
+        },
+        {
+          "title": "Đà Nẵng tập huấn, chuyển giao nhiều kỹ thuật chuyên ngành y học cổ truyền - Vietnam.vn",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1RuWUEyY0s4cWo5Y1htMW84OGFFSm93SDBKYWlQRmZKTEtXUmhWUEdJTWNKbml4TnhBcGprQ0FsWUtYZDAyNGttTmFKazlnR3RWUTQ2b0lIRnAyWFpuVkZEUG5JeHNPelh3elM4NS1RR3NMOTBGWWVQMkdpUTM5MWVMeXJsRnhBRmwzTTl6UHVmMnp3M055am02NA?oc=5"
+        }
+      ],
+      "summary_kr": "클러스터에 포함된 기사들의 제목·출처·중요도 기반으로 추가 확인이 필요한 동향입니다.",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    },
+    {
+      "topic": "임상 · edaily",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "아스트로젠, 자폐 치료제 ‘스페라젠’ 후속 확증 임상 추진…위약반응 낮춘다 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03821206645546992&mediaCodeNo=257"
+        },
+        {
+          "title": "샤페론, 임상 투자 마무리·CB 전액 상환…”수익화 단계 진입” - edaily.co.kr",
+          "importance": 40,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04506726645546992&mediaCodeNo=257"
+        }
+      ],
+      "summary_kr": "아스트로젠, 자폐 치료제 ‘스페라젠’ 후속 확증 임상 추진…위약반응 낮춘다 | 구글 검색 선호 출처로 추가 | 등록 2026-08-13 오전 9:01:02 | 수정 2026-08-13 오전 9:01:02 | [이데일리 나은경 기자] 난치성 신경질환 치료제 개발기업 아스트로젠은 자폐스펙트럼장애 치료제 후보물질 '스페라젠 시럽'(AST-001)의 후속 확증 임상시험을 준비하고 있다고 밝혔다.",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    },
+    {
+      "topic": "dicaments · sur · les · rabais",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "Rabais sur les médicaments: 88% ne sont pas répercutés sur les assureurs et les assurés - Agefi.com",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2w1TWVLcmtXOFBwSmN4UUo1Y3BHQ2RHTXVNaDZwZ0M0RWFRTGV0d01NWmdxNUluNHc5QlR5cGRXWmhQaExZZDFXalZwRzZlQTNRYnNyTVh2TkpQTTl2Rk5KMm1hblY2My1BWTd3UTRMQldLT0dEMEZ4SjFOVy00UW9TbGY1SUJBalpEOHR5YjRpbzBRQVVaQ2JUWQ?oc=5"
+        },
+        {
+          "title": "Les rabais sur vos médicaments profitent à tout le monde sauf à vous - 24 Heures",
+          "importance": 40,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3htVDF4QnVudW9vZnkyTU01dU44dEtSTEZFQm1xc0ZjZ2hmaEl0d2tYVTJHS2xKaGtFQWIySEFSdXp1aXVhbkZSZGdab1Jxelg2Z1JPNHRVQm1Edk1hMTlpeGwxRjhPXzhvVzF2VXRpRks2Vk9LV0dQNDRSWmc1NnRpNUI1NUNhcDdKRUVJMzlrTWs?oc=5"
+        }
+      ],
+      "summary_kr": "클러스터에 포함된 기사들의 제목·출처·중요도 기반으로 추가 확인이 필요한 동향입니다.",
+      "summary_en": "Clustered articles indicate a trend requiring follow-up verification."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 3,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 4,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-08-13T07:31:49.883635+00:00",
+  "pipeline_warnings": [
+    "analysis_ready.json reports 439 total articles while the 06:30–06:29 KST time-filter log retained 167 articles; source records still contain 228 Google News URLs."
+  ]
+}

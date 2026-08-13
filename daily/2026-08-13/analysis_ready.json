@@ -1,0 +1,632 @@
+{
+  "date": "2026-08-13",
+  "total_articles": 439,
+  "language_breakdown": {
+    "korean": {
+      "total": 217,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 21,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 10,
+        "의료정책·인력": 25,
+        "전통의학": 11,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 135,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 10
+      }
+    },
+    "multilingual": {
+      "total": 87,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 7,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 32
+    },
+    {
+      "keyword": "식약처",
+      "count": 18
+    },
+    {
+      "keyword": "FDA",
+      "count": 13
+    },
+    {
+      "keyword": "허가",
+      "count": 9
+    },
+    {
+      "keyword": "임상",
+      "count": 6
+    },
+    {
+      "keyword": "ADC",
+      "count": 5
+    },
+    {
+      "keyword": "급여",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "비만",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 1
+    },
+    {
+      "keyword": "항암",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 20
+    },
+    {
+      "keyword": "quality",
+      "count": 5
+    },
+    {
+      "keyword": "obesity",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 4
+    },
+    {
+      "keyword": "inspection",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 9
+    },
+    {
+      "source": "데일리팜",
+      "count": 8
+    },
+    {
+      "source": "의학신문",
+      "count": 8
+    },
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "팜뉴스",
+      "count": 5
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 5
+    },
+    {
+      "source": "뉴스1",
+      "count": 4
+    },
+    {
+      "source": "bosa.co.kr",
+      "count": 4
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 4
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 8
+    },
+    {
+      "source": "pharma.economictimes.indiatimes.com",
+      "count": 5
+    },
+    {
+      "source": "The Manila Times",
+      "count": 4
+    },
+    {
+      "source": "Clinical Leader",
+      "count": 3
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 3
+    },
+    {
+      "source": "Stock Titan",
+      "count": 3
+    },
+    {
+      "source": "The Economic Times",
+      "count": 3
+    },
+    {
+      "source": "Genetic Engineering and Biotechnology News",
+      "count": 3
+    },
+    {
+      "source": "BioSpace",
+      "count": 2
+    },
+    {
+      "source": "Fortune Business Insights",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "신약 · drug · com",
+    "halaman · com · kompasiana · farmasi",
+    "com · newsis · 택배로 · 보낸",
+    "영업익 · 분기 · com · chosun"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 8,
+      "keywords": [
+        "fda",
+        "FDA",
+        "drug",
+        "what",
+        "means",
+        "clinical",
+        "leader",
+        "maharashtra",
+        "licences",
+        "com"
+      ],
+      "articles": [
+        {
+          "title": "What The FDA's Latest Move On Psychedelics Means For Non-Hallucinogenic Drug Sponsors - Clinical Leader",
+          "source": "Clinical Leader",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 13 Aug 2026 04:14:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXRrOG9VQU02eWpsZThjQUt5cjB2UDE2VkJ2dkIzdE51SDYwbmRvMjhwMm9sX1FEWVhaeHBfLUtVUEgtMmlJbnVLNTkzRmZKRmdGSHNsdlpsZWw4OWhhZHU5R2xxZzlYR1lJNTFrdjZOekxsX3VvbWNvQk9iR0JKbHgySjZsa2ZRbWUxYXJidlpXakR1akRoOTc4dm9aLWRtR1FXVXhTQ0tPeUdoYXFzOE0xeWJpVWRmNnhQME15d2poX1U?oc=5"
+        },
+        {
+          "title": "A new ADHD drug targets three brain chemicals instead of two. Here’s what that means - The Conversation",
+          "source": "The Conversation",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A new ADHD drug targets three brain chemicals instead of two. | Here’s what that means - The Conversation | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 13 Aug 2026 03:52:00 GMT",
+          "url": "https://www.msn.com/en-au/health/medical/a-new-adhd-drug-targets-three-brain-chemicals-instead-of-two-here-s-what-that-means/ar-AA29ZmhI?ocid=BingNewsVerp"
+        },
+        {
+          "title": "Maharashtra FDA cracks down on Ayurvedic drug makers, cancels 10 licences - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 13 Aug 2026 01:12:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeXVkTURrLXllU3g0czVVSk02T3N0M09UbDl2aDBmNmdsRVZrYl9fYWVYZDdaWG10Zl9vMkdRTFpVU3VSRnliYU9UMWhUMFRiS0Z1SDhqV1JuLVJxZGZfNjBndWVUZHJ0WFRXNDFhdDhySEM5ZDZ6UlhjVU1hWEJBUDF1bHV2Q3JZZDkyMXNGVE1iSDFyMjl2aWZzLVc3YWQ1S3hZNU94X1BrcGk0d2NhbDNVWnVjeHJoYWZEWGZsOEg5MlFta21MUnJlczJvUENRbl9lcWRwLVdudlhfZTNjaGhtUnpKS09z0gHoAUFVX3lxTE95dWRNRGsteWVTeDRzNVVKTTZPc3QzT1RsOXZoMGY2Z2xFVmtiX19hZVhkN1pYbXRmX28yR1FMWlVTdVJGeWJhT1QxaFQwVGJLRnVIOGpXUm4tUnFkZl82MGd1ZVRkcnRYVFc0MWF0OHJIQzlkNnpSWGNVTWFYQkFQMXVsdXZDcllkOTIxc0ZUTWJIMXIyOXZpZnMtVzdhZDVLeFk1T3hfUGtwaTR3Y2FsM1VadWN4cmhhZkRYZmw4SDkyUW1rbUxScmVzMm9QQ1FuX2VxZHAtV252WF9lM2NoaG1SekpLT3M?oc=5"
+        },
+        {
+          "title": "What The FDA's Latest Move On Psychedelics Means For Non-Hallucinogenic Drug Sponsors - Clinical Leader",
+          "source": "Clinical Leader",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 13 Aug 2026 04:14:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXRrOG9VQU02eWpsZThjQUt5cjB2UDE2VkJ2dkIzdE51SDYwbmRvMjhwMm9sX1FEWVhaeHBfLUtVUEgtMmlJbnVLNTkzRmZKRmdGSHNsdlpsZWw4OWhhZHU5R2xxZzlYR1lJNTFrdjZOekxsX3VvbWNvQk9iR0JKbHgySjZsa2ZRbWUxYXJidlpXakR1akRoOTc4dm9aLWRtR1FXVXhTQ0tPeUdoYXFzOE0xeWJpVWRmNnhQME15d2poX1U?oc=5"
+        },
+        {
+          "title": "Maharashtra FDA cracks down on Ayurvedic drug makers, cancels 10 licences - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 13 Aug 2026 01:12:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUWxsS3JLZ1dpUGF0amRqS3gwS2dmQzZwbm84RnAyMmRCY0Q4MkxNTzBwVkJwajdfb1FpMTBBYlF4OUYyX1hHNGtQcU1GWE1oZjlvM3hsWkMwYnhia2k1b1lJV3d0YnNnaktja0JkQ1lSZ0VEYVdTbG5yZUp4cW92WS1kd28wVk1zanFVY2lGd0o5T0pma21IVmZEYS1Kb0lOYVUxay0zN3J6MXdTcGVEeHdLN2NENXVFUTVOZk40Z01PakphOGtDUUQ5YVNTX3NRdDdhYl9fZmV0ZVNHVEplRkJ1ONIB6AFBVV95cUxPeXVkTURrLXllU3g0czVVSk02T3N0M09UbDl2aDBmNmdsRVZrYl9fYWVYZDdaWG10Zl9vMkdRTFpVU3VSRnliYU9UMWhUMFRiS0Z1SDhqV1JuLVJxZGZfNjBndWVUZHJ0WFRXNDFhdDhySEM5ZDZ6UlhjVU1hWEJBUDF1bHV2Q3JZZDkyMXNGVE1iSDFyMjl2aWZzLVc3YWQ1S3hZNU94X1BrcGk0d2NhbDNVWnVjeHJoYWZEWGZsOEg5MlFta21MUnJlczJvUENRbl9lcWRwLVdudlhfZTNjaGhtUnpKS09z?oc=5"
+        },
+        {
+          "title": "What FDA's Psychedelic Drug Focus Means For Classic Psychedelic Development - Clinical Leader",
+          "source": "Clinical Leader",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 13 Aug 2026 04:13:58 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObHBXOVFFY3ZDZUo1M1UteFRPWXdSNUJSX0liZWJ5NXNzZzVKd2RtM1BWMXZadW1iR1ViaHktSEVESmZnbkVSR1hSNXkxYkEzSG1wX0FveElkYjZZekxTV3FRYjJXS1BmX2dkT0pJellBS0U3anVXRl9SX0R5SnA4OU1ucGpIdjNfejg1a1pTcnFYU3FJUlJId3NpbGIzZmhsWVJ1U1Ixc3ZmN21RRW5JUS14U2JJQQ?oc=5"
+        },
+        {
+          "title": "Maharashtra FDA suspends licences of four Domino's Pizza outlets over hygiene, food-safety violations - indiagazette.com",
+          "source": "indiagazette.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 13 Aug 2026 00:01:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYmNiUlNmWHU2N055YUtsbjBOR1VNQzU4aHVFdEI2ZWVIU0VOLXNvNVpKMmN5Wi1zaWRTX0VOMEdRSjBNZ19aNVF6b0pVUnVwRDgtNHg1WUczSVdqSXN6M1JYUHMxSEI0TkdDbHE2WUdjV3lCbnYtM05tWVZISTZYZmxMR0N6azVxb2lwekxfWWVLY0kyd0tPblRWaExqbUl0YUVJbmllcXAtODVYNHNOQjhsUXpWQWtjS2t2ZGVjYUdxVlhvV3hwRkpRV2pUeTNNdUZORVdzRU5Pdw?oc=5"
+        },
+        {
+          "title": "dsm-firmenich ‘PARSOL Shield’, 미국 FDA 승인 - thekbs.co.kr",
+          "source": "thekbs.co.kr",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "베모트리지놀 기반 신규 UV 필터…“25년 이상 만의 신규 자외선차단 유효성분” | PARSOL® Shield Official FDA Approval KV Landscape | [더케이뷰티사이언스] dsm-퍼메니쉬(dsm-firmenich)의 베모트리지놀(Bemotrizinol, BEMT) 기반 자외선차단 성분 PARSOL® Shield가 미국 식품의약국(FDA) 승인을 받았다. | dsm-",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 13 Aug 2026 01:04:14 GMT",
+          "url": "https://www.thekbs.co.kr/news/articleView.html?idxno=14996"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "farmasi",
+        "kompasiana",
+        "com",
+        "dunia",
+        "apoteker",
+        "halaman",
+        "bukan",
+        "membantu"
+      ],
+      "articles": [
+        {
+          "title": "AI di Dunia Farmasi: Ancaman atau Peluang bagi Generasi Apoteker? Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Thu, 13 Aug 2026 02:44:37 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnlfZHo5LWtkVlNKTnVNaHhFcGY1SG1CRzIyTXFWWUYzbWlNMEJYSWJhM1FPWHpXOTkwTzdpXy14dk9RbEhhVjliLUJWb0FReW9VWFN3M2k5QVhmdmlqODN3RDZnU1R5aHc4SmZqeXZvbndiUC00SkgzVUMyNmR4UjlkZ2ZKYVEwTkVLWUNuaGFPTjdqdkx1UGVSRWczRFVQaU9YTWc5T1hTdXJEQVAyOEFLNGpVZWRSMUw0TlQtencwaVJLSXVYcg?oc=5"
+        },
+        {
+          "title": "AI Di dunia farmasi membantu apoteker, bukan menggantikan perannya - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Thu, 13 Aug 2026 05:20:24 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmgzcFNkdTBWYVBJNkMwYU9UTF8yd1d6LWlkMTRtYUZCX1BWc3NpQmNsN21ZbU5PdERvTEQzQWIyY1RtMHYyZXNBZlBQS0ExcW9SSjhMd0dpbkhReDNpdV93VmtsaHQtaVJuSjZrM25SSWpWLUhSSzYxQmd0UmNMb01sSUh4NXBkS3gwNTZFV0hZcWtoQzJxTnZQVUV2S1hlT2o2MjVQWVB6YmxTOUVDVUo5cUxVNk1jdTAtZkNhYUk0ZTBkNnZkWml3?oc=5"
+        },
+        {
+          "title": "Pemanfaatan AI di Dunia Farmasi: Membantu Manusia, Bukan Menggantikannya Halaman 1 - Kompasiana.com",
+          "source": "Kompasiana.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Thu, 13 Aug 2026 04:56:09 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc2t0cURJUV9Yb2dVcFVpdnhYWkRSdTU0Ny1aRndPWFhCbW5KWFBWY1E1UWhEOUFndlluV2xRNUx5VWZPZDRrakhpVWpzdnE0dXlTbkM5ZEV0WEdQSWJTSnBkdXgwaktDNHBzTFlnUFIzTFdyRXh2N1lXbVNEbUNtaDBrSDlwdmt4UnZiY1E2UlAwMzNwUFVCMzdBd3dIb3ROY1lua0dQMDhmSk9LVXU0bzdnSUtRb3NlUG9RWDIwME94WUFmaU05YlB4ektQS2szVnltTw?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "reuters",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "Lilly sues six companies over alleged illegal sales of experimental obesity drug retatrutide - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 12 Aug 2026 23:09:19 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObGtsOW5abVRWVU1VTnFQazhOeFVWNTN1TGdlUTVOYkI4VlhOc2Q2RDA4azhkdWNJUTVJTFZ4bl81MkVxMFJTZjFfZ3BvSXJnTnRuc0YxV1plbjhKZHc4c200LV9FSWRyMUZCRHI5cnFkclRYXzRkc21FSnhKdkFNWmNJU25FTkZUUXdVc0dsclVEbVdQaVlRNmpxb1dzRVFiRTVVTVlKNEVBMGUxZmEzMHdVcmRkZ1lCdnRPbGZYcEE4YVdrMVRtOTln?oc=5"
+        },
+        {
+          "title": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - Reuters | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 12 Aug 2026 21:32:46 GMT",
+          "url": "https://www.msn.com/en-us/health/medical/prader-willi-experts-flag-safety-risks-linked-to-neurocrine-s-rare-disease-drug/ar-AA29WE2i?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "vietnam",
+        "thu"
+      ],
+      "articles": [
+        {
+          "title": "Xây dựng Chính sách quốc gia về dược hướng đến 3 mục tiêu: Sức khỏe nhân dân, an ninh thuốc và phát triển ngành dược - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Thu, 13 Aug 2026 02:40:27 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNW5HdkRjZzJ1NFZmRmg1akFNVFRSTmRPeUdaUlNvR0xRV1F3T2Y5UVhJTDBrT2NsbE5ld1RtNGc3STRfaU94NHBncHRpQUxqZW52QnVoR0JPU1VoMi12WWVVMlFxS04xZk5vbkFfRHhPYm9zQ2Rrb2hBdTdZQ3o1eGtwcUcxUF9hSGhuU1VsUVNod0d0THA4b2VJbC1jRmxkZU5zdUVsM2ptV0ZaYkpkVlgyM2IwZzVWRXBjaV9RM015YW1TTjV2cjZXVHlXV01PNU9n?oc=5"
+        },
+        {
+          "title": "Đà Nẵng tập huấn, chuyển giao nhiều kỹ thuật chuyên ngành y học cổ truyền - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Thu, 13 Aug 2026 04:28:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1RuWUEyY0s4cWo5Y1htMW84OGFFSm93SDBKYWlQRmZKTEtXUmhWUEdJTWNKbml4TnhBcGprQ0FsWUtYZDAyNGttTmFKazlnR3RWUTQ2b0lIRnAyWFpuVkZEUG5JeHNPelh3elM4NS1RR3NMOTBGWWVQMkdpUTM5MWVMeXJsRnhBRmwzTTl6UHVmMnp3M055am02NA?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "임상",
+        "edaily"
+      ],
+      "articles": [
+        {
+          "title": "아스트로젠, 자폐 치료제 ‘스페라젠’ 후속 확증 임상 추진…위약반응 낮춘다 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "아스트로젠, 자폐 치료제 ‘스페라젠’ 후속 확증 임상 추진…위약반응 낮춘다 | 구글 검색 선호 출처로 추가 | 등록 2026-08-13 오전 9:01:02 | 수정 2026-08-13 오전 9:01:02 | [이데일리 나은경 기자] 난치성 신경질환 치료제 개발기업 아스트로젠은 자폐스펙트럼장애 치료제 후보물질 '스페라젠 시럽'(AST-001)의 후속 확증 임상시험을 준비하고 있다고 밝혔다.",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 13 Aug 2026 00:01:02 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03821206645546992&mediaCodeNo=257"
+        },
+        {
+          "title": "샤페론, 임상 투자 마무리·CB 전액 상환…”수익화 단계 진입” - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "샤페론, 임상 투자 마무리·CB 전액 상환…”수익화 단계 진입” | 비용 부담은 낮추고 사업화 역량은 강화 | 구글 검색 선호 출처로 추가 | 등록 2026-08-13 오전 11:03:55 | 수정 2026-08-13 오전 11:03:55",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Thu, 13 Aug 2026 02:03:55 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=04506726645546992&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "dicaments",
+        "sur",
+        "les",
+        "rabais"
+      ],
+      "articles": [
+        {
+          "title": "Rabais sur les médicaments: 88% ne sont pas répercutés sur les assureurs et les assurés - Agefi.com",
+          "source": "Agefi.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "French / 프랑스어",
+          "time": "Thu, 13 Aug 2026 04:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2w1TWVLcmtXOFBwSmN4UUo1Y3BHQ2RHTXVNaDZwZ0M0RWFRTGV0d01NWmdxNUluNHc5QlR5cGRXWmhQaExZZDFXalZwRzZlQTNRYnNyTVh2TkpQTTl2Rk5KMm1hblY2My1BWTd3UTRMQldLT0dEMEZ4SjFOVy00UW9TbGY1SUJBalpEOHR5YjRpbzBRQVVaQ2JUWQ?oc=5"
+        },
+        {
+          "title": "Les rabais sur vos médicaments profitent à tout le monde sauf à vous - 24 Heures",
+          "source": "24 Heures",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "French / 프랑스어",
+          "time": "Thu, 13 Aug 2026 04:40:47 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV3htVDF4QnVudW9vZnkyTU01dU44dEtSTEZFQm1xc0ZjZ2hmaEl0d2tYVTJHS2xKaGtFQWIySEFSdXp1aXVhbkZSZGdab1Jxelg2Z1JPNHRVQm1Edk1hMTlpeGwxRjhPXzhvVzF2VXRpRks2Vk9LV0dQNDRSWmc1NnRpNUI1NUNhcDdKRUVJMzlrTWs?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "การพัฒนานโยบายด้านเภสัชกรรมระดับชาติมีเป้าหมายหลัก 3 ประการ ได้แก่ สุขภาพของประชาชน ความมั่นคงด้านยา และการพัฒนาอุตสาหกรรมยา - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblNnNUhkMmVQSXR2ckRGSG0zaHVoNG5BQjZSeGsxRko4bWttcXdRUVNmZnVxaFhMM1lzc3RaTU5yQnhjd2Utd2RDQUFOM2ZlMHRSRkV6OTRfRnUxNlhFRVNUMU5rdllPcVlpYURlWUI0cHpNN0pQeFZhQ0xOa0dFYTBWSmFzaFlyd1BUN3VfRTY0M2lSRVhjb0dnSnphUjBneHdXMlQ0MEJ1YXdPOURaSVVlMWVwUHpKcTZxNG1XbjZBdWNKNnd3U3VsSXNLVklTTHJDZ1hfMA?oc=5"
+    },
+    {
+      "title": "פיתוח מדיניות תרופות לאומית שואף לשלוש מטרות: בריאות הציבור, ביטחון תרופות ופיתוח תעשיית התרופות. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTN5dzM4dEkyWlltdFpSQ2ZaeFFsclVMVzkwcUltVXJ3VzI5TndCSVVqbnMyY25ZdTR4eVVNVktwZkJ1Rkp2X0RFQXBzd19YM01jVTUxa2RWeFN5V3lwaTE3N3g1THBIaUotZW9zc29TVXdsWWNzcjQ4SEhkdXY5OElGMmp3S0dQWVR4clhBeF9tT1ROa1JpWmcwQUlCLXNWbEVma3BTZW9vU0FFYmVOWHk0Ti02Q2ZmZXVvUjVXbmFvYmZCNF9wZ29nSFhrbTI5ZFFXS3BKOA?oc=5"
+    },
+    {
+      "title": "Het ontwikkelen van een nationaal farmaceutisch beleid heeft drie doelstellingen: volksgezondheid, geneesmiddelenveiligheid en de ontwikkeling van de farmaceutische industrie. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVGVsekN6aFBTZmM3cVNZXzdLanNoeU1pRUFIcHNNMFpCRUs3cWxyaDVRdmxNVE5aVW5fQW5MZHVBOHRnN3NLMm5iZ2dFQzlRdU51UGREbHRoMU5raG5oSjFnWEhEdHVpbEpmVHNjNHRYQ2xmeHo2aldud0NyRlJzeEoyUTE3ek54eEZqeDdCR1BFakRuOFlmUV9iUV9RMkpkekE0bkFpbUE2Qk5ZZGMzU1dmMFJXRS1reG1zc3B6ZHNtdDMxMkpXZ0xmQVpUSzJhWDdSVy13cw?oc=5"
+    },
+    {
+      "title": "Att utveckla en nationell läkemedelspolitik syftar till tre mål: folkhälsa, läkemedelssäkerhet och utveckling av läkemedelsindustrin. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeGdOd201UU8tcGxFaFdpRm9FZ0thYkpfSWxsMWxIbEJSVnVNZnJ4cDdyYzQ4Ykd2T19jTFZFWC00cFpoSDFaZnAza0xoSkRPeUNZT281M01hbzdjNFB3dVFudWRZZU45UUE1Y1JNNUZNQXVWWjRkbW4xQlZhb3ROazktMWZqLTlSaFA4UGNhY1FxR2RwVjFqNFU2VDZDSWpUaEJFbXJwVUcxVHlRYlZLeVhyeXZwNmdteG9yZ0t5ZWhKQ3MyTW4zWTlxR2ZNc0kxRzNmWDNycw?oc=5"
+    },
+    {
+      "title": "國際品質亮眼國際市場齊魯製藥不斷擦亮中國好藥品牌- 各地動態 - 大公文匯網",
+      "source": "大公文匯網",
+      "importance": 55,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BWVFGeEhiSmlOUlNhRERWMG5rUHpCYWVBWGZVQ0RXbGNENGh0UzhXdVJLbmgtQ0JKMi1TaktJaXlQQTFkZjdfc3JxTFVBalpYYi05ajZJelo5Tnl3Umplb0ZIT2g2dzQ3dzBRY3BMdTg?oc=5"
+    },
+    {
+      "title": "Jakten på nästa Ozempic – läkemedelsindustrin blickar mot hjärnan - Dagens PS",
+      "source": "Dagens PS",
+      "importance": 53,
+      "snippet": "Jakten på nästa Ozempic – läkemedelsindustrin blickar mot hjärnan - Dagens PS | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/sv-se/nyheter/other/jakten-p%C3%A5-n%C3%A4sta-ozempic-l%C3%A4kemedelsindustrin-blickar-mot-hj%C3%A4rnan/ar-AA29Z9M0?ocid=BingNewsVerp"
+    },
+    {
+      "title": "묵현상 전 국가신약개발사업단장, 뉴 패스바이오 대표됐다 - hitnews.co.kr",
+      "source": "hitnews.co.kr",
+      "importance": 51,
+      "snippet": "\"기술이전·국가 R&D 경험 갖춘 인사 영입…연골재생·반려동물 의약품 사업 확대\" | 묵현상 뉴패스바이오 대표. | 묵현상 전 국가신약개발사업단장이 뉴패스바이오 신임 대표이사로 선임됐다. | 13일 회사 측에 따르면 묵 대표는 메디프론디비티 대표이사를 지내며 글로벌 제약사를 대상으로 기술이전을 이끌었다. | 이후 범부처신약개발사업단장을 거쳐 총사업비 약 2",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78375"
+    },
+    {
+      "title": "Pengembangan kebijakan farmasi nasional bertujuan pada tiga hal: kesehatan masyarakat, keamanan obat, dan pengembangan industri farmasi. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbV9rNHU0NmZxajEydmV5Z0hJcE42RHFER192X21sVzV0VURDVFp3SXZueFpHRjhSaGNpRHBSdHk3NjNuUjJiNEt4OTJrUHl0dm1FeE5Xc1Z6RUxGRjdQaFp2MTg5YVFQcS1KR0dGQTBTWDNhTHdaeGFHTk5DX1RyNHVGQVlyVUlmcFZ2VzhvYVpPY01IOWduQXBaMktlbmtMSVBuTzB0akpGNC1UMVNXYy1MajJBbmZWQVJqSWR4alBfLVg1SjRoZXVnZTNwUnBmZ2pQbkw4OA?oc=5"
+    },
+    {
+      "title": "राष्ट्रीय औषधि नीति विकसित करने का उद्देश्य तीन लक्ष्यों को प्राप्त करना है: जन स्वास्थ्य, औषधि सुरक्षा और औषधि उद्योग का विकास। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmFqdUQ5SVc5al9QX292WFJiTE1FNHB2aG1TOGpCWGNRU3hXTm41MGRoV1djWnZVMTVxeGxwTldXVXNqVFR6cXRLamxTVXM3cjBqb3dndzV5S1FsWmRoU0pHRnFoeE8zNHJLU0VPc2tSaTJFQ2dxekxmSVBMV3E4YlFHTlV2OGhBdklONmx2c3JuMWoweHF3c3BRMFc1ZjhPY2tfYzF3MU5rZG91anBneV9wRFVaN2E3MFlDTm4xQi0tSE5lbF9sbnFFTjgzY1ltSU5YOGxSZw?oc=5"
+    },
+    {
+      "title": "بين الأعشاب والنجوم.. مخطوطة الطب تستعيد ألف عام من الطب السريانى - اليوم السابع",
+      "source": "اليوم السابع",
+      "importance": 50,
+      "snippet": "We're sorry... | but your computer or network may be sending automated queries. | To protect our users, we can't process your request right now. | See Google Help for more information. | 요약문 생성 불가",
+      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPb3JzemdYc095YXhNQndrZVozVFRvQWdDbUU2YU1IOUJDYkFrSDZsR1NHek5xZFdBVjZ5Q3JJRGF1RDl1T1AtM3JWU0lnemZNQ253ZHNlaWJEY2xiN2hEUnptN1pfWUYxazdVLTZsOE5fU3RjS2tBVzZZZ3ZrWml4TWZUc0VySEtnYjVrX2xqajBDWEtYLUc5dmhKRUN5QmpwZktKWHZSbm1YSHR6UVJ2OXRaSVFQTkpEZlJEamtSbVdHODFIeUxyTngxdXRvMWRPU2w3dm85bjNFR2x5VjBGOWJUQzdxeUVSTllGWXdkNjVkdUR1SlRQLUM4WnB1N195eWNhZjJ5eExXMlJ6aVBpUUdBWDI4RzhkT1dCR2hnc0NPYkIyT0xBUlYyZXFMX0ViOXRxanA5X1pubS1JSWlkU2hyZlRMRW1uT1RJRjdtYU8tZndCRXU0c2tCeEp5eFIwZmhPRmFwcDFWMUJZa3BkeFRMZWtsaXg3cGhkVDI2dWVYY0FqVUlWRHlhSDYtYzZ2YkpBWi16dkRLaWdYWGxyb2JmdVpfZGZuWVNISHlVUDNRR0JKdHVqZkNLTEcyQ0RzQXo0UDhXaUotWUpIU0HSAcgDQVVfeXFMTmc0cDh0aTM2QlJyZ0EyM3BfdXZLbkpCS1VQMXRlNjliLTJJTnVyX1B6TEFENmY5ODl5SlVhRUdUZnBXMnhlWW96QURqTWFaMEhkcFliaW5EUGVLR1hZcm1ZQ2ItMHlzZWRMZldva05wQWY2R2RoVnlvSnZ6ZzJETGJjV294VTZ6Vlc0OVpUaElxaXhCck9zb0tOQ3Z5ekRtZFdmTzBkX0JCbm5MdzRVNjMtakxSTUhSZDRKZEFrQkNRbHhCVjB1NkZlVnpkcXBlRXkzdnpkQXI4bElkWEFURTBvLVZ1UDJibzh6YzdONjdDMF9zTy1hc0VKZy1Xc1RZWnZyOTZjbFlxdE5VTXJLNG1pdlhPcU5hSXNkT3ZJMGtaX1hEeHBMWW8tUG0wMlBFN2hvR0MtWU0zVzZuMjAzNHZkUEF4VWhUdmdKbGF3dl9pSFFNR1FQQzlBSk8yeUNNNGh2OFl2VW9EandPMEJOdnNkdFJyM2wyYzVXNEMwenlGMDNhY3NWdDl6WHl1WmlybDFtRkN3VUp0MkpfSDRnb1JWcHQwWkdVWnpjTC1tczVGNktSR28ybnNCRE5sMlZ6NjZzNDdzalV5?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 4
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 2
+    }
+  ]
+}
