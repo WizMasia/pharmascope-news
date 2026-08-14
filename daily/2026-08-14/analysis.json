@@ -1,0 +1,91 @@
+{
+  "date": "2026-08-14",
+  "total_articles": 453,
+  "language_breakdown": {"korean": 201, "english": 139, "multilingual": 113},
+  "issues": [
+    {
+      "topic": "FDA의 다발골수종 치료제 승인과 안전성 심사 변화",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "US FDA approves Bristol Myers' blood cancer treatment", "importance": 47, "url": "https://www.reuters.com/legal/litigation/us-fda-approves-bristol-myers-blood-cancer-treatment-2026-08-13/"},
+        {"title": "FDA Approves First CELMoD Drug for Multiple Myeloma", "importance": 47, "url": "https://www.medpagetoday.com/hematologyoncology/myeloma/122608"}
+      ],
+      "summary_kr": "FDA 승인과 안전성 심사 개편 논의가 다발골수종 치료제와 함께 부각됐다. BMS의 혈액암 치료제 및 첫 CELMoD 계열 치료제 승인은 후속 급여·경쟁 구도에 영향을 줄 수 있다.",
+      "summary_en": "FDA approval and safety-review changes converged around multiple-myeloma therapies. Bristol Myers Squibb's blood-cancer approval and the first CELMoD approval may shape subsequent access and competition."
+    },
+    {
+      "topic": "국내 다발골수종 신약의 급여 진입 경쟁",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 42,
+      "key_articles": [
+        {"title": "CAR-T 신약 '카빅티', 다발골수종 급여 등재 노린다", "importance": 51, "url": "https://www.dailypharm.com/user/news/341438"},
+        {"title": "BMS, TPD 신약 ‘젠벡서스’ 美 가속승인…첫 CELMoD 다발골수종 치료제", "importance": 37, "url": "https://www.thebionews.net/news/articleViewAmp.html?idxno=27221"}
+      ],
+      "summary_kr": "카빅티의 국내 급여 등재 추진과 젠벡서스의 미국 가속승인이 같은 질환 영역에서 병행됐다. 임상 효능뿐 아니라 고가 치료의 보험 접근성과 후속 계약이 핵심 변수가 된다.",
+      "summary_en": "Korean reimbursement efforts for Carvykti and an accelerated US approval for GenVekssus show parallel competition in multiple myeloma. Coverage and contracting will be as important as efficacy."
+    },
+    {
+      "topic": "전공의 수련의 역량중심·맞춤형 교육 강화",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "서울성모병원, 전공의 수련 혁신 2년차…맞춤형 교육 강화", "importance": 60, "url": "https://www.asiae.co.kr/article/2026081413423821754"}
+      ],
+      "summary_kr": "서울성모병원이 전공의 교육을 개인별 역량과 현장 수행 중심으로 고도화했다. 의료인력 정책 변화 속에서 수련 품질을 측정할 수 있는 표준화와 피드백 체계가 확산될 가능성이 있다.",
+      "summary_en": "Seoul St. Mary's Hospital is advancing competency-based, tailored residency training. Standardized measurement and feedback may become more important as health-workforce policy evolves."
+    },
+    {
+      "topic": "동남아 의약품 규제·약국 운영 정비",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 45,
+      "key_articles": [
+        {"title": "Tiga perusahaan farmasi didenda hampir 100 juta VND terkait dengan 41 jenis obat.", "importance": 50, "url": "https://www.vietnam.vn/id/3-doanh-nghiep-duoc-bi-phat-gan-100-trieu-lien-quan-41-loai-thuoc"},
+        {"title": "Departemen Kesehatan menuntut perbaikan operasional bisnis farmasi.", "importance": 40, "url": "https://www.vietnam.vn/id/so-y-te-yeu-cau-chan-chinh-hoat-dong-kinh-doanh-duoc"}
+      ],
+      "summary_kr": "베트남에서 다수 의약품 관련 과징금과 약국 운영 개선 요구가 포착됐다. 현지 유통·품질관리 규정 준수가 시장 진입과 사업 리스크의 핵심으로 부상한다.",
+      "summary_en": "Vietnamese authorities fined pharmaceutical companies and demanded corrective action in pharmacy operations, underscoring compliance and distribution-quality risks for market participants."
+    },
+    {
+      "topic": "천연물·전통의학의 의약품 대체 및 통합의료 탐색",
+      "domain": "traditional_medicine",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 48,
+      "key_articles": [
+        {"title": "กรมการแพทย์แผนไทยฯ ชู “ขมิ้นชัน” โมเดลสมุนไพร มุ่งสู่ยาทดแทน", "importance": 55, "url": "https://today.line.me/th/v3/article/DRmyaMg"}
+      ],
+      "summary_kr": "태국 전통의학 당국이 강황을 대체의약품 모델로 제시했다. 원료 표준화와 임상·규제 근거 확보가 전통약재의 산업화 여부를 좌우한다.",
+      "summary_en": "Thailand's traditional-medicine authorities are positioning turmeric as a substitute-medicine model. Standardization and clinical-regulatory evidence will determine scalability."
+    },
+    {
+      "topic": "비강 약물전달 및 천연물 기반 신약 discovery 연구",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "LTR Pharma (ASX:LTP): OROFLOW Human Study Advances Intranasal Drug Platform", "importance": 47, "url": "https://kalkine.com.au/news/healthcare/ltr-pharma-asxltp-oroflow-human-study-advances-intranasal-drug-platform"},
+        {"title": "Study reveals hidden myxobacteria diversity for future drug discovery", "importance": 47, "url": "https://www.news-medical.net/news/20260813/Study-reveals-hidden-myxobacteria-diversity-for-future-drug-discovery.aspx"}
+      ],
+      "summary_kr": "비강 투여 플랫폼의 인체 연구 진전과 점액세균 다양성의 신약 후보 발굴 가능성이 함께 보고됐다. 전달기술과 생물다양성 기반 탐색이 초기 파이프라인의 차별화 수단이 될 수 있다.",
+      "summary_en": "An intranasal delivery platform advanced in human studies while myxobacterial diversity offered new discovery leads. Delivery technology and biodiversity may differentiate early pipelines."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가", "kr_count": 17, "en_count": 5, "significance": "high"},
+    {"keyword": "임상", "kr_count": 4, "en_count": 3, "significance": "medium"}
+  ],
+  "notable_absences": [],
+  "trend_shift": {"from_yesterday": [], "changes": ["총 기사 수는 전일 439건에서 453건으로 14건 증가", "title fallback은 69건으로 증가"]},
+  "connections": ["다발골수종 치료제의 FDA 승인과 국내 급여 등재 추진이 동일 치료영역의 글로벌-국내 접근성 이슈로 연결됨", "전통약재 산업화와 신약 discovery 모두 표준화·임상 근거 확보가 공통 병목"],
+  "generated_at": "2026-08-14T16:31:00+09:00"
+}

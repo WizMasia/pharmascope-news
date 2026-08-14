@@ -1,0 +1,659 @@
+{
+  "date": "2026-08-14",
+  "total_articles": 453,
+  "language_breakdown": {
+    "korean": {
+      "total": 201,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 139,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 14
+      }
+    },
+    "multilingual": {
+      "total": 113,
+      "languages": {
+        "French / 프랑스어": 10,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 8,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 7,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 24
+    },
+    {
+      "keyword": "허가",
+      "count": 17
+    },
+    {
+      "keyword": "식약처",
+      "count": 14
+    },
+    {
+      "keyword": "한약",
+      "count": 12
+    },
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "CRO",
+      "count": 1
+    },
+    {
+      "keyword": "CDMO",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 15
+    },
+    {
+      "keyword": "pricing",
+      "count": 8
+    },
+    {
+      "keyword": "safety",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 14
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 8
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 8
+    },
+    {
+      "source": "네이트",
+      "count": 8
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 7
+    },
+    {
+      "source": "뉴스1",
+      "count": 6
+    },
+    {
+      "source": "간호사신문",
+      "count": 6
+    },
+    {
+      "source": "바이오북미디어",
+      "count": 5
+    },
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "더바이오",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "Stock Titan",
+      "count": 8
+    },
+    {
+      "source": "openPR.com",
+      "count": 7
+    },
+    {
+      "source": "IndexBox",
+      "count": 5
+    },
+    {
+      "source": "Reuters",
+      "count": 4
+    },
+    {
+      "source": "Drug Topics",
+      "count": 4
+    },
+    {
+      "source": "The Fulcrum",
+      "count": 3
+    },
+    {
+      "source": "pharmaphorum",
+      "count": 2
+    },
+    {
+      "source": "Kalkine",
+      "count": 2
+    },
+    {
+      "source": "Fierce Biotech",
+      "count": 2
+    },
+    {
+      "source": "Medical Dialogues",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "fda · FDA · drug · what · means",
+    "farmasi · kompasiana · com · dunia · apoteker",
+    "reuters · drug",
+    "vietnam · thu",
+    "임상 · edaily"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 12,
+      "keywords": [
+        "drug",
+        "FDA",
+        "fda",
+        "safety",
+        "com"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves Bristol Myers' blood cancer treatment - Reuters",
+          "source": "Reuters",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 13 Aug 2026 21:33:06 GMT",
+          "url": "https://www.reuters.com/legal/litigation/us-fda-approves-bristol-myers-blood-cancer-treatment-2026-08-13/"
+        },
+        {
+          "title": "How Changes at the FDA Could Reshape Drug Approval and Safety - The Fulcrum",
+          "source": "The Fulcrum",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Over the past three decades, drug development in the United States accelerated dramatically. | Industry spending increased tenfold between the 1980s and 2019; the number of manufacturers grew; clinical trials became more",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 14 Aug 2026 04:53:53 GMT",
+          "url": "https://thefulcrum.us/health/fda-reform"
+        },
+        {
+          "title": "FDA Approves First CELMoD Drug for Multiple Myeloma - medpagetoday.com",
+          "source": "medpagetoday.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Access Denied | Access Denied | You don't have permission to access \"http://www.medpagetoday.com/hematologyoncology/myeloma/122608\" on this server. | Reference #18.352fc017.1786689293.15a0bec | https://errors.edgesuite.n",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 13 Aug 2026 21:38:54 GMT",
+          "url": "https://www.medpagetoday.com/hematologyoncology/myeloma/122608"
+        },
+        {
+          "title": "Innovotech Inc. Launches of InnovoTEST™ Hazardous Drug Wipe Testing Kits to Support Pharmacy Compliance and Healthcare Worker Safety - TheNewswire",
+          "source": "TheNewswire",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Innovotech Inc. | Launches of InnovoTEST™ Hazardous Drug Wipe Testing Kits to Support Pharmacy Compliance and Healthcare Worker Safety | Innovotech Inc. | Launches of InnovoTEST™ Hazardous Drug Wipe Testing Kits to Suppo",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 13 Aug 2026 23:00:09 GMT",
+          "url": "https://www.thenewswire.com/press-releases/1LymFMGxn-innovotech-inc-launches-of-innovotest-tm-hazardous-drug-wipe-testing-kits-to-support-pharmacy-compliance-and-healthcare-worker-safety.html"
+        },
+        {
+          "title": "Researchers find cancer drug may fight resistant pneumonia - theshillongtimes.com",
+          "source": "theshillongtimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Log into your account | Forgot your password? | Create an account | Create an account | Register for an account",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 14 Aug 2026 01:45:27 GMT",
+          "url": "https://theshillongtimes.com/2026/08/14/researchers-find-cancer-drug-may-fight-resistant-pneumonia/"
+        },
+        {
+          "title": "Multi-Compartment Safety Caps Market Expansion Through 2035 Driven by Biologic Drug Manufacturing Demand - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Report Update: Aug 14, 2026 | World Multi-Compartment Safety Caps - Market Analysis, Forecast, Size, Trends and Insights | -50% promotion | · automatically applied at checkout | Single User License",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 13 Aug 2026 23:56:19 GMT",
+          "url": "https://www.indexbox.io/blog/multi-compartment-safety-caps-market-expansion-through-2035-driven-by-biologic-drug-manufacturing-demand/"
+        },
+        {
+          "title": "Peptide Drug Conjugate Market 2026: Industry Developments, Growth Opportunities & Strategic Insights - openPR.com",
+          "source": "openPR.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Press release - DataM Intelligence 4 Market Research LLP - Peptide Drug Conjugate Market 2026: Industry Developments, Growth Opportunities & Strategic Insights - published on openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 14 Aug 2026 06:16:51 GMT",
+          "url": "https://www.openpr.com/news/4603585/peptide-drug-conjugate-market-2026-industry-developments"
+        },
+        {
+          "title": "How Changes at the FDA Could Reshape Drug Approval and Safety - The Fulcrum",
+          "source": "The Fulcrum",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Over the past three decades, drug development in the United States accelerated dramatically. | Industry spending increased tenfold between the 1980s and 2019; the number of manufacturers grew; clinical trials became more",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Fri, 14 Aug 2026 04:53:53 GMT",
+          "url": "https://thefulcrum.us/health/fda-reform"
+        },
+        {
+          "title": "How Changes at the FDA Could Reshape Drug Approval and Safety - The Fulcrum",
+          "source": "The Fulcrum",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Over the past three decades, drug development in the United States accelerated dramatically. | Industry spending increased tenfold between the 1980s and 2019; the number of manufacturers grew; clinical trials became more",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 14 Aug 2026 04:53:53 GMT",
+          "url": "https://thefulcrum.us/health/fda-reform"
+        },
+        {
+          "title": "'종근당 판권' 나모데노손, FDA·EMA 규제 승인…국내 상업화 초읽기 - theguru.co.kr",
+          "source": "theguru.co.kr",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "패스트트랙·희귀의약품 지정 확보…임상 3상도 순항 | 간세포암 이어 췌장암 임상 2b상 준비…적응증 확대 | [더구루=김현수 기자] 종근당이 국내 판권을 보유한 간암 치료 후보물질 나모데노손(Namodenoson)이 미국과 유럽에서 잇따라 규제 승인을 확보했다. | 패스트트랙과 희귀의약품으로 굵직한 이정표를 넘어선 데 이어 임상 3상도 순항하면서 상업화에 한 걸음 다가섰다. | 간세포암은 물",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 13 Aug 2026 22:59:51 GMT",
+          "url": "https://www.theguru.co.kr/news/article.html?no=105808"
+        },
+        {
+          "title": "Peptide Drug Conjugate Market 2026: Industry Developments, Growth Opportunities & Strategic Insights - openPR.com",
+          "source": "openPR.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Press release - DataM Intelligence 4 Market Research LLP - Peptide Drug Conjugate Market 2026: Industry Developments, Growth Opportunities & Strategic Insights - published on openPR.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 14 Aug 2026 06:16:51 GMT",
+          "url": "https://www.openpr.com/news/4603585/peptide-drug-conjugate-market-2026-industry-developments"
+        },
+        {
+          "title": "[장성훈의 신약개발 서랍장①]FDA 찍고, Elevar 돌아, KoNECT에서 - 팜이데일리",
+          "source": "팜이데일리",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[장성훈의 신약개발 서랍장①]FDA 찍고, Elevar 돌아, KoNECT에서 | 등록 2026-08-14 오전 7:20:03 | 수정 2026-08-14 오전 7:20:03 | 장성훈 국가임상시험지원재단(KoNECT) 글로벌규제컨설팅사업단 단장 (사진=KoNECT) | [장성훈 국가임상시험지원재단 글로벌규제컨설팅사업단 단장] “신약 하나를 개발하는 데 얼마나 걸립니까?”",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 13 Aug 2026 22:20:03 GMT",
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03034006645547320"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "신약",
+        "다발골수종",
+        "더바이오"
+      ],
+      "articles": [
+        {
+          "title": "CAR-T 신약 '카빅티', 다발골수종 급여 등재 노린다",
+          "source": "데일리팜",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "[데일리팜=손형민 기자] 재발 잦은 다발골수종의 맞춤형 세포치료제 ‘카빅티’가 보험급여 등재를 위한 도전에 나섰다. | 지난해 11월 적응증 확대 이후 약 7개월 만이다. | 관련 업계에 따르면 한국얀센은 카빅티(실타캅타젠오토류셀)의 건강보험 등재 신청 서류를 지난 6월 초 보험당국에 제출했다. | 카빅티는 국내에서 다발골수종 치료제로 허가됐으며, 현재까지 다발골수종 치료 적응증에서 승인된 ",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "30분",
+          "url": "https://www.dailypharm.com/user/news/341438"
+        },
+        {
+          "title": "BMS, TPD 신약 ‘젠벡서스’ 美 가속승인…첫 CELMoD 다발골수종 치료제 - 더바이오",
+          "source": "더바이오",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "‘젠벡서스’ 제품 사진 (출처 : 브리스톨마이어스스퀴브) | [더바이오 성재준 기자] 다국적 제약사 브리스톨마이어스스퀴브(BMS)의 차세대 단백질 분해제인 ‘젠벡서스(ZENBEXUS, 성분 이베르도마이드)’가 미국에서 다발골수종 치료제로 ‘가속승인’을 받았다. | 젠벡서스는 표적 단백질 분해(TPD) 계열의 약물인 세레블론 E3 리가아제 조절제(CELMoD)로, CELMoD 계열 치료제가 미",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 14 Aug 2026 04:07:59 GMT",
+          "url": "https://www.thebionews.net/news/articleViewAmp.html?idxno=27221"
+        },
+        {
+          "title": "“유망 신약 먼저 찜”…글로벌 제약바이오, 개발 리스크 낮춘 ‘옵션 딜’ 잇따라 - 더바이오",
+          "source": "더바이오",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "- 일반 라이선스와 달리 최종 도입 결정 유예…추가 연구·임상 데이터 확인 후 옵션 행사 | - 전임상부터 임상3상 준비 자산까지 활용…유망 후보 선점하고 개발 불확실성 분산 | - GSK, 최대 11개 프로그램에 옵션…개발 결과 확인한 뒤 유망 후보 선별 | - 노바티스·애브비·AZ도 혼합형 계약 활용…즉시 라이선스·옵션 등 선택권 세분화 | 더바이오 재구성(생성형 AI 활용)",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Thu, 13 Aug 2026 22:50:00 GMT",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=27208"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "서울성모병원",
+        "강화",
+        "맞춤형",
+        "수련",
+        "전공의",
+        "교육"
+      ],
+      "articles": [
+        {
+          "title": "서울성모병원, 전공의 수련 혁신 2년차…맞춤형 교육 강화 - asiae.co.kr",
+          "source": "asiae.co.kr",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "복지부 혁신 지원사업 2년 연속 선정 | 인턴·6개 전문과목에 32억700만원 지원 | 카데바 술기교육·학회 지원 확대…수련 집중시간 확보 | 서울성모병원은 보건복지부 전공의 수련환경 혁신 지원사업에 2년 연속 선정돼 수련체계 개선을 이어간다고 14일 밝혔다. | 서울성모병원 수련환경 혁신 지원사업 킥오프 행사 참석자들이 단체사진을 촬영하고 있다.",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Fri, 14 Aug 2026 04:42:39 GMT",
+          "url": "https://www.asiae.co.kr/article/2026081413423821754"
+        },
+        {
+          "title": "서울성모병원, 전공의 맞춤형 수련 강화…'역량 중심 교육' 고도화 - 뉴스1",
+          "source": "뉴스1",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "수련환경 혁신 지원사업 2년 연속 선정…32억 700만 원 지원 | 14개 임상과에 교육전담지도전문의 지정…과별 술기교육 확대 | 이지열 서울성모병원장이 13일 열린 킥오프 미팅에서 수련환경 혁신 지원사업 취지와 방향을 설명하고 있다. | 전공의수련환경혁신지원사업 | 사망 기증자 정상조직 확보한다…국가 바이오뱅크 정밀의료 연구 확대",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Fri, 14 Aug 2026 05:38:47 GMT",
+          "url": "https://www.news1.kr/bio/general/6259443"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "today",
+        "line"
+      ],
+      "articles": [
+        {
+          "title": "กรมการแพทย์แผนไทยฯ ชู “ขมิ้นชัน” โมเดลสมุนไพร มุ่งสู่ยาทดแทน | TOJO NEWS - LINE TODAY",
+          "source": "LINE TODAY",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "กรมการแพทย์แผนไทยฯ ชู “ขมิ้นชัน” โมเดลสมุนไพรครบวงจร มุ่งสู่ยาทดแทนยาแผนปัจจุบัน ปูทางอุตสาหกรรมสุขภาพระดับโลก รับ GWS 2026 | ผู้สื่อข่าวโตโจ้นิวส์รายงานว่า ดร.นพ.พงศธร พอกเพิ่มดี อธิบดีกรมการแพทย์แผนไทยและการแพทย์ทางเลื",
+          "section": "multilingual",
+          "category": "Thai / 태국어",
+          "time": "Fri, 14 Aug 2026 05:34:04 GMT",
+          "url": "https://today.line.me/th/v3/article/DRmyaMg"
+        },
+        {
+          "title": "คปภ. เดินหน้าขยายความร่วมมือด้านประกันภัยไทย - รัสเซีย แลกเปลี่ยนแนวทางกำกับยุคดิจิทัล ยกระดับประกันรถภาคบังคับ พร้อมเชื่อมโยงนวัตกรรมสุขภาพ | สวพ.FM91 - LINE TODAY",
+          "source": "LINE TODAY",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย (สำนักงาน คปภ.) เดินหน้าสร้างเครือข่ายความร่วมมือด้านประกันภัยในระดับนานาชาติ หารือหน่วยงานกำกับดูแลและภาคธุรกิจชั้นนำ ทั้งธนาคารกลางแห่งสหพันธรัฐรัสเซีย (Bank o",
+          "section": "multilingual",
+          "category": "Thai / 태국어",
+          "time": "Fri, 14 Aug 2026 00:48:20 GMT",
+          "url": "https://today.line.me/th/v3/article/8nowKEE"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "vietnam",
+        "farmasi"
+      ],
+      "articles": [
+        {
+          "title": "Tiga perusahaan farmasi didenda hampir 100 juta VND terkait dengan 41 jenis obat. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ikuti Vietnam.vn di | Tambahkan Vietnam.vn di | Departemen Administrasi Obat ( | Kementerian Kesehatan | ) mengumumkan pada tanggal 13 Agustus bahwa mereka telah mengeluarkan sanksi administratif terhadap tiga perusahaan",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Fri, 14 Aug 2026 03:22:43 GMT",
+          "url": "https://www.vietnam.vn/id/3-doanh-nghiep-duoc-bi-phat-gan-100-trieu-lien-quan-41-loai-thuoc"
+        },
+        {
+          "title": "Departemen Kesehatan menuntut perbaikan operasional bisnis farmasi. - vietnam.vn",
+          "source": "vietnam.vn",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Ikuti Vietnam.vn di | Tambahkan Vietnam.vn di | Pusat Pengujian Provinsi | Cai memeriksa dan memantau kualitas obat-obatan di fasilitas medis di wilayah tersebut. | Mulai 1 Juli 2025 hingga 28 Januari 2026, Departemen",
+          "section": "multilingual",
+          "category": "Indonesian / 인도네시아어",
+          "time": "Fri, 14 Aug 2026 03:42:50 GMT",
+          "url": "https://www.vietnam.vn/id/so-y-te-yeu-cau-chan-chinh-hoat-dong-kinh-doanh-duoc"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "study",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "LTR Pharma (ASX:LTP): OROFLOW Human Study Advances Intranasal Drug Platform - Kalkine",
+          "source": "Kalkine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkine.com.au",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 14 Aug 2026 02:27:00 GMT",
+          "url": "https://kalkine.com.au/news/healthcare/ltr-pharma-asxltp-oroflow-human-study-advances-intranasal-drug-platform"
+        },
+        {
+          "title": "Study reveals hidden myxobacteria diversity for future drug discovery - News-Medical",
+          "source": "News-Medical",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Most antibiotics used clinically are based on natural compounds produced by bacteria and other microorganisms. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 14 Aug 2026 02:55:00 GMT",
+          "url": "https://www.news-medical.net/news/20260813/Study-reveals-hidden-myxobacteria-diversity-for-future-drug-discovery.aspx"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "JW Pharma Jumps 15%, OliX Sinks 14% on Overhang Concerns[K-Bio Pulse] - edaily.co.kr",
+      "source": "edaily.co.kr",
+      "importance": 60,
+      "snippet": "JW Pharma Jumps 15%, OliX Sinks 14% on Overhang Concerns[K-Bio Pulse] | 구글 검색 선호 출처로 추가 | 등록 2026-08-14 오전 8:06:03 | 수정 2026-08-14 오전 8:06:03 | 이 기사는 2026년8월13일 8시5분에",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03171766645547320&mediaCodeNo=257"
+    },
+    {
+      "title": "세종시, 가축전염병 방역 4년 연속 1위",
+      "source": "MSN",
+      "importance": 52,
+      "snippet": "세종시, 가축전염병 방역 4년 연속 1위 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%84%B8%EC%A2%85%EC%8B%9C-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EB%B0%A9%EC%97%AD-4%EB%85%84-%EC%97%B0%EC%86%8D-1%EC%9C%84/ar-AA2a412q?ocid=BingNewsVerp"
+    },
+    {
+      "title": "מחירי התרופות ירדו: הפוליטיקאים מתווכחים מי באמת הוריד את המחיר - Hebrew News",
+      "source": "Hebrew News",
+      "importance": 50,
+      "snippet": "מחירי התרופות במרשם רשמו את הירידה השנתית החדה ביותר זה יותר משישה עשורים — בשורה נדירה בתקופה שבה כמעט כל שירות רפואי אחר מתייקר | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.hebrewnews.com/article/75605"
+    },
+    {
+      "title": "ADB, RIGHT Foundation hold biopharmaceutical training graduation and partnership forum - 헤럴드경제",
+      "source": "헤럴드경제",
+      "importance": 47,
+      "snippet": "The Research Investment for Global Health Technology Foundation (RIGHT Foundation) and the Asian Development Bank (ADB) co-hosted the \"2026 ADB-RIGHT Bioph | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성",
+      "url": "https://mbiz.heraldcorp.com/article/10841346"
+    },
+    {
+      "title": "Uttar Pradesh Pharmaceutical and Medical Device Industry Policy, 2023 - Business Standard",
+      "source": "Business Standard",
+      "importance": 47,
+      "snippet": "Uttar Pradesh | / Uttar Pradesh Pharmaceutical and Medical Device Industry Policy, 2023 | Uttar Pradesh Pharmaceutical and Medical Device Industry Policy, 2023 | The policy covers pharmaceutical produ",
+      "url": "https://www.business-standard.com/economy/uttar-pradesh/uttar-pradesh-pharmaceutical-and-medical-device-industry-policy-2023-126081301430_1.html"
+    },
+    {
+      "title": "Lowering prescription drug cost campaign launch in MD - WMDT",
+      "source": "WMDT",
+      "importance": 47,
+      "snippet": "Coalition calls on legislators to support lowering prescription drug costs | Andrea Durán | Salisbury, Md. | – The state of Maryland is launching a new campaign to get candidates running for state gov",
+      "url": "https://www.wmdt.com/2026/08/coalition-calls-on-legislators-to-support-lowering-prescription-drug-costs/"
+    },
+    {
+      "title": "Prevention Meets Prescription: Atlanta Workshop Brings Modern Medicine, Ayurveda and Yoga Together - NRI Pulse",
+      "source": "NRI Pulse",
+      "importance": 47,
+      "snippet": "Prevention Meets Prescription: Atlanta Workshop Brings Modern Medicine, Ayurveda and Yoga Together | NRI PULSE STAFF REPORT | Norcross, GA, August 13, 2026 | — A cardiologist, an Ayurvedic physician, ",
+      "url": "https://nripulse.com/prevention-meets-prescription-atlanta-workshop-brings-modern-medicine-ayurveda-and-yoga-together/"
+    },
+    {
+      "title": "Dược phẩm Meracine kết nối chuyên gia gỡ khó bài toán Thuế & Dòng tiền cho các Nhà thuốc - baophapluat.vn",
+      "source": "baophapluat.vn",
+      "importance": 47,
+      "snippet": "Dược phẩm Meracine kết nối chuyên gia gỡ khó bài toán Thuế & Dòng tiền cho các Nhà thuốc | Sự xuất hiện của các quy định mới về hóa đơn điện tử máy tính tiền và lộ trình chuyển đổi thuế đang đặt ra nh",
+      "url": "https://baophapluat.vn/duoc-pham-meracine-ket-noi-chuyen-gia-go-kho-bai-toan-thue-dong-tien-cho-cac-nha-thuoc.html"
+    },
+    {
+      "title": "Utveckla en vana att använda inhemskt producerade läkemedel. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Följ Vietnam.vn på | Lägg till Vietnam.vn på | Binh Xuyen Regional | Center använder 83,36 % inhemskt producerade läkemedel. | Produktion och användning av inhemskt producerade läkemedel ökar.",
+      "url": "https://www.vietnam.vn/sv/tao-thoi-quen-su-dung-thuoc-noi"
+    },
+    {
+      "title": "לפתח הרגל של שימוש בתרופות המיוצרות מקומית. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 43,
+      "snippet": "עקוב אחר Vietnam.vn ב- | הוסף את Vietnam.vn ב- | האזורי בין שויין משתמש ב-83.36% מתרופות המיוצרות מקומית. | ייצור ושימוש בתרופות מתוצרת מקומית נמצאים במגמת עלייה. | משרד הבריאות",
+      "url": "https://www.vietnam.vn/he/tao-thoi-quen-su-dung-thuoc-noi"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 17,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 3
+    }
+  ]
+}
