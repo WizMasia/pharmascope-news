@@ -1,0 +1,271 @@
+{
+  "date": "2026-08-15",
+  "total_articles": 380,
+  "language_breakdown": {
+    "korean": {
+      "total": 153,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 20,
+        "의약정책": 7,
+        "의약단체": 14,
+        "의약관련정부기관": 13,
+        "의료현장": 18,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 132,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 95,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 10,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "중외제약·신약·임상·상서·입증",
+      "domain": "industry",
+      "significance": "low",
+      "article_count": 5,
+      "avg_importance": 31,
+      "key_articles": [
+        {
+          "title": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02046726645547648&mediaCodeNo=257"
+        },
+        {
+          "title": "JW중외제약, 실적·통풍 신약 ‘쌍끌이’…삼성바이오 노사는 사후조정 합의 [바이오 주간 결산] - 팜이데일리",
+          "importance": 27,
+          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01872886645547648"
+        },
+        {
+          "title": "JW중외제약 “통풍신약, 페북소스타트比 혈중요산 감소효과 우수” - catchnews.kr",
+          "importance": 27,
+          "url": "https://www.catchnews.kr/news/articleView.html?idxno=127258"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 5건 클러스터: 중외제약, 신약, 임상, 상서, 입증.",
+      "summary_en": "A title-keyword cluster of 5 articles covering 중외제약, 신약, 임상, 상서, 입증."
+    },
+    {
+      "topic": "vietnam·voor·het·van·die",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 5,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "Versterking van het staatsbeheer op het gebied van traditionele geneeskunde en farmacie. - Vietnam.vn",
+          "importance": 45,
+          "url": "https://www.vietnam.vn/nl/tang-cuong-cong-tac-quan-ly-nha-nuoc-trong-linh-vuc-y-duoc-co-truyen"
+        },
+        {
+          "title": "Verliert die Pharmaindustrie angesichts stetig sinkender Zulassungsergebnisse an Attraktivität? - Vietnam.vn",
+          "importance": 43,
+          "url": "https://www.vietnam.vn/de/diem-chuan-lien-tuc-giam-nganh-duoc-dang-mat-suc-hut"
+        },
+        {
+          "title": "Strengere regelgeving rond geneesmiddelenprijzen leidt tot boetes voor tal van bedrijven. - Vietnam.vn",
+          "importance": 35,
+          "url": "https://www.vietnam.vn/nl/siet-minh-bach-gia-thuoc-hang-loat-doanh-nghiep-bi-xu-phat"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 5건 클러스터: vietnam, voor, het, van, die.",
+      "summary_en": "A title-keyword cluster of 5 articles covering vietnam, voor, het, van, die."
+    },
+    {
+      "topic": "est·vietnam·utica·farmac",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 46,
+      "key_articles": [
+        {
+          "title": "Face à la baisse constante des scores d'admission, l'industrie pharmaceutique est-elle en train de perdre de son attrait ? - Vietnam.vn",
+          "importance": 53,
+          "url": "https://www.vietnam.vn/fr/diem-chuan-lien-tuc-giam-nganh-duoc-dang-mat-suc-hut"
+        },
+        {
+          "title": "Ante el continuo descenso de los índices de admisión, ¿está perdiendo atractivo la industria farmacéutica? - Vietnam.vn",
+          "importance": 45,
+          "url": "https://www.vietnam.vn/es/diem-chuan-lien-tuc-giam-nganh-duoc-dang-mat-suc-hut"
+        },
+        {
+          "title": "Com a queda contínua das taxas de admissão, a indústria farmacêutica está perdendo seu atrativo? - Vietnam.vn",
+          "importance": 40,
+          "url": "https://www.vietnam.vn/pt/diem-chuan-lien-tuc-giam-nganh-duoc-dang-mat-suc-hut"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 3건 클러스터: est, vietnam, utica, farmac.",
+      "summary_en": "A title-keyword cluster of 3 articles covering est, vietnam, utica, farmac."
+    },
+    {
+      "topic": "pharma·pricing·concerns·economictimes·drugmakers",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "Drugmakers curb Swiss reimbursement applications over US pricing concerns - pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/drugmakers-curb-swiss-reimbursement-applications-over-us-pricing-concerns/133253625"
+        },
+        {
+          "title": "Drugmakers curb Swiss reimbursement applications over US pricing concerns - pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/drugmakers-curb-swiss-reimbursement-applications-over-us-pricing-concerns/133253625"
+        },
+        {
+          "title": "Drugmakers curb Swiss reimbursement applications over US pricing concerns - pharma.economictimes.indiatimes.com",
+          "importance": 42,
+          "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/drugmakers-curb-swiss-reimbursement-applications-over-us-pricing-concerns/133253625"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 3건 클러스터: pharma, pricing, concerns, economictimes, drugmakers.",
+      "summary_en": "A title-keyword cluster of 3 articles covering pharma, pricing, concerns, economictimes, drugmakers."
+    },
+    {
+      "topic": "FDA·fda",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "FDA 의료기기 수수료 10% 인상에…美 진출 비용 부담 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01804006645547648&mediaCodeNo=257"
+        },
+        {
+          "title": "FDA, 알츠하이머 타우 단백질 보는 새 PET 진단제 승인 - 헬스케어N",
+          "importance": 37,
+          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582346"
+        },
+        {
+          "title": "Dr. Reddy's: USFDA Inspection Concludes with VAI Outcome - InvestyWise",
+          "importance": 37,
+          "url": "https://www.investywise.com/dr-reddys-laboratories-usfda-inspection-outcome-update/"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 3건 클러스터: FDA, fda.",
+      "summary_en": "A title-keyword cluster of 3 articles covering FDA, fda."
+    },
+    {
+      "topic": "news·drug",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Bayer's Multi-Front Chess Game: From Football Governance to Chinese Drug Approvals - ad-hoc-news.de",
+          "importance": 47,
+          "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/bayer-s-multi-front-chess-game-from-football-governance-to-chinese-drug/69951449"
+        },
+        {
+          "title": "New cell model exposes drug vulnerabilities in rare cervical cancer - Rare Cancer News",
+          "importance": 47,
+          "url": "https://rarecancernews.com/news/new-cell-model-exposes-drug-vulnerabilities-rare-cervical-cancer/"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 2건 클러스터: news, drug.",
+      "summary_en": "A title-keyword cluster of 2 articles covering news, drug."
+    },
+    {
+      "topic": "khai·thu",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "3 công ty dược ở TPHCM vi phạm kê khai giá thuốc - Báo Dân trí",
+          "importance": 42,
+          "url": "https://dantri.com.vn/suc-khoe/3-cong-ty-duoc-o-tphcm-vi-pham-ke-khai-gia-thuoc-20260814215652030.htm"
+        },
+        {
+          "title": "Tin hot thị trường ngày 15/8: Ba doanh nghiệp dược bị phạt 95 triệu đồng vì vi phạm kê khai giá thuốc - Thế giới tiếp thị",
+          "importance": 42,
+          "url": "https://thegioitiepthi.danviet.vn/tin-hot-thi-truong-ngay-15-8-ba-doanh-nghiep-duoc-bi-phat-95-trieu-dong-vi-vi-pham-ke-khai-gia-thuoc-d1451592.html"
+        }
+      ],
+      "summary_kr": "제목 키워드 기반 2건 클러스터: khai, thu.",
+      "summary_en": "A title-keyword cluster of 2 articles covering khai, thu."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 2
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 12
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 4
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 4
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA의 다발골수종 치료제 승인과 안전성 심사 변화",
+      "국내 다발골수종 신약의 급여 진입 경쟁",
+      "전공의 수련의 역량중심·맞춤형 교육 강화",
+      "동남아 의약품 규제·약국 운영 정비",
+      "천연물·전통의학의 의약품 대체 및 통합의료 탐색"
+    ],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-08-15T16:32:09.866371+09:00"
+}
