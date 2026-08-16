@@ -254,83 +254,10 @@
       "cluster_id": 1,
       "size": 5,
       "keywords": [
-        "중외제약",
-        "신약",
-        "임상",
-        "상서",
-        "입증",
-        "통풍치료제",
-        "유효성",
-        "업데이트",
-        "팜이데일리",
-        "바이오"
-      ],
-      "articles": [
-        {
-          "title": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 - edaily.co.kr",
-          "source": "edaily.co.kr",
-          "importance": 45,
-          "stars": "⭐⭐⭐",
-          "snippet": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 | 구글 검색 선호 출처로 추가 | 등록 2026-08-15 오전 10:36:02 | 수정 2026-08-15 오전 10:36:02 | [이데일리 김진수 기자] 한 주(8월 10일~8월 14일) 국내 제약·바이오 업계에서 주목받은 임상 및 품목 허가 소식이다.",
-          "section": "korean",
-          "category": "의약품",
-          "time": "Sat, 15 Aug 2026 01:36:02 GMT",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02046726645547648&mediaCodeNo=257"
-        },
-        {
-          "title": "JW중외제약, 실적·통풍 신약 ‘쌍끌이’…삼성바이오 노사는 사후조정 합의 [바이오 주간 결산] - 팜이데일리",
-          "source": "팜이데일리",
-          "importance": 27,
-          "stars": "⭐⭐",
-          "snippet": "JW중외제약, 실적·통풍 신약 ‘쌍끌이’…삼성바이오 노사는 사후조정 합의 [바이오 주간 결산] | 등록 2026-08-15 오전 8:30:04 | 수정 2026-08-15 오전 8:30:04 | (그래픽= 생성형 AI) | [이데일리 손민지 기자] 8월 둘째 주(10~14일) 제약·바이오 업계에서는 JW중외제약(001060)이 상반기 호실적과 통풍 치료제 후보물질 ‘에파미뉴라드’의 임상 3상",
-          "section": "korean",
-          "category": "의약품",
-          "time": "Fri, 14 Aug 2026 23:30:04 GMT",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=01872886645547648"
-        },
-        {
-          "title": "JW중외제약 “통풍신약, 페북소스타트比 혈중요산 감소효과 우수” - catchnews.kr",
-          "source": "catchnews.kr",
-          "importance": 27,
-          "stars": "⭐⭐",
-          "snippet": "에파미뉴라드, 임상3상서 통계적 우월성 입증 | 7월 식약처 2회 상견례...내년 국내 승인 목표 | 글로벌 통풍치료제시장 41억달러대 성장전망 | JW중외제약이 통풍치료제 후보물질 ‘에파미뉴라드’의 다국가 임상 3상에서 기존 치료제 페북소스타트(Febuxostat) 대비 우수한 혈중 요산 감소 효과와 통계적 우월성을 입증했다고 12일 밝혔다. | JW중외제약이 통풍치료제 후보물질 ‘에파미뉴",
-          "section": "korean",
-          "category": "의약품",
-          "time": "Fri, 14 Aug 2026 21:40:20 GMT",
-          "url": "https://www.catchnews.kr/news/articleView.html?idxno=127258"
-        },
-        {
-          "title": "기술수출·신약이 끌었다…제약·바이오 2분기 '호실적' - 연합뉴스",
-          "source": "연합뉴스",
-          "importance": 27,
-          "stars": "⭐⭐",
-          "snippet": "삼성바이오·셀트리온 나란히 분기 최대 매출 | 유한양행·한미약품 기술수출 효과…대웅도 두자릿수 성장 | [삼성바이오로직스 제공. | (서울=연합뉴스) 신선미 기자 = 국내 주요 제약·바이오기업들이 올해 2분기 기술수출 성과와 신약·바이오시밀러 판매 확대에 힘입어 일제히 외형 성장을 이뤘다. | 삼성바이오로직스와 셀트리온이 나란히 분기 기준 최대 매출을 기록한 가운데 유한양행과 한미약품은 기술",
-          "section": "korean",
-          "category": "의약품",
-          "time": "Sat, 15 Aug 2026 01:30:00 GMT",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260814115200017"
-        },
-        {
-          "title": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 - 팜이데일리",
-          "source": "팜이데일리",
-          "importance": 27,
-          "stars": "⭐⭐",
-          "snippet": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 | 등록 2026-08-15 오전 10:35:05 | 수정 2026-08-15 오전 10:35:05 | [이데일리 김진수 기자] 한 주(8월 10일~8월 14일) 국내 제약·바이오 업계에서 주목받은 임상 및 품목 허가 소식이다. | JW중외제약, 통풍치료제 3상서 유효성 입증",
-          "section": "korean",
-          "category": "의약품",
-          "time": "Sat, 15 Aug 2026 01:35:05 GMT",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=02050006645547648"
-        }
-      ]
-    },
-    {
-      "cluster_id": 2,
-      "size": 5,
-      "keywords": [
         "vietnam",
         "voor",
-        "het",
         "van",
+        "het",
         "die"
       ],
       "articles": [
@@ -392,11 +319,66 @@
       ]
     },
     {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "fda",
+        "FDA",
+        "승인"
+      ],
+      "articles": [
+        {
+          "title": "'종근당 판권' 나모데노손, FDA&#183;EMA 규제 승인…국내 상업화 초읽기",
+          "source": "MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "'종근당 판권' 나모데노손, FDA&#183;EMA 규제 승인…국내 상업화 초읽기 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%A2%85%EA%B7%BC%EB%8B%B9-%ED%8C%90%EA%B6%8C-%EB%82%98%EB%AA%A8%EB%8D%B0%EB%85%B8%EC%86%90-fda-ema-%EA%B7%9C%EC%A0%9C-%EC%8A%B9%EC%9D%B8-%EA%B5%AD%EB%82%B4-%EC%83%81%EC%97%85%ED%99%94-%EC%B4%88%EC%9D%BD%EA%B8%B0/ar-AA2a3D7G?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA 의료기기 수수료 10% 인상에…美 진출 비용 부담 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA 의료기기 수수료 10% 인상에…美 진출 비용 부담 | 구글 검색 선호 출처로 추가 | 등록 2026-08-15 오전 8:01:02 | 수정 2026-08-15 오전 8:01:02 | (출처= 한국바이오협회) (그래픽= 생성형 AI)",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 14 Aug 2026 23:01:02 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01804006645547648&mediaCodeNo=257"
+        },
+        {
+          "title": "FDA, 알츠하이머 타우 단백질 보는 새 PET 진단제 승인 - 헬스케어N",
+          "source": "헬스케어N",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "FDA, 알츠하이머 타우 단백질 보는 새 PET 진단제 승인 - 헬스케어N | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Sat, 15 Aug 2026 02:26:14 GMT",
+          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582346"
+        },
+        {
+          "title": "Dr. Reddy's: USFDA Inspection Concludes with VAI Outcome - InvestyWise",
+          "source": "InvestyWise",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Reddy’s Laboratories has announced the outcome of a recent GMP inspection by the United States Food & Drug Administration (USFDA) at its API manufacturing facility in Mirfield, United Kingdom. | The USFDA has classified ",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 15 Aug 2026 05:35:31 GMT",
+          "url": "https://www.investywise.com/dr-reddys-laboratories-usfda-inspection-outcome-update/"
+        }
+      ]
+    },
+    {
       "cluster_id": 3,
       "size": 3,
       "keywords": [
-        "est",
         "vietnam",
+        "est",
         "utica",
         "farmac"
       ],
@@ -440,16 +422,16 @@
       "cluster_id": 4,
       "size": 3,
       "keywords": [
-        "pharma",
-        "pricing",
-        "concerns",
         "economictimes",
+        "reimbursement",
+        "curb",
+        "swiss",
         "drugmakers",
         "indiatimes",
-        "applications",
-        "curb",
-        "reimbursement",
-        "swiss"
+        "com",
+        "concerns",
+        "pricing",
+        "pharma"
       ],
       "articles": [
         {
@@ -489,49 +471,6 @@
     },
     {
       "cluster_id": 5,
-      "size": 3,
-      "keywords": [
-        "FDA",
-        "fda"
-      ],
-      "articles": [
-        {
-          "title": "FDA 의료기기 수수료 10% 인상에…美 진출 비용 부담 - edaily.co.kr",
-          "source": "edaily.co.kr",
-          "importance": 45,
-          "stars": "⭐⭐⭐",
-          "snippet": "FDA 의료기기 수수료 10% 인상에…美 진출 비용 부담 | 구글 검색 선호 출처로 추가 | 등록 2026-08-15 오전 8:01:02 | 수정 2026-08-15 오전 8:01:02 | (출처= 한국바이오협회) (그래픽= 생성형 AI)",
-          "section": "korean",
-          "category": "의약관련정부기관",
-          "time": "Fri, 14 Aug 2026 23:01:02 GMT",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01804006645547648&mediaCodeNo=257"
-        },
-        {
-          "title": "FDA, 알츠하이머 타우 단백질 보는 새 PET 진단제 승인 - 헬스케어N",
-          "source": "헬스케어N",
-          "importance": 37,
-          "stars": "⭐⭐",
-          "snippet": "FDA, 알츠하이머 타우 단백질 보는 새 PET 진단제 승인 - 헬스케어N | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
-          "section": "korean",
-          "category": "의약관련정부기관",
-          "time": "Sat, 15 Aug 2026 02:26:14 GMT",
-          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582346"
-        },
-        {
-          "title": "Dr. Reddy's: USFDA Inspection Concludes with VAI Outcome - InvestyWise",
-          "source": "InvestyWise",
-          "importance": 37,
-          "stars": "⭐⭐",
-          "snippet": "Reddy’s Laboratories has announced the outcome of a recent GMP inspection by the United States Food & Drug Administration (USFDA) at its API manufacturing facility in Mirfield, United Kingdom. | The USFDA has classified ",
-          "section": "english",
-          "category": "Regulatory Agencies",
-          "time": "Sat, 15 Aug 2026 05:35:31 GMT",
-          "url": "https://www.investywise.com/dr-reddys-laboratories-usfda-inspection-outcome-update/"
-        }
-      ]
-    },
-    {
-      "cluster_id": 6,
       "size": 2,
       "keywords": [
         "news",
@@ -563,11 +502,43 @@
       ]
     },
     {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "심사",
+        "허가"
+      ],
+      "articles": [
+        {
+          "title": "EMA, 의약품 변경허가 '상호인정' 확대…글로벌 심사 간소화",
+          "source": "메디파나 뉴스",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. | 유럽의약품청(EMA)이 의약품 허가 이후 발생하는 제조·품질 변경에 대해 다른 규제기관의 심사결과를 활용하는 '릴라이언스(reliance)' 확대에 나섰다. | 동일한 제조공정 변경을 여러 국가에서 각각 심사하면서 발생하는 중복과 승인시점 차이를 줄여 글로벌 의약품 공급망의 효율성을 높이려는 움직임이다. | EMA는 최근 제약업계를 대상으로 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "21시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=415994"
+        },
+        {
+          "title": "법제 국책연구기관 “임신중지 ‘미프진’ 법개정 전이라도 허가 심사 가능”",
+          "source": "한겨레 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "법제 국책연구기관 “임신중지 ‘미프진’ 법개정 전이라도 허가 심사 가능” | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/national/%EB%B2%95%EC%A0%9C-%EA%B5%AD%EC%B1%85%EC%97%B0%EA%B5%AC%EA%B8%B0%EA%B4%80-%EC%9E%84%EC%8B%A0%EC%A4%91%EC%A7%80-%EB%AF%B8%ED%94%84%EC%A7%84-%EB%B2%95%EA%B0%9C%EC%A0%95-%EC%A0%84%EC%9D%B4%EB%9D%BC%EB%8F%84-%ED%97%88%EA%B0%80-%EC%8B%AC%EC%82%AC-%EA%B0%80%EB%8A%A5/ar-AA2a0tYV?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
       "cluster_id": 7,
       "size": 2,
       "keywords": [
-        "khai",
-        "thu"
+        "thu",
+        "khai"
       ],
       "articles": [
         {
@@ -632,6 +603,27 @@
       "url": "https://www.ironmountaindailynews.com/news/local-news/2026/08/online-pharmacies-aid-rural-health-care-but-threaten-michigan-drugstores/"
     },
     {
+      "title": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 - edaily.co.kr",
+      "source": "edaily.co.kr",
+      "importance": 45,
+      "snippet": "[임상 업데이트] JW중외제약, 통풍치료제 3상서 유효성 입증 | 구글 검색 선호 출처로 추가 | 등록 2026-08-15 오전 10:36:02 | 수정 2026-08-15 오전 10:36:02 | [이데일리 김진수 기자] 한 주(8월 10일~8월 14일) 국내 제약·바이오 업계에서 주목받은 임상 및 품목 허가 소식이다.",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02046726645547648&mediaCodeNo=257"
+    },
+    {
+      "title": "한국제약바이오협회, ‘2026 CP 가이드북’ 발행",
+      "source": "의학신문",
+      "importance": 42,
+      "snippet": "[의학신문·일간보사=김정일 기자] 한국제약바이오협회(회장 노연홍)는 ‘의약품 거래에 관한 공정경쟁규약’ 지침서인 ‘2026 CP 가이드북’을 발행했다고 13일 밝혔다. | 이번 가이드북은 공정거래위원회의 승인을 거쳐 지난 2026년 1월 1일 시행된 의약품 거래에 관한 공정경쟁규약 5차 개정사항을 반영했다. | ‘2026 CP 가이드북’.(사진제공=한국제약",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010184"
+    },
+    {
+      "title": "세종시, 가축전염병 방역 4년 연속 1위",
+      "source": "MSN",
+      "importance": 42,
+      "snippet": "세종시, 가축전염병 방역 4년 연속 1위 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%84%B8%EC%A2%85%EC%8B%9C-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EB%B0%A9%EC%97%AD-4%EB%85%84-%EC%97%B0%EC%86%8D-1%EC%9C%84/ar-AA2a412q?ocid=BingNewsVerp"
+    },
+    {
       "title": "Drug Development Inputs & Services Stocks Q2 In Review: Fortrea (NASDAQ:FTRE) Vs Peers - uk.finance.yahoo.com",
       "source": "uk.finance.yahoo.com",
       "importance": 42,
@@ -644,27 +636,6 @@
       "importance": 42,
       "snippet": "40% revenue goes to power, pharma manufacturers tell FG | Follow us on Google | August 14, 2026 | 40% revenue goes to power, pharma manufacturers tell FG | By Esther Onyegbula",
       "url": "https://www.vanguardngr.com/2026/08/40-revenue-goes-to-power-pharma-manufacturers-tell-fg/"
-    },
-    {
-      "title": "One law for drugs and devices? Medical-device industry urges separate legislation - The South First",
-      "source": "The South First",
-      "importance": 42,
-      "snippet": "One law for drugs and devices? | Medical-device industry urges separate legislation | Eleven national associations representing medical-device manufacturers, traders, healthcare providers have jointly",
-      "url": "https://thesouthfirst.com/health/one-law-for-drugs-and-devices-medical-device-industry-urges-separate-legislation/"
-    },
-    {
-      "title": "Tăng cường công tác quản lý nhà nước trong lĩnh vực y, dược cổ truyền - Báo Cần Thơ",
-      "source": "Báo Cần Thơ",
-      "importance": 42,
-      "snippet": "15/08/2026 - 05:32 | Chia sẻ Facebook | Tăng cường công tác quản lý nhà nước trong lĩnh vực y, dược cổ truyền | Thời gian gần đây, ngành chức năng liên tục triệt phá các đường dây sản xuất, kinh doanh",
-      "url": "https://baocantho.com.vn/tang-cuong-cong-tac-quan-ly-nha-nuoc-trong-linh-vuc-y-duoc-co-truyen-a212593.html"
-    },
-    {
-      "title": "Điểm chuẩn ngành Dược liên tục giảm: Ngành học này đang mất sức hút? - Việt Báo",
-      "source": "Việt Báo",
-      "importance": 42,
-      "snippet": "Căn cứ phổ điểm thi tốt nghiệp THPT 2026, các tổ hợp A00, A01 được dự đoán giữ nguyên mức điểm chuẩn như năm 2025. | Riêng với tổ hợp B00 gồm Toán, Hóa, Sinh, phổ điểm chung năm nay cao hơn khoảng 1,5",
-      "url": "https://vietbao.vn/diem-chuan-nganh-duoc-lien-tuc-giam-nganh-hoc-nay-dang-mat-suc-hut-603238.html"
     }
   ],
   "cross_language_candidates": [
