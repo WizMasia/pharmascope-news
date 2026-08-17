@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-17",
+  "total_articles": 323,
+  "time_window": "2026-08-17 06:30–2026-08-18 06:29 KST",
+  "language_breakdown": {
+    "korean": 148,
+    "english": 109,
+    "multilingual": 66
+  },
+  "issues": [
+    {
+      "topic": "FDA·제약 제조·허가 리스크",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 11,
+      "avg_importance": 43,
+      "key_articles": [
+        {"title": "Aurobindo Pharma's US Unit Gets FDA Nod to Resume Approvals", "importance": 50, "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Aurobindo-Pharmas-US-Unit-Gets-FDA-Nod-to-Resume-Approvals/6a8281d56ffbe1e6461eb973"},
+        {"title": "Aurobindo Pharma’s Raleigh plant gets 'Voluntary Action Indicated' classification from US FDA", "importance": 42, "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharmas-raleigh-plant-gets-voluntary-action-indicated-classification-from-us-fda/articleshow/133285791.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral"}
+      ],
+      "summary_kr": "FDA 승인 재개·제조시설 분류·품질 규정이 함께 포착됐다. Aurobindo 사례처럼 규제 조치가 허가 재개로 이어질 수 있어 제조소 시정조치와 공급 지속성이 핵심 변수다.",
+      "summary_en": "FDA approval resumption, facility classification, and quality compliance appeared together. The Aurobindo case shows how remediation can restore approvals, while manufacturing controls remain a supply risk."
+    },
+    {
+      "topic": "한국 항암 신약개발과 공공 R&D",
+      "domain": "research",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 43,
+      "key_articles": [
+        {"title": "GIST 창업기업 펠레메드, 신장암 치료제 개발 ‘스케일업 팁스’ 선정", "importance": 45, "url": "https://www.edaily.co.kr/News/Read?newsId=01226726645548304&mediaCodeNo=257"},
+        {"title": "GIST 창업기업 펠레메드, 신장암 신약 개발에 정부 R&D 30억원 확보", "importance": 41, "url": "https://www.betanews.net/article/view/beta202608170019"}
+      ],
+      "summary_kr": "펠레메드는 2029년 6월까지 정부 R&D 30억원을 받아 VEGFR2·YAP 동시 억제 신장암 후보물질을 개발하고 환자유래 오가노이드·PDX 검증 후 IND와 임상 1상을 추진한다.",
+      "summary_en": "Pelmed will receive KRW 3 billion in government R&D support through June 2029 for a VEGFR2/YAP dual-target kidney-cancer candidate, with organoid and PDX validation planned before IND and Phase 1."
+    },
+    {
+      "topic": "AI 기반 제약 R&D·CXO 성장 기대",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "医药生物行业跟踪周报：AI制药订单驱动生命科学上游股价，关注金斯瑞、义翘神州等", "importance": 50, "url": "https://bydrug.pharmcube.com/report/detail/e12b08ba742f40b59b21e9fecd38da08"},
+        {"title": "医药健康行业研究：CXO景气持续向上，AI助力研发提速", "importance": 43, "url": "https://bydrug.pharmcube.com/report/detail/6ce7606e060243a5be7f6e8775d71794"}
+      ],
+      "summary_kr": "중문 업계 리포트는 AI 신약 주문과 CXO 업황 회복을 연결한다. 다만 주문 증가가 실제 임상·상업 매출로 전환되는지 추가 확인이 필요하다.",
+      "summary_en": "Chinese industry reports link AI-drug orders with improving CXO sentiment. The key watchpoint is whether order momentum converts into clinical and commercial revenue."
+    },
+    {
+      "topic": "임상자금·신규 치료제 탐색",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs", "importance": 47, "url": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/"},
+        {"title": "British scientists crack single-dose malaria cure as resistance to current drugs soars", "importance": 47, "url": "https://www.gbnews.com/health/malaria-treatment-drugs-scientists-single-dose-treatment"}
+      ],
+      "summary_kr": "Vogenx는 승인 치료제가 없는 대사질환 임상에 8,100만달러를 조달했고, 말라리아 단회 투여 치료 연구도 포착됐다. 미충족 수요가 임상자금과 투약 편의성 혁신을 동시에 자극하는 양상이다.",
+      "summary_en": "Vogenx raised $81 million for a trial in a disease without approved therapies, while a single-dose malaria approach targets rising resistance. Unmet need is driving both financing and dosing innovation."
+    },
+    {
+      "topic": "품질·공급망과 바이오시밀러 확장",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 44,
+      "key_articles": [
+        {"title": "Shilpa Medicare recalls over 27k vials of chemotherapy drug in US", "importance": 47, "url": "https://pharma.economictimes.indiatimes.com/amp/news/pharma-industry/shilpa-medicare-recalls-over-27k-vials-of-chemotherapy-drug-in-us/133285050"},
+        {"title": "Sandoz betaalt tot $ 77 mln. voor rechten op drie biosimilaire geneesmiddelen van Shanghai Henlius Biotech", "importance": 43, "url": "https://nl.investing.com/news/stock-market-news/sandoz-betaalt-tot--77-mln-voor-rechten-op-drie-biosimilaire-geneesmiddelen-van-shanghai-henlius-biotech-93CH-891587"}
+      ],
+      "summary_kr": "미국 항암제 2만7천 바이알 리콜과 Sandoz의 상하이 헨리우스 바이오시밀러 권리 확보가 동시에 나타났다. 품질 결함 대응과 저가·확장형 포트폴리오 투자가 글로벌 공급 전략의 양면을 이룬다.",
+      "summary_en": "A US chemotherapy recall involving more than 27,000 vials contrasted with Sandoz licensing three biosimilars from Shanghai Henlius. Quality remediation and portfolio expansion are shaping supply strategy."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 1, "en_count": 1, "significance": "medium"},
+    {"keyword": "백신", "kr_count": 2, "en_count": 2, "significance": "medium"},
+    {"keyword": "허가", "kr_count": 1, "en_count": 8, "significance": "high"},
+    {"keyword": "임상", "kr_count": 2, "en_count": 1, "significance": "medium"}
+  ],
+  "notable_absences": ["시간 필터상 raw 323건 중 167건만 06:30–06:29 KST 윈도우에 보존됨", "analysis_ready 기준 Google News URL 잔존 여부는 별도 품질 점검 필요"],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": ["FDA 품질·허가 이슈와 항암제 리콜은 제조소 품질관리와 공급 안정성의 연결고리를 보여줌", "AI 신약개발 투자와 공공 R&D는 초기 후보물질 발굴·검증 자금의 다변화를 시사함"],
+  "generated_at": "2026-08-17T16:30:00+09:00"
+}

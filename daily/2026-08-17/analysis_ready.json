@@ -1,0 +1,703 @@
+{
+  "date": "2026-08-17",
+  "total_articles": 323,
+  "language_breakdown": {
+    "korean": {
+      "total": 148,
+      "categories": {
+        "의약품": 24,
+        "의약산업": 13,
+        "의약정책": 9,
+        "의약단체": 6,
+        "의약관련정부기관": 8,
+        "의료현장": 16,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 19,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 109,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 4,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 66,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 2,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 2,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "약가",
+      "count": 11
+    },
+    {
+      "keyword": "신약",
+      "count": 9
+    },
+    {
+      "keyword": "한약",
+      "count": 7
+    },
+    {
+      "keyword": "식약처",
+      "count": 6
+    },
+    {
+      "keyword": "R&D",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 4
+    },
+    {
+      "keyword": "위고비",
+      "count": 2
+    },
+    {
+      "keyword": "마운자로",
+      "count": 2
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "천연물",
+      "count": 2
+    },
+    {
+      "keyword": "임상",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "허가",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 11
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "한의신문",
+      "count": 56
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 13
+    },
+    {
+      "source": "뉴시스",
+      "count": 4
+    },
+    {
+      "source": "edaily.co.kr",
+      "count": 3
+    },
+    {
+      "source": "betanews.net",
+      "count": 3
+    },
+    {
+      "source": "Naver Blog",
+      "count": 3
+    },
+    {
+      "source": "전자신문",
+      "count": 3
+    },
+    {
+      "source": "매일일보",
+      "count": 3
+    },
+    {
+      "source": "헤럴드경제",
+      "count": 2
+    },
+    {
+      "source": "연합뉴스",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 25
+    },
+    {
+      "source": "pharma.economictimes.indiatimes.com",
+      "count": 5
+    },
+    {
+      "source": "simplywall.st",
+      "count": 4
+    },
+    {
+      "source": "scanx.trade",
+      "count": 4
+    },
+    {
+      "source": "TradingView",
+      "count": 3
+    },
+    {
+      "source": "PharmaDispatch",
+      "count": 2
+    },
+    {
+      "source": "BioPharma APAC",
+      "count": 2
+    },
+    {
+      "source": "Whalesbook",
+      "count": 2
+    },
+    {
+      "source": "The Economic Times",
+      "count": 2
+    },
+    {
+      "source": "Business Upturn",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 11,
+      "keywords": [
+        "pharma"
+      ],
+      "articles": [
+        {
+          "title": "Aurobindo Pharma's US Unit Gets FDA Nod to Resume Approvals - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "Aurobindo Pharma's Raleigh, North Carolina facility has received a 'Voluntary Action Indicated' (VAI) status from the US FDA, closing an inspection that had 11 observations. | This classification allows the company to pr",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 17 Aug 2026 03:36:53 GMT",
+          "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Aurobindo-Pharmas-US-Unit-Gets-FDA-Nod-to-Resume-Approvals/6a8281d56ffbe1e6461eb973"
+        },
+        {
+          "title": "Gasket Material Rings Market Growth to 2035 Driven by FDA and EU High-Purity Compliance - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Gore & Associates (Gore Sealant Technologies) | Headquarters | Newark, Delaware, USA | Expanded PTFE gaskets, ring gaskets, high-purity sealing | Gore-Tex gasket materials for chemical and pharmaceutical.",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sun, 16 Aug 2026 21:46:24 GMT",
+          "url": "https://www.indexbox.io/blog/gasket-material-rings-market-to-reach-158-index-by-2035-on-high-purity-demand-from-fda-and-eu-rules/"
+        },
+        {
+          "title": "Aurobindo Pharma’s Raleigh plant gets 'Voluntary Action Indicated' classification from US FDA - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "ETMarkets.com | US FDA has classified Aurobindo Pharma’s Raleigh plant as 'Voluntary Action Indicated' (Representative Image) | The US Food and Drug Administration (US FDA) on Monday classified | Aurobindo Pharma Limited",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 03:29:44 GMT",
+          "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/aurobindo-pharmas-raleigh-plant-gets-voluntary-action-indicated-classification-from-us-fda/articleshow/133285791.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral"
+        },
+        {
+          "title": "Drug Development Inputs & Services Stocks Q2 Recap: Benchmarking Medpace (NASDAQ:MEDP) - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Drug Development Inputs & Services Stocks Q2 Recap: Benchmarking Medpace (NASDAQ:MEDP) | Mon, August 17, 2026 at 9:37 AM GMT+9 | Drug Development Inputs & Services Stocks Q2 Recap: Benchmarking Medpace (NASDAQ:MEDP) | As",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 00:37:00 GMT",
+          "url": "https://finance.yahoo.com/healthcare/articles/drug-development-inputs-services-stocks-003700580.html"
+        },
+        {
+          "title": "Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87% - Business Upturn",
+          "source": "Business Upturn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Indian pharmaceutical stocks traded on a mixed-to-negative note on Monday, August 17, with | Ipca Laboratories emerging as the biggest gainer | Orchid Pharma, J.B. | Chemicals and Natco Pharma | witnessed sharp selling p",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 05:34:14 GMT",
+          "url": "https://businessupturn.com/finance/stock-market/pharma-sector-stocks-today-august-17-ipca-labs-jumps-6-orchid-pharma-falls-nearly-7-j-b-chemicals-down-3-87/"
+        },
+        {
+          "title": "TCS launches Agentic AI platform to transform drug development - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "TCS launches Agentic AI platform to transform drug development | TCS, Vodafone partner to drive AI-led digital transformation in UK | Updated on 13 Aug 2026, 11:47 AM | ScanX News Team | Add as a preferred",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 06:28:17 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/tcs-launches-agentic-ai-platform-transform-drug-development/48493448"
+        },
+        {
+          "title": "Weekly Recap: Berenberg cuts NOVO_B and court orders Sun Pharma approval - TradingView",
+          "source": "TradingView",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Novo Nordisk A/S Sponsored ADR Class B (OMXCOP:NOVO_B) faces investor caution as Berenberg cuts its rating and 2028 forecasts amid Eli Lilly competition, even as Novo holds treasury shares, navigates legal stakes over or",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 05:14:00 GMT",
+          "url": "https://www.tradingview.com/news/tradingview:4dd0db8f301f7:0-weekly-recap-berenberg-cuts-novo_b-and-court-orders-sun-pharma-approval/"
+        },
+        {
+          "title": "Turkey Active Pharmaceutical Ingredients - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Active Pharmaceutical Ingredients Market Forecast Points Higher Toward 2035, Driven by Chronic Disease Burden and Biologic Expansion | The global Active Pharmaceutical Ingredients (API) market stands as the foundational ",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 17 Aug 2026 03:09:38 GMT",
+          "url": "https://www.indexbox.io/store/turkey-active-pharmaceutical-ingredients-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Sun Pharma wins US Lipitor antitrust appeal, closing case - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Sun Pharma wins US Lipitor antitrust appeal, closing case | Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders | Updated on 06 Aug 2026, 11:27 PM | ScanX News Team | Add as a preferred",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 17 Aug 2026 03:17:04 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/sun-pharma-wins-us-lipitor-antitrust-appeal-closing-case/48482188"
+        },
+        {
+          "title": "Sudarshan Pharma Industries files promoter shareholding disclosure under SEBI Reg 31(2) - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Sudarshan Pharma Industries files promoter shareholding disclosure under SEBI Reg 31(2) | Sudarshan Pharma files details on proposed USFDA unit acquisition | Updated on 14 Aug 2026, 01:52 PM | ScanX News Team | Add as a ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 17 Aug 2026 03:01:55 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/sudarshan-pharma-industries-files-promoter-shareholding-disclosure/48481054"
+        },
+        {
+          "title": "Sun Pharmaceutical Industries wins antitrust litigation involving ₹2008 Lipitor settlement - Business Upturn",
+          "source": "Business Upturn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Sun Pharmaceutical Industries Limited, along with its subsidiaries, has achieved a significant legal victory in the United States with the resolution of antitrust litigation concerning a 2008 patent litigation settlement",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 17 Aug 2026 03:18:45 GMT",
+          "url": "https://businessupturn.com/business/sun-pharmaceutical-industries-wins-antitrust-litigation-involving-rs2008-lipitor-settlement/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "gist",
+        "펠레메드",
+        "창업기업",
+        "선정",
+        "신장암",
+        "edaily",
+        "전국",
+        "경기도",
+        "net",
+        "betanews"
+      ],
+      "articles": [
+        {
+          "title": "GIST 창업기업 펠레메드, 신장암 치료제 개발 ‘스케일업 팁스’ 선정 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "GIST 창업기업 펠레메드, 신장암 치료제 개발 ‘스케일업 팁스’ 선정 | 2029년 6월까지 정부 R&D 30억원 지원 | VEGFR2·YAP 동시 억제로 약물 저항성 공략 | 환자유래 오가노이드·PDX 활용 비임상 검증 | IND 승인 후 임상 1상·글로벌 기술이전 추진",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Mon, 17 Aug 2026 00:20:36 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01226726645548304&mediaCodeNo=257"
+        },
+        {
+          "title": "경기도, 가축 질병 방역 전국 최우수기관 선정 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "경기도, 가축 질병 방역 전국 최우수기관 선정 | 구글 검색 선호 출처로 추가 | 등록 2026-08-17 오후 12:12:49 | 수정 2026-08-17 오후 12:12:49 | [의정부=이데일리 정재훈 기자] 경기도 가축 질병 방역체계의 우수성을 인정 받았다.",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Mon, 17 Aug 2026 03:12:49 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01472726645548304&mediaCodeNo=257"
+        },
+        {
+          "title": "GIST 창업기업 펠레메드, 신장암 신약 개발에 정부 R&D 30억원 확보 - betanews.net",
+          "source": "betanews.net",
+          "importance": 41,
+          "stars": "⭐⭐",
+          "snippet": "▲ ㈜펠레메드 김용철 대표이사 / 지스트 제공 | 광주과학기술원(GIST) 교원창업기업 펠레메드가 서울대병원과 차세대 신장암 치료제 개발에 나선다. | GIST는 펠레메드와 서울대병원 한장희 교수팀이 추진하는 신장암 치료제 개발 과제가 과학기술정보통신부와 중소벤처기업부의 ‘2026년 투·융자 연계 기술개발 스케일업 팁스’ 정책지정형 과제로 선정됐다고 17일 밝혔다. | 이에 따라 펠레메드는 ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Mon, 17 Aug 2026 03:34:05 GMT",
+          "url": "https://www.betanews.net/article/view/beta202608170019"
+        },
+        {
+          "title": "AI·ASF·구제역 선제 차단…경기도, 가축방역 전국 ‘최우수’ - betanews.net",
+          "source": "betanews.net",
+          "importance": 41,
+          "stars": "⭐⭐",
+          "snippet": "▲경기도가 고병원성 조류인플루엔자(AI)와 아프리카돼지열병(ASF), 구제역, 럼피스킨 등 주요 가축전염병에 대한 선제적 예방정책을 추진한 성과를 인정받아 전국 지방정부 가운데 가축방역 최우수기관으로 선정됐다(경기도청 전경)./사진=경기도 | 경기도가 고병원성 조류인플루엔자(AI)와 아프리카돼지열병(ASF), 구제역, 럼피스킨 등 주요 가축전염병에 대한 예방 중심의 방역정책을 인정받아 전국 ",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Mon, 17 Aug 2026 04:19:24 GMT",
+          "url": "https://www.betanews.net/article/view/beta202608170006"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "pharmcube",
+        "com",
+        "bydrug"
+      ],
+      "articles": [
+        {
+          "title": "医药生物行业跟踪周报：AI制药订单驱动生命科学上游股价，关注金斯瑞、义翘神州等 - bydrug.pharmcube.com",
+          "source": "bydrug.pharmcube.com",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "医药生物行业跟踪周报：AI制药订单驱动生命科学上游股价，关注金斯瑞、义翘神州等 - bydrug.pharmcube.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Chinese Simplified / 중국어",
+          "time": "Mon, 17 Aug 2026 01:04:39 GMT",
+          "url": "https://bydrug.pharmcube.com/report/detail/e12b08ba742f40b59b21e9fecd38da08"
+        },
+        {
+          "title": "医药健康行业研究：CXO景气持续向上，AI助力研发提速 - bydrug.pharmcube.com",
+          "source": "bydrug.pharmcube.com",
+          "importance": 43,
+          "stars": "⭐⭐",
+          "snippet": "医药健康行业研究：CXO景气持续向上，AI助力研发提速 - bydrug.pharmcube.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Chinese Simplified / 중국어",
+          "time": "Mon, 17 Aug 2026 01:14:22 GMT",
+          "url": "https://bydrug.pharmcube.com/report/detail/6ce7606e060243a5be7f6e8775d71794"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "drugs",
+        "news"
+      ],
+      "articles": [
+        {
+          "title": "Vogenx IPO Raises $81M for Trial in Metabolic Disease With No Approved Drugs - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The public markets welcomed another biotech company this past week with the $81 million stock market debut of Vogenx, a metabolic medicines developer whose in-licensed lead drug candidate is in clinical testing for a dis",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 16 Aug 2026 22:09:21 GMT",
+          "url": "https://medcitynews.com/2026/08/vogenx-ipo-post-bariatric-hypoglycemia-pbh-mizagliflozin-metabolic-disorder-vogx/"
+        },
+        {
+          "title": "British scientists crack single-dose malaria cure as resistance to current drugs soars - GB News",
+          "source": "GB News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "You are about to be charged | First billing date | Monthly until cancelled | *Your gift has been applied | Thank you for subscribing!",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sun, 16 Aug 2026 23:05:36 GMT",
+          "url": "https://www.gbnews.com/health/malaria-treatment-drugs-scientists-single-dose-treatment"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "shilpa",
+        "pharma",
+        "recalls",
+        "medicare",
+        "drug",
+        "indiatimes",
+        "chemotherapy",
+        "vials",
+        "economictimes",
+        "recall"
+      ],
+      "articles": [
+        {
+          "title": "Shilpa Medicare recalls over 27k vials of chemotherapy drug in US - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 17, 2026 at 08:02 AM IST | 2225 Industry Professionals | Read by 2225 Industry Professionals | Shilpa Medicare",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 17 Aug 2026 02:32:43 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/pharma-industry/shilpa-medicare-recalls-over-27k-vials-of-chemotherapy-drug-in-us/133285050"
+        },
+        {
+          "title": "Shilpa Medicare recalls over 27k vials of chemotherapy drug in US - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 17, 2026 at 08:02 AM IST | 2225 Industry Professionals | Read by 2225 Industry Professionals | Shilpa Medicare",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 02:32:43 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/pharma-industry/shilpa-medicare-recalls-over-27k-vials-of-chemotherapy-drug-in-us/133285050"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "van",
+        "geneesmiddelen"
+      ],
+      "articles": [
+        {
+          "title": "Sandoz betaalt tot $ 77 mln. voor rechten op drie biosimilaire geneesmiddelen van Shanghai Henlius Biotech - Investing.com",
+          "source": "Investing.com",
+          "importance": 43,
+          "stars": "⭐⭐",
+          "snippet": "Sandoz betaalt tot $ 77 mln. | voor rechten op drie biosimilaire geneesmiddelen van Shanghai Henlius Biotech - Investing.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Mon, 17 Aug 2026 05:37:06 GMT",
+          "url": "https://nl.investing.com/news/stock-market-news/sandoz-betaalt-tot--77-mln-voor-rechten-op-drie-biosimilaire-geneesmiddelen-van-shanghai-henlius-biotech-93CH-891587"
+        },
+        {
+          "title": "Neem resolute maatregelen om de levering van geneesmiddelen en de kwaliteit van de gezondheidszorg te waarborgen. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "Volg Vietnam.vn op | Voeg Vietnam.vn toe op | - Recentelijk is er in sommige openbare ziekenhuizen een lokaal tekort aan medicijnen en | benodigdheden ontstaan ​​als gevolg van problemen bij aanbestedingen en inkoop, en ",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Mon, 17 Aug 2026 03:09:00 GMT",
+          "url": "https://www.vietnam.vn/nl/quyet-liet-thuc-hien-cac-giai-phap-bao-dam-cung-ung-thuoc-va-chat-luong-dich-vu-y-te"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "nam",
+        "cao"
+      ],
+      "articles": [
+        {
+          "title": "Công nghệ cao nâng giá trị thảo dược Việt Nam - Phụ nữ Mới",
+          "source": "Phụ nữ Mới",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Bá Thị Châm, Nghiên cứu viên chính, Trung tâm Nghiên cứu và Phát triển thuốc, Viện Hóa học, Viện Hàn lâm Khoa học và Công nghệ Việt Nam. | Các công nghệ ứng dụng trong bào chế thảo dược được nhóm nghiên cứu của TS. | Bá ",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Mon, 17 Aug 2026 00:07:00 GMT",
+          "url": "https://phunumoi.net.vn/cong-nghe-cao-nang-gia-tri-thao-duoc-viet-nam-d370309.html"
+        },
+        {
+          "title": "Người dân cần nâng cao cảnh giác trước thông tin quảng cáo thuốc đông y - Tạp chí Điện tử Luật sư Việt Nam",
+          "source": "Tạp chí Điện tử Luật sư Việt Nam",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "(LSVN) - Mới đây, Công an tỉnh Quảng Ninh đã ra cảnh báo đối với người dân về thuốc giả, thuốc không rõ nguồn gốc được mua bán trên không gian mạng. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 16 Aug 2026 23:54:00 GMT",
+          "url": "https://lsvn.vn/nguoi-dan-can-nang-cao-canh-giac-truoc-thong-tin-quang-cao-thuoc-dong-y-a177629.html"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "יישומו של אמצעים החלטיים להבטחת אספקת התרופות ואיכות שירותי הבריאות. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "עקוב אחר Vietnam.vn ב- | הוסף את Vietnam.vn ב- | לאחרונה, קיים מחסור מקומי בתרופות ובאספקה | בכמה בתי חולים ציבוריים עקב קשיים במכרזים וברכש, ושיבושים בשרשרת האספקה ​​הרפואית העולמית. | ועדת העיר האזר",
+      "url": "https://www.vietnam.vn/he/quyet-liet-thuc-hien-cac-giai-phap-bao-dam-cung-ung-thuoc-va-chat-luong-dich-vu-y-te"
+    },
+    {
+      "title": "Therapeutic Drug Monitoring in Pediatric IBD: Symptom Management Is No Longer Enough - Cleveland Clinic",
+      "source": "Cleveland Clinic",
+      "importance": 47,
+      "snippet": "A recent NASPGHAN paper highlights therapeutic drug monitoring as a key strategy to optimize biologic therapy and improve outcomes in pediatric IBD. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://consultqd.clevelandclinic.org/therapeutic-drug-monitoring-in-pediatric-ibd-symptom-management-is-no-longer-enough"
+    },
+    {
+      "title": "Neuren Pharmaceuticals (ASX:NEU) Dips as Investors Monitor Commercial and Clinical Progress - kalkine.com.au",
+      "source": "kalkine.com.au",
+      "importance": 47,
+      "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkine.com.au",
+      "url": "https://kalkine.com.au/news/healthcare/neuren-pharmaceuticals-asxneu-dips-as-investors-monitor-commercial-and-clinical-progress"
+    },
+    {
+      "title": "HIMS Stock Climbs Overnight: Oscar Health CEO Courts Hims For New Drug Marketplace - Stocktwits",
+      "source": "Stocktwits",
+      "importance": 47,
+      "snippet": "HIMS Stock Climbs Overnight: Oscar Health CEO Courts Hims For New Drug Marketplace - Stocktwits | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://stocktwits.com/news-articles/markets/equity/hims-oscar-health-ceo-new-drug-marketplace/cZo6FUSRJKL"
+    },
+    {
+      "title": "日本藥品市場規模上看千億美元 AI創新助攻高齡社會需求 - 商傳媒",
+      "source": "商傳媒",
+      "importance": 45,
+      "snippet": "Imarc Group 預估日本藥品市場規模將從 2025 年的 844 億美元成長至 2034 年的 1,049 億美元，年複合成長率達 2.45%。這波成長主要受惠於高齡化社會對慢性病藥物的需求、政府推廣學名藥與生物相似藥的政策，以及 AI 在藥物研發與個人化醫療上的應用。 | 根據研究機構 Imarc Group 的最新預測，日本藥品市場預計將在 2034 年達到 1,049 億美元的規模，",
+      "url": "https://sunmedia.tw/news/health/1786920645-%E6%97%A5%E6%9C%AC%E8%97%A5%E5%93%81%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E4%B8%8A%E7%9C%8B%E5%8D%83%E5%84%84%E7%BE%8E%E5%85%83%E3%80%80AI%E5%89%B5%E6%96%B0%E5%8A%A9%E6%94%BB%E9%AB%98%E9%BD%A1%E7%A4%BE%E6%9C%83%E9%9C%80%E6%B1%82"
+    },
+    {
+      "title": "【新製品】肌トラブルを狙い撃つ、成分命中マスク誕生‐「ダーマレーザーPRO」で桁違いの超水光・超白玉・超沈整肌へ クオリティファースト｜薬事日報ウェブサイト - t.co",
+      "source": "t.co",
+      "importance": 43,
+      "snippet": "【新製品】肌トラブルを狙い撃つ、成分命中マスク誕生‐「ダーマレーザーPRO」で桁違いの超水光・超白玉・超沈整肌へ　クオリティファースト | 2026年08月17日 (月) | クオリティファースト（本社：東京都中央区）は、大人気スキンケアブランド「ダーマレーザー」より、ブランド史上最高峰の技術を結集した次世代ライン「ダーマレーザーPRO」シリーズ（全3種・各7枚入・税込990円）を9月24日より全",
+      "url": "https://t.co/rhpf1e2lJU"
+    },
+    {
+      "title": "กรมการแพทย์แผนไทยฯ เปิดศูนย์ฯ เขตสุขภาพที่ 11 \"ชุมพร\" ยกระดับภูมิปัญญาไทยดูแล 7 จังหวัดภาคใต้ตอนบน - สำนัก สารนิเทศ",
+      "source": "สำนัก สารนิเทศ",
+      "importance": 43,
+      "snippet": "กรมการแพทย์แผนไทยฯ เปิดศูนย์ฯ เขตสุขภาพที่ 11 \"ชุมพร\" ยกระดับภูมิปัญญาไทยดูแล 7 จังหวัดภาคใต้ตอนบน - สำนัก สารนิเทศ | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://pr.moph.go.th/online/index/news/346385"
+    },
+    {
+      "title": "2026년 한국 노인 돌봄 제도 개편, 이민자·재외 한인 고령층까지 수혜 확대 - newsyonhap.com",
+      "source": "newsyonhap.com",
+      "importance": 42,
+      "snippet": "2026년 한국 노인 돌봄 제도 개편, 이민자·재외 한인 고령층까지 수혜 확대 - newsyonhap.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://newsyonhap.com/news/119955"
+    },
+    {
+      "title": "Dimerix takes control of US development pathway for new kidney injury treatment - PharmaDispatch",
+      "source": "PharmaDispatch",
+      "importance": 42,
+      "snippet": "Dimerix takes control of US development pathway for new kidney injury treatment | August 17, 2026 | Australian Biotech | This is a preview of subscriber content | Subscribe now to continue reading.",
+      "url": "https://pharmadispatch.com/news/dimerix-takes-control-of-us-development-pathway-for-new-kidney-injury-treatment"
+    },
+    {
+      "title": "Sandoz Expands Its Generic Drug Business - bluewin.ch",
+      "source": "bluewin.ch",
+      "importance": 42,
+      "snippet": "The deal covers the development and commercialization of up to ten so-called biosimilars. | The agreement provides for payments totaling up to $322 million, contingent on the achievement of certain de",
+      "url": "https://www.bluewin.ch/en/news/sandoz-expands-its-generic-drug-business-li.3565663"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 1,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}
