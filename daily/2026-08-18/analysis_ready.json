@@ -1,0 +1,727 @@
+{
+  "date": "2026-08-18",
+  "total_articles": 437,
+  "language_breakdown": {
+    "korean": {
+      "total": 218,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 25,
+        "의약관련정부기관": 21,
+        "의료현장": 25,
+        "약국·약사": 16,
+        "의료정책·인력": 25,
+        "전통의학": 13,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 127,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 92,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 8,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 7,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 17
+    },
+    {
+      "keyword": "비만",
+      "count": 16
+    },
+    {
+      "keyword": "임상",
+      "count": 12
+    },
+    {
+      "keyword": "식약처",
+      "count": 9
+    },
+    {
+      "keyword": "약가",
+      "count": 8
+    },
+    {
+      "keyword": "한약",
+      "count": 8
+    },
+    {
+      "keyword": "GMP",
+      "count": 7
+    },
+    {
+      "keyword": "수출",
+      "count": 7
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "급여",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "실사",
+      "count": 1
+    },
+    {
+      "keyword": "심사",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 15
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "regulation",
+      "count": 4
+    },
+    {
+      "keyword": "obesity",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "한의신문",
+      "count": 36
+    },
+    {
+      "source": "네이트",
+      "count": 11
+    },
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "의학신문",
+      "count": 5
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 5
+    },
+    {
+      "source": "PRESS9",
+      "count": 4
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 4
+    },
+    {
+      "source": "바이오북미디어",
+      "count": 4
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 4
+    },
+    {
+      "source": "히트뉴스",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "MarketBeat",
+      "count": 6
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 5
+    },
+    {
+      "source": "IndexBox",
+      "count": 5
+    },
+    {
+      "source": "scanx.trade",
+      "count": 5
+    },
+    {
+      "source": "Stock Titan",
+      "count": 4
+    },
+    {
+      "source": "openPR.com",
+      "count": 4
+    },
+    {
+      "source": "Contract Pharma",
+      "count": 3
+    },
+    {
+      "source": "pharma.economictimes.indiatimes.com",
+      "count": 3
+    },
+    {
+      "source": "National Taxpayers Union",
+      "count": 3
+    },
+    {
+      "source": "benefitsandpensionsmonitor.com",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "FDA·제약 제조·허가 리스크",
+    "한국 항암 신약개발과 공공 R&D",
+    "AI 기반 제약 R&D·CXO 성장 기대",
+    "임상자금·신규 치료제 탐색",
+    "품질·공급망과 바이오시밀러 확장"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 18,
+      "keywords": [
+        "drug",
+        "com"
+      ],
+      "articles": [
+        {
+          "title": "China's booster shot for drug innovation - chinadaily.com.cn",
+          "source": "chinadaily.com.cn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Robust regulatory reforms, greater investment and growing talent pool propel global biotech ascent. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 17 Aug 2026 23:33:08 GMT",
+          "url": "https://www.chinadaily.com.cn/a/202608/18/WS6a839a3da3106bc57421bfa6.html"
+        },
+        {
+          "title": "JW Pharmaceutical files phase 3 IND for biweekly obesity drug bofanglutide - koreabiomed.com",
+          "source": "koreabiomed.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "JW Pharmaceutical said Tuesday that it has submitted an investigational new drug (IND) application to the Ministry of Food and Drug Safety (MFDS) for a phase 3 clinical trial of bofanglutide, its investigational obesity ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 18 Aug 2026 04:31:35 GMT",
+          "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32816"
+        },
+        {
+          "title": "Africa 3D Printed Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Exploring the World's Leading Import Markets for Medicaments Containing Hormones | Discover the top import markets for medicaments containing hormones, including Belgium, Denmark, United States, and more. | Learn about t",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 18 Aug 2026 03:40:35 GMT",
+          "url": "https://www.indexbox.io/store/africa-3d-printed-drugs-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "TCS launches Agentic AI platform for drug development - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 18, 2026 at 11:54 AM IST | 3621 Industry Professionals | Read by 3621 Industry Professionals | Mumbai: IT major, Tata Consultancy Service",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 02:13:23 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/pharmatech/tcs-launches-agentic-ai-platform-for-drug-development/133309543"
+        },
+        {
+          "title": "Penny-Stock Crackdown and Drug Price Cuts Put Korean Pharma Firms on Notice - Koreabizwire",
+          "source": "Koreabizwire",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Bio & Health | Penny-Stock Crackdown and Drug Price Cuts Put Korean Pharma Firms on Notice | Pharmaceutical products sold at a pharmacy (Yonhap) | 18 (Korea Bizwire) — | South Korea’s smaller pharmaceutical and biotechno",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 02:23:33 GMT",
+          "url": "http://koreabizwire.com/penny-stock-crackdown-and-drug-price-cuts-put-korean-pharma-firms-on-notice/357423"
+        },
+        {
+          "title": "Big pharma warns Germany’s attempts to curb drug prices will backfire - Financial Times",
+          "source": "Financial Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Security Verification | For help please visit | apologise for any inconvenience. | The following information can help our support team to resolve this issue. | a2cee85f988d640b",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 04:00:42 GMT",
+          "url": "https://www.ft.com/content/8891d59f-f4e0-4f81-bfae-b686cd1c4d98?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Tyvek Desiccant Sachets Market to Reach Index 192 by 2035 on Biologic Drug Manufacturing Scale-Up - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Multisorb Technologies | Headquarters | Buffalo, New York, USA | Desiccant sachets and active packaging solutions | Global leader",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 00:21:22 GMT",
+          "url": "https://www.indexbox.io/blog/tyvek-desiccant-sachets-market-to-reach-index-192-by-2035-on-biologic-drug-manufacturing-scale-up/"
+        },
+        {
+          "title": "Germany drugmakers warn price curbs threaten pharma investment - Traders Union",
+          "source": "Traders Union",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Germany’s push to cut statutory health insurance costs is drawing a sharp backlash from pharmaceutical companies that say the measures risk weakening one of the country’s strongest export industries. | The dispute comes ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 05:26:20 GMT",
+          "url": "https://tradersunion.com/news/financial-news/show/3017376-germany-drugmakers-warn-price-curbs/"
+        },
+        {
+          "title": "Increased PBM Transparency Can Reduce Drug Costs, Avoid Price Controls - National Taxpayers Union",
+          "source": "National Taxpayers Union",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "August 17, 2026 | Senate Finance Committee Minority Staff | Submitted to | drugs@finance.senate.gov | Re: Request for Information: Commonsense Policy Options to Lower Drug Prices for Patients",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 18 Aug 2026 02:33:34 GMT",
+          "url": "https://www.ntu.org/publications/detail/increased-pbm-transparency-can-reduce-drug-costs-avoid-price-controls"
+        },
+        {
+          "title": "TRADEMARK—4th Cir.: Gilead Sciences secures affirmance of injunction blocking foreign-market Biktarvy drug imports - VitalLaw.com",
+          "source": "VitalLaw.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "TRADEMARK—4th Cir.: Gilead Sciences secures affirmance of injunction blocking foreign-market Biktarvy drug imports - VitalLaw.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 17 Aug 2026 22:06:56 GMT",
+          "url": "https://www.vitallaw.com/news/trademark-4th-cir-gilead-sciences-secures-affirmance-of-injunction-blocking-foreign-market-biktarvy-drug-imports/ipm01c22e9875e58745da8617e340f7194bb7"
+        },
+        {
+          "title": "Streamlined Regulation, Not Price Controls Will Reduce Drug Costs for Medicare - National Taxpayers Union",
+          "source": "National Taxpayers Union",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "August 17, 2026 | Centers for Medicare and Medicaid Services | Mehmet Oz, Administrator of the Centers for Medicare and Medicaid Services | Submitted on | regulations.gov",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 17 Aug 2026 23:56:49 GMT",
+          "url": "https://www.ntu.org/publications/detail/streamlined-regulation-not-price-controls-will-reduce-drug-costs-for-medicare"
+        },
+        {
+          "title": "JW Pharmaceutical files phase 3 IND for biweekly obesity drug bofanglutide - koreabiomed.com",
+          "source": "koreabiomed.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "JW Pharmaceutical said Tuesday that it has submitted an investigational new drug (IND) application to the Ministry of Food and Drug Safety (MFDS) for a phase 3 clinical trial of bofanglutide, its investigational obesity ",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 18 Aug 2026 04:31:35 GMT",
+          "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32816"
+        },
+        {
+          "title": "Prescription Drug Prices Are Finally Dropping: What It Means for You - South Florida Reporter",
+          "source": "South Florida Reporter",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Prescription Drug Prices Are Finally Dropping: What It Means for You | The Big Shift at the Pharmacy Counter | If you have picked up a prescription recently and noticed the total was slightly lower than expected, you are",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 18 Aug 2026 05:03:15 GMT",
+          "url": "https://southfloridareporter.com/prescription-drug-prices-are-finally-dropping-what-it-means-for-you/"
+        },
+        {
+          "title": "Building Resilience for the Future of Biopharma Innovation - fiercebiotech.com",
+          "source": "fiercebiotech.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Building Resilience for the Future of Biopharma Innovation - fiercebiotech.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 17 Aug 2026 23:59:50 GMT",
+          "url": "https://www.fiercebiotech.com/sponsored/building-resilience-future-biopharma-innovation"
+        },
+        {
+          "title": "Big pharma warns Germany’s attempts to curb drug prices will backfire - Financial Times",
+          "source": "Financial Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Security Verification | For help please visit | apologise for any inconvenience. | The following information can help our support team to resolve this issue. | a2cee91908cb8127",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 18 Aug 2026 04:00:42 GMT",
+          "url": "https://www.ft.com/content/8891d59f-f4e0-4f81-bfae-b686cd1c4d98?syn-25a6b1a6=1"
+        },
+        {
+          "title": "European Union Pharmaceutical Coating Equipment - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Jun 29, 2025 | European Union's Medical Sciences Instruments Market to Expand at a CAGR of 1.2% Through 2035 | The European Union's market for instruments used in medical sciences is expected to continue growing in the n",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 18 Aug 2026 03:42:37 GMT",
+          "url": "https://www.indexbox.io/store/european-union-pharmaceutical-coating-equipment-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Fengyuan Pharmaceutical changes hands to Bengbu state capital; shares hit limit-up on trading resumption - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Fengyuan Pharmaceutical changes hands to Bengbu state capital; shares hit limit-up on trading resumption | Add to Google Preferred Sources | Fengyuan Pharmaceutical's change of control has officially landed. | Bengbu Inv",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Tue, 18 Aug 2026 04:06:00 GMT",
+          "url": "https://finance.biggo.com/news/dbbb9e0a-02cd-4eff-91ba-0926bda3154f"
+        },
+        {
+          "title": "Streamlined Regulation, Not Price Controls Will Reduce Drug Costs for Medicare - National Taxpayers Union",
+          "source": "National Taxpayers Union",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "August 17, 2026 | Centers for Medicare and Medicaid Services | Mehmet Oz, Administrator of the Centers for Medicare and Medicaid Services | Submitted on | regulations.gov",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Mon, 17 Aug 2026 23:56:49 GMT",
+          "url": "https://www.ntu.org/publications/detail/streamlined-regulation-not-price-controls-will-reduce-drug-costs-for-medicare"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "com",
+        "khanews"
+      ],
+      "articles": [
+        {
+          "title": "폐동맥고혈압 필수 신약 ‘윈레브에어’ 100일 신속등재 촉구 - khanews.com",
+          "source": "khanews.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "[기자수첩] ‘소문’만 무성한 심평원, ‘답’은 하나다 | 건보공단 급여이사 ‘재재공모’? | 심평원 보수이사 ‘심사직’? | 운동할 때 분비되는 단백질로 알츠하이머병 예측 | 내과의사회, 진료범위 ‘소생활권’ 제한 정책 규탄",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Mon, 17 Aug 2026 23:08:04 GMT",
+          "url": "https://www.khanews.com/news/articleView.html?idxno=249048"
+        },
+        {
+          "title": "우리아이들의료재단, 급성 상·하기도 감염 항생제 처방률 3년 연속 ‘1등급’ - khanews.com",
+          "source": "khanews.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "[기자수첩] ‘소문’만 무성한 심평원, ‘답’은 하나다 | 건보공단 급여이사 ‘재재공모’? | 심평원 보수이사 ‘심사직’? | 운동할 때 분비되는 단백질로 알츠하이머병 예측 | 내과의사회, 진료범위 ‘소생활권’ 제한 정책 규탄",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Mon, 17 Aug 2026 23:19:17 GMT",
+          "url": "https://www.khanews.com/news/articleView.html?idxno=249054"
+        },
+        {
+          "title": "보라매병원, ‘헬스케어 AI 융합 연구 심포지엄’ 개최 - khanews.com",
+          "source": "khanews.com",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "[기자수첩] ‘소문’만 무성한 심평원, ‘답’은 하나다 | 건보공단 급여이사 ‘재재공모’? | 심평원 보수이사 ‘심사직’? | 운동할 때 분비되는 단백질로 알츠하이머병 예측 | 내과의사회, 진료범위 ‘소생활권’ 제한 정책 규탄",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Mon, 17 Aug 2026 22:50:36 GMT",
+          "url": "https://www.khanews.com/news/articleView.html?idxno=249038"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "won",
+        "insurer",
+        "expenses",
+        "help",
+        "wants",
+        "manufacturer",
+        "drug",
+        "win",
+        "let",
+        "cancer"
+      ],
+      "articles": [
+        {
+          "title": "My health insurer wants cancer to win It won’t let a drug manufacturer help with my expenses - UnHerd",
+          "source": "UnHerd",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Controversial “copay accumulator programs” allow insurers to double-dip on patient deductibles. | Credit: Getty | Anthem Blue Cross Blue Shield | Copay Accumulator Program | Prefer us on Google",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 17 Aug 2026 23:07:22 GMT",
+          "url": "https://unherd.com/2026/08/my-health-insurer-wants-cancer-to-win/"
+        },
+        {
+          "title": "My health insurer wants cancer to win It won’t let a drug manufacturer help with my expenses - UnHerd",
+          "source": "UnHerd",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Controversial “copay accumulator programs” allow insurers to double-dip on patient deductibles. | Credit: Getty | Anthem Blue Cross Blue Shield | Copay Accumulator Program | Prefer us on Google",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 17 Aug 2026 23:07:22 GMT",
+          "url": "https://unherd.com/2026/08/my-health-insurer-wants-cancer-to-win/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "autoinjector",
+        "approval",
+        "fda",
+        "secures",
+        "yesintek",
+        "FDA",
+        "biocon"
+      ],
+      "articles": [
+        {
+          "title": "Biocon Secures U.S. FDA Approval For Yesintek Single-Dose Prefilled Autoinjector - Sahi",
+          "source": "Sahi",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Biocon Secures U.S. | FDA Approval For Yesintek Single-Dose Prefilled Autoinjector | Biocon receives supplemental U.S. | FDA approval for its Yesintek prefilled autoinjector in 45 mg and 90 mg presentations. | Originally",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 18 Aug 2026 04:36:32 GMT",
+          "url": "https://www.sahi.com/news/biocon-secures-u-s-fda-approval-for-yesintek-single-dose-prefilled-autoinjector-3034-PE1_COR"
+        },
+        {
+          "title": "Biocon secures U.S. FDA approval for Yesintek autoinjector - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Biocon secures U.S. | FDA approval for Yesintek autoinjector | Biocon AGM: Dividend passes, but ESOP plan faces institutional dissent | Updated on 08 Aug 2026, 10:02 PM | ScanX News Team",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 18 Aug 2026 03:23:04 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/biocon-secures-u-s-fda-approval-yesintek-autoinjector/48568780"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "에버그리닝",
+        "승부수",
+        "거는",
+        "바이오팜",
+        "확보에",
+        "이유",
+        "목숨",
+        "edaily"
+      ],
+      "articles": [
+        {
+          "title": "SK바이오팜, IP 확보에 목숨 거는 이유...에버그리닝 승부수 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "SK바이오팜, IP 확보에 목숨 거는 이유...에버그리닝 승부수 | 구글 검색 선호 출처로 추가 | 등록 2026-08-18 오전 8:21:02 | 수정 2026-08-18 오전 8:21:02 | 이 기사는 2026년8월11일 8시20분에",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Mon, 17 Aug 2026 23:21:02 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02653526645548632&mediaCodeNo=257"
+        },
+        {
+          "title": "SK바이오팜, IP 확보에 목숨 거는 이유...에버그리닝 승부수 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "SK바이오팜, IP 확보에 목숨 거는 이유...에버그리닝 승부수 | 구글 검색 선호 출처로 추가 | 등록 2026-08-18 오전 8:21:02 | 수정 2026-08-18 오전 8:21:02 | 이 기사는 2026년8월11일 8시20분에",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Mon, 17 Aug 2026 23:21:02 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02653526645548632&mediaCodeNo=257"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "신약",
+        "신약개발"
+      ],
+      "articles": [
+        {
+          "title": "신테카바이오, AI 신약개발 영역 항체 설계로 확대…글로벌 사업 확대 추진 - PRESS9",
+          "source": "PRESS9",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "파마리서치, 상반기 매출 3248억원…역대 최대 실적 달성 | 포스코홀딩스, 아르헨티나 리튬 인센티브 승인 | 현대바이오, ‘페니트리움’ 전립선암 1상 첫 투약…호르몬 치료제 약효 복원 확인 | HLB 베리스모, 혈액암 CAR-T 임상 용량 더 높인다…효능 검증 극대화 | LG전자, 14년 끌어온 美 스마트폰 특허분쟁 끝냈다",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 18 Aug 2026 00:16:01 GMT",
+          "url": "http://www.press9.kr/news/articleView.html?idxno=81190"
+        },
+        {
+          "title": "[신약개발] JW중외제약, ‘2주 1회’ 비만신약 개발 속도…보팡글루타이드 임상 3상 신청 - 코리아포스트 한글판",
+          "source": "코리아포스트 한글판",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[코리아포스트 한글판 김정미 기자] JW중외제약이 2주에 한 번 투여하는 비만 치료 신약 개발에 속도를 낸다. | 주 1회 투여가 일반적인 GLP-1 계열 치료제와 비교해 투약 횟수를 절반으로 줄이는 전략으로, 빠르게 성장하는 비만 치료제 시장에서 투약 편의성을 경쟁력으로 내세운다는 구상이다. | JW중외제약은 비만 치료 신약후보물질 ‘보팡글루타이드(Bofanglutide)’의 임상 3상 시",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Mon, 17 Aug 2026 23:17:24 GMT",
+          "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=88314"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Risanare il mercato della fitoterapia per tutelare il valore della medicina tradizionale. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 60,
+      "snippet": "Segui Vietnam.vn su | Aggiungi Vietnam.vn su | In un documento inviato ai Comitati popolari di province e città il 10 agosto, il viceministro | della Salute | Vu Manh Ha ha richiesto un rafforzamento ",
+      "url": "https://www.vietnam.vn/it/lam-sach-thi-truong-duoc-lieu-de-bao-ve-gia-tri-y-hoc-co-truyen"
+    },
+    {
+      "title": "Celltrion achève l'intégration du laboratoire français Gifrer - Agence de presse Yonhap",
+      "source": "Agence de presse Yonhap",
+      "importance": 55,
+      "snippet": "Entreprise pharmaceutique sud-coréenne Celltrion | (Photo fournie par Yonhap TV. | Revente et archivage interdits) | SEOUL, 18 août (Yonhap) -- Le groupe pharmaceutique sud-coréen Celltrion a annoncé ",
+      "url": "https://fr.yna.co.kr/view/AFR20260818001400884"
+    },
+    {
+      "title": "تعزز فيتنام والمكسيك التعاون الشامل في مجال الطب التقليدي والوخز بالإبر. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "أضف Vietnam.vn على | في 17 أغسطس، التقى نائب وزير | الدائم، فو مان ها، وعمل مع الأمين العام لحزب العمل المكسيكي، ألبرتو أنايا غوتيريز. | على مدى السنوات العشرين الماضية، حقق التعاون | بين فيتنام والمك",
+      "url": "https://www.vietnam.vn/ar/viet-nam-mexico-thuc-day-hop-tac-toan-dien-ve-y-hoc-co-truyen-va-cham-cuu"
+    },
+    {
+      "title": "וייטנאם ומקסיקו מקדמות שיתוף פעולה מקיף ברפואה מסורתית ובדיקור סיני. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "עקוב אחר Vietnam.vn ב- | הוסף את Vietnam.vn ב- | ב-17 באוגוסט, סגן שר | הקבוע, וו מאן הא, נפגש ועבד עם המזכיר הכללי של מפלגת העבודה המקסיקנית, אלברטו אניה גוטיירז. | במהלך 20 השנים האחרונות, שיתוף הפע",
+      "url": "https://www.vietnam.vn/he/viet-nam-mexico-thuc-day-hop-tac-toan-dien-ve-y-hoc-co-truyen-va-cham-cuu"
+    },
+    {
+      "title": "Le Vietnam et le Mexique promeuvent une coopération globale dans le domaine de la médecine traditionnelle et de l'acupuncture. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Follow Vietnam.vn on | Ajouter Vietnam.vn sur | Le 17 août, le vice-ministre permanent | , Vu Manh Ha, a rencontré et travaillé avec le secrétaire général du Parti travailliste mexicain, Alberto Anaya",
+      "url": "https://www.vietnam.vn/fr/viet-nam-mexico-thuc-day-hop-tac-toan-dien-ve-y-hoc-co-truyen-va-cham-cuu"
+    },
+    {
+      "title": "国联安投资点睛：AI制药打开想象空间，医药高景气确认 - QQ News",
+      "source": "QQ News",
+      "importance": 50,
+      "snippet": "国联安投资点睛：AI制药打开想象空间，医药高景气确认 | 2026-08-18 11:22 | AI制药湿实验订单加速兑现，哪些环节率先受益？ | 上周，医药板块整体表现平稳，但内部出现明显分化： | 相关板块延续强势，多只个股单周涨幅超20%。（2）零售药店板块上半周表现突出。（3）部分医药老牌标的受益于单季度业绩改善，股价持续大幅上行，市场行业情绪较为亢奋。（4）创新药白马板块则相对承压。",
+      "url": "https://news.qq.com/rain/a/20260818A04JEW00"
+    },
+    {
+      "title": "Obesity drugs show early promise against the hormonal disorder PMOS, giving a suffering family hope - Daily Democrat",
+      "source": "Daily Democrat",
+      "importance": 47,
+      "snippet": "Getting your | Trinity Audio | player ready... | By LAURA UNGAR | Charlotte Touzalin was still a young teenager when she began struggling with weight gain,",
+      "url": "https://www.dailydemocrat.com/2026/08/17/pmos-obesity-drugs/"
+    },
+    {
+      "title": "CANbridge Wins Taiwan NHIA Reimbursement for Rare Disease Drug Livmarli - TipRanks",
+      "source": "TipRanks",
+      "importance": 47,
+      "snippet": "CANbridge Wins Taiwan NHIA Reimbursement for Rare Disease Drug Livmarli - TipRanks | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.tipranks.com/news/company-announcements/canbridge-wins-taiwan-nhia-reimbursement-for-rare-disease-drug-livmarli"
+    },
+    {
+      "title": "Grand Pharmaceutical Group (SEHK:512) Moved Today, What Is Behind The Attention? - simplywall.st",
+      "source": "simplywall.st",
+      "importance": 47,
+      "snippet": "Grand Pharmaceutical Group (SEHK:512) has drawn investor attention after announcing that its radionuclide drug candidate GPN01530-2 for solid tumor diagnosis has received Fast Track Designation from t",
+      "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-512/grand-pharmaceutical-group-shares/news/grand-pharmaceutical-group-sehk512-moved-today-what-is-behin"
+    },
+    {
+      "title": "【アルケア】研究者3氏へ「アルケア技術・研究助成」贈呈｜薬事日報ウェブサイト - t.co",
+      "source": "t.co",
+      "importance": 45,
+      "snippet": "【アルケア】研究者3氏へ「アルケア技術・研究助成」贈呈 | 2026年08月18日 (火) | アルケア技術・研究助成に採択された、左から宮﨑氏、星野氏、畑氏 | アルケアは8月17日、7月に高松市で開かれた第35回日本損傷・オストミー・失禁管理学会学術集会中の会員総会で、同学会が設置している「アルケア技術・研究助成」の選定が行われ、3人の採択者に目録や助成が贈呈されたと発表した。 | 同社は20",
+      "url": "https://t.co/NdtkTXGFbq"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 8
+    }
+  ]
+}
