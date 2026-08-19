@@ -1,0 +1,636 @@
+{
+  "date": "2026-08-19",
+  "total_articles": 435,
+  "language_breakdown": {
+    "korean": {
+      "total": 214,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 20,
+        "의약단체": 19,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 12,
+        "의료정책·인력": 25,
+        "전통의학": 13,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 92,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 2,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 8,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 2,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 30
+    },
+    {
+      "keyword": "식약처",
+      "count": 16
+    },
+    {
+      "keyword": "비만",
+      "count": 12
+    },
+    {
+      "keyword": "임상",
+      "count": 11
+    },
+    {
+      "keyword": "R&D",
+      "count": 11
+    },
+    {
+      "keyword": "급여",
+      "count": 7
+    },
+    {
+      "keyword": "FDA",
+      "count": 7
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "제네릭",
+      "count": 6
+    },
+    {
+      "keyword": "약가",
+      "count": 6
+    },
+    {
+      "keyword": "한약",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "GMP",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "특허",
+      "count": 4
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 28
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "obesity",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "inspection",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "한의신문",
+      "count": 16
+    },
+    {
+      "source": "데일리팜",
+      "count": 10
+    },
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "히트뉴스",
+      "count": 7
+    },
+    {
+      "source": "의학신문",
+      "count": 6
+    },
+    {
+      "source": "팜뉴스",
+      "count": 6
+    },
+    {
+      "source": "hitnews.co.kr",
+      "count": 5
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 5
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 5
+    },
+    {
+      "source": "청년의사",
+      "count": 5
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 7
+    },
+    {
+      "source": "openPR.com",
+      "count": 4
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 4
+    },
+    {
+      "source": "BioSpace",
+      "count": 3
+    },
+    {
+      "source": "Stock Titan",
+      "count": 3
+    },
+    {
+      "source": "TradingView",
+      "count": 3
+    },
+    {
+      "source": "RAPS",
+      "count": 3
+    },
+    {
+      "source": "EIN News",
+      "count": 2
+    },
+    {
+      "source": "Frontline Magazine",
+      "count": 2
+    },
+    {
+      "source": "조선일보",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "신약개발·비만치료제·의약산업 동향",
+    "필수 신약 등재·병원 감염관리·의료 AI",
+    "암 치료비 지원과 보험자·제약사 역할",
+    "Biocon Yesintek 오토인젝터 FDA 승인",
+    "SK바이오팜의 지식재산권·에버그리닝 전략"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 9,
+      "keywords": [
+        "FDA",
+        "fda",
+        "drug",
+        "after",
+        "승인"
+      ],
+      "articles": [
+        {
+          "title": "FDA-Approved Drug Shows Promise for Reversing Osteoarthritis Damage - SciTechDaily",
+          "source": "SciTechDaily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "An epilepsy drug may have an unexpected second use in osteoarthritis, where researchers found it could help shift damaged cartilage back toward repair. | Credit: Shutterstock | Researchers at Yale have identified lacosam",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 18 Aug 2026 23:43:51 GMT",
+          "url": "https://scitechdaily.com/fda-approved-drug-shows-promise-for-reversing-osteoarthritis-damage/"
+        },
+        {
+          "title": "VNDA Stock Rallies After-Hours As FDA Approves Schizophrenia, Bipolar Disorder Drug - Stocktwits",
+          "source": "Stocktwits",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "VNDA Stock Rallies After-Hours As FDA Approves Schizophrenia, Bipolar Disorder Drug - Stocktwits | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 18 Aug 2026 21:49:58 GMT",
+          "url": "https://stocktwits.com/news-articles/markets/equity/vnda-stock-rallies-after-hours-as-fda-approves-schizophrenia-bipolar-disorder-drug/cZRNm0xR4xD"
+        },
+        {
+          "title": "Andros Pharmaceuticals' NT$192 Million Rights Issue Approved to Accelerate Phase IIb Trial of Osteoarthritis Drug - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Andros Pharmaceuticals' NT$192 Million Rights Issue Approved to Accelerate Phase IIb Trial of Osteoarthritis Drug | Add to Google Preferred Sources | Taiwan emerging-stock drug developer Andros Pharmaceuticals has receiv",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 19 Aug 2026 01:06:00 GMT",
+          "url": "https://finance.biggo.com/news/2501e3ff-dadf-4bb4-92ee-e3aa296a2b16"
+        },
+        {
+          "title": "Samyang Biopharm Goes Independent After Four Years Under Holding Company, Bets on SENS Platform for New Drug Breakthrough - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Samyang Biopharm Goes Independent After Four Years Under Holding Company, Bets on SENS Platform for New Drug Breakthrough | Add to Google Preferred Sources | South Korea's Samyang Biopharm, spun off from Samyang Group th",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 18 Aug 2026 22:26:00 GMT",
+          "url": "https://finance.biggo.com/news/8d21c6c7-e733-4922-9cc2-3c6262f29196"
+        },
+        {
+          "title": "Lotte India clarifies choco pie recall after Durg FDA action - The Times of India",
+          "source": "The Times of India",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Lotte India says no ban on Choco Pie; Durg FDA action concerns batch NM10DC2 (Apr 10, 2026). | Company recalls batch; tests find preservative levels within limits. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 19 Aug 2026 04:14:00 GMT",
+          "url": "https://timesofindia.indiatimes.com/city/chennai/lotte-india-clarifies-choco-pie-recall-after-durg-fda-action/articleshow/133328079.cms"
+        },
+        {
+          "title": "\"신개념 ASO 의약품 비임상시험과 FDA 승인 사례 탐구\" - 히트뉴스",
+          "source": "히트뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "생명연구조합과 국가독성과학연 | 한국생명기술연구조합과 국가독성과학연구소는 신약개발 비임시험 가이드라인 개발과 관련한 자문회의를 개최했다. | 사진=한국생명기술연구조합. | 한국생명기술연구조합(이사장 박미영)과 국가독성과학연구소(소장 허정두)는 12일 한국과학기술회관에서 ASO와 ACO 의약품의 비임상시험 및 FDA 승인사례 전문가 자문회의​를 개최했다고 19일 밝혔다. | 올리고뉴클레오타이드",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 19 Aug 2026 02:45:40 GMT",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78484"
+        },
+        {
+          "title": "\"신개념 ASO 의약품 비임상시험과 FDA 승인 사례 탐구\" - 히트뉴스",
+          "source": "히트뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "생명연구조합과 국가독성과학연 | 한국생명기술연구조합과 국가독성과학연구소는 신약개발 비임시험 가이드라인 개발과 관련한 자문회의를 개최했다. | 사진=한국생명기술연구조합. | 한국생명기술연구조합(이사장 박미영)과 국가독성과학연구소(소장 허정두)는 12일 한국과학기술회관에서 ASO와 ACO 의약품의 비임상시험 및 FDA 승인사례 전문가 자문회의​를 개최했다고 19일 밝혔다. | 올리고뉴클레오타이드",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 19 Aug 2026 02:45:40 GMT",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78484"
+        },
+        {
+          "title": "이어폰이 보청기로…갤럭시 버즈 FDA 승인 - 팜뉴스",
+          "source": "팜뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[팜뉴스=우정민 기자] 전 세계 난청 인구가 급증하는 가운데 대중적인 무선 이어폰에 탑재된 소프트웨어가 개인 의료기기 역할을 규제 기관으로부터 공인받는 사례가 추가됐다. | 삼성전자는 자체 개발한 갤럭시 버즈의 보청기 기능이 미국 식품의약국(FDA)의 일반 판매용(OTC) 보청기 승인을 획득했다고 11일 공식 발표했다. | 이번 FDA 승인은 미국 정부가 지난 2022년 10월 경도에서 중등",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 19 Aug 2026 01:24:10 GMT",
+          "url": "https://www.pharmnews.com/news/articleView.html?idxno=305691"
+        },
+        {
+          "title": "삼성 갤럭시버즈, 보청기가 되다∙∙∙ FDA 승인으로 열리는 디지털 청각 시대 - 바이오북미디어",
+          "source": "바이오북미디어",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "삼성전자가 무선 이어폰 갤럭시버즈에 탑재될 보청기 소프트웨어 기능에 대해 미국 식품의약국(FDA)으로부터 승인을 받았다. | 이번 승인으로 18세 이상 사용자는 의사 처방이나 병원 방문 없이 갤럭시버즈만으로 경도에서 중등도 난청을 보조할 수 있게 됐다. | 삼성은 2024년 9월 에어팟 프로로 최초 승인을 받은 애플에 이어 FDA OTC(일반판매용) 보청기 소프트웨어 승인을 획득한 두 번째 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Wed, 19 Aug 2026 00:38:06 GMT",
+          "url": "https://www.biobookmedia.com/articles/6246"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "keywords": [
+        "market",
+        "drugs",
+        "forecast",
+        "insights",
+        "trends",
+        "analysis",
+        "indexbox",
+        "size",
+        "central",
+        "poland"
+      ],
+      "articles": [
+        {
+          "title": "Takeda leads wave of orexin drugs with potential to upend narcolepsy market - BioSpace",
+          "source": "BioSpace",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The FDA’s August approval of Takeda’s Orzeyful for treating the full set of narcolepsy symptoms initiated a new era in the sleep market. | Takeda’s recently | Orzeyful poses a potential threat to Jazz Pharmaceuticals’ bl",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 19 Aug 2026 04:07:30 GMT",
+          "url": "https://www.biospace.com/business/takeda-leads-wave-of-orexin-drugs-with-potential-to-upend-narcolepsy-market"
+        },
+        {
+          "title": "Poland Central Nervous System Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Novo Nordisk vs Eli Lilly: Oral Weight-Loss Drugs Intensify Market Rivalry | The article details the ongoing rivalry between Novo Nordisk and Eli Lilly in the weight-loss medication sector, highlighting newly approved or",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 19 Aug 2026 05:04:37 GMT",
+          "url": "https://www.indexbox.io/store/poland-central-nervous-system-drugs-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Saudi Arabia Senolytics Anti Aging Pharmaceuticals - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Roche and Nurix Therapeutics Announce $2.3 Billion Licensing Deal for Blood Cancer Drug Bexobrutideg | Roche and Nurix Therapeutics have signed a $2.3 billion exclusive licensing deal for bexobrutideg, an investigational",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 19 Aug 2026 05:04:37 GMT",
+          "url": "https://www.indexbox.io/store/saudi-arabia-senolytics-anti-aging-pharmaceuticals-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Poland Central Nervous System Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Novo Nordisk vs Eli Lilly: Oral Weight-Loss Drugs Intensify Market Rivalry | The article details the ongoing rivalry between Novo Nordisk and Eli Lilly in the weight-loss medication sector, highlighting newly approved or",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 19 Aug 2026 05:04:37 GMT",
+          "url": "https://www.indexbox.io/store/poland-central-nervous-system-drugs-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Thailand Antipsychotic Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Roche and Nurix Therapeutics Announce $2.3 Billion Licensing Deal for Blood Cancer Drug Bexobrutideg | Roche and Nurix Therapeutics have signed a $2.3 billion exclusive licensing deal for bexobrutideg, an investigational",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 19 Aug 2026 03:32:13 GMT",
+          "url": "https://www.indexbox.io/store/thailand-antipsychotic-drugs-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Switzerland 3D Printed Drugs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Feb 11, 2025 | Novartis Acquires Anthos Therapeutics in Major Deal | Novartis's acquisition of Anthos Therapeutics strengthens its position in the anticoagulant market, promising innovative cardiovascular solutions. | 요약",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Wed, 19 Aug 2026 03:32:13 GMT",
+          "url": "https://www.indexbox.io/store/switzerland-3d-printed-drugs-market-analysis-forecast-size-trends-and-insights/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "pharma",
+        "drugs",
+        "magazine",
+        "saving",
+        "life-saving",
+        "frontline",
+        "make",
+        "more",
+        "expensive",
+        "india"
+      ],
+      "articles": [
+        {
+          "title": "India’s New Pharma Policy Could Make Life-Saving Drugs More Expensive - Frontline Magazine",
+          "source": "Frontline Magazine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Rebuilding a politics of care | Harsh Mander’s latest book supporting public health facilities argues that inequity in access to healthcare is a moral failure, not a funding gap. | Dr Ramani Atkuri | July 28, 2026 | 요약문 ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 19 Aug 2026 05:31:33 GMT",
+          "url": "https://frontline.thehindu.com/the-nation/public-health/india-regulatory-data-protection-pharma-drug-prices-generics/article71359300.ece"
+        },
+        {
+          "title": "Why Is Nasdaq Watching Ascendis Pharma (NASDAQ:ASND) Endocrine Drugs? - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkinemedia.com",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 19 Aug 2026 04:18:00 GMT",
+          "url": "https://kalkinemedia.com/us/stocks/healthcare/why-is-nasdaq-watching-ascendis-pharma-nasdaqasnd-endocrine-drugs"
+        },
+        {
+          "title": "India’s New Pharma Policy Could Make Life-Saving Drugs More Expensive - Frontline Magazine",
+          "source": "Frontline Magazine",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Rebuilding a politics of care | Harsh Mander’s latest book supporting public health facilities argues that inequity in access to healthcare is a moral failure, not a funding gap. | Dr Ramani Atkuri | July 28, 2026 | 요약문 ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 19 Aug 2026 05:31:33 GMT",
+          "url": "https://frontline.thehindu.com/the-nation/public-health/india-regulatory-data-protection-pharma-drug-prices-generics/article71359300.ece"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "opera",
+        "vila",
+        "cibercuba",
+        "ciego",
+        "con",
+        "del"
+      ],
+      "articles": [
+        {
+          "title": "Ciego de Ávila opera con appena il 10 % dei farmaci del quadro basilare: mancano 457 medicinali - CiberCuba",
+          "source": "CiberCuba",
+          "importance": 53,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ciego de Ávila opera con appena il 10 % dei farmaci del quadro basilare: mancano 457 medicinali - CiberCuba | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Italian / 이탈리아어",
+          "time": "Tue, 18 Aug 2026 21:32:07 GMT",
+          "url": "https://it.cibercuba.com/noticias/2026-08-18-u1-e135253-s27061-nid338143-ciego-avila-opera-apenas-10-medicamentos-cuadro"
+        },
+        {
+          "title": "Ciego de Ávila opera con apenas el 10 % de los medicamentos del cuadro básico: faltan 457 fármacos - CiberCuba",
+          "source": "CiberCuba",
+          "importance": 43,
+          "stars": "⭐⭐",
+          "snippet": "Ciego de Ávila opera con apenas el 10 % de los medicamentos del cuadro básico: faltan 457 fármacos - CiberCuba | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Tue, 18 Aug 2026 21:32:07 GMT",
+          "url": "https://www.cibercuba.com/noticias/2026-08-18-u1-e135253-s27061-nid338143-ciego-avila-opera-apenas-10-medicamentos-cuadro"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "جامعة الزيتونة الأردنية تنظّم محاضرة علمية حول دراسات التكافؤ الحيوي وتطبيقاتها في صناعة الأدوية - وكالة عمون الاخبارية",
+      "source": "وكالة عمون الاخبارية",
+      "importance": 55,
+      "snippet": "عمون - ضمن فعاليات اتفاقية التعاون المبرمة بين كلية الصيدلة في جامعة الزيتونة الأردنية ومركز التكافؤ الحيوي – أكديما، وانطلاقًا من حرص الكلية على ت... | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.ammonnews.net/article/1022385"
+    },
+    {
+      "title": "희귀질환 치료제 신속등재 고민인 제약사 위해 상담회 진행 - hitnews.co.kr",
+      "source": "hitnews.co.kr",
+      "importance": 51,
+      "snippet": "심평원-공단, 24일 심평원 2사옥에서 진행 절차 등 안내 | 건강보험심사평가원(원장 홍승권, 이하 심평원)은 24일 원주 2사옥에서 희귀질환 치료제 신속등재 시범사업의 원활한 운영을 위한 제약사 대상의 상담회를 개최한다고 19일 밝혔다. | 심평원에 따르면 이번 상담회는 희귀질환 치료제의 건강보험 등재 절차를 간소화하는 신속등재 시범사업의 대상과 진행 절",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=78488"
+    },
+    {
+      "title": "'오페브' 특발성폐섬유증 급여 확대, 이번에도 어렵나",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "[데일리팜=어윤호 기자] '오페브'의 특발성폐섬유증 보험급여 확대 절차가 지지부진한 모습이다. | 한국베링거인겔하임은 지난해 5월 진행성폐섬유증(PPF, Progressive Pulmonary Fibrosis) 적응증 급여 등재 후 하반기 특발성폐섬유증(IPF, Idiopathic Pulmonary Fibrosis)에 대한 급여 확대 신청을 제출했지만 현재",
+      "url": "https://www.dailypharm.com/user/news/341534"
+    },
+    {
+      "title": "건보공단, 수가&#183;약가&#183;현지조사 총괄할 급여상임이사 공모",
+      "source": "약사공론",
+      "importance": 50,
+      "snippet": "인공지능이 자동으로 줄인 '세 줄 요약' 기술을 사용합니다. | 전체 내용을 이해하기 위해서는 기사 본문과 함께 읽어야 합니다. | 건보공단, 수가·약가·현지조사 총괄할 급여상임이사 공모 | 건강보험공단이 보험급여, 신약 등 약제 등재, 요양기관 관련 핵심 업무를 총괄할 급여상임이사를 공개 모집합니다. | 급여상임이사는 보험급여, 약제관리, 요양기관지원 등",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=540886"
+    },
+    {
+      "title": "4000亿！山东医药“十五五”蓝图来了，济南被委以重任- 山东 - 济南新闻",
+      "source": "济南新闻",
+      "importance": 50,
+      "snippet": "4000亿！山东医药“十五五”蓝图来了，济南被委以重任 - 山东 - 舜网新闻 | 4000亿！山东医药“十五五”蓝图来了，济南被委以重任 | 2026-08-19 06:28:19　来源： 济南报业全媒体 | 作者：济南日报•爱济南记者：许凯 | “十五五”时期，山东医药工业将如何布局?济南又将扮演怎样的角色?8月18日，省工业和信息化厅发布《山东省医药工业“十五五”发展行动方案(征求意见稿)》",
+      "url": "http://news.e23.cn/shandong/2026-08-19/2026081900005.html"
+    },
+    {
+      "title": "UAE approves 10 medicines in 1 year: How these rare drugs help treat patients - Khaleej Times",
+      "source": "Khaleej Times",
+      "importance": 47,
+      "snippet": "From obesity pills and cholesterol treatment to a nasal spray for severe allergies, new approvals are giving patients more choices when existing options fall short. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.khaleejtimes.com/uae/uae-medicine-approvals-2026-rare-drugs-patients"
+    },
+    {
+      "title": "‘Pharma Bro’ Martin Shkreli Slams Anthropic’s Claude Drug-Discovery Claims: ‘This Is Not Impressive Work’ - Asianet Newsable",
+      "source": "Asianet Newsable",
+      "importance": 47,
+      "snippet": "Claude-designed proteins successfully bound to 14 of 15 targets in independent testing by Adaptyv Bio and Twist Bioscience. | Claude achieved success rates of 22% to 35%, compared with the typical 10%",
+      "url": "https://newsable.asianetnews.com/markets/-pharma-bro-martin-shkreli-slams-anthropic-s-claude-drug-discovery-claims-this-is-not-impressive-work-articleshow-ikcgu3u"
+    },
+    {
+      "title": "340B Drug Payment Cuts Headline CMS Proposal to Lower Medicare Costs - The American Journal of Managed Care® (AJMC®)",
+      "source": "The American Journal of Managed Care® (AJMC®)",
+      "importance": 47,
+      "snippet": "340B Drug Payment Cuts Headline CMS Proposal to Lower Medicare Costs - The American Journal of Managed Care® (AJMC®) | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.ajmc.com/view/340b-drug-payment-cuts-headline-cms-proposal-to-lower-medicare-costs"
+    },
+    {
+      "title": "CDC won’t publish report showing COVID-19 vaccine effectiveness; former pharmacy president sentenced in $33M compounded drug kickback scheme; mRNA bird flu vaccine hits late-stage testing – Morning Medical Update - Medical Economics",
+      "source": "Medical Economics",
+      "importance": 47,
+      "snippet": "CDC won’t publish report showing COVID-19 vaccine effectiveness; former pharmacy president sentenced in $33M compounded drug kickback scheme; mRNA bird flu vaccine hits late-stage testing – Morning Me",
+      "url": "https://www.medicaleconomics.com/view/cdc-won-t-publish-report-showing-covid-19-vaccine-effectiveness-former-pharmacy-president-sentenced-in-33m-compounded-drug-kickback-scheme-mrna-bird-flu-vaccine-hits-late-stage-testing-morning-medical-update"
+    },
+    {
+      "title": "Health insurer to hold consultations with drug firms on fast-track listing for rare disease treatments - 헤럴드경제",
+      "source": "헤럴드경제",
+      "importance": 47,
+      "snippet": "The Health Insurance Review and Assessment Service will hold a consultation session for pharmaceutical companies Monday at its second building in Wonju, Gangwon | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요",
+      "url": "https://mbiz.heraldcorp.com/article/10844905"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 11,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 1
+    }
+  ]
+}
