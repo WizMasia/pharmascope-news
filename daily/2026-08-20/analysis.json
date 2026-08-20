@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-20",
+  "total_articles": 440,
+  "language_breakdown": {
+    "korean": {
+      "total": 206,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 24,
+        "의약단체": 21,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 5,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 103,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 2,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "FDA 희귀질환 유전자치료·백신의 임상 전환",
+      "domain": "global",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "Ultragenyx's gene therapy wins first FDA approval for rare metabolic disorder - reuters.com",
+          "importance": 62,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ultragenyxs-gene-therapy-rare-metabolic-disorder-secures-us-fda-nod-2026-08-19/"
+        },
+        {
+          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - reuters.com",
+          "importance": 62,
+          "url": "https://www.reuters.com/legal/litigation/merck-moderna-say-melanoma-skin-cancer-vaccine-meets-goals-large-trial-2026-08-19/"
+        },
+        {
+          "title": "As 59% fewer pharma companies cut staff in Q2 in 2026, job postings rise 15% - drugdiscoverytrends.com",
+          "importance": 47,
+          "url": "https://www.drugdiscoverytrends.com/as-59-fewer-pharma-companies-cut-staff-in-q2-in-2026-job-postings-rise-15/"
+        }
+      ],
+      "summary_kr": "Ultragenyx의 희귀 대사질환 유전자치료제 FDA 승인과 Moderna·Merck의 흑색종 백신-약물 병용 임상 성과가 함께 포착됐다. 첨단 치료제는 규제 승인과 임상 근거 축적이 동시에 진행되며, 제조·환자 선별 역량이 상용화 속도를 좌우할 전망이다.",
+      "summary_en": "Ultragenyx의 희귀 대사질환 유전자치료제 FDA 승인과 Moderna·Merck의 흑색종 백신-약물 병용 임상 성과가 함께 포착됐다. 첨단 치료제는 규제 승인과 임상 근거 축적이 동시에 진행되며, 제조·환자 선별 역량이 상용화 속도를 좌우할 전망이다."
+    },
+    {
+      "topic": "GCC 의약품 제조 확대와 지역 생산기지 경쟁",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East",
+          "importance": 47,
+          "url": "https://fastcompanyme.com/news/gcc-expands-pharmaceutical-manufacturing-as-market-surpasses-30-billion/"
+        },
+        {
+          "title": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East",
+          "importance": 42,
+          "url": "https://fastcompanyme.com/news/gcc-expands-pharmaceutical-manufacturing-as-market-surpasses-30-billion/"
+        }
+      ],
+      "summary_kr": "GCC 의약품 시장이 300억 달러를 넘어서고 제조 역량 확대가 진행 중이다. 중동의 현지 생산·바이오 투자 확대는 공급망 다변화와 지역별 CDMO·기술이전 경쟁을 강화할 수 있다.",
+      "summary_en": "GCC 의약품 시장이 300억 달러를 넘어서고 제조 역량 확대가 진행 중이다. 중동의 현지 생산·바이오 투자 확대는 공급망 다변화와 지역별 CDMO·기술이전 경쟁을 강화할 수 있다."
+    },
+    {
+      "topic": "글로벌 제약·바이오 실적 회복과 R&D·라이선싱",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Nasdaq Biotechnology Index Posts Largest Gain in Six Years as Global Pharmaceutical Sector Improves - Moomoo",
+          "importance": 47,
+          "url": "https://www.moomoo.com/news/post/74956887/nasdaq-biotechnology-index-posts-largest-gain-in-six-years-as"
+        },
+        {
+          "title": "CSPC Pharmaceutical Group: Revenue and profit soared on finished drug sales and licensing, with strong R&D and global deals - TradingView",
+          "importance": 47,
+          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3683215:0-cspc-pharmaceutical-group-revenue-and-profit-soared-on-finished-drug-sales-and-licensing-with-strong-r-d-and-global-deals/"
+        }
+      ],
+      "summary_kr": "글로벌 제약·바이오 지수 상승과 CSPC의 매출·이익 및 라이선싱 성장이 함께 나타났다. 자본시장 회복이 연구개발과 기술거래를 지지할 수 있지만, 실적의 질은 일회성 라이선스 수익과 지속적 제품 매출을 구분해 봐야 한다.",
+      "summary_en": "글로벌 제약·바이오 지수 상승과 CSPC의 매출·이익 및 라이선싱 성장이 함께 나타났다. 자본시장 회복이 연구개발과 기술거래를 지지할 수 있지만, 실적의 질은 일회성 라이선스 수익과 지속적 제품 매출을 구분해 봐야 한다."
+    },
+    {
+      "topic": "미국 처방약 가격 하락과 정책 효과 논쟁",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Drug prices have declined sharply, and Trump is taking credit. The reason behind the drop is complex - NewsNation",
+          "importance": 47,
+          "url": "https://www.newsnationnow.com/politics/ap-politics/ap-drug-prices-have-declined-sharply-and-trump-is-taking-credit-the-reason-behind-the-drop-is-complex/"
+        },
+        {
+          "title": "Prescription Drug Prices Fell 3.1 Percent Over the Year, but That Number Measures Less Than You Think - medicaldaily.com",
+          "importance": 47,
+          "url": "https://www.medicaldaily.com/prescription-drug-prices-cpi-decline-what-it-measures-477553"
+        }
+      ],
+      "summary_kr": "미국 처방약 가격이 하락했다는 보도와 그 원인을 둘러싼 정책 공방이 확인됐다. 평균 가격 지표만으로 환자 부담과 접근성 개선을 단정하기 어렵기 때문에 약가 인하가 실제 보험자·환자 지출에 미치는 영향을 별도로 검증해야 한다.",
+      "summary_en": "미국 처방약 가격이 하락했다는 보도와 그 원인을 둘러싼 정책 공방이 확인됐다. 평균 가격 지표만으로 환자 부담과 접근성 개선을 단정하기 어렵기 때문에 약가 인하가 실제 보험자·환자 지출에 미치는 영향을 별도로 검증해야 한다."
+    },
+    {
+      "topic": "베트남 전통의약품 원산지 관리 강화",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Gút và thuốc Y học cổ truyền: Hiểu đúng để tránh dùng thuốc “gia truyền” không rõ nguồn gốc - AloBacsi",
+          "importance": 47,
+          "url": "https://alobacsi.com/gut-va-thuoc-y-hoc-co-truyen-hieu-dung-de-tranh-dung-thuoc-gia-truyen-khong-ro-nguon-goc.html"
+        },
+        {
+          "title": "Ngăn chặn tình trạng kinh doanh dược liệu không rõ nguồn gốc - Báo và Phát thanh, Truyền hình Lạng Sơn",
+          "importance": 42,
+          "url": "https://langsontv.vn/news/458/105029/ngan-chan-tinh-trang-kinh-doanh-duoc-lieu-khong-ro-nguon-goc"
+        }
+      ],
+      "summary_kr": "베트남에서 출처 불명 약초·전통의약품 판매와 통제가 주요 이슈로 나타났다. 전통의학의 이용 확대와 함께 원료 추적성, 광고 규제, 중금속·오염 관리가 환자 안전의 핵심 기반이 된다.",
+      "summary_en": "베트남에서 출처 불명 약초·전통의약품 판매와 통제가 주요 이슈로 나타났다. 전통의학의 이용 확대와 함께 원료 추적성, 광고 규제, 중금속·오염 관리가 환자 안전의 핵심 기반이 된다."
+    },
+    {
+      "topic": "국내 상장 제약사의 상반기 성장과 투자 지속성",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "상반기 국내 상장 제약사 매출액 15조 3626억 원··· 8.11% 증가 - 헬스코리아뉴스",
+          "importance": 42,
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350770"
+        },
+        {
+          "title": "상반기 국내 상장 제약사 매출액 15조 3626억 원··· 8.11% 증가 - 헬스케어N",
+          "importance": 42,
+          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582486"
+        }
+      ],
+      "summary_kr": "국내 상장 제약사 상반기 매출이 15조3626억원으로 8.11% 증가했다는 보도가 클러스터를 형성했다. 매출 성장과 함께 한미약품·유한양행·대웅제약 등 주요 기업의 R&D 집행과 신약 파이프라인 성과가 성장의 지속성을 가를 변수다.",
+      "summary_en": "국내 상장 제약사 상반기 매출이 15조3626억원으로 8.11% 증가했다는 보도가 클러스터를 형성했다. 매출 성장과 함께 한미약품·유한양행·대웅제약 등 주요 기업의 R&D 집행과 신약 파이프라인 성과가 성장의 지속성을 가를 변수다."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 17,
+      "en_count": 6,
+      "significance": "medium"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 6,
+      "significance": "medium"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 3,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "분석 범위 내에서 대규모 국내 허가·급여 변경 단일 이슈는 클러스터로 형성되지 않음",
+    "전통의학 관련 국내 기사는 상대적으로 적고 다국어 보도 중심"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 승인·규제와 신약 개발 연계",
+      "신경계·수면질환 치료제 경쟁과 시장 재편",
+      "의약품 접근성과 약가 정책의 긴장",
+      "의약품 공급 부족과 지역별 접근성 격차"
+    ],
+    "changes": [
+      "FDA 승인·첨단치료제 이슈가 전일 대비 유전자치료·암 백신 중심으로 구체화",
+      "국내 제약사 실적과 GCC 제조 확대가 산업 축으로 부상"
+    ]
+  },
+  "connections": [
+    "첨단 치료제 승인과 제조·환자선별 역량",
+    "약가 하락 지표와 실제 환자 접근성",
+    "전통의약품 이용과 원료 추적성·광고 규제"
+  ],
+  "generated_at": "2026-08-20T07:32:14.330716+00:00"
+}

@@ -1,0 +1,614 @@
+{
+  "date": "2026-08-20",
+  "total_articles": 440,
+  "language_breakdown": {
+    "korean": {
+      "total": 206,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 24,
+        "의약단체": 21,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 6,
+        "의료정책·인력": 25,
+        "전통의학": 5,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 103,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 2,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 32
+    },
+    {
+      "keyword": "급여",
+      "count": 18
+    },
+    {
+      "keyword": "백신",
+      "count": 17
+    },
+    {
+      "keyword": "한약",
+      "count": 8
+    },
+    {
+      "keyword": "약가",
+      "count": 6
+    },
+    {
+      "keyword": "임상",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 5
+    },
+    {
+      "keyword": "제네릭",
+      "count": 5
+    },
+    {
+      "keyword": "식약처",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 31
+    },
+    {
+      "keyword": "approval",
+      "count": 6
+    },
+    {
+      "keyword": "vaccine",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 16
+    },
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "의학신문",
+      "count": 8
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 6
+    },
+    {
+      "source": "간호사신문",
+      "count": 5
+    },
+    {
+      "source": "yakup.com",
+      "count": 5
+    },
+    {
+      "source": "v.daum.net",
+      "count": 5
+    },
+    {
+      "source": "news1.kr",
+      "count": 4
+    },
+    {
+      "source": "더바이오",
+      "count": 4
+    },
+    {
+      "source": "약사공론",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 6
+    },
+    {
+      "source": "reuters.com",
+      "count": 5
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 4
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 3
+    },
+    {
+      "source": "IndexBox",
+      "count": 3
+    },
+    {
+      "source": "The Manila Times",
+      "count": 2
+    },
+    {
+      "source": "PharmTech.com",
+      "count": 2
+    },
+    {
+      "source": "streamlinefeed.co.ke",
+      "count": 2
+    },
+    {
+      "source": "pharmaphorum",
+      "count": 2
+    },
+    {
+      "source": "Medical Xpress",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "FDA 승인·규제와 신약 개발 연계",
+    "신경계·수면질환 치료제 경쟁과 시장 재편",
+    "의약품 접근성과 약가 정책의 긴장",
+    "의약품 공급 부족과 지역별 접근성 격차"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "keywords": [
+        "com",
+        "fda",
+        "FDA",
+        "gene",
+        "wins",
+        "therapy",
+        "approval",
+        "rare",
+        "ultragenyx",
+        "metabolic"
+      ],
+      "articles": [
+        {
+          "title": "Ultragenyx's gene therapy wins first FDA approval for rare metabolic disorder - reuters.com",
+          "source": "reuters.com",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 19 Aug 2026 22:36:00 GMT",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ultragenyxs-gene-therapy-rare-metabolic-disorder-secures-us-fda-nod-2026-08-19/"
+        },
+        {
+          "title": "Moderna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope - reuters.com",
+          "source": "reuters.com",
+          "importance": 62,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 19 Aug 2026 23:03:10 GMT",
+          "url": "https://www.reuters.com/legal/litigation/merck-moderna-say-melanoma-skin-cancer-vaccine-meets-goals-large-trial-2026-08-19/"
+        },
+        {
+          "title": "As 59% fewer pharma companies cut staff in Q2 in 2026, job postings rise 15% - drugdiscoverytrends.com",
+          "source": "drugdiscoverytrends.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[Andrii Yalanskyi/Adobe Stock] | 2022 was a big year for layoffs in biopharma. | So were the next three. | Novartis, for instance, | outlined plans to cut up to 8,000 jobs in 2022",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 05:19:45 GMT",
+          "url": "https://www.drugdiscoverytrends.com/as-59-fewer-pharma-companies-cut-staff-in-q2-in-2026-job-postings-rise-15/"
+        },
+        {
+          "title": "Ultragenyx's gene therapy wins first FDA approval for rare metabolic disorder - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Updated On Aug 20, 2026 at 06:46 AM IST | Pharmaceutical said on Wednesday that its | gene therapy | became the first to receive the U.S. | Food and Drug Administration's approval to treat a",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 01:16:55 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/drug-approvals-and-launches/ultragenyxs-gene-therapy-wins-first-fda-approval-for-rare-metabolic-disorder/133361481"
+        },
+        {
+          "title": "Moderna Soars as Vaccine-Drug Combo Slows Recurrence of Melanoma - The Daily Upside",
+          "source": "The Daily Upside",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "It has been roughly 18 years since a stock on the S&P 500 more than doubled in a single day. | Reset the clock to zero. | Shares in Moderna surged, | 176.97% on Wednesday after the biotech company and partner Merck | an ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 04:05:53 GMT",
+          "url": "https://www.thedailyupside.com/industries/healthcare/moderna-merck-say-combo-vaccine-drug-treatment-slows-skin-cancer-sending-shares-through-the-roof/"
+        },
+        {
+          "title": "Ultragenyx’s gene therapy wins first FDA approval for rare metabolic disorder - WTVB",
+          "source": "WTVB",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "403 Forbidden | Request forbidden by administrative rules. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 19 Aug 2026 23:24:02 GMT",
+          "url": "https://wtvbam.com/2026/08/19/ultragenyxs-gene-therapy-for-rare-metabolic-disorder-secures-us-fda-nod/"
+        },
+        {
+          "title": "FDA De Novo For Aletta Creates New Regulatory Category For Robotic Phlebotomy - insights.citeline.com",
+          "source": "insights.citeline.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The US Food and Drug Administration has granted De Novo authorization to a robotic device that draws blood from patients with minimal human oversight — a development the agency said may help ease a phlebotomist shortage ",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 19 Aug 2026 22:29:16 GMT",
+          "url": "https://insights.citeline.com/medtech-insight/policy-and-regulation/approvals/fda-de-novo-for-aletta-creates-new-regulatory-category-for-robotic-phlebotomy-3ZXRUSBJXNGLBIXKOYZ45ZKR4E/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "expands",
+        "billion",
+        "gcc",
+        "fast",
+        "company",
+        "market",
+        "middle",
+        "manufacturing",
+        "pharmaceutical",
+        "surpasses"
+      ],
+      "articles": [
+        {
+          "title": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East",
+          "source": "Fast Company Middle East",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The GCC pharmaceutical market is growing by about 7.5% annually, while the regional biotechnology market is forecast to reach $2.6 billion by 2028. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 02:55:06 GMT",
+          "url": "https://fastcompanyme.com/news/gcc-expands-pharmaceutical-manufacturing-as-market-surpasses-30-billion/"
+        },
+        {
+          "title": "GCC expands pharmaceutical manufacturing as market surpasses $30 billion - Fast Company Middle East",
+          "source": "Fast Company Middle East",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The GCC pharmaceutical market is growing by about 7.5% annually, while the regional biotechnology market is forecast to reach $2.6 billion by 2028. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Thu, 20 Aug 2026 02:55:06 GMT",
+          "url": "https://fastcompanyme.com/news/gcc-expands-pharmaceutical-manufacturing-as-market-surpasses-30-billion/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "global",
+        "pharmaceutical"
+      ],
+      "articles": [
+        {
+          "title": "Nasdaq Biotechnology Index Posts Largest Gain in Six Years as Global Pharmaceutical Sector Improves - Moomoo",
+          "source": "Moomoo",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Nasdaq Biotechnology Index Posts Largest Gain in Six Years as Global Pharmaceutical Sector Improves - Moomoo | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 00:24:27 GMT",
+          "url": "https://www.moomoo.com/news/post/74956887/nasdaq-biotechnology-index-posts-largest-gain-in-six-years-as"
+        },
+        {
+          "title": "CSPC Pharmaceutical Group: Revenue and profit soared on finished drug sales and licensing, with strong R&D and global deals - TradingView",
+          "source": "TradingView",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Revenue surged 40.1% to RMB18.6 billion and profit attributable to shareholders jumped 139.2% year-over-year, driven by strong finished drug sales and a sharp rise in licence fee income. | Strategic partnerships and robu",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 20 Aug 2026 04:22:20 GMT",
+          "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3683215:0-cspc-pharmaceutical-group-revenue-and-profit-soared-on-finished-drug-sales-and-licensing-with-strong-r-d-and-global-deals/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "drug",
+        "prices"
+      ],
+      "articles": [
+        {
+          "title": "Drug prices have declined sharply, and Trump is taking credit. The reason behind the drop is complex - NewsNation",
+          "source": "NewsNation",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug prices have declined sharply, and Trump is taking credit. | The reason behind the drop is complex - NewsNation | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 20 Aug 2026 02:15:35 GMT",
+          "url": "https://www.newsnationnow.com/politics/ap-politics/ap-drug-prices-have-declined-sharply-and-trump-is-taking-credit-the-reason-behind-the-drop-is-complex/"
+        },
+        {
+          "title": "Prescription Drug Prices Fell 3.1 Percent Over the Year, but That Number Measures Less Than You Think - medicaldaily.com",
+          "source": "medicaldaily.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Prescription drug | prices fell 3.1 percent over the twelve months ending in July, the steepest annual decline since March 1963, and the index has not risen in a single month this year. | That is a genuine reversal in a ",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 20 Aug 2026 01:50:33 GMT",
+          "url": "https://www.medicaldaily.com/prescription-drug-prices-cpi-decline-what-it-measures-477553"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "truy",
+        "ngu"
+      ],
+      "articles": [
+        {
+          "title": "Gút và thuốc Y học cổ truyền: Hiểu đúng để tránh dùng thuốc “gia truyền” không rõ nguồn gốc - AloBacsi",
+          "source": "AloBacsi",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Một số người bệnh Gút tìm đến thuốc Nam hoặc các sản phẩm được quảng cáo là “thuốc gia truyền” với mong muốn giảm đau nhanh. | Tuy nhiên, việc sử dụng sản phẩm... | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Thu, 20 Aug 2026 02:28:35 GMT",
+          "url": "https://alobacsi.com/gut-va-thuoc-y-hoc-co-truyen-hieu-dung-de-tranh-dung-thuoc-gia-truyen-khong-ro-nguon-goc.html"
+        },
+        {
+          "title": "Ngăn chặn tình trạng kinh doanh dược liệu không rõ nguồn gốc - Báo và Phát thanh, Truyền hình Lạng Sơn",
+          "source": "Báo và Phát thanh, Truyền hình Lạng Sơn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Thời gian gần đây, những gói “thuốc gia truyền”, dược liệu không rõ nguồn gốc, được gắn mác thuốc đông y, thuốc cổ truyền có thể chữa nhiều loại bệnh… đã và đang len lỏi đến người tiêu dùng bằng nhiều cách khác nhau. | 요",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Thu, 20 Aug 2026 03:09:50 GMT",
+          "url": "https://langsontv.vn/news/458/105029/ngan-chan-tinh-trang-kinh-doanh-duoc-lieu-khong-ro-nguon-goc"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "상장",
+        "제약사",
+        "매출액",
+        "상반기",
+        "국내",
+        "증가"
+      ],
+      "articles": [
+        {
+          "title": "상반기 국내 상장 제약사 매출액 15조 3626억 원··· 8.11% 증가 - 헬스코리아뉴스",
+          "source": "헬스코리아뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "항경련제 10가지 쓰고도 안 잡히던 발작…이 약물로 ‘OK’ | 항경련제 10가지 쓰고도 안 잡히던 발작…이 약물로 ‘OK’ | [헬스코리아뉴스 / 이창용] 평균 10종 가까운 항경련제를 사용하고도 발작이 조절되지 않던 성인 난치성 뇌전증 환자들에게 세노바메이트(Cenobamate, 제품명: 엑스코프리·XC... | HK이노엔, 고지혈증 잡는 ‘먹는 PCSK9 억제제’ 개발 추진 … 주사제 ",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Thu, 20 Aug 2026 02:10:58 GMT",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350770"
+        },
+        {
+          "title": "상반기 국내 상장 제약사 매출액 15조 3626억 원··· 8.11% 증가 - 헬스케어N",
+          "source": "헬스케어N",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "상반기 국내 상장 제약사 매출액 15조 3626억 원··· 8.11% 증가 - 헬스케어N | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Thu, 20 Aug 2026 02:33:42 GMT",
+          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582486"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "منع تجارة الأعشاب الطبية مجهولة المصدر. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 58,
+      "snippet": "استجابةً لهذا الوضع، أرسلت | وثيقة إلى السلطات المحلية تطلب منها تعزيز الإدارة الصارمة لمجال الطب التقليدي والصيدلة. | المخاطر الصحية المحتملة | إن حزمة من النباتات المجففة، أو كيس من الجذور الطبية، أ",
+      "url": "https://www.vietnam.vn/ar/ngan-chan-tinh-trang-kinh-doanh-duoc-lieu-khong-ro-nguon-goc"
+    },
+    {
+      "title": "Pabrik Kina Bandung, Jejak Sejarah Industri Farmasi Indonesia Sejak 1896 - Jabarprov",
+      "source": "Jabarprov",
+      "importance": 50,
+      "snippet": "PORTALJABAR, KOTA BANDUNG - | Pemerintah Kota Bandung mengangkat sejarah eks Pabrik Kina sebagai jejak penting perkembangan industri farmasi Indonesia sejak 1896. | Eks Pabrik Kina berada di kawasan P",
+      "url": "https://jabarprov.go.id/berita/pabrik-kina-bandung-jejak-sejarah-industri-farmasi-indonesia-sejak-1896-25200"
+    },
+    {
+      "title": "A ‘living GLP-1 drug’ could revolutionize diabetes treatment - New Atlas",
+      "source": "New Atlas",
+      "importance": 47,
+      "snippet": "Bacteria engineered to sense and reduce glucose levels could be the future of type 2 diabetes treatments, following pre-clinical trials on animal models. | By inserting a glucose-responsive regulator ",
+      "url": "https://newatlas.com/diabetes/living-glp-revolutionize-diabetes-treatment/"
+    },
+    {
+      "title": "Taiwan Biotech H1 Financials Hit Record Highs: PharmaEssentia Claims Net Profit Crown as Apex Earns Top EPS - 全球醫療採購網",
+      "source": "全球醫療採購網",
+      "importance": 47,
+      "snippet": "Taiwan Biotech H1 Financials Hit Record Highs: PharmaEssentia Claims Net Profit Crown as Apex Earns Top EPS｜Institute for Biotechnology and Medicine Industry│IBMI | 您目前使用的是舊版的IE瀏覽器，舊版IE存在許多安全性及網頁顯示問題，",
+      "url": "https://ibmi.taiwan-healthcare.org/en/news_detail.php?REFDOCTYPID=0o4dd9ctwhtyumw0&REFDOCID=0tk0yvcwhawx0zp5&PageNO=0"
+    },
+    {
+      "title": "HIMS Stock Climbs Overnight: Oscar Health CEO Courts Hims For New Drug Marketplace - Stocktwits",
+      "source": "Stocktwits",
+      "importance": 47,
+      "snippet": "HIMS Stock Climbs Overnight: Oscar Health CEO Courts Hims For New Drug Marketplace - Stocktwits | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://stocktwits.com/news-articles/markets/equity/hims-oscar-health-ceo-new-drug-marketplace/cZo6FUSRJKL"
+    },
+    {
+      "title": "Skyclarys for Friedreich's ataxia Ireland’s drug reimbursement process needs greater transparency - The Journal",
+      "source": "The Journal",
+      "importance": 47,
+      "snippet": "Advertisement | More Stories | patient first focus | Skyclarys for Friedreich's ataxia | Ireland’s drug reimbursement process needs greater transparency",
+      "url": "https://www.thejournal.ie/readme/skyclarys-ireland-7135266-Aug2026/"
+    },
+    {
+      "title": "Appeals court rejects employer plan efforts to import HIV drug - BenefitsPRO",
+      "source": "BenefitsPRO",
+      "importance": 47,
+      "snippet": "Appeals court rejects employer plan efforts to import HIV drug - BenefitsPRO | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.benefitspro.com/2026/08/19/appeals-court-rejects-employer-plan-efforts-to-import-hiv-drug/"
+    },
+    {
+      "title": "Nhóm thợ hồ đang ăn trước nhà thuốc vội đứng dậy, dược sĩ nói: 'Cứ ngồi đi cô chú!' - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 47,
+      "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Mạng xã hội đang chia sẻ đoạn clip ngắn, ghi lại khoảnh khắc xúc động của một nữ dược sĩ khuyết tật ở TP.HCM dành cho những người thợ hồ đang ngồi ăn ",
+      "url": "https://www.vietnam.vn/nhom-tho-ho-dang-an-truoc-nha-thuoc-voi-dung-day-duoc-si-noi-cu-ngoi-di-co-chu"
+    },
+    {
+      "title": "【島根県】小学生19人が薬剤師体験‐将来の人材確保でイベント｜薬事日報ウェブサイト - t.co",
+      "source": "t.co",
+      "importance": 45,
+      "snippet": "HEADLINE NEWS | 【島根県】小学生19人が薬剤師体験‐将来の人材確保でイベント | 2026年08月20日 (木) | 島根県は9日、小学5年生と6年生を対象にした薬剤師体験イベントを出雲市の島根県立中央病院で開催した。小学生19人が参加し、お菓子やジュースを薬に見立てた調剤・服薬指導体験や病院調剤室の見学を通じ、薬剤師の仕事への理解を深めた。県が小学生向けに薬剤師体験イベントを実施",
+      "url": "https://t.co/Op27sbDB2l"
+    },
+    {
+      "title": "दवाओं के रूप में उत्पादों का विज्ञापन करना, डॉक्टरों की छवियों का उपयोग करना: 2 उत्पादों को फटकार मिली। - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Vietnam.vn को फ़ॉलो करें | Vietnam.vn जोड़ें | खाद्य सुरक्षा विभाग के 19 अगस्त के एक दस्तावेज़ के अनुसार, मीडिया रिपोर्टों के बाद कि उत्पाद के विज्ञापन में कानूनी नियमों के उल्लंघन के संकेत मिले हैं, ",
+      "url": "https://www.vietnam.vn/hi/quang-cao-nhu-thuoc-chua-benh-dung-hinh-anh-bac-si-2-san-pham-bi-tuyt-coi"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 17,
+      "en_count": 6
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 6,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 6,
+      "en_count": 2
+    }
+  ]
+}
