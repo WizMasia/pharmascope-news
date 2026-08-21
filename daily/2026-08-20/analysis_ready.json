@@ -256,12 +256,12 @@
         "com",
         "fda",
         "FDA",
-        "gene",
-        "wins",
-        "therapy",
+        "disorder",
         "approval",
+        "therapy",
         "rare",
         "ultragenyx",
+        "gene",
         "metabolic"
       ],
       "articles": [
@@ -348,16 +348,16 @@
       "cluster_id": 2,
       "size": 2,
       "keywords": [
-        "expands",
-        "billion",
+        "market",
         "gcc",
+        "pharmaceutical",
         "fast",
         "company",
-        "market",
+        "east",
         "middle",
         "manufacturing",
-        "pharmaceutical",
-        "surpasses"
+        "surpasses",
+        "expands"
       ],
       "articles": [
         {
@@ -420,8 +420,8 @@
       "cluster_id": 4,
       "size": 2,
       "keywords": [
-        "drug",
-        "prices"
+        "prices",
+        "drug"
       ],
       "articles": [
         {
@@ -452,8 +452,8 @@
       "cluster_id": 5,
       "size": 2,
       "keywords": [
-        "truy",
-        "ngu"
+        "ngu",
+        "truy"
       ],
       "articles": [
         {
@@ -484,12 +484,12 @@
       "cluster_id": 6,
       "size": 2,
       "keywords": [
-        "상장",
-        "제약사",
-        "매출액",
-        "상반기",
         "국내",
-        "증가"
+        "상반기",
+        "증가",
+        "제약사",
+        "상장",
+        "매출액"
       ],
       "articles": [
         {
