@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-22",
+  "window": {
+    "start": "2026-08-22T06:30:00+09:00",
+    "end": "2026-08-23T06:29:59+09:00"
+  },
+  "total_articles": 377,
+  "window_articles": 72,
+  "language_breakdown": {
+    "korean": {"total": 147, "categories": {"의약품": 18, "의약산업": 11, "의약정책": 15, "의약단체": 16, "의약관련정부기관": 14, "의료현장": 25, "약국·약사": 2, "의료정책·인력": 25, "전통의학": 4, "감염·보건": 17}},
+    "english": {"total": 133, "categories": {"Drugs & Therapies": 25, "Pharma Industry": 25, "Pharma Policy": 25, "Pharma Associations": 25, "Regulatory Agencies": 25, "Traditional & Complementary Medicine": 8}},
+    "multilingual": {"total": 97, "languages": {"French / 프랑스어": 3, "German / 독일어": 0, "Spanish / 스페인어": 5, "Italian / 이탈리아어": 4, "Portuguese / 포르투갈어": 10, "Dutch / 네덜란드어": 6, "Swedish / 스웨덴어": 2, "Polish / 폴란드어": 3, "Turkish / 터키어": 9, "Russian / 러시아어": 9, "Japanese / 일본어": 0, "Chinese Simplified / 중국어": 3, "Chinese Traditional / 대만": 1, "Vietnamese / 베트남어": 10, "Thai / 태국어": 6, "Indonesian / 인도네시아어": 10, "Hindi / 힌디어": 10, "Arabic / 아랍어": 4, "Hebrew / 히브리어": 2, "Persian / 페르시아어": 0}}
+  },
+  "issues": [
+    {
+      "topic": "펩타이드·약물접합체 시장 전망과 공급망",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 42,
+      "key_articles": [
+        {"title": "Turkey Peptide Drug Conjugates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox", "importance": 47, "url": "https://www.indexbox.io/store/turkey-peptide-drug-conjugates-market-analysis-forecast-size-trends-and-insights/"},
+        {"title": "Mexico Peptide Drug Conjugates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox", "importance": 47, "url": "https://www.indexbox.io/store/mexico-peptide-drug-conjugates-market-analysis-forecast-size-trends-and-insights/"},
+        {"title": "Spent Solvent Recovery Material Market to Reach 213 Index by 2035 on Pharma and Electronics Demand - IndexBox", "importance": 37, "url": "https://www.indexbox.io/blog/spent-solvent-recovery-material-market-to-reach-213-index-by-2035-on-pharma-and-electronics-demand/"}
+      ],
+      "summary_kr": "IndexBox에서 터키·멕시코의 펩타이드 약물접합체와 펩타이드 합성용 수지, 제약용 회수·이송 소재 시장 전망이 반복 포착됐다. 수요 확대뿐 아니라 원료·공정 소재와 생산 인프라의 병목이 상용화 경쟁력을 좌우할 가능성이 있다.",
+      "summary_en": "Market coverage points to continued expansion of peptide-drug-conjugate demand, with process materials and manufacturing infrastructure becoming strategic constraints."
+    },
+    {
+      "topic": "의료사고 이력 공개 논쟁과 환자안전 정책",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 1,
+      "avg_importance": 60,
+      "key_articles": [
+        {"title": "이소희 \"의료사고 이력 공개법이 왜 사적 복수인가?\" [세상에 나쁜 정치인은 없다]", "importance": 60, "url": "https://weekly.chosun.com/news/articleView.html?idxno=54511"}
+      ],
+      "summary_kr": "의료인 의료사고 이력 공개를 둘러싸고 환자의 알권리·재발 방지와 의료진의 소송 위험·필수의료 이탈 우려가 충돌하고 있다. 공개 범위와 사실확인 절차, 개인정보 보호를 함께 설계하지 않으면 환자안전 정책이 신뢰 논쟁으로 번질 수 있다.",
+      "summary_en": "A proposed disclosure framework for clinicians' malpractice histories exposes a policy trade-off between patient information rights and defensive-medicine risk."
+    },
+    {
+      "topic": "FDA·각국 의약품 허가와 규제 신호",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 46,
+      "key_articles": [
+        {"title": "New FDA product-specific guidances on generic drug development - The Pharma Letter", "importance": 47, "url": "https://www.thepharmaletter.com/generics-news/new-fda-product-specific-guidances-on-generic-drug-development"},
+        {"title": "Regulatory tracker: J&J scores EU approval for Tecvayli-Darzalex combo - Fierce Pharma", "importance": 42, "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"},
+        {"title": "임상시험 승인 얼마나 빨라지나…식약처, 의약품 규제 손질 - SBS Biz", "importance": 42, "url": "https://biz.sbs.co.kr/amp/article/20000330098"}
+      ],
+      "summary_kr": "FDA의 제네릭 품목별 개발 지침, EU의 병용요법 승인, 식약처의 임상시험·변경 절차 개선이 함께 나타났다. 규제기관은 개발 예측가능성을 높이면서도 회수기한과 GMP 등 안전관리 요건은 강화하는 방향이다.",
+      "summary_en": "Regulators are simultaneously improving development predictability and tightening safety controls across generic guidance, combination approvals, clinical-trial procedures, and GMP."
+    },
+    {
+      "topic": "전통의학·백신 이슈의 다국어 확산",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 36,
+      "key_articles": [
+        {"title": "람동성은 도내 전역에서 따라잡기 및 추가 예방접종 프로그램을 가속화하고 있습니다. - Vietnam.vn", "importance": 27, "url": "https://www.vietnam.vn/ko/lam-dong-tang-toc-tiem-bu-tiem-vet-tren-toan-tinh"},
+        {"title": "병원에서 설날 아침 일찍 전통 케이크를 만들고 있습니다. - Vietnam.vn", "importance": 27, "url": "https://www.vietnam.vn/ko/goi-banh-vui-tet-som-trong-benh-vien"},
+        {"title": "Cắt giảm trung gian phân phối dược phẩm - Báo Thanh Niên", "importance": 42, "url": "https://thanhnien.vn/cat-giam-trung-gian-phan-phoi-duoc-pham-185260821230502492.htm"}
+      ],
+      "summary_kr": "베트남어권 자료에서 추가 예방접종, 전통의학 단체, 의약품 유통구조 조정이 함께 포착됐고, 한영 교차 후보로 백신이 확인됐다. 다만 일부 다국어 결과는 제목·출처 품질 검토가 필요해 추세 판단에는 보수적으로 사용해야 한다.",
+      "summary_en": "Multilingual coverage links catch-up vaccination, traditional-medicine institutions, and medicine-distribution reform, but several low-quality feeds require cautious interpretation."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 2, "en_count": 2, "significance": "medium"},
+    {"keyword": "허가", "kr_count": 4, "en_count": 3, "significance": "medium"},
+    {"keyword": "임상", "kr_count": 4, "en_count": 1, "significance": "low"}
+  ],
+  "notable_absences": ["시간 범위 필터 적용 후 72건만 분석 대상이었으며, 305건은 현재 KST 06:30~익일 06:29 창 밖으로 제외됨.", "독일어·일본어·페르시아어 수집 결과는 0건."],
+  "data_quality": {"suspicious_or_irrelevant_cluster_articles": 3, "title_only_articles": 46, "google_news_urls": 0},
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": ["FDA·식약처 규제 예측가능성 개선과 안전관리 강화가 동시에 진행됨", "펩타이드 치료제 확대가 합성수지·회수·일회용 이송소재 수요와 연결됨"],
+  "generated_at": "2026-08-22T16:31:10+09:00"
+}

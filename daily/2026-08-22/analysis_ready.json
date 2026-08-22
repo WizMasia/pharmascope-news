@@ -1,0 +1,531 @@
+{
+  "date": "2026-08-22",
+  "total_articles": 377,
+  "language_breakdown": {
+    "korean": {
+      "total": 147,
+      "categories": {
+        "의약품": 18,
+        "의약산업": 11,
+        "의약정책": 15,
+        "의약단체": 16,
+        "의약관련정부기관": 14,
+        "의료현장": 25,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 17
+      }
+    },
+    "english": {
+      "total": 133,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 8
+      }
+    },
+    "multilingual": {
+      "total": 97,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 5,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 6,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 3,
+        "Turkish / 터키어": 9,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 15
+    },
+    {
+      "keyword": "급여",
+      "count": 9
+    },
+    {
+      "keyword": "약가",
+      "count": 5
+    },
+    {
+      "keyword": "허가",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 4
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "FDA",
+      "count": 2
+    },
+    {
+      "keyword": "식약처",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 15
+    },
+    {
+      "keyword": "safety",
+      "count": 7
+    },
+    {
+      "keyword": "inspection",
+      "count": 6
+    },
+    {
+      "keyword": "recall",
+      "count": 5
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "approval",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 13
+    },
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 10
+    },
+    {
+      "source": "의협신문",
+      "count": 7
+    },
+    {
+      "source": "의약뉴스",
+      "count": 6
+    },
+    {
+      "source": "약사공론",
+      "count": 4
+    },
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "뉴스1",
+      "count": 3
+    },
+    {
+      "source": "청년의사",
+      "count": 3
+    },
+    {
+      "source": "바이오북미디어",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 9
+    },
+    {
+      "source": "openPR.com",
+      "count": 5
+    },
+    {
+      "source": "Medical Xpress",
+      "count": 3
+    },
+    {
+      "source": "The Pharma Letter",
+      "count": 3
+    },
+    {
+      "source": "MarketBeat",
+      "count": 3
+    },
+    {
+      "source": "vinanet.vn",
+      "count": 3
+    },
+    {
+      "source": "simplywall.st",
+      "count": 3
+    },
+    {
+      "source": "hrtoday.in",
+      "count": 3
+    },
+    {
+      "source": "nk-osijek.hr",
+      "count": 3
+    },
+    {
+      "source": "Life Sciences IP Review",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 6,
+      "keywords": [
+        "indexbox",
+        "market",
+        "size",
+        "analysis",
+        "peptide",
+        "drug",
+        "insights",
+        "trends",
+        "forecast",
+        "conjugates"
+      ],
+      "articles": [
+        {
+          "title": "Turkey Peptide Drug Conjugates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Turkey's Import of Antisera Climbs 6%, Reaching a Landmark $2.1 Billion in 2024 | During the period analyzed, Antisera imports peaked at 2.2K tons in 2017, but in the following years saw a slight decrease. | In terms of ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 22 Aug 2026 04:10:30 GMT",
+          "url": "https://www.indexbox.io/store/turkey-peptide-drug-conjugates-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Mexico Peptide Drug Conjugates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Peptide Drug Conjugates Market Forecast Points Higher Toward 2035, Driven by Expanding Oncology Pipelines | The global Peptide Drug Conjugates (PDC) market is entering a phase of structurally driven expansion, underpinne",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 22 Aug 2026 04:10:31 GMT",
+          "url": "https://www.indexbox.io/store/mexico-peptide-drug-conjugates-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Turkey Peptide Drug Conjugates - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Turkey's Import of Antisera Climbs 6%, Reaching a Landmark $2.1 Billion in 2024 | During the period analyzed, Antisera imports peaked at 2.2K tons in 2017, but in the following years saw a slight decrease. | In terms of ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 22 Aug 2026 04:10:30 GMT",
+          "url": "https://www.indexbox.io/store/turkey-peptide-drug-conjugates-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "United Kingdom Solid Phase Carrier Resin for Peptide Drug Synthesis - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "United Kingdom's Acrylic Polymers Market Forecast Shows Modest Growth With a 2.1% CAGR in Value | Analysis of the UK acrylic polymers (excluding PMMA) market from 2024-2035, covering consumption, production, trade, and a",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 22 Aug 2026 04:10:29 GMT",
+          "url": "https://www.indexbox.io/store/united-kingdom-solid-phase-carrier-resin-for-peptide-drug-synthesis-market-analysis-forecast-size-trends-and-insights/"
+        },
+        {
+          "title": "Spent Solvent Recovery Material Market to Reach 213 Index by 2035 on Pharma and Electronics Demand - IndexBox",
+          "source": "IndexBox",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Nouryon (formerly AkzoNobel Specialty Chemicals) | Headquarters | Amsterdam, Netherlands | Solvent recovery and sustainable chemistry | Specialty chemical producer with solvent recycling services",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 21 Aug 2026 21:46:21 GMT",
+          "url": "https://www.indexbox.io/blog/spent-solvent-recovery-material-market-to-reach-213-index-by-2035-on-pharma-and-electronics-demand/"
+        },
+        {
+          "title": "Collapsible Transfer Containers Market to Surpass USD 3.8B by 2035 on Single-Use Biopharma Shift - IndexBox",
+          "source": "IndexBox",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Report Update: Aug 22, 2026 | World Collapsible Transfer Containers - Market Analysis, Forecast, Size, Trends and Insights | -50% promotion | · automatically applied at checkout | Single User License",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 21 Aug 2026 23:31:20 GMT",
+          "url": "https://www.indexbox.io/blog/collapsible-transfer-containers-market-to-surpass-usd-3-8b-by-2035-on-single-use-biopharma-shift/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "practical",
+        "treatment",
+        "view",
+        "guide",
+        "scchr"
+      ],
+      "articles": [
+        {
+          "title": "Viagra Telemedicine: The Real Cost, Safety, and Practical Guide to Online ED Treatment - View yC7ZCKW1Y - nk-osijek.hr",
+          "source": "nk-osijek.hr",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Viagra Telemedicine: The Real Cost, Safety, and Practical Guide to Online ED Treatment - View yC7ZCKW1Y - nk-osijek.hr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 21 Aug 2026 23:31:35 GMT",
+          "url": "https://nk-osijek.hr/static/scripts/plugins/pannellum/pannellum.htm?config=/%5C/ccc1.sbs/article/male2/1QZIer"
+        },
+        {
+          "title": "Chinese Herbal Remedies for Erectile Dysfunction: A Practical Guide for Informed Users *16qIm39wZ* - scchr.jp",
+          "source": "scchr.jp",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Chinese Herbal Remedies for Erectile Dysfunction: A Practical Guide for Informed Users *16qIm39wZ* - scchr.jp | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Sat, 22 Aug 2026 00:25:58 GMT",
+          "url": "https://www.scchr.jp/tour/entrance.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fspf.updays.site%2F%3Fapp=19Ae0P%22%2F%3E%3C/krpano%3E"
+        },
+        {
+          "title": "Fungus Nail Treatment UK: Natural Approaches That Actually Fit Your Lifestyle - View wxvmVYIY5 - scchr.jp",
+          "source": "scchr.jp",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "Fungus Nail Treatment UK: Natural Approaches That Actually Fit Your Lifestyle - View wxvmVYIY5 - scchr.jp | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Fri, 21 Aug 2026 22:29:30 GMT",
+          "url": "https://www.scchr.jp/tour/entrance.html?xml=data:gsf,%3Ckrpano%3E%3Cinclude%20url=%22%2F%5C%2Fuso.updays.site%2Ffungus%2F%3Fvid=00SD9B%22%2F%3E%3C/krpano%3E"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "pharma",
+        "drugs"
+      ],
+      "articles": [
+        {
+          "title": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ascendis Pharma (ASND): Three New Drugs Are Turning This Biotech Into A Growth Machine | Maham Fatima | Sat, 22 August 2026 at 6:46 am GMT+9 | On August 13, Ascendis Pharma (NASDAQ: | ) reported second-quarter results th",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 21 Aug 2026 21:46:40 GMT",
+          "url": "https://sg.finance.yahoo.com/news/ascendis-pharma-asnd-three-drugs-214640196.html"
+        },
+        {
+          "title": "Centre mulls tighter controls on sale of four CNS drugs - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 22, 2026 at 07:20 AM IST | New Delhi: The Union Health Ministry is planning to reclassify four off-patent central nervous system (CNS) drugs —flupentixol, | , gabapentin and carisoprodol— t",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 22 Aug 2026 01:50:21 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/policy-and-regulations/centre-mulls-tighter-controls-on-sale-of-four-cns-drugs/133415871"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "vietnam",
+        "있습니다"
+      ],
+      "articles": [
+        {
+          "title": "병원에서 설날 아침 일찍 전통 케이크를 만들고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "Vietnam.vn에서 팔로우하세요 | Vietnam.vn 추가하기 | 바나나 잎에 싸인 선명한 초록색의 네모난 떡(반텟과 반쭝)은 제1어린이병원 부지 내에서 직접 만들어지는 \"특별한 성과\"입니다. | 평소 청진기와 환자 기록 대신, 이 날에는 의사, 간호사, | 과 어린이 환자, 그 가족, 친척들이 모두 힘을 합쳐 봄기운을 한껏 발산했습니다.",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "Fri, 21 Aug 2026 23:44:08 GMT",
+          "url": "https://www.vietnam.vn/ko/goi-banh-vui-tet-som-trong-benh-vien"
+        },
+        {
+          "title": "람동성은 도내 전역에서 따라잡기 및 추가 예방접종 프로그램을 가속화하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "Vietnam.vn에서 팔로우하세요 | Vietnam.vn 추가하기 | 부모들이 자녀들을 데리고 | 다랏의 람비엔 지역에서 홍역-풍진 예방 접종을 받게 하고 있다. | 면역 공백으로 인한 위험",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sat, 22 Aug 2026 04:04:17 GMT",
+          "url": "https://www.vietnam.vn/ko/lam-dong-tang-toc-tiem-bu-tiem-vet-tren-toan-tinh"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "이소희 &quot;의료사고 이력 공개법이 왜 사적 복수인가?&quot; [세상에 나쁜 정치인은 없다]",
+      "source": "주간조선",
+      "importance": 60,
+      "snippet": "“모든 의료사고 이력을 공개하자는 것이 아니다. | 업무상 과실치사상 혐의로 금고 이상의 형을 받은 경우에 필요성을 말씀드리는 것이다. | 특히 금고형은 의사의 자격이 취소 또는 정지되지 않는다. | 이를 국민과 환자들이 알고 진료를 받아야 한다.” | 이소희(40) 국민의힘 의원은 지난 8월 13일 주간조선 유튜브 ‘야간조선’에 출연해 최근 의료계 안팎에",
+      "url": "https://weekly.chosun.com/news/articleView.html?idxno=54511"
+    },
+    {
+      "title": "חוגגים 80 שנה להקמת אגודת הרפואה המסורתית של וייטנאם (22 באוגוסט 1946 - 22 באוגוסט 2026) - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "עקוב אחר Vietnam.vn ב- | הוסף את Vietnam.vn ב- | אנה, חבר בוועדת המפלגה המחוזית וסגן יו\"ר הוועדה העממית המחוזית, העניק פרחים לברך את איגוד הרפואה המסורתית המחוזית. | נציגים שהשתתפו בטקס הזיכרון. | נצי",
+      "url": "https://www.vietnam.vn/he/ky-niem-80-nam-ngay-thanh-lap-hoi-dong-y-viet-nam-22-8-1946-22-8-2026"
+    },
+    {
+      "title": "New FDA product-specific guidances on generic drug development - The Pharma Letter",
+      "source": "The Pharma Letter",
+      "importance": 47,
+      "snippet": "Today, the US Food and Drug Administration published a new batch of draft product-specific guidances (PSGs) for developing generic drugs and generating evidence for abbreviated new drug applications (",
+      "url": "https://www.thepharmaletter.com/generics-news/new-fda-product-specific-guidances-on-generic-drug-development"
+    },
+    {
+      "title": "Symbiotec Pharmalab Secures Rs 526 Crore Anchor Investment Ahead of Rs 1,757 Crore IPO - Financial Health Score - vinanet.vn",
+      "source": "vinanet.vn",
+      "importance": 47,
+      "snippet": "Runtime Error | Server Error in '/' Application. | Runtime Error | Description: An exception occurred while processing your request. | Additionally, another exception occurred while executing the cust",
+      "url": "http://vinanet.vn/aticles-market/Symbiotec-Pharmalab-Secures-Rs-526-Crore-Anchor-Investment-Ahead-of-Rs-1757-Crore-IPO-56-15937"
+    },
+    {
+      "title": "'A problematic child': Ireland's rare drugs record casts doubt over Skyclarys decision - Irish Examiner",
+      "source": "Irish Examiner",
+      "importance": 47,
+      "snippet": "'A problematic child': Ireland's rare drugs record casts doubt over Skyclarys decision | HSE management to decide next week on whether to publicly reimburse drug to help people with Friedrich's ataxia",
+      "url": "https://www.irishexaminer.com/news/spotlight/arid-41899594.html"
+    },
+    {
+      "title": "Royally-Donated Cancer Drug Reaches 215 Gold Card Patients So Far - Thaiger",
+      "source": "Thaiger",
+      "importance": 47,
+      "snippet": "Share this article | Share via Email | The government says a royally-donated cancer drug has reached 215 patients so far. | That’s out of 4,420 registered to receive it. | Distribution continues towar",
+      "url": "https://thethaiger.com/guides/best-of/health/royally-donated-cancer-drug-reaches-215-gold-card-patients-so-far-2"
+    },
+    {
+      "title": "Rabais sur les médicaments: «On cherche un coupable, alors que c’est le système qui dysfonctionne» - Le Nouvelliste",
+      "source": "Le Nouvelliste",
+      "importance": 43,
+      "snippet": "Votre publicité ici avec | Réservé aux abonnés | Rabais sur les médicaments: «On cherche un coupable, alors que c’est le système qui dysfonctionne» | Des centaines de millions de francs échapperaient ",
+      "url": "https://www.lenouvelliste.ch/suisse/rabais-sur-les-medicaments-on-cherche-un-coupable-alors-que-cest-le-systeme-qui-dysfonctionne-1511125"
+    },
+    {
+      "title": "Farmaci anti-obesità e intelligenza artificiale: la nuova corsa della medicina passa anche dall’Italia - Mondosanità",
+      "source": "Mondosanità",
+      "importance": 43,
+      "snippet": "C’è una rivoluzione | che sta cambiando contemporaneamente | medicina, ricerca e industria farmaceutica | Da una parte i nuovi | farmaci contro obesità e diabete",
+      "url": "https://www.mondosanita.it/news/italia---mondo/108242/farmaci-anti-obesita-e-intelligenza-artificiale-la-nuova-corsa-della-medicina-passa-anche-dallitalia.html"
+    },
+    {
+      "title": "Regulatory tracker: J&J scores EU approval for Tecvayli-Darzalex combo - Fierce Pharma",
+      "source": "Fierce Pharma",
+      "importance": 42,
+      "snippet": "Welcome to Fierce Pharma's regulatory tracker for the second half of 2026. | On this page, we're recording the regulatory progress of in-market products, including expansions into key geographies and ",
+      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"
+    },
+    {
+      "title": "Cắt giảm trung gian phân phối dược phẩm - Báo Thanh Niên",
+      "source": "Báo Thanh Niên",
+      "importance": 42,
+      "snippet": "Cắt giảm trung gian phân phối dược phẩm | - lienchautn@gmail.com | 22/08/2026 06:50 GMT+7 | nguồn ưu tiên | Google tìm kiếm.",
+      "url": "https://thanhnien.vn/cat-giam-trung-gian-phan-phoi-duoc-pham-185260821230502492.htm"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 3
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 1
+    }
+  ]
+}
