@@ -1,0 +1,753 @@
+{
+  "date": "2026-08-23",
+  "total_articles": 279,
+  "language_breakdown": {
+    "korean": {
+      "total": 108,
+      "categories": {
+        "의약품": 10,
+        "의약산업": 12,
+        "의약정책": 7,
+        "의약단체": 4,
+        "의약관련정부기관": 12,
+        "의료현장": 20,
+        "약국·약사": 0,
+        "의료정책·인력": 25,
+        "전통의학": 6,
+        "감염·보건": 12
+      }
+    },
+    "english": {
+      "total": 120,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 10,
+        "Traditional & Complementary Medicine": 10
+      }
+    },
+    "multilingual": {
+      "total": 51,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 3,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 1,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 4,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 1,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 7
+    },
+    {
+      "keyword": "약가",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "식약처",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 5
+    },
+    {
+      "keyword": "R&D",
+      "count": 4
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "ADC",
+      "count": 2
+    },
+    {
+      "keyword": "수출",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 13
+    },
+    {
+      "keyword": "approval",
+      "count": 7
+    },
+    {
+      "keyword": "vaccine",
+      "count": 6
+    },
+    {
+      "keyword": "pricing",
+      "count": 6
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 5
+    },
+    {
+      "keyword": "recall",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "Vietnam.vn",
+      "count": 14
+    },
+    {
+      "source": "한의신문",
+      "count": 12
+    },
+    {
+      "source": "뉴스1",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "머니투데이",
+      "count": 3
+    },
+    {
+      "source": "네이트",
+      "count": 3
+    },
+    {
+      "source": "간호사신문",
+      "count": 3
+    },
+    {
+      "source": "쿠키뉴스",
+      "count": 2
+    },
+    {
+      "source": "서프라이즈뉴스",
+      "count": 2
+    },
+    {
+      "source": "thepowernews.co.kr",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 17
+    },
+    {
+      "source": "simplywall.st",
+      "count": 9
+    },
+    {
+      "source": "BW Healthcare",
+      "count": 4
+    },
+    {
+      "source": "vinanet.vn",
+      "count": 3
+    },
+    {
+      "source": "Whalesbook",
+      "count": 3
+    },
+    {
+      "source": "The Times of India",
+      "count": 3
+    },
+    {
+      "source": "AOL.com",
+      "count": 3
+    },
+    {
+      "source": "nk-osijek.hr",
+      "count": 3
+    },
+    {
+      "source": "Nikkei Asia",
+      "count": 2
+    },
+    {
+      "source": "Sierra Sun Times",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "펩타이드·약물접합체 시장 전망과 공급망",
+    "의료사고 이력 공개 논쟁과 환자안전 정책",
+    "FDA·각국 의약품 허가와 규제 신호",
+    "전통의학·백신 이슈의 다국어 확산"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 7,
+      "keywords": [
+        "simplywall",
+        "pharmaceutical",
+        "year",
+        "what"
+      ],
+      "articles": [
+        {
+          "title": "Korea's top pharmaceutical firms spend over $72.13 mil. each in first hald of the year for R&D: data - The Korea Times",
+          "source": "The Korea Times",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Participants attend a pharmaceutical and bio convention held in southern Seoul, in this 2025 file photo. | Korea's major pharmaceutical companies spent around 100 billion won ($72.13 million) each in the first half for t",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 23 Aug 2026 03:01:03 GMT",
+          "url": "https://www.koreatimes.co.kr/business/companies/20260823/koreas-top-pharmaceutical-firms-spend-over-7213-mil-each-in-first-hald-of-the-year-for-rd-data"
+        },
+        {
+          "title": "CSPC Pharmaceutical Group Limited Beat Analyst Estimates: See What The Consensus Is Forecasting For This Year - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "CSPC Pharmaceutical Group Limited | ) defied analyst predictions to release its half-year results, which were ahead of market expectations. | Statutory earnings performance was extremely strong, with revenue of CN¥19b be",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 23 Aug 2026 00:59:30 GMT",
+          "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-1093/cspc-pharmaceutical-group-shares/news/cspc-pharmaceutical-group-limited-beat-analyst-estimates-see"
+        },
+        {
+          "title": "BioCryst Pharmaceuticals (BCRX), What Is Behind The Fresh Attention Now? - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "BioCryst Pharmaceuticals (BCRX) has drawn fresh attention after recent trading left the stock around $9.55, with returns that differ sharply across timeframes. | Investors are now weighing this performance against the co",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 22 Aug 2026 23:27:11 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-bcrx/biocryst-pharmaceuticals/news/biocryst-pharmaceuticals-bcrx-what-is-behind-the-fresh-atten"
+        },
+        {
+          "title": "Is Vertex Pharmaceuticals (VRTX) Cheap Following Its Raised 2026 Revenue Guidance? - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Vertex Pharmaceuticals (VRTX) lifted its full year 2026 revenue guidance after citing continued demand in cystic fibrosis treatments and broader uptake in sickle cell disease, beta thalassemia, and acute pain therapies. ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 22 Aug 2026 22:27:16 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-vrtx/vertex-pharmaceuticals/news/is-vertex-pharmaceuticals-vrtx-cheap-following-its-raised-20"
+        },
+        {
+          "title": "Ecopipam Priority Review Could Be A Game Changer For Teva Pharmaceutical Industries (TEVA) - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "In August 2026, Teva Pharmaceuticals announced that the FDA accepted and granted Priority Review to its New Drug Application for ecopipam, a first-in-class D1 receptor antagonist for pediatric Tourette syndrome, supporte",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 22 Aug 2026 23:36:52 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-teva/teva-pharmaceutical-industries/news/ecopipam-priority-review-could-be-a-game-changer-for-teva-ph"
+        },
+        {
+          "title": "CSPC Pharmaceutical Group Limited Beat Analyst Estimates: See What The Consensus Is Forecasting For This Year - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "CSPC Pharmaceutical Group Limited | ) defied analyst predictions to release its half-year results, which were ahead of market expectations. | Statutory earnings performance was extremely strong, with revenue of CN¥19b be",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 23 Aug 2026 00:59:30 GMT",
+          "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-1093/cspc-pharmaceutical-group-shares/news/cspc-pharmaceutical-group-limited-beat-analyst-estimates-see"
+        },
+        {
+          "title": "Top 5 Korean Drugmakers Boost R&D Spending, Chong Kun Dang Jumps 37% - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Major South Korean pharmaceutical companies expanded their research and development spending in the first half of this year, accelerating efforts to develop new drugs and secure future growth engines. | The country's fiv",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 23 Aug 2026 04:06:35 GMT",
+          "url": "https://en.sedaily.com/technology/2026/08/23/top-5-korean-drugmakers-boost-rd-spending-chong-kun-dang"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "FDA",
+        "fda",
+        "수입",
+        "GLP-1",
+        "glp-1",
+        "평가시설",
+        "glp",
+        "문턱",
+        "미충족",
+        "높였다"
+      ],
+      "articles": [
+        {
+          "title": "FDA, 외국산 GLP-1 원료 수입 문턱 높였다…평가시설 21% 규제요건 미충족",
+          "source": "헬스코리아뉴스",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "발작 멈추니 삶의 질 ‘쑥’ … SK바이오팜 ‘세노바메이트’ 효능 넘어 경제성 입증 | 발작 멈추니 삶의 질 ‘쑥’ … SK바이오팜 ‘세노바메이트’ 효능 넘어 경제성 입증 | [헬스코리아뉴스 / 이순호] SK바이오팜이 독자 개발한 뇌전증 혁신 신약 ‘세노바메이트(미국 제품명: 엑스코프리, 유럽 제품명: 온투즈리)’의 강력한 발작 감소 효과가 환자들의 실... | 발기부전 보형물 수술, ‘음낭",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "7시간",
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350802"
+        },
+        {
+          "title": "[신약 추적] FDA, 당원축적병 Ia형 첫 유전자치료제 승인…국내 환자에도 새 선택지 될까 - 이포커스",
+          "source": "이포커스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "GSDIa 환자는 저혈당을 막기 위해 낮과 밤에 걸쳐 옥수수전분을 반복해 섭취해야 한다. | 미국 식품의약국(FDA)이 희귀 유전성 대사질환인 당원축적병 Ia형(Glycogen Storage Disease Type Ia·GSDIa)의 첫 치료제를 승인했다. | 국내에서도 GSDIa 환자가 확인되고 있는 만큼 향후 국내 치료 환경에도 영향을 미칠 수 있을지 주목된다. | FDA는 지난 19일(",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Sun, 23 Aug 2026 02:30:43 GMT",
+          "url": "https://www.e-focus.co.kr/news/articleView.html?idxno=3002764"
+        },
+        {
+          "title": "FDA, 외국산 GLP-1 원료 수입 문턱 높였다…평가시설 21% 규제요건 미충족 - 헬스케어N",
+          "source": "헬스케어N",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "FDA, 외국산 GLP-1 원료 수입 문턱 높였다…평가시설 21% 규제요건 미충족 - 헬스케어N | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Sun, 23 Aug 2026 04:04:53 GMT",
+          "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582564"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "제약사",
+        "상반기",
+        "투자",
+        "R&D",
+        "걸었다",
+        "천억대",
+        "사활",
+        "대규모"
+      ],
+      "articles": [
+        {
+          "title": "5대 제약사, 상반기 R&D 투자 일제히 확대…신약 개발 속도 - ebn.co.kr",
+          "source": "ebn.co.kr",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "제약·바이오 연구개발 관련 이미지. | 국내 주요 제약사들이 올해 상반기 연구개발(R&D) 투자를 일제히 늘렸다. | 신약 파이프라인을 강화하고 미래 성장동력을 확보하기 위한 투자 확대가 이어지는 모습이다. | 23일 각사 반기보고서에 따르면 유한양행과 종근당, 한미약품, GC녹십자, 대웅제약 등 국내 주요 5개 제약사는 올해 상반기 각각 1000억원 안팎의 자금을 R&D에 투입했다. | 유",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Sun, 23 Aug 2026 00:55:04 GMT",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721299"
+        },
+        {
+          "title": "&quot;R&amp;D에 사활 걸었다&quot;…주요 제약사, 상반기 1천억대 대규모 투자",
+          "source": "청년일보",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "【 청년일보 】 국내 제약업계 선두권 기업들이 미래 성장 동력 확보를 위해 연구개발(R&D) 지출을 크게 확대하며 체질 개선에 고삐를 죄고 있다. | 단기적인 영업이익 극대화에 치중하기보다 독자적인 신약 파이프라인을 확충해 글로벌 시장 내 경쟁력을 끌어올리겠다는 정면 승부수로 풀이된다. | 상반기 주요 5개 제약사가 집행한 연구개발 비용은 각각 1천억원 안팎에 달했으며, 일부 기업은 전년 같",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "10시간",
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=225525"
+        },
+        {
+          "title": "\"R&D에 사활 걸었다\"…주요 제약사, 상반기 1천억대 대규모 투자 - 청년일보",
+          "source": "청년일보",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "【 청년일보 】 국내 제약업계 선두권 기업들이 미래 성장 동력 확보를 위해 연구개발(R&D) 지출을 크게 확대하며 체질 개선에 고삐를 죄고 있다. | 단기적인 영업이익 극대화에 치중하기보다 독자적인 신약 파이프라인을 확충해 글로벌 시장 내 경쟁력을 끌어올리겠다는 정면 승부수로 풀이된다. | 상반기 주요 5개 제약사가 집행한 연구개발 비용은 각각 1천억원 안팎에 달했으며, 일부 기업은 전년 같",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "Sun, 23 Aug 2026 00:20:39 GMT",
+          "url": "https://www.youthdaily.co.kr/news/article.html?no=225525"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "cancer",
+        "drug",
+        "breast",
+        "launch",
+        "delays",
+        "vinanet",
+        "diabetes",
+        "treatments",
+        "japan",
+        "pricing"
+      ],
+      "articles": [
+        {
+          "title": "Japan Drug Pricing Dispute Delays Launch of New Breast Cancer and Diabetes Treatments - ROA Comparison - vinanet.vn",
+          "source": "vinanet.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Runtime Error | Server Error in '/' Application. | Runtime Error | Description: An exception occurred while processing your request. | Additionally, another exception occurred while executing the custom error page for th",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 22 Aug 2026 23:33:54 GMT",
+          "url": "http://vinanet.vn/aticles-market/Japan-Drug-Pricing-Dispute-Delays-Launch-of-New-Breast-Cancer-and-Diabetes-Treatments-56-16715"
+        },
+        {
+          "title": "Drug shows promise against aggressive breast cancer - Borneo Bulletin",
+          "source": "Borneo Bulletin",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Drug shows promise against aggressive breast cancer - Borneo Bulletin | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 23 Aug 2026 03:20:04 GMT",
+          "url": "https://borneobulletin.com.bn/drug-shows-promise-against-aggressive-breast-cancer/"
+        },
+        {
+          "title": "Japan Drug Pricing Dispute Delays Launch of New Breast Cancer and Diabetes Treatments - ROA Comparison - vinanet.vn",
+          "source": "vinanet.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Runtime Error | Server Error in '/' Application. | Runtime Error | Description: An exception occurred while processing your request. | Additionally, another exception occurred while executing the custom error page for th",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 22 Aug 2026 23:33:54 GMT",
+          "url": "http://vinanet.vn/aticles-market/Japan-Drug-Pricing-Dispute-Delays-Launch-of-New-Breast-Cancer-and-Diabetes-Treatments-56-16715"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "voor",
+        "vietnam"
+      ],
+      "articles": [
+        {
+          "title": "Geneesmiddelen voor gewichtsverlies zetten de Amerikaanse voedingsindustrie op haar kop. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "Volg Vietnam.vn op | Voeg Vietnam.vn toe op | In een keuken in Omaha, VS, experimenteren de leiders van het voedingsmiddelenbedrijf Conagra voortdurend met nieuwe gerechten. | Ze zijn op zoek naar een product dat zelfs a",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sun, 23 Aug 2026 04:45:39 GMT",
+          "url": "https://www.vietnam.vn/nl/thuoc-giam-can-dao-nguoc-cuoc-choi-cua-nganh-thuc-pham-my"
+        },
+        {
+          "title": "Associate Professor Nguyen Lan Hieu waarschuwt voor veelgemaakte fouten bij pogingen om de hersenfunctie te verbeteren. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 38,
+          "stars": "⭐⭐",
+          "snippet": "Volg Vietnam.vn op | Voeg Vietnam.vn toe op | Een vrouw van in de zestig dacht dat ze goed voor haar gezondheid deed door elke paar maanden een of twee injecties met een 'hersenstimulerend medicijn' te krijgen om ziekte ",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sun, 23 Aug 2026 03:33:53 GMT",
+          "url": "https://www.vietnam.vn/nl/pgs-nguyen-lan-hieu-canh-bao-sai-lam-pho-bien-khi-muon-bo-nao"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "vietnam",
+        "thu"
+      ],
+      "articles": [
+        {
+          "title": "Hà Tĩnh yêu cầu thu hồi lô thuốc y học cổ truyền Ngưu tất chích rượu - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Thực hiện Công văn số 2180/YDCT-QLD ngày 18/8/2026 của Cục Quản lý Y, Dược cổ truyền, Sở | Hà Tĩnh vừa có văn bản yêu cầu thu hồi bắt buộc trên phạm vi toàn quốc lô vị th",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 23 Aug 2026 04:00:25 GMT",
+          "url": "https://www.vietnam.vn/ha-tinh-yeu-cau-thu-hoi-lo-thuoc-y-hoc-co-truyen-nguu-tat-chich-ruou"
+        },
+        {
+          "title": "Thuốc giảm cân đảo ngược cuộc chơi của ngành thực phẩm Mỹ - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Tại một căn bếp ở Omaha (Mỹ), các lãnh đạo công ty thực phẩm đóng gói Conagra liên tục thử nghiệm những món ăn mới. | Họ đang tìm kiếm sản phẩm có thể hấp dẫn ngay cả ngư",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sat, 22 Aug 2026 23:12:01 GMT",
+          "url": "https://www.vietnam.vn/thuoc-giam-can-dao-nguoc-cuoc-choi-cua-nganh-thuc-pham-my"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "atenci",
+        "profesionales",
+        "reunir",
+        "convenfarma",
+        "primaria",
+        "paraguay"
+      ],
+      "articles": [
+        {
+          "title": "Convenfarma 2026 apunta a reunir a 3.000 profesionales y consolida a la farmacia como un actor clave en la atención primaria - InfoNegocios Paraguay",
+          "source": "InfoNegocios Paraguay",
+          "importance": 43,
+          "stars": "⭐⭐",
+          "snippet": "Créditos para vivienda avanzan 25%, pero el desafío es sostener el fondeo y ampliar el acceso | Los créditos para vivienda cerraron el primer semestre con un crecimiento del 25% interanual y alcanzaron G. | 10,5 billones",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Sat, 22 Aug 2026 22:12:54 GMT",
+          "url": "https://infonegocios.com.py/plus/convenfarma-2026-apunta-a-reunir-a-3-000-profesionales-y-consolida-a-la-farmacia-como-un-actor-clave-en-la-atencion-primaria"
+        },
+        {
+          "title": "Paraguay: Convenfarma 2026 busca reunir a 3.000 profesionales y fortalece el papel de las farmacias en la atención primaria - Prensa Mercosur",
+          "source": "Prensa Mercosur",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "La XXIII edición de Convenfarma – Expo Farmacientífica se realizará el 16 y 17 de septiembre en el Centro de Eventos del Paseo La Galería, en Asunción | , con una convocatoria prevista de unos 3.000 profesionales y repre",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Sun, 23 Aug 2026 00:43:22 GMT",
+          "url": "https://prensamercosur.org/2026/08/22/paraguay-convenfarma-2026-busca-reunir-a-3-000-profesionales-y-fortalece-el-papel-de-las-farmacias-en-la-atencion-primaria/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "한약",
+        "뉴스",
+        "한의신문"
+      ],
+      "articles": [
+        {
+          "title": "한의학연구원, 육안 식별 힘든 한약재 감별 기술 개발 > 뉴스 - 한의신문",
+          "source": "한의신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "▲사진 왼쪽부터 김욱진 박사, 조성찬 연구원, 책임연구원인 문병철 박사, 장우종 박사 | [한의신문] 육안으로 구분이 힘든 한약재를 빠르게 구분할 수 있는 기술이 개발돼 관심이 모아지고 있다 | 은 한약자원연구센터 문병철 박사 연구팀이 | 을 유전자 수준에서 신속 | 정확히 구별할 수 있는 유전자 기반 감별 기술을 개발했다고",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "Sat, 22 Aug 2026 23:56:07 GMT",
+          "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=66907&sfl=wr_name&stx=%EC%A0%95%EC%9D%BC%ED%95%B4+%EA%B8%B0%EC%9E%90&sop=and&page=7&device=pc"
+        },
+        {
+          "title": "한약 조제 실태조사 실시 > 뉴스 - 한의신문",
+          "source": "한의신문",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "보건복지부 한방산업팀은 한방의료기관 조제 한약에 대한 합리적 관리방안과 광물성 한약재 등 중독우려 한약재의 관리기준 설정 및 자료를 수집하고자 14일부터 22일까지 전국 한방의료기관을 대상으로 한약 조제 실태조사에 들어간다고 밝혔다. | 한방산업팀에 따르면 한방병원 10%, 한의원 2% 비율로 지역별 층화해 무작위로 242개소를 지정, 방문 조사한다. | 구체적 일정을 살펴보면 광주(7), ",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "Sat, 22 Aug 2026 23:53:13 GMT",
+          "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=13487&sfl=wr_subject%7C%7Cwr_content&stx=%EC%A0%84%EB%9D%BC%EB%B6%81%EB%8F%84&sop=or&page=27&device=pc"
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "size": 2,
+      "keywords": [
+        "약가",
+        "인하",
+        "혁신형"
+      ],
+      "articles": [
+        {
+          "title": "제네릭 약가 인하 속 생존 열쇠 된 ‘혁신형 제약’ 개편 - 팜뉴스",
+          "source": "팜뉴스",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[팜뉴스=우정민 기자] 제네릭 약가 인하로 혁신형 제약인증이 국내 제약사들의 생존 열쇠가 됐다. | 보건복지부는 14년 만에 인증 제도를 전면 개편하고, 오는 9월 18일까지 2026년도 신규 공모 신청을 접수한다고 공식 발표했다. | 이번 조치는 결과 중심의 정량지표를 강화해, 국내 제약산업의 실질적인 혁신 체질 개선을 유도하고자 추진됐다. | 이번 개편안은 지난 8월 1일부터 단행된 복제",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Sun, 23 Aug 2026 01:31:23 GMT",
+          "url": "https://www.pharmnews.com/news/articleView.html?idxno=305769"
+        },
+        {
+          "title": "혁신형 제약기업 세부기준 공개…약가 인하 앞두고 복잡해진 셈법 - 머니투데이 - 머니투데이",
+          "source": "머니투데이",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "자회사 연구비·건기식 R&D 제외…임상·기술이전 실적 인정 기준 구체화 | 복제약 약가 산정률 53.55→45%…혁신형 기업은 60% 우대 적용 | 제네릭 의존 높고 자체 개발 역량 부족하면 부담…필수의약품 생산은 가점 | 정부가 혁신형 제약기업 인증에 적용할 세부 기준을 공개하면서 제약사들의 셈법이 복잡해지고 있다. | 연구개발(R&D) 투자 규모뿐 아니라 비용을 부담한 법인과 임상·기술이",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Sun, 23 Aug 2026 06:26:55 GMT",
+          "url": "https://www.mt.co.kr/thebio/2026/08/23/2026082313171656831"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "สธ.รับมอบที่ดิน 92 ไร่ที่สุพรรณฯ สร้าง ‘ศูนย์กลางการแพทย์แผนไทยฯ’ ดันเป็นต้นแบบ ‘ฮับสมุนไพร’ - thecoverage.info",
+      "source": "thecoverage.info",
+      "importance": 50,
+      "snippet": "รับมอบที่ดินบริจาค 92 ไร่ ในจังหวัดสุพรรณบุรี ผนึกกำลังกรมการแพทย์แผนไทยฯ และ รพ.เจ้าพระยายมราช สร้างศูนย์การแพทย์แผนไทยและการแพทย์ทางเลือกแบบครบวงจร ควบคู่ศูนย์ดูแลผู้สูงอายุ หวังดันสุพรรณบุรี ขึ้นแท",
+      "url": "https://www.thecoverage.info/news/content/12013"
+    },
+    {
+      "title": "Federal drug price cuts aren’t reaching the register as local pharmacists point to insurance middlemen - AOL.com",
+      "source": "AOL.com",
+      "importance": 47,
+      "snippet": "SPRINGFIELD, Mo. | — Recent federal data highlights new policies that have dropped prescription drug prices by nearly 4%, the largest reported decrease in over 60 years. | However, local pharmacists a",
+      "url": "https://www.aol.com/articles/federal-drug-price-cuts-aren-081154000.html"
+    },
+    {
+      "title": "Children at the Centre of Nigeria's Worsening Drug Crisis - Punch Newspapers",
+      "source": "Punch Newspapers",
+      "importance": 47,
+      "snippet": "The arrest of two elderly men, 84-year-old pensioner, Godfrey Orji, and 75-year-old patent medicine dealer, Godwin Obiora, by operatives of the National Drug Law Enforcement Agency for allegedly suppl",
+      "url": "https://punchng.com/children-at-the-centre-of-nigerias-worsening-drug-crisis/"
+    },
+    {
+      "title": "Czy generyki są równie dobre jak oryginalne leki? W Polsce stanowią ok. 80 proc. wszystkich leków - OKO.press",
+      "source": "OKO.press",
+      "importance": 45,
+      "snippet": "Jak to jest z generykami w USA – zainteresowała się 18 lat temu amerykańska dziennikarka śledcza Katherine Eban. | Jej książka o ciemnej stronie produkcji generyków ukazała się właśnie w Polsce. | Roz",
+      "url": "https://oko.press/czy-generyki-sa-rownie-dobre-jak-oryginalne-leki-dziennikarskie-sledztwo"
+    },
+    {
+      "title": "28 yaşındaki bir adam, internetten satın aldığı geleneksel Vietnam ilacını kullandıktan sonra akut karaciğer yetmezliği nedeniyle komaya girdi. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Vietnam.vn'i takip et | Vietnam.vn'i ekle | Son zamanlarda, Ulusal Tropikal Hastalıklar Hastanesi, internetten satın aldığı ve kaynağı bilinmeyen geleneksel Vietnam ilacını kullandıktan sonra durumu k",
+      "url": "https://www.vietnam.vn/tr/uong-thuoc-nam-mua-tren-mang-thanh-nien-28-tuoi-hon-me-vi-suy-gan-cap"
+    },
+    {
+      "title": "Science by press release: Moderna cashes in on mRNA cancer vaccine without publishing trial results - Just The News",
+      "source": "Just The News",
+      "importance": 42,
+      "snippet": "Related Articles | 'Full-scale collapse': Gender transition group calls kid guidelines 'opinions' to defeat FTC suit | Tulsi Gabbard shares update on husband's cancer, months after her resignation | K",
+      "url": "https://justthenews.com/politics-policy/health/science-press-release-moderna-cashes-mrna-cancer-vaccine-while-hiding-trial"
+    },
+    {
+      "title": "LCCI Calls for Strengthening of Local Pharmaceutical Manufacturing Capacity for Health Care Delivery - THISDAYLIVE",
+      "source": "THISDAYLIVE",
+      "importance": 42,
+      "snippet": "Dike Onwuamaeze | The Lagos Chamber of Commerce and Industry (LCCI) has called for the strengthening of Nigerian pharmaceutical manufacturing capacity to build an efficient healthcare economy that cre",
+      "url": "https://www.thisdaylive.com/2026/08/23/lcci-calls-for-strengthening-of-local-pharmaceutical-manufacturing-capacity-for-health-care-delivery/"
+    },
+    {
+      "title": "Từ vụ “Cô giáo Hương”: Vì sao nam giới dễ sập bẫy “thần dược” sinh lý? - Báo Dân trí",
+      "source": "Báo Dân trí",
+      "importance": 42,
+      "snippet": "Từ vụ “Cô giáo Hương”: Vì sao nam giới dễ sập bẫy “thần dược” sinh lý? | (Dân trí) - Tâm lý ngại đi khám khiến nhiều nam giới sập bẫy các quảng cáo thổi phồng công dụng, biến sản phẩm vệ sinh thông th",
+      "url": "https://dantri.com.vn/suc-khoe/tu-vu-co-giao-huong-vi-sao-nam-gioi-de-sap-bay-than-duoc-sinh-ly-20260822202428669.htm"
+    },
+    {
+      "title": "Trường đại học Cửu Long trao bằng tốt nghiệp cho 334 tân kỹ sư, dược sĩ - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 42,
+      "snippet": "Đợt này, Nhà trường có 334 sinh viên thuộc các ngành kỹ thuật-công nghệ, công nghệ thông tin, | -thủy sản và dược sĩ đủ điều kiện công nhận tốt nghiệp. | Trong đó, tỷ lệ sinh viên đạt loại xuất sắc và",
+      "url": "https://www.vietnam.vn/truong-dai-hoc-cuu-long-trao-bang-tot-nghiep-cho-334-tan-ky-su-duoc-si"
+    },
+    {
+      "title": "Phát triển dược liệu phải đồng bộ từ giống, vùng nguyên liệu đến chế biến, tiêu thụ - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 42,
+      "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Đoàn công tác kiểm tra vùng trồng actiso tại xã Tả Phìn, nơi hàng trăm hộ dân tham gia liên kết sản xuất. | Tại Nhà máy sản xuất cao Actiso của Công t",
+      "url": "https://www.vietnam.vn/phat-trien-duoc-lieu-phai-dong-bo-tu-giong-vung-nguyen-lieu-den-che-bien-tieu-thu"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 5,
+      "en_count": 6
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 7
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 5
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 5,
+      "en_count": 6
+    }
+  ]
+}
