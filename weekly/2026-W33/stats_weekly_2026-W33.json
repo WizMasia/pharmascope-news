@@ -1,0 +1,250 @@
+{
+  "pipeline": "pharmascope-v2-aggregate",
+  "period": "weekly",
+  "label": "Week 34",
+  "folder": "2026-W33",
+  "start": "2026-08-17",
+  "end": "2026-08-23",
+  "total_articles": 2750,
+  "total_days": 7,
+  "dates_covered": [
+    "2026-08-17",
+    "2026-08-18",
+    "2026-08-19",
+    "2026-08-20",
+    "2026-08-21",
+    "2026-08-22",
+    "2026-08-23"
+  ],
+  "korean": {
+    "total": 1260,
+    "categories": {
+      "의료정책·인력": 175,
+      "의료현장": 161,
+      "감염·보건": 154,
+      "의약품": 152,
+      "의약산업": 136,
+      "의약관련정부기관": 130,
+      "의약정책": 118,
+      "의약단체": 116,
+      "전통의학": 66,
+      "약국·약사": 52
+    },
+    "top_keywords": [
+      [
+        "신약",
+        138
+      ],
+      [
+        "급여",
+        56
+      ],
+      [
+        "백신",
+        56
+      ],
+      [
+        "약가",
+        50
+      ],
+      [
+        "식약처",
+        49
+      ],
+      [
+        "임상",
+        46
+      ],
+      [
+        "한약",
+        45
+      ],
+      [
+        "비만",
+        40
+      ],
+      [
+        "R&D",
+        37
+      ],
+      [
+        "FDA",
+        29
+      ],
+      [
+        "허가",
+        25
+      ],
+      [
+        "수출",
+        23
+      ],
+      [
+        "제네릭",
+        22
+      ],
+      [
+        "심사",
+        12
+      ],
+      [
+        "GMP",
+        11
+      ],
+      [
+        "특허",
+        8
+      ],
+      [
+        "마운자로",
+        6
+      ],
+      [
+        "바이오시밀러",
+        6
+      ],
+      [
+        "항암",
+        6
+      ],
+      [
+        "ADC",
+        6
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "위고비",
+        3
+      ],
+      [
+        "공급망",
+        3
+      ],
+      [
+        "오남용",
+        2
+      ],
+      [
+        "천연물",
+        2
+      ],
+      [
+        "실사",
+        2
+      ],
+      [
+        "CRO",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 881,
+    "categories": {
+      "Drugs & Therapies": 175,
+      "Pharma Industry": 175,
+      "Pharma Policy": 175,
+      "Pharma Associations": 175,
+      "Regulatory Agencies": 139,
+      "Traditional & Complementary Medicine": 42
+    },
+    "top_keywords": [
+      [
+        "FDA",
+        140
+      ],
+      [
+        "approval",
+        43
+      ],
+      [
+        "manufacturing",
+        22
+      ],
+      [
+        "vaccine",
+        19
+      ],
+      [
+        "recall",
+        15
+      ],
+      [
+        "clinical trial",
+        13
+      ],
+      [
+        "generic",
+        13
+      ],
+      [
+        "safety",
+        13
+      ],
+      [
+        "pricing",
+        12
+      ],
+      [
+        "GLP-1",
+        11
+      ],
+      [
+        "regulation",
+        11
+      ],
+      [
+        "obesity",
+        10
+      ],
+      [
+        "inspection",
+        7
+      ],
+      [
+        "quality",
+        4
+      ],
+      [
+        "patent",
+        4
+      ],
+      [
+        "biosimilar",
+        3
+      ],
+      [
+        "GMP",
+        3
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 609,
+    "languages": {
+      "Vietnamese / 베트남어": 70,
+      "Indonesian / 인도네시아어": 64,
+      "Hindi / 힌디어": 64,
+      "Russian / 러시아어": 61,
+      "Portuguese / 포르투갈어": 53,
+      "Spanish / 스페인어": 43,
+      "Thai / 태국어": 43,
+      "Chinese Simplified / 중국어": 36,
+      "Dutch / 네덜란드어": 35,
+      "Turkish / 터키어": 29,
+      "French / 프랑스어": 27,
+      "Arabic / 아랍어": 21,
+      "Italian / 이탈리아어": 15,
+      "Chinese Traditional / 대만": 14,
+      "Hebrew / 히브리어": 14,
+      "Japanese / 일본어": 7,
+      "Polish / 폴란드어": 6,
+      "Swedish / 스웨덴어": 4,
+      "German / 독일어": 3,
+      "Persian / 페르시아어": 0
+    }
+  }
+}
