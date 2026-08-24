@@ -1,0 +1,101 @@
+{
+  "date": "2026-08-24",
+  "window": {
+    "start": "2026-08-24T06:30:00+09:00",
+    "end": "2026-08-25T06:29:59+09:00"
+  },
+  "total_articles": 396,
+  "window_articles": 226,
+  "language_breakdown": {
+    "korean": 211,
+    "english": 127,
+    "multilingual": 58
+  },
+  "issues": [
+    {
+      "topic": "한미약품의 사상 최대 비만 신약 기술수출",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "Hanmi Pharm signs 3.2 tln-won licensing deal with Roche's Genentech for obesity drug candidate - Yonhap News Agency", "importance": 67, "url": "https://en.yna.co.kr/view/AEN20260824006600320"},
+        {"title": "한미약품, 근육 보존형 비만 신약 후보 美 제넨텍에 기술 수출…최대 3조원 (종합)", "importance": 45, "url": "https://biz.chosun.com/science-chosun/bio/2026/08/24/APGJLQRXTVDLDIWJAF2EJQXRBE/"},
+        {"title": "Hanmi signs record $2.3b obesity drug deal with Genentech", "importance": 47, "url": "https://www.koreaherald.com/article/10850144"}
+      ],
+      "summary_kr": "한미약품이 근육 보존형 비만 후보 HM17321을 제넨텍에 기술수출했으며 계약 규모는 최대 약 3조원이다. 비만 치료의 체중감량과 체성분 개선을 동시에 겨냥하는 파이프라인의 사업성이 부각됐다.",
+      "summary_en": "Hanmi Pharmaceutical licensed obesity candidate HM17321 to Genentech in a deal worth up to about 3.2 trillion won, highlighting commercial interest in weight loss with lean-mass preservation."
+    },
+    {
+      "topic": "바이오시밀러 허가 경쟁과 글로벌 제품 승인",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 8,
+      "avg_importance": 48,
+      "key_articles": [
+        {"title": "Celltrion seeks South Korea approval for Keytruda biosimilar CT-P51", "importance": 55, "url": "https://biz.chosun.com/en/en-science/2026/08/24/7QBWFEUQPJDTFAQU653UI66HHQ/?outputType=amp"},
+        {"title": "GC Biopharma wins approval for Hunter syndrome drug in India, Taiwan", "importance": 47, "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32886"},
+        {"title": "GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan", "importance": 47, "url": "https://finance.yahoo.com/healthcare/articles/gc-biopharmas-hunter-syndrome-treatment-052100003.html"}
+      ],
+      "summary_kr": "셀트리온의 키트루다 바이오시밀러 CT-P51 국내 허가 신청과 GC녹십자 헌터증후군 치료제의 인도·대만 승인 보도가 함께 포착됐다. 국내 기업의 허가·해외진출 실행력이 경쟁의 핵심으로 나타난다.",
+      "summary_en": "Celltrion's application for a Keytruda biosimilar and GC Biopharma's approvals in India and Taiwan show Korean companies pushing both domestic authorization and regional expansion."
+    },
+    {
+      "topic": "FDA·GMP와 의약품 공급망 품질관리",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 9,
+      "avg_importance": 44,
+      "key_articles": [
+        {"title": "Sun Pharma recalls over 1900 bottles of epilepsy drug in US", "importance": 47, "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/sun-pharma-recalls-over-1900-bottles-of-epilepsy-drug-in-us/133449600"},
+        {"title": "FDA, 외국산 GLP-1 원료 수입 문턱 높였다…평가시설 21% 규제요건 미충족", "importance": 55, "url": "https://www.hkn24.com/news/articleView.html?idxno=350802"},
+        {"title": "FDA, 외국산 GLP-1 원료 수입 문턱 높였다…평가시설 21% 규제요건 미충족", "importance": 37, "url": "https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=582564"}
+      ],
+      "summary_kr": "FDA·GMP·리콜 관련 기사에서 원료 제조시설 적합성, 완제 품질, 공급망 검증이 반복적으로 부각됐다. GLP-1 수요 확대와 제품 리콜이 제조·수입 단계의 실사 부담을 높이는 흐름이다.",
+      "summary_en": "FDA, GMP, and recall coverage repeatedly emphasizes facility compliance, finished-product quality, and supply-chain verification as obesity-drug demand grows."
+    },
+    {
+      "topic": "국내 제약 R&D 투자와 약가·혁신 보상 구조",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 10,
+      "avg_importance": 43,
+      "key_articles": [
+        {"title": "5대 제약사, 상반기 R&D에 1천억씩 쏟아부었다…“연 매출 10% 이상 투자 기조 유지”", "importance": 42, "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63242"},
+        {"title": "Korea's top pharmaceutical firms spend over $72.13 mil. each in first half of the year for R&D: data", "importance": 47, "url": "https://www.koreatimes.co.kr/business/companies/20260823/koreas-top-pharmaceutical-firms-spend-over-7213-mil-each-in-first-hald-of-the-year-for-rd-data"},
+        {"title": "Top 5 Korean Drugmakers Boost R&D Spending, Chong Kun Dang Jumps 37%", "importance": 42, "url": "https://en.sedaily.com/technology/2026/08/23/top-5-korean-drugmakers-boost-rd-spending-chong-kun-dang"}
+      ],
+      "summary_kr": "국내 상위 제약사들이 매출의 약 10% 이상을 R&D에 투입하는 가운데 약가 인하와 혁신형 제약기업 기준 개편이 병행되고 있다. 투자 확대가 임상·기술이전 성과와 연결되는지가 관건이다.",
+      "summary_en": "Korean drugmakers are sustaining R&D investment above roughly 10% of sales while pricing and innovation-certification rules evolve; clinical and licensing outcomes will test the strategy."
+    },
+    {
+      "topic": "전통의학 원료 표준화와 안전성 관리",
+      "domain": "traditional_medicine",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 51,
+      "key_articles": [
+        {"title": "นาโนเทค จับมือ กรมการแพทย์แผนไทยฯ ยกระดับสมุนไพรไทยสู่ยาแผนไทยมาตรฐานสากล", "importance": 55, "url": "https://www.dailynews.co.th/news/6133760/"},
+        {"title": "กรมการแพทย์แผนไทยฯ ร่วมวิจัยม.พะเยา พัฒนา “กระท่อมไทย” สู่ยาเม็ดฟู่เลิกเหล้า", "importance": 50, "url": "https://www.hfocus.org/content/2026/08/39238"},
+        {"title": "Hà Tĩnh yêu cầu thu hồi lô thuốc y học cổ truyền Ngưu tất chích rượu", "importance": 47, "url": "https://www.vietnam.vn/ha-tinh-yeu-cau-thu-hoi-lo-thuoc-y-hoc-co-truyen-nguu-tat-chich-ruou"}
+      ],
+      "summary_kr": "태국의 표준화·신약화 연구와 베트남 전통의약품 회수 사례가 함께 나타났다. 전통의약품의 국제화를 위해서는 원료 동정, 제조 표준, 유통 추적성이 동시에 필요하다.",
+      "summary_en": "Thai herbal standardization and development efforts alongside a Vietnamese traditional-medicine recall show that internationalization requires identity testing, manufacturing standards, and traceability."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 5, "en_count": 2, "significance": "medium"},
+    {"keyword": "백신", "kr_count": 5, "en_count": 2, "significance": "medium"},
+    {"keyword": "허가", "kr_count": 12, "en_count": 6, "significance": "high"},
+    {"keyword": "임상", "kr_count": 3, "en_count": 1, "significance": "low"},
+    {"keyword": "약가", "kr_count": 4, "en_count": 1, "significance": "medium"}
+  ],
+  "notable_absences": ["시간 필터로 170건을 제외하고 226건을 분석 대상으로 사용함.", "프랑스어·이탈리아어·스웨덴어·폴란드어·일본어·페르시아어 결과는 0건."],
+  "trend_shift": {
+    "from_yesterday": ["전일의 R&D·약가·FDA 규제 프레임에서 한미약품 비만 신약 기술수출과 바이오시밀러 허가 경쟁으로 중심이 이동"],
+    "changes": ["비만·허가·바이오시밀러 키워드가 국내외 기사에서 동시에 부각"]
+  },
+  "connections": ["한미약품 기술수출과 국내 제약사 R&D 확대는 혁신 파이프라인의 자금 회수 가능성을 보여줌", "바이오시밀러 허가 경쟁과 FDA/GMP 이슈는 허가 속도뿐 아니라 제조 품질·공급망 검증이 사업 성패를 좌우함"],
+  "data_quality": {"google_news_urls": 0, "cluster_count": 1, "uncategorized_top_articles": 10, "time_filter_dropped": 170},
+  "generated_at": "2026-08-24T16:31:20+09:00"
+}

@@ -1,0 +1,742 @@
+{
+  "date": "2026-08-24",
+  "total_articles": 396,
+  "language_breakdown": {
+    "korean": {
+      "total": 211,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 17,
+        "의약단체": 24,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 8,
+        "의료정책·인력": 25,
+        "전통의학": 14,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 127,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 21,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 58,
+      "languages": {
+        "French / 프랑스어": 0,
+        "German / 독일어": 4,
+        "Spanish / 스페인어": 4,
+        "Italian / 이탈리아어": 0,
+        "Portuguese / 포르투갈어": 2,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 4,
+        "Hindi / 힌디어": 9,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 22
+    },
+    {
+      "keyword": "비만",
+      "count": 17
+    },
+    {
+      "keyword": "허가",
+      "count": 12
+    },
+    {
+      "keyword": "수출",
+      "count": 10
+    },
+    {
+      "keyword": "급여",
+      "count": 9
+    },
+    {
+      "keyword": "FDA",
+      "count": 6
+    },
+    {
+      "keyword": "식약처",
+      "count": 6
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 5
+    },
+    {
+      "keyword": "약가",
+      "count": 4
+    },
+    {
+      "keyword": "R&D",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 13
+    },
+    {
+      "keyword": "obesity",
+      "count": 8
+    },
+    {
+      "keyword": "approval",
+      "count": 6
+    },
+    {
+      "keyword": "recall",
+      "count": 6
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "한의신문",
+      "count": 35
+    },
+    {
+      "source": "네이트",
+      "count": 15
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 8
+    },
+    {
+      "source": "뉴시스",
+      "count": 6
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "머니투데이",
+      "count": 5
+    },
+    {
+      "source": "데일리팜",
+      "count": 5
+    },
+    {
+      "source": "간호사신문",
+      "count": 5
+    },
+    {
+      "source": "더바이오",
+      "count": 4
+    },
+    {
+      "source": "한국경제",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "아시아경제",
+      "count": 6
+    },
+    {
+      "source": "IndexBox",
+      "count": 6
+    },
+    {
+      "source": "The Economic Times",
+      "count": 6
+    },
+    {
+      "source": "Modern Ghana",
+      "count": 6
+    },
+    {
+      "source": "pharma.economictimes.indiatimes.com",
+      "count": 5
+    },
+    {
+      "source": "Whalesbook",
+      "count": 5
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 4
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 3
+    },
+    {
+      "source": "매일경제",
+      "count": 3
+    },
+    {
+      "source": "MarketBeat",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "국내 제약사의 신약 R&D 투자 확대",
+    "FDA·GLP-1 원료 및 희귀질환 치료제 규제 신호",
+    "약가 인하와 혁신형 제약기업 인증 개편",
+    "일본 약가와 신약 출시 지연",
+    "전통의약품 품질관리와 한약재 식별"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 34,
+      "keywords": [
+        "drug",
+        "pharmaceutical"
+      ],
+      "articles": [
+        {
+          "title": "Hanmi Pharm signs 3.2 tln-won licensing deal with Roche's Genentech for obesity drug candidate - Yonhap News Agency",
+          "source": "Yonhap News Agency",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "24 (Yonhap) -- Hanmi Pharm. | Co., a South Korean pharmaceutical company, said Monday it has signed a 3.2 trillion-won (US$2.3 billion) licensing deal with Genentech Inc., a U.S.-based member of the Roche Group, for an o",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 06:00:25 GMT",
+          "url": "https://en.yna.co.kr/view/AEN20260824006600320"
+        },
+        {
+          "title": "Celltrion seeks South Korea approval for Keytruda biosimilar CT-P51 - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "Celltrion headquarters in Songdo, Incheon. | /Courtesy of Celltrion | Celltrion(068270) | said on the 24th that it has applied to the Ministery of Food and Drug Safety for marketing authorization of \"CT-P51,\" a biosimila",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 23 Aug 2026 23:33:00 GMT",
+          "url": "https://biz.chosun.com/en/en-science/2026/08/24/7QBWFEUQPJDTFAQU653UI66HHQ/?outputType=amp"
+        },
+        {
+          "title": "Hanmi signs record $2.3b obesity drug deal with Genentech - The Korea Herald",
+          "source": "The Korea Herald",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Hanmi Pharmaceutical headquarters in Seoul (Hanmi Pharmaceutical) | Hanmi Pharmaceutical said Monday it has inked an exclusive licensing agreement with Genentech for its obesity drug candidate HM17321 in a deal that coul",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 05:27:46 GMT",
+          "url": "https://www.koreaherald.com/article/10850144"
+        },
+        {
+          "title": "Hanmi signs obesity drug deal with Genentech worth up to $2.3 billion - UA.NEWS",
+          "source": "UA.NEWS",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Pharmaceuticals | Hanmi signs obesity drug deal with Genentech worth up to $2.3 billion | Lev Shevtsov | South Korea’s Hanmi Pharmaceutical has entered into an exclusive licensing agreement with U.S.-based Genentech for ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 05:51:42 GMT",
+          "url": "https://ua.news/en/farmatsevtika/hanmi-uklala-z-genentech-ugodu-shchodo-preparatu-vid-ozhirinnia-vartistiu-do-2-3-mlrd"
+        },
+        {
+          "title": "Hanmi Pharmaceutical Licenses Muscle-Preserving Obesity Drug Candidate to Genentech in Deal Worth Up to $2.3 Billion - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Hanmi Pharmaceutical Licenses Muscle-Preserving Obesity Drug Candidate to Genentech in Deal Worth Up to $2.3 Billion | Add to Google Preferred Sources | Hanmi Pharmaceutical has licensed HM17321, a muscle-preserving obes",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 03:40:51 GMT",
+          "url": "https://finance.biggo.com/news/c2bd1599-f8ad-4521-b7aa-c19f45b37b36"
+        },
+        {
+          "title": "Hanmi Pharmaceutical Licenses Obesity Drug Candidate to Genentech in Deal Worth Up to $2.3 Billion - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Non-Incretin Class Obesity Drug Candidate | Upfront Payment of $190 Million | Hanmi Pharmaceutical has licensed its independently developed non-incretin obesity drug candidate, HM17321 (a UCN2 analog), to Genentech, a me",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 02:34:49 GMT",
+          "url": "https://www.asiae.co.kr/en/article/bio-health/2026082411344954513"
+        },
+        {
+          "title": "Celltrion and Samsung Bioepis are in full swing over the biosimilar (biopharmaceutical generic drug).. - 매일경제",
+          "source": "매일경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Competition is fierce ahead of the expiration of the 'Kitruda' patent | Celltrion, CT-P51 Application for Domestic License | Samsung Bioepis also SB27 approval process | Celltrion and Samsung Bioepis are in full swing ov",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 00:58:32 GMT",
+          "url": "https://www.mk.co.kr/en/society/12134473"
+        },
+        {
+          "title": "GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "This is a paid press release. | Contact the press release distributor directly with any inquiries. | GC Biopharma's Hunter Syndrome Treatment 'Hunterase' Receives Drug Approval in India and Taiwan | Mon, August 24, 2026 ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 05:21:00 GMT",
+          "url": "https://finance.yahoo.com/healthcare/articles/gc-biopharmas-hunter-syndrome-treatment-052100003.html"
+        },
+        {
+          "title": "Sun Pharma recalls over 1900 bottles of epilepsy drug in US - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Online Bureau | Updated On Aug 24, 2026 at 08:39 AM IST | Share on WhatsApp | Share on Linkedin | Share on Telegram",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 02:30:55 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/news/pharma-industry/sun-pharma-recalls-over-1900-bottles-of-epilepsy-drug-in-us/133449600"
+        },
+        {
+          "title": "GC Biopharma wins approval for Hunter syndrome drug in India, Taiwan - Korea Biomedical Review",
+          "source": "Korea Biomedical Review",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Korea's GC Biopharma said on Monday it had won marketing approval for its Hunter syndrome treatment Hunterase (idursulfase beta) in India and Taiwan, extending the drug's reach in Asia's market for rare-disease therapies",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 02:10:40 GMT",
+          "url": "https://www.koreabiomed.com/news/articleView.html?idxno=32886"
+        },
+        {
+          "title": "AI framework detects cancer stem cells, new drug targets tumour cells - Daijiworld",
+          "source": "Daijiworld",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Daijiworld Media Network - New Delhi | New Delhi, Aug 24: | Scientists under the Department of Science and Technology have made two advances in cancer research aimed at tackling two major challenges — detecting cancer st",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 03:09:47 GMT",
+          "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1323605"
+        },
+        {
+          "title": "Taiwan's TAHO Pharmaceuticals' Antithrombotic Oral Film Clears FDA Acceptance Hurdle, Targets World's Second-Largest Drug Market - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Taiwan's TAHO Pharmaceuticals' Antithrombotic Oral Film Clears FDA Acceptance Hurdle, Targets World's Second-Largest Drug Market | Add to Google Preferred Sources | TAHO Pharmaceuticals, a Taiwanese emerging biotech comp",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 01:30:46 GMT",
+          "url": "https://finance.biggo.com/news/ca04b67b-8222-480b-8415-d5e12c88c3f1"
+        },
+        {
+          "title": "With the obesity treatment craze sweeping the world, the pharmaceutical bio industry has already beg.. - 매일경제",
+          "source": "매일경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Now 'quality' competition rather than weight loss | Food intake is maintained, but weight loss is lost by increasing energy consumption | \"Please draw an image of losing weight by eating a lot and exercising.\" An image c",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 05:28:31 GMT",
+          "url": "https://www.mk.co.kr/en/it/12134730"
+        },
+        {
+          "title": "\"Stopping Inflated Disclosures\" Financial Supervisory Service to Hold Briefings on Improved Pharmaceutical and Biotech Disclosure Guidelines - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Four Briefings to Be Held in September, Each for a Different Participant Group | The Financial Supervisory Service announced on August 24 that it will hold four briefing sessions next month to ensure the smooth implement",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 03:00:00 GMT",
+          "url": "https://www.asiae.co.kr/en/article/2026082410585904388"
+        },
+        {
+          "title": "How Integrated Scientific Workflows Are Redefining Strategic Advantage For India’s Pharmaceutical And Biotechnology Sectors - outlookbusiness.com",
+          "source": "outlookbusiness.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "New Delhi [India], August 22: | In today’s global pharmaceutical and biotechnology landscape, the ability to make fast, confident, and well-informed decisions is no longer a competitive advantage — it is a baseline requi",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 05:48:14 GMT",
+          "url": "https://www.outlookbusiness.com/spotlight/news-wire/how-integrated-scientific-workflows-are-redefining-strategic-advantage-for-india-s-pharmaceutical-and-biotechnology-sectors"
+        },
+        {
+          "title": "Silicone Tubing for Pharmaceutical Transfer Market to Reach Index 190 by 2035 on Single-Use Bioprocessing Demand - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Report Update: Aug 24, 2026 | World Silicone Tubing for Pharmaceutical Transfer - Market Analysis, Forecast, Size, Trends and Insights | -50% promotion | · automatically applied at checkout | Single User License",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 05:16:22 GMT",
+          "url": "https://www.indexbox.io/blog/silicone-tubing-for-pharmaceutical-transfer-market-to-reach-index-190-by-2035-on-single-use-bioprocessing-demand/"
+        },
+        {
+          "title": "Zydus steps up innovation push with US$ 257 million in R&D investment during FY26 - Indian Pharma Post",
+          "source": "Indian Pharma Post",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "With R&D spending reaching 8.4% of revenue, Zydus’ strategy is focused on combining its established pharma base with innovation, specialty medicines, biosimilars and new healthcare businesses | 요약문 생성 불가 | 요약문 생성 불가 | 요약",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 02:52:26 GMT",
+          "url": "https://www.indianpharmapost.com/news/zydus-steps-up-innovation-push-with-us-257-million-in-rd-investment-during-fy26-21519"
+        },
+        {
+          "title": "Hanmi Pharmaceutical Licenses Obesity Drug Candidate to Genentech in Deal Worth Up to $2.3 Billion - 아시아경제",
+          "source": "아시아경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Non-Incretin Class Obesity Drug Candidate | Upfront Payment of $190 Million | Hanmi Pharmaceutical has licensed its independently developed non-incretin obesity drug candidate, HM17321 (a UCN2 analog), to Genentech, a me",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 02:34:49 GMT",
+          "url": "https://www.asiae.co.kr/en/article/bio-health/2026082411344954513"
+        },
+        {
+          "title": "Weight-Loss Drug Users Face Higher Depression Risk, Study Finds - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Not related to the article. | Clipart Korea | As weight-loss drugs such as Wegovy and Mounjaro grow in popularity, people who have taken such medications reported 1.9 times higher rates of depression than those who have ",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 00:31:09 GMT",
+          "url": "https://en.sedaily.com/culture/2026/08/24/weight-loss-drug-users-face-higher-depression-risk-study"
+        },
+        {
+          "title": "Taiwan's TAHO Pharmaceuticals' Antithrombotic Oral Film Clears FDA Acceptance Hurdle, Targets World's Second-Largest Drug Market - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Taiwan's TAHO Pharmaceuticals' Antithrombotic Oral Film Clears FDA Acceptance Hurdle, Targets World's Second-Largest Drug Market | Add to Google Preferred Sources | TAHO Pharmaceuticals, a Taiwanese emerging biotech comp",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 01:30:46 GMT",
+          "url": "https://finance.biggo.com/news/ca04b67b-8222-480b-8415-d5e12c88c3f1"
+        },
+        {
+          "title": "FSS launches briefings to enforce Korea biotech disclosure reforms - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "A view of the Financial Supervisory Service in Yeouido, Seoul./Courtesy of News1 | The Financial Supervisory Service said on the 24th that it will hold briefings four times next month for each group of market participant",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 04:25:00 GMT",
+          "url": "https://biz.chosun.com/en/en-finance/2026/08/24/7WQZNKIIGJHDRJSI54HRY7RSCM/?outputType=amp"
+        },
+        {
+          "title": "Symbiotec's API Edge Makes a Long-term Case, Risk Riders Apply - pharma.economictimes.indiatimes.com",
+          "source": "pharma.economictimes.indiatimes.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Snehal Mergu | Updated On Aug 24, 2026 at 07:52 AM IST | ET Intelligence Group: | Symbiotec Pharmalab | plans to raise ₹150 crore through a fresh issue to repay debt and ₹1,607 crore through an offer for sale.",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 02:22:04 GMT",
+          "url": "https://pharma.economictimes.indiatimes.com/amp/news/pharma-industry/symbiotecs-api-edge-makes-a-long-term-case-risk-riders-apply/133449453"
+        },
+        {
+          "title": "Indian pharma has little reason to fear Trump - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Trump tariff impact on Indian pharma industry | Indian pharmaceutical firms have spent decades supplying American patients with affordable medicines. | That dominance will be difficult to challenge, despite President Don",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 02:38:51 GMT",
+          "url": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/indian-pharma-has-little-reason-to-fear-trump/articleshow/133449610.cms"
+        },
+        {
+          "title": "India’s genomics leaders to join Indian Pharma Post E-Conference on August 26 - Indian Pharma Post",
+          "source": "Indian Pharma Post",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Delegate registrations are open for a high-level discussion on how genomics is transforming healthcare from reactive treatment to predictive, preventive and personalised care | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 01:47:31 GMT",
+          "url": "https://www.indianpharmapost.com/news/indias-genomics-leaders-to-join-indian-pharma-post-e-conference-on-august-26-21516"
+        },
+        {
+          "title": "FSS to Hold Pharma-Bio Disclosure Briefings Next Month - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The Financial Supervisory Service (FSS) will hold briefings on its comprehensive plan to improve pharmaceutical and biotech disclosures for listed companies, IPO underwriters and firms preparing to go public. | The FSS s",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 03:00:05 GMT",
+          "url": "https://en.sedaily.com/finance/2026/08/24/fss-to-hold-pharma-bio-disclosure-briefings-next-month"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO: Global Leadership in Niche APIs to Support Sustainable Growth - Smartkarma",
+          "source": "Smartkarma",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Security Verification | Smartkarma | Securing your connection | We're running a quick background check to optimize your experience on Smartkarma . | This should only take a moment. | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 02:03:35 GMT",
+          "url": "https://www.smartkarma.com/insights/symbiotec-pharmalab-ipo-global-leadership-in-niche-apis-to-support-sustainable-growth"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO opens today: GMP signals 41% upside — Should you subscribe? - The Economic Times",
+          "source": "The Economic Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Symbiotec Pharmalab’s Rs 1,757 crore IPO opens with GMP hinting at 41% upside. | Should you bid? | ETMarkets.com | Symbiotec Pharmalab IPO GMP, Listing Date | Symbiotec Pharmalab IPO GMP: Symbiotec Pharmalab’s Rs 1,757 c",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 03:20:00 GMT",
+          "url": "https://m.economictimes.com/markets/ipos/fpos/symbiotec-pharmalab-ipo-opens-today-gmp-signals-41-upside-should-you-subscribe/amp_articleshow/133450215.cms"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO Day 1: Check subscription status, price band, lot size and key dates - Upstox",
+          "source": "Upstox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The ₹1,757 crore Symbiotec Pharmalab IPO comprises a fresh issue of shares worth up to ₹150 crore and an offer for sale (OFS) component amounting to ₹1,607 crore by promoter Satwani Holdings LLP and investors Rosewood In",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 03:23:30 GMT",
+          "url": "https://upstox.com/news/market-news/ipo/symbiotec-pharmalab-ipo-day-1-check-subscription-status-price-band-lot-size-and-key-dates/article-199087/"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO: From Issue Details to Financials; Here’s What You Need to Know - Trade Brains",
+          "source": "Trade Brains",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Synopsis: Symbiotec Pharmalab Limited’s Rs. | 1,757 crore IPO opens on August 24, 2026. | The company plans to use the fresh issue proceeds mainly to repay borrowings and for general corporate purposes, supported by its ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 02:00:00 GMT",
+          "url": "https://tradebrains.in/symbiotec-pharmalab-ipo-from-issue-details-to-financials-heres-what-you-need-to-know/"
+        },
+        {
+          "title": "Symbiotec Pharmalab IPO Opens: Check Dates, Price, And Key Details - Whalesbook",
+          "source": "Whalesbook",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "The Rs 1,757 crore initial public offering of Symbiotec Pharmalab opens today, August 24, 2026, and closes on August 27. | The company has set a price band of Rs 938 to Rs 988 per share. | This offering includes a fresh ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 04:30:48 GMT",
+          "url": "https://www.whalesbook.com/news/English/healthcarebiotech/Symbiotec-Pharmalab-IPO-Opens-Check-Dates-Price-And-Key-Details/6a8bc8f884d2dd5c12e24664"
+        },
+        {
+          "title": "[Exclusive] Daewoong Pharmaceutical Enters Maternal Nutrition Supplement Market in Partnership with Mamitok - 아시아경제",
+          "source": "아시아경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Targeting Early-Stage Expecting Mothers Directly | Leveraging a Platform with 1.5 Million Users | Daewoong Pharmaceutical is making a full-fledged entry into the maternal nutrition supplement market. | The company plans ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 24 Aug 2026 01:04:40 GMT",
+          "url": "https://www.asiae.co.kr/en/article/2026082407335644001"
+        },
+        {
+          "title": "Pharmaceutical Desiccant Strips Market to Reach Index 183 by 2035 on Biologics and Regulatory Demands - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Report Update: Aug 24, 2026 | World Pharmaceutical Desiccant Strips - Market Analysis, Forecast, Size, Trends and Insights | -50% promotion | · automatically applied at checkout | Single User License",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 23 Aug 2026 23:26:18 GMT",
+          "url": "https://www.indexbox.io/blog/pharmaceutical-desiccant-strips-market-to-reach-index-183-by-2035-on-biologics-and-regulatory-demands/"
+        },
+        {
+          "title": "KM Pharmaceutical targets global oral care market with Pororo products - The Korea Times",
+          "source": "The Korea Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Company sees new opportunity in low-fluoride toothpaste | KM Pharmaceutical Production Director Hwang Min-young shows the company's toothpastes designed with Pororo characters, inside the company's office in Pyeongtaek, ",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sun, 23 Aug 2026 22:00:00 GMT",
+          "url": "https://www.koreatimes.co.kr/business/companies/20260824/km-pharmaceutical-targets-global-oral-care-market-with-pororo-products"
+        },
+        {
+          "title": "Gamma Interpharm enters Cambodia, expands Sri Lanka’s pharmaceutical export footprint - Adaderana Biz English",
+          "source": "Adaderana Biz English",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Gamma Interpharm Ltd. | has commenced exports of Sri Lankan-manufactured pharmaceuticals to Cambodia, marking a key milestone in its six-decade journey and strengthening the country’s pharmaceutical manufacturing presenc",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Mon, 24 Aug 2026 04:56:14 GMT",
+          "url": "http://bizenglish.adaderana.lk/gamma-interpharm-enters-cambodia-expands-sri-lankas-pharmaceutical-export-footprint/"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Video: Mandiri Farmasi & Alkes, Kemenkes Pangkas 20% Impor Bahan Obat - CNBC Indonesia",
+      "source": "CNBC Indonesia",
+      "importance": 58,
+      "snippet": "Merdeka Kesehatan | Video: Mandiri Farmasi & Alkes, Kemenkes Pangkas 20% Impor Bahan Obat | url telah tercopy | CNBC Indonesia TV, | CNBC Indonesia",
+      "url": "https://www.cnbcindonesia.com/news/20260821120715-8-761254/video-mandiri-farmasi-alkes-kemenkes-pangkas-20-impor-bahan-obat"
+    },
+    {
+      "title": "นาโนเทค จับมือ กรมการแพทย์แผนไทยฯ ยกระดับสมุนไพรไทยสู่ยาแผนไทยมาตรฐานสากล - เดลินิวส์",
+      "source": "เดลินิวส์",
+      "importance": 55,
+      "snippet": "เมื่อวันที่ 24 ส.ค. | สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) โดยศูนย์นาโนเทคโนโลยีแห่งชาติ (นาโนเทค) ร่วมกับ กรมการแพทย์แผนไทยและการแพทย์ทางเลือก ลงนามบันทึกความเข้าใจ (MOU) เดินหน้าพัฒน",
+      "url": "https://www.dailynews.co.th/news/6133760/"
+    },
+    {
+      "title": "Geleneksel tıp uygulayıcısı Tam Nguyen, birçok ağır hasta hastanın hayatını kurtarmaya kendini adamıştır. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Vietnam.vn'i takip et | Vietnam.vn'i ekle | To The (sağda) ve Geleneksel Tıp Uzmanı Tam Nguyen bir basın etkinliğinde. | Kişisel deneyimlerden yola çıkın. | Geleneksel tıp uygulayıcısı Nguyen Thi Tam ",
+      "url": "https://www.vietnam.vn/tr/luong-y-tam-nguyen-tan-tam-cuu-song-nhieu-nguoi-benh-hiem-ngheo"
+    },
+    {
+      "title": "กรมการแพทย์แผนไทยฯ ร่วมวิจัยม.พะเยา พัฒนา “กระท่อมไทย” สู่ยาเม็ดฟู่เลิกเหล้า - Hfocus.org",
+      "source": "Hfocus.org",
+      "importance": 50,
+      "snippet": "กรมการแพทย์แผนไทยและการแพทย์ทางเลือก เผยความสำเร็จทีมวิจัยร่วมคณะเภสัชศาสตร์ มหาวิทยาลัยพะเยา ต่อยอด “กระท่อมไทย” สู่นวัตกรรมยาเม็ดฟู่เลิกเหล้า ผลลัพธ์เป็นที่น่าพอใจ โดยภายใน 2 สัปดาห์สามารถลดปริมาณกา",
+      "url": "https://www.hfocus.org/content/2026/08/39238"
+    },
+    {
+      "title": "Izin usaha farmasi AstraZeneca Vietnam telah dicabut atas permintaan perusahaan tersebut. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "Ikuti Vietnam.vn di | Tambahkan Vietnam.vn di | Keputusan 2684/QD-BYT, tertanggal 22 Agustus, mencabut sertifikat kelayakan usaha farmasi (jenis usaha: impor dan ekspor obat-obatan) No. | 1175/DKKDD-B",
+      "url": "https://www.vietnam.vn/id/thu-hoi-chung-nhan-kinh-doanh-duoc-theo-de-nghi-cua-astrazeneca-viet-nam"
+    },
+    {
+      "title": "Pakar Standardisasi Obat Herbal Andi Suhendi Berpulang - Universitas Muhammadiyah Surakarta",
+      "source": "Universitas Muhammadiyah Surakarta",
+      "importance": 50,
+      "snippet": "Pakar Standardisasi Obat Herbal Andi Suhendi Berpulang | 20 Agustus 2026 | Wafatnya Dr. | Andi Suhendi, S.Farm., M.Sc. | menjadi kehilangan besar bagi UMS.",
+      "url": "https://www.ums.ac.id/berita/fakultas-farmasi/pakar-standardisasi-obat-herbal-andi-suhendi-berpulang"
+    },
+    {
+      "title": "يكرس تام نغوين، ممارس الطب التقليدي، جهوده لإنقاذ حياة العديد من المرضى المصابين بأمراض خطيرة. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 50,
+      "snippet": "أضف Vietnam.vn على | الدكتور تو ذا (على اليمين) وممارس الطب التقليدي تام نغوين في فعالية إعلامية. | ابدأ من التجربة الشخصية. | نغوين ثي تام (تام نغوين)، ممارِسة الطب التقليدي، وُلدت عام ١٩٦٨ في بلدة د",
+      "url": "https://www.vietnam.vn/ar/luong-y-tam-nguyen-tan-tam-cuu-song-nhieu-nguoi-benh-hiem-ngheo"
+    },
+    {
+      "title": "Werewolf Therapeutics And Ambros Therapeutics Merge With $150 Million PIPE To Advance Phase III CRPS Drug Neridronate - Pulse 2.0",
+      "source": "Pulse 2.0",
+      "importance": 47,
+      "snippet": "Werewolf Therapeutics and Ambros Therapeutics have entered into a definitive all-stock merger agreement alongside an oversubscribed $150 million private placement that is expected to fund development ",
+      "url": "https://pulse2.com/werewolf-therapeutics-and-ambros-therapeutics-merge-with-150-million-pipe-to-advance-phase-iii-crps-drug-neridronate/"
+    },
+    {
+      "title": "한미약품, 근육 보존형 비만 신약 후보 美 제넨텍에 기술 수출…최대 3조원 (종합) - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 45,
+      "snippet": "<span name=\"stock\" id=\"stock_128940\">한미약품(128940)</span>이 체중 감량과 근육 보존을 동시에 노리는 차세대 비만 신약 후보물질을 로슈그룹의 자회사 제넨텍(Genentech)에 기술 수출했다. | 선급금 약 2600억원을 포함한 총 계약 규모는 최대 3조원을 웃돈다. | 한미약품은 제넨텍과 장기 지속형 UCN2(유로",
+      "url": "https://biz.chosun.com/science-chosun/bio/2026/08/24/APGJLQRXTVDLDIWJAF2EJQXRBE/"
+    },
+    {
+      "title": "異動股｜恒瑞醫藥跌3%創新低，大摩下調明後年盈利預測削目標價一成|香港經濟日報 - 香港經濟日報HKET",
+      "source": "香港經濟日報HKET",
+      "importance": 45,
+      "snippet": "異動股｜恒瑞醫藥跌3%創新低，大摩下調明後年盈利預測削目標價一成|香港經濟日報 - 香港經濟日報HKET | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://invest.hket.com/article/4181311/%E7%95%B0%E5%8B%95%E8%82%A1%EF%BD%9C%E6%81%92%E7%91%9E%E9%86%AB%E8%97%A5%E8%B7%8C3-%E5%89%B5%E6%96%B0%E4%BD%8E%EF%BC%8C%E5%A4%A7%E6%91%A9%E4%B8%8B%E8%AA%BF%E6%98%8E%E5%BE%8C%E5%B9%B4%E7%9B%88%E5%88%A9%E9%A0%90%E6%B8%AC%E5%89%8A%E7%9B%AE%E6%A8%99%E5%83%B9%E4%B8%80%E6%88%90"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 12,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 4,
+      "en_count": 1
+    }
+  ]
+}
