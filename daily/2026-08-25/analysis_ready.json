@@ -1,0 +1,832 @@
+{
+  "date": "2026-08-25",
+  "total_articles": 420,
+  "language_breakdown": {
+    "korean": {
+      "total": 203,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 16,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 10,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 88,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 7,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 6,
+        "Indonesian / 인도네시아어": 8,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 30
+    },
+    {
+      "keyword": "신약",
+      "count": 25
+    },
+    {
+      "keyword": "비만",
+      "count": 10
+    },
+    {
+      "keyword": "R&D",
+      "count": 9
+    },
+    {
+      "keyword": "항암",
+      "count": 8
+    },
+    {
+      "keyword": "식약처",
+      "count": 8
+    },
+    {
+      "keyword": "급여",
+      "count": 6
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "약가",
+      "count": 5
+    },
+    {
+      "keyword": "허가",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "CDMO",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 23
+    },
+    {
+      "keyword": "approval",
+      "count": 11
+    },
+    {
+      "keyword": "obesity",
+      "count": 9
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "inspection",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "네이트",
+      "count": 10
+    },
+    {
+      "source": "데일리팜",
+      "count": 8
+    },
+    {
+      "source": "뉴시스",
+      "count": 6
+    },
+    {
+      "source": "팜뉴스",
+      "count": 6
+    },
+    {
+      "source": "머니투데이",
+      "count": 5
+    },
+    {
+      "source": "의협신문",
+      "count": 5
+    },
+    {
+      "source": "한의신문",
+      "count": 5
+    },
+    {
+      "source": "뉴스1",
+      "count": 4
+    },
+    {
+      "source": "뉴스저널리즘",
+      "count": 4
+    },
+    {
+      "source": "메디파나뉴스",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "openPR.com",
+      "count": 7
+    },
+    {
+      "source": "The Economic Times",
+      "count": 7
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 6
+    },
+    {
+      "source": "Reuters",
+      "count": 4
+    },
+    {
+      "source": "STAT",
+      "count": 4
+    },
+    {
+      "source": "BioSpace",
+      "count": 3
+    },
+    {
+      "source": "The Pharma Letter",
+      "count": 3
+    },
+    {
+      "source": "BioPharma Dive",
+      "count": 3
+    },
+    {
+      "source": "AOL.com",
+      "count": 3
+    },
+    {
+      "source": "Medical Daily",
+      "count": 3
+    }
+  ],
+  "yesterday_issues": [
+    "한미약품의 사상 최대 비만 신약 기술수출",
+    "바이오시밀러 허가 경쟁과 글로벌 제품 승인",
+    "FDA·GMP와 의약품 공급망 품질관리",
+    "국내 제약 R&D 투자와 약가·혁신 보상 구조",
+    "전통의학 원료 표준화와 안전성 관리"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 23,
+      "keywords": [
+        "FDA",
+        "fda",
+        "drug",
+        "희귀의약품",
+        "신라젠",
+        "지정",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "Capricor's Duchenne drug gets three-month FDA extension after new data submission - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 22:33:57 GMT",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-extends-review-capricors-muscle-disorder-therapy-by-three-months-2026-08-24/"
+        },
+        {
+          "title": "Obesity Drugs Overtake Cancer Therapies as World's Top-Selling Medicines; Patent Expirations Usher in Era of Intense Competition - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Obesity Drugs Overtake Cancer Therapies as World's Top-Selling Medicines; Patent Expirations Usher in Era of Intense Competition | Add to Google Preferred Sources | In the first half of this year, obesity treatments over",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 25 Aug 2026 00:05:00 GMT",
+          "url": "https://finance.biggo.com/news/307bfe93-0a2c-4040-8f38-c1f87552c160"
+        },
+        {
+          "title": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages - Medical Xpress",
+          "source": "Medical Xpress",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "(+contact-url) | Example: MyBot/1.0 (+https://example.com/contact) | If you have a legitimate interest in crawling our site, please contact us | to request whitelisting. | Properly identified bots may be granted access",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 21:40:07 GMT",
+          "url": "https://medicalxpress.com/news/2026-08-cancer-drug-patients-fda-dosages.html"
+        },
+        {
+          "title": "GSK (LSE:GSK) Stock in Focus as Drug Pipeline Advances - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkinemedia.com",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 25 Aug 2026 05:26:00 GMT",
+          "url": "https://kalkinemedia.com/uk/stocks/healthcare/gsk-lsegsk-stock-in-focus-as-drug-pipeline-advances"
+        },
+        {
+          "title": "Neuren Set for European Windfall as Rett Drug DAYBU Wins EU Approval - TipRanks",
+          "source": "TipRanks",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Neuren Set for European Windfall as Rett Drug DAYBU Wins EU Approval - TipRanks | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 24 Aug 2026 23:05:52 GMT",
+          "url": "https://www.tipranks.com/news/company-announcements/neuren-set-for-european-windfall-as-rett-drug-daybu-wins-eu-approval"
+        },
+        {
+          "title": "BetterLife Pharma (BETR) Launches Public Offering of Common Shares and Pre-Funded Warrants to Fund Neurological Drug Trials - kalkine.ca",
+          "source": "kalkine.ca",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkine.ca",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 22:54:37 GMT",
+          "url": "https://kalkine.ca/news/announcements/betterlife-pharma-betr-launches-public-offering-of-common-shares-and-pre-funded-warrants-to-fund-neurological-drug-trials"
+        },
+        {
+          "title": "Could Eupraxia Pharmaceuticals (TSX:EPRX) Gain Fresh Market Attention? - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkinemedia.com",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 24 Aug 2026 23:35:00 GMT",
+          "url": "https://kalkinemedia.com/ca/stocks/healthcare/could-eupraxia-pharmaceuticals-tsxeprx-gain-fresh-market-attention"
+        },
+        {
+          "title": "Small-Town Pharmacist Reveals the Financial Reality of Owning a Drug Store, Says She’s ‘Barely Making Enough’ (Exclusive) - People.com",
+          "source": "People.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Small-Town Pharmacist Reveals the Financial Reality of Owning a Drug Store, Says She’s ‘Barely Making Enough’ (Exclusive) - People.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 22:59:00 GMT",
+          "url": "https://people.com/small-town-pharmacist-admits-she-s-struggling-to-keep-her-business-afloat-exclusive-12066219"
+        },
+        {
+          "title": "VA’s Only Drug for Treatment-Resistant Depression Requires Up to 50 Visits a Year - Military.com",
+          "source": "Military.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Department of Veterans Affairs began administering esketamine, under the brand name Spravato, to eligible veterans within months of its 2019 FDA approval, calling it an expansion of options for veterans with treatmen",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 21:49:39 GMT",
+          "url": "https://www.military.com/vas-only-drug-for-treatment-resistant-depression-requires-up-to-50-visits-a-year"
+        },
+        {
+          "title": "The Public Comment Window on a Plan to Speed Experimental Drugs into Human Trials Closes Tonight - Medical Daily",
+          "source": "Medical Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The federal government's public comment window on a proposal to shorten the path from laboratory discovery to the first human dose of a | new medicine | closes at 11:59 p.m. | Eastern time tonight. | The Food and Drug Ad",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 25 Aug 2026 02:15:16 GMT",
+          "url": "https://www.medicaldaily.com/fda-expedited-ind-pilot-comment-deadline-first-human-trials-477678"
+        },
+        {
+          "title": "FDA Decision Due Thursday on a Two-Drug HIV Pill Designed to Simplify Complex Daily Regimens - Medical Daily",
+          "source": "Medical Daily",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A Deadline Three Days Away | Federal regulators face a target date of August 27 to act on an application for a once-daily two-drug | , a decision that would give people already stable on treatment a new option for simpli",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 23:30:04 GMT",
+          "url": "https://www.medicaldaily.com/fda-decision-bictegravir-lenacapavir-hiv-single-tablet-august-2026-477674"
+        },
+        {
+          "title": "Rare disease drug Tavneos recalled in Republic of Ireland - AOL.com",
+          "source": "AOL.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A drug used to treat rare autoimmune diseases has been recalled from shelves in the Republic of Ireland. | Tavneos (Avacopan) is made by the US biotech firm Amgen and is sold by various partner pharmaceutical companies a",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 21:43:21 GMT",
+          "url": "https://www.aol.com/articles/rare-disease-drug-tavneos-recalled-094608000.html"
+        },
+        {
+          "title": "Illegal Imports of Obesity Drugs Hit 4,155 Cases in Six Months — 3.5 Times Last Year's Total - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Illegal Imports of Obesity Drugs Hit 4,155 Cases in Six Months — 3.5 Times Last Year's Total | Add to Google Preferred Sources | Illegal import seizures of the obesity drugs Mounjaro and Wegovy reached 4,155 cases in the",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 25 Aug 2026 04:05:00 GMT",
+          "url": "https://finance.biggo.com/news/5b261ebd-b633-40d0-9d2a-c446c2397638"
+        },
+        {
+          "title": "GSK (LSE/NYSE: GSK) Stock Slips Despite FDA Priority Review And Japan Approval Across Two Key Drug Programs - foreignpolicyjournal.com",
+          "source": "foreignpolicyjournal.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "GSK plc (LSE/NYSE: GSK) shares edged lower in early Monday trading, even as the pharmaceutical company announced two significant regulatory developments across its oncology and hepatology pipelines. | The US Food and Dru",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 25 Aug 2026 04:53:15 GMT",
+          "url": "https://www.foreignpolicyjournal.com/2026/08/25/gsk-lse-nyse-gsk-stock-slips-despite-fda-priority-review-and-japan-approval-across-two-key-drug-programs/"
+        },
+        {
+          "title": "신라젠 'BAL0891', FDA 희귀의약품 지정 \"AML 신약 개발 탄력\" - 파이낸셜뉴스",
+          "source": "파이낸셜뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "TTK·PLK1 동시 표적 차세대 항암제 | 임상 비용 세액공제·신속심사 등 지원 | [파이낸셜뉴스] 신라젠의 차세대 항암 신약 후보물질 BAL0891이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.신라젠은 BAL0891이 FDA로부터 AML 적응증 희귀의약품(Orphan Drug) 지정을 받았다고 25일 밝혔다. | BAL0891은 암세포 분열에 관",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 05:17:27 GMT",
+          "url": "https://www.fnnews.com/news/202608251416010860"
+        },
+        {
+          "title": "신라젠, 항암신약 개발 청신호…FDA 희귀의약품 지정 - 한스경제",
+          "source": "한스경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "BAL0891, 급성골수성백혈병 적응증 확보…세액공제·신속심사 등 지원 | 신라젠 CI./신라젠 제공 | | 서울=한스경제 김동주 기자 | 신라젠의 차세대 항암제 후보물질이 미국에서 희귀의약품 지위를 확보하면서 글로벌 임상 개발에 속도가 붙을 전망이다. | 신라젠(대표 한상규·박상근)은 항암 신약 후보물질 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 희귀의약품",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 03:37:55 GMT",
+          "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=859348"
+        },
+        {
+          "title": "신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력 - 뉴스1",
+          "source": "뉴스1",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력 | 2026.08.25 오전 11:00 | 구글에서 뉴스1 즐겨찾기 | 구글에서 뉴스1 즐겨찾기 | 국제약품, 안산공장에 555억 투자…점안제 생산능력 133% 확대",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 02:00:54 GMT",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6268610"
+        },
+        {
+          "title": "신라젠 BAL0891, FDA 희귀의약품 지정으로 AML 신약 개발 탄력 - 투어코리아",
+          "source": "투어코리아",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[투어코리아=조성란 기자]  신라젠의 차세대 항암 신약 후보물질 BAL0891이 25일 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다. | BAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시 표적하는 계열 내 최초(First-in-class) 항암제이다. | 현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다. | ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 05:40:25 GMT",
+          "url": "https://www.tournews21.com/news/articleView.html?idxno=141801"
+        },
+        {
+          "title": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스",
+          "source": "얼리어답터뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 01:06:03 GMT",
+          "url": "https://www.eanews.kr/news/993515"
+        },
+        {
+          "title": "신라젠 “차세대 항암제, FDA 희귀의약품 지정” - 부산일보",
+          "source": "부산일보",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "급성골수성백혈병 대상 희귀의약품 | 신라젠이 개발 중인 항암 파이프라인이 미국에서 희귀의약품으로 지정됐다. | 신라젠은 차세대 항암 파이프라인 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병 대상 희귀의약품으로 지정됐다고 25일 밝혔다. | BAL0891은 암세포 분열 과정에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적으로 삼는 치료제 후보물질이다. | 현재 고형",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 04:28:47 GMT",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026082513280525767"
+        },
+        {
+          "title": "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트",
+          "source": "네이트",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 01:57:00 GMT",
+          "url": "https://news.nate.com/view/20260825n12062"
+        },
+        {
+          "title": "백혈병 신약개발 탄력…신라젠, BAL0891 FDA 희귀의약품 지정 - v.daum.net",
+          "source": "v.daum.net",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신라젠은 차세대 항암제 후보물질 BAL0891이 미국 식품의약국(FDA)로부터 급성골수성백혈병 대상 희귀의약품으로 지정됐다고 오늘(25일) 밝혔습니다. | 신라젠 관계자는 \"암세포 분열 과정에 관여하는 핵심 단백질 TTK와 PLK1을 동시 표적하는 계열 내 최초 항암 후보물질\"이라며 \"현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행하고 있다\"고 설명했습니다. | 희귀의약품 지정은 미",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 05:48:08 GMT",
+          "url": "https://v.daum.net/v/20260825144808940"
+        },
+        {
+          "title": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - knpp.co.kr",
+          "source": "knpp.co.kr",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - knpp.co.kr | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Tue, 25 Aug 2026 01:06:03 GMT",
+          "url": "http://knpp.co.kr/news/539122"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 12,
+      "keywords": [
+        "국가예방접종",
+        "확대",
+        "세까지",
+        "독감",
+        "인플루엔자",
+        "일부터",
+        "올겨울",
+        "시작"
+      ],
+      "articles": [
+        {
+          "title": "독감 무료접종 14세까지 확대…9월 21일부터 시작 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "독감 무료접종 14세까지 확대…9월 21일부터 시작 | 생후 6개월~14세 어린이·임신부·65세 이상 무료 | 2회 접종 어린이·임신부 9월 21일 첫 접종 | 75세 이상 어르신은 10월 12일부터 순차 접종 | 전국 2만3000여개 위탁의료기관·보건소서 가능",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 01:18:32 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03024166645550928&mediaCodeNo=257"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 14세까지 확대...9월 21일부터 순차 시행 - 의학신문",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문·일간보사=이재원 기자] 질병관리청이 올겨울 인플루엔자 유행에 대비해 국가예방접종 지원 대상을 기존 13세 이하에서 14세 이하 어린이까지 확대한다. | 어린이·임신부 접종은 9월 21일부터 시작하며, 65세 이상 어르신은 10월 12일부터 연령대별로 순차적으로 접종이 진행된다. | 질병관리청은 오는 9월 21일부터 2027년 4월 30일까지 2026-2027절기 인플루엔자 국가예방",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 02:37:59 GMT",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010750"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 만 14세까지 확대 - hidomin.com",
+          "source": "hidomin.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "독감 국가예방접종 포스터. | 올겨울 독감 유행에 대비한 국가예방접종이 오는 9월 21일부터 순차적으로 시작된다. | 이번 절기부터는 무료 지원 대상이 14세까지 확장된다. | 질병관리청은 다음달 21일부터 내년 4월 30일까지 인플루엔자 국가예방접종을 시행한다고 25일 밝혔다. | 이번 절기에는 학령기 청소년의 인플루엔자 유행 확산을 방지하고 집단 보호 강화를 위해 어린이 지원 연령을 기존",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 04:11:50 GMT",
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=718438"
+        },
+        {
+          "title": "인플루엔자 국가예방접종 14세까지 확대 - 부산일보",
+          "source": "부산일보",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "겨울 유행 대비 9월 21일부터 시작 | 기존 13세에서 14세까지 대상 확대 | 어르신 10월 12일부터 단계별 실시 | 인플루엔자 무료 예방접종 대상이 14세 청소년까지 확대된다. | 질병관리청은 다가오는 겨울 인플루엔자 유행에 대비해 2026-2027절기 어린이, 임신부, 어르신 대상의 무료 예방접종을 오는 9월 21일부터 내년 4월 30일까지 시행한다고 25일 밝혔다.",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 04:24:26 GMT",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026082512424603790"
+        },
+        {
+          "title": "독감 국가예방접종, 14세까지 확대 - 병원신문",
+          "source": "병원신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "폭염, 만성콩팥병 환자 사망 위험 높여 | 내과의사회, 진료범위 ‘소생활권’ 제한 정책 규탄 | 자궁내막증 통증, 염증 넘어 ‘신경·면역·내분비’ 복합기전으로 봐야 | ‘미래 지능형 병원’의 모든 것 보여준 ‘KHF 2026’ | 한창훈 병원장, “나에게 병원이란 ‘실증’이다”",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 00:33:30 GMT",
+          "url": "https://www.khanews.com/news/articleView.html?idxno=249305"
+        },
+        {
+          "title": "9월 21일 독감 국가예방접종 시작…어린이·임산부·노인 무료 - 뉴스1",
+          "source": "뉴스1",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "어린이의 경우 14세까지 대상자 확대 | 한 병원을 찾은 환자들이 독감 예방접종을 하고 있다. | ⓒ 뉴스1 김영운 기자 | 건강보험공단, 호우 특별재난지역 주민에 보험료 경감 등 추진 | 보건의료정책, 청년세대와 함께 만든다…간담회 등 참여 확대",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 00:35:45 GMT",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6268397"
+        },
+        {
+          "title": "질병청, 올겨울 독감 국가예방접종 21일 시작…14세로 확대 - 전자신문",
+          "source": "전자신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "올겨울 인플루엔자(독감) 국가예방접종이 이달 21일부터 순차적으로 시작된다. | 특히 이번 절기부터는 학령기 청소년의 집단 보호를 강화하고 유행 확산을 방지하기 위해 어린이 무료 접종 대상이 기존 13세에서 14세(2012년 1월 1일~2026년 8월 31일 출생자)까지 확대된다. | 질병관리청은 겨울 인플루엔자 유행에 대비해 '2026-2027절기 인플루엔자 국가예방접종'을 이달 21일부터",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 01:55:34 GMT",
+          "url": "http://www.etnews.com/20260825000168"
+        },
+        {
+          "title": "질병청, 인플루엔자 국가예방접종 대상 14세까지 확대 - 헬스미디어뉴스",
+          "source": "헬스미디어뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "’26-’27절기 국가예방접종 계획 발표, 올겨울 인플루엔자 유행 대비 | 어린이·임신부 순차 시행...65세 이상 대상자 코로나19 동시 접종 권고 | 질병관리청(청장 임승관)이 오는 9월 21일부터 2027년 4월 30일까지 ’26-’27절기 인플루엔자(독감) 국가예방접종을 실시다. | 겨울철 유행에 대비해 어린이, 임신부, 어르신을 대상으로 무료 접종을 진행하며, 특히 이번 절기부터는 ",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 00:23:08 GMT",
+          "url": "https://www.healthmedia.co.kr/news/articleView.html?idxno=106599"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 14세까지 확대해 9월 21일부터 순차 시행 - 뉴스N연합",
+          "source": "뉴스N연합",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "올겨울 인플루엔자 국가예방접종, 14세까지 확대해 9월 21일부터 순차 시행 - 뉴스N연합 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 02:50:29 GMT",
+          "url": "https://newsyonhap.com/news/121344"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 14세까지 확대…9월 21일부터 순차 시행 - 강소기업뉴스",
+          "source": "강소기업뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "올겨울 인플루엔자 국가예방접종 대상이 14세 이하 어린이까지 확대된다. | 질병관리청은 오는 9월 21일부터 2026~2027절기 인플루엔자 국가예방접종을 연령별로 순차 시행한다고 25일 밝혔다.올겨울 인플루엔자 국가예방접종 대상이 14세 이하 어린이까지 확대된다. | 질병관리청은 오는 9월 21일부터 2026~2027절기 인플루엔자 국가예방접종을 연령별로 순차 시행한다고 25일 밝혔다. |",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 00:07:46 GMT",
+          "url": "https://kangso.co.kr/View.aspx?No=4197679"
+        },
+        {
+          "title": "내달부터 독감 국가예방접종...14세까지 확대 - 메디칼트리뷴",
+          "source": "메디칼트리뷴",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "올겨울부터 독감(인플루엔자) 국가예방접종 무료 지원 대상이 기존 13세(초등학생)에서 중학교 2학년에 해당하는 14세까지 전격 확대된다. | 학령기 청소년층의 집단 감염을 막고 가계의 의료비 부담을 줄이기 위한 조치다. | 질병관리청은 오는 9월 21일부터 2027년 4월 30일까지 '2026-2027절기 인플루엔자 국가예방접종'을 순차적으로 실시한다고 밝혔다. | 이번 절기 가장 큰 변화는",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 00:57:13 GMT",
+          "url": "http://www.medical-tribune.co.kr/news/articleView.html?idxno=214905"
+        },
+        {
+          "title": "9월 21일부터 ‘독감 국가예방접종’ 본격 시작... 어린이·임산부·어르신은 무료 접종 - insight.co.kr",
+          "source": "insight.co.kr",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "다음 달 21일부터 인플루엔자 국가예방접종이 시작되며, 이번부터 지원 대상 연령이 14세까지 확대된다. | 25일 질병관리청은 '2026~2027절기 인플루엔자 국가예방접종 계획'을 발표했다. | 접종 기간은 다음 달 21일부터 내년 4월 30일까지다. | 무료 접종 대상은 생후 6개월에서 14세 어린이(2012년 1월 1일~2026년 8월 31일 출생자), 임산부, 65세 이상 노인(196",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Tue, 25 Aug 2026 05:47:56 GMT",
+          "url": "https://www.insight.co.kr/news/569975"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "pharmaceutical",
+        "halal",
+        "daewoong",
+        "indonesia",
+        "joint"
+      ],
+      "articles": [
+        {
+          "title": "Daewoong Pharmaceutical accelerates Indonesia halal push with smart factory - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "Daewoong Pharmaceutical headquarters in Gangnam-gu, Seoul. | /Courtesy of News1 | Daewoong Pharmaceutical(069620) | said on the 25th that it is speeding up halal (products that Muslims can eat and use) certification in I",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 25 Aug 2026 00:23:00 GMT",
+          "url": "https://biz.chosun.com/en/en-science/2026/08/25/55L5Z2YCRJAJBM2Y6NJJYLQTAA/?outputType=amp"
+        },
+        {
+          "title": "FinancialContent - The Inauguration and Technology Cooperation Signing Ceremony of the Joint R&D Center for Artificial Intelligence and Active Pharmaceutical Ingredient (API) Biosynthesis Successfully Held - FinancialContent",
+          "source": "FinancialContent",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Inauguration and Technology Cooperation Signing Ceremony of the Joint R&D Center for Artificial Intelligence and Active Pharmaceutical Ingredient (API) Biosynthesis Successfully Held | August 25, 2026 at 01:12 AM EDT",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 25 Aug 2026 05:12:00 GMT",
+          "url": "https://markets.financialcontent.com/stocks/article/abnewswire-2026-8-25-the-inauguration-and-technology-cooperation-signing-ceremony-of-the-joint-r-and-d-center-for-artificial-intelligence-and-active-pharmaceutical-ingredient-api-biosynthesis-successfully-held"
+        },
+        {
+          "title": "Daewoong Pharmaceutical Takes Proactive Steps for Indonesia's Mandatory Halal Certification... Joins Public-Private Joint Support Group - 아시아경제",
+          "source": "아시아경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Discussing Regulatory Direction with Local Food, Drug, and Halal Authorities | Phased Approach from Cosmetics and Health Functional Foods to Pharmaceuticals | Targeting GMP Approval for the Cikarang Plant by 2027 | Daewo",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Tue, 25 Aug 2026 01:13:48 GMT",
+          "url": "https://www.asiae.co.kr/en/article/bio-health/2026082510134863527"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "health",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "Most seniors to pay more for Medicare drug plans - Association of Health Care Journalists",
+          "source": "Association of Health Care Journalists",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Most seniors with Medicare Part D prescription drug plans (PDPs) will pay more for medicine next year after the | Trump administration’s July 28 announcement | to end temporary subsidies for those plans. | Journalists ca",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Mon, 24 Aug 2026 22:20:09 GMT",
+          "url": "https://healthjournalism.org/blog/2026/08/most-seniors-to-pay-more-for-medicare-drug-plans/"
+        },
+        {
+          "title": "Drug mix-up at Ascension impacts at least 4 surgeries, leaves 1 patient paralyzed - Health Exec",
+          "source": "Health Exec",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Related Content | Texas cardiologist disciplined after allegedly leaving guidewire in patient | Doctors at corporate practices report struggles with burnout, broken equipment and delayed care | AI-enabled rural primary c",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Tue, 25 Aug 2026 01:47:57 GMT",
+          "url": "https://healthexec.com/topics/patient-care/care-delivery/drug-mix-ascension-impacts-least-4-surgeries-leaves-1-patient-paralyzed"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "BTC揭生醫政策主軸 搶占亞太臨床試驗樞紐 強化藥品韌性 | 唐可欣 | 品味生活 - 風傳媒",
+      "source": "風傳媒",
+      "importance": 53,
+      "snippet": "行政院生技產業策略諮議委員會議（BTC）24日登場。行政院長卓榮泰表示，去年生技產業投資金額新台幣550.8億元，創造8050億的營業額，乘數非常大，期待彙整各界的政策建議後，讓台灣生技產業再創高峰。衛福部長石崇良則表示，臨床試驗已列為重要政策，目標是搶占亞太臨床試驗樞紐地位，此外，他也強調政府重視新藥發展，目前已著手運用AI縮短新藥審查時間。卓榮泰在BTC...... | 요약문 생성 불가 |",
+      "url": "https://www.storm.mg/article/11159029"
+    },
+    {
+      "title": "14년만에 바뀐 '혁신형' 룰…복잡해진 '65점 셈법'에 제약사들 골머리 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "importance": 51,
+      "snippet": "연구개발비를 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. | 연구개발(R&D) 비용을 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. | 정부가 혁신형 제약기업 인증 기준을 14년 만에 전면 개편하면서 연구개발 투자액뿐 아니라 매출 대비 비중, 임상 진행 여부, 기술이전 성과, 연구개발비를 집행한 법인까지 들여다보",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721551"
+    },
+    {
+      "title": "Farmacias registran una baja en el consumo de medicamentos de PAMI - RTS Medios",
+      "source": "RTS Medios",
+      "importance": 50,
+      "snippet": "El farmacéutico Sebastián Zetner señaló que también aumentó el uso de tarjetas para afrontar las compras. | Además, explicó que la oferta de marcas presenta pocas diferencias de precios. | Zetner, due",
+      "url": "https://rtsmedios.com.ar/farmacias-registran-una-baja-en-el-consumo-de-medicamentos-de-pami/"
+    },
+    {
+      "title": "अहम फैसला: आईएनडी की जांच के बाद ही बाजार में आएंगी विदेश बनी दवाएं, उद्योगों को मिलेगी राहत - Amar Ujala",
+      "source": "Amar Ujala",
+      "importance": 50,
+      "snippet": "{\"_id\":\"6a8c5214792058693d0556c8\",\"slug\":\"key-decision-medicines-imported-from-abroad-will-enter-the-market-only-after-ind-scrutiny-industries-to-get-2026-08-24\",\"type\":\"feature-story\",\"status\":\"publi",
+      "url": "https://www.amarujala.com/himachal-pradesh/key-decision-medicines-imported-from-abroad-will-enter-the-market-only-after-ind-scrutiny-industries-to-get-2026-08-24"
+    },
+    {
+      "title": "Govt approves prices for 52 advanced life-saving drugs - Business Recorder",
+      "source": "Business Recorder",
+      "importance": 47,
+      "snippet": "Govt approves prices for 52 advanced life-saving drugs - Business Recorder | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.brecorder.com/news/amp/40436367"
+    },
+    {
+      "title": "Pharmaceutical Packaging Market to Reach US$198.7 Bn by 2032 at 6.1% CAGR | Persistence Market Research - openPR.com",
+      "source": "openPR.com",
+      "importance": 47,
+      "snippet": "Press release - Persistence Market Research - Pharmaceutical Packaging Market to Reach US$198.7 Bn by 2032 at 6.1% CAGR | Persistence Market Research - published on openPR.com | 요약문 생성 불가 | 요약문 생성 불가 ",
+      "url": "https://www.openpr.com/news/4612251/pharmaceutical-packaging-market-to-reach-us-198-7-bn-by-2032"
+    },
+    {
+      "title": "Cập nhật danh mục thuốc y học cổ truyền trong thanh toán BHYT - Báo Thanh Hóa",
+      "source": "Báo Thanh Hóa",
+      "importance": 47,
+      "snippet": "Cập nhật danh mục thuốc y học cổ truyền trong thanh toán BHYT | Y tế - Sức khỏe | 08:30 25/08/2026 | Theo dõi trên | Bộ Y tế đang xây dựng Thông tư thay thế quy định hiện hành về danh mục thuốc y học ",
+      "url": "https://baothanhhoa.vn/ptth/cap-nhat-danh-muc-thuoc-y-hoc-co-truyen-trong-thanh-toan-bhyt-22036"
+    },
+    {
+      "title": "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH - edaily.co.kr",
+      "source": "edaily.co.kr",
+      "importance": 45,
+      "snippet": "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH | 구글 검색 선호 출처로 추가 | 등록 2026-08-25 오전 7:51:02 | 수정 2026-08-25 오전 7:51:02 | [이데일리 김형일 기자] NH투자증권이 한미약품(128940)에 대해 로슈 그룹 자회사 제넨텍과의 대규모 비만 신약 기술이전 계약으로 신개념 비만치료제",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02482966645550928&mediaCodeNo=257"
+    },
+    {
+      "title": "Young startups miss out on biotech venture funding rebound, MassBio says - BioPharma Dive",
+      "source": "BioPharma Dive",
+      "importance": 42,
+      "snippet": "Young startups miss out on biotech venture funding rebound, MassBio says - BioPharma Dive | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/"
+    },
+    {
+      "title": "Piramal Pharma Acquires Controlling Stake in Yapan Bio - Machine Maker",
+      "source": "Machine Maker",
+      "importance": 42,
+      "snippet": "Piramal Pharma Limited has completed the acquisition of an additional 40.67% stake in Yapan Bio Private Limited, a Hyderabad-based contract development and manufacturing organisation (CDMO) focused on",
+      "url": "https://themachinemaker.com/news/piramal-pharma-acquires-controlling-stake-in-yapan-bio/"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 11
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 5,
+      "en_count": 1
+    }
+  ]
+}

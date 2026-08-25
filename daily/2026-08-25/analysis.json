@@ -1,0 +1,170 @@
+{
+  "date": "2026-08-25",
+  "window": {
+    "start": "2026-08-25T06:30:00+09:00",
+    "end": "2026-08-26T06:29:59+09:00"
+  },
+  "total_articles": 420,
+  "window_articles": 185,
+  "language_breakdown": {
+    "korean": 203,
+    "english": 129,
+    "multilingual": 88
+  },
+  "issues": [
+    {
+      "topic": "FDA 심사·신약 허가와 의약품 안전성",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 23,
+      "avg_importance": 54,
+      "key_articles": [
+        {
+          "title": "Capricor's Duchenne drug gets three-month FDA extension after new data submission - Reuters",
+          "importance": 67,
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-extends-review-capricors-muscle-disorder-therapy-by-three-months-2026-08-24/"
+        },
+        {
+          "title": "Obesity Drugs Overtake Cancer Therapies as World's Top-Selling Medicines; Patent Expirations Usher in Era of Intense Competition - finance.biggo.com",
+          "importance": 47,
+          "url": "https://finance.biggo.com/news/307bfe93-0a2c-4040-8f38-c1f87552c160"
+        },
+        {
+          "title": "How much of a cancer drug is too much? Patients, researchers challenge FDA-approved dosages - Medical Xpress",
+          "importance": 47,
+          "url": "https://medicalxpress.com/news/2026-08-cancer-drug-patients-fda-dosages.html"
+        }
+      ],
+      "summary_kr": "FDA 심사 연장, 신약·희귀의약품 지정, 허가 및 용량·안전성 논의가 한 클러스터로 포착됐다. Capricor의 뒤시엔 근이영양증 치료제 심사 연장과 신라젠 BAL0891의 AML 희귀의약품 지정이 대표 사례다.",
+      "summary_en": "Coverage links FDA review timing, new-drug and orphan-drug designations, and medicine safety, including Capricor’s review extension and SillaJen’s BAL0891 designation for AML."
+    },
+    {
+      "topic": "인플루엔자 국가예방접종 대상 확대",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 12,
+      "avg_importance": 43,
+      "key_articles": [
+        {
+          "title": "독감 무료접종 14세까지 확대…9월 21일부터 시작 - edaily.co.kr",
+          "importance": 45,
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03024166645550928&mediaCodeNo=257"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 14세까지 확대...9월 21일부터 순차 시행 - 의학신문",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3010750"
+        },
+        {
+          "title": "올겨울 인플루엔자 국가예방접종, 만 14세까지 확대 - hidomin.com",
+          "importance": 42,
+          "url": "https://www.hidomin.com/news/articleView.html?idxno=718438"
+        }
+      ],
+      "summary_kr": "2026~2027절기 인플루엔자 국가예방접종의 무료 지원 연령이 생후 6개월~13세에서 14세까지 확대되고, 9월 21일부터 대상별 순차 접종이 시작된다.",
+      "summary_en": "South Korea will expand free seasonal influenza vaccination eligibility to children through age 14, with phased vaccination beginning September 21."
+    },
+    {
+      "topic": "인도네시아 의약품 할랄 인증과 제조 현지화",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 50,
+      "key_articles": [
+        {
+          "title": "Daewoong Pharmaceutical accelerates Indonesia halal push with smart factory - CHOSUNBIZ - Chosunbiz",
+          "importance": 60,
+          "url": "https://biz.chosun.com/en/en-science/2026/08/25/55L5Z2YCRJAJBM2Y6NJJYLQTAA/?outputType=amp"
+        },
+        {
+          "title": "FinancialContent - The Inauguration and Technology Cooperation Signing Ceremony of the Joint R&D Center for Artificial Intelligence and Active Pharmaceutical Ingredient (API) Biosynthesis Successfully Held - FinancialContent",
+          "importance": 47,
+          "url": "https://markets.financialcontent.com/stocks/article/abnewswire-2026-8-25-the-inauguration-and-technology-cooperation-signing-ceremony-of-the-joint-r-and-d-center-for-artificial-intelligence-and-active-pharmaceutical-ingredient-api-biosynthesis-successfully-held"
+        },
+        {
+          "title": "Daewoong Pharmaceutical Takes Proactive Steps for Indonesia's Mandatory Halal Certification... Joins Public-Private Joint Support Group - 아시아경제",
+          "importance": 42,
+          "url": "https://www.asiae.co.kr/en/article/bio-health/2026082510134863527"
+        }
+      ],
+      "summary_kr": "대웅제약의 인도네시아 의무 할랄 인증 대응과 스마트팩토리 추진이 보도됐고, API 바이오합성 공동 R&D 센터 협력도 함께 포착됐다.",
+      "summary_en": "Coverage highlights Daewoong Pharmaceutical’s response to mandatory halal certification in Indonesia, smart-factory efforts, and API biosynthesis R&D cooperation."
+    },
+    {
+      "topic": "의약품 사용 안전성과 의료현장 사고",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Most seniors to pay more for Medicare drug plans - Association of Health Care Journalists",
+          "importance": 47,
+          "url": "https://healthjournalism.org/blog/2026/08/most-seniors-to-pay-more-for-medicare-drug-plans/"
+        },
+        {
+          "title": "Drug mix-up at Ascension impacts at least 4 surgeries, leaves 1 patient paralyzed - Health Exec",
+          "importance": 47,
+          "url": "https://healthexec.com/topics/patient-care/care-delivery/drug-mix-ascension-impacts-least-4-surgeries-leaves-1-patient-paralyzed"
+        }
+      ],
+      "summary_kr": "미국 Medicare 의약품 플랜 비용 상승 전망과 Ascension의 약물 혼동 사고가 의료현장·의약품 접근성과 안전관리 이슈로 함께 나타났다.",
+      "summary_en": "Coverage spans rising Medicare drug-plan costs and a medication mix-up at Ascension affecting surgeries, linking access and medication safety."
+    },
+    {
+      "topic": "국가 임상시험 허브와 의약품 회복탄력성 정책",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 53,
+      "key_articles": [
+        {
+          "title": "BTC揭生醫政策主軸 搶占亞太臨床試驗樞紐 強化藥品韌性 | 唐可欣 | 品味生活 - 風傳媒",
+          "importance": 53,
+          "url": "https://www.storm.mg/article/11159029"
+        }
+      ],
+      "summary_kr": "대만 보도에서 아시아·태평양 임상시험 허브 확보와 의약품 회복탄력성 강화가 정책 축으로 제시됐다.",
+      "summary_en": "A Taiwan report frames becoming an Asia-Pacific clinical-trial hub and strengthening medicine resilience as policy priorities."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 11,
+      "significance": "high"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 5,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [
+    "시간 필터로 235건을 제외하고 185건을 분석 대상으로 사용함.",
+    "전통의학 클러스터는 2건 미만/저빈도여서 독립 핵심 이슈로 분리되지 않음."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "전일 한미약품 비만 기술수출 중심에서 FDA 신약·안전성, 독감 예방접종 정책, 인도네시아 인증으로 관심축이 분산됨."
+    ],
+    "changes": [
+      "허가와 약가가 한영 기사에 공통 출현했으며, 국내 예방접종 정책의 기사 반복이 두드러짐."
+    ]
+  },
+  "connections": [
+    "FDA 지정·심사와 국내 기업의 글로벌 개발은 임상 데이터 품질과 후속 허가 실행력으로 연결된다.",
+    "예방접종 대상 확대와 의약품 안전성 보도는 접근성 확대와 운영 통제의 균형 필요성을 보여준다."
+  ],
+  "data_quality": {
+    "analysis_ready_articles": 185,
+    "raw_total_articles": 420,
+    "time_filter_dropped": 235,
+    "cluster_count": 4,
+    "uncategorized_top_articles": 10,
+    "google_news_urls": 0
+  },
+  "generated_at": "2026-08-25T16:31:57.777738+09:00"
+}
