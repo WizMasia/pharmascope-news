@@ -1,0 +1,944 @@
+{
+  "date": "2026-08-25",
+  "total": 420,
+  "version": 1,
+  "generated_at": "2026-08-25T15:30:48.279123+09:00",
+  "korean": {
+    "total": 203,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 16,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 10,
+      "의료정책·인력": 25,
+      "전통의학": 2,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "14년만에 바뀐 '혁신형' 룰…복잡해진 '65점 셈법'에 제약사들 골머리 - ebn.co.kr",
+        "source": "ebn.co.kr",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:ebn.co.kr+24 | 최신:Tue, 25 Aug 2026 02:02:34 GMT+5 | 키워드+20 | 순위:200위+2",
+        "snippet": "연구개발비를 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. | 연구개발(R&D) 비용을 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. | 정부가 혁신형 제약기업 인증 기준을 14년 만에 전면 개편하면서 연구개발 투자액뿐 아니라 매출 대비 비중, 임상 진행 여부, 기술이전 성과, 연구개발비를 집행한 법인까지 들여다보기 시작했기 때문이다. | 특히 일정",
+        "summary_lines": [
+          "연구개발비를 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다.",
+          "연구개발(R&D) 비용을 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다.",
+          "정부가 혁신형 제약기업 인증 기준을 14년 만에 전면 개편하면서 연구개발 투자액뿐 아니라 매출 대비 비중, 임상 진행 여부, 기술이전 성과, 연구개발비를 집행한 법인까지 들여다보기 시작했기 때문이다.",
+          "특히 일정 점수만 넘으면 기업 수와 관계없이 인증하는 절대평가가 도입되면서 제약사들은 이제 혁신형 선정 가능성에 대한 확률보다 어떤 방식으로 점수를 만들어낼 것인지를 계산해야 하는 상황이다.",
+          "약가 우대라는 실익까지 걸려 있어 올해 인증 경쟁은 제약사들의 연구개발 전략과 사업구조에도 영향을 줄 전망이다."
+        ],
+        "content": "연구개발비를 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. [출처=오픈AI]\n연구개발(R&D) 비용을 많이 쓰는 제약사가 반드시 '혁신형'이 되는 시대가 끝나가고 있다. 정부가 혁신형 제약기업 인증 기준을 14년 만에 전면 개편하면서 연구개발 투자액뿐 아니라 매출 대비 비중, 임상 진행 여부, 기술이전 성과, 연구개발비를 집행한 법인까지 들여다보기 시작했기 때문이다.\n특히 일정 점수만 넘으면 기업 수와 관계없이 인증하는 절대평가가 도입되면서 제약사들은 이제 혁신형 선정 가능성에 대한 확률보다 어떤 방식으로 점수를 만들어낼 것인지를 계산해야 하는 상황이다. 약가 우대라는 실익까지 걸려 있어 올해 인증 경쟁은 제약사들의 연구개발 전략과 사업구조에도 영향을 줄 전망이다.\n◆혁신형 쟁점…'몇 곳 뽑느냐'에서 '65점 어떻게 만드느냐'로\n25일 업계에 따르면 보건복지부는 지난 18일부터 9월 18일까지 2026년도 혁신형 제약기업 신규 인증 신청을 받고 있다. 이번 인증은 기존 상대평가 방식에서 100점 만점에 65점 이상이면 인증하는 절대평가로 바뀌었다. 평가항목도 기존 25개에서 17개로 줄었다.\n기업 입장에서는 경쟁사의 순위보다 자신의 점수표가 중요해졌다. 65점이라는 기준을 넘길 수 있다면 신청 기업 수와 관계없이 인증을 받을 수 있어서다. 현재 혁신형 제약기업은 47곳이지만 올해 신규 인증에는 100곳 이상의 기업이 도전할 가능성이 거론된다.\n그렇다고 인증 문턱 자체가 낮아진 것은 아니다. 오히려 장기적으로는 연구개발 투자 요건이 강화된다. 의약품 매출 1000억원 미만 기업은 R&D 투자 비율 기준이 기존 7%에서 9%로, 1000억원 이상 기업은 5%에서 7%로 올라간다. 1000억원 미만 기업의 최소 연구개발비도 50억원에서 70억원으로 높아진다. 다만 강화된 비율 기준은 시행 후 3년간 유예된다.\n달라진 것은 평가의 방향이다. R&D 투자 규모뿐 아니라 임상시험과 수출 등 정량지표가 확대됐고, 후보물질 개발과 기술이전 등 실제 연구개발 활동과 성과도 평가한다. 국가필수·희귀·퇴장방지의약품 생산이나 국산 원료 사용처럼 공급망 안정화에 기여한 기업도 점수를 받을 수 있다.\n외국계 기업에는 국내 연구·생산시설과 공동연구 등을 평가하는 별도 유형까지 마련됐다. 다시 말해 이번 개편은 R&D를 많이 하는 기업을 고르는 데서 혁신 역량을 여러 방식으로 증명하는 기업을 고르는 쪽으로 평가의 무게중심을 옮긴 것에 가깝다.\n보건복지부는 지난 18일부터 9월 18일까지 2026년도 혁신형 제약기업 신규 인증 신청을 받고 있다. [출처=픽사베이]\n◆R&D 늘렸는데 점수는 왜 떨어지나…'비율의 함정'도 변수\n제약사들이 가장 복잡하게 계산해야 할 부분은 R&D 투자 비중이다. 연구개발비를 늘리는 것만으로는 충분하지 않아서다. 매출이 그보다 더 빠르게 증가하면 R&D 투자액이 늘었는데도 매출 대비 비중은 떨어질 수 있다. 실제 주요 제약사 가운데서도 R&D 투자를 확대하고도 매출 증가폭이 더 커지면서 R&D 비중이 낮아진 사례가 나타나고 있다.\n기업 입장에서는 성장세가 가파른 것이 분명한 호재인데 인증 기준에서는 반드시 유리한 결과가 아니게 되는 것이다. 반대로 매출 규모가 작은 기업은 상대적으로 높은 R&D 비중을 확보하기 쉽다.\n정부가 매출 1000억원 미만 기업의 R&D 절대 투자 규모를 별도 구간으로 세분화한 것도 이 같은 문제를 일부 보완하기 위한 조치다. 연평균 R&D 투자액이 450억원 이상이면 6점, 250억~450억원 미만은 4.8점, 150억~250억원 미만은 3.6점, 50억~150억원 미만은 2.4점을 받는 방식이다.\n연구개발을 어느 법인이 맡고 있는지도 중요해졌다. 인증 신청기업의 별도재무제표를 기준으로 R&D 비용을 산정하기 때문에 신약개발 자회사가 자체적으로 집행한 연구비는 모회사 실적으로 그대로 인정되지 않는다. 반면 신청기업이 부담한 위탁연구개발비나 의약품 연구개발과 직접 관련된 기술도입비는 요건을 충족하면 인정받을 수 있다.\n정부가 혁신형 제약기업 인증 기준을 14년 만에 전면 개편하기로 했다. [출처=픽사베이]\n임상 역시 단순히 계획을 승인받은 것만으로는 부족하고 실제 투약과 연구개발비 집행이 이뤄져야 한다. 기술이전은 신청 마감일까지 최종 계약이 체결돼 법적 효력이 발생해야 실적으로 인정된다.\n이제 제약사들은 연구개발비를 얼마나 투입했는지 뿐만 아니라 어느 법인이 부담했는지, 매출 대비 어느 정도인지, 임상과 기술이전으로 얼마나 이어졌는지까지 관리해야 한다. 인증제도가 연구개발 투자를 평가하는 장치를 넘어 기업의 연구개발 조직과 투자 구조를 점검하는 장치로 바뀐 셈이다.\n특히 인증의 경제적 가치가 커졌다는 점에서 기업들의 움직임도 빨라질 전망이다. 정부가 제네릭 약가 산정률을 낮추는 대신 혁신형 제약기업에는 신규 제네릭 등에 대한 우대 방안을 적용할 계획이어서 인증 여부가 실제 수익성과 연결되기 때문이다.\n제약업계 관계자는 \"매출이 R&D보다 빠르게 늘어난 기업은 연구비를 증액하고도 R&D 비중에서 손해를 볼 수 있다. 신약개발 자회사에 연구비를 집중한 기업 역시 모회사 실적으로 그대로 인정받기 어렵다. 반대로 임상 투약이나 기술이전 계약을 실제 성과로 만들어낸 기업은 추가 점수를 확보할 수 있다\"고 설명했다.\n저작권자 © 이비엔(EBN)뉴스센터 무단전재 및 재배포 금지\n이재아 기자\nleejaea555@ebn.co.kr\n다른기사 보기\n관련기사\n'비만약·M&A' 훈풍타고…K제약바이오, '퀀텀점프' 채비\nmRNA 암 치료 '상용화 시험대'…국내선 전달체·신생항원 기술 경쟁\n유통사 떼고 직접 판다…K바이오, 미국서 '직판 승부'\n'비대면 진료' 제도화 다가오는데…마지막 퍼즐 '약 배송' 아직 못 풀었다\n키워드\n#혁신형 제약기업\n#인증 기준 재편\n#임상 투약\n#기술이전 계약",
+        "content_length": 2850,
+        "published_time": "Tue, 25 Aug 2026 02:02:34 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 02:02:34 GMT",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1721551",
+        "source_url": "https://www.ebn.co.kr"
+      },
+      {
+        "title": "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Mon, 24 Aug 2026 22:51:02 GMT+5 | 키워드+10 | 순위:368위+2",
+        "snippet": "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH | 구글 검색 선호 출처로 추가 | 등록 2026-08-25 오전 7:51:02 | 수정 2026-08-25 오전 7:51:02 | [이데일리 김형일 기자] NH투자증권이 한미약품(128940)에 대해 로슈 그룹 자회사 제넨텍과의 대규모 비만 신약 기술이전 계약으로 신개념 비만치료제(LA-UCN2)의 신약 가치가 높아",
+        "summary_lines": [
+          "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH",
+          "구글 검색 선호 출처로 추가",
+          "등록 2026-08-25 오전 7:51:02",
+          "수정 2026-08-25 오전 7:51:02",
+          "[이데일리 김형일 기자] NH투자증권이 한미약품(128940)에 대해 로슈 그룹 자회사 제넨텍과의 대규모 비만 신약 기술이전 계약으로 신개념 비만치료제(LA-UCN2)의 신약 가치가 높아질 것으로 전망했다."
+        ],
+        "content": "한미약품, 제넨텍과 비만 신약 3.2조 기술이전…목표가 76만원 상향-NH\n구글 검색 선호 출처로 추가\n등록 2026-08-25 오전 7:51:02\n수정 2026-08-25 오전 7:51:02\n가\n가\n김형일 기자\n기자구독\n페이스북\n트위터\n메일\n프린트\nKAKAO\nURL\n[이데일리 김형일 기자] NH투자증권이 한미약품(128940)에 대해 로슈 그룹 자회사 제넨텍과의 대규모 비만 신약 기술이전 계약으로 신개념 비만치료제(LA-UCN2)의 신약 가치가 높아질 것으로 전망했다. 투자의견 ‘매수(BUY)’를 유지하고 목표주가는 기존 54만원에서 76만원으로 상향했다.\n25일 한승연 NH투자증권 연구원은 “전일 로슈 초대형 비만 기술이전으로 LA-UCN2 신약가치를 기존 2조원에서 4조 1000억원으로 조정했다”며 “한미약품에 귀속되는 LA-UCN2 신약가치는 2조 3000억원으로 산정했다”고 분석했다.\n제넨텍과의 계약 규모는 최대 23억 500만달러(3조 1892억원)로, 한미약품은 선급금 1억 9000만달러(2629억원)를 받는다. 제넨텍은 한국을 제외한 전 세계에서 비만 신약 HM17321의 개발·제조·상업화에 대한 독점권을 확보한다. 한미약품은 현재 진행 중인 임상 1상을 완료한 뒤 임상 2상부터 제넨텍이 개발을 이어갈 예정이다.\nLA-UCN2는 한미약품이 개발 중인 지속형 UCN2 유사체로, 체중 감량과 근육 보존을 동시에 목표로 하는 비인크레틴 계열 비만 신약 후보물질이다. 현재 임상 1상이 진행 중이며, 기존 위고비·마운자로 등 글루카곤 유사 펩타이드-1(GLP-1) 계열 치료제와의 병용 가능성도 제시되고 있다.\n한 연구원은 LA-UCN2를 글로벌 1등 ‘근육유지(quality)’ 비만 신약 후보로 기대하며 2046년 위험조정 전 매출액을 79억달러로 전망했다. 매출 추정에는 로슈 비만 치료제와의 병용 매출 30억달러와 그 외 비만 치료제와의 병용 매출 49억달러를 반영했다.\n올해 한미약품은 릴리와의 13억달러(1조 8000억원) 규모 기술이전에 이어 이번 제넨텍과의 대형 계약까지 두 건의 초대형 기술이전을 체결했다. 한 연구원은 향후 주요 이벤트로 4분기 비만 치료제의 식품의약품안전처 허가, 2027년 상반기 머크의 MASH 치료제 임상 3상 진입 여부 결정, 추가 기술이전 등을 제시했다.\n글로벌 비만 치료제 시장은 일라이 릴리와 노보 노디스크가 선두권을 형성하고 있으며 로슈·화이자·아스트라제네카가 뒤를 잇는 구도로 평가했다. 로슈는 CT388과 페트렐린타이드(Petrelintide)를 개발하고 있지만 탑티어 업체들과의 격차가 있는 상황에서 새로운 기전의 근육유지 비만 신약 후보물질을 확보해 경쟁력 강화를 시도하고 있다는 분석이다.\n한 연구원은 “총규모 23억달러는 단일 후보물질 기준 역대 글로벌 비만 딜 중 두 번째로 큰 규모”라며 “로슈의 비만 사업 확대 의지를 보여주는 계약”이라고 평가했다.\n주요뉴스\n표창원 장미란씨, 검안상 목맴사 추정…단정은 금물\n200억 집 사고 100억 꾸몄다…회장님은 '공짜살이'\n대출규제에 집 살 돈 막힌 3040...20대만 노났네\n저작권자 © 이데일리 - 무단전재, 재배포 금지\n뉴스레터 구독\n|\n지면 구독\n이데일리\n추천 뉴스\nby Taboola\n실시간\n급상승 뉴스\n1\n\"박스 하나 놓고 갑니다\" 전화 '뚝'…9년간 7억 두고갔다)\n2\n'5·18 비하 응원' 배재고 야구부 2명…결국 유니폼 벗었다)\n3\n삼전닉스 폭등에 \"지금이 기회다\" 탈출…개미들 936억 던졌다)\n4\n정유라 \"엄마, 대소변도 못가려...조국은 떵떵거리는데\")\n5\n\"중국인이 왜 국민연금을?\" 논란에..李대통령 \"진짜 실력은\")\n오늘의\n포토\n왼쪽\n오른쪽\n[포토]강민진,다른 선수도 촬영해야죠\n[SHOT+]'40년 지하 비밀공간'의 변신…K-문화 스테이션\n에버랜드, 아기판다 이름 투표 참여자 수 10만명 돌파\n[포토] 최찬, 오늘 31홀 레이스 끝에 우승 달성\n[포토]700만 고지 넘은 크리스토퍼 놀란 감독의 영화 '오디세이'\n[포토]고위당정협의회 향하는 한성숙-김민석-강훈식\n[포토] 김승민, 강력한 타구를 날린다\n[골프IN화보] 고지원, BC카드·한경 KLPGA 챔피언십 3라운드 공동 17위\n[포토] 장유빈, 나이스 버디\n[포토]정환,노련한 첫 티샷\n당신을 위한\n맞춤 뉴스\nby Dable\n소셜 댓글\n많이 본 뉴스\n뉴스\n증권\n연예\n1\n\"같은 사람이면 48억 수령\"…로또 1등 '수동' 4장, 한곳에서 나와\n2\n\"박스 하나 놓고 갑니다\" 전화 '뚝'…9년간 7억 두고갔다\n3\n[오늘의 운세] 2026년 8월 24일 띠별 운세\n4\n'5·18 비하 응원' 배재고 야구부 2명…결국 유니폼 벗었다\n5\n\"15m 높이, 25분 간 거꾸로 대롱대롱\"…결국 1인당 4억원 배상\n6\n[속보]이억원 “스테이블코인 디지털자산기본법, 본격 속도낼 것”\n7\n“예정대로 1300만명 코인 과세”…오늘 국세청 회의\n8\n\"홀인원 한 번이면 무쏘·토레스가 내 차\"\n9\n“입주청소 맡겼더니 오물 폭탄”…업체 측 해명은\n10\n[오늘의 운세] 2026년 8월 25일 띠별 운세\n1\n[단독]사재 담보로 홈플 위기 넘긴 김병주 회장, 500억 대출 조건 조정\n2\n110조 쏘는데 삼전 6%↓…\"배당정책 모호해 저평가\"\n3\n[마켓인]JTBC 회생절차 초읽기..인가 전 M&A로 새 주인 찾나\n4\n110조 vs 40조…삼전, 세 배 더 쐈는데 주가는 하닉에 밀려\n5\n“고PER 반도체, 매수? 매도?”…개미 울리는 판단의 함정[인터뷰]\n6\n알파칩스, 글로벌 AI 반도체 시장 공략…“해외 수주 기반 본격화”\n7\n'자산군 분산' 무용지물 만든 AI…'기준 포트폴리오'로 새 길 뚫는 투자자들\n8\n“16세 미만 SNS 막는다”…뉴질랜드, 플랫폼에 초강력 벌금 추진\n9\n태웅로직스, 이투마스 652억에 인수…글로벌 이커머스 물류 사업 진출\n10\n이엔셀 최대주주, 삼성생명공익재단 등과 의결권 공동행사 약정 1년 연장\n1\n농구선수 우지원 딸 우서윤, 미스코리아 진 당선…전희철 딸은 무관\n2\n'장동윤 결혼' 김승윤 누구?…'독수리 5형제' 안재욱 딸\n3\n\"남편 관리 좀\" 송지은, 남편 박위 낙상사고 CCTV 공개 논란에 '불똥'\n4\n장동윤, 5살 연하 배우 김승윤과 결혼 깜짝 발표\n5\n[해피라이프]크리에이티브 에이징부터 웩슬러 검사까지…세대별 성장법\n6\n박은빈·양세종 주연 '오싹한 연애', 최고 시청률로 종영\n7\n더보이즈 주연, 이종석·이준혁 소속사 에이스팩토리 전속계약\n8\n'폭로' 홍민기 전 여자친구, 또 자택 찾아가 난동…경찰 출동\n9\n손예진·지창욱·나나 출연한 넷플릭스 '스캔들', 내달 18일 공개\n10\nBTS 진·지예은 빠진 '대환장 기안장2', 내달 22일 공개\n바이오 투자 길라잡이\n팜이데일리\n왼쪽\n오른쪽\n리쥬란 등 성장률 93.5%→6.2% 뚝...독점 프리미엄 사라질 위기\n셀트리온, ‘옴리클로’ 300㎎ 유럽 출시…하반기 입찰 확대\nFI로부터 지분 장기보유 약속받았다는 인제니아…오버행 우려 완화되나\nHanmi Signs $2.3B Obesity Drug Deal With Roche\n한미약품 3.5조 잭팟에 제약株 불붙었다…오름·앱클론도 급등\nMICE 최신정보를 한눈에\nTheBeLT\n왼쪽\n오른쪽\n방한 외국인 월 200만 시대 열렸다…中·대만 '견인' 속 동남아는 '정체'\n스페인 현지의 맛 펼쳐진다… 스페인 미식 캠페인 '잇 스페인, 드링크 스페인'\n해외지사 30곳에 年 201억…관광공사 ‘성과표’ 다시 본다\n재미에 지식을 더하다\n영상+\n왼쪽\n오른쪽\n바르고 10분 만에 효과 폭발?! 뇌를 속이는 발기부전 신약의 정체\nK-바이오 미국 진출 마케팅 파트너 선정 가이드 (와이즈버즈 최호준 대표) [바이오스터디]\n2026년 세제개편안 총정리｜\"지금 팔아야 되나요?\" 최대 2배 오른 보유세 부담 커진 집주인 [주간이슈, 집어드림]\n반도체와 조·방·원 + 휴머노이드까지 한 번에! 하반기 필승 전략 'ACE 반도체Plus전략산업 ETF' (박지환 차장) [왓츠유어 ETF]\n서류상으론 남남입니다만... (feat. 서울에 내 집 마련 성공기) [무엇이든 물어보살]\n두근두근\n핫포토\n\"너의 이름은\"\n알레띠-맨시티 야호~\n멋찜 폭발!\n독보적 비주얼\n왼쪽\n오른쪽\n당신의 드림카는?\nㅣ오토in\n마이바흐 최상위 맞춤 제작 ‘메이드 투 메져’ 국내 첫선\n나이스 샤아앗~\nㅣ골프in\n[골프IN화보] 최은우, 최종 라운드 공동 15위로 대회 마무리… BC카드·한경 KLPGA 챔피언십\n왼쪽\n오른쪽\n이슈기획\nㅣ TheBeLT\n방한 외국인 월 200만 시대 열렸다…中·대만 '견인' 속 동남아는 '정체'\n이슈기획\nㅣ 롤러코스피\n'삼전닉스' 상승 전환에 코스피↑…6730선 회복\n이슈기획\nㅣ 미국-이란 전쟁\n파키스탄·이란, 전쟁 종식 협의 ‘상당한 진전’…호르무즈 재개 논의\n이슈기획\nㅣ 李 정부 부동산 대책\n'2차 용산담판' 내일 진행…'산재부지'가 물꼬 틀까\n이슈기획\nㅣ 널뛰는 환율\n달러 강세 VS 수출기업 월말 네고…환율 1380원대 지속[외환브리핑]\n오늘의 주요 기사\n성과급 전액 현금 달라?…25표 차로 뒤집힌 SK하닉 합의안\n\"한 달 30% 뛴 금 ETF에 찬물…\"더는 못 오른다\"\"\n200억 집 사고 100억 꾸몄다…회장님은 '공짜살이'\n.\n재경차관 \"ISA 개편안, 의견 듣고 수정 중\"\n.\n오세훈 “용산공원 대신 탄천물재생센터…최대 1.3만 가구 확보 가능”\n.\n세계 1위 백화점, 서울서 나온다[only이데일리]\n.\n회계사 시험 붙고도 '쉬었음'…전문직도 못 피한 한파\n.\n[단독]사재 담보로 홈플 위기 넘긴 김병주 회장, 500억 대출 조건 조정\n.\n삼전닉스에 美국채 담은 ETF 나왔다…퇴직연금 100% 투자도",
+        "content_length": 4673,
+        "published_time": "Mon, 24 Aug 2026 22:51:02 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 22:51:02 GMT",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=02482966645550928&mediaCodeNo=257",
+        "source_url": "https://www.edaily.co.kr"
+      },
+      {
+        "title": "독감 무료접종 14세까지 확대…9월 21일부터 시작 - edaily.co.kr",
+        "source": "edaily.co.kr",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:edaily.co.kr+28 | 최신:Tue, 25 Aug 2026 01:18:32 GMT+5 | 키워드+10 | 순위:398위+2",
+        "snippet": "독감 무료접종 14세까지 확대…9월 21일부터 시작 | 생후 6개월~14세 어린이·임신부·65세 이상 무료 | 2회 접종 어린이·임신부 9월 21일 첫 접종 | 75세 이상 어르신은 10월 12일부터 순차 접종 | 전국 2만3000여개 위탁의료기관·보건소서 가능",
+        "summary_lines": [
+          "독감 무료접종 14세까지 확대…9월 21일부터 시작",
+          "생후 6개월~14세 어린이·임신부·65세 이상 무료",
+          "2회 접종 어린이·임신부 9월 21일 첫 접종",
+          "75세 이상 어르신은 10월 12일부터 순차 접종",
+          "전국 2만3000여개 위탁의료기관·보건소서 가능"
+        ],
+        "content": "독감 무료접종 14세까지 확대…9월 21일부터 시작\n생후 6개월~14세 어린이·임신부·65세 이상 무료\n2회 접종 어린이·임신부 9월 21일 첫 접종\n75세 이상 어르신은 10월 12일부터 순차 접종\n전국 2만3000여개 위탁의료기관·보건소서 가능\n구글 검색 선호 출처로 추가\n등록 2026-08-25 오전 10:18:32\n수정 2026-08-25 오전 10:18:32\n가\n가\n이지현 기자\n기자구독\n페이스북\n트위터\n메일\n프린트\nKAKAO\nURL\n[이데일리 이지현 기자] 올해부터 인플루엔자(독감) 국가예방접종을 무료로 받을 수 있는 어린이의 연령이 기존 13세에서 14세까지로 확대된다. 이에 따라 생후 6개월부터 14세까지 어린이와 임신부, 65세 이상 어르신을 대상으로 한 무료 독감 예방접종이 오는 9월 21일부터 순차적으로 시작된다.\n이미지=AI활용 제작\n질병관리청은 오는 9월 21일부터 내년 4월 30일까지 2026~2027절기 인플루엔자 국가예방접종을 실시한다고 25일 밝혔다.\n특히 이번 절기부터 학령기 청소년의 인플루엔자 유행 확산을 막고 집단 보호를 강화하기 위해 어린이 무료접종 지원 연령을 기존 생후 6개월~13세에서 생후 6개월~14세로 확대한다. 대상은 2012년 1월 1일부터 2026년 8월 31일까지 출생자다.\n접종은 대상별로 순차적으로 시작된다. 유행 전 접종을 마쳐야 하는 2회 접종 대상 어린이와 임신부는 9월 21일부터 접종할 수 있다. 1회 접종 대상 어린이는 9월 28일부터다. 어르신은 10월 12일 75세 이상을 시작으로 연령대별로 순차적으로 접종한다.\n이번 절기에도 세계보건기구(WHO)가 권장한 바이러스주가 모두 포함된 3가 백신을 사용한다.\n접종 대상자는 주소지와 관계없이 가까운 위탁의료기관이나 보건소에서 무료로 접종받을 수 있다. 전국 위탁의료기관은 약 2만3000개소이며 관할 보건소나 예방접종도우미 누리집에서 확인할 수 있다.\n국가예방접종 지원 대상이 아닌 경우 인플루엔자 예방접종을 시행하는 의료기관에서 유료로 접종할 수 있다. 일부 지방자치단체는 자체적으로 예방접종 비용을 추가 지원하고 있어 관할 보건소를 통해 지원 여부를 확인할 수 있다.\n임승관 질병관리청장은 “인플루엔자 예방접종은 어린이, 임신부, 어르신 모두에게 인플루엔자로 인한 입원과 사망을 줄이고 질병 부담을 낮추는 데 매우 효과적인 수단”이라며 “이번 절기부터 국가예방접종 지원 대상이 14세까지 확대된 만큼 해당 학령기 아동·청소년이 일정에 맞춰 접종받을 수 있도록 학부모들의 관심과 참여를 부탁한다”고 말했다.\n주요뉴스\n표창원 장미란씨, 검안상 목맴사 추정…단정은 금물\n200억 집 사고 100억 꾸몄다…회장님은 '공짜살이'\n대출규제에 집 살 돈 막힌 3040...20대만 노났네\n저작권자 © 이데일리 - 무단전재, 재배포 금지\n뉴스레터 구독\n|\n지면 구독\n이데일리\n추천 뉴스\nby Taboola\n실시간\n급상승 뉴스\n1\n\"박스 하나 놓고 갑니다\" 전화 '뚝'…9년간 7억 두고갔다)\n2\n'5·18 비하 응원' 배재고 야구부 2명…결국 유니폼 벗었다)\n3\n조현문 \"조현준 증언 대부분 허위\"…효성그룹엔 \"회장 사적대리인이냐\")\n4\n대법 \"거부권 고지 없이 음주운전 단속 채혈, 위법수집증거\")\n5\n삼전닉스 폭등에 \"지금이 기회다\" 탈출…개미들 936억 던졌다)\n오늘의\n포토\n왼쪽\n오른쪽\n[포토]강민진,다른 선수도 촬영해야죠\n[SHOT+]'40년 지하 비밀공간'의 변신…K-문화 스테이션\n에버랜드, 아기판다 이름 투표 참여자 수 10만명 돌파\n[포토] 최찬, 오늘 31홀 레이스 끝에 우승 달성\n[포토]700만 고지 넘은 크리스토퍼 놀란 감독의 영화 '오디세이'\n[포토]고위당정협의회 향하는 한성숙-김민석-강훈식\n[포토] 김승민, 강력한 타구를 날린다\n[골프IN화보] 고지원, BC카드·한경 KLPGA 챔피언십 3라운드 공동 17위\n[포토] 장유빈, 나이스 버디\n[포토]정환,노련한 첫 티샷\n당신을 위한\n맞춤 뉴스\nby Dable\n소셜 댓글\n많이 본 뉴스\n뉴스\n증권\n연예\n1\n\"같은 사람이면 48억 수령\"…로또 1등 '수동' 4장, 한곳에서 나와\n2\n\"박스 하나 놓고 갑니다\" 전화 '뚝'…9년간 7억 두고갔다\n3\n[오늘의 운세] 2026년 8월 24일 띠별 운세\n4\n'5·18 비하 응원' 배재고 야구부 2명…결국 유니폼 벗었다\n5\n\"15m 높이, 25분 간 거꾸로 대롱대롱\"…결국 1인당 4억원 배상\n6\n[속보]이억원 “스테이블코인 디지털자산기본법, 본격 속도낼 것”\n7\n“예정대로 1300만명 코인 과세”…오늘 국세청 회의\n8\n\"홀인원 한 번이면 무쏘·토레스가 내 차\"\n9\n“입주청소 맡겼더니 오물 폭탄”…업체 측 해명은\n10\n[오늘의 운세] 2026년 8월 25일 띠별 운세\n1\n[단독]사재 담보로 홈플 위기 넘긴 김병주 회장, 500억 대출 조건 조정\n2\n110조 쏘는데 삼전 6%↓…\"배당정책 모호해 저평가\"\n3\n[마켓인]JTBC 회생절차 초읽기..인가 전 M&A로 새 주인 찾나\n4\n110조 vs 40조…삼전, 세 배 더 쐈는데 주가는 하닉에 밀려\n5\n“고PER 반도체, 매수? 매도?”…개미 울리는 판단의 함정[인터뷰]\n6\n알파칩스, 글로벌 AI 반도체 시장 공략…“해외 수주 기반 본격화”\n7\n'자산군 분산' 무용지물 만든 AI…'기준 포트폴리오'로 새 길 뚫는 투자자들\n8\n“16세 미만 SNS 막는다”…뉴질랜드, 플랫폼에 초강력 벌금 추진\n9\n태웅로직스, 이투마스 652억에 인수…글로벌 이커머스 물류 사업 진출\n10\n이엔셀 최대주주, 삼성생명공익재단 등과 의결권 공동행사 약정 1년 연장\n1\n농구선수 우지원 딸 우서윤, 미스코리아 진 당선…전희철 딸은 무관\n2\n'장동윤 결혼' 김승윤 누구?…'독수리 5형제' 안재욱 딸\n3\n\"남편 관리 좀\" 송지은, 남편 박위 낙상사고 CCTV 공개 논란에 '불똥'\n4\n장동윤, 5살 연하 배우 김승윤과 결혼 깜짝 발표\n5\n[해피라이프]크리에이티브 에이징부터 웩슬러 검사까지…세대별 성장법\n6\n박은빈·양세종 주연 '오싹한 연애', 최고 시청률로 종영\n7\n더보이즈 주연, 이종석·이준혁 소속사 에이스팩토리 전속계약\n8\n'폭로' 홍민기 전 여자친구, 또 자택 찾아가 난동…경찰 출동\n9\n손예진·지창욱·나나 출연한 넷플릭스 '스캔들', 내달 18일 공개\n10\nBTS 진·지예은 빠진 '대환장 기안장2', 내달 22일 공개\n바이오 투자 길라잡이\n팜이데일리\n왼쪽\n오른쪽\n리쥬란 등 성장률 93.5%→6.2% 뚝...독점 프리미엄 사라질 위기\n셀트리온, ‘옴리클로’ 300㎎ 유럽 출시…하반기 입찰 확대\nFI로부터 지분 장기보유 약속받았다는 인제니아…오버행 우려 완화되나\nHanmi Signs $2.3B Obesity Drug Deal With Roche\n한미약품 3.5조 잭팟에 제약株 불붙었다…오름·앱클론도 급등\nMICE 최신정보를 한눈에\nTheBeLT\n왼쪽\n오른쪽\n방한 외국인 월 200만 시대 열렸다…中·대만 '견인' 속 동남아는 '정체'\n스페인 현지의 맛 펼쳐진다… 스페인 미식 캠페인 '잇 스페인, 드링크 스페인'\n해외지사 30곳에 年 201억…관광공사 ‘성과표’ 다시 본다\n재미에 지식을 더하다\n영상+\n왼쪽\n오른쪽\n바르고 10분 만에 효과 폭발?! 뇌를 속이는 발기부전 신약의 정체\nK-바이오 미국 진출 마케팅 파트너 선정 가이드 (와이즈버즈 최호준 대표) [바이오스터디]\n2026년 세제개편안 총정리｜\"지금 팔아야 되나요?\" 최대 2배 오른 보유세 부담 커진 집주인 [주간이슈, 집어드림]\n반도체와 조·방·원 + 휴머노이드까지 한 번에! 하반기 필승 전략 'ACE 반도체Plus전략산업 ETF' (박지환 차장) [왓츠유어 ETF]\n서류상으론 남남입니다만... (feat. 서울에 내 집 마련 성공기) [무엇이든 물어보살]\n두근두근\n핫포토\n\"너의 이름은\"\n알레띠-맨시티 야호~\n멋찜 폭발!\n독보적 비주얼\n왼쪽\n오른쪽\n당신의 드림카는?\nㅣ오토in\n마이바흐 최상위 맞춤 제작 ‘메이드 투 메져’ 국내 첫선\n나이스 샤아앗~\nㅣ골프in\n[골프IN화보] 최은우, 최종 라운드 공동 15위로 대회 마무리… BC카드·한경 KLPGA 챔피언십\n왼쪽\n오른쪽\n이슈기획\nㅣ TheBeLT\n방한 외국인 월 200만 시대 열렸다…中·대만 '견인' 속 동남아는 '정체'\n이슈기획\nㅣ 롤러코스피\n'삼전닉스' 상승 전환에 코스피↑…6730선 회복\n이슈기획\nㅣ 미국-이란 전쟁\n파키스탄·이란, 전쟁 종식 협의 ‘상당한 진전’…호르무즈 재개 논의\n이슈기획\nㅣ 李 정부 부동산 대책\n'2차 용산담판' 내일 진행…'산재부지'가 물꼬 틀까\n이슈기획\nㅣ 널뛰는 환율\n달러 강세 VS 수출기업 월말 네고…환율 1380원대 지속[외환브리핑]\n오늘의 주요 기사\n성과급 전액 현금 달라?…25표 차로 뒤집힌 SK하닉 합의안\n\"한 달 30% 뛴 금 ETF에 찬물…\"더는 못 오른다\"\"\n200억 집 사고 100억 꾸몄다…회장님은 '공짜살이'\n.\n재경차관 \"ISA 개편안, 의견 듣고 수정 중\"\n.\n오세훈 “용산공원 대신 탄천물재생센터…최대 1.3만 가구 확보 가능”\n.\n세계 1위 백화점, 서울서 나온다[only이데일리]\n.\n회계사 시험 붙고도 '쉬었음'…전문직도 못 피한 한파\n.\n[단독]사재 담보로 홈플 위기 넘긴 김병주 회장, 500억 대출 조건 조정\n.\n삼전닉스에 美국채 담은 ETF 나왔다…퇴직연금 100% 투자도",
+        "content_length": 4511,
+        "published_time": "Tue, 25 Aug 2026 01:18:32 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 01:18:32 GMT",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03024166645550928&mediaCodeNo=257",
+        "source_url": "https://www.edaily.co.kr"
+      },
+      {
+        "title": "신라젠 'BAL0891', FDA 희귀의약품 지정 \"AML 신약 개발 탄력\" - 파이낸셜뉴스",
+        "source": "파이낸셜뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:파이낸셜뉴스+10 | 최신:Tue, 25 Aug 2026 05:17:27 GMT+5 | 키워드+25 | 순위:346위+2",
+        "snippet": "TTK·PLK1 동시 표적 차세대 항암제 | 임상 비용 세액공제·신속심사 등 지원 | [파이낸셜뉴스] 신라젠의 차세대 항암 신약 후보물질 BAL0891이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.신라젠은 BAL0891이 FDA로부터 AML 적응증 희귀의약품(Orphan Drug) 지정을 받았다고 25일 밝혔다. | BAL0891은 암세포 분열에 관",
+        "summary_lines": [
+          "TTK·PLK1 동시 표적 차세대 항암제",
+          "임상 비용 세액공제·신속심사 등 지원",
+          "[파이낸셜뉴스] 신라젠의 차세대 항암 신약 후보물질 BAL0891이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.신라젠은 BAL0891이 FDA로부터 AML 적응증 희귀의약품(Orphan Drug) 지정을 받았다고 25일 밝혔다.",
+          "BAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적하는 계열 내 최초(Fist-in-class) 항암 후보물질이다.",
+          "현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행하고 있다."
+        ],
+        "content": "관련종목\n신라젠(215600)\nTTK·PLK1 동시 표적 차세대 항암제\n임상 비용 세액공제·신속심사 등 지원\n[파이낸셜뉴스] 신라젠의 차세대 항암 신약 후보물질 BAL0891이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.신라젠은 BAL0891이 FDA로부터 AML 적응증 희귀의약품(Orphan Drug) 지정을 받았다고 25일 밝혔다.\nBAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적하는 계열 내 최초(Fist-in-class) 항암 후보물질이다. 현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행하고 있다.\nFDA 희귀의약품 지정은 미국 내 환자 수가 20만명 미만인 희귀질환 치료제 개발을 지원하기 위한 제도다. 지정에 따라 신라젠은 BAL0891 개발 과정에서 FDA 임상 연구비 지원사업 신청 자격을 확보하게 됐다.\n이와 함께 미국 내 임상시험 비용의 25% 세액공제, FDA의 임상시험 계획 자문 및 신속심사 지원, 신약 허가 신청 수수료 면제 등의 혜택도 받을 수 있다. 향후 품목허가까지 성공할 경우 동일 약물과 적응증에 대해 원칙적으로 7년간 미국 시장 독점권도 확보할 수 있다.\n이번 지정 대상인 AML은 골수에서 백혈구가 암세포로 변해 빠르게 증식하는 혈액암이다. 병세가 빠르게 진행되는 데다 기존 치료법에서도 부작용과 재발, 치료제 내성 등의 한계가 존재한다.\nBAL0891은 암세포 분열 과정의 핵심 인자인 TTK와 PLK1을 동시에 겨냥하는 만큼 기존 치료제에 내성이 발생한 AML 환자에게 새로운 치료 옵션이 될 가능성이 주목된다.\n신라젠 관계자는 \"임상 초기 단계부터 희귀의약품으로 지정받은 만큼 BAL0891의 의료적 중요성과 잠재력을 어느 정도 공인받은 것으로 보고 있다\"며 \"이번 성과를 바탕으로 남은 임상에서 더욱 긍정적인 결과를 도출할 수 있도록 최선을 다하겠다\"고 말했다.\n[email protected]\n강중모 기자\n#AML\n#FDA\n#bal0891\n#희귀의약품\n#신라젠\n※ 저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "content_length": 1035,
+        "published_time": "Tue, 25 Aug 2026 05:17:27 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 05:17:27 GMT",
+        "url": "https://www.fnnews.com/news/202608251416010860",
+        "source_url": "https://www.fnnews.com"
+      },
+      {
+        "title": "신라젠, 항암신약 개발 청신호…FDA 희귀의약품 지정 - 한스경제",
+        "source": "한스경제",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:한스경제+10 | 최신:Tue, 25 Aug 2026 03:37:55 GMT+5 | 키워드+25 | 순위:348위+2",
+        "snippet": "BAL0891, 급성골수성백혈병 적응증 확보…세액공제·신속심사 등 지원 | 신라젠 CI./신라젠 제공 | | 서울=한스경제 김동주 기자 | 신라젠의 차세대 항암제 후보물질이 미국에서 희귀의약품 지위를 확보하면서 글로벌 임상 개발에 속도가 붙을 전망이다. | 신라젠(대표 한상규·박상근)은 항암 신약 후보물질 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 희귀의약품",
+        "summary_lines": [
+          "BAL0891, 급성골수성백혈병 적응증 확보…세액공제·신속심사 등 지원",
+          "신라젠 CI./신라젠 제공",
+          "| 서울=한스경제 김동주 기자 | 신라젠의 차세대 항암제 후보물질이 미국에서 희귀의약품 지위를 확보하면서 글로벌 임상 개발에 속도가 붙을 전망이다.",
+          "신라젠(대표 한상규·박상근)은 항암 신약 후보물질 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 희귀의약품(Orphan Drug)으로 지정됐다고 25일 밝혔다.",
+          "BAL0891은 암세포의 분열 과정에 관여하는 TTK와 PLK1을 동시에 억제하는 이중 표적 항암 후보물질이다."
+        ],
+        "content": "내용요약\nBAL0891, 급성골수성백혈병 적응증 확보…세액공제·신속심사 등 지원\n신라젠 CI./신라젠 제공\n| 서울=한스경제 김동주 기자 | 신라젠의 차세대 항암제 후보물질이 미국에서 희귀의약품 지위를 확보하면서 글로벌 임상 개발에 속도가 붙을 전망이다.\n신라젠(대표 한상규·박상근)은 항암 신약 후보물질 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 희귀의약품(Orphan Drug)으로 지정됐다고 25일 밝혔다.\nBAL0891은 암세포의 분열 과정에 관여하는 TTK와 PLK1을 동시에 억제하는 이중 표적 항암 후보물질이다. 현재 고형암과 혈액암 환자를 대상으로 글로벌 임상 1상을 진행하며 안전성과 초기 유효성을 확인하고 있다.\n이번 희귀의약품 지정으로 신라젠은 미국에서 BAL0891의 AML 적응증 개발과 관련해 FDA가 제공하는 각종 지원을 받을 수 있게 됐다. 미국 내 임상시험 비용에 대한 세액 공제와 임상 연구비 지원 프로그램 신청 자격이 주어지며, 임상시험계획과 관련한 FDA 자문 및 신속 심사 지원도 가능하다. 신약허가신청(NDA) 과정에서는 수수료 면제 혜택도 받을 수 있다.\n희귀의약품 지정 자체가 신약의 임상적 유효성이나 허가 가능성을 의미하는 것은 아니다. 다만 개발 과정에서 규제기관의 지원을 받을 수 있고, 허가까지 이어질 경우 상업적 권리도 확보할 수 있다는 점에서 의미가 있다. BAL0891이 향후 미국에서 AML 치료제로 허가되면 동일 의약품·적응증에 대해 7년간 시장독점권을 받을 수 있다.\nAML은 혈액을 만드는 골수에서 비정상적인 백혈구가 빠르게 증식하는 질환으로, 진행 속도가 빠른 것이 특징이다. 치료에는 항암화학요법과 조혈모세포이식 등이 활용되지만 재발하거나 기존 치료에 반응하지 않는 환자에서는 치료 선택지가 제한적이다. 표적치료제 역시 환자별 유전자 특성과 내성 여부 등에 따라 치료 효과에 차이가 있다.\nBAL0891은 세포분열 과정의 핵심 단백질인 TTK와 PLK1을 동시에 겨냥한다는 점에서 기존 항암제와 차별화된 기전을 갖는다. 다만 현재 임상 1상 초기 단계인 만큼 실제 AML 환자에서의 유효성과 안전성은 향후 임상 결과를 통해 확인해야 한다.\n회사는 이번 희귀의약품 지정을 계기로 BAL0891의 AML 개발 가능성을 확대하고 글로벌 임상 개발을 이어갈 계획이다.\n신라젠 관계자는 “임상 초기 단계에서 BAL0891의 AML 적응증이 희귀의약품으로 지정된 만큼 향후 개발 과정에서 FDA의 다양한 지원을 활용할 수 있게 됐다”며 “남은 임상 일정을 차질 없이 진행해 의미 있는 결과를 확보하겠다”고 말했다.\n김동주 기자\ned30109@sporbiz.co.kr\n키워드\n#신라젠\n#항암\n#신약\n#후보물질\n#임상\n#미국\n#FDA\n#희귀의약품\n#AML\n#백혈병\n김동주 기자\ned30109@sporbiz.co.kr\n다른기사 보기\n저작권자 © 한스경제 무단전재 및 재배포 금지",
+        "content_length": 1434,
+        "published_time": "Tue, 25 Aug 2026 03:37:55 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 03:37:55 GMT",
+        "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=859348",
+        "source_url": "https://www.hansbiz.co.kr"
+      },
+      {
+        "title": "신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력 - 뉴스1",
+        "source": "뉴스1",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스1+10 | 최신:Tue, 25 Aug 2026 02:00:54 GMT+5 | 키워드+25 | 순위:349위+2",
+        "snippet": "신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력 | 2026.08.25 오전 11:00 | 구글에서 뉴스1 즐겨찾기 | 구글에서 뉴스1 즐겨찾기 | 국제약품, 안산공장에 555억 투자…점안제 생산능력 133% 확대",
+        "summary_lines": [
+          "신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력",
+          "2026.08.25 오전 11:00",
+          "구글에서 뉴스1 즐겨찾기",
+          "구글에서 뉴스1 즐겨찾기",
+          "국제약품, 안산공장에 555억 투자…점안제 생산능력 133% 확대"
+        ],
+        "content": "가\n신라젠 'BAL0891', FDA 희귀의약품 지정…백혈병 신약 개발 탄력\n2026.08.25 오전 11:00\n구글에서 뉴스1 즐겨찾기\n구글에서 뉴스1 즐겨찾기\n가\n관련 키워드\n신라젠\n펙사벡\nFDA 희귀의약품\n백혈병 치료제\n바실리아\n문대현 기자\n국제약품, 안산공장에 555억 투자…점안제 생산능력 133% 확대\n셀트리온, 제약·바이오 브랜드지수 1위…삼성바이오로직스 2위",
+        "content_length": 208,
+        "published_time": "Tue, 25 Aug 2026 02:00:54 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 02:00:54 GMT",
+        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6268610",
+        "source_url": "https://www.news1.kr"
+      },
+      {
+        "title": "신라젠 BAL0891, FDA 희귀의약품 지정으로 AML 신약 개발 탄력 - 투어코리아",
+        "source": "투어코리아",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:투어코리아+10 | 최신:Tue, 25 Aug 2026 05:40:25 GMT+5 | 키워드+25 | 순위:352위+2",
+        "snippet": "[투어코리아=조성란 기자]  신라젠의 차세대 항암 신약 후보물질 BAL0891이 25일 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다. | BAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시 표적하는 계열 내 최초(First-in-class) 항암제이다. | 현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다. | ",
+        "summary_lines": [
+          "[투어코리아=조성란 기자]  신라젠의 차세대 항암 신약 후보물질 BAL0891이 25일 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.",
+          "BAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시 표적하는 계열 내 최초(First-in-class) 항암제이다.",
+          "현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다.",
+          "FDA 희귀의약품 지정은 미국 내 환자 20만명 미만 희귀질환 치료제 개발을 지원한다.",
+          "신라젠은 BAL0891 개발 시 FDA 임상 연구비 지원사업 신청 자격을 확보했다."
+        ],
+        "content": "[투어코리아=조성란 기자]  신라젠의 차세대 항암 신약 후보물질 BAL0891이 25일 미국 식품의약국(FDA)으로부터 급성골수성백혈병(AML) 대상 희귀의약품으로 지정됐다.\n출처=신라젠\nBAL0891은 암세포 분열에 관여하는 핵심 단백질 TTK와 PLK1을 동시 표적하는 계열 내 최초(First-in-class) 항암제이다. 현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다.\nFDA 희귀의약품 지정은 미국 내 환자 20만명 미만 희귀질환 치료제 개발을 지원한다. 신라젠은 BAL0891 개발 시 FDA 임상 연구비 지원사업 신청 자격을 확보했다. 또한 미국 내 임상시험 비용 25% 세액공제, FDA 임상 계획 자문 및 신속심사 지원, 신약 허가 신청 수수료 면제 등 혜택도 주어진다. 품목허가 성공 시 7년간 미국 시장 독점권도 얻을 수 있다.\n지정 대상인 AML은 골수에서 백혈구가 암세포로 변하며 빠르게 증식하는 혈액암이다. 병세가 빠르게 진행되며 기존 치료법의 부작용, 재발, 내성 등 한계가 존재한다. BAL0891은 TTK와 PLK1을 동시 겨냥, 기존 치료제 내성 AML 환자에게 새로운 치료 옵션을 제시할 수 있다.\n신라젠 관계자는 \"임상 초기 단계부터 희귀의약품으로 지정받은 만큼 BAL0891의 의료적 중요성과 잠재력을 어느 정도 공인받은 것으로 보고 있다\"며 \"이번 성과를 바탕으로 남은 임상에서 더욱 긍정적인 결과를 도출할 수 있도록 최선을 다하겠다\"고 말했다.\n저작권자 © 투어코리아 무단전재 및 재배포 금지\n조성란 기자\nshineing1@tournews21.com\n다른기사 보기\n키워드\n#신라젠\n#BAL0891\n#FDA\n#희귀의약품\n#급성골수성백혈병",
+        "content_length": 836,
+        "published_time": "Tue, 25 Aug 2026 05:40:25 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 05:40:25 GMT",
+        "url": "https://www.tournews21.com/news/articleView.html?idxno=141801",
+        "source_url": "https://www.tournews21.com"
+      },
+      {
+        "title": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스",
+        "source": "얼리어답터뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:얼리어답터뉴스+10 | 최신:Tue, 25 Aug 2026 01:06:03 GMT+5 | 키워드+25 | 순위:355위+2",
+        "snippet": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "신라젠 항암 신약 후보, FDA 희귀의약품 지정…급성 골수성 백혈병 치료 기대 - 얼리어답터뉴스",
+        "content_length": 53,
+        "published_time": "Tue, 25 Aug 2026 01:06:03 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 01:06:03 GMT",
+        "url": "https://www.eanews.kr/news/993515",
+        "source_url": "https://www.eanews.kr"
+      },
+      {
+        "title": "신라젠 “차세대 항암제, FDA 희귀의약품 지정” - 부산일보",
+        "source": "부산일보",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:부산일보+10 | 최신:Tue, 25 Aug 2026 04:28:47 GMT+5 | 키워드+25 | 순위:364위+2",
+        "snippet": "급성골수성백혈병 대상 희귀의약품 | 신라젠이 개발 중인 항암 파이프라인이 미국에서 희귀의약품으로 지정됐다. | 신라젠은 차세대 항암 파이프라인 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병 대상 희귀의약품으로 지정됐다고 25일 밝혔다. | BAL0891은 암세포 분열 과정에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적으로 삼는 치료제 후보물질이다. | 현재 고형",
+        "summary_lines": [
+          "급성골수성백혈병 대상 희귀의약품",
+          "신라젠이 개발 중인 항암 파이프라인이 미국에서 희귀의약품으로 지정됐다.",
+          "신라젠은 차세대 항암 파이프라인 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병 대상 희귀의약품으로 지정됐다고 25일 밝혔다.",
+          "BAL0891은 암세포 분열 과정에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적으로 삼는 치료제 후보물질이다.",
+          "현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다."
+        ],
+        "content": "급성골수성백혈병 대상 희귀의약품\n주가 상한선까지 급등\n신라젠 CI. 신라젠 제공\n신라젠이 개발 중인 항암 파이프라인이 미국에서 희귀의약품으로 지정됐다.\n신라젠은 차세대 항암 파이프라인 ‘BAL0891’이 미국 식품의약국(FDA)으로부터 급성골수성백혈병 대상 희귀의약품으로 지정됐다고 25일 밝혔다.\nBAL0891은 암세포 분열 과정에 관여하는 핵심 단백질 TTK와 PLK1을 동시에 표적으로 삼는 치료제 후보물질이다. 현재 고형암과 혈액암을 대상으로 글로벌 임상 1상을 진행 중이다. 앞서 신라젠은 2022년 스위스 제약사 바실리아로부터 BAL0891을 도입했다. 이어 지난해 네덜란드 바이오 기업이 보유하고 있던 이 물질의 특허와 권리를 확보했다.\nFDA의 희귀의약품은 미국 내 환자 수가 20만 명 미만인 희귀질환을 대상으로 개발되는 의약품에 부여된다. 이번 BAL0891의 희귀의약품 지정으로 신라젠은 FDA 임상 연구비 지원 사업 신청 자격 확보, 미국 내 임상시험 비용 25% 세액 공제, FDA의 임상시험 계획 자문·신속 심사 지원, 신약 허가 신청 수수료 면제 등을 받을 수 있게 됐다.\n이번 희귀의약품 지정 대상이 된 급성골수성백혈병은 골수 속 백혈구가 암세포로 변해 빠르게 증식하는 혈액암이다. 초기 자각 증상이 명확하지 않아 조기 진단이 어렵고 최근 나온 표적치료제의 경우 내성이 생기는 한계가 있었다. 이런 가운데 BAL0891은 암세포 분열 핵심 인자들을 정밀 타격하는 기전인 만큼 기존 치료제 내성으로 치료가 어려운 급성골수성백혈병 환자들의 새로운 대안이 될 것이라는 게 신라젠 측의 설명이다.\n신라젠 관계자는 “임상 초기 단계부터 희귀의약품으로 지정된 만큼 BAL0891의 의료적 중요성과 잠재력을 인정받은 것”이라며 “남은 임상에서 긍정적인 결과를 도출할 수 있도록 개발에 최선을 다할 것”이라고 말했다.\n한편 BAL0891이 미국 FDA의 희귀의약품에 지정됐다는 소식에 신라젠의 주가는 상한선까지 급등했다. 이날 오후 1시 23분 기준 신라젠 주가는 전 거래일 대비 29.82% 상승한 2960원에 거래되고 있다.\n유승호 기자 peter90@busan.com",
+        "content_length": 1056,
+        "published_time": "Tue, 25 Aug 2026 04:28:47 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 04:28:47 GMT",
+        "url": "https://www.busan.com/view/busan/view.php?code=2026082513280525767",
+        "source_url": "https://www.busan.com"
+      },
+      {
+        "title": "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트",
+        "source": "네이트",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:네이트+10 | 최신:Tue, 25 Aug 2026 01:57:00 GMT+5 | 키워드+25 | 순위:371위+2",
+        "snippet": "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "신라젠, 급성 골수성 백혈병 치료제 'BAL0891' FDA 희귀의약품 지정 - 네이트",
+        "content_length": 48,
+        "published_time": "Tue, 25 Aug 2026 01:57:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 01:57:00 GMT",
+        "url": "https://news.nate.com/view/20260825n12062",
+        "source_url": "https://news.nate.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        30
+      ],
+      [
+        "신약",
+        25
+      ],
+      [
+        "비만",
+        10
+      ],
+      [
+        "R&D",
+        9
+      ],
+      [
+        "항암",
+        8
+      ],
+      [
+        "식약처",
+        8
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "수출",
+        6
+      ],
+      [
+        "심사",
+        5
+      ],
+      [
+        "약가",
+        5
+      ],
+      [
+        "허가",
+        4
+      ],
+      [
+        "한약",
+        4
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "CDMO",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "실사",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "네이트",
+        10
+      ],
+      [
+        "데일리팜",
+        8
+      ],
+      [
+        "뉴시스",
+        6
+      ],
+      [
+        "팜뉴스",
+        6
+      ],
+      [
+        "머니투데이",
+        5
+      ],
+      [
+        "의협신문",
+        5
+      ],
+      [
+        "한의신문",
+        5
+      ],
+      [
+        "뉴스1",
+        4
+      ],
+      [
+        "뉴스저널리즘",
+        4
+      ],
+      [
+        "메디파나뉴스",
+        4
+      ],
+      [
+        "히트뉴스",
+        4
+      ],
+      [
+        "약사공론",
+        4
+      ],
+      [
+        "청년의사",
+        4
+      ],
+      [
+        "의학신문",
+        4
+      ],
+      [
+        "Investing.com 한국어",
+        4
+      ]
+    ]
+  },
+  "english": {
+    "total": 129,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 4
+    },
+    "top_articles": [
+      {
+        "title": "Capricor's Duchenne drug gets three-month FDA extension after new data submission - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Mon, 24 Aug 2026 22:33:57 GMT+5 | 키워드+30 | 순위:314위+2",
+        "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Please enable JS and disable any ad blocker",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "reuters.com\nPlease enable JS and disable any ad blocker",
+        "content_length": 55,
+        "published_time": "Mon, 24 Aug 2026 22:33:57 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 22:33:57 GMT",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-extends-review-capricors-muscle-disorder-therapy-by-three-months-2026-08-24/",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "GSK scores regulatory wins for chronic hepatitis B drug, cancer therapy - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Mon, 24 Aug 2026 07:11:29 GMT+5 | 키워드+30 | 순위:331위+2",
+        "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Please enable JS and disable any ad blocker",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "reuters.com\nPlease enable JS and disable any ad blocker",
+        "content_length": 55,
+        "published_time": "Mon, 24 Aug 2026 07:11:29 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 07:11:29 GMT",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-scores-regulatory-wins-chronic-hepatitis-b-drug-cancer-therapy-2026-08-24/",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "GSK scores regulatory wins for chronic hepatitis B drug, cancer therapy - Reuters",
+        "source": "Reuters",
+        "importance": 67,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Mon, 24 Aug 2026 07:11:29 GMT+5 | 키워드+30 | 순위:139위+2",
+        "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Please enable JS and disable any ad blocker",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "reuters.com\nPlease enable JS and disable any ad blocker",
+        "content_length": 55,
+        "published_time": "Mon, 24 Aug 2026 07:11:29 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 07:11:29 GMT",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-scores-regulatory-wins-chronic-hepatitis-b-drug-cancer-therapy-2026-08-24/",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "Daewoong Pharmaceutical accelerates Indonesia halal push with smart factory - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chosunbiz+28 | 최신:Tue, 25 Aug 2026 00:23:00 GMT+5 | 키워드+25 | 순위:305위+2",
+        "snippet": "Daewoong Pharmaceutical headquarters in Gangnam-gu, Seoul. | /Courtesy of News1 | Daewoong Pharmaceutical(069620) | said on the 25th that it is speeding up halal (products that Muslims can eat and use) certification in I",
+        "summary_lines": [
+          "Daewoong Pharmaceutical headquarters in Gangnam-gu, Seoul.",
+          "/Courtesy of News1",
+          "Daewoong Pharmaceutical(069620)",
+          "said on the 25th that it is speeding up halal (products that Muslims can eat and use) certification in Indonesia.",
+          "Indonesia is the world's fourth-most populous country and is considered an export hub."
+        ],
+        "content": "Daewoong Pharmaceutical headquarters in Gangnam-gu, Seoul. /Courtesy of News1\nDaewoong Pharmaceutical(069620)\nsaid on the 25th that it is speeding up halal (products that Muslims can eat and use) certification in Indonesia. Indonesia is the world's fourth-most populous country and is considered an export hub.\nIn Indonesia, prescription drugs must obtain mandatory halal (products that Muslims can eat and use) certification by Oct. 2034. Daewoong Pharmaceutical is building a Smart Factory in Cikarang, Indonesia, to meet the requirement.\nThe Smart Factory was designed with halal certification in mind from the establishment stage. The goal is to obtain GMP (good manufacturing practice) approval in July next year and produce solid dosage forms such as capsules and tablets. Daewoong Pharmaceutical said it is pursuing halal certification not only for pharmaceuticals but also for cosmetics and health functional foods.\nDaewoong Pharmaceutical is also taking part in the government-private joint task force supporting entry into Indonesia by Korea's government. Lee So-yoon, head of the regulatory and patent center at Daewoong Pharmaceutical, said, \"We will raise the profile of K-pharmaceuticals and bio in ASEAN (Association of Southeast Asian Nations).\"\n※ This article has been translated by AI. Share your feedback\nhere.",
+        "content_length": 1329,
+        "published_time": "Tue, 25 Aug 2026 00:23:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 00:23:00 GMT",
+        "url": "https://biz.chosun.com/en/en-science/2026/08/25/55L5Z2YCRJAJBM2Y6NJJYLQTAA/?outputType=amp",
+        "source_url": "https://biz.chosun.com"
+      },
+      {
+        "title": "FDA places clinical hold on Regenxbio's gene therapy for Hunter Syndrome - Reuters",
+        "source": "Reuters",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Reuters+30 | 최신:Mon, 24 Aug 2026 13:48:53 GMT+5 | 키워드+20 | 순위:329위+2",
+        "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Please enable JS and disable any ad blocker",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "reuters.com\nPlease enable JS and disable any ad blocker",
+        "content_length": 55,
+        "published_time": "Mon, 24 Aug 2026 13:48:53 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 13:48:53 GMT",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/fda-places-clinical-hold-regenxbios-gene-therapy-hunter-syndrome-2026-08-24/",
+        "source_url": "https://www.reuters.com"
+      },
+      {
+        "title": "US FDA accepts Teva’s new drug application for ecopipam - PharmaTimes",
+        "source": "PharmaTimes",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:PharmaTimes+10 | 최신:Mon, 24 Aug 2026 09:41:00 GMT+5 | 키워드+30 | 순위:315위+2",
+        "snippet": "Teva Pharmaceuticals has announced that the US Food and Drug Administration has accepted the new drug application for ecopipam, a first‑in‑class investigational therapy for paediatric patients with Tourette syndrome. | T",
+        "summary_lines": [
+          "Teva Pharmaceuticals has announced that the US Food and Drug Administration has accepted the new drug application for ecopipam, a first‑in‑class investigational therapy for paediatric patients with Tourette syndrome.",
+          "The FDA has granted priority review, with a targeted action date in the first quarter of 2027.",
+          "Ecopipam is a selective D1 dopamine receptor antagonist with Orphan Drug designation.",
+          "Teva said the milestone advances its Pivot to Growth strategy by using its neuroscience expertise to support patients in areas of high unmet need.",
+          "Tourette syndrome is a debilitating neuro‑developmental condition affecting around 100,000 children and adolescents in the US."
+        ],
+        "content": "Teva Pharmaceuticals has announced that the US Food and Drug Administration has accepted the new drug application for ecopipam, a first‑in‑class investigational therapy for paediatric patients with Tourette syndrome. The FDA has granted priority review, with a targeted action date in the first quarter of 2027.\nEcopipam is a selective D1 dopamine receptor antagonist with Orphan Drug designation. Teva said the milestone advances its Pivot to Growth strategy by using its neuroscience expertise to support patients in areas of high unmet need.\nTourette syndrome is a debilitating neuro‑developmental condition affecting around 100,000 children and adolescents in the US. Only half receive prescription medication for the condition and just 20–30% remain on therapy after one year.\nMany continue to experience inadequate control or treatment‑limiting side effects.\nEric Hughes, Executive Vice President, Global R&D and Chief Medical Officer at Teva, said: “Ecopipam’s NDA acceptance is an important milestone that advances Teva’s Pivot to Growth strategy and brings us closer to addressing the unmet needs of children and their families affected by Tourette syndrome.\n“If approved, ecopipam would be the first new therapy for Tourette syndrome in more than 10 years and the first novel mechanism of action in more than 50 years, offering patients and families a long-awaited new treatment option.”\nThe NDA is supported by positive phase 2b and phase 3 data. In the phase 2b study, ecopipam produced statistically significant and clinically meaningful improvement in tic severity on the Yale Global Tic Severity Scale‑Total Tic Score at week 12. Durability of efficacy was shown in a subsequent open‑label extension.\nA phase 3 randomized withdrawal study published in JAMA Neurology demonstrated maintenance of efficacy. Pediatric responders had a 53% decreased risk of relapse over 12 weeks compared with placebo.\nAcross phase 2b, phase 2b open‑label extension and phase 3 trials, no clinically meaningful changes were observed in body weight, BMI Z‑score, vitals, laboratory measures, ECG readings, drug‑induced movement disorders or psychiatric comorbidities.\nEcopipam was generally well‑tolerated, with the most common adverse events including headache, insomnia, fatigue, somnolence, tics, anxiety, nausea and restlessness.\nTeva said it remains committed to advancing the clinical programme and, if approved, delivering a long‑awaited treatment option to pediatric patients with Tourette syndrome who have historically relied on therapies developed for other conditions.",
+        "content_length": 2574,
+        "published_time": "Mon, 24 Aug 2026 09:41:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 09:41:00 GMT",
+        "url": "https://pharmatimes.com/news/us-fda-accepts-tevas-new-drug-application-for-ecopipam/",
+        "source_url": "https://pharmatimes.com"
+      },
+      {
+        "title": "GSK Wins Approval for New Hepatitis B Drug - EMJ",
+        "source": "EMJ",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:EMJ+10 | 최신:Mon, 24 Aug 2026 15:53:19 GMT+5 | 키워드+30 | 순위:316위+2",
+        "snippet": "GSK Wins Approval for New Hepatitis B Drug | View All News | Key Summary: | Bepirovirsen has been approved in Japan as a functional cure treatment for chronic hepatitis B. | GSK predicts the hepatitis B drug could genera",
+        "summary_lines": [
+          "GSK Wins Approval for New Hepatitis B Drug",
+          "View All News",
+          "Key Summary:",
+          "Bepirovirsen has been approved in Japan as a functional cure treatment for chronic hepatitis B.",
+          "GSK predicts the hepatitis B drug could generate over £2bn in peak annual sales."
+        ],
+        "content": "GSK Wins Approval for New Hepatitis B Drug\n24 Aug 2026\nEMJ GOLD\nView All News\nKey Summary:\nBepirovirsen has been approved in Japan as a functional cure treatment for chronic hepatitis B.\nGSK predicts the hepatitis B drug could generate over £2bn in peak annual sales.\nThe FDA will prioritise its review of Jemperli as a potential treatment for locally advanced rectal cancer.\nGSK has received its first global approval for its chronic hepatitis B drug and key support for a potential rectal cancer therapy, it announced on Monday.\nThe British pharmaceutical giant shared that bepirovirsen, to be branded as Hibsago, has been approved as the first and only functional cure for chronic hepatitis B in Japan – where it is estimated over 800,000 people live with the disease, according to the WHO.\nFirst functional cure for hepatitis B\nThe approval comes after successful late-stage\ntrials\nproved the drug to be successful in helping one in five patients reach a functional cure for hepatitis B.\nBepirovirsen works by blocking viral DNA replication, lowing hepatitis B surface antigen levels in the blood and boosting the immune response for longer lasting control of the virus, tackling the disease three-fold.\nAs the first approved finite treatment ​course that can be used as an alternative to lifelong antiviral pills to achieve functional cure, it leads the way for a new wave of next-generation therapies.\nGSK has predicted that the new drug could bring in over £2bn ($2.73bn) in peak annual sales, bringing it closer to its annual revenue goal of over £40bnby 2031.\nCancer therapy review expected\nThe firm also announced that the FDA has committed to carrying out a priority review of another of its drugs, ⁠Jemperli (dostarlimab), as a potential treatment for a type of rectal cancer, alongside its existing approvals for specific ​endometrial cancer subtypes.\nThe FDA has assigned February ​2027 as the action ⁠date for the rectal cancer review, with the program structure possibly yielding a decision earlier.\nJemperli, which is not currently approved anywhere in the world for the treatment of locally advanced rectal cancer, also received ⁠Breakthrough Therapy and Fast Track designations by the FDA.\nThese two regulatory wins for the company come just weeks after it launched a £1.9bn ($2.52bn) cost-savings effort to help fund its expanded late-stage study roster and deliver on CEO Luke Miels’ promise for faster drug development.\nThe restructuring is a major step by the company’s boss to reassure investors that GSK can navigate a looming patent deadline for its blockbuster HIV drug, dolutegravir, between 2028 and 2030.\nHIV is currently the company’s leading specialty therapy area by revenue, but GSK said it now expects to start 25 late-stage studies by ​the end of 2026 in an effort to continue to expand pipelines in oncology and respiratory, immunology and inflammation.\nFeatured image: MAXSHOT_PL on Adobe Stock\nAuthor:\nCecilia Adamou\nEach article is made available under the terms of the\nCreative Commons Attribution-Non Commercial 4.0 License\n.\nShare:\nMore great content like this\n- straight to your inbox >\nRate this content's potential impact on patient outcomes\nSubmit Rating\nAverage rating\n0\n/ 5. Vote count:\n0\nNo votes so far! Be the first to rate this content.\nRelated To This Subject\nEMJ GOLD\nModerna and Merck cancer vaccine success paves way for future\nEMJ GOLD\nFDA approves new blood cancer drug from BMS\nMore articles\nEMJ GOLD\nWhy great therapies still fail to reach patients\nEMJ GOLD\n5 minutes with Dr Jamie L Weiss, Alnylam\nEMJ GOLD\nGLP-1s: Cannes, culture and lessons from oncology\nEMJ GOLD\nOne to watch: Multiple myeloma at EHA 2026\nEMJ GOLD\nThe big picture in haematology at EHA 2026\nEMJ GOLD\n5 minutes with Dr Siddharth Jain, Takeda",
+        "content_length": 3772,
+        "published_time": "Mon, 24 Aug 2026 15:53:19 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 15:53:19 GMT",
+        "url": "https://www.emjreviews.com/emj-gold/news/gsk-wins-approval-for-new-hepatitis-b-drug-hibsago/",
+        "source_url": "https://www.emjreviews.com"
+      },
+      {
+        "title": "Cracking the ubiquitin code to unlock new drug targets - Chemistry World",
+        "source": "Chemistry World",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Chemistry World+10 | 최신:Mon, 24 Aug 2026 15:03:43 GMT+5 | 키워드+30 | 순위:317위+2",
+        "snippet": "Prefer Chemistry World | in Google search | The approval of the first proteolysis-targeting chimera drug for breast cancer has thrown a spotlight on ubiquitin, the cell’s own protein-recycling signal. | Researchers are n",
+        "summary_lines": [
+          "Prefer Chemistry World",
+          "in Google search",
+          "The approval of the first proteolysis-targeting chimera drug for breast cancer has thrown a spotlight on ubiquitin, the cell’s own protein-recycling signal.",
+          "Researchers are now racing to decode its full chemical language – and exploit it against cancer, Parkinson’s disease and beyond",
+          "Article summary"
+        ],
+        "content": "Prefer Chemistry World\nin Google search\nNo comments\nThe approval of the first proteolysis-targeting chimera drug for breast cancer has thrown a spotlight on ubiquitin, the cell’s own protein-recycling signal. Researchers are now racing to decode its full chemical language – and exploit it against cancer, Parkinson’s disease and beyond\nArticle summary\nUbiquitin is emerging as a major drug target\n, highlighted by the FDA approval of Veppanu (vepdegestrant), the first protein-degrading drug based on the Protac concept. These therapies harness the cell’s own ubiquitin system to selectively destroy disease-causing proteins, opening new possibilities for treating previously ’undruggable’ targets.\nResearchers are deciphering the highly complex ’ubiquitin code’\n, in which different ubiquitin chain structures control diverse cellular functions including protein degradation, immune signalling and DNA repair. New analytical tools such as Ub-clipping and UbiRead are helping scientists map chain architectures and link them to specific biological outcomes.\nUnderstanding ubiquitin signalling is driving a new generation of medicines\n, including Protacs and molecular glue degraders that recruit ubiquitin ligases to eliminate harmful proteins. Improved knowledge of how ubiquitin tags are transferred is enabling more rational design of cancer therapies and other targeted drugs.\nTherapeutic strategies are expanding beyond protein degradation\n, with companies developing inhibitors of deubiquitylating enzymes (Dubs) for cancer, Parkinson’s disease and other conditions. At the same time, discoveries that ubiquitin can modify sugars, lipids and metabolites suggest the ubiquitin system is even broader than previously thought, creating further opportunities for future drug development.\nThis was summary was generated by AI and checked by a human editor\nMore than 25 years after the original concept, the first engineered protein-degrading drug, known as a Protac – proteolysis targeting chimera – was approval by the US Food and Drug Administration in May this year. Veppanu (vepdegestrant) was developed by biotech Arvinas and Pfizer for several types of hard-to-treat breast cancer. It allows the cancer cell to use its own\nprotein-recycling machinery to destroy the mutant protein\nresponsible for driving cancer proliferation. Hot on its heels, August saw the approval of multiple myeloma drug, Zenbexus (iberdomide) from Bristol Myers Squibb, the first molecular glue protein degrader, which hijacks the same protein-recycling machinery.\nThe key to the action of both these new classes of drugs is ubiquitin – a small 76-amino-acid protein which is, as its name suggests, ubiquitous. It’s found in all animal, plant and even yeast cells. In the normal life of a cell, ubiquitins, strung together in chains, are attached to other proteins, ‘often to signal that these proteins or biomolecules should be degraded’, says biochemist\nDavid Komander\nfrom WEHI in Melbourne, Australia.\nProtacs can recruit both a target protein and the enzyme that tags that protein with a ubiquitin, leading to the protein’s degradation. With at least 40 Protacs in clinical trials, Komander predicts we will soon see ‘a complete shift in the pharmaceutical industry’ towards protein-degrading drugs and potentially drugs designed to stop protein degradation as well.\nSource: © Laguna Design/Science Photo Library\nUbiquitin, as the name suggests, is found in all plant and animal cells, and does a crucial job labelling proteins for degradation – and more\nUbiquitin tags are responsible for more than just protein degradation. In the 2000s researchers showed that multiple types of ubiquitin chains control cell programming. They signal when a protein should be moved to a different location or assemble a complex of proteins; they are involved in immune responses and responding to DNA damage. And it’s now apparent they are not even limited to proteins but have recently been found on lipids, sugars and other metabolites.\nWhy does ubiquitin matter?\nThe ubiquitin code is complex. Polyubiquitin chains come in linear and branched forms, and research teams are only just getting to grips with matching the huge variety found in cells to their specific function. Once this is understood, the rewards could be immense.\nWhat makes ubiquitination so complex is the number of ways it can be attached to both a protein and to itself when it forms chains. This is via an amide bond from the carboxyl group at its glycine residue C-terminus to an amino group on a lysine side chain on the target protein. It can then bond to itself via any of the seven lysine amino acids residues within the molecule, as well as binding via its N-terminus, giving eight possible linear chains. That’s before you even consider the branching combinations as further ubiquitins get added – although we don’t yet know how many combinations actually exist in biology.\nSource: © Juan Gaertner/Science Photo Library\nProteins (red and purple) ta",
+        "content_length": 19558,
+        "published_time": "Mon, 24 Aug 2026 15:03:43 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 15:03:43 GMT",
+        "url": "https://www.chemistryworld.com/features/cracking-the-ubiquitin-code-to-unlock-new-drug-targets/4024058.article",
+        "source_url": "https://www.chemistryworld.com"
+      },
+      {
+        "title": "Hanmi Pharm Licenses Novel Obesity Drug HM17321 to Genentech in Deal Worth Up to $2.3 Billion - BioPharm International",
+        "source": "BioPharm International",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:BioPharm International+10 | 최신:Mon, 24 Aug 2026 16:03:10 GMT+5 | 키워드+30 | 순위:318위+2",
+        "snippet": "Hanmi Pharm Licenses Novel Obesity Drug HM17321 to Genentech in Deal Worth Up to $2.3 Billion - BioPharm International | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Hanmi Pharm Licenses Novel Obesity Drug HM17321 to Genentech in Deal Worth Up to $2.3 Billion - BioPharm International",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Hanmi Pharm Licenses Novel Obesity Drug HM17321 to Genentech in Deal Worth Up to $2.3 Billion - BioPharm International",
+        "content_length": 118,
+        "published_time": "Mon, 24 Aug 2026 16:03:10 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 16:03:10 GMT",
+        "url": "https://www.biopharminternational.com/view/hanmi-pharm-hm17321-genentech-obesity-licensing-deal",
+        "source_url": "https://www.biopharminternational.com"
+      },
+      {
+        "title": "Jazz Pharma's fresh tune: New CEO wants to make longtime Bay Area drugmaker 'a true innovator' - The Business Journals",
+        "source": "The Business Journals",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:The Business Journals+10 | 최신:Mon, 24 Aug 2026 13:09:00 GMT+5 | 키워드+30 | 순위:320위+2",
+        "snippet": "Jazz Pharma's fresh tune: New CEO wants to make longtime Bay Area drugmaker 'a true innovator' - The Business Journals | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "Jazz Pharma's fresh tune: New CEO wants to make longtime Bay Area drugmaker 'a true innovator' - The Business Journals",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "Jazz Pharma's fresh tune: New CEO wants to make longtime Bay Area drugmaker 'a true innovator' - The Business Journals",
+        "content_length": 118,
+        "published_time": "Mon, 24 Aug 2026 13:09:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 13:09:00 GMT",
+        "url": "https://www.bizjournals.com/sanfrancisco/news/2026/08/24/cancer-ziihera-jazz-pharma-gastroesophageal.html",
+        "source_url": "https://www.bizjournals.com"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        23
+      ],
+      [
+        "approval",
+        11
+      ],
+      [
+        "obesity",
+        9
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "inspection",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "biosimilar",
+        2
+      ],
+      [
+        "vaccine",
+        2
+      ],
+      [
+        "patent",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "openPR.com",
+        7
+      ],
+      [
+        "The Economic Times",
+        7
+      ],
+      [
+        "finance.biggo.com",
+        6
+      ],
+      [
+        "Reuters",
+        4
+      ],
+      [
+        "STAT",
+        4
+      ],
+      [
+        "BioSpace",
+        3
+      ],
+      [
+        "The Pharma Letter",
+        3
+      ],
+      [
+        "BioPharma Dive",
+        3
+      ],
+      [
+        "AOL.com",
+        3
+      ],
+      [
+        "Medical Daily",
+        3
+      ],
+      [
+        "RAPS",
+        3
+      ],
+      [
+        "Stock Titan",
+        2
+      ],
+      [
+        "Ad-hoc-news.de",
+        2
+      ],
+      [
+        "Kalkine Media",
+        2
+      ],
+      [
+        "kalkine.ca",
+        2
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 88,
+    "languages": {
+      "French / 프랑스어": 1,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 7,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 10,
+      "Chinese Traditional / 대만": 4,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 6,
+      "Indonesian / 인도네시아어": 8,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "İnternetten satın alınan ilaçlarla kendi kendine tedavi sonrasında akut karaciğer yetmezliği ve beyin ödemi. - Vietnam.vn",
+        "source": "Vietnam.vn",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Vietnam.vn+10 | 최신:Mon, 24 Aug 2026 10:44:51 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "Vietnam.vn'i takip et | Vietnam.vn'i ekle | Fotoğraf: Ulusal Tropikal Hastalıklar Hastanesi | Tropikal Hastalıklar Merkez Hastanesi Acil Tıp Bölümü'nden Dr. | Le Son Viet'e göre, Son La'dan 28 yaşındaki hasta LVG'nin dah",
+        "summary_lines": [
+          "Vietnam.vn'i takip et",
+          "Vietnam.vn'i ekle",
+          "Fotoğraf: Ulusal Tropikal Hastalıklar Hastanesi",
+          "Tropikal Hastalıklar Merkez Hastanesi Acil Tıp Bölümü'nden Dr.",
+          "Le Son Viet'e göre, Son La'dan 28 yaşındaki hasta LVG'nin daha önce önemli bir sağlık sorunu yoktu."
+        ],
+        "content": "Vietnam.vn'i takip et\nG\no\no\ng\nl\ne\nVietnam.vn'i ekle\nG\no\no\ng\nl\ne\n0\nFotoğraf: Ulusal Tropikal Hastalıklar Hastanesi\nTropikal Hastalıklar Merkez Hastanesi Acil Tıp Bölümü'nden Dr. Le Son Viet'e göre, Son La'dan 28 yaşındaki hasta LVG'nin daha önce önemli bir sağlık sorunu yoktu. Yaklaşık bir ay önce hasta, sürekli öksürük, yüksek ateş ve göğüs sıkışması şikayetleriyle yerel bir\nsağlık\nkuruluşuna başvurdu. Hasta zatürre açısından izlendi, akciğer kanseri ihtimali de göz önünde bulunduruldu ve daha detaylı muayene ve tedavi için hastaneye yatırılması önerildi.\nAncak aile hastayı eve götürdü ve kullanması için internetten geleneksel ilaçlar satın aldı. Ürünlerin içerikleri, menşei ve dozu net olarak belirtilmedi.\nYaklaşık iki hafta sonra hastada sarılık ve yorgunluk gelişti ancak hasta ilacı kullanmaya devam etti. Ardından durumu hızla kötüleşti. Hasta oryantasyon bozukluğu yaşayıp komaya girdiğinde, aile nihayet hastayı bir sağlık kuruluşuna götürerek Ulusal Tropikal Hastalıklar Hastanesine sevk etti.\nBunlar da ilginizi çekebilir\nHastaneye yatırıldığında hasta derin komadaydı, belirgin sarılık, genişlemiş göz bebekleri ve ışık refleksinin kaybı vardı. Laboratuvar testleri, bilirubin yaklaşık 300 µmol/L ve amonyak yaklaşık 350 µmol/L ile karaciğer fonksiyonlarında ciddi bozulma olduğunu ortaya koydu. Beyin BT taraması, yaygın serebral ödem ve serebral sulkusların neredeyse tamamen kapandığını gösterdi.\nDoktorlara göre, akut karaciğer yetmezliği kan pıhtılaşma bozukluklarına, metabolik bozukluklara, hepatik ensefalopatiye neden olabilir ve hızla komaya ilerleyebilir. Karaciğer yetmezliği ciddi boyutlara ulaştığında, kanda amonyak birikir, merkezi sinir sistemini etkiler ve yaşamı tehdit eden beyin ödemine katkıda bulunur.\nHastaya yoğun canlandırma, hemodiyaliz ve plazma değişimi uygulandı. Ancak, ileri derecede karaciğer yetmezliği ve beyin hasarı nedeniyle, 3 günlük tedaviden sonra durumu iyileşmedi. Aile, hastanın evde bakım altına alınmasını talep etti.\nDr. Le Son Viet, insanların kendi kendilerine ilaç kullanmamalarını veya hastalıkları tedavi etmek için internetten kaynağı bilinmeyen ürünler satın almamalarını tavsiye ediyor. \"Geleneksel tıp\" veya \"aile ilaçları\" olarak pazarlanan ürünler çeşitli içerikler içerebilir ve bu da hastalık ortaya çıktığında nedenini belirlemeyi zorlaştırabilir.\nBunlar da ilginizi çekebilir\nİlaç veya takviye kullanırken aşırı yorgunluk, mide bulantısı, gözlerde veya ciltte sararma, koyu renkli idrar, uyuşukluk veya bilinç değişiklikleri yaşarsanız, şüpheli ürünü kullanmayı bırakmalı ve derhal tıbbi yardım almalısınız.\nKaynak: https://vtv.vn/suy-gan-cap-phu-nao-sau-thoi-gian-tu-uong-thuoc-mua-tren-mang-100260823194839875.htm\nVietnam.vn'i takip et\nG\no\no\ng\nl\ne\nVietnam.vn'i ekle\nG\no\no\ng\nl\ne\n0\nEtiket\n:\ngeleneksel tıp\nkaraciğer yetmezliği\nYorum\n(\n0\n)\nEn popüler\nEn yeni\nDuygularınızı paylaşmak için lütfen bir yorum bırakın!",
+        "content_length": 2894,
+        "published_time": "Mon, 24 Aug 2026 10:44:51 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 10:44:51 GMT",
+        "url": "https://www.vietnam.vn/tr/suy-gan-cap-phu-nao-sau-thoi-gian-tu-uong-thuoc-mua-tren-mang",
+        "source_url": "https://www.vietnam.vn"
+      },
+      {
+        "title": "BTC揭生醫政策主軸 搶占亞太臨床試驗樞紐 強化藥品韌性 | 唐可欣 | 品味生活 - 風傳媒",
+        "source": "風傳媒",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:風傳媒+10 | 최신:Tue, 25 Aug 2026 02:16:33 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "行政院生技產業策略諮議委員會議（BTC）24日登場。行政院長卓榮泰表示，去年生技產業投資金額新台幣550.8億元，創造8050億的營業額，乘數非常大，期待彙整各界的政策建議後，讓台灣生技產業再創高峰。衛福部長石崇良則表示，臨床試驗已列為重要政策，目標是搶占亞太臨床試驗樞紐地位，此外，他也強調政府重視新藥發展，目前已著手運用AI縮短新藥審查時間。卓榮泰在BTC...... | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 ",
+        "summary_lines": [
+          "行政院生技產業策略諮議委員會議（BTC）24日登場。行政院長卓榮泰表示，去年生技產業投資金額新台幣550.8億元，創造8050億的營業額，乘數非常大，期待彙整各界的政策建議後，讓台灣生技產業再創高峰。衛福部長石崇良則表示，臨床試驗已列為重要政策，目標是搶占亞太臨床試驗樞紐地位，此外，他也強調政府重視新藥發展，目前已著手運用AI縮短新藥審查時間。卓榮泰在BTC......",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "行政院生技產業策略諮議委員會議（BTC）24日登場。行政院長卓榮泰表示，去年生技產業投資金額新台幣550.8億元，創造8050億的營業額，乘數非常大，期待彙整各界的政策建議後，讓台灣生技產業再創高峰。衛福部長石崇良則表示，臨床試驗已列為重要政策，目標是搶占亞太臨床試驗樞紐地位，此外，他也強調政府重視新藥發展，目前已著手運用AI縮短新藥審查時間。卓榮泰在BTC......",
+        "content_length": 186,
+        "published_time": "Tue, 25 Aug 2026 02:16:33 GMT",
+        "modified_time": "",
+        "time": "Tue, 25 Aug 2026 02:16:33 GMT",
+        "url": "https://www.storm.mg/article/11159029",
+        "source_url": "https://www.storm.mg"
+      },
+      {
+        "title": "Farmacias registran una baja en el consumo de medicamentos de PAMI - RTS Medios",
+        "source": "RTS Medios",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:RTS Medios+10 | 최신:Mon, 24 Aug 2026 23:17:36 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "El farmacéutico Sebastián Zetner señaló que también aumentó el uso de tarjetas para afrontar las compras. | Además, explicó que la oferta de marcas presenta pocas diferencias de precios. | Zetner, dueño de una farmacia d",
+        "summary_lines": [
+          "El farmacéutico Sebastián Zetner señaló que también aumentó el uso de tarjetas para afrontar las compras.",
+          "Además, explicó que la oferta de marcas presenta pocas diferencias de precios.",
+          "Zetner, dueño de una farmacia de la ciudad de Santa Fe, se refirió a los cambios registrados en el consumo de medicamentos y señaló una disminución en las compras realizadas mediante recetas de PAMI desde el inicio de la actual gestión nacional.",
+          "“Disminuyó mucho el consumo de lo que es receta PAMI, con el ingreso del nuevo gobierno”, sostuvo el farmacéutico al analizar el comportamiento de los clientes.",
+          "En ese contexto, Zetner indicó que aumentó el uso de tarjetas como forma de pago."
+        ],
+        "content": "El farmacéutico Sebastián Zetner señaló que también aumentó el uso de tarjetas para afrontar las compras. Además, explicó que la oferta de marcas presenta pocas diferencias de precios.\nZetner, dueño de una farmacia de la ciudad de Santa Fe, se refirió a los cambios registrados en el consumo de medicamentos y señaló una disminución en las compras realizadas mediante recetas de PAMI desde el inicio de la actual gestión nacional.\n“Disminuyó mucho el consumo de lo que es receta PAMI, con el ingreso del nuevo gobierno”, sostuvo el farmacéutico al analizar el comportamiento de los clientes.\nEn ese contexto, Zetner indicó que aumentó el uso de tarjetas como forma de pago. Según explicó, la situación se da en un mercado donde existen pocas alternativas para reducir el gasto mediante el reemplazo de productos.\n“La industria farmacéutica tiene acuerdos no explícitos y no hay diferencias grandes entre marcas”, afirmó. En ese sentido, sostuvo que los consumidores cuentan con pocas opciones para modificar sus compras: “No hay muchas opciones de comprar menos o algo distinto”.\nVer esta publicación en Instagram\nUna publicación compartida por RTS Medios (@rtsmedios)\nFuente:\nRTS Medios",
+        "content_length": 1187,
+        "published_time": "Mon, 24 Aug 2026 23:17:36 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 23:17:36 GMT",
+        "url": "https://rtsmedios.com.ar/farmacias-registran-una-baja-en-el-consumo-de-medicamentos-de-pami/",
+        "source_url": "https://rtsmedios.com.ar"
+      },
+      {
+        "title": "上海醫藥(02607)：上藥禾豐的鹽酸異丙嗪注射液通過仿製藥一致性評價 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+        "source": "Investing.com 香港 - 股市報價& 財經新聞",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:Investing.com 香港 - 股市報價& 財經新聞+10 | 최신:Mon, 24 Aug 2026 13:24:38 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "上海醫藥(02607)：上藥禾豐的鹽酸異丙嗪注射液通過仿製藥一致性評價 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+        "summary_lines": [
+          "上海醫藥(02607)：上藥禾豐的鹽酸異丙嗪注射液通過仿製藥一致性評價 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가",
+          "요약문 생성 불가"
+        ],
+        "content": "上海醫藥(02607)：上藥禾豐的鹽酸異丙嗪注射液通過仿製藥一致性評價 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+        "content_length": 75,
+        "published_time": "Mon, 24 Aug 2026 13:24:38 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 13:24:38 GMT",
+        "url": "https://hk.investing.com/news/stock-market-news/article-1623542",
+        "source_url": "https://hk.investing.com"
+      },
+      {
+        "title": "นาโนเทค - DTAM นำ ‘นาโนเทคโนโลยี’ ยกระดับสมุนไพรไทย สู่ยาแผนไทยมาตรฐานสากล สร้างความเชื่อมั่นด้วยหลักฐานเชิงประจักษ์ - แนวหน้า",
+        "source": "แนวหน้า",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:แนวหน้า+10 | 최신:Mon, 24 Aug 2026 13:42:54 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "นาโนเทค - DTAM นำ ‘นาโนเทคโนโลยี’ ยกระดับสมุนไพรไทย สู่ยาแผนไทยมาตรฐานสากล สร้างความเชื่อมั่นด้วยหลักฐานเชิงประจักษ์ | 24 สิงหาคม 2569 เวลา 20:10 น. | สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) โดยศูนย์นาโนเทคโ",
+        "summary_lines": [
+          "นาโนเทค - DTAM นำ ‘นาโนเทคโนโลยี’ ยกระดับสมุนไพรไทย สู่ยาแผนไทยมาตรฐานสากล สร้างความเชื่อมั่นด้วยหลักฐานเชิงประจักษ์",
+          "24 สิงหาคม 2569 เวลา 20:10 น.",
+          "สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) โดยศูนย์นาโนเทคโนโลยีแห่งชาติ (นาโนเทค) ร่วมกับ กรมการแพทย์แผนไทยและการแพทย์ทางเลือก ลงนามบันทึกความเข้าใจ (MOU) เดินหน้าพัฒนาเทคโนโลยีและนวัตกรรม ยกระดับสมุนไพรและตำรับยาไทยสู่มาตรฐานระดับสากล พร้อมสร้างหลักฐานเชิงประจักษ์เพื่อต่อยอดเชิงเศรษฐกิจ ผสานองค์ความรู้และภูมิปัญญาไทยเข้ากับนวัตกรรมนาโน เพื่อเป็นกลไกสำคัญในการเพิ่มประสิทธิภาพสารสกัดสมุนไพร เร่งเคลื่อนประเทศไทยสู่อนาคตของเศรษฐกิจสุขภาพอย่างยั่งยืน",
+          "ดร.ภญ.อุรชา รักษ์ตานนท์ชัย ผู้อำนวยการศูนย์นาโนเทคโนโลยีแห่งชาติ (นาโนเทค) สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) กล่าวว่า “สมุนไพรไทย” และ “ตำรับยาแผนไทย” เป็นมรดกทางภูมิปัญญาที่สั่งสมมาอย่างยาวนาน และเป็นต้นทุนที่ได้เปรียบของไทย ทั้งในด้านความหลากหลายทางชีวภาพและด้านทรัพยากรที่มีมูลค่าของประเทศ ขณะที่ความท้าทายสำคัญในการผลักดันเข้าสู่ระบบสาธารณสุขสมัยใหม่ คือการสร้างความเชื่อมั่นและการยอมรับจากบุคลากรทางการแพทย์และผู้บริโภค ซึ่งจำเป็นต้องอาศัยหลักฐานทางวิทยาศาสตร์ที่สามารถยืนยันประสิทธิภาพ คุณภาพ และความปลอดภัย ความร่วมมือระหว่างกรมการแพทย์แผนไทยและการแพทย์ทางเลือกกับ สวทช.",
+          "โดยนาโนเทค จึงเป็นการผสานจุดแข็งด้านองค์ความรู้การแพทย์แผนไทย ความเชี่ยวชาญเชิงนโยบายและระบบบริการสุขภาพ เข้ากับขีดความสามารถด้านวิทยาศาสตร์ เทคโนโลยี และการวิจัยเชิงลึก เพื่อสนับสนุนองค์ความรู้และสร้างหลักฐานเชิงประจักษ์ให้กับสมุนไพรและตำรับยาแผนไทย"
+        ],
+        "content": "นาโนเทค - DTAM นำ ‘นาโนเทคโนโลยี’ ยกระดับสมุนไพรไทย สู่ยาแผนไทยมาตรฐานสากล สร้างความเชื่อมั่นด้วยหลักฐานเชิงประจักษ์\n24 สิงหาคม 2569 เวลา 20:10 น.\nสำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) โดยศูนย์นาโนเทคโนโลยีแห่งชาติ (นาโนเทค) ร่วมกับ กรมการแพทย์แผนไทยและการแพทย์ทางเลือก ลงนามบันทึกความเข้าใจ (MOU) เดินหน้าพัฒนาเทคโนโลยีและนวัตกรรม ยกระดับสมุนไพรและตำรับยาไทยสู่มาตรฐานระดับสากล พร้อมสร้างหลักฐานเชิงประจักษ์เพื่อต่อยอดเชิงเศรษฐกิจ ผสานองค์ความรู้และภูมิปัญญาไทยเข้ากับนวัตกรรมนาโน เพื่อเป็นกลไกสำคัญในการเพิ่มประสิทธิภาพสารสกัดสมุนไพร เร่งเคลื่อนประเทศไทยสู่อนาคตของเศรษฐกิจสุขภาพอย่างยั่งยืน\nดร.ภญ.อุรชา รักษ์ตานนท์ชัย ผู้อำนวยการศูนย์นาโนเทคโนโลยีแห่งชาติ (นาโนเทค) สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ (สวทช.) กล่าวว่า “สมุนไพรไทย” และ “ตำรับยาแผนไทย” เป็นมรดกทางภูมิปัญญาที่สั่งสมมาอย่างยาวนาน และเป็นต้นทุนที่ได้เปรียบของไทย ทั้งในด้านความหลากหลายทางชีวภาพและด้านทรัพยากรที่มีมูลค่าของประเทศ ขณะที่ความท้าทายสำคัญในการผลักดันเข้าสู่ระบบสาธารณสุขสมัยใหม่ คือการสร้างความเชื่อมั่นและการยอมรับจากบุคลากรทางการแพทย์และผู้บริโภค ซึ่งจำเป็นต้องอาศัยหลักฐานทางวิทยาศาสตร์ที่สามารถยืนยันประสิทธิภาพ คุณภาพ และความปลอดภัย ความร่วมมือระหว่างกรมการแพทย์แผนไทยและการแพทย์ทางเลือกกับ สวทช. โดยนาโนเทค จึงเป็นการผสานจุดแข็งด้านองค์ความรู้การแพทย์แผนไทย ความเชี่ยวชาญเชิงนโยบายและระบบบริการสุขภาพ เข้ากับขีดความสามารถด้านวิทยาศาสตร์ เทคโนโลยี และการวิจัยเชิงลึก เพื่อสนับสนุนองค์ความรู้และสร้างหลักฐานเชิงประจักษ์ให้กับสมุนไพรและตำรับยาแผนไทย\n“ที่ผ่านมา นาโนเทค สวทช. มุ่งพัฒนาวิทยาศาสตร์และเทคโนโลยีเพื่อสนับสนุนอุตสาหกรรมสุขภาพของประเทศอย่างต่อเนื่อง โดยประยุกต์องค์ความรู้ด้านนาโนเทคโนโลยีในการพัฒนาเทคโนโลยีการสกัด การกักเก็บและการนำส่งสารสำคัญ เพื่อเพิ่มความคงตัวและประสิทธิภาพของสารออกฤทธิ์จากสมุนไพร รวมไปถึงการประเมินฤทธิ์และกลไกการออกฤทธิ์ทางชีวภาพ และการทดสอบด้านความปลอดภัย สอดคล้องกับ 1 ใน 4 Strategic Focus ด้าน Herbal Health & Wellness ที่เน้นการพัฒนางานวิจัยให้เป็นนวัตกรรมพร้อมถ่ายทอด ตั้งแต่ผลิตภัณฑ์ต้นแบบ เทคโนโลยี และกระบวนการผลิต ไปจนถึงองค์ความรู้ที่พร้อมนำไปต่อยอดในระดับอุตสาหกรรมได้ทันที ภายใต้ความร่วมมือครั้งนี้ นาโนเทคจะนำวิทยาศาสตร์ เทคโนโลยี และนวัตกรรมมาต่อยอดตำรับยาแผนไทยที่มีอยู่เดิม เพื่อเพิ่มมูลค่าและยกระดับคุณภาพของตำรับยาให้มีมาตรฐาน มีผลการทดสอบเป็นที่ประจักษ์ และเป็นที่ยอมรับในระดับสากล” ดร.ภญ.อุรชา กล่าว\nดร.นพ.พงศธร พอกเพิ่มดี อธิบดีกรมการแพทย์แผนไทยและการแพทย์ทางเลือก เผยว่า ความร่วมมือดังกล่าว มีเป้าหมายสำคัญในการบูรณาการองค์ความรู้การแพทย์แผนไทย เข้ากับเทคโนโลยีสมัยใหม่ โดยมุ่งเน้นการคัดเลือกสมุนไพรและตำรับยาที่มีศักยภาพ นำมาศึกษาวิจัยเพื่อยืนยันผลลัพธ์ด้วยหลักฐานทางวิทยาศาสตร์ พร้อมทั้งประยุกต์ใช้นาโนเทคโนโลยีเข้ามาช่วยแก้ข้อจำกัดของสารสกัดสมุนไพร เช่น การเพิ่มความคงตัว การละลาย และการดูดซึม ตลอดจนพัฒนาระบบนำส่งสารออกฤทธิ์ เพื่อให้ได้ผลิตภัณฑ์ต้นแบบที่มีคุณภาพ ปลอดภัย และมีผลการรักษาที่ชัดเจน พร้อมนำไปใช้งานจริงในสถานพยาบาล\n“ความร่วมมือในครั้งนี้สอดรับกับนโยบายของรัฐบาลและกระทรวงสาธารณสุข ที่มุ่งผลักดันเศรษฐกิจสุขภาพและส่งเสริมภูมิปัญญาไทยให้เป็น Soft Power ทางเศรษฐกิจ การนำวิทยาศาสตร์ เทคโนโลยี และนวัตกรรมมาประยุกต์ใช้จะช่วยพิสูจน์และยืนยันประสิทธิผลของยาแผนไทยด้วยหลักฐานเชิงประจักษ์ สร้างความเชื่อมั่นให้กับทั้งผู้ให้บริการสุขภาพและผู้บริโภค ทั้งในประเทศและต่างประเทศ” ดร.นพ.พงศธร กล่าวเสริม\nด้าน ดร.อุดม อัศวาภิรมย์ นักวิจัยอาวุโส นาโนเทค สวทช. และผู้อำนวยการแผนงานด้าน Herbal Health & Wellness กล่าวว่า แผนงานสารสกัดสมุนไพรเพื่อสุขภาพและสุขภาวะ (Herbal Health & Wellness) ของนาโนเทค สวทช. มุ่งใช้ความเชี่ยวชาญด้านวิทยาศาสตร์และเทคโนโลยีเร่งสร้างนวัตกรรมยาตามตำรับยาแผนไทยและผลิตภัณฑ์สมุนไพร เพื่อสุขภาพคนและสัตว์ตลอดห่วงโซ่คุณค่า ผ่านการวิจัยและพัฒนาสารสกัดและผลิตภัณฑ์สมุนไพร การสร้างมูลค่าเพิ่ม และการทำงานร่วมกับพันธมิตรเพื่อพัฒนาผลิตภัณฑ์นวัตกรรม ตลอดจนการสร้างความเชื่อมั่นให้แก่ผู้บริโภค\n“ภายใต้ความร่วมมือระหว่างนาโนเทค สวทช. และกรมการแพทย์แผนไทยและการแพทย์ทางเลือก จะมุ่งเน้นการต่อยอดตำรับยาแผนไทยดั้งเดิม ด้วยการนำนวัตกรรมสารออกฤทธิ์จากสมุนไพรไทย เข้าไปเสริมประสิทธิภาพให้กับผลิตภัณฑ์จากสมุนไพรในกลุ่มที่มีศักยภาพ ได้แก่ 1) กลุ่มที่ช่วยส่งเสริมการนอนหลับ 2) กลุ่มบรรเทาอาการภูมิแพ้ และ 3) กลุ่มบรรเทาอาการปวด เพื่อยกระดับองค์ความรู้และภูมิปัญญาการแพทย์แผนไทยด้วยวิทยาศาสตร์ เทคโนโลยี และนวัตกรรม ให้กลายเป็นผลิตภัณฑ์เชิงสุขภาพที่ตอบโจทย์และสามารถผลักดันไปสู่ระบบสาธารณสุขสมัยใหม่ โดยทั้งสองหน่วยงานจะร่วมกันคัดเลือกสมุนไพรหรือตำรับเป้าหมายที่มีศักยภาพ และดำเนินการวิจัยเพื่อสร้างหลักฐานทางวิทยาศาสตร์ที่ครอบคลุมสารสำคัญ ฤทธิ์ทางชีวภาพ ความปลอดภัย ไปจนถึงประสิทธิผลของสูตรตำรับ” ดร.อุดม กล่าว\nความร่วมมือระหว่างสวทช. โดยนาโนเทค และกรมการแพทย์แผนไทยและการแพทย์ทางเลือกในครั้งนี้ นับเป็นหมุดหมายสำคัญในการเชื่อมโยงภูมิปัญญาดั้งเดิมเข้ากับนวัตกรรมระดับสากล ไม่เพียงแต่ช่วยสร้างมูลค่าเพิ่มทางเศรษฐกิจและขยายโอกาสทางการตลาดเท่านั้น แต่ยังช่วยขยายผลสู่ระบบสาธารณสุขไทย พร้อมทั้งพัฒนากำลังคนด้านการวิจัยและสุขภาพของประเทศให้มีความเข้มแข็งและยั่งยืนต่อไป\nDTAM\n,\nนาโนเทค\n,\nนาโนเทคโนโลยี\n,\nยาแผนไทย\n,\nสมุนไพรไทย\nข่าวที่เกี่ยวข้อง\nPosted\non\n25 สิงหาคม 2569\nปิดฉาก 'มหกรรมวิทยาศาสตร์ฯ 2569' จุดประกายทักษะแห่งอนาคต ก่อนส่งต่อนิทรรศการสู่แหล่งเรียนรู้ทั่วไทย\nPosted\non\n24 สิงหาคม 2569\nสจล.พลิกมหา’ลัยสู่แหล่งบ่มเพาะกลุ่มทาเล",
+        "content_length": 5894,
+        "published_time": "Mon, 24 Aug 2026 13:42:54 GMT",
+        "modified_time": "",
+        "time": "Mon, 24 Aug 2026 13:42:54 GMT",
+        "url": "https://www.naewna.com/n/education-and-arts/22307/",
+        "source_url": "https://www.naewna.com"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": [
+      [
+        "Vietnam.vn",
+        14
+      ],
+      [
+        "中财网",
+        4
+      ],
+      [
+        "El Globalfarma",
+        3
+      ],
+      [
+        "ACidade ON",
+        2
+      ],
+      [
+        "Guia da Farmácia",
+        2
+      ],
+      [
+        "caiwennews.com",
+        2
+      ],
+      [
+        "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+        2
+      ],
+      [
+        "L'Agefi",
+        1
+      ],
+      [
+        "RTS Medios",
+        1
+      ],
+      [
+        "DeGremiales.com",
+        1
+      ],
+      [
+        "Diario El Norte - San Nicolás",
+        1
+      ],
+      [
+        "El Diario - Bolivia",
+        1
+      ],
+      [
+        "NCF - Notiziario Chimico Farmaceutico",
+        1
+      ],
+      [
+        "Prefeitura de Cubatão",
+        1
+      ],
+      [
+        "Propmark",
+        1
+      ]
+    ]
+  }
+}
