@@ -1,0 +1,230 @@
+{
+  "date": "2026-08-26",
+  "window": {
+    "start": "2026-08-26T06:30:00+09:00",
+    "end": "2026-08-27T06:29:59+09:00"
+  },
+  "total_articles": 420,
+  "window_articles": 138,
+  "language_breakdown": {
+    "korean": {
+      "total": 203,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 19,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 23,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 88,
+      "languages": {
+        "French / 프랑스어": 0,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 4,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 9,
+        "Indonesian / 인도네시아어": 5,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "issues": [
+    {
+      "topic": "drug, expo, targets, local, pharma 관련 보도",
+      "domain": "drug",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 46,
+      "key_articles": [
+        {
+          "title": "Hanmi Pharm in spotlight as Korea's 1st obesity drug nears launch - The Korea Times",
+          "importance": 47,
+          "url": "https://www.koreatimes.co.kr/business/companies/20260826/hanmi-pharm-in-spotlight-as-koreas-1st-obesity-drug-nears-launch"
+        },
+        {
+          "title": "Ministers, others to attend 8th Pharma Manufacturers Expo as Nigeria Targets 70% local drug production - Blueprint Newspapers",
+          "importance": 47,
+          "url": "https://blueprint.ng/ministers-others-to-attend-8th-pharma-manufacturers-expo-as-nigeria-targets-70-local-drug-production/"
+        },
+        {
+          "title": "Nigeria Targets 70% Local Drug Production as Pharma Expo Draws Top Officials - National Insight News",
+          "importance": 47,
+          "url": "https://nationalinsightnews.com/nigeria-targets-70-local-drug-production-as-pharma-expo-draws-top-officials/"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 7건이 drug, expo, targets, local, pharma 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "7 articles were clustered around drug, expo, targets, local, pharma; the linked source articles provide the underlying details."
+    },
+    {
+      "topic": "의정부을지대병원, 영입, 의료진 관련 보도",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 39,
+      "key_articles": [
+        {
+          "title": "의정부을지대병원, 암·심장·소아 등 우수 의료진 5명 영입 - 간호사신문",
+          "importance": 42,
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=43579"
+        },
+        {
+          "title": "의정부을지대병원, 전문 의료진 5명 영입 - 뉴스핌",
+          "importance": 37,
+          "url": "https://www.newspim.com/news/view/20260826000529"
+        },
+        {
+          "title": "의정부을지대병원, `대장암·심장질환·소아성장` 전문의 영입 - 경기평화신문",
+          "importance": 37,
+          "url": "http://www.ggpyeonghwa.com/603690"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 3건이 의정부을지대병원, 영입, 의료진 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "3 articles were clustered around 의정부을지대병원, 영입, 의료진; the linked source articles provide the underlying details."
+    },
+    {
+      "topic": "세도, 무료접종, 일부터, 독감, 예방접종 관련 보도",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 39,
+      "key_articles": [
+        {
+          "title": "“14세도 독감 무료접종”…9월 21일부터 국가예방접종 시작 - 무안신문",
+          "importance": 42,
+          "url": "https://www.muannews.com/news/articleView.html?idxno=509187"
+        },
+        {
+          "title": "9월 21일부터 2026-2027절기 인플루엔자 국가 예방접종 실시…14세도 무료접종 대상 - 네이트",
+          "importance": 37,
+          "url": "https://news.nate.com/view/20260825n36878"
+        },
+        {
+          "title": "[예방접종]\"14세도 독감 무료\"…올겨울 예방접종 일정 나왔다 - 남도일보",
+          "importance": 37,
+          "url": "https://www.namdonews.com/news/articleViewAmp.html?idxno=921173"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 3건이 세도, 무료접종, 일부터, 독감, 예방접종 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "3 articles were clustered around 세도, 무료접종, 일부터, 독감, 예방접종; the linked source articles provide the underlying details."
+    },
+    {
+      "topic": "chosunbiz, korea 관련 보도",
+      "domain": "clinical",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "South Korea accelerates bio approvals to 240 days, drives global harmonization - CHOSUNBIZ - Chosunbiz",
+          "importance": 55,
+          "url": "https://biz.chosun.com/en/en-science/2026/08/26/YFH7MJ5XY5FIRL6J2I3NNVJBO4/"
+        },
+        {
+          "title": "Daewoong, distributors end Korea hub-wholesaler dispute, rebrand partners - CHOSUNBIZ - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com/en/en-science/2026/08/26/Z2NZYVO3CRAFVIPPJPJE5Q23PQ/"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 2건이 chosunbiz, korea 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "2 articles were clustered around chosunbiz, korea; the linked source articles provide the underlying details."
+    },
+    {
+      "topic": "fda, FDA 관련 보도",
+      "domain": "regulatory",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "신라젠, 'BAL0891' 급성골수성백혈병 치료제로 美 FDA 희귀의약품 지정 - CBC뉴스",
+          "importance": 42,
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=601189"
+        },
+        {
+          "title": "FDA, HER2 이중항체 ‘지헤라’, 위·식도선암 1차 치료 승인 - 헬스코리아뉴스",
+          "importance": 37,
+          "url": "https://www.hkn24.com/news/articleView.html?idxno=350841"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 2건이 fda, FDA 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "2 articles were clustered around fda, FDA; the linked source articles provide the underlying details."
+    },
+    {
+      "topic": "속도, 글로벌 관련 보도",
+      "domain": "global",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "GC녹십자·셀트리온, 신약·바이오시밀러로 글로벌 시장 공략 '속도' - 경인방송 뉴스",
+          "importance": 37,
+          "url": "https://news.ifm.kr/news/articleView.html?idxno=477917"
+        },
+        {
+          "title": "“K-바이오 대도약, 이제는 속도”…식약처, 규제혁신·글로벌 조화 가속 - 약업신문",
+          "importance": 37,
+          "url": "http://www.yakup.com/news/?mode=view&cat=11&cat2=&cat3=0&nid=331600"
+        }
+      ],
+      "summary_kr": "분석 준비 데이터에서 2건이 속도, 글로벌 키워드로 연결됐다. 대표 기사와 세부 내용은 원문 링크를 기준으로 확인해야 한다.",
+      "summary_en": "2 articles were clustered around 속도, 글로벌; the linked source articles provide the underlying details."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 12
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 7,
+      "en_count": 2
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "FDA 심사·신약 허가와 의약품 안전성",
+      "인플루엔자 국가예방접종 대상 확대",
+      "인도네시아 의약품 할랄 인증과 제조 현지화",
+      "의약품 사용 안전성과 의료현장 사고",
+      "국가 임상시험 허브와 의약품 회복탄력성 정책"
+    ],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-08-26T07:32:40.630465+00:00"
+}
