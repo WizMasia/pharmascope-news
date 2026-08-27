@@ -1,0 +1,713 @@
+{
+  "date": "2026-08-27",
+  "total_articles": 422,
+  "language_breakdown": {
+    "korean": {
+      "total": 202,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 22,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 89,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 8,
+        "Italian / 이탈리아어": 0,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 6,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 4,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 30
+    },
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "허가",
+      "count": 9
+    },
+    {
+      "keyword": "식약처",
+      "count": 8
+    },
+    {
+      "keyword": "약가",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "급여",
+      "count": 4
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "오남용",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 37
+    },
+    {
+      "keyword": "approval",
+      "count": 10
+    },
+    {
+      "keyword": "pricing",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 10
+    },
+    {
+      "source": "팜뉴스",
+      "count": 7
+    },
+    {
+      "source": "간호사신문",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 7
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 7
+    },
+    {
+      "source": "약업신문",
+      "count": 6
+    },
+    {
+      "source": "네이트",
+      "count": 6
+    },
+    {
+      "source": "의학신문",
+      "count": 5
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 4
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "TradingView",
+      "count": 4
+    },
+    {
+      "source": "Reuters",
+      "count": 3
+    },
+    {
+      "source": "BioSpace",
+      "count": 3
+    },
+    {
+      "source": "Pharmaceutical Executive",
+      "count": 3
+    },
+    {
+      "source": "Medical Daily",
+      "count": 3
+    },
+    {
+      "source": "openPR.com",
+      "count": 3
+    },
+    {
+      "source": "The Manila Times",
+      "count": 3
+    },
+    {
+      "source": "Chosunbiz",
+      "count": 2
+    },
+    {
+      "source": "BioPharma Dive",
+      "count": 2
+    },
+    {
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "drug, expo, targets, local, pharma 관련 보도",
+    "의정부을지대병원, 영입, 의료진 관련 보도",
+    "세도, 무료접종, 일부터, 독감, 예방접종 관련 보도",
+    "chosunbiz, korea 관련 보도",
+    "fda, FDA 관련 보도"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 13,
+      "keywords": [
+        "fda",
+        "FDA",
+        "drug",
+        "cancer",
+        "pancreatic",
+        "approves"
+      ],
+      "articles": [
+        {
+          "title": "Sillajen Hits Upper Limit on FDA Orphan Drug Status, Hanmi Pharma Plunges[K-Bio Pulse] - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Sillajen Hits Upper Limit on FDA Orphan Drug Status, Hanmi Pharma Plunges[K-Bio Pulse] | 구글 검색 선호 출처로 추가 | 등록 2026-08-27 오전 8:07:03 | 수정 2026-08-27 오전 8:07:03 | 이 기사는 2026년8월26일 8시5분에",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 26 Aug 2026 23:07:03 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02597766645551584&mediaCodeNo=257"
+        },
+        {
+          "title": "Fifth Circuit Rejects PhRMA’s Suit Over Medicare Drug Price Cuts - Bloomberg Law News",
+          "source": "Bloomberg Law News",
+          "importance": 57,
+          "stars": "⭐⭐⭐",
+          "snippet": "A federal appeals court rejected a drug lobbying group’s challenge to the government’s Medicare drug price negotiation program, handing down another setback to the pharmaceutical industry’s longstanding fight against the",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Wed, 26 Aug 2026 21:42:00 GMT",
+          "url": "https://news.bloomberglaw.com/pharma-and-life-sciences/fifth-circuit-rejects-phrmas-suit-over-medicare-drug-price-cuts"
+        },
+        {
+          "title": "신라젠 ‘BAL0891’ FDA 희귀의약품 지정…고형암 넘어 혈액암까지 - edaily.co.kr",
+          "source": "edaily.co.kr",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "신라젠 ‘BAL0891’ FDA 희귀의약품 지정…고형암 넘어 혈액암까지 | AML 개발 지원 혜택 확보…허가 시 美 7년 시장 독점권 | ASCO서 단독 CR·병용 DCR 88%…10월 추가 데이터 공개 | 엠투엔 지원·우성제약 합병으로 R&D·매출 기반도 강화 | 구글 검색 선호 출처로 추가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 27 Aug 2026 00:28:02 GMT",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=02922486645551584&mediaCodeNo=257"
+        },
+        {
+          "title": "FDA Approves Drug for Advanced Pancreatic Cancer | Newswise - Newswise",
+          "source": "Newswise",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Credit: UC San Diego Health | Gregory Botta, MD, PhD, medical oncologist at UC San Diego Health and associate professor of medicine at University of California San Diego School of Medicine. | Credit: UC San Diego Health ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 27 Aug 2026 02:25:00 GMT",
+          "url": "https://www.newswise.com/articles/fda-approves-drug-for-advanced-pancreatic-cancer"
+        },
+        {
+          "title": "FDA approves new pancreatic cancer drug that could extend patients' lives - CBS News",
+          "source": "CBS News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "The Food and Drug Administration on Wednesday approved | a groundbreaking new drug | for advanced pancreatic cancer, offering U.S. | patients a more effective treatment against one of the deadliest types of cancer. | FDA",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Wed, 26 Aug 2026 23:02:00 GMT",
+          "url": "https://www.cbsnews.com/news/fda-approves-pancreatic-cancer-drug-daraxonrasib-could-extend-patients-lives/"
+        },
+        {
+          "title": "An innovative new drug has emerged in the field of pancreatic cancer, which is considered the worst - 매일경제",
+          "source": "매일경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Revolution Medicine 'Daraxon-Lasip' | Eating is approved as a RAS inhibitor | \"Daraxon lasip (product name Rasonk)\" developed by Revolution Medicine. | [Yonhap News] | An innovative new drug has emerged in the field of p",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 27 Aug 2026 05:03:52 GMT",
+          "url": "https://www.mk.co.kr/en/it/12137697"
+        },
+        {
+          "title": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post",
+          "source": "The Washington Post",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 27 Aug 2026 02:54:38 GMT",
+          "url": "https://www.washingtonpost.com/health/2026/08/26/fda-approves-landmark-pancreatic-cancer-drug-daraxonrasib/"
+        },
+        {
+          "title": "5th Circ. Upholds Drug Negotiations In Blow To Big Pharma - Law360",
+          "source": "Law360",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Medicare's landmark program of drug price negotiations doesn't flout constitutional provisions involving the separation of powers, due process or excessive fines, the Fifth Circuit ruled late Wednesday, delivering a fres",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 27 Aug 2026 04:00:00 GMT",
+          "url": "https://www.law360.com/healthcare-authority/policy-compliance/articles/2477901/5th-circ-upholds-drug-negotiations-in-blow-to-big-pharma"
+        },
+        {
+          "title": "Pharmaceutical groups raise questions about FDA’s expedited IND pilot - RAPS",
+          "source": "RAPS",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Regulatory News | 26 August 2026 | by Joanne S. | Pharmaceutical groups raise questions about FDA’s expedited IND pilot | FDA headquarters in White Oak, Md.",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Wed, 26 Aug 2026 22:44:00 GMT",
+          "url": "https://www.raps.org/resource/pharmaceutical-groups-raise-questions-about-fda-s-expedited-ind-pilot.html"
+        },
+        {
+          "title": "FDA approves landmark pancreatic cancer drug that's shown to improve survival - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "FDA approves landmark pancreatic cancer drug that's shown to improve survival | health officials have approved a groundbreaking pancreatic cancer drug that offers a new approach to treating the deadly form of cancer | MA",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 00:22:30 GMT",
+          "url": "https://abcnews.com/Health/wireStory/fda-approves-landmark-pancreatic-cancer-drug-shown-improve-135976845"
+        },
+        {
+          "title": "Immuneering Comments on Today’s FDA Approval in Second-Line Metastatic Pancreatic Cancer, Reiterates Focus on First-Line Patients - The Manila Times",
+          "source": "The Manila Times",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "- For patients with second-line (2L) metastatic pancreatic cancer, today’s FDA approval of a new treatment is an important milestone - | - For patients with first-line (1L) metastatic pancreatic cancer, Immuneering’s ate",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Wed, 26 Aug 2026 21:37:20 GMT",
+          "url": "https://www.manilatimes.net/2026/08/27/tmt-newswire/globenewswire/immuneering-comments-on-todays-fda-approval-in-second-line-metastatic-pancreatic-cancer-reiterates-focus-on-first-line-patients/2412958"
+        },
+        {
+          "title": "Regulatory tracker: FDA expands nod for HIV med Tivicay to include newborns - Fierce Pharma",
+          "source": "Fierce Pharma",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Regulatory tracker: FDA expands nod for HIV med Tivicay to include newborns - Fierce Pharma | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 00:35:15 GMT",
+          "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2"
+        },
+        {
+          "title": "신라젠 ‘BAL0891’ FDA 희귀의약품 지정…고형암 넘어 혈액암까지 - 팜이데일리",
+          "source": "팜이데일리",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "신라젠 ‘BAL0891’ FDA 희귀의약품 지정…고형암 넘어 혈액암까지 | AML 개발 지원 혜택 확보…허가 시 美 7년 시장 독점권 | ASCO서 단독 CR·병용 DCR 88%…10월 추가 데이터 공개 | 엠투엔 지원·우성제약 합병으로 R&D·매출 기반도 강화 | 등록 2026-08-27 오전 9:27:02",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 27 Aug 2026 00:27:02 GMT",
+          "url": "https://pharm.edaily.co.kr/news/read?newsId=02919206645551584"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "manufacturing",
+        "growth",
+        "market",
+        "trends",
+        "biopharmaceutical",
+        "marketsandmarkets",
+        "korea",
+        "share",
+        "size",
+        "south"
+      ],
+      "articles": [
+        {
+          "title": "South-Korea Biopharmaceutical Contract Manufacturing Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+          "source": "MarketsandMarkets",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "South-Korea Biopharmaceutical Contract Manufacturing Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 27 Aug 2026 03:12:49 GMT",
+          "url": "https://www.marketsandmarkets.com/Market-Reports/geography/biotechnology-ccontract-manufacturing-market/south-korea"
+        },
+        {
+          "title": "Viva Biotech Announces Its 2026 Interim Results: AI Sparks New Paradigm in Drug R&D, CDMO Commercial Manufacturing Accelerates Revenue Growth - TradingView",
+          "source": "TradingView",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Results Highlights for Interim Results ended 30 June 2026 | Revenue reached RMB1,006.5 million, increasing by 21.0% YoY | Gross profit amounted to RMB341.7 million, increasing by 0.7% YoY | Gross profit margin was 34.0% ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 27 Aug 2026 03:09:00 GMT",
+          "url": "https://www.tradingview.com/news/prnewswire:90052e334baac:0-viva-biotech-announces-its-2026-interim-results-ai-sparks-new-paradigm-in-drug-r-d-cdmo-commercial-manufacturing-accelerates-revenue-growth/"
+        },
+        {
+          "title": "SK Biopharm's $795M drug deal signals new era for Korean biotech - 헤럴드경제",
+          "source": "헤럴드경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "SK Biopharm has struck a deal worth up to $795 million to license in ofacalim, a next-generation epilepsy drug candidate, from NASDAQ-listed biotech Biohaven — | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Wed, 26 Aug 2026 23:54:40 GMT",
+          "url": "https://mbiz.heraldcorp.com/article/10853606"
+        },
+        {
+          "title": "South-Korea Biopharmaceutical Contract Manufacturing Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+          "source": "MarketsandMarkets",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "South-Korea Biopharmaceutical Contract Manufacturing Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Thu, 27 Aug 2026 03:12:49 GMT",
+          "url": "https://www.marketsandmarkets.com/Market-Reports/geography/biotechnology-ccontract-manufacturing-market/south-korea"
+        },
+        {
+          "title": "百诚医药2026年半年报：CDMO高速增长，扣非亏损扩大 - 东方财富",
+          "source": "东方财富",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "蓝鲸新闻8月27日讯，8月26日，百诚医药(301096.SZ)公布2026年中报，公司依托“研发+转化+生产”一体化业务布局，受制于仿制药集采及行业政策调整影响，报告期业绩呈现营收与利润双降态势；同时，CDMO及商业化生产板块实现高速增长，创新药管线推进顺利，但扣非净利润亏损幅度扩大，盈利质量承压。 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Chinese Simplified / 중국어",
+          "time": "Thu, 27 Aug 2026 04:50:57 GMT",
+          "url": "http://finance.eastmoney.com/a/202608273856163242.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "기등재",
+        "약가",
+        "약가인하",
+        "의약품"
+      ],
+      "articles": [
+        {
+          "title": "기등재 의약품 약가인하 지연…실무진 ‘월별 체크리스트’ 주목",
+          "source": "팜뉴스",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "[팜뉴스=우정민 기자] 정부의 기등재 의약품 약가 재평가 일정이 연기되면서 제약사 약가 담당 실무자들의 발걸음이 분주해졌다. | 보건복지부가 이의신청 기간 보장과 제도 간 조율을 위해 약가 인하 시기를 조정했기 때문이다. | 이에 따라 제약업계 실무진은 오는 9월부터 이어지는 일정에 맞추어 체크리스트를 실행해야 한다. | 가장 먼저 맞이할 분수령은 오는 9월이다. | 제약사는 9월 1일 기준",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "6시간",
+          "url": "https://www.pharmnews.com/news/articleView.html?idxno=305860"
+        },
+        {
+          "title": "기등재 의약품 약가인하 내년 4월로 연기 - 메디칼업저버",
+          "source": "메디칼업저버",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "연내 시행서 선회···2단계는 2030년 착수 | 이미지출처 : 게티이미지뱅크. | [메디칼업저버 문윤희 기자] 기등재 의약품 상한금액 재평가에 따른 1단계 약가인하가 내년 4월 시행된다. | 보건복지부는 올해 8월 재평가 계획을 공고하고 내년 2월까지 최종안을 확정한 뒤 건강보험정책심의위원회 의결을 거쳐 4월부터 약가인하를 시행하는 방안을 26일 실무협의체를 통해 확정했다. | 이날 실무협",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Wed, 26 Aug 2026 23:39:10 GMT",
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=413472"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "조선비즈",
+        "chosunbiz"
+      ],
+      "articles": [
+        {
+          "title": "췌장암 생존기간 두 배…난공불락 RAS 잡은 신약 美 승인 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "췌장암 환자의 생존기간을 두 배로 늘린 혁신 신약이 등장했다. | 미국 바이오기업 레볼루션메디신(Revolution Medicines)가 개발한 ‘라손큐(Rasonque·성분명 다락손라시브)’다. | 레볼루션메디신은 26일(현지 시각) 미국 식품의약국(FDA)이 기존 치료를 받은 전이성 췌장선암 환자의 치료제로 라손큐를 승인했다고 밝혔다. | FDA는 당초 심사 기한보다 6개월 이상 앞당겨 ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 27 Aug 2026 06:18:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/27/KY7RZOS34VEVTPUFIPRWTQLOFI/"
+        },
+        {
+          "title": "의료혁신위, 보건소 ‘건강관리’ 기능·동네의원 ‘재택의료’ 확대 권고 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "초고령사회에 맞춰 병원에서 질병을 치료하는 현행 의료 체계를 지역사회에서 예방하고 관리하는 방식으로 바꾸자는 권고안이 나왔다. | 보건소는 지역 건강 정책을 총괄하고 동네 의원은 예방·만성질환 관리와 재택의료까지 맡도록 역할을 재편하는 것이 핵심이다. | 국무총리 소속 자문 기구인 의료혁신위원회는 27일 서울 코리아나호텔에서 제9차 회의를 열고, 지역 보건의료 체계 기능 강화, 일차의료 기능",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "Thu, 27 Aug 2026 04:32:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/medicine-health/2026/08/27/3NIQH73WDRF6NOXAABBQJZOKZI/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "국가예방접종",
+        "인플루엔자"
+      ],
+      "articles": [
+        {
+          "title": "65세 이상 코로나19·인플루엔자 국가예방접종 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "source": "대한민국 정책브리핑",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "건강할 때 더 건강하게! | 인플루엔자, 코로나19 동시에 접종하니 편하네! | (2026-2027절기) | ■ 65세 이상 코로나19·인플루엔자 국가예방접종 | · 대상: 65세 이상(1961.12.31.",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Wed, 26 Aug 2026 23:09:30 GMT",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970641&pWise=sub&pWiseSub=R5"
+        },
+        {
+          "title": "질병관리청, 14세도 인플루엔자 국가예방접종 - 경기종합뉴스",
+          "source": "경기종합뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "■ 14세도 인플루엔자 국가예방접종 | 매년 유행하는 인플루엔자, 가장 좋은 예방법은 예방접종입니다. | 2026-2027절기부터 2012년에 출생한 14세 청소년까지 무료 접종 가능합니다. | 저작권자 © 경기종합뉴스 무단전재 및 재배포 금지 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Thu, 27 Aug 2026 05:37:52 GMT",
+          "url": "https://www.ggoverallnews.co.kr/news/articleView.html?idxno=114637"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "신약개발",
+        "신약"
+      ],
+      "articles": [
+        {
+          "title": "HLB그룹 신약개발 '결실의 시간' 임박?…연말까지 '빅이벤트' 지속 - 경제투데이",
+          "source": "경제투데이",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "HLB그룹의 신약개발 사업이 올 하반기 주요 임상·허가 일정이 잇따르면서 성과 확인의 시간을 맞는다. | 9월 담관암 치료제의 미국 식품의약국(FDA) 허가 여부를 시작으로 간암 신약 허가 재신청, 안과질환 치료제 임상 3상 결과, 차세대 CAR-T 치료제 임상 데이터 발표 등이 연말까지 이어질 전망이다. | 27일 업계에 따르면 하반기 HLB그룹에서 가장 먼저 결과가 나오는 파이프라인은 H",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 27 Aug 2026 02:04:16 GMT",
+          "url": "http://www.e-today.kr/news/articleViewAmp.html?idxno=913651"
+        },
+        {
+          "title": "타깃 발굴부터 허가까지, 신약개발 전주기 파고든 AI…\"코사이언티스트 넘어 AI 연구조직으로\" - MEDI:GATE NEWS",
+          "source": "MEDI:GATE NEWS",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "경희대학교 이화진 교수 [메디게이트뉴스 이지원 기자] 인공지능(AI)을 활용한 신약개발이 단백질 구조 예측이나 후보물질 발굴을 넘어 비임상과 임상, 허가 등 신약개발 전주기로 확대되고 있다. | 이런 가운데 향후에는 AI 에이전트와 자동화 로봇이 결합하고, AI가 실험 설계와 후보물질 최적화까지 수행하는 AI 활용 조직으로 발전할 수 있다는 전망이 나왔다. | 경희대학교 이화진 교수는 26일",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Wed, 26 Aug 2026 22:00:00 GMT",
+          "url": "https://www.medigatenews.com/news/2641647201"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Một loại thuốc mở ra cơ hội điều trị ung thư tuyến tụy - Bloomberg Businessweek Vietnam",
+      "source": "Bloomberg Businessweek Vietnam",
+      "importance": 62,
+      "snippet": "Đây là bài viết có tính phí, bạn được tặng 5 lần đọc bài viết premium trong tháng! | Đăng nhập ngay | Bạn được tặng 5 lần đọc bài viết premium tháng này | Mở khóa toàn bộ nội dung chỉ với một thao tác",
+      "url": "https://bbw.vn/mot-loai-thuoc-mo-ra-co-hoi-dieu-tri-ung-thu-tuyen-tuy-59961.html"
+    },
+    {
+      "title": "Geleneksel tıp bitkileri: Keşfedilmemiş bir 'hazine sandığı' - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 55,
+      "snippet": "Vietnam.vn'i takip et | Vietnam.vn'i ekle | 25 Ağustos'ta Ho Chi Minh Şehri Geleneksel Tıp Hastanesi tarafından düzenlenen \"Yeni Çağda Geleneksel Tıp: Modernizasyon, Standardizasyon - Entegrasyon\" kon",
+      "url": "https://www.vietnam.vn/tr/duoc-lieu-y-hoc-co-truyen-kho-bau-con-bo-ngo"
+    },
+    {
+      "title": "Vesselon Issued Patent and New Data Changes the Therapeutic Index of Antibody-Based Drugs - BioSpace",
+      "source": "BioSpace",
+      "importance": 47,
+      "snippet": "delivers 6X more drug to tumor and less to off-target tissues without altering antibody drugs | GREENWICH, Conn. | /PRNewswire/ -- The U.S. | Patent and Trademark Office has issued U.S. | Patent Numbe",
+      "url": "https://www.biospace.com/press-releases/vesselon-issued-patent-and-new-data-changes-the-therapeutic-index-of-antibody-based-drugs"
+    },
+    {
+      "title": "Medicare's $50 Weight Loss Discount Excludes Millions Whose Conditions the Drugs Are Actually Approved to Treat - Medical Daily",
+      "source": "Medical Daily",
+      "importance": 47,
+      "snippet": "A Medicare beneficiary who has both severe obesity and one of the medical conditions that GLP-1 drugs | are approved to treat can be disqualified from the $50 monthly price on those same drugs. | That",
+      "url": "https://www.medicaldaily.com/medicare-glp1-bridge-diagnosis-exclusion-sleep-apnea-diabetes-477803"
+    },
+    {
+      "title": "Findings from Tianyi Wang and Co-Researchers Advance Knowledge in Personalized Medicine (Payer coverage principles for precision medicine biomarker testing in oncology): Drugs and Therapies – Personalized Medicine - InsuranceNewsNet",
+      "source": "InsuranceNewsNet",
+      "importance": 47,
+      "snippet": "2026 AUG 26 (NewsRx) -- By a | News Reporter-Staff News | Insurance Daily News | -- New research on Drugs and Therapies - Personalized Medicine is the subject of a report. | According to news originat",
+      "url": "https://insurancenewsnet.com/oarticle/findings-from-tianyi-wang-and-co-researchers-advance-knowledge-in-personalized-medicine-payer-coverage-principles-for-precision-medicine-biomarker-testing-in-oncology-drugs-and-therapies-personal"
+    },
+    {
+      "title": "PRESCRIPTION DRUGS—D.C. Cir.:... - VitalLaw.com",
+      "source": "VitalLaw.com",
+      "importance": 47,
+      "snippet": "PRESCRIPTION DRUGS—D.C. | - VitalLaw.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.vitallaw.com/news/prescription-drugs-d-c-cir-summary-judgment-for-government-largely-affirmed-in-teva-challenge-to-drug-price-negotiation-program/hld01883a13acb7114193b54af256130151ee"
+    },
+    {
+      "title": "Earnings Miss: China Resources Pharmaceutical Group Limited Missed EPS By 12% And Analysts Are Revising Their Forecasts - simplywall.st",
+      "source": "simplywall.st",
+      "importance": 47,
+      "snippet": "As you might know, | China Resources Pharmaceutical Group Limited | ) last week released its latest half-year, and things did not turn out so great for shareholders. | It wasn't a great result overall",
+      "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-3320/china-resources-pharmaceutical-group-shares/news/earnings-miss-china-resources-pharmaceutical-group-limited-m-1"
+    },
+    {
+      "title": "UMB Celebrates America at 250: UMSOP Innovators Helped Build the Nation’s Pharmaceutical Industry - The University of Maryland, Baltimore",
+      "source": "The University of Maryland, Baltimore",
+      "importance": 47,
+      "snippet": "Nine “Founding Pharmapreneurs” delivered groundbreaking advances in science, medicine, and innovation, solidifying the School of Pharmacy’s global reputation as a leader in the field. | 요약문 생성 불가 | 요약",
+      "url": "https://elm.umaryland.edu/elm-stories/2026/UMB-Celebrates-America-at-250-UMSOP-Innovators-Helped-Build-the-Nations-Pharmaceutical-Industry.php"
+    },
+    {
+      "title": "Ketua berusia 78 tahun itu dan sejumlah kerabatnya menarik investasi mereka, dan raksasa farmasi tersebut memasuki persaingan baru. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Ikuti Vietnam.vn di | Tambahkan Vietnam.vn di | Hampir 34% dari modal VDP berpindah tangan dalam waktu kurang dari sebulan. | Vidipha Central Pharmaceutical Joint Stock Company (HoSE: VDP) sedang meng",
+      "url": "https://www.vietnam.vn/id/chu-tich-78-tuoi-cung-loat-nguoi-than-rut-von-ong-lon-duoc-pham-buoc-vao-cuoc-dua-moi"
+    },
+    {
+      "title": "White House to announce Donald Trump's new drug pricing deals with biotechs companies - CNBC TV18",
+      "source": "CNBC TV18",
+      "importance": 42,
+      "snippet": "White House to announce Donald Trump's new drug pricing deals with biotechs companies | Trump administration plans new drug-pricing agreements with biotech companies for Medicaid discounts, exempting ",
+      "url": "https://www.cnbctv18.com/world/white-house-to-announce-donald-trumps-new-drug-pricing-deals-with-biotechs-companies-19977937.htm"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 4,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 9,
+      "en_count": 10
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 8
+    }
+  ]
+}
