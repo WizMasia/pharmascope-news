@@ -1,0 +1,840 @@
+{
+  "date": "2026-08-28",
+  "total_articles": 413,
+  "language_breakdown": {
+    "korean": {
+      "total": 202,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 9,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 128,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 83,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 8,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 8,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 2,
+        "Hebrew / 히브리어": 0,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 24
+    },
+    {
+      "keyword": "심사",
+      "count": 15
+    },
+    {
+      "keyword": "약가",
+      "count": 15
+    },
+    {
+      "keyword": "FDA",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 10
+    },
+    {
+      "keyword": "허가",
+      "count": 9
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "항암",
+      "count": 5
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 3
+    },
+    {
+      "keyword": "급여",
+      "count": 3
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "오남용",
+      "count": 1
+    },
+    {
+      "keyword": "ADC",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 34
+    },
+    {
+      "keyword": "approval",
+      "count": 19
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "generic",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "safety",
+      "count": 4
+    },
+    {
+      "keyword": "GMP",
+      "count": 3
+    },
+    {
+      "keyword": "vaccine",
+      "count": 3
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 14
+    },
+    {
+      "source": "뉴시스",
+      "count": 8
+    },
+    {
+      "source": "팜뉴스",
+      "count": 7
+    },
+    {
+      "source": "히트뉴스",
+      "count": 7
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "ebn.co.kr",
+      "count": 5
+    },
+    {
+      "source": "의약뉴스",
+      "count": 5
+    },
+    {
+      "source": "약업신문",
+      "count": 5
+    },
+    {
+      "source": "네이트",
+      "count": 4
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "simplywall.st",
+      "count": 4
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 4
+    },
+    {
+      "source": "Drug Topics",
+      "count": 4
+    },
+    {
+      "source": "The New York Times",
+      "count": 3
+    },
+    {
+      "source": "BioPharma Dive",
+      "count": 3
+    },
+    {
+      "source": "Life Sciences IP Review",
+      "count": 3
+    },
+    {
+      "source": "STAT",
+      "count": 3
+    },
+    {
+      "source": "Fierce Pharma",
+      "count": 3
+    },
+    {
+      "source": "the-scientist.com",
+      "count": 2
+    },
+    {
+      "source": "The Arkansas Democrat-Gazette",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "FDA·신약·항암제 규제 및 임상",
+    "바이오의약품 제조·CDMO 성장",
+    "기등재 의약품 약가인하 지연",
+    "췌장암 신약 승인과 지역의료 확대",
+    "코로나19·인플루엔자 국가예방접종"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 16,
+      "keywords": [
+        "drug",
+        "fda",
+        "FDA",
+        "cancer",
+        "com",
+        "approval"
+      ],
+      "articles": [
+        {
+          "title": "FDA Advisory No.2026-0894 || Public Health Warning Against the Purchase and Use of the Unauthorized Cosmetic Product “KATHRINA WILDER EAU DE PARFUM FOR WOMEN & MEN (PRESLEY)” - Food and Drug Administration - fda.gov.ph",
+          "source": "fda.gov.ph",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Share this Post! | The Food and Drug Administration (FDA) warns all healthcare professionals and the general public | NOT TO PURCHASE AND USE | the unauthorized cosmetic product: | KATHRINA WILDER EAU DE PARFUM FOR WOMEN",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 28 Aug 2026 02:27:36 GMT",
+          "url": "https://www.fda.gov.ph/fda-advisory-no-2026-0894-public-health-warning-against-the-purchase-and-use-of-the-unauthorized-cosmetic-product-kathrina-wilder-eau-de-parfum-for-women-men-presley/"
+        },
+        {
+          "title": "FDA Approves Breakthrough Pancreatic Cancer Drug – An Oncologist Explains How Daraxonrasib Nearly Doubles Survival - University of Colorado Anschutz",
+          "source": "University of Colorado Anschutz",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Breakthrough drug nearly doubles survival with advanced pancreatic cancer – an oncologist explains how daraxonrasib overcame an ‘undruggable’ disease | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 03:17:16 GMT",
+          "url": "https://news.cuanschutz.edu/news-stories/breakthrough-drug-nearly-doubles-survival-with-advanced-pancreatic-cancer-an-oncologist-explains-how-daraxonrasib-overcame-an-undruggable-disease"
+        },
+        {
+          "title": "China Overtakes US in Cancer Drug Approvals - the-scientist.com",
+          "source": "the-scientist.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "China Overtakes US in Cancer Drug Approvals - the-scientist.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 04:05:54 GMT",
+          "url": "https://www.the-scientist.com/china-overtakes-us-in-cancer-drug-approvals-74933"
+        },
+        {
+          "title": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say - BioPharma Dive",
+          "source": "BioPharma Dive",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say - BioPharma Dive | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 01:37:57 GMT",
+          "url": "https://www.biopharmadive.com/news/revolution-rasonque-price-pancreatic-cancer-drug-launch-sales/828918/"
+        },
+        {
+          "title": "Ascendis Pharma (ASND) Shares Week 104 Data As FDA Clears Pediatric Achondroplasia Drug - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ascendis Pharma (NasdaqGS:ASND) presents Week 104 pivotal data on TransCon CNP (navepegritide) in achondroplasia at ISDS 2026, highlighting durable clinical outcomes and a consistent safety profile. | The company reports",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 01:42:01 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-asnd/ascendis-pharma/news/ascendis-pharma-asnd-shares-week-104-data-as-fda-clears-pedi"
+        },
+        {
+          "title": "Revolution Medicines (RVMD) Wins FDA Approval For Metastatic Pancreatic Cancer Drug - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Revolution Medicines (NasdaqGS: RVMD) received FDA approval for RASONQUE (daraxonrasib), the first broad RAS targeted oral therapy for adults with metastatic pancreatic adenocarcinoma. | The once daily treatment is the c",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 01:41:59 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-rvmd/revolution-medicines/news/revolution-medicines-rvmd-wins-fda-approval-for-metastatic-p"
+        },
+        {
+          "title": "Ascendis Pharma (ASND) Shares Week 104 Data As FDA Clears Pediatric Achondroplasia Drug - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Ascendis Pharma (NasdaqGS:ASND) presents Week 104 pivotal data on TransCon CNP (navepegritide) in achondroplasia at ISDS 2026, highlighting durable clinical outcomes and a consistent safety profile. | The company reports",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 28 Aug 2026 01:42:01 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-asnd/ascendis-pharma/news/ascendis-pharma-asnd-shares-week-104-data-as-fda-clears-pedi"
+        },
+        {
+          "title": "Mark Cuban Says 'We Will Always Pay More' as PBMs Set Drug Prices, Calls Healthcare Conglomerates 'Too Big to Care' - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Mark Cuban Says 'We Will Always Pay More' as PBMs Set Drug Prices, Calls Healthcare Conglomerates 'Too Big to Care' | Mark Cuban Says 'We Will Always Pay More' as PBMs Set Drug Prices, Calls Healthcare Conglomerates 'Too",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Fri, 28 Aug 2026 02:31:00 GMT",
+          "url": "https://finance.yahoo.com/healthcare/articles/mark-cuban-says-always-pay-023112231.html"
+        },
+        {
+          "title": "China Overtakes US in Cancer Drug Approvals - the-scientist.com",
+          "source": "the-scientist.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "China Overtakes US in Cancer Drug Approvals - the-scientist.com | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 28 Aug 2026 04:05:54 GMT",
+          "url": "https://www.the-scientist.com/china-overtakes-us-in-cancer-drug-approvals-74933"
+        },
+        {
+          "title": "US FDA approves updated COVID vaccines for 2026-27 season - Reuters",
+          "source": "Reuters",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 22:26:50 GMT",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-updated-covid-vaccines-2026-27-season-2026-08-27/"
+        },
+        {
+          "title": "Chinese Biotech Files World's First Approval Application for 4-1BB Bispecific Antibody Abandoned by Big Pharma - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Chinese Biotech Files World's First Approval Application for 4-1BB Bispecific Antibody Abandoned by Big Pharma | Add to Google Preferred Sources | China's Leads Biolabs has filed for regulatory approval in China for Opar",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 27 Aug 2026 23:26:00 GMT",
+          "url": "https://finance.biggo.com/news/c6b7e463-595c-4a27-b32c-aac367aa5b5d"
+        },
+        {
+          "title": "Prescient Therapeutics’ First-in-Class Cancer Drug Approaching a Pivotal Moment - smallcaps.com.au",
+          "source": "smallcaps.com.au",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "PTX-100: first-in-class GGT-1 inhibitor in CTCL Phase 2a. | Phase 1b CTCL: 100% clinical benefit; no SAEs. | Global enrolment to 28; DOC in 2026; potential Phase 2b. | Prescient Therapeutics (ASX: PTX) | is reaching the ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 27 Aug 2026 23:02:25 GMT",
+          "url": "https://smallcaps.com.au/article/prescient-therapeutics-first-in-class-cancer-drug-approaching-a-pivotal-moment"
+        },
+        {
+          "title": "Price Cuts on Existing Generic Drugs Delayed to April Next Year... Industry Gets Breathing Room - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Price Cuts on Existing Generic Drugs Delayed to April Next Year... | Industry Gets Breathing Room | Add to Google Preferred Sources | The South Korean government has delayed the implementation of price cuts on already-li",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Thu, 27 Aug 2026 23:25:00 GMT",
+          "url": "https://finance.biggo.com/news/f1e16c42-fa9c-47e7-8746-fb1e1f039b51"
+        },
+        {
+          "title": "FDA Approves ‘First In Class’ Drug For Pancreatic Cancer - InkFreeNews.com",
+          "source": "InkFreeNews.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "August 27, 2026 5:30 PM | , a pill treatment for | pancreatic cancer | developed by | Revolution Medicines",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 21:30:24 GMT",
+          "url": "https://www.inkfreenews.com/2026/08/27/fda-approves-first-in-class-drug-for-pancreatic-cancer/"
+        },
+        {
+          "title": "FDA Grants Approval to Roivant's LISRAYA (Brepocitinib) for Adult Dermatomyositis Treatment - Kalkine Media",
+          "source": "Kalkine Media",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Attention Required! | | Cloudflare | Please enable cookies. | Sorry, you have been blocked | You are unable to access kalkinemedia.com",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 22:32:36 GMT",
+          "url": "https://kalkinemedia.com/us/news/announcements/fda-grants-approval-to-roivants-lisraya-brepocitinib-for-adult-dermatomyositis-treatment"
+        },
+        {
+          "title": "FDA, 길리어드 사이언스의 성인 HIV 치료제 ’빅슬렌보’ 승인 - Investing.com 한국어",
+          "source": "Investing.com 한국어",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "FDA, 길리어드 사이언스의 성인 HIV 치료제 ’빅슬렌보’ 승인 - Investing.com 한국어 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 27 Aug 2026 21:53:00 GMT",
+          "url": "https://kr.investing.com/news/company-news/article-93CH-2077630"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "식약처",
+        "심사",
+        "가이드라인",
+        "발간",
+        "대응",
+        "mdsap"
+      ],
+      "articles": [
+        {
+          "title": "식약처, GIFT 지정 심사에 '환자경험자료' 반영 - 헬스미디어뉴스",
+          "source": "헬스미디어뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "‘의료제품의 우선심사 지정신청 시 고려사항(민원인안내서)’ 개정 | GIFT 지정 신청 시 '환자경험자료' 제출할 수 있는 표준 신청서 마련 | 식품의약품안전처 소속 식품의약품안전평가원은 희귀·중증질환 치료제의 신속한 제품화를 지원하는 '글로벌 혁신제품 신속심사지원체계(GIFT)'에 환자의 경험과 관점을 체계적으로 반영하기 위해 '의료제품의 우선심사 지정신청 시 고려사항(민원인 안내서)'을 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 28 Aug 2026 00:28:43 GMT",
+          "url": "https://www.healthmedia.co.kr/news/articleView.html?idxno=106638"
+        },
+        {
+          "title": "식약처, 의료기기 해외 진출 지원 MDSAP 심사 대응 가이드라인 3종 발간 - 팍스메디컬뉴스",
+          "source": "팍스메디컬뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[팍스메디컬뉴스] 식품의약품안전처는 국내 의료기기 제조업체의 해외 시장 진출을 지원하기 위해 ‘MDSAP(의료기기 단일 심사 프로그램) 심사 대응 가이드라인’ 3종을 제정·발간했다고 28일 밝혔다. | MDSAP은 미국·캐나다·일본·호주·브라질 등 5개국이 의료기기 제조 및 품질관리기준(GMP)을 공동으로 심사하는 국제 협력 프로그램이다. | MDSAP 인증을 획득한 기업은 해당 국가의 GM",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 27 Aug 2026 23:16:44 GMT",
+          "url": "https://www.paxmedicalnews.com/news/articleView.html?idxno=2805"
+        },
+        {
+          "title": "식약처, 3개 품목 ‘MDSAP 심사 대응 가이드라인’ 3종 발간 - 라포르시안",
+          "source": "라포르시안",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[라포르시안] 국내 의료기기 제조업체의 해외시장 진출을 지원하기 위한 국제 의료기기 품질관리 심사 대응 가이드라인이 마련됐다. | 식품의약품안전처(처장 오유경)는 국내 의료기기 제조업체의 글로벌 시장진출 지원을 위해 ‘의료기기 단일심사 프로그램(MDSAP) 심사 대응 가이드라인’ 3종을 28일 제정·발간했다. | MDSAP는 미국, 캐나다, 일본, 호주, 브라질 5개국이 의료기기 제조 및 품",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 28 Aug 2026 00:05:00 GMT",
+          "url": "http://www.rapportian.com/news/articleView.html?idxno=239808"
+        },
+        {
+          "title": "허가심사 보조 식약처 'AI심사관', 어떤 역할하나 들어보니 - 청년의사",
+          "source": "청년의사",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "식약처 바이오생약심사부 유전자재조합의약품과 권오석 연구관이 지난 26일 서울 그랜드 인터컨티넨탈 파르나스에서 열린 '2026 글로벌 바이오 컨퍼런스(GBC)'에 연자로 참여해 '식약처의 바이오의약품 AI 혁신 기술 적용 및 규제 현황'을 주제로 발표하고 있다(ⓒ청년의사). | 식품의약품안전처가 예산 223억원을 투입해 향후 3년간 의약품 허가심사 인력을 보조하는 '인공지능(AI) 심사관'을 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Thu, 27 Aug 2026 21:41:50 GMT",
+          "url": "http://www.docdocdoc.co.kr/news/articleViewAmp.html?idxno=3042209"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "월로",
+        "약가",
+        "해소",
+        "의약품",
+        "기등재",
+        "행정시차",
+        "약가인하"
+      ],
+      "articles": [
+        {
+          "title": "'기등재 의약품' 약가인하 내년 4월로…&quot;행정시차 해소&quot;",
+          "source": "뉴시스",
+          "importance": 65,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "'기등재 의약품' 약가인하 내년 4월로…\"행정시차 해소\" | 등록 2026.08.28 11:02:37 | 구글에서 선호하는 매체로 추가 | 혁신형 제약기업 선정 등 일정 올해 말 마무리…절차상 시간 확보 | [서울=뉴시스] 약 이미지 (사진=유토이미지) 2026.04.30.",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "9시간",
+          "url": "https://www.newsis.com/view/NISX20260828_0003766762"
+        },
+        {
+          "title": "'기등재 의약품' 약가인하 내년 4월로…\"행정시차 해소\" - 뉴시스",
+          "source": "뉴시스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "'기등재 의약품' 약가인하 내년 4월로…\"행정시차 해소\" | 2026/08/28 11:02:37 | 혁신형 제약기업 선정 등 일정 올해 말 마무리…절차상 시간 확보 | [서울=뉴시스] 약 이미지 (사진=유토이미지) 2026.04.30. | photo@newsis.com *재판매 및 DB 금지",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Fri, 28 Aug 2026 02:02:37 GMT",
+          "url": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260828_0003766762"
+        },
+        {
+          "title": "45% 약가제도 '두 개의 시계'…기등재약 인하는 내년 4월로 - 메디파나뉴스",
+          "source": "메디파나뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. | AI 생성 이미지(ChatGPT) | 제네릭과 특허만료 의약품의 약가 산정률을 45%로 낮추는 제도가 시행에 들어갔지만, 기존 등재 의약품의 실제 가격 조정은 내년 4월부터 시작될 전망이다. | 새로 등재되는 의약품에는 이미 개편된 산정기준이 적용되는 반면, 기등재 의약품은 재평가와 이의신청을 거쳐 단계적으로 가격을 조정하는 구조다. | 이에",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "Fri, 28 Aug 2026 00:39:20 GMT",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=416683"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "chosunbiz",
+        "ADC",
+        "조선비즈"
+      ],
+      "articles": [
+        {
+          "title": "Korea’s biotechs pivot beyond ADCs, target toxicity cuts and delivery gains - CHOSUNBIZ - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "Once hailed as a “next-generation anticancer drug” amid a fierce race to out-license technology, the Antibody-Drug Conjugate (ADC) is at a new crossroads, analysts said. | The core of the next competition is not how many",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 28 Aug 2026 05:55:00 GMT",
+          "url": "https://biz.chosun.com/en/en-science/2026/08/28/TYE5AVOY4NEBFJ327ML5VR747Q/"
+        },
+        {
+          "title": "뉴캔서큐어바이오, K-MEDI hub와 항암 후보물질 복합제 개발 협력 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "뉴캔서큐어바이오(대표 김수열)가 K-MEDI hub(케이메디허브·대구경북첨단의료산업진흥재단) 의약생산센터와 항암 신약 후보물질 'KN510713'의 복합제 개발을 위한 업무협약(MOU)을 체결했다고 27일 밝혔다. | 협약식은 대구 K-MEDI hub 의약생산센터에서 열렸다. | 양측은 KN510713 복합제 공정 개발과 생산 지원, GMP 기반 원료의약품·완제의약품 생산 인프라 활용, 임상",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 28 Aug 2026 00:05:34 GMT",
+          "url": "https://biz.chosun.com/industry/business_info/2026/08/28/PPK63QLZQRDTBK3F6F57BDE7KE/?outputType=amp"
+        },
+        {
+          "title": "“중국은 이제 경쟁 아닌 분석 대상”…글로벌 빅파마가 본 K-ADC 숙제 - 조선비즈 - Chosunbiz",
+          "source": "Chosunbiz",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "“중국은 더 이상 경쟁 상대가 아니라 분석 대상입니다.” | 정회량 로슈 사업개발 이사는 28일 서울 강남구 웨스틴 서울 파르나스에서 열린 ‘제4회 삼성서울병원·에임드바이오 항체약물접합체(ADC) 콘퍼런스’에서 한국 바이오 기업들이 ADC 시장에서 중국과 경쟁하는 방식부터 바꿔야 한다고 말했다. | 중국을 경쟁자로 보고 뒤쫓기 전에, 중국 기업들이 어떤 전략으로 얼마나 빠르게, 얼마의 비용을",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 28 Aug 2026 02:15:00 GMT",
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/28/MKKWRY3HLRGE5GDZNTX2HL4IZE/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 3,
+      "keywords": [
+        "신약",
+        "임상",
+        "신약개발"
+      ],
+      "articles": [
+        {
+          "title": "치료제 임상 기대감에 샤페론·JW신약 주가 '덩실덩실' - 핀포인트뉴스",
+          "source": "핀포인트뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "고령화 및 스트레스성 탈모 인구 증가로 탈모 치료제 시장의 성장 가능성이 부각되면서  28일 탈모 치료 테마가 상승 흐름을 보이고 있다. | 주요 제약·바이오 기업들의 신약 파이프라인 임상 진행과 맞춤형 케어 제품 라인업 확대에 따른 수주 기대감이 반영되며 관련 종목으로 매수세가 들어오는 양상이다. | 기존 단순 케어 제품을 넘어 RNA 기반 치료제 및 줄기세포 응용 기술 등 혁신 신약 개발",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 28 Aug 2026 02:47:46 GMT",
+          "url": "https://www.pinpointnews.co.kr/news/articleViewAmp.html?idxno=481484"
+        },
+        {
+          "title": "글로벌 신약개발 중심축 아시아로, 한ㆍ중ㆍ일 임상연구 허브 부상 - 의약뉴스",
+          "source": "의약뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "상장제약사 2분기 매출 성장폭 확대, 중견사 강세 | 가천대 길병원 조혈모세포이식병동 간호사, 혈액암 환자에 조혈모세포 기증 外 | 59개 상장 제약ㆍ바이오사, 2분기 두 자릿수 영업이익률 달성 | 상장제약사 이익률 개선, 업체별로는 희비 엇갈려 | 12월 결산 24개 상장 제약ㆍ바이오사, 분기 매출 1000억 상회",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 28 Aug 2026 04:28:00 GMT",
+          "url": "http://www.newsmp.com/news/articleView.html?idxno=257757"
+        },
+        {
+          "title": "[핀셋+] [대웅제약] 연구본부 대대적 개편…신약개발 효율 극대화 방점 - 딜사이트",
+          "source": "딜사이트",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[딜사이트 김진호 기자] | 대웅제약이 최근 연구본부의 조직 구성을 기존 5센터에서 3센터 2실 체제로 변경했다. | 신약디스커버리선터와 쉐어드센터 등을 없애고 이곳에서 진행하던 업무를 재배치하며 효율화를 꾀했다는 분석이 나온다. | 대웅제약은 조직 개편과 더불어 연구인력 확충 등을 통해 신약개발 역량 강화에 속도를 낸다는 계획이다. | 27일 금융감독원 전자공시시스템에 따르면 대웅제약의 연",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Thu, 27 Aug 2026 22:00:00 GMT",
+          "url": "https://dealsite.co.kr/articles/167839"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "one",
+        "oversized",
+        "center",
+        "drug",
+        "clinical",
+        "impact",
+        "development",
+        "newswise",
+        "clinical trial",
+        "trials"
+      ],
+      "articles": [
+        {
+          "title": "One Center’s Oversized Impact on Drug Development and Clinical Trials | Newswise - Newswise",
+          "source": "Newswise",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Credit: Photo: Courtesy of the CSDD | Some of the Center for the Study of Drug Development team, from left: Roula Krayem, senior research analyst; Kenneth Getz, executive director; Abby Dirks, senior data scientist; Sara",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 27 Aug 2026 23:15:00 GMT",
+          "url": "https://www.newswise.com/articles/one-center-s-oversized-impact-on-drug-development-and-clinical-trials"
+        },
+        {
+          "title": "One Center’s Oversized Impact on Drug Development and Clinical Trials | Newswise - Newswise",
+          "source": "Newswise",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Credit: Photo: Courtesy of the CSDD | Some of the Center for the Study of Drug Development team, from left: Roula Krayem, senior research analyst; Kenneth Getz, executive director; Abby Dirks, senior data scientist; Sara",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Thu, 27 Aug 2026 23:15:00 GMT",
+          "url": "https://www.newswise.com/articles/one-center-s-oversized-impact-on-drug-development-and-clinical-trials"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "scanx",
+        "trade"
+      ],
+      "articles": [
+        {
+          "title": "Akeso H1FY26 Results: Drug sales up 28.7% to RMB 1,803.2 million - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Akeso H1FY26 Results: Drug sales up 28.7% to RMB 1,803.2 million | Akeso H1FY26 Results: Drug sales up 28.7% to RMB 1,803.2 million | Published on 28 Aug 2026, 08:20 AM | Updated on 28 Aug 2026, 08:20 AM | ScanX News Tea",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Fri, 28 Aug 2026 03:15:26 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/akeso-h1fy26-results-drug-sales-up-28-7-rmb-1-803-2-million/49431021"
+        },
+        {
+          "title": "NCL Industries promoter group acquires 14,730 shares in open market - scanx.trade",
+          "source": "scanx.trade",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "NCL Industries promoter group acquires 14,730 shares in open market | NCL Industries promoter group acquires 14,730 shares in open market | Published on 26 Aug 2026, 10:29 AM | Updated on 26 Aug 2026, 10:33 AM | ScanX Ne",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 28 Aug 2026 03:56:07 GMT",
+          "url": "https://scanx.trade/stock-market-news/companies/ncl-industries-promoter-group-acquires-14-730-shares-open-market/49265977"
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "size": 2,
+      "keywords": [
+        "공개",
+        "채용",
+        "한국의약품안전관리원",
+        "의약품안전정보본부장",
+        "데일리팜",
+        "약사"
+      ],
+      "articles": [
+        {
+          "title": "한국의약품안전관리원, 의약품안전정보본부장 약사 공개 채용 - 데일리팜",
+          "source": "데일리팜",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[데일리팜=이탁순 기자] 한국의약품안전관리원(원장 손수정)이 의약품안전정보본부 업무를 총괄할 본부장(정규직 1급)을 공개 채용한다. | 채용 인원은 1명으로, 약사 면허 소지자여야 한다. | 의약품안전정보본부장은 국내외 의약품 부작용 정보 수집·분석·평가를 비롯해 의약품적정사용(DUR) 분석·평가, 빅데이터 기반 부작용 분석 및 약물역학조사 등 기관의 핵심 안전 관리 업무 전반을 총괄하게 된",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Fri, 28 Aug 2026 04:35:13 GMT",
+          "url": "https://dailypharm.com/user/news/341855"
+        },
+        {
+          "title": "한국의약품안전관리원, 의약품안전정보본부장 약사 공개 채용 - 데일리팜",
+          "source": "데일리팜",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[데일리팜=이탁순 기자] 한국의약품안전관리원(원장 손수정)이 의약품안전정보본부 업무를 총괄할 본부장(정규직 1급)을 공개 채용한다. | 채용 인원은 1명으로, 약사 면허 소지자여야 한다. | 의약품안전정보본부장은 국내외 의약품 부작용 정보 수집·분석·평가를 비롯해 의약품적정사용(DUR) 분석·평가, 빅데이터 기반 부작용 분석 및 약물역학조사 등 기관의 핵심 안전 관리 업무 전반을 총괄하게 된",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Fri, 28 Aug 2026 04:35:13 GMT",
+          "url": "https://dailypharm.com/user/news/341855"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "비티젠, 글로벌 제약사와 136억원 의약품 위탁생산계약 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "importance": 61,
+      "snippet": "동아쏘시오홀딩스 자회사 비티젠이 글로벌 제약사와 136억원 규모의 의약품 위탁생산계약을 체결했다. | 동아쏘시오홀딩스 자회사 비티젠이 글로벌 제약사와 136억원 규모의 의약품 위탁생산계약을 체결했다. | 28일 비티젠은 공시를 통해 글로벌 제약사와 의약품 위탁생산계약을 체결했다고 밝혔다. | 계약금액은 136억5860만원으로, 비티젠의 2025년 별도재무제",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722109"
+    },
+    {
+      "title": "Kebbi: Nasir Idris and forest reserve for traditional medicine - Head Topics",
+      "source": "Head Topics",
+      "importance": 55,
+      "snippet": "Sometimes, a matter that is very much on one’s mind might just pop out of the blue to one’s pleasant surprise. | I experienced this recently when the | Sometimes, a matter that is very much on one’s m",
+      "url": "https://ng.headtopics.com/news/kebbi-nasir-idris-and-forest-reserve-for-traditional-87115042"
+    },
+    {
+      "title": "Kazakhstan records surge in pharmaceutical investment in 2025 - trend.az",
+      "source": "trend.az",
+      "importance": 47,
+      "snippet": "BAKU, Azerbaijan, August 28. | Investment in | Kazakhstan's pharmaceutical industry increased by 56% in 2025, | reaching $142.8 million, the press service of the Government of | Kazakhstan said.",
+      "url": "https://www.trend.az/casia/kazakhstan/4218496.html"
+    },
+    {
+      "title": "Mich. Hospitals Defend CVS 340B Drug Savings Suit - Law360",
+      "source": "Law360",
+      "importance": 47,
+      "snippet": "Susan Smiley | Law360 (August 27, 2026, 5:59 PM EDT ) -- University of Michigan Hospitals and Health Centers urged a Michigan federal judge Wednesday to preserve its suit claiming that CVS Health Corp",
+      "url": "https://www.law360.com/articles/2518506/mich-hospitals-defend-cvs-340b-drug-savings-suit"
+    },
+    {
+      "title": "'메가' 논란 해명…온누리체인 &quot;박리다매 창고형 모델 아니다&quot;",
+      "source": "데일리팜",
+      "importance": 46,
+      "snippet": "[데일리팜=강혜경 기자] 약국체인 온누리H&C(대표 박종화)가 100평대 대형 모델인 '메가온누리약국'에 대해 시장변화와 소비자 수요에 대응하기 위한 모델일 뿐, 대량판매나 가격경쟁을 위한 모델은 아니라고 밝혔다. | 대형매장과 다품목 진열이라는 외형적 특징을 가지고 있지만 약사의 전문상담과 다양한 건강 관련 상품, 확장된 소비자 편의성을 결합한 약국모델을",
+      "url": "https://www.dailypharm.com/user/news/341870"
+    },
+    {
+      "title": "หลักสูตรอบรมพัฒนาความรู้ด้านเภสัชกรรมประจำเดือนกันยายน พ.ศ. 2569 - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "ติดตาม Vietnam.vn บน | เพิ่ม Vietnam.vn บน | 📑 ลงทะเบียนที่นี่: | แบบฟอร์มลงทะเบียน | **กำหนดปิดรับสมัครเรียนออนไลน์:",
+      "url": "https://www.vietnam.vn/th/lop-cap-nhat-kien-thuc-chuyen-mon-duoc-trong-thang-09-2026"
+    },
+    {
+      "title": "늦캉스족 겨냥한 일반의약품·의약외품... 제약사, 아웃도어 케어 라인업 공략 - 팜뉴스",
+      "source": "팜뉴스",
+      "importance": 42,
+      "snippet": "[팜뉴스=김응민 기자] 휴가 성수기를 피해 8월 말부터 9월 초 사이에 늦은 여름휴가를 떠나는 여행객이 늘면서 야외활동 중 피부 손상을 예방하고 관리할 수 있는 제약업계의 일반의약품 및 의약외품 라인업이 주목받고 있다. | 글로벌 호텔·여행 검색 플랫폼의 분석에 따르면 올해 8월 18일부터 9월 13일까지의 한국인 호텔 검색량은 전년 동기 대비 약 75% ",
+      "url": "https://www.pharmnews.com/news/articleView.html?idxno=305912"
+    },
+    {
+      "title": "250km 달려 마지막 탄광으로… 서울성모병원 의료진의 특별한 현장 수련 - 경기메디뉴스",
+      "source": "경기메디뉴스",
+      "importance": 42,
+      "snippet": "국내 유일 진폐증 전문치료 수련병원… 전공의 현장교육·근로자 건강관리 20년째 이어와 | 경동광업소 탄광 현장을 방문한 서울성모병원 직업환경의학 의료진. | (왼쪽 두 번째부터) 서울성모병원 직업환경의학과 강모열‧이종인‧명준표 교수, 김동근‧권오휘 전공의, (오른쪽 두 번째부터)김서영‧김효정 전공의, 박민영 임상강사 / 사진 제공 서울성모병원 | 1960년",
+      "url": "http://www.ggmedinews.com/news/articleView.html?idxno=6780"
+    },
+    {
+      "title": "24 tuổi thành tỷ phú sau một đêm, thiếu gia kín tiếng bước vào ban lãnh đạo đế chế dược phẩm - Tạp chí Kinh tế chứng khoán Việt Nam",
+      "source": "Tạp chí Kinh tế chứng khoán Việt Nam",
+      "importance": 42,
+      "snippet": "24 tuổi nhận 3,8 tỷ USD cổ phần và trở thành tỷ phú | Ở tuổi 24, Eric Tse từ một thiếu gia khá kín tiếng bất ngờ trở thành cái tên được truyền thông quốc tế nhắc đến dày đặc. | Chỉ trong chưa đầy 48 g",
+      "url": "https://kinhtechungkhoan.vn/24-tuoi-thanh-ty-phu-sau-mot-dem-thieu-gia-kin-tieng-buoc-vao-ban-lanh-dao-de-che-duoc-pham"
+    },
+    {
+      "title": "내년 7.6만명 '구멍'…K제약바이오, '인재 가뭄' 예보에 응급처치 돌입 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "importance": 41,
+      "snippet": "R&D 인재 확보 나선 제약바이오 업계. | 제약·바이오 업계가 신약 개발과 바이오산업 성장에 필요한 연구개발(R&D) 인재 확보에 적극 나서고 있다. | 인공지능(AI) 신약 개발과 바이오 데이터 분석 등 산업의 융합이 가속화하면서 전문인력 수요가 커지는 가운데 기업들이 직접 인재를 발굴하고 육성하는 방식으로 대응하고 있다. | 28일 업계에 따르면 최근",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1722083"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 6,
+      "en_count": 3
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 9,
+      "en_count": 19
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 15,
+      "en_count": 3
+    }
+  ]
+}
