@@ -1,0 +1,755 @@
+{
+  "date": "2026-08-29",
+  "total_articles": 388,
+  "language_breakdown": {
+    "korean": {
+      "total": 170,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 17,
+        "의약정책": 12,
+        "의약단체": 19,
+        "의약관련정부기관": 14,
+        "의료현장": 25,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 5
+      }
+    },
+    "multilingual": {
+      "total": 88,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 9,
+        "Italian / 이탈리아어": 3,
+        "Portuguese / 포르투갈어": 6,
+        "Dutch / 네덜란드어": 7,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 9,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 1,
+        "Hebrew / 히브리어": 0,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 17
+    },
+    {
+      "keyword": "약가",
+      "count": 11
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "수출",
+      "count": 8
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "R&D",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "ADC",
+      "count": 2
+    },
+    {
+      "keyword": "바이오시밀러",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 40
+    },
+    {
+      "keyword": "approval",
+      "count": 8
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "pricing",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "safety",
+      "count": 3
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "recall",
+      "count": 2
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "데일리팜",
+      "count": 10
+    },
+    {
+      "source": "Platea Magazine",
+      "count": 8
+    },
+    {
+      "source": "네이트",
+      "count": 6
+    },
+    {
+      "source": "재경일보",
+      "count": 6
+    },
+    {
+      "source": "뉴스1",
+      "count": 5
+    },
+    {
+      "source": "의약뉴스",
+      "count": 4
+    },
+    {
+      "source": "뉴시스",
+      "count": 4
+    },
+    {
+      "source": "대한민국 정책브리핑",
+      "count": 4
+    },
+    {
+      "source": "MEDI:GATE NEWS",
+      "count": 3
+    },
+    {
+      "source": "메드월드뉴스",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "simplywall.st",
+      "count": 5
+    },
+    {
+      "source": "IndexBox",
+      "count": 4
+    },
+    {
+      "source": "RAPS",
+      "count": 3
+    },
+    {
+      "source": "Grand View Research",
+      "count": 3
+    },
+    {
+      "source": "Reuters",
+      "count": 2
+    },
+    {
+      "source": "Drug Discovery News",
+      "count": 2
+    },
+    {
+      "source": "헤럴드경제",
+      "count": 2
+    },
+    {
+      "source": "Yahoo Finance",
+      "count": 2
+    },
+    {
+      "source": "STAT",
+      "count": 2
+    },
+    {
+      "source": "The Business Journals",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "FDA·항암제 승인과 글로벌 규제 경쟁",
+    "식약처 심사·MDSAP 대응 가이드라인",
+    "기등재 의약품 약가인하 일정 조정",
+    "K-바이오 ADC·신약개발 전략 재편",
+    "의약품 안전·약사 인력 운영"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 16,
+      "keywords": [
+        "drug",
+        "FDA",
+        "fda",
+        "cancer",
+        "approves",
+        "takeda",
+        "rare",
+        "protagonist"
+      ],
+      "articles": [
+        {
+          "title": "US FDA approves Takeda, Protagonist's drug for rare blood cancer - Reuters",
+          "source": "Reuters",
+          "importance": 67,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 22:16:19 GMT",
+          "url": "https://www.reuters.com/legal/litigation/us-fda-approves-takeda-protagonists-drug-rare-blood-cancer-2026-08-28/"
+        },
+        {
+          "title": "FDA Nod for Inflammation Drug Notches Wins for Rare Disease Patients, Roivant’s Biz Strategy - MedCity News",
+          "source": "MedCity News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Treatment for dermatomyositis has not changed in decades, which makes a | new FDA approval | particularly meaningful for patients who have this rare immuinological disease affecting the skin and muscles. | The available ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 22:44:03 GMT",
+          "url": "https://medcitynews.com/2026/08/roivant-sciences-priovant-brepocitinib-lisraya-dermatomyositis-jak1-tyk2-inhibitor-fda-approval-inflammation-immunology-rare-disease-roiv/"
+        },
+        {
+          "title": "Takeda wins second drug approval in August as it eyes return to growth - The Business Journals",
+          "source": "The Business Journals",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Takeda wins second drug approval in August as it eyes return to growth - The Business Journals | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 22:02:00 GMT",
+          "url": "https://www.bizjournals.com/boston/news/2026/08/28/takeda-wins-approval-for-two-drugs-in-one-month.html"
+        },
+        {
+          "title": "Pancreatic Cancer Breakthrough: FDA Approves New Drug Targeting Cancer-Causing KRAS Mutations - ABP Live English",
+          "source": "ABP Live English",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A new drug approved by the US FDA could offer hope to patients with advanced pancreatic cancer. | The treatment targets cancer-driving KRAS mutations and showed improved survival compared with chemotherapy, potentially o",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 29 Aug 2026 05:39:37 GMT",
+          "url": "https://news.abplive.com/health/pancreatic-cancer-breakthrough-fda-approves-new-drug-targeting-cancer-causing-kras-mutations-1864342"
+        },
+        {
+          "title": "US approves new pancreatic cancer drug offering hope for patients - Chronicle NG",
+          "source": "Chronicle NG",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Checking your browser before accessing. | Just a moment... | Checking your browser before accessing | Please wait for up to 5 seconds... | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 29 Aug 2026 03:55:17 GMT",
+          "url": "https://chronicle.ng/us-pancreatic-cancer-drug-hope-patients/"
+        },
+        {
+          "title": "FDA approves new drug for advanced pancreatic cancer - newstodaynet.com",
+          "source": "newstodaynet.com",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Washington,  Aug 29: | The US Food and Drug Administration has approved a groundbreaking new drug for advanced pancreatic cancer, providing a new treatment option for patients suffering from one of the world’s deadliest ",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 29 Aug 2026 06:18:47 GMT",
+          "url": "https://newstodaynet.com/2026/08/29/fda-approves-new-drug-for-advanced-pancreatic-cancer/"
+        },
+        {
+          "title": "FDA Approves Landmark Pancreatic Cancer Drug That's Shown to Improve Survival - NTD News",
+          "source": "NTD News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "WASHINGTON—The Food and Drug Administration on Wednesday approved a groundbreaking new drug for advanced pancreatic cancer, offering patients a more effective treatment against one of the deadliest types of cancer. | FDA",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 29 Aug 2026 03:42:22 GMT",
+          "url": "https://www.ntd.com/fda-approves-landmark-pancreatic-cancer-drug-thats-shown-to-improve-survival_1169344.html"
+        },
+        {
+          "title": "US FDA approves Takeda, Protagonist’s drug for rare blood cancer - WDEZ",
+          "source": "WDEZ",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "403 Forbidden | Request forbidden by administrative rules. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Fri, 28 Aug 2026 23:16:34 GMT",
+          "url": "https://wdez.com/2026/08/28/us-fda-approves-takeda-protagonists-drug-for-rare-blood-cancer/"
+        },
+        {
+          "title": "CMS’ proposed cuts to 340B drug program will hurt rural health - WV News",
+          "source": "WV News",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "A cancer patient in a rural West Virginia county should not have to drive past a shuttered clinic to reach the nearest one still open. | Yet that is the trajectory some in Washington are pushing West Virginia toward, one",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Sat, 29 Aug 2026 04:00:00 GMT",
+          "url": "https://www.wvnews.com/theet/opinion/columns/cms-proposed-cuts-to-340b-drug-program-will-hurt-rural-health/article_b5ad71eb-3342-4a14-a15f-df5707e16354.html"
+        },
+        {
+          "title": "Maharashtra FDA Cancels Cipla Pune Drug Sale Licences Over Regulatory Violations - The420.in",
+          "source": "The420.in",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Checking your browser before accessing. | Just a moment... | Checking your browser before accessing | Please wait for up to 5 seconds... | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 05:27:25 GMT",
+          "url": "https://the420.in/cipla-pune-fda-drug-licence-cancellation/"
+        },
+        {
+          "title": "Maharashtra FDA Cancels Drug Sale Licence of Cipla’s Pune C&F Unit Over Compliance Irregularities - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Checking your browser before accessing. | Just a moment... | Checking your browser before accessing | Please wait for up to 5 seconds... | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 02:09:31 GMT",
+          "url": "https://www.biospectrumindia.com/news/73/28396/maharashtra-fda-cancels-drug-sale-licence-of-ciplas-pune-cf-unit-over-compliance-irregularities.html"
+        },
+        {
+          "title": "Protagonist Therapeutics Announces U.S. FDA Approval of Hepcidin Mimetic Peptide MIMRYLO(TM) (rusfertide) for Polycythemia Vera - Voice of Alexandria",
+          "source": "Voice of Alexandria",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "MIMRYLO™ is the First and Only Hepcidin Mimetic Peptide Therapy Approved for the Treatment of Erythrocytosis in Adults with Polycythemia Vera, Offering a Novel Mechanism to Maintain Hematocrit Control, Meaningfully Reduc",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 00:32:14 GMT",
+          "url": "https://www.voiceofalexandria.com/news/national_business_news/protagonist-therapeutics-announces-u-s-fda-approval-of-hepcidin-mimetic-peptide-mimrylo-tm-rusfertide-for/article_a22b3a93-c803-5e6d-a9d4-2d472dcc3e72.html"
+        },
+        {
+          "title": "US FDA approves Takeda, Protagonist’s drug for rare blood cancer - WNWN-FM",
+          "source": "WNWN-FM",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "403 Forbidden | Request forbidden by administrative rules. | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 02:20:06 GMT",
+          "url": "https://wincountry.com/2026/08/28/us-fda-approves-takeda-protagonists-drug-for-rare-blood-cancer/"
+        },
+        {
+          "title": "Takeda Receives U.S. FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera - Business Wire",
+          "source": "Business Wire",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Takeda Receives U.S. | FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera - Business Wire | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 28 Aug 2026 22:40:00 GMT",
+          "url": "https://www.businesswire.com/news/home/20260824773270/en/Takeda-Receives-U.S.-FDA-Approval-of-MIMRYLO-rusfertide-Marking-a-Potential-Shift-in-the-Treatment-Paradigm-for-Polycythemia-Vera"
+        },
+        {
+          "title": "US FDA approves Takeda, Protagonist's drug for rare blood cancer - Yahoo",
+          "source": "Yahoo",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "A Takeda logo is seen in its research hub in Cambridge, Massachusetts, U.S., November 26, 2018. | Picture taken November 26, 2018. | REUTERS/Julie Steenhuysen | Aug 28 (Reuters) - The U.S. | Food and Drug Administration ",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Fri, 28 Aug 2026 21:49:53 GMT",
+          "url": "https://www.yahoo.com/news/us/articles/us-fda-approves-takeda-protagonists-214953378.html"
+        },
+        {
+          "title": "Maharashtra FDA cancels Cipla Pune unit’s drug sale licences over Reactin Plus irregularities - Indian Pharma Post",
+          "source": "Indian Pharma Post",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Regulatory action follows findings related to unauthorised labelling, recall compliance, drug storage and discrepancies in stock records | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 02:41:32 GMT",
+          "url": "https://www.indianpharmapost.com/news/maharashtra-fda-cancels-cipla-pune-units-drug-sale-licences-over-reactin-plus-irregularities-21617"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "medicijnen",
+        "voor",
+        "trump",
+        "europese",
+        "wil",
+        "betalen",
+        "landen",
+        "meer",
+        "dwingen",
+        "drimble"
+      ],
+      "articles": [
+        {
+          "title": "Trump wil Europese landen dwingen meer te betalen voor medicijnen - Follow the Money",
+          "source": "Follow the Money",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "Dit stuk in 1 minuut | Wat is het nieuws? | De Amerikaanse President Trump wil Europese landen dwingen meer uit te geven aan merkmedicijnen, zodat de hoge prijzen in de Verenigde Staten omlaag kunnen. | De farmaceutische",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sat, 29 Aug 2026 04:00:00 GMT",
+          "url": "https://www.ftm.nl/artikelen/trump-wil-europese-landen-dwingen-meer-te-betalen-voor-medicijnen"
+        },
+        {
+          "title": "Trump wil Europese landen dwingen meer te betalen voor medicijnen - Headliner.nl",
+          "source": "Headliner.nl",
+          "importance": 30,
+          "stars": "⭐⭐",
+          "snippet": "Trump wil Europese landen dwingen meer te betalen voor medicijnen | zaterdag, 29 augustus 2026 (06:08) - Follow the Money | In dit artikel: | Donald Trump wil de hoge medicijnprijzen in de Verenigde Staten verlagen door ",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sat, 29 Aug 2026 04:08:00 GMT",
+          "url": "https://www.headliner.nl/item/trump-wil-europese-landen-dwingen-meer-te-betalen-voor-medicijnen-ftm-932"
+        },
+        {
+          "title": "Illegale medicijnen, vuurwerk en wapens gevonden: vier verdachten opgepakt - Drimble",
+          "source": "Drimble",
+          "importance": 30,
+          "stars": "⭐⭐",
+          "snippet": "<!DOCTYPE html> | <!-- Google Adsense header script --> | <script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9694898590727009\" | crossorigin=\"anonymous\"></script> | <meta http",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Sat, 29 Aug 2026 00:00:46 GMT",
+          "url": "https://drimble.nl/regio/noord-brabant/breda/107835186/illegale-medicijnen-vuurwerk-en-wapens-gevonden-vier-verdachten-opgepakt.html"
+        },
+        {
+          "title": "Vier verdachten aangehouden voor handel in illegale medicijnen - Drimble",
+          "source": "Drimble",
+          "importance": 30,
+          "stars": "⭐⭐",
+          "snippet": "<!DOCTYPE html> | <!-- Google Adsense header script --> | <script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9694898590727009\" | crossorigin=\"anonymous\"></script> | <meta http",
+          "section": "multilingual",
+          "category": "Dutch / 네덜란드어",
+          "time": "Fri, 28 Aug 2026 21:49:00 GMT",
+          "url": "https://drimble.nl/regio/noord-brabant/breda/107833852/vier-verdachten-aangehouden-voor-handel-in-illegale-medicijnen.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "indexbox",
+        "market",
+        "pharmaceutical",
+        "filters",
+        "grade",
+        "outlook",
+        "gas"
+      ],
+      "articles": [
+        {
+          "title": "Pharmaceutical Grade Gas Filters Market Outlook to 2035 - IndexBox",
+          "source": "IndexBox",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Parker Hannifin (domnick hunter) | Headquarters | Cleveland, USA (domnick hunter: Gateshead, UK) | Compressed air & gas purification for pharma | Large multinational",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Fri, 28 Aug 2026 23:16:10 GMT",
+          "url": "https://www.indexbox.io/blog/pharmaceutical-grade-gas-filters-market-outlook-to-2035/"
+        },
+        {
+          "title": "Pharmaceutical Grade Gas Filters Market Outlook to 2035 - IndexBox",
+          "source": "IndexBox",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Parker Hannifin (domnick hunter) | Headquarters | Cleveland, USA (domnick hunter: Gateshead, UK) | Compressed air & gas purification for pharma | Large multinational",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 28 Aug 2026 23:16:10 GMT",
+          "url": "https://www.indexbox.io/blog/pharmaceutical-grade-gas-filters-market-outlook-to-2035/"
+        },
+        {
+          "title": "Tamper-Evident Safety Caps Market Demand to Accelerate by 2035 on Stricter Pharma and Food Safety Rules - IndexBox",
+          "source": "IndexBox",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Report Update: Aug 29, 2026 | World Tamper-Evident Safety Caps - Market Analysis, Forecast, Size, Trends and Insights | -50% promotion | · automatically applied at checkout | Single User License",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Sat, 29 Aug 2026 04:01:16 GMT",
+          "url": "https://www.indexbox.io/blog/tamper-evident-safety-caps-market-demand-to-accelerate-by-2035-on-stricter-pharma-and-food-safety-rules/"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "first-in",
+        "top",
+        "class",
+        "drug",
+        "헤럴드경제",
+        "korea",
+        "licensing",
+        "deals",
+        "global",
+        "pipeline"
+      ],
+      "articles": [
+        {
+          "title": "36% of Korea's drug pipeline is first-in-class as global licensing deals top W10tr - 헤럴드경제",
+          "source": "헤럴드경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "South Korea has firmly established itself as a global hub for new drug licensing, with 36 percent of its drug pipeline comprising first-in-class treatments and | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sat, 29 Aug 2026 04:01:00 GMT",
+          "url": "https://mbiz.heraldcorp.com/article/10855668"
+        },
+        {
+          "title": "36% of Korea's drug pipeline is first-in-class as global licensing deals top W10tr - 헤럴드경제",
+          "source": "헤럴드경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "South Korea has firmly established itself as a global hub for new drug licensing, with 36 percent of its drug pipeline comprising first-in-class treatments and | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 29 Aug 2026 04:01:00 GMT",
+          "url": "https://mbiz.heraldcorp.com/article/10855668"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "pharmaceutical",
+        "what"
+      ],
+      "articles": [
+        {
+          "title": "What Chugai Pharmaceutical (TSE:4519)'s Agentic AI Partnership With Phylo Means For Shareholders - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Earlier in 2026, Chugai Pharmaceutical began rolling out an agentic AI platform across its drug discovery workflow and entered a collaboration with Phylo to apply this technology to single-cell data, human genetics, and ",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 29 Aug 2026 02:36:30 GMT",
+          "url": "https://simplywall.st/stocks/jp/pharmaceuticals-biotech/tse-4519/chugai-pharmaceutical-shares/news/what-chugai-pharmaceutical-tse4519s-agentic-ai-partnership-w/amp"
+        },
+        {
+          "title": "Teva Pharmaceutical Industries Ltd (TEVA) Shares Fall 3.1% -- What GF Score of 47 Tells Investors - GuruFocus",
+          "source": "GuruFocus",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "On August 28, 2026, Teva Pharmaceutical Industries Ltd | shares fell 3.1% to a current price of $36.44. | This decline comes amid a 52-week trading range of $17.89 to $38.37, reflecting significant volatility in the stoc",
+          "section": "english",
+          "category": "Pharma Associations",
+          "time": "Fri, 28 Aug 2026 22:02:12 GMT",
+          "url": "https://www.gurufocus.com/news/9058625/teva-pharmaceutical-industries-ltd-teva-shares-fall-31-what-gf-score-of-47-tells-investors"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "los",
+        "precio",
+        "por"
+      ],
+      "articles": [
+        {
+          "title": "“El precio del medicamento es sumamente oneroso”: farmacias advierten por los costos y la caída del consumo - El 10 TV",
+          "source": "El 10 TV",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "El precio de los medicamentos volvió a quedar en el centro de la discusión por la diferencia que existe entre Argentina y otros países de la región. | En diálogo con | Susana Carrasco | , presidenta de la Cámara de Propi",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Fri, 28 Aug 2026 21:47:22 GMT",
+          "url": "https://el10tv.com/noticias_det.php?furl=El_precio_del_medicamento_es_sumamente_oneroso_farmacias_advierten_por_los_costos_y_la_caida_del_consumo"
+        },
+        {
+          "title": "“El bolsillo no da abasto”: crece la preocupación por el elevado precio de los medicamentos - Radio Profesional 89.9",
+          "source": "Radio Profesional 89.9",
+          "importance": 30,
+          "stars": "⭐⭐",
+          "snippet": "Desde la Cámara de Propietarios de Farmacias de Salta señalaron que los costos de los medicamentos golpean directamente el bolsillo de los salteños y reclamaron medidas para reducir la carga impositiva. | Un informe que ",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Fri, 28 Aug 2026 23:14:53 GMT",
+          "url": "https://fm899.com.ar/el-bolsillo-no-da-abasto-crece-la-preocupacion-por-el-elevado-precio-de-los-medicamentos/"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "약사 없이 ATC 조제에 복약지도까지…한약사 약국 보건소 고발 - 데일리팜",
+      "source": "데일리팜",
+      "importance": 50,
+      "snippet": "[데일리팜=김지은 기자] 한약사가 개설한 약국에서 약사가 근무하지 않는 상황에서 한약사가 직접 처방전에 따른 의약품을 조제하고 복약지도까지 했다는 의혹이 제기됐다. | 지역 약사의 제보를 접수한 서울시약사회가 해당 약국에 대한 채증에 나선 결과 일부 문제 소지가 있는 정황이 확인됐고, 영상 등 관련 증거자료를 확보해 관할 보건소에 고발 조치한 것으로 파악됐",
+      "url": "https://www.dailypharm.com/user/news/341892"
+    },
+    {
+      "title": "Oral Controlled Release Drug Delivery Technology Market to Expand at 6.9% CAGR During 2025–2034 - Market.us Media",
+      "source": "Market.us Media",
+      "importance": 47,
+      "snippet": "Table of Contents | Key Takeaways | Statistical Information | Regional Analysis | Emerging Trends",
+      "url": "https://media.market.us/oral-controlled-release-drug-delivery-technology-market-news/"
+    },
+    {
+      "title": "Medicare's 2027 Drug Deductible Is $700, Up $85. You Pay All of It Before Your Plan Pays Anything. - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "importance": 47,
+      "snippet": "Personal Finance | Medicare’s 2027 Drug Deductible Is $700, Up $85. | You Pay All of It Before Your Plan Pays Anything. | Medicare's Part D deductible is climbing again in 2027, and what your plan act",
+      "url": "https://247wallst.com/personal-finance/2026/08/28/medicares-2027-drug-deductible-is-700-up-85-you-pay-all-of-it-before-your-plan-pays-anything/"
+    },
+    {
+      "title": "America’s Drug Shortage Is A National Security Crisis – OpEd - Eurasia Review",
+      "source": "Eurasia Review",
+      "importance": 47,
+      "snippet": "America’s Drug Shortage Is A National Security Crisis – OpEd - Eurasia Review | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.eurasiareview.com/29082026-americas-drug-shortage-is-a-national-security-crisis-oped/"
+    },
+    {
+      "title": "Trung Quốc đẩy mạnh ứng dụng công nghệ thông minh vào ngành y dược cổ truyền - Báo Nhân Dân điện tử",
+      "source": "Báo Nhân Dân điện tử",
+      "importance": 47,
+      "snippet": "Sự kết hợp giữa | y dược cổ truyền | và sản xuất thông minh đã trở thành xu hướng chủ đạo, với việc ứng dụng công nghệ số hay các giải pháp trí tuệ nhân tạo (AI) để giải quyết những bài toán cũ như dự",
+      "url": "https://nhandan.vn/trung-quoc-day-manh-ung-dung-cong-nghe-thong-minh-vao-nganh-y-duoc-co-truyen-post985263.html"
+    },
+    {
+      "title": "มหาวิทยาลัยราชภัฏราชนครินทร์เดินหน้าบทบาท “มหาวิทยาลัยเพื่อการพัฒนาพื้นที่” ดึงภูมิปัญญา–สมุนไพร–อาหาร–วิถีลุ่มน้ำบางปะกง สร้างอัตลักษณ์ “โพธิ์-บางปะกง” เชื่อม Chachoengsao Aroma City - banmuang.co.th",
+      "source": "banmuang.co.th",
+      "importance": 45,
+      "snippet": "มหาวิทยาลัยราชภัฏราชนครินทร์เดินหน้าบทบาท “มหาวิทยาลัยเพื่อการพัฒนาพื้นที่” ดึงภูมิปัญญา–สมุนไพร–อาหาร–วิถีลุ่มน้ำบางปะกง สร้างอัตลักษณ์ “โพธิ์-บางปะกง” เชื่อม Chachoengsao Aroma City | วันเสาร์ ที่ 2",
+      "url": "https://www.banmuang.co.th/news/social/488538"
+    },
+    {
+      "title": "총리&#183;국방부장관-국방&#183;보건복지위원장 등 건의",
+      "source": "데일리메디",
+      "importance": 42,
+      "snippet": "﻿﻿﻿﻿사진제공 연합뉴스. | 군의관과 공중보건의사 복무기간을 단축하고 처우를 개선해야 한다는 의료계 목소리가 정부와 국회에 공식적으로 전달됐다.현역병과의 복무기간 격차 확대로 지원 인력이 급감하면서 군 의료와 지역 공공의료 인력 확보에 비상이 걸린 상황이다.한국의학교육협의회(이하 의교협)는 “군의관 및 공중보건의사 복무기간 현실화를 위한 관련 법률 개정안",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939922"
+    },
+    {
+      "title": "Drugmakers may bear sole responsibility for overpricing essential medicines under NPPA proposal - The Economic Times",
+      "source": "The Economic Times",
+      "importance": 42,
+      "snippet": "Drugmakers may bear sole responsibility for overpricing essential medicines under NPPA proposal | The National Pharmaceutical Pricing Authority aims to hold drug manufacturers solely accountable for t",
+      "url": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medicines-under-nppa-proposal/amp_articleshow/133598884.cms"
+    },
+    {
+      "title": "Pharma Industry Stares Down Biggest Patent Cliff in Decades - WSJ",
+      "source": "WSJ",
+      "importance": 42,
+      "snippet": "Please enable JS and disable any ad blocker | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+      "url": "https://www.wsj.com/health/pharma/pharma-industry-stares-down-biggest-patent-cliff-in-decades-2d96c4cd"
+    },
+    {
+      "title": "3 thủ khoa đạt 30 điểm, hàng loạt thủ khoa ngành điểm cao ở ĐH Y Dược TPHCM - Báo VietNamNet",
+      "source": "Báo VietNamNet",
+      "importance": 42,
+      "snippet": "Nữ sinh mồ côi đoạt 2 giải học sinh giỏi quốc gia, đau đáu nỗi lo ngày nhập học | 3 năm đạt giải Nhất cấp tỉnh, 2 lần đạt giải học sinh giỏi quốc gia môn Địa lý, Diễm Quỳnh vừa trúng tuyển Trường Đại ",
+      "url": "https://vietnamnet.vn/3-thu-khoa-dat-30-diem-hang-loat-thu-khoa-nganh-diem-cao-o-dh-y-duoc-tphcm-2550124.html"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 8
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 11,
+      "en_count": 5
+    }
+  ]
+}

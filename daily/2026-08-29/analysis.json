@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-29",
+  "total_articles": 388,
+  "language_breakdown": {
+    "korean": 170,
+    "english": 130,
+    "multilingual": 88
+  },
+  "issues": [
+    {
+      "topic": "FDA 승인 확대와 희귀·항암 치료제 경쟁",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 16,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "US FDA approves Takeda, Protagonist's drug for rare blood cancer - Reuters", "importance": 67, "url": "https://www.reuters.com/legal/litigation/us-fda-approves-takeda-protagonists-drug-rare-blood-cancer-2026-08-28/"},
+        {"title": "FDA Approves Landmark Pancreatic Cancer Drug That's Shown to Improve Survival - NTD News", "importance": 47, "url": "https://www.ntd.com/fda-approves-landmark-pancreatic-cancer-drug-thats-shown-to-improve-survival_1169344.html"},
+        {"title": "Protagonist Therapeutics Announces U.S. FDA Approval of Hepcidin Mimetic Peptide MIMRYLO(TM) (rusfertide) for Polycythemia Vera", "importance": 42, "url": "https://www.businesswire.com/news/home/20260824773270/en/Takeda-Receives-U.S.-FDA-Approval-of-MIMRYLO-rusfertide-Marking-a-Potential-Shift-in-the-Treatment-Paradigm-for-Polycythemia-Vera"}
+      ],
+      "summary_kr": "분석 대상에서 FDA 승인 보도가 가장 큰 클러스터를 형성했다. Takeda·Protagonist의 희귀 혈액암 치료제와 췌장암 신약 등 승인 사례가 집중되며 희귀질환·고난도 암 영역의 차별화된 임상·허가 성과가 경쟁의 핵심임을 보여준다.",
+      "summary_en": "FDA approvals dominated the detected clusters, spanning Takeda/Protagonist's rare blood-cancer therapy and a pancreatic-cancer drug. The concentration highlights differentiated clinical and regulatory execution in rare disease and difficult-to-treat cancers."
+    },
+    {
+      "topic": "국내 기등재 의약품 약가인하의 단계적 시행",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 11,
+      "avg_importance": 50,
+      "key_articles": [
+        {"title": "'기등재 의약품' 약가인하 내년 4월로…\"행정시차 해소\"", "importance": 60, "url": "https://www.newsis.com/view/NISX20260828_0003766762"},
+        {"title": "Drugmakers may bear sole responsibility for overpricing essential medicines under NPPA proposal", "importance": 42, "url": "https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/drugmakers-may-bear-sole-responsibility-for-overpricing-essential-medicines-under-nppa-proposal/amp_articleshow/133598884.cms"}
+      ],
+      "summary_kr": "국내에서는 기등재 의약품 재평가와 약가 조정이 2027년 4월부터 단계적으로 시작되는 일정이 부각됐다. 신규 등재약의 낮아진 기준과 기존 품목의 유예·특례 적용 사이의 행정 시차가 제약사 가격·제품 포트폴리오 대응을 좌우할 전망이다.",
+      "summary_en": "Korean coverage focused on a phased repricing of already-listed medicines from April 2027. The timing gap between lower rules for new listings and transitional treatment for existing products will shape manufacturers' pricing and portfolio responses."
+    },
+    {
+      "topic": "한국 신약 파이프라인의 first-in-class·기술수출 확대",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {"title": "36% of Korea's drug pipeline is first-in-class as global licensing deals top W10tr - 헤럴드경제", "importance": 47, "url": "https://mbiz.heraldcorp.com/article/10855668"}
+      ],
+      "summary_kr": "한국 파이프라인의 36%가 first-in-class이고 글로벌 라이선싱 거래가 10조원을 넘었다는 보도가 포착됐다. 숫자 자체보다 초기 혁신성의 확보와 글로벌 파트너링을 통한 검증·수익화가 국내 바이오의 다음 성장 관문이라는 점이 중요하다.",
+      "summary_en": "Coverage reported that 36% of Korea's drug pipeline is first-in-class and global licensing deals exceed W10tn. The strategic issue is whether early innovation can be validated and monetized through global partnering."
+    },
+    {
+      "topic": "제약 제조 품질과 디지털·AI 전환",
+      "domain": "research",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 44,
+      "key_articles": [
+        {"title": "Pharmaceutical Grade Gas Filters Market Outlook to 2035 - IndexBox", "importance": 47, "url": "https://www.indexbox.io/blog/pharmaceutical-grade-gas-filters-market-outlook-to-2035/"},
+        {"title": "What Chugai Pharmaceutical (TSE:4519)'s Agentic AI Partnership With Phylo Means For Shareholders", "importance": 47, "url": "https://simplywall.st/stocks/jp/pharmaceuticals-biotech/tse-4519/chugai-pharmaceutical-shares/news/what-chugai-pharmaceutical-tse4519s-agentic-ai-partnership-w/amp"}
+      ],
+      "summary_kr": "제약용 가스 필터 시장과 Chugai의 agentic AI·Phylo 협력이 함께 포착됐다. 제조 환경의 품질관리 인프라와 신약개발 데이터·AI 역량이 별개 투자항목이 아니라 규제 대응과 R&D 생산성을 동시에 좌우하는 기반으로 연결되고 있다.",
+      "summary_en": "Coverage linked pharmaceutical-grade filtration infrastructure with Chugai's agentic-AI partnership. Manufacturing quality systems and AI-enabled R&D are becoming connected capabilities affecting both compliance and discovery productivity."
+    },
+    {
+      "topic": "국제 의약품 가격·접근성 압력",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 6,
+      "avg_importance": 36,
+      "key_articles": [
+        {"title": "Trump wil Europese landen dwingen meer te betalen voor medicijnen - Follow the Money", "importance": 35, "url": "https://www.ftm.nl/artikelen/trump-wil-europese-landen-dwingen-meer-te-betalen-voor-medicijnen"},
+        {"title": "“El precio del medicamento es sumamente oneroso”: farmacias advierten por los costos y la caída del consumo", "importance": 45, "url": "https://el10tv.com/noticias_det.php?furl=El_precio_del_medicamento_es_sumamente_oneroso_farmacias_advierten_por_los_costos_y_la_caida_del_consumo"},
+        {"title": "America’s Drug Shortage Is A National Security Crisis – OpEd", "importance": 47, "url": "https://www.eurasiareview.com/29082026-americas-drug-shortage-is-a-national-security-crisis-oped/"}
+      ],
+      "summary_kr": "다국어 보도에서는 미국의 대외 약가 압박, 아르헨티나의 의약품 가격·소비 위축, 미국 의약품 부족 문제가 함께 나타났다. 약가 인하만으로는 공급 안정과 접근성을 동시에 보장하기 어려워 가격·조달·공급망 정책의 결합이 필요하다.",
+      "summary_en": "Multilingual coverage connected U.S. pressure on foreign medicine prices, Argentine affordability concerns, and U.S. shortages. Price reduction alone cannot ensure supply resilience and access, requiring integrated pricing, procurement, and supply-chain policy."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "바이오시밀러", "kr_count": 1, "en_count": 1, "significance": "low"},
+    {"keyword": "허가", "kr_count": 6, "en_count": 8, "significance": "high"},
+    {"keyword": "임상", "kr_count": 10, "en_count": 1, "significance": "medium"},
+    {"keyword": "약가", "kr_count": 11, "en_count": 5, "significance": "high"}
+  ],
+  "notable_absences": ["전통의학 국내 기사 1건으로 커버리지 제한", "독일어·스웨덴어·폴란드어·일본어·히브리어·페르시아어 기사 0건"],
+  "trend_shift": {"from_yesterday": ["총 기사 수 413건에서 388건으로 감소", "title fallback 69건에서 73건으로 증가"], "changes": ["FDA 승인 클러스터가 당일 분석에서 가장 크게 나타남", "국내 약가·임상 키워드가 지속적으로 상위권"]},
+  "connections": ["FDA 승인 경쟁과 한국 first-in-class 파이프라인은 혁신성의 허가·기술수출 전환이라는 공통 축을 공유", "약가 규제와 의약품 부족 보도는 가격정책이 공급 안정성에 미치는 상충효과를 보여줌"],
+  "generated_at": "2026-08-29T16:31:29+09:00"
+}
