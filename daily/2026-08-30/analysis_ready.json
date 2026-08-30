@@ -1,0 +1,651 @@
+{
+  "date": "2026-08-30",
+  "total_articles": 311,
+  "language_breakdown": {
+    "korean": {
+      "total": 125,
+      "categories": {
+        "의약품": 20,
+        "의약산업": 9,
+        "의약정책": 8,
+        "의약단체": 6,
+        "의약관련정부기관": 7,
+        "의료현장": 19,
+        "약국·약사": 14,
+        "의료정책·인력": 20,
+        "전통의학": 0,
+        "감염·보건": 22
+      }
+    },
+    "english": {
+      "total": 120,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 18,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 66,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 5,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 0,
+        "Dutch / 네덜란드어": 2,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 7,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 14
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "수출",
+      "count": 5
+    },
+    {
+      "keyword": "약가",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "심사",
+      "count": 1
+    },
+    {
+      "keyword": "급여",
+      "count": 1
+    },
+    {
+      "keyword": "FDA",
+      "count": 1
+    },
+    {
+      "keyword": "식약처",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 26
+    },
+    {
+      "keyword": "approval",
+      "count": 9
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "연합뉴스",
+      "count": 8
+    },
+    {
+      "source": "Vietnam.vn",
+      "count": 7
+    },
+    {
+      "source": "뉴시스",
+      "count": 5
+    },
+    {
+      "source": "글로벌이코노믹",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "병원신문",
+      "count": 4
+    },
+    {
+      "source": "주달",
+      "count": 3
+    },
+    {
+      "source": "핀포인트뉴스",
+      "count": 3
+    },
+    {
+      "source": "매일일보",
+      "count": 3
+    },
+    {
+      "source": "v.daum.net",
+      "count": 3
+    }
+  ],
+  "top_en_sources": [
+    {
+      "source": "IndexBox",
+      "count": 14
+    },
+    {
+      "source": "AD HOC NEWS",
+      "count": 8
+    },
+    {
+      "source": "simplywall.st",
+      "count": 5
+    },
+    {
+      "source": "finance.biggo.com",
+      "count": 3
+    },
+    {
+      "source": "Medical Dialogues",
+      "count": 3
+    },
+    {
+      "source": "Endpoints News",
+      "count": 2
+    },
+    {
+      "source": "Fortune",
+      "count": 2
+    },
+    {
+      "source": "Arabian Business",
+      "count": 2
+    },
+    {
+      "source": "Indian Pharma Post",
+      "count": 2
+    },
+    {
+      "source": "The Eastern Herald",
+      "count": 2
+    }
+  ],
+  "yesterday_issues": [
+    "FDA 승인 확대와 희귀·항암 치료제 경쟁",
+    "국내 기등재 의약품 약가인하의 단계적 시행",
+    "한국 신약 파이프라인의 first-in-class·기술수출 확대",
+    "제약 제조 품질과 디지털·AI 전환",
+    "국제 의약품 가격·접근성 압력"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "신약개발",
+        "신약",
+        "세계",
+        "파이프라인",
+        "한중일",
+        "허브",
+        "늦는",
+        "이유",
+        "한국의",
+        "사설"
+      ],
+      "articles": [
+        {
+          "title": "'신약개발 허브' 된 한중일… &quot;세계 파이프라인 43%&quot;",
+          "source": "뉴시스 on MSN",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "'신약개발 허브' 된 한중일… &quot;세계 파이프라인 43%&quot; | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1시간",
+          "url": "https://www.msn.com/ko-kr/news/world/%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-%ED%97%88%EB%B8%8C-%EB%90%9C-%ED%95%9C%EC%A4%91%EC%9D%BC-%EC%84%B8%EA%B3%84-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-43/ar-AA2bbLAu?ocid=BingNewsVerp"
+        },
+        {
+          "title": "[글로벌이코노믹 사설] 한국의 신약개발 속도가 늦는 이유",
+          "source": "글로벌이코노믹",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "mRNA를 활용한 환자맞춤형 암 백신이 최근 임상 3상을 통과했다. | 임상을 마친 약물이 미 식품의약국(FDA) 허가를 받을 확률은 97% 정도다. | 지난해 기준 임상 1상에서 FDA 허가까지 평균 성공확률은 8.2%다. | mRNA 암 백신 임상 성공 소식의 파급력이 클 수밖에 없는 이유다. | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "5시간",
+          "url": "https://www.g-enews.com/article/Opinion/2026/08/20260830143458454835e857d010_1"
+        },
+        {
+          "title": "AI시대의 신약 개발, 15년의 벽을 허물까? 인공지능은 신약개발 기간 얼마나 단축시킬 수 있나?",
+          "source": "베타뉴스 on MSN",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "AI시대의 신약 개발, 15년의 벽을 허물까? | 인공지능은 신약개발 기간 얼마나 단축시킬 수 있나? | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "5시간",
+          "url": "https://www.msn.com/ko-kr/news/other/ai%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-15%EB%85%84%EC%9D%98-%EB%B2%BD%EC%9D%84-%ED%97%88%EB%AC%BC%EA%B9%8C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EA%B0%84-%EC%96%BC%EB%A7%88%EB%82%98-%EB%8B%A8%EC%B6%95%EC%8B%9C%ED%82%AC-%EC%88%98-%EC%9E%88%EB%82%98/vi-AA2bcria?ocid=BingNewsVerp"
+        },
+        {
+          "title": "'신약개발 허브' 된 한중일…\"세계 파이프라인 43%\" - 뉴시스",
+          "source": "뉴시스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "'신약개발 허브' 된 한중일…\"세계 파이프라인 43%\" | 등록 2026.08.30 14:01:00 | 수정 2026.08.30 14:14:23 | 구글에서 선호하는 매체로 추가 | \"가성비 임상지에서 혁신 주도지로\"",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Sun, 30 Aug 2026 05:01:00 GMT",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767207"
+        },
+        {
+          "title": "[글로벌이코노믹 사설] 한국의 신약개발 속도가 늦는 이유 - 글로벌이코노믹",
+          "source": "글로벌이코노믹",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "mRNA를 활용한 환자맞춤형 암 백신이 최근 임상 3상을 통과했다. | 임상을 마친 약물이 미 식품의약국(FDA) 허가를 받을 확률은 97% 정도다. | 지난해 기준 임상 1상에서 FDA 허가까지 평균 성공확률은 8.2%다. | mRNA 암 백신 임상 성공 소식의 파급력이 클 수밖에 없는 이유다. | 요약문 생성 불가",
+          "section": "korean",
+          "category": "의약품",
+          "time": "Sun, 30 Aug 2026 05:38:44 GMT",
+          "url": "https://www.g-enews.com/article/Opinion/2026/08/20260830143458454835e857d010_1"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "FDA",
+        "fda",
+        "shift",
+        "takeda",
+        "potential",
+        "receives",
+        "mimrylo",
+        "paradigm",
+        "polycythemia",
+        "vera"
+      ],
+      "articles": [
+        {
+          "title": "Maharashtra FDA Cancels Drug Sale Licence of Cipla’s Pune C&F Unit Over Compliance Irregularities - BioSpectrum India",
+          "source": "BioSpectrum India",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Checking your browser before accessing. | Just a moment... | Checking your browser before accessing | Please wait for up to 5 seconds... | 요약문 생성 불가",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sat, 29 Aug 2026 21:43:33 GMT",
+          "url": "https://www.biospectrumindia.com/news/108/28396/maharashtra-fda-cancels-drug-sale-licence-of-ciplas-pune-cf-unit-over-compliance-irregularities.html"
+        },
+        {
+          "title": "Takeda Receives U.S. FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera - 경기시사투데이 - 경기시사투데이",
+          "source": "경기시사투데이",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "MIMRYLO Logo | OSAKA, Japan & CAMBR--( | TSE:4502/NYSE:TAK | Food and Drug Administration (FDA) approval | of the New Drug Application (NDA)* for MIMRYLO™ (rusfertide) for the treatment of erythrocytosis in adults with p",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Sun, 30 Aug 2026 05:14:57 GMT",
+          "url": "https://press.yitoday.com/newsRead.php?no=1041441"
+        },
+        {
+          "title": "다케다제약 '밈릴로', 미국 FDA 승인…진성적혈구증가증 치료 새 길 - 스페셜타임스",
+          "source": "스페셜타임스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "MIMRYLO Logo (사진= Takeda Pharmaceutical Company Limited 제공) | 다케다제약(Takeda Pharmaceutical Company Limited)은 8월 30일(현지시간) 미국 식품의약국(FDA)이 진성적혈구증가증(PV) 성인 환자의 적혈구증가증 치료제로 밈릴로(MIMRYLO, 성분명: rusfertide)를 승인했다고 밝혔다. | 밈릴로는 체내 ",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "Sun, 30 Aug 2026 05:39:30 GMT",
+          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=455874"
+        },
+        {
+          "title": "Takeda Receives U.S. FDA Approval of MIMRYLO™ (rusfertide), Marking a Potential Shift in the Treatment Paradigm for Polycythemia Vera - 경기시사투데이 - 경기시사투데이",
+          "source": "경기시사투데이",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "MIMRYLO Logo | OSAKA, Japan & CAMBR--( | TSE:4502/NYSE:TAK | Food and Drug Administration (FDA) approval | of the New Drug Application (NDA)* for MIMRYLO™ (rusfertide) for the treatment of erythrocytosis in adults with p",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 30 Aug 2026 05:14:57 GMT",
+          "url": "https://press.yitoday.com/newsRead.php?no=1041441"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "thu",
+        "ngh",
+        "nghi",
+        "nam",
+        "ngo",
+        "vietnam"
+      ],
+      "articles": [
+        {
+          "title": "Tuyên Quang: Doanh nghiệp tiếp nối nghề thuốc của người Dao, nâng cao giá trị sản phẩm từ cây dược liệu - Tạp chí Kinh tế chứng khoán Việt Nam",
+          "source": "Tạp chí Kinh tế chứng khoán Việt Nam",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "Công ty TNHH | Thảo dược Tuệ Tâm | được thành lập tháng 9/2018 tại Tuyên Quang, do bà Bàn Thị Liên làm Giám đốc. | Doanh nghiệp hoạt động chính trong lĩnh vực trồng cây dược liệu, đồng thời phát triển các sản phẩm chế bi",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 30 Aug 2026 05:13:00 GMT",
+          "url": "https://kinhtechungkhoan.vn/tuyen-quang-doanh-nghiep-tiep-noi-nghe-thuoc-cua-nguoi-dao-nang-cao-gia-tri-san-pham-tu-cay-duoc-lieu"
+        },
+        {
+          "title": "Du khách nước ngoài trải nghiệm với y học cổ truyền Việt Nam - Laodong.vn",
+          "source": "Laodong.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Du khách nước ngoài trải nghiệm với y học cổ truyền Việt Nam - Laodong.vn | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 30 Aug 2026 00:54:48 GMT",
+          "url": "https://laodong.vn/lao-dong-cuoi-tuan/du-khach-nuoc-ngoai-trai-nghiem-voi-y-hoc-co-truyen-viet-nam-1757028.ldo"
+        },
+        {
+          "title": "Pharmacity - Từ nhà thuốc đến hệ sinh thái đồng hành cùng sức khỏe người Việt - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Triển khai đa giải pháp, đa nền tảng, mở rộng điểm chạm chăm sóc sức khỏe | Trong hành trình phát triển của đất nước, chăm sóc và nâng cao sức khỏe nhân dân luôn là một t",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 30 Aug 2026 02:12:28 GMT",
+          "url": "https://www.vietnam.vn/pharmacity-tu-nha-thuoc-den-he-sinh-thai-dong-hanh-cung-suc-khoe-nguoi-viet"
+        },
+        {
+          "title": "Cử tri kiến nghị bổ sung thuốc điều trị ngoại trú các bệnh mãn tính, bệnh hiểm nghèo - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Theo dõi Vietnam.vn trên | Thêm Vietnam.vn trên | Cử tri kiến nghị bổ sung thuốc điều trị ngoại trú các bệnh mãn tính, bệnh hiểm nghèo | cho biết, cử tri Lâm Đồng phản ánh, danh mục thuốc BHYT không có một số loại thuốc ",
+          "section": "multilingual",
+          "category": "Vietnamese / 베트남어",
+          "time": "Sun, 30 Aug 2026 05:35:47 GMT",
+          "url": "https://www.vietnam.vn/cu-tri-kien-nghi-bo-sung-thuoc-dieu-tri-ngoai-tru-cac-benh-man-tinh-benh-hiem-ngheo"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "lilly",
+        "com",
+        "biggo",
+        "finance",
+        "eli"
+      ],
+      "articles": [
+        {
+          "title": "Hanmi Pharmaceutical Lands ₩5 Trillion in Tech Exports in Three Months with Back-to-Back Genentech, Eli Lilly Deals - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Hanmi Pharmaceutical Lands ₩5 Trillion in Tech Exports in Three Months with Back-to-Back Genentech, Eli Lilly Deals | Add to Google Preferred Sources | Hanmi Pharmaceutical signed two technology transfer agreements worth",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 30 Aug 2026 02:35:00 GMT",
+          "url": "https://finance.biggo.com/news/a933126e-275e-435e-9002-10a4508e3177"
+        },
+        {
+          "title": "Eli Lilly (LLY) Expands Alzheimer’s Research With A New Drug Collaboration - simplywall.st",
+          "source": "simplywall.st",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "BioArctic and Eli Lilly (NYSE: LLY) announced a research collaboration to develop a new Alzheimer's treatment that combines BioArctic's BrainTransporter technology with an Eli Lilly drug candidate. | The agreement focuse",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sat, 29 Aug 2026 22:23:02 GMT",
+          "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-lly/eli-lilly/news/eli-lilly-lly-expands-alzheimers-research-with-a-new-drug-co/amp"
+        },
+        {
+          "title": "Hair Loss Treatments Are Wall Street's New Gold Mine? Related Stocks Surge 500% - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "Hair Loss Treatments Are Wall Street's New Gold Mine? | Related Stocks Surge 500% | Add to Google Preferred Sources | The hair loss treatment market, which has seen no new drug approvals in decades, has emerged as a fres",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Sun, 30 Aug 2026 03:25:00 GMT",
+          "url": "https://finance.biggo.com/news/62ad54cf-31ee-4a76-81dc-4b4c975c5c5a"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "겨울",
+        "국가",
+        "예방접종",
+        "인플루엔자",
+        "살까지",
+        "확대"
+      ],
+      "articles": [
+        {
+          "title": "2026년 겨울 인플루엔자 국가 예방접종, 14살까지 확대",
+          "source": "대구MBC on MSN",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "2026년 겨울 인플루엔자 국가 예방접종, 14살까지 확대 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가 | 요약문 생성 불가",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "5시간",
+          "url": "https://www.msn.com/ko-kr/news/other/2026%EB%85%84-%EA%B2%A8%EC%9A%B8-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%97%94%EC%9E%90-%EA%B5%AD%EA%B0%80-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-14%EC%82%B4%EA%B9%8C%EC%A7%80-%ED%99%95%EB%8C%80/ar-AA2bbZJ4?ocid=BingNewsVerp"
+        },
+        {
+          "title": "2026년 겨울 인플루엔자 국가 예방접종, 14살까지 확대 - 대구MBC",
+          "source": "대구MBC",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "2026년 겨울 인플루엔자 국가 예방접종 대상자가 14살까지로 확대됩니다. | 질병관리청은 '6개월~13세'까지이던 어린이 무료 예방접종 대상을 '생후 6개월~14세(2012.1.1.~2026.8.31. | 출생자)까지로 확대하기로 했다고 밝혔습니다. | 이에 따라 2026년 겨울 인플루엔자 국가 예방접종은 9월 21일에 2회 접종 대상 어린이와 임신부를 시작으로, 9월 28일부터는 1회 접",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "Sun, 30 Aug 2026 01:00:00 GMT",
+          "url": "https://dgmbc.com/NewsArticle/858436"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "pharma",
+        "lithium",
+        "argentina"
+      ],
+      "articles": [
+        {
+          "title": "Argentina to ease Indian pharma barriers; KABIL makes progress on lithium project - CNBC TV18",
+          "source": "CNBC TV18",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "Argentina to ease Indian pharma barriers; KABIL makes progress on lithium project | Argentina has committed to ease regulatory barriers for Indian pharma companies, while India’s KABIL has completed Phase II lithium dril",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 30 Aug 2026 02:56:32 GMT",
+          "url": "https://www.cnbctv18.com/economy/argentina-to-ease-indian-pharma-barriers-kabil-makes-progress-on-lithium-project-19979718.htm"
+        },
+        {
+          "title": "India-Argentina Deepen Trade Ties, Explore Lithium And Pharma Access - Sarkaritel.com",
+          "source": "Sarkaritel.com",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "International | India-Argentina Deepen Trade Ties, Explore Lithium and Pharma Access | India and Argentina have agreed to deepen trade and economic cooperation, with focus on lithium, pharmaceuticals, agriculture, energy",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Sun, 30 Aug 2026 03:04:03 GMT",
+          "url": "https://www.sarkaritel.com/india-argentina-trade-lithium-pharma-market-access/"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "Foreign tourists experience Vietnamese traditional medicine - Laodong.vn",
+      "source": "Laodong.vn",
+      "importance": 60,
+      "snippet": "Hanoi, Ho Chi Minh City and 8 tourist destinations weather forecast from now until September 2nd | Northern tourist destinations need to be wary of thunderstorms from the night of August 30 to August ",
+      "url": "https://news.laodong.vn/lao-dong-cuoi-tuan/du-khach-nuoc-ngoai-trai-nghiem-voi-y-hoc-co-truyen-viet-nam-1757028.ldo"
+    },
+    {
+      "title": "สิทธิบัตรที่หมดอายุแล้วกำลังคุกคามรายได้ของอุตสาหกรรมยาในระดับโลกกว่า 500 พันล้านดอลลาร์สหรัฐ - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 53,
+      "snippet": "ติดตาม Vietnam.vn บน | เพิ่ม Vietnam.vn บน | ยา \"ขายดี\" เหล่านี้กำลังจะหมดสิทธิ์ผูกขาดแล้ว | แตกต่างจากธุรกิจหลายแห่งที่สามารถขายผลิตภัณฑ์ที่ประสบความสำเร็จต่อไปได้ตราบใดที่ยังมีอุปสงค์ในตลาด สำหรับยา",
+      "url": "https://www.vietnam.vn/th/het-han-bang-sang-che-de-doa-hon-500-ty-usd-doanh-thu-nganh-duoc-toan-cau"
+    },
+    {
+      "title": "After 40 years, new drug targets deadly pancreatic cancer mutation - newskarnataka.com",
+      "source": "newskarnataka.com",
+      "importance": 47,
+      "snippet": "After decades of research, scientists may finally have a new weapon against one of the deadliest forms of | A medicine targeting a stubborn mutation linked to pancreatic cancer has received approval f",
+      "url": "https://newskarnataka.com/health/after-40-years-new-drug-targets-deadly-pancreatic-cancer-mutation/29082026/"
+    },
+    {
+      "title": "Biotech has more women leaders. Old double standards persist, executive says - Reuters",
+      "source": "Reuters",
+      "importance": 47,
+      "snippet": "By Rodrigo Altaf | Women have become more visible in biotechnology’s senior ranks, but some of the unwritten rules of leadership have proved harder to dislodge, according to Dorian Readnour. | The sam",
+      "url": "https://www.reuters.com/plus/biotech-has-more-women-leaders-old-double-standards-persist-executive-says"
+    },
+    {
+      "title": "Can Africa’s New Strategy Make Medicines Safer and Strengthen Local Drug Production? - Devdiscourse",
+      "source": "Devdiscourse",
+      "importance": 47,
+      "snippet": "Can Africa’s New Strategy Make Medicines Safer and Strengthen Local Drug Production? | Africa’s 2026–2035 strategy aims to strengthen medical product regulation through capable national authorities, d",
+      "url": "https://www.devdiscourse.com/article/health/3968954-can-africas-new-strategy-make-medicines-safer-and-strengthen-local-drug-production"
+    },
+    {
+      "title": "‘Life-changing’ drug for rare illness approved in the Republic, but Fermanagh woman living minutes from border unable to get it on NHS - The Irish News",
+      "source": "The Irish News",
+      "importance": 47,
+      "snippet": "A <a href=\"https://www.irishnews.com/tags/co-fermanagh/\" target=\"_blank\" rel=\"\" title=\"https://www.irishnews.com/tags/co-fermanagh/\">Co Fermanagh</a> woman with a debilitating illness living 10 minute",
+      "url": "https://www.irishnews.com/news/northern-ireland/life-changing-drug-for-rare-illness-approved-in-the-republic-but-fermanagh-woman-living-minutes-from-border-unable-to-get-it-on-nhs-TY6NS4TT6JA3DOS6OOWJV7UFNQ/"
+    },
+    {
+      "title": "PCN Seals 430 Drug Shops In Yobe Over Illegal Operations - LEADERSHIP Newspapers",
+      "source": "LEADERSHIP Newspapers",
+      "importance": 47,
+      "snippet": "The Pharmacy Council of Nigeria (PCN) has sealed 430 pharmaceutical premises in Yobe State over various regulatory breaches, including operating without valid licences and poor storage of drugs. | The",
+      "url": "https://leadership.ng/pcn-seals-430-drug-shops-in-yobe-over-illegal-operations/"
+    },
+    {
+      "title": "새 임차인에 월세 2000만원 불러 약국 권리금 22억 못 받아… 대법 “손해배상할 수도” - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
+      "importance": 45,
+      "snippet": "상가 주인이 새 임차인에게 너무 높은 수준의 월세(차임)와 보증금을 제시해 임대차 계약이 성사되지 않아 기존 임차인이 권리금을 못 받도록 방해했다면 손해를 배상해 줘야 할 수도 있다는 대법원 판단이 나왔다. | 대법원 1부(주심 천대엽 대법관)는 지난달 16일 임대인 A씨와 기존 임차인이자 약사인 B씨의 건물 인도, 손해배상 청구 소송에서 A씨에게 손해배상",
+      "url": "https://biz.chosun.com/topics/law_firm/2026/08/30/R7KJFE67EZFYJCZZEXZD6XV7ZU/"
+    },
+    {
+      "title": "Verlopen patenten bedreigen meer dan 500 miljard dollar aan wereldwijde farmaceutische inkomsten. - Vietnam.vn",
+      "source": "Vietnam.vn",
+      "importance": 45,
+      "snippet": "Volg Vietnam.vn op | Voeg Vietnam.vn toe op | Deze \"succesvolle\" medicijnen staan ​​op het punt hun exclusiviteit te verliezen. | In tegenstelling tot veel bedrijven die een succesvol product kunnen b",
+      "url": "https://www.vietnam.vn/nl/het-han-bang-sang-che-de-doa-hon-500-ty-usd-doanh-thu-nganh-duoc-toan-cau"
+    },
+    {
+      "title": "养生局也来开夜场，“中医夜市”长沙开市 - 华声在线",
+      "source": "华声在线",
+      "importance": 43,
+      "snippet": "三湘都市报·新湖南客户端8月30日讯（全媒体记者 高煜棋 通讯员 王传博 崔涵珺） 8月28日傍晚，长沙万象城东广场药香袅袅，国风乐曲悠悠响起。2026年“百市千县”中医药文化惠民活动长沙站“马王堆之夜·秋燥养生局”国潮科普夜市正式拉开帷幕。剧本闯关、AI辨体质、药膳美食、国风舞蹈……市民和游客穿梭于各个摊位之间，把脉问诊、手作香囊、品鉴养生茶饮，沉浸式感受两千多年马王堆医学文化的鲜活魅力。 | ",
+      "url": "https://m.voc.com.cn/xhn/news/202608/33618405.html"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 9
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 2
+    }
+  ]
+}
