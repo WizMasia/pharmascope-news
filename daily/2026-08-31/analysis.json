@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-31",
+  "total_articles": 378,
+  "language_breakdown": {
+    "korean": 211,
+    "english": 120,
+    "multilingual": 47
+  },
+  "issues": [
+    {
+      "topic": "pharma / drug / FDA",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 19,
+      "avg_importance": 45,
+      "key_articles": [
+        {
+          "title": "US FDA approves Takeda, Protagonist's drug for rare blood cancer - pharma.economictimes.indiatimes.com",
+          "importance": 47,
+          "url": "https://pharma.economictimes.indiatimes.com/news/drug-approvals-and-launches/us-fda-approves-takeda-protagonists-drug-for-rare-blood-cancer/133639600"
+        },
+        {
+          "title": "Fosun Pharma strengthens innovation pipeline as Henlius and global drug portfolio expand - BioSpectrum Asia",
+          "importance": 47,
+          "url": "https://www.biospectrumasia.com/news/34/28285/fosun-pharma-strengthens-innovation-pipeline-as-henlius-and-global-drug-portfolio-expand.html"
+        },
+        {
+          "title": "US FDA Approves First Drug Of Its Kind For Polycythemia Vera: What Is This Rare Blood Disorder? - Health and Me",
+          "importance": 47,
+          "url": "https://www.healthandme.com/health-news/us-fda-approves-first-drug-of-its-kind-for-polycythemia-vera-what-is-this-rare-blood-disorder-article-156015894"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 pharma / drug / FDA 관련 보도가 19건 묶였다. Published On Aug 31, 2026 at 07:35 AM IST | Share on WhatsApp | Share on Linkedin | Share on Telegram | Share on Facebook Fosun Pharma reported rising contributions from innovative drugs in 1H 2026, while Henlius expanded revenue, oncology development and international approvals across its portfolio.    | 요약",
+      "summary_en": "Published On Aug 31, 2026 at 07:35 AM IST | Share on WhatsApp | Share on Linkedin | Share on Telegram | Share on Facebook Fosun Pharma reported rising contributions from innovative drugs in 1H 2026, while Henlius expanded revenue, oncology development and international approvals across its portfolio.    | 요약"
+    },
+    {
+      "topic": "areata / living / upadacitinib",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Upadacitinib Alopecia Areata: Arthritis Drug Restores 100% Hair Growth - Intelligent Living",
+          "importance": 47,
+          "url": "https://www.intelligentliving.co/upadacitinib-alopecia-areata-arthritis-dr/"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 areata / living / upadacitinib 관련 보도가 2건 묶였다. Security Verification | To access this website, please wait while we complete a security check. | I'm not a robot Security Verification | To access this website, please wait while we complete a security check. | I'm not a robot",
+      "summary_en": "Security Verification | To access this website, please wait while we complete a security check. | I'm not a robot Security Verification | To access this website, please wait while we complete a security check. | I'm not a robot"
+    },
+    {
+      "topic": "loss / weight / weight-loss",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "More US employers dropping coverage for weight-loss drugs in 2027 - NewsNation",
+          "importance": 47,
+          "url": "https://www.newsnationnow.com/business/employers-dropping-coverage-weight-loss-drugs-2027/"
+        },
+        {
+          "title": "Beyond sweat and tears: Obesity drugs reshape weight-loss treatment - The Korea Herald",
+          "importance": 47,
+          "url": "https://www.koreaherald.com/article/10857581"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 loss / weight / weight-loss 관련 보도가 2건 묶였다. More US employers dropping coverage for weight-loss drugs in 2027 - NewsNation Doctor’s personal journey makes the case for medication as a primary treatment for severe obesity | Chang Hyoung-woo, a cardiologist at Seoul National University Bundang Hospital, speaks during an interview with The Kore",
+      "summary_en": "More US employers dropping coverage for weight-loss drugs in 2027 - NewsNation Doctor’s personal journey makes the case for medication as a primary treatment for severe obesity | Chang Hyoung-woo, a cardiologist at Seoul National University Bundang Hospital, speaks during an interview with The Kore"
+    },
+    {
+      "topic": "undiscovered / group / asia",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "Consun Pharmaceutical Group And 2 Other Undiscovered Gems In Asia - simplywall.st",
+          "importance": 47,
+          "url": "https://simplywall.st/stocks/hk/pharmaceuticals-biotech/hkg-1681/consun-pharmaceutical-group-shares/news/consun-pharmaceutical-group-and-2-other-undiscovered-gems-in"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 undiscovered / group / asia 관련 보도가 2건 묶였다. Amidst the backdrop of mixed performance in global markets, with smaller-cap benchmarks losing some ground and technology stocks experiencing a rally, investors are increasingly looking toward Asia for promising opportun Amidst the backdrop of mixed performance in global markets, with smaller-cap benchmarks losing some ground and technology stocks experiencing a rally, investors are increasingly looking toward Asia for promising opportun",
+      "summary_en": "Amidst the backdrop of mixed performance in global markets, with smaller-cap benchmarks losing some ground and technology stocks experiencing a rally, investors are increasingly looking toward Asia for promising opportun Amidst the backdrop of mixed performance in global markets, with smaller-cap benchmarks losing some ground and technology stocks experiencing a rally, investors are increasingly looking toward Asia for promising opportun"
+    },
+    {
+      "topic": "limited / pharmaceuticals / dividend",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "Jagsonpal Pharmaceuticals Limited (NSE:JAGSNPHARM) Passed Our Checks, And It's About To Pay A ₹4.00 Dividend - simplywall.st",
+          "importance": 42,
+          "url": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-jagsnpharm/jagsonpal-pharmaceuticals-shares/news/jagsonpal-pharmaceuticals-limited-nsejagsnpharm-passed-our-c"
+        },
+        {
+          "title": "Why You Might Be Interested In Emcure Pharmaceuticals Limited (NSE:EMCURE) For Its Upcoming Dividend - simplywall.st",
+          "importance": 42,
+          "url": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-emcure/emcure-pharmaceuticals-shares/news/why-you-might-be-interested-in-emcure-pharmaceuticals-limite"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 limited / pharmaceuticals / dividend 관련 보도가 2건 묶였다. It looks like | Jagsonpal Pharmaceuticals Limited | NSE:JAGSNPHARM | ) is about to go ex-dividend in the next 3 days. | The ex-dividend date is two business days before a company's record date in most cases, which is the Some investors rely on dividends for growing their wealth, and if you're one of those dividend sleuths, you might be intrigued to know that | Emcure Pharmaceuticals Limited | ) is about to go ex-dividend in just three da",
+      "summary_en": "It looks like | Jagsonpal Pharmaceuticals Limited | NSE:JAGSNPHARM | ) is about to go ex-dividend in the next 3 days. | The ex-dividend date is two business days before a company's record date in most cases, which is the Some investors rely on dividends for growing their wealth, and if you're one of those dividend sleuths, you might be intrigued to know that | Emcure Pharmaceuticals Limited | ) is about to go ex-dividend in just three da"
+    },
+    {
+      "topic": "조선비즈 / chosunbiz",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "‘반지형 혈압계’ 스카이랩스, 유럽 진출…초도 매출 26억 - 조선비즈 - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/31/AQNGCBRTURB2BOUBAIOKD6MLD4/"
+        },
+        {
+          "title": "휴온스랩, 피하주사 전환 플랫폼 강화…항체의약품 11종 조성물 특허 등록 - 조선비즈 - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com/science-chosun/bio/2026/08/31/36AK7MMRS5DYXOIHJOCJ65VQMU/"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 조선비즈 / chosunbiz 관련 보도가 2건 묶였다. 스카이랩스가 반지형 혈압계를 앞세워 유럽 병·의원 시장 공략에 나선다. | 독일 혈압측정 전문기업과 공급계약을 맺고 영국을 시작으로 유럽 시장 진출을 본격화했다. | 다음달 코스닥 상장을 앞두고 해외 사업 성과를 확보했다는 점에서 주목된다. | 스카이랩스는 독일 24시간 활동혈압측정(ABPM) 전문기업 IEM GmbH와 병·의원용 ‘CART 혈압계’의 영국 및 유럽 병·의원 시장 공급계약을 <span name=\"stock\" id=\"stock_084110\">휴온스글로벌(084110)</span>의 자회사 휴온스랩이 자체 개발한 재조합 인간 히알루로니다제 플랫폼을 앞세워 피하주사(SC) 제형 전환 기술의 활용 범위를 넓히고 있다. | 휴온스랩은 최근 ‘하이디퓨즈(HyDIFFUZE)’를 적용한 항체의약품 SC 조성물 11종에 대한 국내 특허 등록을 마치고 국제특허출원(PCT)을 진행",
+      "summary_en": "스카이랩스가 반지형 혈압계를 앞세워 유럽 병·의원 시장 공략에 나선다. | 독일 혈압측정 전문기업과 공급계약을 맺고 영국을 시작으로 유럽 시장 진출을 본격화했다. | 다음달 코스닥 상장을 앞두고 해외 사업 성과를 확보했다는 점에서 주목된다. | 스카이랩스는 독일 24시간 활동혈압측정(ABPM) 전문기업 IEM GmbH와 병·의원용 ‘CART 혈압계’의 영국 및 유럽 병·의원 시장 공급계약을 <span name=\"stock\" id=\"stock_084110\">휴온스글로벌(084110)</span>의 자회사 휴온스랩이 자체 개발한 재조합 인간 히알루로니다제 플랫폼을 앞세워 피하주사(SC) 제형 전환 기술의 활용 범위를 넓히고 있다. | 휴온스랩은 최근 ‘하이디퓨즈(HyDIFFUZE)’를 적용한 항체의약품 SC 조성물 11종에 대한 국내 특허 등록을 마치고 국제특허출원(PCT)을 진행"
+    },
+    {
+      "topic": "ADC / adc",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "Public Growth Fund fuels Korea ADC ecosystem with Kyongbo loan - CHOSUNBIZ - Chosunbiz",
+          "importance": 40,
+          "url": "https://biz.chosun.com/en/en-science/2026/08/31/A5OAIIUU75FA3HXOVBZWK7K7VU/"
+        },
+        {
+          "title": "政府政策金融国民成长基金继抗体药物结合体(ADC)新药开发之后,还将投入资金建设生产基础设施。 继今年6月直接投资ADC新药开发企业LegaChembio2500亿韩元后,此次又向钟根堂控股公司子公司.. - 매일경제",
+          "importance": 40,
+          "url": "https://www.mk.co.kr/cn/it/12140319"
+        }
+      ],
+      "summary_kr": "오늘 수집 기사에서 ADC / adc 관련 보도가 2건 묶였다. The Public Growth Fund will provide a low-interest loan of 20 billion won to <span name=\"stock\" id=\"stock_214390\">Kyongbo Pharmaceutical(214390)</span>, which is pushing to build a dedicated Antibody-Drug Conjugate (ADC) 继LIGA CHEM之后，ADC领域的第二次支援。 | 京宝制药总公司 [照片=钟根堂] | 政府政策金融国民成长基金继抗体药物结合体(ADC)新药开发之后,还将投入资金建设生产基础设施。 | 继今年6月直接投资ADC新药开发企业LegaChembio2500亿韩元后,此次又向钟根堂控股公司子公司京宝制药的ADC专用生产设施建设支援200亿韩元,将投资范围扩大到整个国内ADC产业价值链。 | 据业界31日透露,国民成长基金基金运用委员会",
+      "summary_en": "The Public Growth Fund will provide a low-interest loan of 20 billion won to <span name=\"stock\" id=\"stock_214390\">Kyongbo Pharmaceutical(214390)</span>, which is pushing to build a dedicated Antibody-Drug Conjugate (ADC) 继LIGA CHEM之后，ADC领域的第二次支援。 | 京宝制药总公司 [照片=钟根堂] | 政府政策金融国民成长基金继抗体药物结合体(ADC)新药开发之后,还将投入资金建设生产基础设施。 | 继今年6月直接投资ADC新药开发企业LegaChembio2500亿韩元后,此次又向钟根堂控股公司子公司京宝制药的ADC专用生产设施建设支援200亿韩元,将投资范围扩大到整个国内ADC产业价值链。 | 据业界31日透露,国民成长基金基金运用委员会"
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 12,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 6
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 15,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 4
+    }
+  ],
+  "notable_absences": [
+    "전통의학 한국어 기사 0건",
+    "시간 범위 필터에서 167건 제외됨"
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "신약개발·신약·세계·파이프라인",
+      "FDA·fda·shift·takeda",
+      "thu·ngh·nghi·nam",
+      "lilly·com·biggo·finance",
+      "겨울·국가·예방접종·인플루엔자"
+    ],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-08-31T16:32:05.747254+09:00",
+  "pipeline_note": "분석 준비 데이터 기반 결정적 렌더링; 별도 LLM 서술 단계 없음"
+}
