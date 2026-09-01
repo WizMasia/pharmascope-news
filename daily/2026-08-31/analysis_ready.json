@@ -475,16 +475,16 @@
       "cluster_id": 2,
       "size": 2,
       "keywords": [
-        "areata",
         "living",
-        "upadacitinib",
         "restores",
-        "growth",
-        "drug",
-        "alopecia",
-        "intelligent",
         "arthritis",
-        "hair"
+        "upadacitinib",
+        "intelligent",
+        "areata",
+        "alopecia",
+        "growth",
+        "hair",
+        "drug"
       ],
       "articles": [
         {
@@ -516,8 +516,8 @@
       "size": 2,
       "keywords": [
         "loss",
-        "weight",
         "weight-loss",
+        "weight",
         "drugs"
       ],
       "articles": [
@@ -549,14 +549,14 @@
       "cluster_id": 4,
       "size": 2,
       "keywords": [
-        "undiscovered",
-        "group",
-        "asia",
-        "consun",
-        "gems",
-        "simplywall",
         "other",
-        "pharmaceutical"
+        "consun",
+        "asia",
+        "pharmaceutical",
+        "undiscovered",
+        "gems",
+        "group",
+        "simplywall"
       ],
       "articles": [
         {
@@ -588,10 +588,10 @@
       "size": 2,
       "keywords": [
         "limited",
+        "nse",
         "pharmaceuticals",
-        "dividend",
         "simplywall",
-        "nse"
+        "dividend"
       ],
       "articles": [
         {
@@ -622,8 +622,8 @@
       "cluster_id": 6,
       "size": 2,
       "keywords": [
-        "조선비즈",
-        "chosunbiz"
+        "chosunbiz",
+        "조선비즈"
       ],
       "articles": [
         {
@@ -654,8 +654,8 @@
       "cluster_id": 7,
       "size": 2,
       "keywords": [
-        "ADC",
-        "adc"
+        "adc",
+        "ADC"
       ],
       "articles": [
         {
