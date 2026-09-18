@@ -1,0 +1,532 @@
+{
+  "date": "2026-09-19",
+  "total": 375,
+  "version": 1,
+  "generated_at": "2026-09-19T06:32:17.373334+09:00",
+  "korean": {
+    "total": 164,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 13,
+      "의약단체": 14,
+      "의약관련정부기관": 14,
+      "의료현장": 25,
+      "약국·약사": 1,
+      "의료정책·인력": 21,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환 [건강한겨레]",
+        "source": "한겨레",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:16시간+10 | 키워드+20 | 순위:141위+2",
+        "snippet": "미국 트럼프 행정부가 글로벌 제약사를 상대로 약가 인하와 현지 투자 압박 수위를 한층 더 높이고 있다. 한국보건산업진흥원(KHIDI) 글로벌바이오헬스산업동향에 따르면, 미국 도널드 트럼프 행정부는 지난달 31일 9개 글로벌 ...",
+        "published_time": "16시간",
+        "modified_time": "",
+        "time": "16시간",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"
+      },
+      {
+        "title": "FDA, 임상시험계획 승인 가속 파일럿 프로그램",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:83위+2",
+        "snippet": "FDA가 임상시험계획 승인 가속화(Expedited Investigational New Drug)를 위한 파일럿 프로그램의 최종案을 15일 공개했다.이 파일럿 프로그램은 임상시험 일정이 신속히 진행될 수 있도록 하고, 규제와 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332708"
+      },
+      {
+        "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:1시간+20 | 키워드+20 | 순위:144위+2",
+        "snippet": "[의학신문&#183;일간보사=정광성 기자] 서울성모병원이 전공의 수련교육을 지원하기 위해 임상 술기와 학술연구를 한 공간에서 수행할 수 있는 교육 인프라를 재정비했다. 서울성모병원 (원장 이지열)은 최근 별관 4층에 위치한 ...",
+        "published_time": "1시간",
+        "modified_time": "",
+        "time": "1시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+      },
+      {
+        "title": "전문의가 없어서…”] 안전보건공단 직업환경의학 수련병원 지위 반납",
+        "source": "매일노동뉴스",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일노동뉴스+10 | 최신:1일+10 | 키워드+25 | 순위:146위+2",
+        "snippet": "안전보건공단 산업안전보건연구원이 직업환경의학과 전공의 수련병원 지위를 30여년 만에 내려놓은 것으로 확인됐다. 연구원이 2년째 전공의 수련병원 지정기준인 직업환경의학과 지도전문의 채용에 실패했기 때문이다.16일 국회 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236821"
+      },
+      {
+        "title": "의료분쟁조정법 '중과실 12개' 논란…&quot;명확성 다시 따져야&quot;",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:142위+2",
+        "snippet": "내년 5월 시행을 앞둔 개정 의료분쟁조정법을 두고 의료사고 형사특례에서 제외되는 '중대한 과실'의 범위와 보상체계를 다시 검토해야 한다는 주장이 제기됐다. 중과실 유형을 법률에 구체적으로 열거할 경우 개별 규정의 해석을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417803"
+      },
+      {
+        "title": "국산 1호 CAR-T 치료제, 상업화 급물살…‘K-바이오 육성’ 시금석 [건강한겨레]",
+        "source": "한겨레",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:1일+10 | 키워드+5 | 순위:77위+2",
+        "snippet": "첫 국산 카티(CAR-T&#183;키메릭 항원 수용체-티세포) 치료제가 지난 3일 건강보험심사평가원(심평원) 약제급여평가위원회(약평위) 심의를 통과하며 보건당국의 인허가와 국민건강보험 급여 항목 등재 절차를 빠르게 마무리 짓고 있다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278196.html"
+      },
+      {
+        "title": "후보물질 개발부터 글로벌 진출까지…K-제약바이오 '프론티어기업' 키운다",
+        "source": "아시아경제 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:아시아경제 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:147위+2",
+        "snippet": "정부가 제약&#183;바이오 유망 중소벤처기업을 발굴해 연구개발(R&amp;D)부터 임상, 투자&#183;보증, 사업화, 글로벌 진출까지 성장 단계별로 지원하는 협업 체계를 구축한다. 보건복지부와 중소벤처기업부는 17일 서울 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/money/topstories/%ED%9B%84%EB%B3%B4%EB%AC%BC%EC%A7%88-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C%EA%B9%8C%EC%A7%80-k-%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4%EA%B8%B0%EC%97%85-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA2coBYh?ocid=BingNewsVerp"
+      },
+      {
+        "title": "대한약사회, 국무조정실&#183;중기부 항의 방문…산업 활성화보다 국민안전, 확대보다 시행&#183;검증이 먼저' 권영희 회장&#183;공동비대위원장 ...",
+        "source": "메디컬헤럴드",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:메디컬헤럴드+10 | 최신:1일+10 | 키워드+20 | 순위:83위+2",
+        "snippet": "대한약사회 국민건강권 사수 비상대책위원회는 9월 16일 국무조정실과 중소벤처기업부를 잇달아 항의 방문하고, 비대면진료 제도 시행을 앞두고 제기된 의약품 배송 확대 논의를 즉각 중단할 것을 촉구했다.대한약사회는 비대면진료 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "http://www.mediherald.com/news/articleView.html?idxno=90493"
+      },
+      {
+        "title": "대한의학회, 지도전문의 교육 강화...전공의 ‘평가&#183;피드백’ 집중",
+        "source": "의학신문",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:145위+2",
+        "snippet": "[의학신문&#183;일간보사=김현기 기자] 전공의 수련이 단순한 지식 전달에서 실제 진료 수행을 관찰하고 평가&#183;피드백하는 역량 중심 교육으로 전환됨에 따라 의학계에서는 지도전문의의 교육 역량을 높이기 위한 프로그램이 활발히 운영되는 분위기다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012363"
+      },
+      {
+        "title": "수술방 의사 옆 간호사... &quot;사람이 아니었어&quot; 로봇 솜씨에 감탄",
+        "source": "머니투데이 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:머니투데이 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:147위+2",
+        "snippet": "로봇 2대와 염소 간 담낭 제거 삼성서울병원, 협업시연 성공 음성 명령, 환부 절개 등 수행 &quot;2029년 첫 임상 진입 목표&quot; 지난 16일 오후 서울 삼성생명 일원역빌딩에서 진행된 삼성서울병원 휴머노이드(인간형) 수술보조로봇 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99/%EC%88%98%EC%88%A0%EB%B0%A9-%EC%9D%98%EC%82%AC-%EC%98%86-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%88%EC%96%B4-%EB%A1%9C%EB%B4%87-%EC%86%9C%EC%94%A8%EC%97%90-%EA%B0%90%ED%83%84/ar-AA2cshLx?ocid=BingNewsVerp"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        13
+      ],
+      [
+        "약가",
+        10
+      ],
+      [
+        "허가",
+        4
+      ],
+      [
+        "한약",
+        3
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "원료의약품",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "FDA",
+        2
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "백신",
+        1
+      ],
+      [
+        "특허",
+        1
+      ],
+      [
+        "CDMO",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "한겨레",
+        2
+      ],
+      [
+        "아시아경제 on MSN",
+        2
+      ],
+      [
+        "팜뉴스",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "전자신문",
+        1
+      ],
+      [
+        "후생신보",
+        1
+      ],
+      [
+        "뉴스쉐어",
+        1
+      ],
+      [
+        "비즈워치",
+        1
+      ],
+      [
+        "뉴시스 on MSN",
+        1
+      ],
+      [
+        "프레스나인",
+        1
+      ],
+      [
+        "헬스조선 on MSN",
+        1
+      ],
+      [
+        "로리더",
+        1
+      ],
+      [
+        "메디컬헤럴드",
+        1
+      ],
+      [
+        "MEDI:GATE NEWS",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 124,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 21,
+      "Traditional & Complementary Medicine": 3
+    },
+    "top_articles": [
+      {
+        "title": "Is Dubai emerging as value medical tourism hub for rare-disease care, gene therapy? - Gulf News",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+28 | 최신:Fri, 18 Sep 2026 11:57:44 GMT+5 | 키워드+25 | 순위:290위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlY3NTIza3FKNlp3eHZ2WHFieTd2enBEMDJqWl9hZjk5dl95RW5Ic01RUnNac0xsUVZWS0dEbzlWX1VYS0sxbGt4M2Jhd0hMTGJRUklWdTZOcHRnNTdqcTN2dnJYQW9naUZUcVViRV",
+        "published_time": "Fri, 18 Sep 2026 11:57:44 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 11:57:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlY3NTIza3FKNlp3eHZ2WHFieTd2enBEMDJqWl9hZjk5dl95RW5Ic01RUnNac0xsUVZWS0dEbzlWX1VYS0sxbGt4M2Jhd0hMTGJRUklWdTZOcHRnNTdqcTN2dnJYQW9naUZUcVViRVNlOGR2NU9fbVR0SHdodEZfb0VHdVZGekNhazN6VFhkdE5MNWNJOVIxQzJmdWExU244MjZyQnIxcG1hYjRlMnpKcFdGc2pZTzBoM3g1bkV4cXJvOFowV0tfWndJNkFKYXhD0gHjAUFVX3lxTE1XZXA5TVVIYzU2U0RmUTdMQV9LVFdrd3pIcjZZemVDektVQUVrRGZWTzZTOFFUeVcwU203akVDcDdndV9Pb0lQSUJkNG5jTnd3Wkl6Nnl2ajZhbFlLbUY5X3p3WDZfM3BPaHRCM1lwZUJHekhaNzRtZW1LelBFbUFwTnhxQWFzSGxoS3lfcVJKa3QwaGlrd0NId3FkcWxnYktlZWpzVnVUdDEtTVpueVJVY0pPcERteGR4dk0xTDgxYUNUSXhVc2pLSGtwVTZtRmJ0b2o3WmxFY3VCWXpNZEFSU3Vj?oc=5"
+      },
+      {
+        "title": "Elite Asia Group Unveils New Integrative Wellness Approach Combining Traditional Chinese Medicine and AI Technology - The Manila Times",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 18:30:06 GMT+5 | 키워드+30 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPbFJtLUl4b2VFMGlQSEdaVlhSbk5GR09OTDNBZ3cxcGJVNWVZMU4tQ3NQTjV6ZXFsZTltZ1o5WFdOa0xrVDRWM0ppb0stRXYwU3V2cGZSQ1lfWkFoeE1tVjJVeTYyTDdwOGwwdkNLbl",
+        "published_time": "Fri, 18 Sep 2026 18:30:06 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 18:30:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbFJtLUl4b2VFMGlQSEdaVlhSbk5GR09OTDNBZ3cxcGJVNWVZMU4tQ3NQTjV6ZXFsZTltZ1o5WFdOa0xrVDRWM0ppb0stRXYwU3V2cGZSQ1lfWkFoeE1tVjJVeTYyTDdwOGwwdkNLbldwZGhYOVVZNTIydzVVejBtVVZxUllQUHRWVDNqUV9ielBzV01xbV9ISUxlSnNaXzR3bjI0UzRyZVpkWjcxQlQtNWdNR1h6akFYWWZBZDdNSklhMVdSa3htN1RYSWhrWmY3Zi1RM0dMUnZFRGk5dkxOZjVKclNkY2UxQTJwNU95SjZRVG00bDZfVWdLX3BGVGpxX0dsNjdtaUJfVHZRa1lmRjM5UktHaEJP0gGeAkFVX3lxTFBDNXlyWmFXaWhFSmJTbHh1Q21HaTNIc1J0ZVRjWE1BbTh4d1RNSWVkUjM2TXZsWXVjQmdBMXp1LV9IRFhsUnFCMDViZXVKTFNPbkYxUng2ZDlMSy1rWEdWeEZGUVpZNktseC1oc19kOXJaUF9OMW4zOWtHUnBBTlJOdzdIemdDLWJLeVc5S0tOMG5aRjNtbTRoNEhfVWZNbkNWSTlrZFE5dS1lV2pseGtvSHZUcWNhWjdFbUlqT3hWdlpxTnAzNlhRZDlXVUw2dk94emVCckVhMVd0ZDJVUkhYSTNKZmJmUFVBMFpMU29EOWZLVVlFQmZqTkJhdlQ5aEdZczBkOVhfa0ZfZC15NnpkUThwajVPVXUxY1RXb1E?oc=5"
+      },
+      {
+        "title": "First drug to treat Alexander disease approved by the FDA after three decades of research at UW–Madison - UW–Madison News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 17:55:04 GMT+5 | 키워드+30 | 순위:239위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2dTWmc4UkZhMDYwdGdmSS0yY0ctTEZkOEpsbkt0OGNQNmctZGpWQTB6N1d4U2dLam1UTjNUaGpZWGxFT2ltTGM3bXhZVGtNYTVCbmpYcmYtU0swVGtObHBEX3VsT1VadXNRUHRIUU",
+        "published_time": "Fri, 18 Sep 2026 17:55:04 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 17:55:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2dTWmc4UkZhMDYwdGdmSS0yY0ctTEZkOEpsbkt0OGNQNmctZGpWQTB6N1d4U2dLam1UTjNUaGpZWGxFT2ltTGM3bXhZVGtNYTVCbmpYcmYtU0swVGtObHBEX3VsT1VadXNRUHRIUUlraXpKbTN6c3JPZGtIUmJsd2NTRlFXU2Z0NnZEVVl5V2pPclN1Y2NueHVQdnptM0JBcHJJTm5VbWFSdWZnWjFMeU9FbTlsNzhFSXA0dVdVVGFFLVgy?oc=5"
+      },
+      {
+        "title": "Pharmalittle: We're reading about licensing deals with China, making drugs in space, and more - STAT",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 13:33:36 GMT+5 | 키워드+30 | 순위:240위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDdCaHZ5WGVZc01rLW5oZ1JPMDJhNTBQM1JhamNtRnVERjRnTnRqUF9HUTVFTl9paC1meFQ1R0pKb1BuLWhuUmhXamhJQjI3SWxRVlB5LUZERHpvTVN4VllRbkpTdDl6UVNReFI5MU",
+        "published_time": "Fri, 18 Sep 2026 13:33:36 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 13:33:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDdCaHZ5WGVZc01rLW5oZ1JPMDJhNTBQM1JhamNtRnVERjRnTnRqUF9HUTVFTl9paC1meFQ1R0pKb1BuLWhuUmhXamhJQjI3SWxRVlB5LUZERHpvTVN4VllRbkpTdDl6UVNReFI5MUxRTE5iQWJRRm95OGl1SGdHbUlmU0E5QzZ6bkl1R0cwZnBsUnJRZFJnbkxnaUZqcWxiLUE?oc=5"
+      },
+      {
+        "title": "Ultragenyx Gene Therapy Is First Approved Treatment for Rare Neuro Disease Sanfilippo - MedCity News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 19:38:48 GMT+5 | 키워드+30 | 순위:241위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMElNTjhlMWRTS3NESVdTcDBUVHQ3MEg3ZGNCMl9PdlYtNExDaTJuSzFMOFVaTTI5Yi1Kem5iTTk1S21tWnd0WUhiZ2UwZGdzbVZ0NnlTc2Q2M1I5NWtCSGV0Vk5VeG1hcEZOSUlkXz",
+        "published_time": "Fri, 18 Sep 2026 19:38:48 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 19:38:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMElNTjhlMWRTS3NESVdTcDBUVHQ3MEg3ZGNCMl9PdlYtNExDaTJuSzFMOFVaTTI5Yi1Kem5iTTk1S21tWnd0WUhiZ2UwZGdzbVZ0NnlTc2Q2M1I5NWtCSGV0Vk5VeG1hcEZOSUlkXzVMa25wQlJCR1duTTItbE84U1p0SzhTRmRHZnRhaFNEMzl4Si1NRG9XOEExZUdKSHl2SGpEOF9nSGFXald1NjNINUNJNGU0dFFsQmJMcFYzNG1raVE?oc=5"
+      },
+      {
+        "title": "Zealand Pharma's short bowel syndrome drug wins backing from EU panel - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 12:27:43 GMT+5 | 키워드+30 | 순위:243위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2dHT3Exb3FWQzRzWjhPZUppSmw4a3d0aUtzenFEbGRGak5ZakdwaHdGY1VFZUUwMHp0dlJzd2RiTkdlSkozdHo4QzZTQnBWN2EtLXFQa2haT0dJcmkyUGhxajkwT3ZlaFVsVW9ZZG",
+        "published_time": "Fri, 18 Sep 2026 12:27:43 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 12:27:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2dHT3Exb3FWQzRzWjhPZUppSmw4a3d0aUtzenFEbGRGak5ZakdwaHdGY1VFZUUwMHp0dlJzd2RiTkdlSkozdHo4QzZTQnBWN2EtLXFQa2haT0dJcmkyUGhxajkwT3ZlaFVsVW9ZZGw2OFk2Q05YR011Qmdxc081UHlsUzBLZXF2M1RzZDJDbmo0U2VNT2NTN3ByUjQ3cGlqbloyLTZ3Y0JnNVlZZDZaZUpzZHVrNUgtUGNPNzJ0Tzg4TTJSYWVVZDZ1NjhiOWI0?oc=5"
+      },
+      {
+        "title": "Phase III results could broaden opportunity for Cullinan’s lead cancer drug - The Pharma Letter",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 11:44:40 GMT+5 | 키워드+30 | 순위:245위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU5ULTFzN05Mdkl1OE5sRDVRMFRMVEU1VUwzYXhYOEY1T0hRRm5PQnN2VFk3aGIwZ1kxQkxCbW44OGxhdXg2cWRwRTNHc0gxQUthb2N5Y3NMQU82SW92aXBUc2ZGSzd4UkN3UVhONz",
+        "published_time": "Fri, 18 Sep 2026 11:44:40 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 11:44:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU5ULTFzN05Mdkl1OE5sRDVRMFRMVEU1VUwzYXhYOEY1T0hRRm5PQnN2VFk3aGIwZ1kxQkxCbW44OGxhdXg2cWRwRTNHc0gxQUthb2N5Y3NMQU82SW92aXBUc2ZGSzd4UkN3UVhONzVFQXdHOVItR2NUd18zeXlVUHNyenFjSlVScFZfNUNrNFhoU09WR0Rud0VnN3VyZ01JM1J0cHhUdW42aG1lZjhORGdvSUNjamplQ2VV?oc=5"
+      },
+      {
+        "title": "Zealand Pharma nears EU approval of short bowel drug – US still lags behind - medwatch.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 12:20:00 GMT+5 | 키워드+30 | 순위:248위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9SbTZpRFAyb3ZCWTE3cV9xcFg3Vk56WURLRnNrc2dacmRYVVUzOE1pSGdreVE2RWp0RFFDeWJTcTlJNU81SlRyS0hPS2VfN2NOamRJYXVKcTRsYTJhNENIUkRHYlJXVkdqd3V0VHA1WQ",
+        "published_time": "Fri, 18 Sep 2026 12:20:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 12:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SbTZpRFAyb3ZCWTE3cV9xcFg3Vk56WURLRnNrc2dacmRYVVUzOE1pSGdreVE2RWp0RFFDeWJTcTlJNU81SlRyS0hPS2VfN2NOamRJYXVKcTRsYTJhNENIUkRHYlJXVkdqd3V0VHA1WQ?oc=5"
+      },
+      {
+        "title": "Your Questions Answered: AI Drug Discovery, Portfolio Simplification, and a 30-Year First - Pharmaceutical Executive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 15:18:57 GMT+5 | 키워드+30 | 순위:254위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZmN09yaE9YRXFiQnNrZjdJSGYtc0wtZ19YNFliQ3hVREhic3BUQ1I1TjB6VzV6S0lLbXM0R0pTUzFJd19yMzNfc21panQya1RsR3N6cG5QMmdVczBLTVhOS1czNEExS2RfVHRTMX",
+        "published_time": "Fri, 18 Sep 2026 15:18:57 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 15:18:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZmN09yaE9YRXFiQnNrZjdJSGYtc0wtZ19YNFliQ3hVREhic3BUQ1I1TjB6VzV6S0lLbXM0R0pTUzFJd19yMzNfc21panQya1RsR3N6cG5QMmdVczBLTVhOS1czNEExS2RfVHRTMXNOZEdBdkZpbjBscGQ5cWJBTW9oamZUY2w4U3RiUFI4RHF4THEzek02SlNuak1pZGlvcC1kOUZoS3FERHI3cE1vMw?oc=5"
+      },
+      {
+        "title": "DifGen Pharmaceuticals receives FDA nod for generic adrenalin injection - Drug Store News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 14:15:38 GMT+5 | 키워드+30 | 순위:261위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNazJNQ3lTZWdOdlNXOFJEYnA3aWZ3SmlYRktkbGc2OTdFMTg1V0JJemktcVV6ZGZ6VWpMUzR2U24ycExpLVRSRGluZnpRdjJJTTV1LV9DR2hrNzdTX2F4WlhCcjdTbEpTTXAtZmREWS",
+        "published_time": "Fri, 18 Sep 2026 14:15:38 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 14:15:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNazJNQ3lTZWdOdlNXOFJEYnA3aWZ3SmlYRktkbGc2OTdFMTg1V0JJemktcVV6ZGZ6VWpMUzR2U24ycExpLVRSRGluZnpRdjJJTTV1LV9DR2hrNzdTX2F4WlhCcjdTbEpTTXAtZmREWS0tUFhfUk9HaTNSckdHenpvVzBmOGY3UEZXZVBqaXdsZEVPQnNkRnE1OQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        13
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "generic",
+        3
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "recall",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 87,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 8,
+      "Chinese Traditional / 대만": 8,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 6,
+      "Hindi / 힌디어": 6,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Kien Giang Geleneksel Tıp Hastanesi: Doğu ve Batı tıbbını birleştirerek halk için sağlık hizmetlerinin etkinliğini artırıyor. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 13:50:18 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXZ1SkhBcnV2TTlPX093a2tvd3hFdV9aTHVQbHBrWmcyajVWeGFUbmt0QWpaNU83OXhrQl9zTk81bmw1M3lLV3YyZHV1ODZxU1BWeWp2TjBfcnJ0dG15TUNQNDZVa2lQZ2VKT1hOd2",
+        "published_time": "Fri, 18 Sep 2026 13:50:18 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 13:50:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXZ1SkhBcnV2TTlPX093a2tvd3hFdV9aTHVQbHBrWmcyajVWeGFUbmt0QWpaNU83OXhrQl9zTk81bmw1M3lLV3YyZHV1ODZxU1BWeWp2TjBfcnJ0dG15TUNQNDZVa2lQZ2VKT1hOd29TcVNPbkFvSHRXckptNFRBdmZHYmpCNkY0ajBUSEM4a0x0TExpdUlzaHFtdm1OaWNHcW5fSDd5LVZEeXZWOWtYaHV0Q25IZW5uRktIckYxS3loeXMyUlE?oc=5"
+      },
+      {
+        "title": "טראמפ מוריד את מחירי התרופות - איך זה ישפיע על טבע? - ביזפורטל",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 18:03:00 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1aVDZWNEFSMUtjT3h0SjllOU1mY2xLSXF0MGUtSXVvcDBKa18tc2ZMSXJqRnVXSDZicTJQNHczQ29OTHNFSWJCeXREbndjTENGNmw3S1p3b2FVMUlYLThKUy1ibS1ZdHVfRktXZUVMTF",
+        "published_time": "Fri, 18 Sep 2026 18:03:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 18:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aVDZWNEFSMUtjT3h0SjllOU1mY2xLSXF0MGUtSXVvcDBKa18tc2ZMSXJqRnVXSDZicTJQNHczQ29OTHNFSWJCeXREbndjTENGNmw3S1p3b2FVMUlYLThKUy1ibS1ZdHVfRktXZUVMTFA?oc=5"
+      },
+      {
+        "title": "美國考慮允許美製藥企業與中國公司達成多數醫藥許可交易 兩種情況除外 - RFI",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 11:50:28 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7ANBVV95cUxQSG1VSFIxMFRCMVBxLUduVm5oV3R3dFZiNnV5WTlOUk1Jd3B5US0wRWNOYmpSSFpycWlUMHRwdUpteEtBbFl3STJMS1FZcWZJbDdteXVaUDJDbHRLVWM5X0o2eGM1dFJiLVhCUmtXY2",
+        "published_time": "Fri, 18 Sep 2026 11:50:28 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 11:50:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQSG1VSFIxMFRCMVBxLUduVm5oV3R3dFZiNnV5WTlOUk1Jd3B5US0wRWNOYmpSSFpycWlUMHRwdUpteEtBbFl3STJMS1FZcWZJbDdteXVaUDJDbHRLVWM5X0o2eGM1dFJiLVhCUmtXY25JS3RzaEdWZWFuekVQQW5iQzk0U015aDVNNXJZclFtbVNBNDZ3dEFWb3hEWlZ0b291SnctX1BXLXUtb0ZOTXFzcklQQm5sTElNV3UzTmFmLUFHcnVrME00aVVWU29faE1xU3FFWTVhMHlMMFJEOE5zVFVVVi0xYUVoVHNYZVI5alozUDNYZGNIWDlGM1hMMDM3RHJTWGdhWkN5MGtBYThOcm9HOXpxLVFmTUw0X05vUVppb3ZUMXZVb2VWY3JmVVp6bm5TdFk0ejR6TUlOMjFsMWZTamtSWFlZSGhtdVpSSXVFd29ORDIwaE5tRGsxQk5SR3ZtdndjbU1TZzBCMG1zUEtmU0xiWjdCZWZPd2NzNk1WWlJ0ajZ2UjlxZ19BTXJZazVtWjIwZzVSLVVXWnlUZVZoSW1ibnZ4bTFGRGtGZVhmUlBSTVNZNEU3d3ZaWVl5MlN6UkR5aUtTOHpFWE9ud0N5d2xrT1h2ZFAyNHp1WEJRU2JMYm5XLUl1clM?oc=5"
+      },
+      {
+        "title": "陸十部門釋政策利多力挺創新藥產業 A股相關族群大爆發瑞康醫藥強勢漲停 - Yahoo 財經",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 07:00:11 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQk5Qa2F2UmpzakZETWQwZHdJeFdMZXNZejBpVE5TNWNJQ0JaY3R3ckY3ZHdxYmhqMDNZVE95VTIyYW4wVko1ZHo1bDhGVGpZVHZjOUljR2YyZDlMOE9yWkttcG1pRzFnVVRadFVQNG",
+        "published_time": "Fri, 18 Sep 2026 07:00:11 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 07:00:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQk5Qa2F2UmpzakZETWQwZHdJeFdMZXNZejBpVE5TNWNJQ0JaY3R3ckY3ZHdxYmhqMDNZVE95VTIyYW4wVko1ZHo1bDhGVGpZVHZjOUljR2YyZDlMOE9yWkttcG1pRzFnVVRadFVQNG9ZVTdrUXlLNXFwMnpmcVhmZWY5OVE1TnN1T2g3Nk55VTYwNlBHLVcxVzhUV0RCWm82M1A2a0hha3pGcWdDbmYzQXFuRFNzU29OckxwTUhTRFY3bjdiOThNa1NMMnU0ZE5vWlNUNElhUENHOXlFa04tVzRYS1ZxQzhaWWRzQ2J5Y0lnd19wcE5tY0VyU3FMNTc3VzhmUkE5STF5aUNKUWE2OUtZOTFjOGg1ckxvbjU0UG9CM3F1aGpBRUVsUE1oc3NMc3plaXhSU25hbGF5eTVlSnMzZzFKa29IT05mZnFLMzcwWktEeDlNb2t0NlpJWlpZNHlIbE41OEkwcTdielJKQXNMUFlvRGlTa1p1aUVRM0tORDhNRHNVekx1VmR5SU91X1VibDlROGpTVDdWYkpRd25vX2wtWGtxRVp3RUJpNkJuRE5KcEh4cHdxZEN5TGZ4T0xRNVR0ZzBudWZkYm03VDdwRFlJQ09HVHV4WGNKWEI?oc=5"
+      },
+      {
+        "title": "Meningkatkan kualitas produk farmasi Vietnam: Dari \"Buatan Vietnam\" ke standar internasional. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 18 Sep 2026 15:36:28 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVd4SnBId2xWWE5HYWxjTjY0YUZNR0VKR0QybDVxblpzMEgtMGdpeFFUNE9aUElYNlFMdmkxRFFCaEE4MGRWWUQ0amtjUFZJT0doMDV3QXRHNlJPZV9meDNic0FocXFwb3ljOVZsTn",
+        "published_time": "Fri, 18 Sep 2026 15:36:28 GMT",
+        "modified_time": "",
+        "time": "Fri, 18 Sep 2026 15:36:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVd4SnBId2xWWE5HYWxjTjY0YUZNR0VKR0QybDVxblpzMEgtMGdpeFFUNE9aUElYNlFMdmkxRFFCaEE4MGRWWUQ0amtjUFZJT0doMDV3QXRHNlJPZV9meDNic0FocXFwb3ljOVZsTnpRSHUzeHZnUW9jU0dpTWktM21hWHUtR0haZHJ0Nm55bw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

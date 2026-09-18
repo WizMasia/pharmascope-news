@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-19",
+  "total_articles": 375,
+  "language_breakdown": {
+    "korean": 164,
+    "english": 124,
+    "multilingual": 87
+  },
+  "issues": [
+    {
+      "topic": "서울성모병원 전공의 교육 인프라 재정비",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
+          "importance": 52,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+        }
+      ],
+      "summary_kr": "서울성모병원이 임상 술기와 학술연구를 한 공간에서 수행할 수 있도록 전공의 교육 인프라를 재정비했다. 수련의 질 관리와 병원 내 교육자원 통합이 의료인력 정책의 실행 기반으로 작동할 수 있다.",
+      "summary_en": "Seoul St. Mary's Hospital reorganized infrastructure for resident training, combining clinical skills practice and academic research. Integrated training resources may strengthen the operational foundation for improving residency quality."
+    }
+  ],
+  "cross_language_issues": [],
+  "notable_absences": [
+    "시간 필터 통과 기사는 2건뿐이며, 분석 가능한 직접 URL 기사는 1건이다.",
+    "영어 기사 1건은 Google News CBM 중간 URL로 남아 직접 URL 검증을 완료하지 못했다.",
+    "클러스터링 결과 유효 클러스터는 0개였다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-09-19T07:31:10+09:00"
+}

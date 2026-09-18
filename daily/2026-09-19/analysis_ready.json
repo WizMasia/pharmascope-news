@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-19",
+  "total_articles": 375,
+  "language_breakdown": {
+    "korean": {
+      "total": 164,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 13,
+        "의약단체": 14,
+        "의약관련정부기관": 14,
+        "의료현장": 25,
+        "약국·약사": 1,
+        "의료정책·인력": 21,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 124,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 21,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 87,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 8,
+        "Chinese Traditional / 대만": 8,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 6,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 13
+    },
+    {
+      "keyword": "약가",
+      "count": 10
+    },
+    {
+      "keyword": "허가",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "원료의약품",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "FDA",
+      "count": 2
+    },
+    {
+      "keyword": "식약처",
+      "count": 2
+    },
+    {
+      "keyword": "공급망",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    },
+    {
+      "keyword": "특허",
+      "count": 1
+    },
+    {
+      "keyword": "CDMO",
+      "count": 1
+    },
+    {
+      "keyword": "R&D",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 13
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "generic",
+      "count": 3
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "한겨레",
+      "count": 2
+    },
+    {
+      "source": "아시아경제 on MSN",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스",
+      "count": 1
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 1
+    },
+    {
+      "source": "전자신문",
+      "count": 1
+    },
+    {
+      "source": "후생신보",
+      "count": 1
+    },
+    {
+      "source": "뉴스쉐어",
+      "count": 1
+    },
+    {
+      "source": "비즈워치",
+      "count": 1
+    },
+    {
+      "source": "뉴시스 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
+      "source": "의학신문",
+      "importance": 52,
+      "snippet": "[의학신문&#183;일간보사=정광성 기자] 서울성모병원이 전공의 수련교육을 지원하기 위해 임상 술기와 학술연구를 한 공간에서 수행할 수 있는 교육 인프라를 재정비했다. 서울성모병원 (원장 이지열)은 최근 별관 4층에 위치한 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+    },
+    {
+      "title": "Your 2027 Plan Can Add Prior Authorization to a Drug You've Taken for Years. In the New Formulary, That Change Is Two Letters: \"PA.\" - 24/7 Wall St.",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNelhvaGkyT2k0WDB0QWJmRTZmRnpULXNqVGhPSTFxQ0RiUkMxTVlMZHJFckZhM0NpUXo2QV9KaU03cG1VRFlOOHctb2FHX0xEeDJTQkxOM2Y2WEFfS0hMczk4QkNyVHdmVmx5NnhQWl",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNelhvaGkyT2k0WDB0QWJmRTZmRnpULXNqVGhPSTFxQ0RiUkMxTVlMZHJFckZhM0NpUXo2QV9KaU03cG1VRFlOOHctb2FHX0xEeDJTQkxOM2Y2WEFfS0hMczk4QkNyVHdmVmx5NnhQWlVjR29UVlQ1bXg3ZHpnWC1NTzFRSjVMX1ItbWxUZXVYYkhlcHdlRHcxMXRPeFg0NGdfREp5WTh4ZUNMeEF1aExxcW5pZ0RWOF94MWRwalV0NW1kVnNaSC1DcHJfYm83Y2NCdzh5b0Raek8ybVRkZldLR0NxN095aENjTzVmUGtpZHoxcWcwdDlrMFdTMkl6Q2szX3dHTDk1Yw?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 2
+    }
+  ]
+}
