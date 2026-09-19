@@ -8,32 +8,112 @@
   },
   "issues": [
     {
-      "topic": "서울성모병원 전공의 교육 인프라 재정비",
-      "domain": "clinical",
+      "topic": "정부의 K-제약바이오 프론티어기업 전주기 육성",
+      "domain": "industry",
       "significance": "medium",
-      "article_count": 1,
-      "avg_importance": 52,
+      "article_count": 5,
+      "avg_importance": 34,
       "key_articles": [
         {
-          "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
-          "importance": 52,
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+          "title": "후보물질 개발부터 글로벌 진출까지…K-제약바이오 '프론티어기업' 키운다",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/money/topstories/%ED%9B%84%EB%B3%B4%EB%AC%BC%EC%A7%88-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C%EA%B9%8C%EC%A7%80-k-%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4%EA%B8%B0%EC%97%85-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA2coBYh?ocid=BingNewsVerp"
         }
       ],
-      "summary_kr": "서울성모병원이 임상 술기와 학술연구를 한 공간에서 수행할 수 있도록 전공의 교육 인프라를 재정비했다. 수련의 질 관리와 병원 내 교육자원 통합이 의료인력 정책의 실행 기반으로 작동할 수 있다.",
-      "summary_en": "Seoul St. Mary's Hospital reorganized infrastructure for resident training, combining clinical skills practice and academic research. Integrated training resources may strengthen the operational foundation for improving residency quality."
+      "summary_kr": "보건복지부와 중소벤처기업부가 후보물질 개발부터 임상·사업화·글로벌 진출까지 연결하는 지원체계를 구축하고 연 50개 유망기업을 맞춤 지원한다.",
+      "summary_en": "Korea's health and SME ministries are building a full-cycle support system for promising pharma-biotech ventures, from discovery and clinical development through commercialization and global expansion."
+    },
+    {
+      "topic": "의료분쟁조정법 12대 중과실의 법적 명확성 논란",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 4,
+      "avg_importance": 36,
+      "key_articles": [
+        {
+          "title": "의료분쟁조정법 '중과실 12개' 논란…\"명확성 다시 따져야\"",
+          "importance": 46,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417803"
+        }
+      ],
+      "summary_kr": "내년 5월 시행을 앞둔 개정 의료분쟁조정법의 중대한 과실 열거 방식이 의료현장과 법조계에서 예측가능성과 시스템 요인 반영 측면의 재검토 대상으로 떠올랐다.",
+      "summary_en": "Ahead of implementation next May, clinicians and legal experts are questioning whether listing 12 forms of gross negligence provides sufficient predictability and accounts for systemic factors in medical incidents."
+    },
+    {
+      "topic": "사용량 연동 약가 인하와 글로벌 약가 압박",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 41,
+      "key_articles": [
+        {
+          "title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환",
+          "importance": 60,
+          "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"
+        }
+      ],
+      "summary_kr": "국내에서는 사용량이 늘어난 80개 의약품의 약가가 평균 4.6% 인하돼 건보재정 339억 원 절감이 예상되고, 미국에서는 관세와 현지투자를 둘러싼 글로벌 약가 인하 압박이 커지고 있다.",
+      "summary_en": "Korea expects 339 billion won in health-insurance savings after average 4.6% cuts for 80 high-use medicines, while global manufacturers face growing US pressure linking tariffs, local investment and prices."
+    },
+    {
+      "topic": "휴머노이드 수술보조로봇의 임상 진입 준비",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "수술방 의사 옆 간호사... 사람이 아니었어 로봇 솜씨에 감탄",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99/%EC%88%98%EC%88%A0%EB%B0%A9-%EC%9D%98%EC%82%AC-%EC%98%86-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%88%EC%어 로봇 솜씨에 감탄/ar-AA2cshLx?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "삼성서울병원이 휴머노이드 로봇 2대와 수술 협업을 시연했으며 2029년 첫 임상 진입을 목표로 해 수술보조 자동화의 규제·안전성 검토가 뒤따를 전망이다.",
+      "summary_en": "Samsung Seoul Hospital demonstrated two humanoid robots assisting surgery and is targeting a first clinical entry in 2029, bringing regulatory and safety validation requirements into focus."
     }
   ],
-  "cross_language_issues": [],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 4,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 10,
+      "en_count": 2,
+      "significance": "high"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 1,
+      "significance": "medium"
+    },
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "low"
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 1,
+      "significance": "low"
+    }
+  ],
   "notable_absences": [
-    "시간 필터 통과 기사는 2건뿐이며, 분석 가능한 직접 URL 기사는 1건이다.",
-    "영어 기사 1건은 Google News CBM 중간 URL로 남아 직접 URL 검증을 완료하지 못했다.",
-    "클러스터링 결과 유효 클러스터는 0개였다."
+    "직접 URL 검증이 완료된 기사 중심의 분석이며 일부 원문은 메타 시간 검증 제한으로 제외됨.",
+    "중국어 간체 등 저빈도 언어는 수집량이 제한적임."
   ],
   "trend_shift": {
     "from_yesterday": [],
     "changes": []
   },
-  "connections": [],
-  "generated_at": "2026-09-19T07:31:10+09:00"
+  "connections": [
+    "정부의 전주기 기업지원과 약가 절감 정책은 산업 육성과 재정 지속가능성 사이의 균형 과제를 공유한다."
+  ],
+  "generated_at": "2026-09-20T07:33:00+09:00"
 }

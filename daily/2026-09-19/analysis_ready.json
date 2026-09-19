@@ -202,14 +202,229 @@
   ],
   "top_en_sources": [],
   "yesterday_issues": [],
-  "clusters": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "제약바이오",
+        "프론티어기업",
+        "k-제약바이오",
+        "중기부",
+        "복지부",
+        "키운다",
+        "육성"
+      ],
+      "articles": [
+        {
+          "title": "후보물질 개발부터 글로벌 진출까지…K-제약바이오 '프론티어기업' 키운다",
+          "source": "아시아경제 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "정부가 제약&#183;바이오 유망 중소벤처기업을 발굴해 연구개발(R&amp;D)부터 임상, 투자&#183;보증, 사업화, 글로벌 진출까지 성장 단계별로 지원하는 협업 체계를 구축한다. 보건복지부와 중소벤처기업부는 17일 서울 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/money/topstories/%ED%9B%84%EB%B3%B4%EB%AC%BC%EC%A7%88-%EA%B0%9C%EB%B0%9C%EB%B6%80%ED%84%B0-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%A7%84%EC%B6%9C%EA%B9%8C%EC%A7%80-k-%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4%EA%B8%B0%EC%97%85-%ED%82%A4%EC%9A%B4%EB%8B%A4/ar-AA2coBYh?ocid=BingNewsVerp"
+        },
+        {
+          "title": "政, K-제약바이오 프론티어기업 육성",
+          "source": "메디칼업저버",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "특히 단일 R&amp;D 과제 지원을 넘어 기술개발, 임상&#183;실증, 사업화, 투자&#183;보증, 글로벌 진출로 이어지는 기업의 성장 경로를 고려해 양 부처간 정책수단을 유기적으로 연계하는 K-제약바이오 프론티어기업 육성방안을 구체화할 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=413982"
+        },
+        {
+          "title": "복지부&#183;중기부, 제약바이오 유망 중소벤처 지원 힘 합친다…연 50곳 맞춤 지원",
+          "source": "전자신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "보건복지부와 중소벤처기업부가 신약개발, 디지털헬스&#183;의료기기, 바이오소재&#183;생산기술 분야 유망 중소벤처기업을 매년 50개씩 선정해 성장단계별로 지원한다. 기술개발부터 임상&#183;사업화, 투자와 글로벌 진출까지 부처별 지원사업을 기업 수요에 맞춰 연계한다. 복지부와 중기부는 17일 서울 강남구 루닛 본사에서 제약바이오 중소벤처기업 대표들과 ",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.etnews.com/20260917000388"
+        },
+        {
+          "title": "복지부&#183;중기부, K-제약바이오 프론티어기업 키운다",
+          "source": "후생신보",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "【후생신보】&#160;정부가 제약바이오 분야 유망 중소벤처기업을 발굴해 후보물질 개발부터 임상시험, 사업화와 글로벌 시장 진출까지 전주기에 걸쳐 지원하는 성장지원체계 구축에 나선다. 보건복지부와 중소벤처기업부는 17일 루닛에서 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.whosaeng.com/173798"
+        },
+        {
+          "title": "복지부‧중기부, 각 부처 강점 활용해 K-제약바이오 프론티어기업 기업 육성",
+          "source": "뉴스쉐어",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[뉴스쉐어=이두호 기자] 보건복지부와 중소벤처기업부는 9월 17일 루닛(대표이사 서범석)에서 제약바이오 중소벤처기업과 현장 간담회를 개최했다고 밝혔다. 이번 간담회는 급변하는 세계(글로벌) 제약바이오 시장에 대응하고 미래 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.newsshare.co.kr/2008033"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "의료분쟁조정법",
+        "quot",
+        "중과실",
+        "다시",
+        "논란",
+        "어렵다"
+      ],
+      "articles": [
+        {
+          "title": "의료분쟁조정법 '중과실 12개' 논란…&quot;명확성 다시 따져야&quot;",
+          "source": "메디파나 뉴스",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "내년 5월 시행을 앞둔 개정 의료분쟁조정법을 두고 의료사고 형사특례에서 제외되는 '중대한 과실'의 범위와 보상체계를 다시 검토해야 한다는 주장이 제기됐다. 중과실 유형을 법률에 구체적으로 열거할 경우 개별 규정의 해석을 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417803"
+        },
+        {
+          "title": "&quot;임신중지의약품 의약분업 예외항목 2년간 적용&quot; 다시 확인",
+          "source": "약사공론",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "품목허가가 이뤄질 경우 약사법 고시를 개정해 임신중지 약물을 의약분업 예외 항목에 추가하고 적용 기간은 2년으로 설정하고자 한다는 방침도 언급했다. 기간 내 형법이 개정되지 않거나 예외 유지가 필요한 사유가 발생할 경우에는 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544143"
+        },
+        {
+          "title": "의료분쟁조정법 12대 중과실, 법조계도 우려 &quot;유례 찾기 어렵다&quot;",
+          "source": "의협신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "정부가 내년 5월 시행을 앞두고 있는 의료분쟁조정법 하위법령 만들기에 한창이다. 의료계는 산적한 독소조항 중에서도 중대한 과실 의료행위를 '12가지'로 정하고 있는 데 대해 특히 우려를 표시하고 있다. 법조계 역시 &quot;이례적인 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166385"
+        },
+        {
+          "title": "의료분쟁조정법 ‘12대 중과실’ 논란...“하위법령만으로 한계 넘기 어렵다”",
+          "source": "의학신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "특히 법조계와 의료현장에서는 12대 중과실을 법률로 구체화한 방식이 오히려 법적 불확실성을 키울 수 있다는 지적이 제기됐다. 의료사고의 원인을 개인의 과실 여부만으로 판단하기보다 당시 의료환경과 시스템의 문제까지 함께 살펴야 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "23시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012293"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "약가",
+        "인하",
+        "절감",
+        "사용량",
+        "의약품",
+        "건보재정"
+      ],
+      "articles": [
+        {
+          "title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환 [건강한겨레]",
+          "source": "한겨레",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "미국 트럼프 행정부가 글로벌 제약사를 상대로 약가 인하와 현지 투자 압박 수위를 한층 더 높이고 있다. 한국보건산업진흥원(KHIDI) 글로벌바이오헬스산업동향에 따르면, 미국 도널드 트럼프 행정부는 지난달 31일 9개 글로벌 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "16시간",
+          "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"
+        },
+        {
+          "title": "건보공단, 사용량 늘어난 의약품 80개 약가 인하… 건보재정 339억 절감",
+          "source": "헬스조선 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "건강보험 급여 약제 가운데 사용량이 크게 늘어난 80개 품목의 약값이 지난 1일부터 평균 4.6% 인하됐다. 국민건강보험공단은 이를 통해 건강보험 재정 약 339억 원을 절감할 수 있을 것으로 전망했다. 건보공단은 올해 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "18시간",
+          "url": "https://www.msn.com/ko-kr/health/other/%EA%B1%B4%EB%B3%B4%EA%B3%B5%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%8A%98%EC%96%B4%EB%82%9C-%EC%9D%98%EC%95%BD%ED%92%88-80%EA%B0%9C-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98-%EA%B1%B4%EB%B3%B4%EC%9E%AC%EC%A0%95-339%EC%96%B5-%EC%A0%88%EA%B0%90/ar-AA2ctuJG?ocid=BingNewsVerp"
+        },
+        {
+          "title": "사용량 많은 80개 의약품 약가 평균 4.6%↓…건보재정 339억 절감",
+          "source": "아시아경제 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "건강보험 청구액이 크게 늘어난 의약품 80개 품목의 약가가 평균 4.6% 인하됐다. 국민건강보험공단은 18일 2026년 사용량-약가 연동 협상 '유형 다' 대상 약제 81개 품목에 대한 제약사와의 협상을 완료했다고 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "18시간",
+          "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%A7%8E%EC%9D%80-80%EA%B0%9C-%EC%9D%98%EC%95%BD%ED%92%88-%EC%95%BD%EA%B0%80-%ED%8F%89%EA%B7%A0-4-6-%EA%B1%B4%EB%B3%B4%EC%9E%AC%EC%A0%95-339%EC%96%B5-%EC%A0%88%EA%B0%90/ar-AA2ctuC7?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "의사",
+        "로봇"
+      ],
+      "articles": [
+        {
+          "title": "수술방 의사 옆 간호사... &quot;사람이 아니었어&quot; 로봇 솜씨에 감탄",
+          "source": "머니투데이 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "로봇 2대와 염소 간 담낭 제거 삼성서울병원, 협업시연 성공 음성 명령, 환부 절개 등 수행 &quot;2029년 첫 임상 진입 목표&quot; 지난 16일 오후 서울 삼성생명 일원역빌딩에서 진행된 삼성서울병원 휴머노이드(인간형) 수술보조로봇 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99/%EC%88%98%EC%88%A0%EB%B0%A9-%EC%9D%98%EC%82%AC-%EC%98%86-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%88%EC%96%B4-%EB%A1%9C%EB%B4%87-%EC%86%9C%EC%94%A8%EC%97%90-%EA%B0%90%ED%83%84/ar-AA2cshLx?ocid=BingNewsVerp"
+        },
+        {
+          "title": "의사 한 명에 로봇 둘… '수술팀' 일원 된 휴머노이드, 인력난 풀까",
+          "source": "한국일보 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "“그래스퍼 주세요.” 오남기 삼성서울병원 이식외과 교수의 말에 수술대 왼쪽에 선 휴머노이드 간호사 로봇이 카메라로 수술 도구가 있는 쟁반을 훑었다. 이내 손가락이 두 개 있는 로봇팔로 그래스퍼를 집어 오 교수에게 건넸다.",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EC%82%AC-%ED%95%9C-%EB%AA%85%EC%97%90-%EB%A1%9C%EB%B4%87-%EB%91%98-%EC%88%98%EC%88%A0%ED%8C%80-%EC%9D%BC%EC%9B%90-%EB%90%9C-%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C-%EC%9D%B8%EB%A0%A5%EB%82%9C-%ED%92%80%EA%B9%8C/ar-AA2cphzr?ocid=BingNewsVerp"
+        }
+      ]
+    }
+  ],
   "uncategorized_articles": [
     {
-      "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
-      "source": "의학신문",
-      "importance": 52,
-      "snippet": "[의학신문&#183;일간보사=정광성 기자] 서울성모병원이 전공의 수련교육을 지원하기 위해 임상 술기와 학술연구를 한 공간에서 수행할 수 있는 교육 인프라를 재정비했다. 서울성모병원 (원장 이지열)은 최근 별관 4층에 위치한 ...",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+      "title": "FDA, 임상시험계획 승인 가속 파일럿 프로그램",
+      "source": "약업닷컴",
+      "importance": 56,
+      "snippet": "FDA가 임상시험계획 승인 가속화(Expedited Investigational New Drug)를 위한 파일럿 프로그램의 최종案을 15일 공개했다.이 파일럿 프로그램은 임상시험 일정이 신속히 진행될 수 있도록 하고, 규제와 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332708"
+    },
+    {
+      "title": "전문의가 없어서…”] 안전보건공단 직업환경의학 수련병원 지위 반납",
+      "source": "매일노동뉴스",
+      "importance": 47,
+      "snippet": "안전보건공단 산업안전보건연구원이 직업환경의학과 전공의 수련병원 지위를 30여년 만에 내려놓은 것으로 확인됐다. 연구원이 2년째 전공의 수련병원 지정기준인 직업환경의학과 지도전문의 채용에 실패했기 때문이다.16일 국회 ...",
+      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236821"
     },
     {
       "title": "Your 2027 Plan Can Add Prior Authorization to a Drug You've Taken for Years. In the New Formulary, That Change Is Two Letters: \"PA.\" - 24/7 Wall St.",
@@ -217,6 +432,55 @@
       "importance": 47,
       "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxNelhvaGkyT2k0WDB0QWJmRTZmRnpULXNqVGhPSTFxQ0RiUkMxTVlMZHJFckZhM0NpUXo2QV9KaU03cG1VRFlOOHctb2FHX0xEeDJTQkxOM2Y2WEFfS0hMczk4QkNyVHdmVmx5NnhQWl",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNelhvaGkyT2k0WDB0QWJmRTZmRnpULXNqVGhPSTFxQ0RiUkMxTVlMZHJFckZhM0NpUXo2QV9KaU03cG1VRFlOOHctb2FHX0xEeDJTQkxOM2Y2WEFfS0hMczk4QkNyVHdmVmx5NnhQWlVjR29UVlQ1bXg3ZHpnWC1NTzFRSjVMX1ItbWxUZXVYYkhlcHdlRHcxMXRPeFg0NGdfREp5WTh4ZUNMeEF1aExxcW5pZ0RWOF94MWRwalV0NW1kVnNaSC1DcHJfYm83Y2NCdzh5b0Raek8ybVRkZldLR0NxN095aENjTzVmUGtpZHoxcWcwdDlrMFdTMkl6Q2szX3dHTDk1Yw?oc=5"
+    },
+    {
+      "title": "국산 1호 CAR-T 치료제, 상업화 급물살…‘K-바이오 육성’ 시금석 [건강한겨레]",
+      "source": "한겨레",
+      "importance": 45,
+      "snippet": "첫 국산 카티(CAR-T&#183;키메릭 항원 수용체-티세포) 치료제가 지난 3일 건강보험심사평가원(심평원) 약제급여평가위원회(약평위) 심의를 통과하며 보건당국의 인허가와 국민건강보험 급여 항목 등재 절차를 빠르게 마무리 짓고 있다.",
+      "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278196.html"
+    },
+    {
+      "title": "대한약사회, 국무조정실&#183;중기부 항의 방문…산업 활성화보다 국민안전, 확대보다 시행&#183;검증이 먼저' 권영희 회장&#183;공동비대위원장 ...",
+      "source": "메디컬헤럴드",
+      "importance": 42,
+      "snippet": "대한약사회 국민건강권 사수 비상대책위원회는 9월 16일 국무조정실과 중소벤처기업부를 잇달아 항의 방문하고, 비대면진료 제도 시행을 앞두고 제기된 의약품 배송 확대 논의를 즉각 중단할 것을 촉구했다.대한약사회는 비대면진료 ...",
+      "url": "http://www.mediherald.com/news/articleView.html?idxno=90493"
+    },
+    {
+      "title": "대한의학회, 지도전문의 교육 강화...전공의 ‘평가&#183;피드백’ 집중",
+      "source": "의학신문",
+      "importance": 42,
+      "snippet": "[의학신문&#183;일간보사=김현기 기자] 전공의 수련이 단순한 지식 전달에서 실제 진료 수행을 관찰하고 평가&#183;피드백하는 역량 중심 교육으로 전환됨에 따라 의학계에서는 지도전문의의 교육 역량을 높이기 위한 프로그램이 활발히 운영되는 분위기다.",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012363"
+    },
+    {
+      "title": "인천 공공병원 4곳, 의사 채용 경험 공유하고 안정적 의료인력 확보 모색",
+      "source": "경인매일",
+      "importance": 42,
+      "snippet": "인천지역 공공병원들이 개별 병원 차원의 의사 채용에서 겪는 어려움을 공유하고 의료인력 확보를 위한 공동 대응에 나선다. 병원별 진료과 인력 운영 현황과 채용 경험을 공유하면서 필요한 의사를 안정적으로 확보할 수 있는 협력 ...",
+      "url": "https://www.kmaeil.com/news/articleView.html?idxno=652112"
+    },
+    {
+      "title": "약가 전략부터 AI 혁신까지...전문가들이 말하는 제약산업 핵심 패러다임은?",
+      "source": "팜뉴스",
+      "importance": 37,
+      "snippet": "[팜뉴스=김응민 기자] 제약바이오 산업 전반에서 활약하는 삼육대 약대 동문들이 지난 17일 한자리에 모여 최신 산업 트렌드와 현장의 실무 인사이트를 공유하는 뜻깊은 시간을 가졌다. 삼육대 약대 제약동문은 지난 17일 삼육대학교 장근청홀에서 '제1회 제명포럼 2026'을 성황리에 개최했다. 이번 행사는 선후배 간 실질적인 교류와 협력의 기반을 위해 마련된 자",
+      "url": "https://www.pharmnews.com/news/articleView.html?idxno=306387"
+    },
+    {
+      "title": "바이오 1조달러 시대…CDMO 승부처 '양에서 질'",
+      "source": "비즈워치",
+      "importance": 32,
+      "snippet": "17일 국가생명공학정책연구센터가 발간한 '2026~2031 글로벌 바이오의약품 CDMO 시장의 성장기회' 보고서에 따르면, 글로벌 바이오의약품 시장 매출은 2025년 5616억5000만달러에서 2031년 1조149억달러로 ...",
+      "url": "https://news.bizwatch.co.kr/article/healthcare/2026/09/16/0015"
+    },
+    {
+      "title": "제약바이오협회, 식약처&#183;KOTRA와 '한-태 제약 포럼' 개최",
+      "source": "MEDI:GATE NEWS",
+      "importance": 32,
+      "snippet": "[메디게이트뉴스 이지원 기자] 한국제약바이오협회가 식품의약품안전처, 대한무역투자진흥공사(KOTRA), 국내 제약기업 10개사와 함께 태국 방콕에서 '한-태 제약 포럼'과 비즈니스 상담회를 진행했다고 16일 밝혔다. 협회에 따르면 이번 행사는 14일부터 15일까지(현지시간) 열렸다. 협회는 고령화로 의약품 수요가 늘고 있는 태국 시장에 대한 국내 기업 진출 ",
+      "url": "https://www.medigatenews.com/news/1564487178"
     }
   ],
   "cross_language_candidates": [
