@@ -59,7 +59,7 @@
 ### 주요 기사
 1. ⭐⭐ **[42점] 수술방 의사 옆 간호사... "사람이 아니었어" 로봇 솜씨에 감탄**
    - 📰 머니투데이 on MSN
-   - 🔗 https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99/%EC%88%98%EC%88%A0%EB%B0%A9-%EC%9D%98%EC%82%AC-%EC%98%86-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%었어 로봇 솜씨에 감탄/ar-AA2cshLx?ocid=BingNewsVerp
+   - 🔗 https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EB%A1%9C%EB%B4%87%EA%B3%B5%ED%95%99/%EC%88%98%EC%88%A0%EB%B0%A9-%EC%9D%98%EC%82%AC-%EC%98%86-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EC%95%84%EB%8B%88%EC%97%88%EC%96%B4-%EB%A1%9C%EB%B4%87-%EC%86%9C%EC%94%A8%EC%97%90-%EA%B0%90%ED%83%84/ar-AA2cshLx?ocid=BingNewsVerp 로봇 솜씨에 감탄/ar-AA2cshLx?ocid=BingNewsVerp
 
 ### 🔍 시사점
 - 임상 진입 전 로봇의 보조행위 범위, 오류 시 책임, 사이버보안, 성능평가 기준을 명확히 해야 한다.
