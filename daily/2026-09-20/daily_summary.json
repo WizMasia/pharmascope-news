@@ -1,0 +1,512 @@
+{
+  "date": "2026-09-20",
+  "total": 241,
+  "version": 1,
+  "generated_at": "2026-09-20T06:32:53.157994+09:00",
+  "korean": {
+    "total": 90,
+    "categories": {
+      "의약품": 14,
+      "의약산업": 15,
+      "의약정책": 3,
+      "의약단체": 6,
+      "의약관련정부기관": 6,
+      "의료현장": 13,
+      "약국·약사": 1,
+      "의료정책·인력": 8,
+      "전통의학": 1,
+      "감염·보건": 23
+    },
+    "top_articles": [
+      {
+        "title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환 [건강한겨레]",
+        "source": "한겨레",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:1일+10 | 키워드+20 | 순위:88위+2",
+        "snippet": "미국 트럼프 행정부가 글로벌 제약사를 상대로 약가 인하와 현지 투자 압박 수위를 한층 더 높이고 있다. 한국보건산업진흥원(KHIDI) 글로벌바이오헬스산업동향에 따르면, 미국 도널드 트럼프 행정부는 지난달 31일 9개 글로벌 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"
+      },
+      {
+        "title": "독감&#183;코로나 동시 유행 우려…손 씻기만큼 ‘예방접종’ 중요",
+        "source": "의학신문",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:11시간+15 | 키워드+20 | 순위:135위+2",
+        "snippet": "[의학신문&#183;일간보사] 인플루엔자와 코로나19가 동시에 유행하는 ‘트윈데믹’ 우려가 커지고 있다. 손 씻기와 마스크 착용 등 기본적인 위생수칙도 중요하지만 고령자와 만성질환자는 감염 후 폐렴이나 입원으로 이어질 위험이 높은 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012413"
+      },
+      {
+        "title": "추석 앞두고 빨리 찾아온 독감… 인플루엔자&#183;코로나19 백신 동시접종을",
+        "source": "문화일보 on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:문화일보 on MSN+10 | 최신:1일+10 | 키워드+25 | 순위:136위+2",
+        "snippet": "전남광주=김대우 기자 올해 예년보다 일찍 인플루엔자(독감)가 확산하면서 국가예방접종이 약 일주일 앞당겨진 가운데 전남광주시가 추석 연휴를 앞두고 호흡기감염병 예방 캠페인을 펼친다. 전남광주시는 오는 10월 2일까지 3주간 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%94%EC%84%9D-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%B9%A8%EB%A6%AC-%EC%B0%BE%EC%95%84%EC%98%A8-%EB%8F%85%EA%B0%90-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%97%94%EC%9E%90-%EC%BD%94%EB%A1%9C%EB%82%9819-%EB%B0%B1%EC%8B%A0-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%A2%85%EC%9D%84/ar-AA2ctfwr?ocid=BingNewsVerp"
+      },
+      {
+        "title": "에스티팜, 913억 규모 올리고 핵산 치료제 원료의약품 납품 外",
+        "source": "톱데일리",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:톱데일리+10 | 최신:1일+10 | 키워드+20 | 순위:82위+2",
+        "snippet": "에스티팜은 미국 소재 글로벌 바이오텍 기업과 913억원 규모의 올리고 핵산 치료제 원료의약품 공급계약을 체결. 이는 올리고 핵산 원료의약품 단일 계약 기준 역대 최대 규모라는 설명. 고객사는 계약서 상 비밀유지 조항에 따라 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.topdaily.kr/articles/112033"
+      },
+      {
+        "title": "비대면진료도 아직인데… 정부 약배송 언급에 약사들 장외투쟁",
+        "source": "뉴스1 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스1 on MSN+10 | 최신:33분+20 | 키워드+10 | 순위:36위+2",
+        "snippet": "광화문에서 약사&#183;약대생 등 5000여명 모여 집회업계&#183;환자 &quot;관련 논의 더 미룰 수 없어&quot; 지적도 (서울=뉴스1) 강승지 기자 = 12월 24일 비대면진료 제도화를 앞두고 정부가 약배송 확대를 거론하자 약사단체가 반발하며 ...",
+        "published_time": "33분",
+        "modified_time": "",
+        "time": "33분",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B9%84%EB%8C%80%EB%A9%B4%EC%A7%84%EB%A3%8C%EB%8F%84-%EC%95%84%EC%A7%81%EC%9D%B8%EB%8D%B0-%EC%A0%95%EB%B6%80-%EC%95%BD%EB%B0%B0%EC%86%A1-%EC%96%B8%EA%B8%89%EC%97%90-%EC%95%BD%EC%82%AC%EB%93%A4-%EC%9E%A5%EC%99%B8%ED%88%AC%EC%9F%81/ar-AA2czJhy?ocid=BingNewsVerp"
+      },
+      {
+        "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
+        "source": "의학신문",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:77위+2",
+        "snippet": "[의학신문&#183;일간보사=정광성 기자] 서울성모병원이 전공의 수련교육을 지원하기 위해 임상 술기와 학술연구를 한 공간에서 수행할 수 있는 교육 인프라를 재정비했다. 서울성모병원 (원장 이지열)은 최근 별관 4층에 위치한 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+      },
+      {
+        "title": "이른 인플루엔자 유행에 대응해 어린이와 어르신 국가예방접종 앞당긴다 - 대구뉴스",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 13:19:02 GMT+5 | 키워드+25 | 순위:117위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uN2pYSndqWk5ubVo1WGpMLTkzQzBqWUxSaklwVE5WNGY4OGM0V0NtcHBleXZycThTWHQzNEJYS0NZQUhLQksweHZNUXZ4ODdiZ3d1MGRIRGNRY283cEQ2N1poS3VEaTYt0gFsQVVfeX",
+        "published_time": "Sat, 19 Sep 2026 13:19:02 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 13:19:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uN2pYSndqWk5ubVo1WGpMLTkzQzBqWUxSaklwVE5WNGY4OGM0V0NtcHBleXZycThTWHQzNEJYS0NZQUhLQksweHZNUXZ4ODdiZ3d1MGRIRGNRY283cEQ2N1poS3VEaTYt0gFsQVVfeXFMTzNpUFZRSjhsLXh1UUo3bDUxVlVWU0dMRHlyeHJVT3R0MTZTRW43WVdHdm1GNU1YaEl1eHMweHdFWG5Oem82ZmVVd2MyaGJxN1N2UkVsdGNzenJPVk1pQk9TT1NJMklnb1JITzl1?oc=5"
+      },
+      {
+        "title": "오산시, 인플루엔자 및 코로나19 무료 예방접종 > 뉴스 - 더코리아",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 12:35:00 GMT+5 | 키워드+25 | 순위:127위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB3eDdmbUx2NVM2eGJyVVV6dWpCZmtPRzJuNFVMdEMtSjNwX0hkSkg3UG1YNFlyeHY1VjJxNnBkQjRPSUJkNVdabGI0T1N4aGl0dDl1bm9DM2JUOGFiMU9VMVNLOWVReC1adTlrRjRtTF",
+        "published_time": "Sat, 19 Sep 2026 12:35:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 12:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3eDdmbUx2NVM2eGJyVVV6dWpCZmtPRzJuNFVMdEMtSjNwX0hkSkg3UG1YNFlyeHY1VjJxNnBkQjRPSUJkNVdabGI0T1N4aGl0dDl1bm9DM2JUOGFiMU9VMVNLOWVReC1adTlrRjRtTFU?oc=5"
+      },
+      {
+        "title": "중구, 인플루엔자·코로나19 무료 예방접종 실시 - 뉴스21일간",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 10:23:07 GMT+5 | 키워드+25 | 순위:129위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RY2dHVzBKZU9rYWpqSWw1TjZsQUZZQ25ucWp3WlhSSUFQaVJTQm9zYnpRbVBzQU9lZExtOUhIWFd0UENnZFNtbDc5dENvZw?oc=5\" target=\"_blank\">중구, 인플루엔자·코로나19 무료 예방",
+        "published_time": "Sat, 19 Sep 2026 10:23:07 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 10:23:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RY2dHVzBKZU9rYWpqSWw1TjZsQUZZQ25ucWp3WlhSSUFQaVJTQm9zYnpRbVBzQU9lZExtOUhIWFd0UENnZFNtbDc5dENvZw?oc=5"
+      },
+      {
+        "title": "코로나19 예방접종, 필수 예방접종으로 전환…내달 12일부터 순차 접종",
+        "source": "메디컬투데이 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:메디컬투데이 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:133위+2",
+        "snippet": "[mdtoday = 김미경 기자] 그간 임시 예방접종으로 시행돼 온 코로나19 예방접종이 필수 예방접종으로 전환된다. 올해 접종은 오는 10월 12일부터 70세 이상 고령층과 면역저하자 등을 대상으로 순차적으로 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%BD%94%EB%A1%9C%EB%82%9819-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%ED%95%84%EC%88%98-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98-%EB%82%B4%EB%8B%AC-12%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%88%9C%EC%B0%A8-%EC%A0%91%EC%A2%85/ar-AA2ctfgj?ocid=BingNewsVerp"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        9
+      ],
+      [
+        "백신",
+        6
+      ],
+      [
+        "허가",
+        3
+      ],
+      [
+        "약가",
+        3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "임상",
+        1
+      ],
+      [
+        "원료의약품",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "헬스조선 on MSN",
+        2
+      ],
+      [
+        "메디컬투데이 on MSN",
+        2
+      ],
+      [
+        "톱데일리",
+        1
+      ],
+      [
+        "조선비즈 on MSN",
+        1
+      ],
+      [
+        "뉴스핌",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ],
+      [
+        "팜뉴스",
+        1
+      ],
+      [
+        "FETV",
+        1
+      ],
+      [
+        "뉴스1 on MSN",
+        1
+      ],
+      [
+        "매거진한경 on MSN",
+        1
+      ],
+      [
+        "매일신문 on MSN",
+        1
+      ],
+      [
+        "문화일보 on MSN",
+        1
+      ],
+      [
+        "신아일보",
+        1
+      ],
+      [
+        "코메디닷컴",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 90,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 18,
+      "Pharma Associations": 17,
+      "Regulatory Agencies": 3,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Sola Adeleke at COGC 2026: From New Drug Approval to Real-World Cancer Care Access - oncodaily.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 19:37:00 GMT+5 | 키워드+30 | 순위:88위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9salF1Wk1LUms4TWVlcy1XT0RTT0RGeDF2dmNDYnM1akRJbFFYRDFtYXZpclZLcDd1dXhubUd0NG4zTWJZSS10UUJIdlctT2t1akMxbFUxb3ROdjkwQUNnVw?oc=5\" target=\"_blan",
+        "published_time": "Sat, 19 Sep 2026 19:37:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 19:37:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9salF1Wk1LUms4TWVlcy1XT0RTT0RGeDF2dmNDYnM1akRJbFFYRDFtYXZpclZLcDd1dXhubUd0NG4zTWJZSS10UUJIdlctT2t1akMxbFUxb3ROdjkwQUNnVw?oc=5"
+      },
+      {
+        "title": "Oveporexton Met Primary, Key Secondary End Points in Phase 3 Studies - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 14:10:03 GMT+5 | 키워드+30 | 순위:92위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2I3M3lfNmMtNldmWEk5NnJQV0tUby0yaHBXNm45ZWNTZUJlOUdKS0NDREhjWk9CRC1OOVRtUGo1RHNJLU1ZRzdVTXV4QmlMeHgxUG8zcGgyOUtyUDBFc29IeFhudU9LemhoTEJ4LW",
+        "published_time": "Sat, 19 Sep 2026 14:10:03 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 14:10:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2I3M3lfNmMtNldmWEk5NnJQV0tUby0yaHBXNm45ZWNTZUJlOUdKS0NDREhjWk9CRC1OOVRtUGo1RHNJLU1ZRzdVTXV4QmlMeHgxUG8zcGgyOUtyUDBFc29IeFhudU9LemhoTEJ4LWN4Njg0dW8zNjBoaVdoME02NEk0N0FqcVV5bVZVMXo5S3JkU2NiSU9uOTA0RmJEQ01B?oc=5"
+      },
+      {
+        "title": "A compound tested as a cancer drug in the 1960s failed and drew little interest for two decades until the HIV epidemic arrived. Researchers tested AZT against the virus and found it blocked replication, and in 1987 it became the first antiretroviral drug approve - Science Blog",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 17:06:32 GMT+5 | 키워드+30 | 순위:93위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxQVmpSUTJNTjJpSjlfSFZCRkhCZUFuSnJJWFNqSjMwdlR2b1l6U0k3Y3hzYktVZ05oQXVFb0JpZUFCNDJfZVd1MEY1M21veEFUME1oRHNBU003RUM3a3lhcUZQaklnSXVfZmJ6ZmtEX3",
+        "published_time": "Sat, 19 Sep 2026 17:06:32 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 17:06:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQVmpSUTJNTjJpSjlfSFZCRkhCZUFuSnJJWFNqSjMwdlR2b1l6U0k3Y3hzYktVZ05oQXVFb0JpZUFCNDJfZVd1MEY1M21veEFUME1oRHNBU003RUM3a3lhcUZQaklnSXVfZmJ6ZmtEX3lUZHBFV1ljckcwbVFRWDZJX3lTcXFPTlluRnVPRkl2cHVOVTkzSHU4YVp1Wkdyd3hsXzJDQ1ZIYVFhZjBhb1ZOczVYWWVTVVRwRF9CWnFvbEQ1NlJZWlhyQlZyWUdEcEkxOWJhakdNQlBhS0paMF9jekpxZ25VWjM5WnBLLTFmYVhaQjg5dzYwQS15TXpQM3FKLTl5WURyMFZ4SjB5d0VnOVk4U1ZUQ1ZNN0t3UW94MXl0cFU5N2pLZE5jZkR2MEE?oc=5"
+      },
+      {
+        "title": "To ease long-term drug pricing pressure, extend patent terms by 10 years now - Washington Examiner",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 15:00:00 GMT+5 | 키워드+30 | 순위:95위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDhDLXA4emNwMFZobWt1WVFTbEZueE9uSkVQb0o4bzdLRmx6UV9kR0VxNUsxQWJZWG1HR2h5LUlOZ09aOVF1VHNmd3drTVp1SXZwQjJtQkZYdEJSWk9YdDZhczJZYWw3QTBxVEpvbm",
+        "published_time": "Sat, 19 Sep 2026 15:00:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDhDLXA4emNwMFZobWt1WVFTbEZueE9uSkVQb0o4bzdLRmx6UV9kR0VxNUsxQWJZWG1HR2h5LUlOZ09aOVF1VHNmd3drTVp1SXZwQjJtQkZYdEJSWk9YdDZhczJZYWw3QTBxVEpvbmsyMEhaU051akstM2E2OC1iQ1VnZXdhUUU2S0lIV21iMWl2NVVqaTB6OUhkdDlTblJaV1UzS2d3UFIyS2ljU1gxOVljeW15UQ?oc=5"
+      },
+      {
+        "title": "Drug Clears Disease Markers in 78% of Patients With Pre-Cancerous Blood Disorder - ScienceAlert",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 12:04:52 GMT+5 | 키워드+30 | 순위:97위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlR2UVlkb3lYLUdqMF9SVVRFN25xVkZZaEJrdTB2VHdURF8wS003WkJGUm1wNWxpdXRfVmFjdlBSSnAyS2g0ZjROaElhUXFuRlZnOVRFc2FzYWlxRm9mdTBQcnpPY2htYVNiNTVfNG",
+        "published_time": "Sat, 19 Sep 2026 12:04:52 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 12:04:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYlR2UVlkb3lYLUdqMF9SVVRFN25xVkZZaEJrdTB2VHdURF8wS003WkJGUm1wNWxpdXRfVmFjdlBSSnAyS2g0ZjROaElhUXFuRlZnOVRFc2FzYWlxRm9mdTBQcnpPY2htYVNiNTVfNGw3WkIxUy1taHpzSjhfbDNwLWNzVWIwVUloRno5Ni1XVzljM3Q5Q19fNWNnWFZfaWRCV1NZNjh3UDNxcjZL?oc=5"
+      },
+      {
+        "title": "IPO News | Jingxin Pharmaceutical (002020.SZ) Resubmits Listing Application to HKEX; Successfully Launches Class 1 Innovative Drug Didaxini - Moomoo",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 09:47:41 GMT+5 | 키워드+30 | 순위:98위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmJleUs2ZGtMdC10RHpLR3BGNl9kMWFWN1ROTDJIeXhCRVpXV19FeWtLX0dSME04blo2UmlQbUo0T0N0c0ZsbXFoMHpEbkowWHUwNGltc3o2elc3bTFfS2w3VFpMU2RjUHVhdDQyRU",
+        "published_time": "Sat, 19 Sep 2026 09:47:41 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 09:47:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVmJleUs2ZGtMdC10RHpLR3BGNl9kMWFWN1ROTDJIeXhCRVpXV19FeWtLX0dSME04blo2UmlQbUo0T0N0c0ZsbXFoMHpEbkowWHUwNGltc3o2elc3bTFfS2w3VFpMU2RjUHVhdDQyRUpyemxjbS1mLU5idG03SFdQTDN1STJBeXlnZ0RrN19UVTlVc2I3bFU5d055NG9kdm1mcXljSFFvM3Z0d1NZM0RmV3ZyQlFfaG8?oc=5"
+      },
+      {
+        "title": "Syros Pharmaceuticals stock edges higher after recent clinical and pipeline updates - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 16:30:13 GMT+5 | 키워드+30 | 순위:160위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHo3SFZ5d2UyanhrS3hrenNBeHRKbGlyT0tEdHVYa1NLOVhfbGJCYnhXN1JoVjFTN1FQaklEQ1hHX0RxNG9ET3djNEdwM19GTFNtdjc4ZElWWmJKYWFwRVliN3pmV0hpN0dEWkEwTW",
+        "published_time": "Sat, 19 Sep 2026 16:30:13 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 16:30:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTHo3SFZ5d2UyanhrS3hrenNBeHRKbGlyT0tEdHVYa1NLOVhfbGJCYnhXN1JoVjFTN1FQaklEQ1hHX0RxNG9ET3djNEdwM19GTFNtdjc4ZElWWmJKYWFwRVliN3pmV0hpN0dEWkEwTW1EVHB6ZW1wTWtZc1R6VWl6U0t5UjRjZkU5VEV3TzdmNWw0TjNDcW1KYTBHVzhDb3hHZUYwSnFWc2xZdHFPU0pLamsyZEtOYWl3ZGY5WVNEajczS1E?oc=5"
+      },
+      {
+        "title": "Zentalis Pharmaceuticals stock gains after ovarian cancer trial update and insider buying - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 11:30:53 GMT+5 | 키워드+30 | 순위:167위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPN1dpU2t6QUFkNG12NDdDTFZ1YW5pV2JSQmlhaDdFQ2hDUm5BVjMwQmpWR21lRUY5cXBZMjFNMTh5S1VlaldwRmg2MzMtcDUwR1dGSnp5RnQ4MFkzWnpCbHFRZzVmak1KaUluUW5YLW",
+        "published_time": "Sat, 19 Sep 2026 11:30:53 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 11:30:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN1dpU2t6QUFkNG12NDdDTFZ1YW5pV2JSQmlhaDdFQ2hDUm5BVjMwQmpWR21lRUY5cXBZMjFNMTh5S1VlaldwRmg2MzMtcDUwR1dGSnp5RnQ4MFkzWnpCbHFRZzVmak1KaUluUW5YLW4xOE1vZWNEZTRkenFjOUlWcVB0SV91QWViRlRRSXBCaUdDUlpoY194alUtTE5VWXBUSXJWb3U5VjFvZE9Rak5VVWhwTmVkSTI5VkpCZUNqV3k3RXJYTVlRWmlfU3E4UQ?oc=5"
+      },
+      {
+        "title": "Prediction markets open pharmaceuticals to bets - The Republic News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 16:20:00 GMT+5 | 키워드+30 | 순위:170위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVBxdVNjTDZ4VXpFemw3OW11RkFNUUM0UXNyMmQ3aElUNGNsYk9ibU5uZThwOUdRZldzNmxjR3VsU3VQRXpxeUxEcDdiRzZRd3U0SXIzRmwzQ3ZSbXdtTUF6WmJQYVpTdG5JWHp2RS",
+        "published_time": "Sat, 19 Sep 2026 16:20:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 16:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNVBxdVNjTDZ4VXpFemw3OW11RkFNUUM0UXNyMmQ3aElUNGNsYk9ibU5uZThwOUdRZldzNmxjR3VsU3VQRXpxeUxEcDdiRzZRd3U0SXIzRmwzQ3ZSbXdtTUF6WmJQYVpTdG5JWHp2RS01UUNfWE1BUmowN3VHVjFlMFZMa3lVLTJJZVJtZkdGRFk?oc=5"
+      },
+      {
+        "title": "Inovio Pharmaceuticals stock gains as price crosses 200-day moving average - AD HOC NEWS",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 15:07:52 GMT+5 | 키워드+30 | 순위:184위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNODJ5Q3FFUjlDU2FfUXRyTzZEMl9MVlljQmxoQUxHWDFyVmEwMmlqZVJFY1ByWGw1NlQtaGpYeWZ5N3JaZGxGX0FwOF91UkN5T0JVTlVtMGdpRjFnY0ZlU1dtekhqSjUxQ3BSSGdEUm",
+        "published_time": "Sat, 19 Sep 2026 15:07:52 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 15:07:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNODJ5Q3FFUjlDU2FfUXRyTzZEMl9MVlljQmxoQUxHWDFyVmEwMmlqZVJFY1ByWGw1NlQtaGpYeWZ5N3JaZGxGX0FwOF91UkN5T0JVTlVtMGdpRjFnY0ZlU1dtekhqSjUxQ3BSSGdEUmdTYWk1SEM0c1p0bk1zNmd3cEgyeVEyWEtWdnpnc2ZYZ3NiZzhMZUE0ZTNSTG9wYUF4cVBTUlNSVC0tUnJaZ0E3Mk5QY2tselAyTlUxeWdjblV5aklOV24wcDBTbG9Tdw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        11
+      ],
+      [
+        "approval",
+        9
+      ],
+      [
+        "pricing",
+        5
+      ],
+      [
+        "vaccine",
+        4
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 61,
+    "languages": {
+      "French / 프랑스어": 0,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 4,
+      "Italian / 이탈리아어": 0,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 7,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "SGK ilaç geri ödeme başvurularında sistemi değiştirdi: Ek-1A ve Ek-1B artık yalnız elektronik - Medimagazin",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 07:00:52 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHY1dVJjZm1CZHp5WldHNmhHbkdPWTlINjh3SEMyZGU5by1zQ2xpc245bXhnMmxYYmdldWE2ODFTMGNldXpQRDRHMlBHTEI5RWhLZGRkcW53ZGxqRUFGdWNOZzZUMkxHRFFXSktKd2",
+        "published_time": "Sat, 19 Sep 2026 07:00:52 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 07:00:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHY1dVJjZm1CZHp5WldHNmhHbkdPWTlINjh3SEMyZGU5by1zQ2xpc245bXhnMmxYYmdldWE2ODFTMGNldXpQRDRHMlBHTEI5RWhLZGRkcW53ZGxqRUFGdWNOZzZUMkxHRFFXSktKd2x3MTgwR1FQMUtvTUhnb2Y2SnBIYUlQYTJaSXhNU1otM2lLZHdIMjJlSGV6RjFTeXJkTnZFVW1Ia2o5S3lEMjRLMF92bXZTcnNzYVFXTmlwMzFBWjQtT1dUcjVBRzhuQnJuY19NRQ?oc=5"
+      },
+      {
+        "title": "Plan, 349 ilaç için yerel sağlık merkezlerinde sağlık sigortası kapsamını genişletmeyi içeriyor. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 15:35:12 GMT+5 | 키워드+25 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3JvMHVYOUc4NFlpT2MyRHBxMU0wZ0JzaFRMajJmOGVfQjBtM1FmeEpfQlYwX0d0c09QQThqZ3Rtd0RnX3JsQkJLZE4wV2M3bFV6QkZMa0h1RTlsTVNTeUZqQzU2OFdpVmd1NjhoX0",
+        "published_time": "Sat, 19 Sep 2026 15:35:12 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 15:35:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3JvMHVYOUc4NFlpT2MyRHBxMU0wZ0JzaFRMajJmOGVfQjBtM1FmeEpfQlYwX0d0c09QQThqZ3Rtd0RnX3JsQkJLZE4wV2M3bFV6QkZMa0h1RTlsTVNTeUZqQzU2OFdpVmd1NjhoX093TGdtTWFwakhMUThtNG5yVk4tTWhKbWJHQko0d3NXd3d2U09rWmk0?oc=5"
+      },
+      {
+        "title": "Att utnyttja fördelarna med medicinalörter och höja värdet av vietnamesisk traditionell medicin. - vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 12:38:08 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXJ2ZmhJa05EclJYdFBNdGlLbVVXSEZLVlA5MHpTbXRlZ0lsd0tVQVNoMXFPNTZkdmluU05lNjA3MHR1R24xM1F1NmVPMUQybV9qeHktdFZscmI2bWhNSWFjWElVeDJ6UEc1SGNBVG",
+        "published_time": "Sat, 19 Sep 2026 12:38:08 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 12:38:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXJ2ZmhJa05EclJYdFBNdGlLbVVXSEZLVlA5MHpTbXRlZ0lsd0tVQVNoMXFPNTZkdmluU05lNjA3MHR1R24xM1F1NmVPMUQybV9qeHktdFZscmI2bWhNSWFjWElVeDJ6UEc1SGNBVG1MNmpzVnd6RDNsNENsQVlIQUItX0c5QXFERzZ6RXhxeTlBQ1FNT1lpT1FR?oc=5"
+      },
+      {
+        "title": "Memanfaatkan keunggulan tanaman obat, meningkatkan nilai pengobatan tradisional Vietnam. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 12:27:56 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTA5YmVycG5nMURjR28zRWtCVFJPZDVsWEhtVTR0Zkd5SjQ1cXkxV3Yyb2I2Zk5fQjdRaGlodThBRzYxbG0zem11VC1DSVhNZElUMWpfMnJpOWxTaFhPOENLYXdhNktjaTk4M3U1NE",
+        "published_time": "Sat, 19 Sep 2026 12:27:56 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 12:27:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLTA5YmVycG5nMURjR28zRWtCVFJPZDVsWEhtVTR0Zkd5SjQ1cXkxV3Yyb2I2Zk5fQjdRaGlodThBRzYxbG0zem11VC1DSVhNZElUMWpfMnJpOWxTaFhPOENLYXdhNktjaTk4M3U1NEN6TjlOc1E0QWhfRVoxN0p3QURhZXpLS2hGX3loLVlsbTFSaTF1dkNzVVVR?oc=5"
+      },
+      {
+        "title": "الاستفادة من مزايا الأعشاب الطبية، ورفع قيمة الطب الفيتنامي التقليدي. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 19 Sep 2026 13:00:20 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkNVVjZHcUhuVXg0TnJEbTdXMWdRVFlpZ25EV3dOSGpVUE5tMFA4WVg4RUZpM0tpZTVGTmNGWThDby1NRzd4SHRuZ2Z6NUFvVTF4enJGMng1NkFHX1RMV3NSMnQtTDBkaXJhUGZqYT",
+        "published_time": "Sat, 19 Sep 2026 13:00:20 GMT",
+        "modified_time": "",
+        "time": "Sat, 19 Sep 2026 13:00:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRkNVVjZHcUhuVXg0TnJEbTdXMWdRVFlpZ25EV3dOSGpVUE5tMFA4WVg4RUZpM0tpZTVGTmNGWThDby1NRzd4SHRuZ2Z6NUFvVTF4enJGMng1NkFHX1RMV3NSMnQtTDBkaXJhUGZqYTJoNF9zVG8zZS1HVmdrVXRmUnpXeWJlTVh3d0VoYlFWUFFxOWYzblRZSzRn?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

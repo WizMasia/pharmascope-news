@@ -1,0 +1,223 @@
+{
+  "pipeline": "pharmascope-v2-aggregate",
+  "period": "weekly",
+  "label": "Week 38",
+  "folder": "2026-W37",
+  "start": "2026-09-14",
+  "end": "2026-09-20",
+  "total_articles": 1411,
+  "total_days": 4,
+  "dates_covered": [
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-19",
+    "2026-09-20"
+  ],
+  "korean": {
+    "total": 642,
+    "categories": {
+      "감염·보건": 98,
+      "의약산업": 90,
+      "의약품": 89,
+      "의료현장": 88,
+      "의료정책·인력": 79,
+      "의약관련정부기관": 69,
+      "의약단체": 61,
+      "의약정책": 47,
+      "전통의학": 13,
+      "약국·약사": 8
+    },
+    "top_keywords": [
+      [
+        "신약",
+        69
+      ],
+      [
+        "약가",
+        24
+      ],
+      [
+        "한약",
+        19
+      ],
+      [
+        "식약처",
+        19
+      ],
+      [
+        "허가",
+        15
+      ],
+      [
+        "임상",
+        15
+      ],
+      [
+        "FDA",
+        14
+      ],
+      [
+        "급여",
+        12
+      ],
+      [
+        "백신",
+        10
+      ],
+      [
+        "비만",
+        7
+      ],
+      [
+        "원료의약품",
+        6
+      ],
+      [
+        "위고비",
+        5
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "마운자로",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "CDMO",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 453,
+    "categories": {
+      "Drugs & Therapies": 100,
+      "Pharma Industry": 100,
+      "Pharma Policy": 93,
+      "Pharma Associations": 92,
+      "Regulatory Agencies": 60,
+      "Traditional & Complementary Medicine": 8
+    },
+    "top_keywords": [
+      [
+        "FDA",
+        57
+      ],
+      [
+        "approval",
+        28
+      ],
+      [
+        "GLP-1",
+        12
+      ],
+      [
+        "manufacturing",
+        12
+      ],
+      [
+        "pricing",
+        12
+      ],
+      [
+        "vaccine",
+        7
+      ],
+      [
+        "shortage",
+        4
+      ],
+      [
+        "obesity",
+        4
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "patent",
+        4
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ]
+    ]
+  },
+  "multilingual": {
+    "total": 316,
+    "languages": {
+      "Russian / 러시아어": 40,
+      "Vietnamese / 베트남어": 40,
+      "Spanish / 스페인어": 34,
+      "Indonesian / 인도네시아어": 29,
+      "Portuguese / 포르투갈어": 28,
+      "Chinese Simplified / 중국어": 22,
+      "Italian / 이탈리아어": 18,
+      "Hindi / 힌디어": 18,
+      "Chinese Traditional / 대만": 16,
+      "Arabic / 아랍어": 15,
+      "French / 프랑스어": 13,
+      "Thai / 태국어": 11,
+      "Hebrew / 히브리어": 11,
+      "Turkish / 터키어": 10,
+      "Dutch / 네덜란드어": 8,
+      "Swedish / 스웨덴어": 2,
+      "Polish / 폴란드어": 1,
+      "German / 독일어": 0,
+      "Japanese / 일본어": 0,
+      "Persian / 페르시아어": 0
+    }
+  }
+}

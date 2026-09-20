@@ -1,0 +1,381 @@
+{
+  "date": "2026-09-20",
+  "total_articles": 241,
+  "language_breakdown": {
+    "korean": {
+      "total": 90,
+      "categories": {
+        "의약품": 14,
+        "의약산업": 15,
+        "의약정책": 3,
+        "의약단체": 6,
+        "의약관련정부기관": 6,
+        "의료현장": 13,
+        "약국·약사": 1,
+        "의료정책·인력": 8,
+        "전통의학": 1,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 90,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 18,
+        "Pharma Associations": 17,
+        "Regulatory Agencies": 3,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 61,
+      "languages": {
+        "French / 프랑스어": 0,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 4,
+        "Italian / 이탈리아어": 0,
+        "Portuguese / 포르투갈어": 4,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 7,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 1,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 4,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 9
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "약가",
+      "count": 3
+    },
+    {
+      "keyword": "FDA",
+      "count": 3
+    },
+    {
+      "keyword": "제네릭",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "임상",
+      "count": 1
+    },
+    {
+      "keyword": "원료의약품",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 11
+    },
+    {
+      "keyword": "approval",
+      "count": 9
+    },
+    {
+      "keyword": "pricing",
+      "count": 5
+    },
+    {
+      "keyword": "vaccine",
+      "count": 4
+    },
+    {
+      "keyword": "patent",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "헬스조선 on MSN",
+      "count": 2
+    },
+    {
+      "source": "메디컬투데이 on MSN",
+      "count": 2
+    },
+    {
+      "source": "톱데일리",
+      "count": 1
+    },
+    {
+      "source": "조선비즈 on MSN",
+      "count": 1
+    },
+    {
+      "source": "뉴스핌",
+      "count": 1
+    },
+    {
+      "source": "한겨레",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스",
+      "count": 1
+    },
+    {
+      "source": "FETV",
+      "count": 1
+    },
+    {
+      "source": "뉴스1 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "정부의 K-제약바이오 프론티어기업 전주기 육성",
+    "의료분쟁조정법 12대 중과실의 법적 명확성 논란",
+    "사용량 연동 약가 인하와 글로벌 약가 압박",
+    "휴머노이드 수술보조로봇의 임상 진입 준비"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "코로나",
+        "독감",
+        "예방접종",
+        "백신",
+        "인플루엔자"
+      ],
+      "articles": [
+        {
+          "title": "독감&#183;코로나 동시 유행 우려…손 씻기만큼 ‘예방접종’ 중요",
+          "source": "의학신문",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[의학신문&#183;일간보사] 인플루엔자와 코로나19가 동시에 유행하는 ‘트윈데믹’ 우려가 커지고 있다. 손 씻기와 마스크 착용 등 기본적인 위생수칙도 중요하지만 고령자와 만성질환자는 감염 후 폐렴이나 입원으로 이어질 위험이 높은 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "11시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012413"
+        },
+        {
+          "title": "추석 앞두고 빨리 찾아온 독감… 인플루엔자&#183;코로나19 백신 동시접종을",
+          "source": "문화일보 on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "전남광주=김대우 기자 올해 예년보다 일찍 인플루엔자(독감)가 확산하면서 국가예방접종이 약 일주일 앞당겨진 가운데 전남광주시가 추석 연휴를 앞두고 호흡기감염병 예방 캠페인을 펼친다. 전남광주시는 오는 10월 2일까지 3주간 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%B6%94%EC%84%9D-%EC%95%9E%EB%91%90%EA%B3%A0-%EB%B9%A8%EB%A6%AC-%EC%B0%BE%EC%95%84%EC%98%A8-%EB%8F%85%EA%B0%90-%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%97%94%EC%9E%90-%EC%BD%94%EB%A1%9C%EB%82%9819-%EB%B0%B1%EC%8B%A0-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%A2%85%EC%9D%84/ar-AA2ctfwr?ocid=BingNewsVerp"
+        },
+        {
+          "title": "코로나19 예방접종, 필수 예방접종으로 전환…내달 12일부터 순차 접종",
+          "source": "메디컬투데이 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[mdtoday = 김미경 기자] 그간 임시 예방접종으로 시행돼 온 코로나19 예방접종이 필수 예방접종으로 전환된다. 올해 접종은 오는 10월 12일부터 70세 이상 고령층과 면역저하자 등을 대상으로 순차적으로 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%BD%94%EB%A1%9C%EB%82%9819-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%ED%95%84%EC%88%98-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98-%EB%82%B4%EB%8B%AC-12%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%88%9C%EC%B0%A8-%EC%A0%91%EC%A2%85/ar-AA2ctfgj?ocid=BingNewsVerp"
+        },
+        {
+          "title": "열나고 아픈 건 비슷한데… 감기 vs 독감 vs 코로나19, 어떻게 다를까",
+          "source": "코메디닷컴",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "독감은 증상 발현이 빠른 것이 특징이다.&#160;아침 저녁이 다르고,&#160;자기 전과 일어난 뒤가 다를 수 있다.&#160;고열,&#160;오한,&#160;심한 근육통,&#160;두통,&#160;극심한 피로감이 주요 증상이다.&#160;노인이나 기저질환이 있는 사람은 심각한 합병증으로 자칫 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://kormedi.com/2868893/"
+        },
+        {
+          "title": "인플루엔자&#183;코로나 백신, 동시에 맞아도 괜찮나?",
+          "source": "헬스조선 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "올해 인플루엔자 유행주의보가 예년보다 이르게 발령된 가운데 코로나19도 다시 증가하는 모습을 보이고 있다. 특히 추석 연휴를 앞두고 가족 모임과 이동이 늘어나면 호흡기 감염병이 확산할 가능성도 커질 수 있다. 기본적인 감염 예방수칙도 중요하지만 예방접종을 통해 고위험군 전파를 막을 필요가 있다. ◇독감&#183;코로나, 증상 비슷해 구분 어려워질병관리청은 ",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EC%9D%B8%ED%94%8C%EB%A3%A8%EC%97%94%EC%9E%90-%EC%BD%94%EB%A1%9C%EB%82%98-%EB%B0%B1%EC%8B%A0-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%A7%9E%EC%95%84%EB%8F%84-%EA%B4%9C%EC%B0%AE%EB%82%98/ar-AA2cu58c?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "인하",
+        "약가"
+      ],
+      "articles": [
+        {
+          "title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환 [건강한겨레]",
+          "source": "한겨레",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "미국 트럼프 행정부가 글로벌 제약사를 상대로 약가 인하와 현지 투자 압박 수위를 한층 더 높이고 있다. 한국보건산업진흥원(KHIDI) 글로벌바이오헬스산업동향에 따르면, 미국 도널드 트럼프 행정부는 지난달 31일 9개 글로벌 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"
+        },
+        {
+          "title": "건보공단, 사용량 늘어난 의약품 80개 약가 인하… 건보재정 339억 절감",
+          "source": "헬스조선 on MSN",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "건강보험 급여 약제 가운데 사용량이 크게 늘어난 80개 품목의 약값이 지난 1일부터 평균 4.6% 인하됐다. 국민건강보험공단은 이를 통해 건강보험 재정 약 339억 원을 절감할 수 있을 것으로 전망했다. 건보공단은 올해 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/other/%EA%B1%B4%EB%B3%B4%EA%B3%B5%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%8A%98%EC%96%B4%EB%82%9C-%EC%9D%98%EC%95%BD%ED%92%88-80%EA%B0%9C-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98-%EA%B1%B4%EB%B3%B4%EC%9E%AC%EC%A0%95-339%EC%96%B5-%EC%A0%88%EA%B0%90/ar-AA2ctuJG?ocid=BingNewsVerp"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "에스티팜, 913억 규모 올리고 핵산 치료제 원료의약품 납품 外",
+      "source": "톱데일리",
+      "importance": 42,
+      "snippet": "에스티팜은 미국 소재 글로벌 바이오텍 기업과 913억원 규모의 올리고 핵산 치료제 원료의약품 공급계약을 체결. 이는 올리고 핵산 원료의약품 단일 계약 기준 역대 최대 규모라는 설명. 고객사는 계약서 상 비밀유지 조항에 따라 ...",
+      "url": "https://www.topdaily.kr/articles/112033"
+    },
+    {
+      "title": "서울성모병원, 전공의 교육 위한 인프라 재정비",
+      "source": "의학신문",
+      "importance": 42,
+      "snippet": "[의학신문&#183;일간보사=정광성 기자] 서울성모병원이 전공의 수련교육을 지원하기 위해 임상 술기와 학술연구를 한 공간에서 수행할 수 있는 교육 인프라를 재정비했다. 서울성모병원 (원장 이지열)은 최근 별관 4층에 위치한 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012457"
+    },
+    {
+      "title": "신천연합병원, '세계 환자안전의 날' 맞아 2026 환자안전&#183;감염관리 주간행사 성료",
+      "source": "신아일보",
+      "importance": 42,
+      "snippet": "경기 시흥 신천연합병원이 세계 환자안전의 날을 맞아 환자와 보호자, 임직원이 함께 손위생과 낙상예방 등 안전수칙을 체험하는 행사를 열었다. 형광물질을 활용해 손씻기 상태를 직접 확인하는 프로그램 등을 통해 감염예방과 ...",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063990"
+    },
+    {
+      "title": "추석 병원비 1800원→4600원, 65세 이상만 2.5배 뛴다",
+      "source": "매일신문 on MSN",
+      "importance": 40,
+      "snippet": "평소 동네의원에서 1800원만 내고 혈압약 처방을 받던 70대 환자가 추석 당일 감기로 같은 의원을 찾으면 수납창구에서 4600원을 청구받는다. 진료 내용도, 의사도 그대로다. 달라진 것은 날짜뿐이다. 올해 추석은 9월 25일 금요일로, 24일부터 2 ...",
+      "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%B6%94%EC%84%9D-%EB%B3%91%EC%9B%90%EB%B9%84-1800%EC%9B%90-4600%EC%9B%90-65%EC%84%B8-%EC%9D%B4%EC%83%81%EB%A7%8C-2-5%EB%B0%B0-%EB%9B%B4%EB%8B%A4/ar-AA2ct1Ni?ocid=BingNewsVerp"
+    },
+    {
+      "title": "지씨셀 CAR-NK 신약, 서울대병원 '치료목적 사용' 승인",
+      "source": "조선비즈 on MSN",
+      "importance": 32,
+      "snippet": "지씨셀의 CAR-NK 세포치료제 GCC2005가 말초 T세포 림프종 환자 치료 목적 사용 승인을 받았다. 서울대병원이 임상시험을 통해 환자에게 투여할 예정이다.",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%A7%80%EC%94%A8%EC%85%80-car-nk-%EC%8B%A0%EC%95%BD-%EC%84%9C%EC%9A%B8%EB%8C%80%EB%B3%91%EC%9B%90-%EC%B9%98%EB%A3%8C%EB%AA%A9%EC%A0%81-%EC%82%AC%EC%9A%A9-%EC%8A%B9%EC%9D%B8/ar-AA2cu3Dx?ocid=BingNewsVerp"
+    },
+    {
+      "title": "프레스티지바이오파마 '투즈뉴', 트리니다드토바고 품목허가",
+      "source": "뉴스핌",
+      "importance": 32,
+      "snippet": "[서울=뉴스핌] 이나영 기자 설희 인턴기자=&#160;프레스티지바이오파마의 허셉틴 바이오시밀러 '투즈뉴(TUZUNE)'가 트리니다드토바고에서 품목허가를 획득했다.18일 프레스티지바이오파마에 따르면 이번 허가는 회사가 브라질과 콜롬비아 ...",
+      "url": "https://www.newspim.com/news/view/20260918000197"
+    },
+    {
+      "title": "약가 전략부터 AI 혁신까지...전문가들이 말하는 제약산업 핵심 패러다임은?",
+      "source": "팜뉴스",
+      "importance": 32,
+      "snippet": "[팜뉴스=김응민 기자] 제약바이오 산업 전반에서 활약하는 삼육대 약대 동문들이 지난 17일 한자리에 모여 최신 산업 트렌드와 현장의 실무 인사이트를 공유하는 뜻깊은 시간을 가졌다. 삼육대 약대 제약동문은 지난 17일 삼육대학교 장근청홀에서 '제1회 제명포럼 2026'을 성황리에 개최했다. 이번 행사는 선후배 간 실질적인 교류와 협력의 기반을 위해 마련된 자",
+      "url": "https://www.pharmnews.com/news/articleView.html?idxno=306387"
+    },
+    {
+      "title": "[혁신형 인증 영향도] 한미약품, 인증 넘어 글로벌 '경쟁력' 성과",
+      "source": "FETV",
+      "importance": 32,
+      "snippet": "[편집자 주] 보건복지부가 제네릭(복제약) 약가제도와 혁신형 제약기업 인증제도를 잇달아 손질하면서 제약업계의 셈법도 복잡해지고 있다. FETV는 제도개편이 제약사에 미칠 영향과 혁신형 제약기업의 R&amp;D 투자 현황을 점검해보고자 한다. [FETV=이건우 기자] 한미약품이 혁신형 제약기업 연구개발(R&amp;D) 기준 강화에도 안정적인 위치를 유지할 것",
+      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=310349"
+    },
+    {
+      "title": "의료분쟁조정법 ‘12대 중과실’ 논란...“하위법령만으로 한계 넘기 어렵다”",
+      "source": "의학신문",
+      "importance": 32,
+      "snippet": "특히 법조계와 의료현장에서는 12대 중과실을 법률로 구체화한 방식이 오히려 법적 불확실성을 키울 수 있다는 지적이 제기됐다. 의료사고의 원인을 개인의 과실 여부만으로 판단하기보다 당시 의료환경과 시스템의 문제까지 함께 살펴야 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012293"
+    },
+    {
+      "title": "의사가 손 내밀자, 가위가 ‘쓱’…수술실에 들어온 휴머노이드 ‘동료’[현장]",
+      "source": "매거진한경 on MSN",
+      "importance": 32,
+      "snippet": "“가위 줘.”수술대 왼쪽에 서 있던 휴머노이드 로봇이 움직였다. 머리 부분의 카메라가 수술대 옆에 놓인 도구들을 훑었다. 로봇의 팔이 천천히 내려가 가위를 집더니 집도의(의료진)를 향해 내밀었다.“따라와.”이번에는 맞은편에 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EC%82%AC%EA%B0%80-%EC%86%90-%EB%82%B4%EB%B0%80%EC%9E%90-%EA%B0%80%EC%9C%84%EA%B0%80-%EC%93%B1-%EC%88%98%EC%88%A0%EC%8B%A4%EC%97%90-%EB%93%A4%EC%96%B4%EC%98%A8-%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C-%EB%8F%99%EB%A3%8C-%ED%98%84%EC%9E%A5/ar-AA2cs0RF?ocid=BingNewsVerp"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 6,
+      "en_count": 4
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 9
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 3,
+      "en_count": 5
+    }
+  ]
+}

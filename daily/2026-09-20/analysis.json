@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-20",
+  "total_articles": 241,
+  "language_breakdown": {"korean": 90, "english": 90, "multilingual": 61},
+  "issues": [
+    {
+      "topic": "독감·코로나 동시 유행과 예방접종 전환",
+      "domain": "clinical",
+      "significance": "high",
+      "article_count": 5,
+      "avg_importance": 42,
+      "key_articles": [
+        {"title": "독감·코로나 동시 유행 우려…손 씻기만큼 ‘예방접종’ 중요", "importance": 47, "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012413"},
+        {"title": "코로나19 예방접종, 필수 예방접종으로 전환…내달 12일부터 순차 접종", "importance": 42, "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%BD%94%EB%A1%9C%EB%82%9819-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%ED%95%84%EC%88%98-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98-%EB%82%B4%EB%8B%AC-12%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%88%9C%EC%B0%A8-%EC%A0%91%EC%A2%85/ar-AA2ctfgj?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "독감 유행이 예년보다 빨라지고 코로나19 재증가 우려가 겹치면서 고위험군 대상 코로나 예방접종이 필수예방접종으로 전환된다.",
+      "summary_en": "Earlier influenza circulation and renewed COVID-19 concerns are driving a shift to routine COVID vaccination, with high-risk groups prioritized."
+    },
+    {
+      "topic": "국내외 약가 인하 압력 확대",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "알콘 등 9개 제약사, ‘미국과 관세 면제-약가 인하’ 교환", "importance": 60, "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278407.html"},
+        {"title": "건보공단, 사용량 늘어난 의약품 80개 약가 인하… 건보재정 339억 절감", "importance": 35, "url": "https://www.msn.com/ko-kr/health/other/%EA%B1%B4%EB%B3%B4%EA%B3%B5%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%9F%89-%EB%8A%98%EC%96%B4%EB%82%9C-%EC%9D%98%EC%95%BD%ED%92%88-80%EA%B0%9C-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98-%EA%B1%B4%EB%B3%B4%EC%9E%AC%EC%A0%95-339%EC%96%B5-%EC%A0%88%EA%B0%90/ar-AA2ctuJG?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "국내에서는 사용량 연동으로 80개 품목의 약가가 평균 4.6% 인하되고, 미국은 관세·현지투자와 약가 인하를 연계해 다국적사 압박을 높이고 있다.",
+      "summary_en": "Korea is cutting prices for 80 high-use medicines, while US tariff and investment negotiations add international pressure on manufacturers to reduce prices."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 6, "en_count": 4, "significance": "high"},
+    {"keyword": "허가", "kr_count": 3, "en_count": 9, "significance": "medium"},
+    {"keyword": "약가", "kr_count": 3, "en_count": 5, "significance": "high"}
+  ],
+  "notable_absences": ["시간 정보가 없거나 필터 기준을 충족하지 못한 222건은 분석 대상에서 제외됨.", "중국어 간체 등 일부 저빈도 언어의 수집량이 제한적임."],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": ["호흡기 감염 대응의 예방접종 전환과 약가 인하는 공공재정과 보건 접근성의 균형이라는 공통 과제를 보인다."],
+  "generated_at": "2026-09-21T07:31:00+09:00"
+}
