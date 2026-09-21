@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-22",
+  "total_articles": 1,
+  "source_total_articles": 402,
+  "language_breakdown": {"korean": 1, "english": 0, "multilingual": 0},
+  "issues": [],
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 2, "en_count": 2, "significance": "medium"},
+    {"keyword": "허가", "kr_count": 10, "en_count": 3, "significance": "medium"},
+    {"keyword": "임상", "kr_count": 3, "en_count": 1, "significance": "low"},
+    {"keyword": "약가", "kr_count": 9, "en_count": 2, "significance": "medium"}
+  ],
+  "notable_absences": [
+    "시간 범위 필터로 401건이 제외되어 분석 대상은 1건임.",
+    "분석 대상 기사의 URL이 Google News CBM 중간 URL이어서 직접 기사 검증 및 심층 분석을 수행할 수 없음."
+  ],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": [],
+  "generated_at": "2026-09-22T07:31:32+09:00"
+}

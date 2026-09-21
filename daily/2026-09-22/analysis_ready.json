@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-22",
+  "total_articles": 402,
+  "language_breakdown": {
+    "korean": {
+      "total": 173,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 24,
+        "의약정책": 15,
+        "의약단체": 25,
+        "의약관련정부기관": 20,
+        "의료현장": 10,
+        "약국·약사": 3,
+        "의료정책·인력": 25,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 100,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 5,
+        "Dutch / 네덜란드어": 6,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 5,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 18
+    },
+    {
+      "keyword": "허가",
+      "count": 10
+    },
+    {
+      "keyword": "급여",
+      "count": 10
+    },
+    {
+      "keyword": "약가",
+      "count": 9
+    },
+    {
+      "keyword": "FDA",
+      "count": 7
+    },
+    {
+      "keyword": "제네릭",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 4
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "식약처",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "CRO",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 21
+    },
+    {
+      "keyword": "regulation",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 3
+    },
+    {
+      "keyword": "vaccine",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "약사공론",
+      "count": 3
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 2
+    },
+    {
+      "source": "뉴스1",
+      "count": 1
+    },
+    {
+      "source": "2news",
+      "count": 1
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 1
+    },
+    {
+      "source": "보건신문",
+      "count": 1
+    },
+    {
+      "source": "컨슈머타임스",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "[넥스트 K-제약바이오③] 기술수출 넘어 상업화로...K제약, 글로벌 사업 역량 키운다 - 뉴스투데이",
+      "source": "",
+      "importance": 22,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVEhjUUI2ck9lRE9FTVZfa1hnOTd3MlpfVHJQVDFZZ0sxOFVNSmpuSlBQX2k0VnVCNVlEZ0dMdzAyZ0xGdzdWODRwd2ZNTlVicG5TT3RlOGx6ZWY1UEE?oc=5\" target=\"_blank\">",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVEhjUUI2ck9lRE9FTVZfa1hnOTd3MlpfVHJQVDFZZ0sxOFVNSmpuSlBQX2k0VnVCNVlEZ0dMdzAyZ0xGdzdWODRwd2ZNTlVicG5TT3RlOGx6ZWY1UEE?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 3
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 9,
+      "en_count": 2
+    }
+  ]
+}

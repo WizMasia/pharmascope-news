@@ -1,0 +1,552 @@
+{
+  "date": "2026-09-22",
+  "total": 402,
+  "version": 1,
+  "generated_at": "2026-09-22T06:31:31.054410+09:00",
+  "korean": {
+    "total": 173,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 24,
+      "의약정책": 15,
+      "의약단체": 25,
+      "의약관련정부기관": 20,
+      "의료현장": 10,
+      "약국·약사": 3,
+      "의료정책·인력": 25,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "총궐기 마친 약사회, 약 배송 저지 '2라운드'…후속 투쟁 로드맵은",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:149위+2",
+        "snippet": "비대위는 전날 서울 광화문에서 약사 7000여명과 약대생 3000여명 등 주최 측 추산 1만여명이 참여한 전국 약사 총궐기대회를 개최했다. 대규모 장외집회로 약사사회의 반대 여론을 결집했다면, 앞으로는 국회와 정부를 상대로 약 배송 확대 방침 철회를 요구하는 동시에 비대면진료의 세부 기준을 둘러싼 정책&#183;입법 대응에 집중한다는 계획이다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332869"
+      },
+      {
+        "title": "케이바이오솔루션, FDA 허가용 의료기기 동물시험 5건 계약…CRO 사업 확대",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:119위+2",
+        "snippet": "케이바이오솔루션 (대표 강경윤)은 치과 멤브레인과 골이식재 비글스터디 등 동물시험 4건과 돼지 동물시험 설계 1건을 포함해 총 5건의 의료기기 동물시험 관련 계약을 체결했다고 22일 밝혔다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332872"
+      },
+      {
+        "title": "FDA, 산필리포증후군 첫 유전자치료제 '파유비' 승인",
+        "source": "약사공론",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:9시간+15 | 키워드+20 | 순위:120위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 미국 식품의약국(FDA)이 울트라제닉스(Ultragenyx)의 유전자치료제 '파유비(Fayuvi)'를 뮤코다당증 IIIA형(MPS IIIA), 이른바 산필리포증후군 A형(Sanfilippo syndrome type A) 소아 환자를 위한 첫 치료제로 승인했다. 지난해 허가 거절과 최근 후기 임상 실패를 겪은 회",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544514"
+      },
+      {
+        "title": "연구실 밖으로 나온 오가노이드…신약&#183;치료제 산업 새판 짠다",
+        "source": "뉴스1",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴스1+10 | 최신:5시간+20 | 키워드+20 | 순위:150위+2",
+        "snippet": "신약개발&#183;독성평가&#183;정밀의료로 활용 확대 표준화&#183;재현성&#183;규제 기준 확보가 관건 오가노이드가 질환을 재현하는 연구용 모델을 넘어 신약개발과 독성평가, 정밀의료 등에 활용되는 산업 기술로 영역을 넓히고 있다. 인간 장기와 유사한 구조와 기능을 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.news1.kr/bio/pharmaceutical-bio/6297582"
+      },
+      {
+        "title": "빌로이, 약가협상 타결&#183;&#183;&#183; 험난했던 급여 진입 '마침표'",
+        "source": "메디칼업저버",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디칼업저버+10 | 최신:5시간+20 | 키워드+20 | 순위:89위+2",
+        "snippet": "빌로이의 급여 진입 과정은 순탄치 않았다. 2024년 9월 식품의약품안전처 허가를 받은 다음해 2월 건강보험심사평가원 암질환심의위원회 (암질심) 문을 두드렸지만 한 차례 고배를 들어야 했다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=414085"
+      },
+      {
+        "title": "진료지침은 바뀌었는데…당뇨 급여기준은 메트포르민 중심",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:90위+2",
+        "snippet": "국내 당뇨병 진료지침은 혈당 수치뿐 아니라 심혈관&#183;신장질환 등 동반질환과 환자 특성을 반영하는 방향으로 바뀌었지만, 건강보험 급여기준은 여전히 메트포르민 단독요법을 기본으로 한 단계적 구조를 유지하고 있다. 지난해 대한당뇨병학회가 메트포르민 우선 권고를 삭제했지만, 진료지침과 급여기준 사이의 간극은 남아 있다. 건강보험심사평가원 청구자료 기준 당뇨",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=418046"
+      },
+      {
+        "title": "CSO 제도화 시동…제약 영업&#183;유통 투명성 시험대",
+        "source": "중소기업신문",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:11시간+15 | 키워드+5 | 순위:156위+2",
+        "snippet": "의약품 판촉영업자(CSO) 업계를 대표하는 단체가 정식 법인으로 전환하기 위한 움직임에 나섰다. 정부도 CSO 시장에 대한 관리&#183;감독 강화 방안을 논의하고 있어 국내 의약품 유통&#183;판촉 구조에 변화가 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363525"
+      },
+      {
+        "title": "광화문 메운 약사&#183;약대생 1만명…&quot;약 배송 확대 멈춰라&quot;",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:15시간+10 | 키워드+10 | 순위:150위+2",
+        "snippet": "20일 서울 광화문에서 열린 ‘국민건강&#183;건강보험 수호 전국 약사 총궐기대회’에 전국에서 모인 약사와 약대생들이 참석해 있다. 주최 측 추산 1만여명이 이날 집회에 참여했다. &#169;대한약사회전국에서 모인 약사와 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332790"
+      },
+      {
+        "title": "[포토] 광화문에 모인 1만 약사 &quot;약 배송 졸속 추진 중단하라&quot;",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:152위+2",
+        "snippet": "&quot;무분별한 약 배송, 국민건강 위협한다!&quot; &quot;의료민영화 불러오는 약 배송 중단하라!&quot; 전국 각지에서 모인 약사들이 20일 오후 서울 광화문 동화면세점 앞에서 열린 '국민건강&#183;건강보험 수호 전국 약사 총궐기대회'에서 한 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417970"
+      },
+      {
+        "title": "[여론광장] 한의사 세계 진출, 진정한 K-메디슨 시작이다",
+        "source": "울산제일일보",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:울산제일일보+10 | 최신:22시간+10 | 키워드+10 | 순위:6위+15",
+        "snippet": "한국 의료의 세계화가 빠르게 진행되고 있다. 국내 병원과 의료기술을 찾는 외국인 환자가 늘고, K-뷰티와 K-헬스케어의 영향력도 날로 커지고 있다. 그러나 한국 의료의 세계화를 논하면서 한의학과 한의사를 배제한다면, 진정한 의미의 ‘K-메디슨(K-Medicine)’이라 부르기 어렵다. 문제는 국가가 공인한 의료인인 한의사가 국제사회에서는 정규 교육과 면허를",
+        "published_time": "22시간",
+        "modified_time": "",
+        "time": "22시간",
+        "url": "http://www.ujeil.com/news/articleView.html?idxno=392343"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        18
+      ],
+      [
+        "허가",
+        10
+      ],
+      [
+        "급여",
+        10
+      ],
+      [
+        "약가",
+        9
+      ],
+      [
+        "FDA",
+        7
+      ],
+      [
+        "제네릭",
+        5
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "한약",
+        3
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "식약처",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "CRO",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "약사공론",
+        3
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "메디파나 뉴스",
+        2
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        2
+      ],
+      [
+        "뉴스1",
+        1
+      ],
+      [
+        "2news",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "보건신문",
+        1
+      ],
+      [
+        "컨슈머타임스",
+        1
+      ],
+      [
+        "중소기업신문",
+        1
+      ],
+      [
+        "전자신문 on MSN",
+        1
+      ],
+      [
+        "서울경제TV SEN on MSN",
+        1
+      ],
+      [
+        "울산제일일보",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 129,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 4
+    },
+    "top_articles": [
+      {
+        "title": "What Ancient Tibetan Medicine Can Teach the Modern Traveller About Burnout - HospiBuz",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 10:14:10 GMT+5 | 키워드+30 | 순위:16위+5",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFVOZkktRG9PSi1TU0ZLQm04cDlUSWhqTXZhR3lGbFRDSGxyTnZpSmRFVkVrZ0t0VUtwTTdlbnFDNnczMlNadjFLVnY3MGFYTzA5MFNoQ1BfOWdwQWF0TVA5NFN2YU1JNkdhZFhBaG",
+        "published_time": "Mon, 21 Sep 2026 10:14:10 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 10:14:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWFVOZkktRG9PSi1TU0ZLQm04cDlUSWhqTXZhR3lGbFRDSGxyTnZpSmRFVkVrZ0t0VUtwTTdlbnFDNnczMlNadjFLVnY3MGFYTzA5MFNoQ1BfOWdwQWF0TVA5NFN2YU1JNkdhZFhBaGw0QThndGU4RVl3a3UwQVNBUjI4TURoRnRvdHl2ekFoeVFIeHBVUldPVEdReHRyOEUwd0pCekZ1RzZfZTQ5M1VYQVlvN19CY1pMUnpZMmZqVGQxNU900gHEAUFVX3lxTE1YVU5mSS1Eb09KLVNTRktCbThwOVRJaGpNdmFHeUZsVENIbHJOdmlKZEVWRWtnS3RVS3BNN2VucUM2dzMyU1p2MUtWdjcwYVhPMDkwU2hDUF85Z3BBYXRNUDk0U3ZhTUk2R2FkWEFobDRBOGd0ZThFWXdrdTBBU0FSMjhNRGhGdG90eXZ6QWh5UUh4cFVSV09UR1F4dHI4RTB3SkJ6RnVHNl9lNDkzVVhBWW83X0JjWkxSelkyZmpUZDE1T3Q?oc=5"
+      },
+      {
+        "title": "The evolving landscape of drug targets - Nature",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 14:17:40 GMT+5 | 키워드+30 | 순위:271위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1VFJNM3VaM2JZbTVYeHV3NXNSbGljWlQtMnpEVnlJTzFsMEMxUHV5LVF6T3d0bndHRGNMOW16R253U3g4OUV4dnJQUDBNVlZfMVJaVG85OUh6Nk5WNkRr?oc=5\" target=\"_blank\"",
+        "published_time": "Mon, 21 Sep 2026 14:17:40 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 14:17:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1VFJNM3VaM2JZbTVYeHV3NXNSbGljWlQtMnpEVnlJTzFsMEMxUHV5LVF6T3d0bndHRGNMOW16R253U3g4OUV4dnJQUDBNVlZfMVJaVG85OUh6Nk5WNkRr?oc=5"
+      },
+      {
+        "title": "Xenon Submits New Drug Application for Azetukalner as Treatment for Focal Seizures - NeurologyLive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 17:30:23 GMT+5 | 키워드+30 | 순위:272위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdll2Ym1MbEI1eVV0U3NrOFk0SXo2ekcwREhieGRuc1g5XzVyaVlPVWQzTlJhTTVjTXJUM0gzcWZPRWVULVJxTHpROWE5QzlnUkNUazYyWjNncWgwVW5lLVA4NEZ2LU5JNUdQemFCbT",
+        "published_time": "Mon, 21 Sep 2026 17:30:23 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 17:30:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdll2Ym1MbEI1eVV0U3NrOFk0SXo2ekcwREhieGRuc1g5XzVyaVlPVWQzTlJhTTVjTXJUM0gzcWZPRWVULVJxTHpROWE5QzlnUkNUazYyWjNncWgwVW5lLVA4NEZ2LU5JNUdQemFCbTNoUU04dmRsZFM2dDV2NUpiaFdqOHRfd2M5RUdfS2diZmZpd0RGVmFybEtLNWctSTh1UFkzMTA5T216QQ?oc=5"
+      },
+      {
+        "title": "Weight-loss drug developers line up to tap lucrative market as competition heats up - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 13:19:18 GMT+5 | 키워드+30 | 순위:274위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEZFOGxYRS1mQVEzWGNzaXNkZWc1U25feEpuRUhNQ21ZcW9xTC1iWlpvWUVEc1dzSW50cFVlMF80Q09CVjV3OXZhb2hrRnlHZlYzTGViYVBvWjlrcEx0cW5FVE1HVmhGN0Y1NXhrUT",
+        "published_time": "Mon, 21 Sep 2026 13:19:18 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 13:19:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEZFOGxYRS1mQVEzWGNzaXNkZWc1U25feEpuRUhNQ21ZcW9xTC1iWlpvWUVEc1dzSW50cFVlMF80Q09CVjV3OXZhb2hrRnlHZlYzTGViYVBvWjlrcEx0cW5FVE1HVmhGN0Y1NXhrUTJKRXBVOUNqaFJZZ2FmdzF5cnlFS180dk5vNUJFQlpRMlFEOGRsWXNndk8tMnJZX2dhRDJNYnZTb0gwSzh2RXp0dXhWTnZaUlp5UEcydzh5Mlo?oc=5"
+      },
+      {
+        "title": "China targets 25% of global first-in-class drugs by 2030 in new pharma five-year-plan - AllSci",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 12:06:26 GMT+5 | 키워드+30 | 순위:275위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUDZJQ2pPTUJ0VUNfQ1VEaDV5d25RVVgxRVZfOHItd3Vwcm12NHlJSVNEUDRiQ2pTQmZLWnAxcmt0NU5ya1FiUzhKcDdoY1lIR2RzRmQxOWxhN1I5VUlDYnhqVmVvM2JjY1lUMFJELV",
+        "published_time": "Mon, 21 Sep 2026 12:06:26 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 12:06:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1WUDZJQ2pPTUJ0VUNfQ1VEaDV5d25RVVgxRVZfOHItd3Vwcm12NHlJSVNEUDRiQ2pTQmZLWnAxcmt0NU5ya1FiUzhKcDdoY1lIR2RzRmQxOWxhN1I5VUlDYnhqVmVvM2JjY1lUMFJELVZqWWU1VElfd2Rqaw?oc=5"
+      },
+      {
+        "title": "What Lilly Stock's Breast Cancer Drug Approval Means For Shareholders - simplywall.st",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 19:25:31 GMT+5 | 키워드+30 | 순위:278위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU1GcS10cTdyWkVQYkRXWDk3RERQWDg1MFZObHFkVDNhZnNEekI5dmxiS1ZhcFhRU0tMdlB4TVJiZDItbUl4UmctMUVrYkJzeUpZM2tJc1YwVUxrTUJTU1JSZG9CSkxMZUJTSmpTUV",
+        "published_time": "Mon, 21 Sep 2026 19:25:31 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 19:25:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZU1GcS10cTdyWkVQYkRXWDk3RERQWDg1MFZObHFkVDNhZnNEekI5dmxiS1ZhcFhRU0tMdlB4TVJiZDItbUl4UmctMUVrYkJzeUpZM2tJc1YwVUxrTUJTU1JSZG9CSkxMZUJTSmpTUVZpSmtKdWdyZmdLOUo3dHI3R2NrVVI4U1phMDV2bVhJSURxS1Y0UWJTUmdqOGNQLWpsSmFCMmNZMG9NbnZqci1idDFmSEdwNUtrRXlKOFVKYVg0X3BTVDA0VVk5d3lSME43b1RuRW5Jd9IB3AFBVV95cUxPWVlJNm96aGJxX01HLTJ4YjFhMU5XWGpfWEVYaU9hcWdlaWwzS3dnOEMyWTBSSHZiV2RVTjFBLVZxSGtpX3ROR0pXUVNSa25QM3hUT1BUTGJKTkxZeXdNUGwxZC1KLW9mN1J0NHJMekFLcmJmNEFMSTBnN0k4eGFRZ3pxUGg3MlBBbHB1UHIyVXhCLUM5bUtEN2t4WFRxbm1Rc0llblpZQWFVaF9iUy1EN1hYTmdQUGFtRktQY2oyLW51cDRSb2dma2paRXVFUEEzUGVVUTdramdMb0FC?oc=5"
+      },
+      {
+        "title": "How J&J paved the way for Compass’ coming psychedelic drug launch - BioPharma Dive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 11:34:34 GMT+5 | 키워드+30 | 순위:280위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndEcXZjMUtkVGR4Ry1PZVUyWGhXclBlaGk4RmdQWkljZVF3NVB0VDdsNC1uYkRBYS1JckEzRHI2UmVFLWh0UXctSkR4Skw3cnI1cVJXZ3NPcWIxWUhLQ0t1REhoWFdXUnZOR2xCc2",
+        "published_time": "Mon, 21 Sep 2026 11:34:34 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 11:34:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcndEcXZjMUtkVGR4Ry1PZVUyWGhXclBlaGk4RmdQWkljZVF3NVB0VDdsNC1uYkRBYS1JckEzRHI2UmVFLWh0UXctSkR4Skw3cnI1cVJXZ3NPcWIxWUhLQ0t1REhoWFdXUnZOR2xCc2VjTXpGZEN0c3VhMU9yalpLRlkxbU9NakJ3ZHlVX0JvbFByemdscWptMW16a3gzVTlGdnl2RGVUeG84YjZN?oc=5"
+      },
+      {
+        "title": "Electra’s Upsized IPO Lands $350M for New Class of Precision Immunology Drugs - Dealbreaker",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 15:00:00 GMT+5 | 키워드+30 | 순위:284위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3dPUWNiSTZyOUk2MGdWbTNrbVY5bjI3WUJtR3h3Mk5xWi03d09IVTFORXdqbUk3NmtoOXhoSi1YTEtUMkk5Rmx0amdTaHJqT1ZNMzlNUlRaMDE3Mm1Od19SNElBS2t6cEd5d2NPeX",
+        "published_time": "Mon, 21 Sep 2026 15:00:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3dPUWNiSTZyOUk2MGdWbTNrbVY5bjI3WUJtR3h3Mk5xWi03d09IVTFORXdqbUk3NmtoOXhoSi1YTEtUMkk5Rmx0amdTaHJqT1ZNMzlNUlRaMDE3Mm1Od19SNElBS2t6cEd5d2NPeXpfRnBWbEM2VFhYYU81ZHFISVRpcGJ0Mk9MZUZiVFNZUnN0dkdHZW9oVkVmRUpZekZFMEs0M0M5RjB4blk?oc=5"
+      },
+      {
+        "title": "AZ's gMG drug Klygefa nears EU approval - pharmaphorum",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 08:27:32 GMT+5 | 키워드+30 | 순위:286위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9uNzM3RzdnRS1sQkJQb0g2dndDRWE3bTNoZVJYbVZKcXRic1JYM0Z5OHAzcW0xcnJOSnNsQ09HR0VjRHhHc21zTFIzek1uNU13YVlncmEtMUJmV0hiT3lDLXVjN1VxM2JXTEVhcndZNV",
+        "published_time": "Mon, 21 Sep 2026 08:27:32 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 08:27:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uNzM3RzdnRS1sQkJQb0g2dndDRWE3bTNoZVJYbVZKcXRic1JYM0Z5OHAzcW0xcnJOSnNsQ09HR0VjRHhHc21zTFIzek1uNU13YVlncmEtMUJmV0hiT3lDLXVjN1VxM2JXTEVhcndZNVhTSmoyb3A4?oc=5"
+      },
+      {
+        "title": "Cybin highlights Phase 3 psychedelic depression drug | HELP SEC Filing - Form 6-K - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 20:53:44 GMT+5 | 키워드+30 | 순위:287위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHdHMkFqZlEtRkxZTl83LU4tV1U5d1h5UzNzNkN2ZXZFMVFGOFJadGp2S0lEVzZqX1lNbkVuOG9SNW1kTXV2dm95QUtldzVZSkdxVlJIMUdFOTVlXzBtT2FpZnFUdUR0Ri1VWEJPdk",
+        "published_time": "Mon, 21 Sep 2026 20:53:44 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 20:53:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHdHMkFqZlEtRkxZTl83LU4tV1U5d1h5UzNzNkN2ZXZFMVFGOFJadGp2S0lEVzZqX1lNbkVuOG9SNW1kTXV2dm95QUtldzVZSkdxVlJIMUdFOTVlXzBtT2FpZnFUdUR0Ri1VWEJPdkxmYy1OQkhXelZGUl9TQ01qM1pieDM1LWRhZnFmQUFrVnBzNTIydllqalRqdUVhQnJEWVg3bXV1dm8?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        21
+      ],
+      [
+        "regulation",
+        5
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "approval",
+        3
+      ],
+      [
+        "vaccine",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "recall",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 100,
+    "languages": {
+      "French / 프랑스어": 5,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 5,
+      "Portuguese / 포르투갈어": 5,
+      "Dutch / 네덜란드어": 6,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 10,
+      "Chinese Traditional / 대만": 5,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 8,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Rekabet Kurumu, ilaç sektörü sorunlarını ATO'da düzenlenen çalıştayda ele aldı - Haberler",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 07:50:12 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk5OZy05SC00UmF1MEw1QlFTc1p1dnRVdGMwWm4yakE4QXNPSVRUd1ZSbmp3cHBjamtIVzRKQk1ZdHlTSHlLVlI0OE03OTY1dndFS2FFbGZqd0dvS083WHg1Q1FON3hnLUlzQUU3bT",
+        "published_time": "Mon, 21 Sep 2026 07:50:12 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 07:50:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTk5OZy05SC00UmF1MEw1QlFTc1p1dnRVdGMwWm4yakE4QXNPSVRUd1ZSbmp3cHBjamtIVzRKQk1ZdHlTSHlLVlI0OE03OTY1dndFS2FFbGZqd0dvS083WHg1Q1FON3hnLUlzQUU3bTJ4MWVtSEF0czdYcjJ3YWdPUEdXTElVNHNoaFNxYUVoU1lJcnpUR1Bj0gGXAUFVX3lxTE5OTk5nLTlILTRSYXUwTDVCUVNzWnV2dFV0YzBabjJqQThBc09JVFR3VlJuandwcGNqa0hXNEpCTVl0eVNIeUtWUjQ4TTc5NjV2d0VLYUVsZmp3R29LTzdYeDVDUU43eGctSXNBRTdtMngxZW1IQXRzN1hyMndhZ09QR1dMSVU0c2hoU3FhRWhTWUlyelRHUGM?oc=5"
+      },
+      {
+        "title": "Ini Alasan Sistem Paten Farmasi Perlu Direformasi - investor.id",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 11:21:00 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOekR2T0dhR09aUWJsakIySVpITFI4RzBXcW5tV2g5dzk0WGpXRGJsX3VhRG5scDRhZFdiVTlfM25GNVlIOWQ3TlQwVWdUNFdKYm9iYnViQTdkN2ozN2cxOW91RGdxcjNjNXhkdUQ2RE",
+        "published_time": "Mon, 21 Sep 2026 11:21:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 11:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekR2T0dhR09aUWJsakIySVpITFI4RzBXcW5tV2g5dzk0WGpXRGJsX3VhRG5scDRhZFdiVTlfM25GNVlIOWQ3TlQwVWdUNFdKYm9iYnViQTdkN2ozN2cxOW91RGdxcjNjNXhkdUQ2RE9kUi1EbzdqQzRYeHlXLVVUeTV5eVpiQzVZRDFqU1d3?oc=5"
+      },
+      {
+        "title": "बिडीफर को 2026 में राष्ट्रीय ब्रांड के रूप में मान्यता मिली: फार्मास्युटिकल प्रौद्योगिकी में महारत हासिल करने की यात्रा। - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 11:41:45 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC0xU1dIZFA1b1lQUlJMaThObFZJRTdhUWg5U1B4di03OUJMNVhUYS1MRFlfWHpuMHQyYTI2RU5Zang4Vzk1QkFRZlhhYkhZUTJHbGFZVENFYzVMOGVpTjhDbFZ4RHdBUHl6bEpYR2",
+        "published_time": "Mon, 21 Sep 2026 11:41:45 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 11:41:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUC0xU1dIZFA1b1lQUlJMaThObFZJRTdhUWg5U1B4di03OUJMNVhUYS1MRFlfWHpuMHQyYTI2RU5Zang4Vzk1QkFRZlhhYkhZUTJHbGFZVENFYzVMOGVpTjhDbFZ4RHdBUHl6bEpYR2RHTlJ1LXE1Uy1aQWp2VnVhaUJtOG5aVHFZMHVUQWdUTU55aWRaRi04TXlOWHFvTXJCSG1mVTczOFAtdzZCS1E?oc=5"
+      },
+      {
+        "title": "รพ.ประชาธิปัตย์ชูภูมิปัญญาไทยจัดงานรณรงค์ใช้ยาสมุนไพรอย่างสมเหตุสมผล เปิดสรรพคุณ 10 พืชคู่ครัว - banmuang.co.th",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 11:13:00 GMT+5 | 키워드+20 | 순위:15위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aT3FlWTBQeEYzMXE3c0ttQXlJTWRvT2JXcVp6ZEh3ek9KLVJCaTVuU1AyeW1uNUxFaTZNQnF1NGlXQ3J5eTlneVE0LUpqcE9mZ1V0bHlWcUo?oc=5\" target=\"_blank\">รพ.ประชา",
+        "published_time": "Mon, 21 Sep 2026 11:13:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 11:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aT3FlWTBQeEYzMXE3c0ttQXlJTWRvT2JXcVp6ZEh3ek9KLVJCaTVuU1AyeW1uNUxFaTZNQnF1NGlXQ3J5eTlneVE0LUpqcE9mZ1V0bHlWcUo?oc=5"
+      },
+      {
+        "title": "Bidiphar diakui sebagai Merek Nasional pada tahun 2026: Perjalanan menuju penguasaan teknologi farmasi. - Vietnam.vn",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 21 Sep 2026 12:16:43 GMT+5 | 키워드+20 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2ZPRjE2bFA0ZnNCcG4zdWF1MDVFLWhkSUE3Q1phWVdYU3FXMjQ3b0NEcjBQQVBxeGtGWnEybXMzWWd2cXRnaGg3OWRKYk0tUjZHVVU0QUJFRnJzdF9oY190dXRGRHZxSWxZTXZ4Tj",
+        "published_time": "Mon, 21 Sep 2026 12:16:43 GMT",
+        "modified_time": "",
+        "time": "Mon, 21 Sep 2026 12:16:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2ZPRjE2bFA0ZnNCcG4zdWF1MDVFLWhkSUE3Q1phWVdYU3FXMjQ3b0NEcjBQQVBxeGtGWnEybXMzWWd2cXRnaGg3OWRKYk0tUjZHVVU0QUJFRnJzdF9oY190dXRGRHZxSWxZTXZ4TjYyazN5cTVUdTJWZ3RaaFJLWlFHYVg3WGVwaGtzX2QyOVJCdnBYQmVCRmcwWjFheUVVSW9sdEJySmFJakpRd0E?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
