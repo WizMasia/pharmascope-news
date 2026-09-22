@@ -1,0 +1,272 @@
+{
+  "date": "2026-09-23",
+  "total_articles": 394,
+  "language_breakdown": {
+    "korean": {
+      "total": 174,
+      "categories": {
+        "의약품": 24,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 14,
+        "의약관련정부기관": 19,
+        "의료현장": 20,
+        "약국·약사": 0,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 127,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 93,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 5,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 10,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 2,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 18
+    },
+    {
+      "keyword": "급여",
+      "count": 14
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "FDA",
+      "count": 10
+    },
+    {
+      "keyword": "허가",
+      "count": 6
+    },
+    {
+      "keyword": "백신",
+      "count": 4
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "약가",
+      "count": 1
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "천연물",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 16
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "patent",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "약사공론",
+      "count": 4
+    },
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "뉴스1 on MSN",
+      "count": 2
+    },
+    {
+      "source": "라포르시안",
+      "count": 2
+    },
+    {
+      "source": "아시아에이",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "데일리팜",
+      "count": 1
+    },
+    {
+      "source": "뉴스저널리즘",
+      "count": 1
+    },
+    {
+      "source": "보건신문",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 2,
+      "keywords": [
+        "animal",
+        "veterinary",
+        "research",
+        "pet",
+        "healthcare",
+        "says",
+        "usd",
+        "global",
+        "billion",
+        "prevention"
+      ],
+      "articles": [
+        {
+          "title": "Global Veterinary Drugs Market to Reach USD 53.05 Billion by 2034 at 6.44% CAGR as Animal Disease Prevention and Pet Healthcare Spending Rise, Says Maximize Market Research - PR Newswire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscU",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Tue, 22 Sep 2026 21:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscUNwUkFfZWgzbF92UDZZdXhBUWdlOGhsSy14NHZlM0ZKZERXMm91S1AzeUxhTFNxWTl5NF9hb3U2NWVILTdtVFBOZ2VjcF9Mcm5UOGJrM0pxOVdQSGJTMnlKQzZjaTgxMjZFcFB0RFhwd2Qzek5oM2MwcVJ3MGxwZGhFbllOQ1ozaGlvVzJOVkdxSjgyN2lna09DUW5ialNLVXVzUk83SmZqREFjVEcyQmEyRzVQSFFiTEZxRTVXbTFwWXlUN0o3NzN0QkY2TGNIOXhHM25fVEppYW1zbF8zc2NZUUE?oc=5"
+        },
+        {
+          "title": "Global Veterinary Drugs Market to Reach USD 53.05 Billion by 2034 at 6.44% CAGR as Animal Disease Prevention and Pet Healthcare Spending Rise, Says Maximize Market Research - PR Newswire",
+          "source": "",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscU",
+          "section": "english",
+          "category": "Regulatory Agencies",
+          "time": "Tue, 22 Sep 2026 21:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscUNwUkFfZWgzbF92UDZZdXhBUWdlOGhsSy14NHZlM0ZKZERXMm91S1AzeUxhTFNxWTl5NF9hb3U2NWVILTdtVFBOZ2VjcF9Mcm5UOGJrM0pxOVdQSGJTMnlKQzZjaTgxMjZFcFB0RFhwd2Qzek5oM2MwcVJ3MGxwZGhFbllOQ1ozaGlvVzJOVkdxSjgyN2lna09DUW5ialNLVXVzUk83SmZqREFjVEcyQmEyRzVQSFFiTEZxRTVXbTFwWXlUN0o3NzN0QkY2TGNIOXhHM25fVEppYW1zbF8zc2NZUUE?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "산재병원 의사 결원 2년 만에 2배 가까이 늘어 자발적 퇴사도 증가",
+      "source": "뉴스1 on MSN",
+      "importance": 52,
+      "snippet": "응급의학과 전문의 3명, 모두 안산병원 근무 (서울=뉴스1) 박기현 기자 = 근로복지공단 산재병원의 의사 결원이 2년 만에 두 배 가까이 늘어난 것으로 나타났다. 23일 국회 기후에너지환경노동위원회 소속 이헌승 국민의힘 ...",
+      "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%82%B0%EC%9E%AC%EB%B3%91%EC%9B%90-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%9B%90-2%EB%85%84-%EB%A7%8C%EC%97%90-2%EB%B0%B0-%EA%B0%80%EA%B9%8C%EC%9D%B4-%EB%8A%98%EC%96%B4-%EC%9E%90%EB%B0%9C%EC%A0%81-%ED%87%B4%EC%82%AC%EB%8F%84-%EC%A6%9D%EA%B0%80/ar-AA2cM5WO?ocid=BingNewsVerp"
+    },
+    {
+      "title": "건보노조, 급여상임이사 후보 재공모 요구…&quot;전문성 부족&quot;",
+      "source": "뉴스저널리즘",
+      "importance": 37,
+      "snippet": "국민건강보험노동조합이 국민건강보험공단의 급여상임이사 선임과 관련해 적임자를 찾기 위한 추가 공모를 요구했다.건보노조는 22일 성명을 내고 최근 공단 상임이사추천위원회에서 2배수로 압축된 후보자들의 전문성과 역량에 대해 공단 안팎에서 우려가 나오고 있다며 추가 공모를 촉구했다.급여상임이 ...",
+      "url": "https://www.ngetnews.com/news/articleView.html?idxno=553610"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 6,
+      "en_count": 2
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 1
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 1,
+      "en_count": 3
+    }
+  ]
+}

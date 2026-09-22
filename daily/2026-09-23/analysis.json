@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-23",
+  "total_articles": 4,
+  "source_total_articles": 394,
+  "language_breakdown": {"korean": 2, "english": 2, "multilingual": 0},
+  "issues": [
+    {
+      "topic": "산재병원 의사 결원 확대",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 52,
+      "key_articles": [{"title": "산재병원 의사 결원 2년 만에 2배 가까이 늘어 자발적 퇴사도 증가", "importance": 52, "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%82%B0%EC%9E%AC%EB%B3%91%EC%9B%90-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%9B%90-2%EB%85%84-%EB%A7%8C%EC%97%90-2%EB%B0%B0-%EA%B0%80%EA%B9%8C%EC%9D%B4-%EB%8A%98%EC%96%B4-%EC%9E%90%EB%B0%9C%EC%A0%81-%ED%87%B4%EC%82%AC%EB%8F%84-%EC%A6%9D%EA%B0%80/ar-AA2cM5WO?ocid=BingNewsVerp"}],
+      "summary_kr": "산재병원 의사 결원이 2년 만에 크게 늘고 자발적 퇴사도 증가했다는 보도다. 필수·공공의료 인력 유지와 진료공백 관리가 핵심 과제로 부각된다.",
+      "summary_en": "Reported physician vacancies at industrial-accident hospitals have nearly doubled in two years, highlighting retention and service-continuity risks in public healthcare."
+    },
+    {
+      "topic": "건강보험 급여 의사결정 전문성 논란",
+      "domain": "policy",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 37,
+      "key_articles": [{"title": "건보노조, 급여상임이사 후보 재공모 요구…\"전문성 부족\"", "importance": 37, "url": "https://www.ngetnews.com/news/articleView.html?idxno=553610"}],
+      "summary_kr": "건보공단 급여상임이사 후보의 전문성을 둘러싸고 재공모 요구가 제기됐다. 급여 의사결정의 전문성과 절차적 신뢰가 쟁점이다.",
+      "summary_en": "A call to reopen recruitment for the NHIS executive overseeing benefits raises questions about expertise and procedural confidence in reimbursement decisions."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가", "kr_count": 6, "en_count": 2, "significance": "medium"},
+    {"keyword": "임상", "kr_count": 10, "en_count": 1, "significance": "low"},
+    {"keyword": "약가", "kr_count": 1, "en_count": 3, "significance": "low"}
+  ],
+  "notable_absences": [
+    "시간 범위 필터로 원시 기사 394건 중 4건만 분석 대상에 포함됨.",
+    "영문 클러스터 2건은 동일한 Google News CBM 중간 URL로 직접 원문 검증이 불가해 핵심 이슈에서 제외함."
+  ],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": [],
+  "generated_at": "2026-09-23T07:31:00+09:00"
+}

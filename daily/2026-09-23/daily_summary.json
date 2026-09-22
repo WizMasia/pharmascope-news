@@ -1,0 +1,544 @@
+{
+  "date": "2026-09-23",
+  "total": 394,
+  "version": 1,
+  "generated_at": "2026-09-23T06:31:37.504830+09:00",
+  "korean": {
+    "total": 174,
+    "categories": {
+      "의약품": 24,
+      "의약산업": 25,
+      "의약정책": 18,
+      "의약단체": 14,
+      "의약관련정부기관": 19,
+      "의료현장": 20,
+      "약국·약사": 0,
+      "의료정책·인력": 25,
+      "전통의학": 4,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제약바이오, 수출 성장세 뚜렷…글로벌 신약개발은 장기화&#183;성공률 하락",
+        "source": "약업닷컴",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:7시간+15 | 키워드+20 | 순위:148위+2",
+        "snippet": "정윤택 제약사업전략연구원 원장이 ‘주요 모달리티별 아시아 국가 임상시험 동향’에 대해 설명하고 있다.&#169;약업신문=허지수 기자‘KOREA LIFE SCIENCE WEEK 2026’ 현장.&#169;약업신문=허지수 기자국내 ...",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=332915"
+      },
+      {
+        "title": "한국신약개발연구조합, 제약바이오 글로벌 변화 '데이터'로 짚었다",
+        "source": "약사공론",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:9시간+15 | 키워드+20 | 순위:149위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국신약개발연구조합이 '2026년도 제약&#183;바이오헬스 통계포럼'을 개최했다. 사진 한국신약개발연구조합 제공. 한국신약개발연구조합이 제약&#183;바이오헬스 산업의 시장&#183;임상&#183;특허&#183;투자 등 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544660"
+      },
+      {
+        "title": "산재병원 의사 결원 2년 만에 2배 가까이 늘어 자발적 퇴사도 증가",
+        "source": "뉴스1 on MSN",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴스1 on MSN+10 | 최신:32분+20 | 키워드+20 | 순위:115위+2",
+        "snippet": "응급의학과 전문의 3명, 모두 안산병원 근무 (서울=뉴스1) 박기현 기자 = 근로복지공단 산재병원의 의사 결원이 2년 만에 두 배 가까이 늘어난 것으로 나타났다. 23일 국회 기후에너지환경노동위원회 소속 이헌승 국민의힘 ...",
+        "published_time": "32분",
+        "modified_time": "",
+        "time": "32분",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%82%B0%EC%9E%AC%EB%B3%91%EC%9B%90-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%9B%90-2%EB%85%84-%EB%A7%8C%EC%97%90-2%EB%B0%B0-%EA%B0%80%EA%B9%8C%EC%9D%B4-%EB%8A%98%EC%96%B4-%EC%9E%90%EB%B0%9C%EC%A0%81-%ED%87%B4%EC%82%AC%EB%8F%84-%EC%A6%9D%EA%B0%80/ar-AA2cM5WO?ocid=BingNewsVerp"
+      },
+      {
+        "title": "중앙대광명병원, 오믈렛과 ‘간호사 스케줄링 AI’ 개발",
+        "source": "메디칼업저버",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디칼업저버+10 | 최신:4시간+20 | 키워드+20 | 순위:116위+2",
+        "snippet": "[메디칼업저버 이지현 기자] 중앙대광명병원은 21일 산업 AI 최적화 솔루션 기업 오믈렛과 의료 현장의 디지털 혁신을 위한 간호사 스케줄링 소프트웨어 및 솔루션 공동 개발&#183;공급 계약을 체결했다고 22일 밝혔다.",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=414111"
+      },
+      {
+        "title": "중앙대광명병원, AI로 간호사 근무표 짠다…오믈렛과 스케줄링 솔루션 개발",
+        "source": "라포르시안",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:라포르시안+10 | 최신:6시간+20 | 키워드+20 | 순위:117위+2",
+        "snippet": "[라포르시안] 중앙대학교광명병원이 간호사의 숙련도와 근로&#183;휴게 기준, 휴가와 근무 선호도 등을 반영해 근무표 작성을 지원하는 인공지능(AI) 솔루션 개발에 나선다. 중앙대광명병원(병원장 정용훈)은 산업 AI 최적화 솔루션 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.rapportian.com/news/articleView.html?idxno=240652"
+      },
+      {
+        "title": "[쿠키과학] 치질 한약 ‘을자탕’ 코로나19 치료 가능… 한의학연, 임상검증 추진",
+        "source": "쿠키뉴스",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:쿠키뉴스+10 | 최신:4시간+20 | 키워드+20 | 순위:22위+2",
+        "snippet": "치질 치료에 쓰던 한약 ‘을자탕’이 코로나바이러스 증식에 효과가 있는 것으로 나타났다. 한국한의학연구원(이하 한의학연) 한의기술응용센터 진영희 박사팀은 충북대 수의학과 이상명 교수, 경희대 한방병원 김태훈 교수팀과 공동으로 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.kukinews.com/article/view/kuk202609220188"
+      },
+      {
+        "title": "건보공단 급여이사 인선에 노조 반발…&quot;추가 공모해야&quot;",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:6시간+20 | 키워드+5 | 순위:105위+2",
+        "snippet": "국민건강보험공단 급여이사 인선을 두고 국민건강보험노동조합이 현재 거론되는 후보들의 전문성과 역량에 문제를 제기하며 추가 공모를 요구했다. 건보공단 급여이사 선임은 지난 1월 공모와 4월 재공모를 거쳤지만 현재까지 마무리되지 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=418115"
+      },
+      {
+        "title": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:108위+2",
+        "snippet": "식품의약품안전처가 한국의약품안전관리원, 한국희귀필수의약품센터, 백신안전기술지원센터 등 소관 공공기관 3곳을 하나로 통합하는 기능개혁을 추진한다. 의약품 안전정보 관리와 희귀&#183;필수의약품 공급, 백신 기술지원 등 기관별로 분산된 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=332923"
+      },
+      {
+        "title": "FDA, 산필리포증후군 첫 유전자치료제 '파유비' 승인",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:114위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 미국 식품의약국(FDA)이 울트라제닉스(Ultragenyx)의 유전자치료제 '파유비(Fayuvi)'를 뮤코다당증 IIIA형(MPS IIIA), 이른바 산필리포증후군 A형(Sanfilippo syndrome type A) 소아 환자를 위한 첫 치료제로 승인했다. 지난해 허가 거절과 최근 후기 임상 실패를 겪은 회",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544514"
+      },
+      {
+        "title": "바이오솔루션, 정부 ‘K-VIP’ 규제비용 지원 확보… 美 FDA 장벽 넘는 동종 연골세포치료제 2종의 규제과학 전략",
+        "source": "thetracker",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:thetracker+10 | 최신:12시간+15 | 키워드+20 | 순위:112위+2",
+        "snippet": "더트래커 = 국승한 기자첨단바이오의약품이 개발 단계를 넘어 상업화로 도약하기 위해 반드시 넘어야 할 최대 관문은 각국 규제기관의 인허가 잣대다. 특히 살아있는 세포를 다루는 세포치료제 분야는 공여자의 적격성부터 제조&#183;품질관리 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://thetracker.co.kr/View.aspx?No=4237653"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        18
+      ],
+      [
+        "급여",
+        14
+      ],
+      [
+        "임상",
+        10
+      ],
+      [
+        "FDA",
+        10
+      ],
+      [
+        "허가",
+        6
+      ],
+      [
+        "백신",
+        4
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "약사공론",
+        4
+      ],
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "라포르시안",
+        2
+      ],
+      [
+        "아시아에이",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "데일리팜",
+        1
+      ],
+      [
+        "뉴스저널리즘",
+        1
+      ],
+      [
+        "보건신문",
+        1
+      ],
+      [
+        "중소기업신문",
+        1
+      ],
+      [
+        "연합인포맥스",
+        1
+      ],
+      [
+        "thetracker",
+        1
+      ],
+      [
+        "뉴스핌",
+        1
+      ],
+      [
+        "다음 뉴스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 127,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "What will it take to get CAR T to more patients? - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 17:10:12 GMT+5 | 키워드+30 | 순위:251위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFZaa3hxTTJ4X0hhWjllV09oS0Q2TVBnVk5Tc1pxVlJNc1hjT0J0cjIwWkFNYWNla1dEOWUyYmxqcDI4Y0pfVFZ6NThRZnVRS2ZzSmVDQngxdTlOTnZHOXJadUVaU2VmU19nVlN5Xz",
+        "published_time": "Tue, 22 Sep 2026 17:10:12 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 17:10:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFZaa3hxTTJ4X0hhWjllV09oS0Q2TVBnVk5Tc1pxVlJNc1hjT0J0cjIwWkFNYWNla1dEOWUyYmxqcDI4Y0pfVFZ6NThRZnVRS2ZzSmVDQngxdTlOTnZHOXJadUVaU2VmU19nVlN5XzlSbjN0MU9YTTFSSEdtSml6cDdHODZvSFExSE5TcHp6bzA?oc=5"
+      },
+      {
+        "title": "Global Veterinary Drugs Market to Reach USD 53.05 Billion by 2034 at 6.44% CAGR as Animal Disease Prevention and Pet Healthcare Spending Rise, Says Maximize Market Research - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 21:30:00 GMT+5 | 키워드+30 | 순위:255위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscU",
+        "published_time": "Tue, 22 Sep 2026 21:30:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 21:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXJMWjlmSXBiRVJTbzZEa3JNOGx2cTVRNExvajZDQ0poRzUxcG9YYndXbmlLZzR0SDJuNy1hZjhzY19Xam81MlJ4ZnpIWVFBMUg4ZUpPT3JmeldEcy1ueTZxdVEzSVZzOVNZM2pscUNwUkFfZWgzbF92UDZZdXhBUWdlOGhsSy14NHZlM0ZKZERXMm91S1AzeUxhTFNxWTl5NF9hb3U2NWVILTdtVFBOZ2VjcF9Mcm5UOGJrM0pxOVdQSGJTMnlKQzZjaTgxMjZFcFB0RFhwd2Qzek5oM2MwcVJ3MGxwZGhFbllOQ1ozaGlvVzJOVkdxSjgyN2lna09DUW5ialNLVXVzUk83SmZqREFjVEcyQmEyRzVQSFFiTEZxRTVXbTFwWXlUN0o3NzN0QkY2TGNIOXhHM25fVEppYW1zbF8zc2NZUUE?oc=5"
+      },
+      {
+        "title": "Amgen Drug Meets Goals of Key Test in Common Autoimmune Disease With No Approved Meds - MedCity News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 19:59:51 GMT+5 | 키워드+30 | 순위:260위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORlVYQ25zdDhrWXo2OExNamtTdW5pMjdVQy12UmNfM21Ha1JfSFF5dXBFS09obExjUVdwVTBHNGozUWFGZGNJNXo5eU9jTUU2OHdIdUM0eWRScG1wdWtwUkswYjVWNTFMRDdsZ0RfOE",
+        "published_time": "Tue, 22 Sep 2026 19:59:51 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 19:59:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlVYQ25zdDhrWXo2OExNamtTdW5pMjdVQy12UmNfM21Ha1JfSFF5dXBFS09obExjUVdwVTBHNGozUWFGZGNJNXo5eU9jTUU2OHdIdUM0eWRScG1wdWtwUkswYjVWNTFMRDdsZ0RfOEdmb25kUEQ5MTFac2lMdkdMZ3RhN3NhMkR5ZU12Ry1wS0VhR25hMFRMNndpanU?oc=5"
+      },
+      {
+        "title": "The AI Drug Discovery Revolution - Tema ETFs",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 16:15:46 GMT+5 | 키워드+30 | 순위:270위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUW42MlVSNWNiSktkZjMtdTc3TGd3NmxuTWRXTmdobkpTT2tpZXVkSElnLVZrb2xuYjYtSVg5enBqSXJoSjVLZ2tiOW40UTBldC1Rb0c4cXJuVlFBYUJER2gyalM1bFZWcFhBZ2xUem",
+        "published_time": "Tue, 22 Sep 2026 16:15:46 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 16:15:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUW42MlVSNWNiSktkZjMtdTc3TGd3NmxuTWRXTmdobkpTT2tpZXVkSElnLVZrb2xuYjYtSVg5enBqSXJoSjVLZ2tiOW40UTBldC1Rb0c4cXJuVlFBYUJER2gyalM1bFZWcFhBZ2xUempnbUFCUWlTdjI5X1dhbVNzTENnWlJYMmtXdkZGcNIBjAFBVV95cUxNUW42MlVSNWNiSktkZjMtdTc3TGd3NmxuTWRXTmdobkpTT2tpZXVkSElnLVZrb2xuYjYtSVg5enBqSXJoSjVLZ2tiOW40UTBldC1Rb0c4cXJuVlFBYUJER2gyalM1bFZWcFhBZ2xUempnbUFCUWlTdjI5X1dhbVNzTENnWlJYMmtXdkZGcA?oc=5"
+      },
+      {
+        "title": "European drugmakers say they are ‘losing ground’ to US and Chinese rivals - The Guardian",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 18:51:00 GMT+5 | 키워드+30 | 순위:271위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVp4bHRUQWo4eF9lZ0xfLW1aUkItLXpCUzdQNjNJQml0a2gyQThQR01IU0JVWW9tTWhFN05HUkpfUzJ3Z1dLZVA5WElBRWZMODdqTkhmbnlMYTJqUVpqSVBTNVRhQUJDY0lsLTRYV0",
+        "published_time": "Tue, 22 Sep 2026 18:51:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 18:51:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVp4bHRUQWo4eF9lZ0xfLW1aUkItLXpCUzdQNjNJQml0a2gyQThQR01IU0JVWW9tTWhFN05HUkpfUzJ3Z1dLZVA5WElBRWZMODdqTkhmbnlMYTJqUVpqSVBTNVRhQUJDY0lsLTRYV0hFeTNfVGhHTndJWnI1Q3JKbFNfS2FYRGVhS0t4Q2l1cWhXRldRcGxOOWVzSnVaR09MSEE?oc=5"
+      },
+      {
+        "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up - KSL News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 13:18:05 GMT+5 | 키워드+30 | 순위:273위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnpUVXlkaTUxVG1oclNHcks5U3JmVHprbmZ0SzJWQjNiaUVja1BjVTN6RnNKMVBkQ0sxZmZZZkZ1Q21malJieFRSb2JKcW1qYl93ekFVRXZ6ejdMMk1ST04wZlhWYWdjM1lpSXpoQS",
+        "published_time": "Tue, 22 Sep 2026 13:18:05 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 13:18:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdnpUVXlkaTUxVG1oclNHcks5U3JmVHprbmZ0SzJWQjNiaUVja1BjVTN6RnNKMVBkQ0sxZmZZZkZ1Q21malJieFRSb2JKcW1qYl93ekFVRXZ6ejdMMk1ST04wZlhWYWdjM1lpSXpoQS1aSlA3R28xUk55TkticVV4cjNHX3QxWVUxbVgteWVwUXBaN05WQ3A5QUxYenNWR0NNWVg0V1ZwNWljNzdNX1g1NEFRakJKTFd1OWI5bk5pdUFUdXJsbWJr?oc=5"
+      },
+      {
+        "title": "China greenlights Adagene (NASDAQ: ADAG) cancer drug for first human trial - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 12:01:01 GMT+5 | 키워드+30 | 순위:281위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHhxUUtwZENGSVF3UGlZX1gyV2p4TEhoem5BUnJxQmV2N0tsYmV0Qmc3Rnp3R1pYU1BkM3k0Z1JyOXZvcnNmZUw0allhbHo2OUtvcXhLN1haZm9ZemFmcllPdGVMeUhEYjI0ZXEzOE",
+        "published_time": "Tue, 22 Sep 2026 12:01:01 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 12:01:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHhxUUtwZENGSVF3UGlZX1gyV2p4TEhoem5BUnJxQmV2N0tsYmV0Qmc3Rnp3R1pYU1BkM3k0Z1JyOXZvcnNmZUw0allhbHo2OUtvcXhLN1haZm9ZemFmcllPdGVMeUhEYjI0ZXEzOEZkZC1veVpGcVRtWjVWTmZGT2VJOUZab2owTWtyQlA5SGpVR1VnQllGWnlFbWJGbENCdUtZbnFBVzNLcm8?oc=5"
+      },
+      {
+        "title": "A cancer drug could gain patent protection through 2042. Lantern Pharma’s LP-284 targets two blood cancers. - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 11:45:00 GMT+5 | 키워드+30 | 순위:285위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzNNZjk0MFRUVnZWOFBINkxLZ2hXTk1YOTdqV2dkOHpvVmo2RmZKbGtFMVp1eDFzMjBueGc2MDJaVTg2WjFxSFlDdENKRjZPTW9lNUpOQkxOMFh4LV9ZRk1XOHlxVlNOMjNpRGFMcU",
+        "published_time": "Tue, 22 Sep 2026 11:45:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 11:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPXzNNZjk0MFRUVnZWOFBINkxLZ2hXTk1YOTdqV2dkOHpvVmo2RmZKbGtFMVp1eDFzMjBueGc2MDJaVTg2WjFxSFlDdENKRjZPTW9lNUpOQkxOMFh4LV9ZRk1XOHlxVlNOMjNpRGFMcURJLWN5M2g2LWYxZ1lvSlNCM25iTTNoUlFZX3pOMWNuM3p0c3NYU1RLS1A4VHN1X19KcVFMazVBU3NKUS1Hb3IwSTBYX1I?oc=5"
+      },
+      {
+        "title": "“The future is about personalised medicine, targeted therapies, immunotherapy, and increasingly precise drug delivery working together” - BioSpectrum Asia",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 15:55:57 GMT+5 | 키워드+30 | 순위:289위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOR1BKejZBY1NLUW5Hang5UWR1dTE0NFpOdDItV1BVdUlXYnowRTA1ZXpkTzh1Y2F5Q3lZaVpqc1NwcHF0ZkhRVFFBTzFmVEtXNUkzY1RxZThvbThxVGdCeGhlU3NhcHY4N0FyRE1VcU",
+        "published_time": "Tue, 22 Sep 2026 15:55:57 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 15:55:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOR1BKejZBY1NLUW5Hang5UWR1dTE0NFpOdDItV1BVdUlXYnowRTA1ZXpkTzh1Y2F5Q3lZaVpqc1NwcHF0ZkhRVFFBTzFmVEtXNUkzY1RxZThvbThxVGdCeGhlU3NhcHY4N0FyRE1VcURfOExPRDFaX21kT0t0UEFOQmVxZmNpZ2RRY1MxcnZWSkNvdklKYXJmakZJQUM3Y0QzNHlJazhGZFY1eERLRmFCZzUxbTVuTDE3YV95UEpSbENoTC1RYmVzT3dFM1hCTHQ2eTFaWGppb1RmblFkRG1iT2J4QlBsSWV2cWE5VVdsaWRyejBsaTVSbzdKZl9YUTRiSnBjSnl4VXl3ZEdYSW4weExB?oc=5"
+      },
+      {
+        "title": "Breast cancer drug Zoladex withdrawal delayed by AstraZeneca amid PBS talks - The Australian",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 19:34:45 GMT+5 | 키워드+30 | 순위:292위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWjZSa2lScUtKc3VWZ1RoTWZJQkJKYy03UTM1a0U5QVpnR3QxWks4Z3loRU5iZFJtSFJ1NzVtTEVjSUxXdFUwQUhfZF9RenA5RjJHb3VQajV6ZmR1TjJ5R3U0Qnl0Vk5EaVh5LXN0Vm",
+        "published_time": "Tue, 22 Sep 2026 19:34:45 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 19:34:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWjZSa2lScUtKc3VWZ1RoTWZJQkJKYy03UTM1a0U5QVpnR3QxWks4Z3loRU5iZFJtSFJ1NzVtTEVjSUxXdFUwQUhfZF9RenA5RjJHb3VQajV6ZmR1TjJ5R3U0Qnl0Vk5EaVh5LXN0VmhFS0VRbHcyQmxyT0R5cTJDUVctc1RIRnd3alc0emVEMm5xT05lei1NaWRtRUtLamhVQW9QWUh2SjlHUFB5RmJuUnBKdjBNZWVXX1RrN1JqanVuc3NmaHFOLU14UU5wbFdFdFNOM09Ubl94SkM3UVNwRHRzdW92ODA?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        16
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "pricing",
+        3
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "approval",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 93,
+    "languages": {
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 5,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 4,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 10,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 2,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "המושב הראשון של הקונגרס הראשון של איגוד הרפואה המסורתית של מחוז לאו צאי, קדנציה 2026-2031 - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 10:46:30 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDNJMTk2Y2ZTVGZYNEVKRnVndC02elFpYmNfaW9LX29KeGx3UUdvZnRtdmRVZ0NIQXRFeDc4a3FUVG1FV09JSEhWMkdMTGxyUjQyR2YtYXJDdEZ2RHVzN0FJYnhnT2N2MGlnRGJKOE",
+        "published_time": "Tue, 22 Sep 2026 10:46:30 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 10:46:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDNJMTk2Y2ZTVGZYNEVKRnVndC02elFpYmNfaW9LX29KeGx3UUdvZnRtdmRVZ0NIQXRFeDc4a3FUVG1FV09JSEhWMkdMTGxyUjQyR2YtYXJDdEZ2RHVzN0FJYnhnT2N2MGlnRGJKOEtVdTUwczN1Z1JGdlBoN1I4M2xmbEF0ckgybnhjamVPZ0lQUnNKeTJVQ2xKNVlPOXFLTExVMEZaOVdhZjhVcUtr?oc=5"
+      },
+      {
+        "title": "Het voorstel suggereert dat de ziektekostenverzekering nog eens 129 traditionele geneesmiddelen zou moeten vergoeden, waardoor de financiële last voor patiënten wordt verlicht. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 11:38:55 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmRyenBSMUpodmNZYkJMRGZ0NDNQa2VWU1VzWFdOWl94czdZbmJ3VEZiMFVsbEFkamdELU50MHZvNlpwbTB2YVY5b1NFeHRpTnNaUXFoNFdEWU1Cemw0MEhzX2ttMGs1eVZBbmVyOX",
+        "published_time": "Tue, 22 Sep 2026 11:38:55 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 11:38:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmRyenBSMUpodmNZYkJMRGZ0NDNQa2VWU1VzWFdOWl94czdZbmJ3VEZiMFVsbEFkamdELU50MHZvNlpwbTB2YVY5b1NFeHRpTnNaUXFoNFdEWU1Cemw0MEhzX2ttMGs1eVZBbmVyOXliXzN5dWR2SVJOTjBzMjFoZ2ozZ0VZUEtOSmZiUWhJRDF0VkNaaFRPYlUtYk9yb19yQmdTak15QkRBMXhqRDZsaTJsY0xtSTB2NlBuSk5qNnpab0loR3h3eElfaS1VNlo5?oc=5"
+      },
+      {
+        "title": "Öneriye göre, sağlık sigortası 129 ek geleneksel tıp ilacını da kapsayarak hastaların mali yükünü azaltmaya yardımcı olmalıdır. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 11:40:57 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3Y2bGlKNTYwZF9CM0xBZTRmeWVWNmlQbUQ1S3o1WDhRbWxRMl9ITXBSV3FHS0RMc1pTcVROYm9OUzN6VmZseUEtSWtuWFlaRFZ4YVF0bFBJU2FtMUhOTFRnOTZCRjVjR243YUhpOV",
+        "published_time": "Tue, 22 Sep 2026 11:40:57 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 11:40:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3Y2bGlKNTYwZF9CM0xBZTRmeWVWNmlQbUQ1S3o1WDhRbWxRMl9ITXBSV3FHS0RMc1pTcVROYm9OUzN6VmZseUEtSWtuWFlaRFZ4YVF0bFBJU2FtMUhOTFRnOTZCRjVjR243YUhpOVV6SnVWaDFleTRyLWRoU1h2dnlRN0luQnlTWG10MUM4VnRSQUFxOEt4WkJUYWhYcGgtWnZCU19LbjFhR0c2VWVlUjV6eDlSZGM5VW51Vjcyem81UzM3eFVCaXBSOGVsTTJk?oc=5"
+      },
+      {
+        "title": "يقترح الاقتراح أن يغطي التأمين الصحي 129 دواءً إضافياً من أدوية الطب التقليدي، مما يساعد على تخفيف العبء المالي على المرضى. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 12:05:09 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbU9Kdkk1bUFoak1lak1ZUVRoc0VRejhCVk13bWphMVgxdE9FTWFmcTloWTNPMnNULU9WLW12UlFobHZ0ZmxVcEExd2FZMGgyNGpNVlFNNnhzWXhOTDYyZV9vZ0JNTnU1ck9RNlRjZ0",
+        "published_time": "Tue, 22 Sep 2026 12:05:09 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 12:05:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbU9Kdkk1bUFoak1lak1ZUVRoc0VRejhCVk13bWphMVgxdE9FTWFmcTloWTNPMnNULU9WLW12UlFobHZ0ZmxVcEExd2FZMGgyNGpNVlFNNnhzWXhOTDYyZV9vZ0JNTnU1ck9RNlRjZ0cwNERaZklRajdnc3YzaGFiaFZjbm5rLXM1QmVld0RvaTV4SUtMaTc2T2FYaGFucnJ6RVhOR1hGanVxdVRqaHYzT0lwWXJnOG5pRWVKU3ZnbmNmMlZsaUtQd19OX3l4cmFP?oc=5"
+      },
+      {
+        "title": "الجلسة الأولى للمؤتمر الأول لجمعية الطب التقليدي بمقاطعة لاو كاي، الفترة 2026-2031 - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 22 Sep 2026 12:47:47 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWhZdnZ4SFE3V2Y2enhxTGRUT0RTSnhtY2Z4VU00Y3c0cDA5YndNNTBVOER2ZTJvcmdZbWM3bkVNREo0NzFHYlhmcnpqRzRCaHNmekxVQldZdEtzR2lLU2MwbEZXdFRhVGtQNjg4dk",
+        "published_time": "Tue, 22 Sep 2026 12:47:47 GMT",
+        "modified_time": "",
+        "time": "Tue, 22 Sep 2026 12:47:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWhZdnZ4SFE3V2Y2enhxTGRUT0RTSnhtY2Z4VU00Y3c0cDA5YndNNTBVOER2ZTJvcmdZbWM3bkVNREo0NzFHYlhmcnpqRzRCaHNmekxVQldZdEtzR2lLU2MwbEZXdFRhVGtQNjg4dkVLandWZEJYSlhTTGFTaWg3aXJLdmtnbkwyNE5pbzVkaEFfaU5zalRZUXQ2eXVoX1dMb282dmlkWVlZRldUbFRR?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
