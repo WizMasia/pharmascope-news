@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-25",
+  "total_articles": 320,
+  "language_breakdown": {"korean": 114, "english": 130, "multilingual": 76},
+  "issues": [],
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 9, "en_count": 5, "significance": "medium"},
+    {"keyword": "허가", "kr_count": 2, "en_count": 5, "significance": "medium"},
+    {"keyword": "임상", "kr_count": 5, "en_count": 2, "significance": "medium"},
+    {"keyword": "약가", "kr_count": 2, "en_count": 1, "significance": "low"}
+  ],
+  "notable_absences": ["시간 필터 적용 후 분석 대상 기사 0건으로 개별 이슈·대표 기사 산출 불가"],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": [],
+  "generated_at": "2026-09-25T07:31:31+09:00"
+}

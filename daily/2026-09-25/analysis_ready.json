@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-25",
+  "total_articles": 320,
+  "language_breakdown": {
+    "korean": {
+      "total": 114,
+      "categories": {
+        "의약품": 21,
+        "의약산업": 11,
+        "의약정책": 8,
+        "의약단체": 2,
+        "의약관련정부기관": 17,
+        "의료현장": 13,
+        "약국·약사": 5,
+        "의료정책·인력": 11,
+        "전통의학": 1,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 130,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 23,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 76,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 5,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 18
+    },
+    {
+      "keyword": "신약",
+      "count": 9
+    },
+    {
+      "keyword": "백신",
+      "count": 9
+    },
+    {
+      "keyword": "임상",
+      "count": 5
+    },
+    {
+      "keyword": "마운자로",
+      "count": 3
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "식약처",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "심사",
+      "count": 1
+    },
+    {
+      "keyword": "한약",
+      "count": 1
+    },
+    {
+      "keyword": "ADC",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 22
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "vaccine",
+      "count": 5
+    },
+    {
+      "keyword": "generic",
+      "count": 4
+    },
+    {
+      "keyword": "patent",
+      "count": 4
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 5
+    },
+    {
+      "source": "약업닷컴",
+      "count": 3
+    },
+    {
+      "source": "청년의사",
+      "count": 3
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "톱데일리",
+      "count": 2
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "핀포인트뉴스",
+      "count": 2
+    },
+    {
+      "source": "중소기업신문",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 9,
+      "en_count": 5
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}

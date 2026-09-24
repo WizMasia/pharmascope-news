@@ -1,0 +1,552 @@
+{
+  "date": "2026-09-25",
+  "total": 320,
+  "version": 1,
+  "generated_at": "2026-09-25T06:31:30.446994+09:00",
+  "korean": {
+    "total": 114,
+    "categories": {
+      "의약품": 21,
+      "의약산업": 11,
+      "의약정책": 8,
+      "의약단체": 2,
+      "의약관련정부기관": 17,
+      "의료현장": 13,
+      "약국·약사": 5,
+      "의료정책·인력": 11,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+        "source": "중소기업신문",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:12시간+15 | 키워드+20 | 순위:100위+2",
+        "snippet": "HLB가 자체 개발 중인 FGFR2 표적 항암제 '리픽투(성분명: 리라푸그라티닙)'로 미국 식품의약국(FDA) 품목허가를 획득했다.HLB의 미국 자회사 엘레바 테라퓨틱스는 23일(현지시각) 미국 FDA로부터 리픽투를 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363733"
+      },
+      {
+        "title": "AZ 등 주요 9개 제약사, 유럽 제약산업 위기 공개 경고",
+        "source": "약업닷컴",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+25 | 순위:62위+2",
+        "snippet": "유럽 주요 제약사들이 공개서한을 통해 제약산업 위기를 경고하고 나섰다.아스트라제네카, 베링거인겔하임, 키에시 그룹, 입센, GSK, 노보 노디스크, 노바티스, 로슈, 사노피 등 9개 제약사 이사회 의장들은 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332944"
+      },
+      {
+        "title": "약가인하 후폭풍…제약업계 체질전환 가속",
+        "source": "중소기업신문",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:1일+10 | 키워드+20 | 순위:44위+2",
+        "snippet": "국내 제약업계가 정부의 약가 인하 정책에 대응해 사업모델 전환에 속도를 내고 있다. 전문의약품(ETC) 중심 수익구조가 흔들리면서 일반의약품(OTC) 시장으로 무게중심을 옮기는 한편, 연구개발(R&amp;D) 투자를 통한 신약 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363675"
+      },
+      {
+        "title": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+        "source": "메드월드뉴스",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메드월드뉴스+10 | 최신:6시간+20 | 키워드+25 | 순위:60위+2",
+        "snippet": "유럽의 주요 제약회사들이 유럽의 제약산업이 위기에 봉착했다며 각국 정부에 대책마련을 촉구하고 나섰다. 한국바이오협회 바이오경제연구센터는 지난 23일자 이슈 브리핑에서 이같이 전했다.아스트라제네카, 베링거인겔하임, 키에시 그룹 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264165"
+      },
+      {
+        "title": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:123위+2",
+        "snippet": "식품의약품안전처가 한국의약품안전관리원, 한국희귀필수의약품센터, 백신안전기술지원센터 등 소관 공공기관 3곳을 하나로 통합하는 기능개혁을 추진한다. 의약품 안전정보 관리와 희귀&#183;필수의약품 공급, 백신 기술지원 등 기관별로 분산된 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=332923"
+      },
+      {
+        "title": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+        "source": "한겨레",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:9시간+15 | 키워드+5 | 순위:45위+2",
+        "snippet": "희귀질환 치료제의 국민건강보험 급여 목록 등재 심사 기간을 최대 100일 이내로 단축하는 정부의 ‘희귀질환 치료제 신속등재 시범사업’이 지난 8월 말 제약사 신청을 마감하며 본격적인 첫발을 뗐다. 치료 효과가 입증된 신약을 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html"
+      },
+      {
+        "title": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+10 | 순위:28위+2",
+        "snippet": "공공심야약국이 법제화 2년을 맞았지만 지역별 인프라 격차와 재정 지원의 한계, 현장 약사의 과중한 노동 부담이라는 과제가 여전히 제도 안착의 발목을 잡고 있는 것으로 나타났다. 휴일과 심야 시간대 가벼운 증상에도 의약품을 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544816"
+      },
+      {
+        "title": "약사회-건보공단 '공적 전자처방전' 공동 구축할까",
+        "source": "약사공론",
+        "importance": 48,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:12위+10",
+        "snippet": "이날 약사회는 △공적 전자처방전 전달체계 구축 △저가 제네릭 대체조제 인센티브 마련 및 한국형 성분명 처방 시범 도입 △다제약물 관리사업 제도화 및 예산 증액 △약국 금연관리료 현실화 및 금연치료 지원사업 도입 △약국 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544690"
+      },
+      {
+        "title": "의사&#183;간호사 부족한 근로복지공단 창원병원… 병상 가동률도 6년째 평균 미만",
+        "source": "부산닷컴 on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:부산닷컴 on MSN+10 | 최신:1일+10 | 키워드+25 | 순위:78위+2",
+        "snippet": "부산&#183;울산&#183;경남 산업재해 의료를 담당하는 근로복지공단 창원병원과 부산의원 병상 가동률이 6년 연속 공단병원 평균에 미치지 못한 것으로 나타났다. 2024년 이후 응급의학과 전문의도 없이 응급실이 운영됐고, 의사와 간호사 결원까지 늘어나고 있는 것으로 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EC%9D%98%EC%82%AC-%EA%B0%84%ED%98%B8%EC%82%AC-%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B7%BC%EB%A1%9C%EB%B3%B5%EC%A7%80%EA%B3%B5%EB%8B%A8-%EC%B0%BD%EC%9B%90%EB%B3%91%EC%9B%90-%EB%B3%91%EC%83%81-%EA%B0%80%EB%8F%99%EB%A5%A0%EB%8F%84-6%EB%85%84%EC%A7%B8-%ED%8F%89%EA%B7%A0-%EB%AF%B8%EB%A7%8C/ar-AA2cO75r?ocid=BingNewsVerp"
+      },
+      {
+        "title": "기등재 약가 재평가 1차 대상 축소…최종 1만1953품목",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:46위+2",
+        "snippet": "내년 4월부터 상한금액 조정이 시작되는 기등재 의약품 1차 재평가 대상이 구체화됐다. 한미약품과 종근당을 비롯해 대웅바이오, 한국휴텍스제약, 하나제약 등 국내 제약사가 다수 품목을 재평가 명단에 올렸다. 이달 초 첫 명단이 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=418174"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        18
+      ],
+      [
+        "신약",
+        9
+      ],
+      [
+        "백신",
+        9
+      ],
+      [
+        "임상",
+        5
+      ],
+      [
+        "마운자로",
+        3
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "식약처",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "허가",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        5
+      ],
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "톱데일리",
+        2
+      ],
+      [
+        "메디파나 뉴스",
+        2
+      ],
+      [
+        "핀포인트뉴스",
+        2
+      ],
+      [
+        "중소기업신문",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "메드월드뉴스",
+        1
+      ],
+      [
+        "더바이오",
+        1
+      ],
+      [
+        "AP신문",
+        1
+      ],
+      [
+        "banronbodo.com",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 130,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 23,
+      "Traditional & Complementary Medicine": 7
+    },
+    "top_articles": [
+      {
+        "title": "Elevar wins FDA nod for bile duct cancer drug Lyrfigtu, a first for a Korean firm - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 15:25:02 GMT+5 | 키워드+30 | 순위:253위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNG9ZNWFUakhnNTJTQmhsMkM5Y1lDWkJLNTdvNXhpVXpLOTMtVWwteWdSbzhLWTlzcGZyOGU5OXlaM3ZUMEJBRkoyWWduZF9tMlBIS3JLeFV0cHFXajlIY1RrU2p5cHRsdHRJcU9fZE",
+        "published_time": "Thu, 24 Sep 2026 15:25:02 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 15:25:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNG9ZNWFUakhnNTJTQmhsMkM5Y1lDWkJLNTdvNXhpVXpLOTMtVWwteWdSbzhLWTlzcGZyOGU5OXlaM3ZUMEJBRkoyWWduZF9tMlBIS3JLeFV0cHFXajlIY1RrU2p5cHRsdHRJcU9fZEh2bFZFYTczY2lGeFVzR1RRN2JXVEY4S3JqSzV0SEFVOWJraGJxTTgwLXBCODQ2OU5IWTd3SGZRWEptMW8?oc=5"
+      },
+      {
+        "title": "FDA-approved drug offers hope for patients with polycythemia vera, a rare bone marrow disorder - University of Michigan Health",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 09:04:20 GMT+5 | 키워드+30 | 순위:254위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZExfb3VzNVhCeGtIM2l6SWFsTU1yS1FUR29MWmRQeGlMUUdJdjJ1Zy0xWVRqWVQ0dmVYdXRSM1REU21JeWtFampVYmlJMTV4cl8xUVVjcERXcFdoYzlleWVBUHZ1UlI4SlU2WlRNaD",
+        "published_time": "Thu, 24 Sep 2026 09:04:20 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 09:04:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZExfb3VzNVhCeGtIM2l6SWFsTU1yS1FUR29MWmRQeGlMUUdJdjJ1Zy0xWVRqWVQ0dmVYdXRSM1REU21JeWtFampVYmlJMTV4cl8xUVVjcERXcFdoYzlleWVBUHZ1UlI4SlU2WlRNaDB2N0dXMm1uSk95SnpqREh3bnNQSHRwMkp6c3NfOTVrdWFybjdpbDdJVHU0ekdXNHV4bFdKbkpNbGZ2cDRGcVk0T1Yydk9nTzFGN1RSdg?oc=5"
+      },
+      {
+        "title": "Riaan’s Therapeutic Odyssey – Chapter 4: The Drug Developers - Inside Precision Medicine",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 18:20:55 GMT+5 | 키워드+30 | 순위:255위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDRjNFBOR09oOXZEc1JEMDR3VVgtVjE2Y19lSDhyaWk3djVhd3FPTTJ3ZXlQaEpVUzNmMFZpZVpGWlh0TzE1bmxCcUpJZ1NZTExaVGtPTXpKY2Y5OEJuVDFDWHUtNjNfX2RNc29hen",
+        "published_time": "Thu, 24 Sep 2026 18:20:55 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 18:20:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDRjNFBOR09oOXZEc1JEMDR3VVgtVjE2Y19lSDhyaWk3djVhd3FPTTJ3ZXlQaEpVUzNmMFZpZVpGWlh0TzE1bmxCcUpJZ1NZTExaVGtPTXpKY2Y5OEJuVDFDWHUtNjNfX2RNc29henNOaDNpOXFLU2dJNHE0U1pnamlzX19ZaEs3bU1ROTh1TTI0NFo2WGluVHNzbmZZVUlZN0JYZXBHSk1mRzgweWdobmk1ekpRSzFVRnFWczluMDQ?oc=5"
+      },
+      {
+        "title": "Experimental MS Drug Reverses Paralysis, Vision Loss in Lab Model - UVA Health",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 16:18:45 GMT+5 | 키워드+30 | 순위:256위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnZoLWFidFBoR3hMVWxNQVVKRnprR1VPbXc3VXNKRjBLdEhJTWw5N3ZGOFQyM09QdFYyNE1oaHVzd2U4MXBpTkdzUmE0MTJiOWFtdUhhUWdURUdOMm0wckt2eVZxVFVmX1lqTTE2UV",
+        "published_time": "Thu, 24 Sep 2026 16:18:45 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 16:18:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcnZoLWFidFBoR3hMVWxNQVVKRnprR1VPbXc3VXNKRjBLdEhJTWw5N3ZGOFQyM09QdFYyNE1oaHVzd2U4MXBpTkdzUmE0MTJiOWFtdUhhUWdURUdOMm0wckt2eVZxVFVmX1lqTTE2UVUwbTZob2Z0aXBfVUdQdk9PWmRacHhHTUhQN0xuM1hfdzI3SmNuUnpsdDd1RQ?oc=5"
+      },
+      {
+        "title": "U.S. Food and Drug Administration (FDA) approves Lilly's Onswik™ (insulin efsitora alfa-gobe), a once-weekly basal insulin injection treatment for adults living with type 2 diabetes - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 10:45:00 GMT+5 | 키워드+30 | 순위:257위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxNeW5CUERfSjhidmc1ZkZUd0ltbTMwSU5IVG1BVzNSc0VyM0pMcS1uT3J5MFl0bjBsV3NXc21OWGRJclE3SjZPN1NORUZFMnZGYWpjWlFOQUFpSTVyZVhhS0FEaHQtcjA5OWpTdVNDTj",
+        "published_time": "Thu, 24 Sep 2026 10:45:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 10:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeW5CUERfSjhidmc1ZkZUd0ltbTMwSU5IVG1BVzNSc0VyM0pMcS1uT3J5MFl0bjBsV3NXc21OWGRJclE3SjZPN1NORUZFMnZGYWpjWlFOQUFpSTVyZVhhS0FEaHQtcjA5OWpTdVNDTjJEdGlqaU82U0JueUotRnpib1ZjbWlMM2NnZGMzYjl0UXU2Yjg3TTZjNnlGU1hUTmgwVlh4ajZYQnU2emU3b3dzYUZ0RW90OFU4WnNDVTVjY0M2aEp4U1BLOThGd2ZTdVl6cDZpY2dYSzZob1I1OGRjb0F1WEZBUC1kMUFQLWVjbVY3ZUhlemZoOEgxM3d1ZktSdjJuc1JkTW9QNEdCWi1kcnJHSTB4ekZFZk1QUmZQbjBnTV9sMkZWVnFYZjhzbGl5Zkdsc0dhMGpKOUYtQkY0MmRFVW9aVG10M2dBLQ?oc=5"
+      },
+      {
+        "title": "Eli Lilly and InnoCare Pharma agree on $3.3bn drug research deal - pmlive.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 11:09:08 GMT+5 | 키워드+30 | 순위:261위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU1WNnFMVGFDSWNsV0g2X0hSRjFxWGFuRzk0VXZVYXVabktlRDRHMlZGYVNfUkhOc3M1TVJlNEZSaUg2eExuVlVlQ1U5REJkT2hmd29xUmRiNlF5akRXMVBLUEdhbS1IbDhTNEtjb0",
+        "published_time": "Thu, 24 Sep 2026 11:09:08 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 11:09:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMU1WNnFMVGFDSWNsV0g2X0hSRjFxWGFuRzk0VXZVYXVabktlRDRHMlZGYVNfUkhOc3M1TVJlNEZSaUg2eExuVlVlQ1U5REJkT2hmd29xUmRiNlF5akRXMVBLUEdhbS1IbDhTNEtjb0VueEo5N1JBemREN3M4UmhQaEFtSks3UFdIRllsZ0EtdWJ0XzR2SGxrNFIwcw?oc=5"
+      },
+      {
+        "title": "What J&J’s Spravato patent win could mean for psychedelic drugs - pharmavoice.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 13:08:45 GMT+5 | 키워드+30 | 순위:262위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXFVNlhtSDBmU29Ub3hFdHRPODRRbnZFc1lvdlNGMlFFa0FXWHhNbFZoeVdZQmtRWndPbVZ2MlFIcUFqRlhkVVhXS0w0RXFZclk4RmV6Nl9UQXdSZUktbGtaeW5GTUctSV9mQVVnSz",
+        "published_time": "Thu, 24 Sep 2026 13:08:45 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 13:08:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXFVNlhtSDBmU29Ub3hFdHRPODRRbnZFc1lvdlNGMlFFa0FXWHhNbFZoeVdZQmtRWndPbVZ2MlFIcUFqRlhkVVhXS0w0RXFZclk4RmV6Nl9UQXdSZUktbGtaeW5GTUctSV9mQVVnSzNyUVlzSFpxbmZpZ2R6cWxaUjFlZllBbnJMX3c?oc=5"
+      },
+      {
+        "title": "Can Recent Traction With Key Drugs and Pipeline Progress Boost BMY? - TradingView",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 16:08:00 GMT+5 | 키워드+30 | 순위:264위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlJ4akhPd3ZUSG1fbVZqdXY5VFFoQm1Bb2tYMUE0UzFTeXhMTnFqcEY2R0pvNC1WNlloeklPZFVGcXlLVTl5Rm1xWkhna0VtOFN6ZWtRVE9ibmE2RzlUaFNQRGVINEhQOGEzSGhEdk",
+        "published_time": "Thu, 24 Sep 2026 16:08:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 16:08:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlJ4akhPd3ZUSG1fbVZqdXY5VFFoQm1Bb2tYMUE0UzFTeXhMTnFqcEY2R0pvNC1WNlloeklPZFVGcXlLVTl5Rm1xWkhna0VtOFN6ZWtRVE9ibmE2RzlUaFNQRGVINEhQOGEzSGhEdk1QdDFUaXdiQWdEUW5lX0tMV3VLbEpYZk03eWtWWF9jQ1k0NWJOa1J4a0NuMG96OER5TmhmWldWV2tvbFVIbkNZM0lvSzU4WjFWU2IyUmt3TQ?oc=5"
+      },
+      {
+        "title": "Lakewood-Amedex Biotherapeutics (LABT) FDA Approvals, PDUFA Dates & Drug Alerts 2026 - MarketBeat",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 14:02:14 GMT+5 | 키워드+30 | 순위:265위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTUdtTXludmdHSlJFZjlMaktwVmJTZGoxRWxReExJaHlpUVRLSkR2R2h4WlZ3SWxFeDN4dkliZ1hJVElLaUhJTWZ1Vi03dVo1S05yNTVhMTZjMF9XS2k3cjhuV1Y4MjZf?oc=5\" tar",
+        "published_time": "Thu, 24 Sep 2026 14:02:14 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 14:02:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiTUdtTXludmdHSlJFZjlMaktwVmJTZGoxRWxReExJaHlpUVRLSkR2R2h4WlZ3SWxFeDN4dkliZ1hJVElLaUhJTWZ1Vi03dVo1S05yNTVhMTZjMF9XS2k3cjhuV1Y4MjZf?oc=5"
+      },
+      {
+        "title": "Competition in South Korea’s dry eye market with third homegrown drug approval - The Pharma Letter",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 08:29:38 GMT+5 | 키워드+30 | 순위:268위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXFtbUlEVmtIa1RDaHljaUc4d3dkSjRPNEdCZzdvVDhWVXo2b2p1TFlsaFBRZHp3RElBX1ZvdmNfblVZaVZEZzZ1UDROeFlrby03U19PMkZONlhhcUpVM09xSTVmazNMMnE0ZUMzQ0",
+        "published_time": "Thu, 24 Sep 2026 08:29:38 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 08:29:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXFtbUlEVmtIa1RDaHljaUc4d3dkSjRPNEdCZzdvVDhWVXo2b2p1TFlsaFBRZHp3RElBX1ZvdmNfblVZaVZEZzZ1UDROeFlrby03U19PMkZONlhhcUpVM09xSTVmazNMMnE0ZUMzQ01UYWZ4d0xhejhacU1yemtxcFctZWVPek01QkM5eUt3LWxiOVlrWldKQmdFTkloTWM1YmdwUUQtNXZ4blBDSUVDYmN3ZFZSNEhBYXZwVkpUdw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        22
+      ],
+      [
+        "approval",
+        5
+      ],
+      [
+        "vaccine",
+        5
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "patent",
+        4
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "regulation",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "recall",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 76,
+    "languages": {
+      "French / 프랑스어": 4,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 0,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 5,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Savaş alanında geleneksel tıp – Bitkiler hayat kurtaran ilaçların 'hazine sandığı' haline geliyor. - vietnam.vn",
+        "source": "",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 11:13:08 GMT+5 | 키워드+30 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjRFNVA1UDFIaXFKTFFaV196U29tZGREMUdzSnRzZDExTkwyZmRZWlJVR1hGbDM1SzNGZ2Q5VXlYTk9lc2pDeWhOb0o4ajc1dHpabGt1UHVvTTJrR1ZkS2h6TlJ0Z3RWNFE1WXNRSF",
+        "published_time": "Thu, 24 Sep 2026 11:13:08 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 11:13:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjRFNVA1UDFIaXFKTFFaV196U29tZGREMUdzSnRzZDExTkwyZmRZWlJVR1hGbDM1SzNGZ2Q5VXlYTk9lc2pDeWhOb0o4ajc1dHpabGt1UHVvTTJrR1ZkS2h6TlJ0Z3RWNFE1WXNRSFRSeWJBdHQxT2F3allZWFR2Z2ZZaXAySmVsX3EyNkc0bTlzMTRPb0tHMw?oc=5"
+      },
+      {
+        "title": "AIFA * AGENZIA ITALIANA DEL FARMACO: «CARENZE DI MEDICINALI, PUBBLICATO IL DOSSIER CON LA NOTA STAMPA - agenziagiornalisticaopinione.it",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 11:10:57 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcV9HSUJKMDZVbWpGXzQ2WkFJZElJcy1XdXJvdTZhVExmUDA3eFBVODk1MHFsM2IzTjd1NlRxS3BwVnQ3R2x0VExIajJUaVNsOXk2T1lwQXhrblFnNjdrZHdFMEtjX29RSUxtQ3gtWU",
+        "published_time": "Thu, 24 Sep 2026 11:10:57 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 11:10:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcV9HSUJKMDZVbWpGXzQ2WkFJZElJcy1XdXJvdTZhVExmUDA3eFBVODk1MHFsM2IzTjd1NlRxS3BwVnQ3R2x0VExIajJUaVNsOXk2T1lwQXhrblFnNjdrZHdFMEtjX29RSUxtQ3gtWUtET0llR0o5Z0FtdWVYbGVCLUNlSWVUSDhuNVphUGhhbnRKejhEVVVtWFpzcXN1QnZFU2VvcjRLR3pqMVJWazJJLTRYOFprd1prZFVTbkpzUGdoZTNfOXdGTlN5QUxvMGx6OWxia2tVSW1zNmp5NnJKS1NWSHBlT3Y5cnc?oc=5"
+      },
+      {
+        "title": "DHG Pharma ร่วมมือกับสมาคมเภสัชกรรมเมืองดานังเพื่อพัฒนาความรู้ในอุตสาหกรรมยา - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 08:26:16 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWno0U3R5OE1fWEJoV3dYanEzYnRpcDJZMkFqUURFU3dfdThaUlpmeUJFdlJKX3BkVGp1Z2xzcnZxWG1xckdselB3bHN5TktmbnM2ejRKelVKQnNZLXJYVUZlcy1UcnNJR29tMU1TcV",
+        "published_time": "Thu, 24 Sep 2026 08:26:16 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 08:26:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWno0U3R5OE1fWEJoV3dYanEzYnRpcDJZMkFqUURFU3dfdThaUlpmeUJFdlJKX3BkVGp1Z2xzcnZxWG1xckdselB3bHN5TktmbnM2ejRKelVKQnNZLXJYVUZlcy1UcnNJR29tMU1TcVA4RkpGQlBBei1mRFFwX3dGd0pnTmYxVDNZV1ZWZFVIckVPdVJxQ3YxcEczWG12dHkyZ0lEdUVZeFE?oc=5"
+      },
+      {
+        "title": "डीएचजी फार्मा, फार्मास्युटिकल उद्योग में ज्ञान को अद्यतन करने के लिए दा नांग सिटी फार्मास्युटिकल एसोसिएशन के साथ सहयोग करता है। - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 08:23:32 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUFicUU0X2stR3FoVzk4NkZVd1pHYlA3ZS1QRDFoamVGVDF0N19PUkhUM2NMLVNPd25paTF4bWlTNEpDeHJZQWJwTnhQWC05SmFfYzJwbThZOWItUkxkc1pZWVlXS0NwZDFnQUdUbD",
+        "published_time": "Thu, 24 Sep 2026 08:23:32 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 08:23:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUFicUU0X2stR3FoVzk4NkZVd1pHYlA3ZS1QRDFoamVGVDF0N19PUkhUM2NMLVNPd25paTF4bWlTNEpDeHJZQWJwTnhQWC05SmFfYzJwbThZOWItUkxkc1pZWVlXS0NwZDFnQUdUbDRtdXp3ekJFM2tkb2RqZmI5MmVjRy1hcXZISC1zekxqN3pnQ1pwTGtLQUI4cGVwMm5ZZHRiOTFUNkE?oc=5"
+      },
+      {
+        "title": "Ces médicaments contre les maux du quotidien, des brûlures d’estomac aux mycoses, que pharmaciens et laboratoires veulent rendre accessibles sans ordonnance - lemonde.fr",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 24 Sep 2026 17:35:01 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxPMnk3OXdKMkRMZXptdXZfdHBEZDRldnJDQk9DN3ZicC1sMmJZQThidlA2cktKdnV0VmJFaG5nYUdVTmU5WE1rc29TU3Z4dmlCU3h0ZlUxWlZjVVhPQ29JbWM3VE1PZFF4dEdHUFJ4LX",
+        "published_time": "Thu, 24 Sep 2026 17:35:01 GMT",
+        "modified_time": "",
+        "time": "Thu, 24 Sep 2026 17:35:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMnk3OXdKMkRMZXptdXZfdHBEZDRldnJDQk9DN3ZicC1sMmJZQThidlA2cktKdnV0VmJFaG5nYUdVTmU5WE1rc29TU3Z4dmlCU3h0ZlUxWlZjVVhPQ29JbWM3VE1PZFF4dEdHUFJ4LXNDeUZMR3VWMVRPRVl0RnVweDhPNUQzcm4xRFoyWHVodFphZVAybFMyMVcwYTI5QWxSVWlIQ2QxTnBtYUswSnZCWGd3aHQ4SGV3Q2ZPYm1BQlRNYm8wMHdiZlNHVzEwbVVuVXVKblJrcS1HRXZQcS1KVlFVdjhNZlhWWUNYd3FmOFkxWkxQaW92N2tEQzA1WlI4a1hiOXFxVUVINVA2Ui1mR1FGTXppYlhLUUhrT2t0cUtsMUVwREQxRWVBSkFkd1h4eUtrcGNIRWNfazA4Q2Z2TkVzbGZBUQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
