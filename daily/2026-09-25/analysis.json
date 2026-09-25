@@ -1,16 +1,186 @@
 {
   "date": "2026-09-25",
   "total_articles": 320,
-  "language_breakdown": {"korean": 114, "english": 130, "multilingual": 76},
-  "issues": [],
-  "cross_language_issues": [
-    {"keyword": "백신", "kr_count": 9, "en_count": 5, "significance": "medium"},
-    {"keyword": "허가", "kr_count": 2, "en_count": 5, "significance": "medium"},
-    {"keyword": "임상", "kr_count": 5, "en_count": 2, "significance": "medium"},
-    {"keyword": "약가", "kr_count": 2, "en_count": 1, "significance": "low"}
+  "language_breakdown": {
+    "korean": 114,
+    "english": 130,
+    "multilingual": 76
+  },
+  "issues": [
+    {
+      "topic": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 41,
+      "key_articles": [
+        {
+          "title": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+          "importance": 65,
+          "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363733"
+        },
+        {
+          "title": "[GAM] 그레일 ② FDA &quot;안전성 이의 없다&quot;...'갤러리' 승인 청신호",
+          "importance": 42,
+          "url": "https://www.newspim.com/news/view/20260923000036"
+        },
+        {
+          "title": "형보다 아우 먼저…담관암으로 FDA 뚫었다",
+          "importance": 42,
+          "url": "https://www.topdaily.kr/articles/112062"
+        }
+      ],
+      "summary_kr": "관련 기사 6건이 fda, FDA, 승인, 신약 이슈를 다뤘다.",
+      "summary_en": "6 articles covered the fda, FDA, 승인, 신약 issue."
+    },
+    {
+      "topic": "AZ 등 주요 9개 제약사, 유럽 제약산업 위기 공개 경고",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 48,
+      "key_articles": [
+        {
+          "title": "AZ 등 주요 9개 제약사, 유럽 제약산업 위기 공개 경고",
+          "importance": 61,
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332944"
+        },
+        {
+          "title": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+          "importance": 57,
+          "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264165"
+        },
+        {
+          "title": "유럽 ‘빅9’ 제약사 “R&amp;D&#183;임상 경쟁력 추락”…투자 환경 개선 요구",
+          "importance": 42,
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=28423"
+        }
+      ],
+      "summary_kr": "관련 기사 4건이 유럽, 제약산업, 위기, 제약사 이슈를 다뤘다.",
+      "summary_en": "4 articles covered the 유럽, 제약산업, 위기, 제약사 issue."
+    },
+    {
+      "topic": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+          "importance": 56,
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=332923"
+        },
+        {
+          "title": "통합된 한국의약품안전공단… 백신 인프라 첨단바이오로 확대",
+          "importance": 46,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79364"
+        },
+        {
+          "title": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+          "importance": 41,
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=332923"
+        }
+      ],
+      "summary_kr": "관련 기사 3건이 인프라, 확대, 백신, 의약품 이슈를 다뤘다.",
+      "summary_en": "3 articles covered the 인프라, 확대, 백신, 의약품 issue."
+    },
+    {
+      "topic": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 39,
+      "key_articles": [
+        {
+          "title": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+          "importance": 50,
+          "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html"
+        },
+        {
+          "title": "파드셉&#183;리브리반트 등 항암제 등재 앞두고 급여기준 신설",
+          "importance": 41,
+          "url": "https://www.dailypharm.com/user/news/342821"
+        },
+        {
+          "title": "희귀질환 'PHN' 치료제 급여기준 개선 시급",
+          "importance": 27,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012775"
+        }
+      ],
+      "summary_kr": "관련 기사 3건이 희귀질환, 치료제, 급여, 급여기준 이슈를 다뤘다.",
+      "summary_en": "3 articles covered the 희귀질환, 치료제, 급여, 급여기준 issue."
+    },
+    {
+      "topic": "경기도약 &quot;사설 플랫폼 검증…공적 처방시스템 구축이 대안&quot;",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 38,
+      "key_articles": [
+        {
+          "title": "경기도약 &quot;사설 플랫폼 검증…공적 처방시스템 구축이 대안&quot;",
+          "importance": 41,
+          "url": "https://m.dailypharm.com/user/news/342830"
+        },
+        {
+          "title": "경기도약 &quot;비대면진료 설계서 원산협 배제…공공플랫폼 구축해야&quot;",
+          "importance": 35,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544813"
+        }
+      ],
+      "summary_kr": "관련 기사 2건이 경기도약, quot 이슈를 다뤘다.",
+      "summary_en": "2 articles covered the 경기도약, quot issue."
+    },
+    {
+      "topic": "&quot;의약품 안전관리 전문성&#183;효율성 높인다&quot;…식약처, 통합 공단 신설 본격화",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 32,
+      "key_articles": [
+        {
+          "title": "&quot;의약품 안전관리 전문성&#183;효율성 높인다&quot;…식약처, 통합 공단 신설 본격화",
+          "importance": 32,
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043032"
+        },
+        {
+          "title": "&quot;의약품 안전관리 전문성&#183;효율성 높인다&quot;…식약처, 통합 공단 신설 본격화",
+          "importance": 32,
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043032"
+        }
+      ],
+      "summary_kr": "관련 기사 2건이 전문성, 신설, 식약처, 안전관리 이슈를 다뤘다.",
+      "summary_en": "2 articles covered the 전문성, 신설, 식약처, 안전관리 issue."
+    }
   ],
-  "notable_absences": ["시간 필터 적용 후 분석 대상 기사 0건으로 개별 이슈·대표 기사 산출 불가"],
-  "trend_shift": {"from_yesterday": [], "changes": []},
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 9,
+      "en_count": 5
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 5,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
   "connections": [],
-  "generated_at": "2026-09-25T07:31:31+09:00"
+  "generated_at": "2026-09-26T07:31:47.683108+09:00"
 }
