@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-26",
+  "total_articles": 310,
+  "language_breakdown": {
+    "korean": 76,
+    "english": 133,
+    "multilingual": 101
+  },
+  "issues": [
+    {
+      "topic": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 6,
+      "avg_importance": 38,
+      "key_articles": [
+        {
+          "title": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+          "importance": 60,
+          "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363733"
+        },
+        {
+          "title": "HLB, 美 FDA서 담관암 신약 첫 직허가…“리픽투 2040년까지 글로벌 시판”",
+          "importance": 37,
+          "url": "https://www.newsroad.co.kr/news/articleView.html?idxno=64874"
+        },
+        {
+          "title": "[중국 바이오의 부상 ㊥] 임상 7개월 빠르고 비용 최대 절반⋯글로벌 신약 공급처 된 이유",
+          "importance": 37,
+          "url": "https://kormedi.com/2872674/"
+        }
+      ],
+      "summary_kr": "6건의 기사에서 FDA, fda, 신약, hlb 관련 동향이 확인됐다.",
+      "summary_en": "6 articles covered developments involving FDA, fda, 신약, hlb."
+    },
+    {
+      "topic": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 40,
+      "key_articles": [
+        {
+          "title": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+          "importance": 47,
+          "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264165"
+        },
+        {
+          "title": "유럽 제약산업 '빨간불'…R&D 비중 43%→31%",
+          "importance": 32,
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489934"
+        }
+      ],
+      "summary_kr": "2건의 기사에서 유럽, 제약산업 관련 동향이 확인됐다.",
+      "summary_en": "2 articles covered developments involving 유럽, 제약산업."
+    },
+    {
+      "topic": "경북도, 추석연휴 가축전염병 차단 방역 '총력'",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "경북도, 추석연휴 가축전염병 차단 방역 '총력'",
+          "importance": 42,
+          "url": "https://www.newspim.com/news/view/20260924000087"
+        },
+        {
+          "title": "진도군 ‘가축전염병 차단’…특별방역 강화",
+          "importance": 42,
+          "url": "http://www.jntimes.kr/news/articleView.html?idxno=89077"
+        }
+      ],
+      "summary_kr": "2건의 기사에서 가축전염병, 차단 관련 동향이 확인됐다.",
+      "summary_en": "2 articles covered developments involving 가축전염병, 차단."
+    },
+    {
+      "topic": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 1,
+      "avg_importance": 58,
+      "key_articles": [
+        {
+          "title": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+          "importance": 58,
+          "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html"
+        }
+      ],
+      "summary_kr": "희귀질환 치료제의 국민건강보험 급여 목록 등재 심사 기간을 최대 100일 이내로 단축하는 정부의 ‘희귀질환 치료제 신속등재 시범사업’이 지난 8월 말 제약사 신청을 마감하며 본격적인 첫발을 뗐다. 치료 효과가 입증된 신약을 ...",
+      "summary_en": "A notable policy or healthcare development identified in the monitoring window."
+    },
+    {
+      "topic": "독감·코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스]",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "독감·코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스]",
+          "importance": 47,
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260922500244"
+        }
+      ],
+      "summary_kr": "코로나19 중증 폐렴은 바이러스 자체보다 ORF8 단백질이 대식세포를 감염시켜 염증을 키우는 과정에서 심해진다고 연구팀이 밝혔다. IL-17RA를 막으면 바이러스와 폐 섬유화가 줄어 치료 표적 가능성도 제시됐다.",
+      "summary_en": "A notable policy or healthcare development identified in the monitoring window."
+    },
+    {
+      "topic": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 43,
+      "key_articles": [
+        {
+          "title": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+          "importance": 43,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544816"
+        }
+      ],
+      "summary_kr": "공공심야약국이 법제화 2년을 맞았지만 지역별 인프라 격차와 재정 지원의 한계, 현장 약사의 과중한 노동 부담이라는 과제가 여전히 제도 안착의 발목을 잡고 있는 것으로 나타났다. 휴일과 심야 시간대 가벼운 증상에도 의약품을 ...",
+      "summary_en": "A notable policy or healthcare development identified in the monitoring window."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 4,
+      "significance": "medium"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 2,
+      "en_count": 2,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-09-27T07:32:00+09:00"
+}
