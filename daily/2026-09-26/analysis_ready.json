@@ -1,0 +1,410 @@
+{
+  "date": "2026-09-26",
+  "total_articles": 310,
+  "language_breakdown": {
+    "korean": {
+      "total": 76,
+      "categories": {
+        "의약품": 15,
+        "의약산업": 5,
+        "의약정책": 1,
+        "의약단체": 1,
+        "의약관련정부기관": 4,
+        "의료현장": 6,
+        "약국·약사": 3,
+        "의료정책·인력": 16,
+        "전통의학": 0,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 133,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 8
+      }
+    },
+    "multilingual": {
+      "total": 101,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 7,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 5,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 9,
+        "Hindi / 힌디어": 8,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 11
+    },
+    {
+      "keyword": "백신",
+      "count": 10
+    },
+    {
+      "keyword": "신약",
+      "count": 9
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "임상",
+      "count": 2
+    },
+    {
+      "keyword": "식약처",
+      "count": 1
+    },
+    {
+      "keyword": "공급망",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 20
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 10
+    },
+    {
+      "keyword": "generic",
+      "count": 7
+    },
+    {
+      "keyword": "patent",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "톱데일리",
+      "count": 2
+    },
+    {
+      "source": "약사공론",
+      "count": 2
+    },
+    {
+      "source": "다음 뉴스",
+      "count": 1
+    },
+    {
+      "source": "뉴스로드",
+      "count": 1
+    },
+    {
+      "source": "코메디닷컴",
+      "count": 1
+    },
+    {
+      "source": "청년의사",
+      "count": 1
+    },
+    {
+      "source": "메드월드뉴스",
+      "count": 1
+    },
+    {
+      "source": "핀포인트뉴스",
+      "count": 1
+    },
+    {
+      "source": "더구루",
+      "count": 1
+    },
+    {
+      "source": "한겨레",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+    "AZ 등 주요 9개 제약사, 유럽 제약산업 위기 공개 경고",
+    "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+    "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+    "경기도약 &quot;사설 플랫폼 검증…공적 처방시스템 구축이 대안&quot;"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 6,
+      "keywords": [
+        "FDA",
+        "fda",
+        "신약",
+        "hlb",
+        "리픽투",
+        "담관암",
+        "글로벌",
+        "형보다",
+        "뚫었다",
+        "담관암으로"
+      ],
+      "articles": [
+        {
+          "title": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+          "source": "중소기업신문",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "HLB가 자체 개발 중인 FGFR2 표적 항암제 '리픽투(성분명: 리라푸그라티닙)'로 미국 식품의약국(FDA) 품목허가를 획득했다.HLB의 미국 자회사 엘레바 테라퓨틱스는 23일(현지시각) 미국 FDA로부터 리픽투를 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363733"
+        },
+        {
+          "title": "HLB, 美 FDA서 담관암 신약 첫 직허가…“리픽투 2040년까지 글로벌 시판”",
+          "source": "뉴스로드",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[뉴스로드] 국내 바이오기업 HLB가 미국 식품의약국(FDA)으로부터 담관암 신약 ‘리픽투’(성분명 리라푸그라티닙)의 품목 허가를 받으며 항암제 개발의 결실을 맺었다. 미국 자회사 엘레바 테라퓨틱스를 통해 이뤄낸 이번 승인은 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "8시간",
+          "url": "https://www.newsroad.co.kr/news/articleView.html?idxno=64874"
+        },
+        {
+          "title": "[중국 바이오의 부상 ㊥] 임상 7개월 빠르고 비용 최대 절반⋯글로벌 신약 공급처 된 이유",
+          "source": "코메디닷컴",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "중국은 2030년까지 일정 규모 이상 제약기업의 매출을 3조5000억위안 이상으로 키우고, 전 세계 퍼스트인클래스 (FIC) 신약 가운데 중국이 개발한 신약의 비중을 25% 이상으로 높이겠다는 목표를 제시했다. 혁신신약 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "12시간",
+          "url": "https://kormedi.com/2872674/"
+        },
+        {
+          "title": "美 FDA도 신약 개발 병목 해소 나서는데…식약처의 행보는?",
+          "source": "청년의사",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "미국이 의약품 시장 강국이라는 타이틀을 지키기 위해 신약 개발 과정에서 개혁을 단행한다. 불필요한 서류 제출을 줄이겠다는 목적의 '신속 임상시험계획 승인 신청(IND) 시범 사업’을 공개하면서다.이와 관련해 국내 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043067"
+        },
+        {
+          "title": "형보다 아우 먼저…담관암으로 FDA 뚫었다",
+          "source": "톱데일리",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "HLB가 담관암 치료제 리라푸그라티닙 (제품명 리픽투)으로 미국 식품의약국 (FDA)의 관문을 통과했다. 간암 신약 리보세라닙이 세 차례 보완요구서한 (CRL)을 받으며 미국 진출이 지연된 사이 별도 제조망을 갖춘 리라푸그라티닙이 먼저 허가를 획득했다. HLB는 미국내 첫 신약을 확보하게 된 데 따라 상업화에 고삐를 더욱 죄겠단 입장이다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.topdaily.kr/articles/112062"
+        },
+        {
+          "title": "형보다 아우 먼저…담관암으로 FDA 뚫었다",
+          "source": "톱데일리",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "HLB가 담관암 치료제 리라푸그라티닙 (제품명 리픽투)으로 미국 식품의약국 (FDA)의 관문을 통과했다. 간암 신약 리보세라닙이 세 차례 보완요구서한 (CRL)을 받으며 미국 진출이 지연된 사이 별도 제조망을 갖춘 리라푸그라티닙이 먼저 허가를 획득했다. HLB는 미국내 첫 신약을 확보하게 된 데 따라 상업화에 고삐를 더욱 죄겠단 입장이다.",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.topdaily.kr/articles/112062"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 2,
+      "keywords": [
+        "유럽",
+        "제약산업"
+      ],
+      "articles": [
+        {
+          "title": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+          "source": "메드월드뉴스",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "유럽의 주요 제약회사들이 유럽의 제약산업이 위기에 봉착했다며 각국 정부에 대책마련을 촉구하고 나섰다. 한국바이오협회 바이오경제연구센터는 지난 23일자 이슈 브리핑에서 이같이 전했다.아스트라제네카, 베링거인겔하임, 키에시 그룹 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264165"
+        },
+        {
+          "title": "유럽 제약산업 '빨간불'…R&amp;D 비중 43%→31%",
+          "source": "핀포인트뉴스",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "유럽 제약산업이 글로벌 경쟁에서 뒤처지고 있다는 경고가 나왔다. 유럽 주요 제약사들은 연구개발(R&amp;D)과 임상시험 투자 감소, 신약 접근성 저하 등을 지적하며 각국 정부가 제약산업을 국가 안보와 보건 주권 차원에서 바라봐야 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489934"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "가축전염병",
+        "차단"
+      ],
+      "articles": [
+        {
+          "title": "경북도, 추석연휴 가축전염병 차단 방역 '총력'",
+          "source": "뉴스핌",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[경북종합=뉴스핌] 남효선 기자 = 경북도가 추석 연휴 구제역 등 가축 전염병 차단 방역에 행정력을 집중한다.24일 경북도에 따르면 도 방역당국은 추석명절을 전후해 축산농가 출입통제와 소독, 가축 전염병 임상예찰&#183;전화예찰, 구제역 백신접종 확인, 축산차량과 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://www.newspim.com/news/view/20260924000087"
+        },
+        {
+          "title": "진도군 ‘가축전염병 차단’…특별방역 강화",
+          "source": "전남타임스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "진도군이 오는 10월부터 내년 2월까지를 특별방역대책 기간으로 정하고 고병원성 조류인플루엔자, 구제역, 아프리카돼지열병 등 주요 가축전염병의 발생을 예방하고 확산을 막기 위한 방역 관리 체계를 한층 강화한다. 가축질병에 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "http://www.jntimes.kr/news/articleView.html?idxno=89077"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+      "source": "한겨레",
+      "importance": 58,
+      "snippet": "희귀질환 치료제의 국민건강보험 급여 목록 등재 심사 기간을 최대 100일 이내로 단축하는 정부의 ‘희귀질환 치료제 신속등재 시범사업’이 지난 8월 말 제약사 신청을 마감하며 본격적인 첫발을 뗐다. 치료 효과가 입증된 신약을 ...",
+      "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html"
+    },
+    {
+      "title": "독감&#183;코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스]",
+      "source": "서울Pn",
+      "importance": 47,
+      "snippet": "코로나19 중증 폐렴은 바이러스 자체보다 ORF8 단백질이 대식세포를 감염시켜 염증을 키우는 과정에서 심해진다고 연구팀이 밝혔다. IL-17RA를 막으면 바이러스와 폐 섬유화가 줄어 치료 표적 가능성도 제시됐다.",
+      "url": "https://go.seoul.co.kr/news/newsView.php?id=20260922500244"
+    },
+    {
+      "title": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+      "source": "약사공론",
+      "importance": 43,
+      "snippet": "공공심야약국이 법제화 2년을 맞았지만 지역별 인프라 격차와 재정 지원의 한계, 현장 약사의 과중한 노동 부담이라는 과제가 여전히 제도 안착의 발목을 잡고 있는 것으로 나타났다. 휴일과 심야 시간대 가벼운 증상에도 의약품을 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544816"
+    },
+    {
+      "title": "[K바이오 신약대전] '아로나민' 일동제약, ETC로 재도약…신약개발 强드라이브",
+      "source": "다음 뉴스",
+      "importance": 42,
+      "snippet": "[더구루=김현수 기자] 일동제약이 대표 간판 브랜드인 국민 영양제 '아로나민'을 넘어 전문의약품(ETC)과 혁신 신약 파이프라인을 두 축으로 한 체질 개선에 속도를 내고 있다. 일반의약품(OTC) 중심의 사업 구조에서 탈피해 ...",
+      "url": "https://v.daum.net/v/20260925063104601"
+    },
+    {
+      "title": "경기도약 &quot;사설 플랫폼 검증…공적 처방시스템 구축이 대안&quot;",
+      "source": "데일리팜",
+      "importance": 41,
+      "snippet": "경기도약사회(회장 연제덕)가 비대면진료 제도의 사기업 수익 모델화를 강력히 규탄하며, 국가 주도의 공공 플랫폼 구축과 사설 플랫폼에 대한 투명한 검증을 촉구하고 나섰다. 도약사회는 23일 성명을 내어 최근 원격의료산업협의회(원산협)가 주도하는 비대면진료 플랫폼 논의의 일방성과 의료 영리화 의도를 엄중히 경고했다. 도약사회는 먼저 사설 플랫폼의 철저한 검증 ",
+      "url": "https://www.dailypharm.com/user/news/342830"
+    },
+    {
+      "title": "[럿거스 탐방②] 약사의 역할은 어디까지? 환자 중심 약료 현장을 가다",
+      "source": "약사공론",
+      "importance": 38,
+      "snippet": "Simulation Lab에서 겪은 약사의 역할은 이미 미국 응급진료 현장에 뿌리내려 있었다. 미국병원약사회 (ASHP)가 ‘미국 보건시스템 약학저널 (American Journal of Health-System Pharmacy)’에 발표한 ‘2024 병원 약제업무 전국 설문조사’에 따르면, 미국 병원의 약 46.5%가 전담 약사를 응급실에 배치하고 있는 ",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544634"
+    },
+    {
+      "title": "[제약街 세대교체] 1년 새 적자 73% 껑충…삼일제약 허승범號, '외형&#183;수익' 이중고",
+      "source": "더구루",
+      "importance": 27,
+      "snippet": "[더구루=진유진 기자] 3세 경영 닻을 올린 삼일제약이 심각한 실적 부진에 빠졌다. 창업주 고(故) 허용 명예회장의 손자이자 허강 전 회장의 장남인 허승범 회장이 지휘봉 3년차를 맞지만 실적은 뒷걸음질 치고 있어서다. 오너 ...",
+      "url": "https://www.theguru.co.kr/news/article.html?no=107388"
+    },
+    {
+      "title": "“섬 지역 의료공백 줄인다”…공보의 우선배치&#183;복무부담 완화 추진",
+      "source": "농민신문",
+      "importance": 27,
+      "snippet": "이상휘 국민의힘 국회의원(포항 남&#183;울릉)이 최근 인구감소지역 내 섬의 의료공백을 줄이기 위해 공중보건의사 배치 체계를 개선하고 필수의료 전공의의 복무 부담을 완화하는 내용의 ‘농어촌 등 보건의료를 위한 특별조치법 일부개정법률안’을 대표발의했다고 22일 밝혔다. 이번 개 ...",
+      "url": "https://www.nongmin.com/article/20260922500009"
+    },
+    {
+      "title": "ENFORCEMENT ACTIONS—D. Minn.:... - VitalLaw.com",
+      "source": "",
+      "importance": 27,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxQRmlpZlFYWXBKZm1RZWc3R1JtZXNBLWJOMXhJSGlwTFhGTE1Id1FXSHk0RkZ4M1NNMWZPUXNQOW9FV3FJdi0yazdJdVZEOHlGOXR1a1ZOSk9DM0RqTzl3SHRBYTBoSXBVSVBfRDhWeD",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRmlpZlFYWXBKZm1RZWc3R1JtZXNBLWJOMXhJSGlwTFhGTE1Id1FXSHk0RkZ4M1NNMWZPUXNQOW9FV3FJdi0yazdJdVZEOHlGOXR1a1ZOSk9DM0RqTzl3SHRBYTBoSXBVSVBfRDhWeDg1SGJrekwxdnVUZ3RkNjhvUHNLNFZEWm5Zb0tsVnBaREZhWEhZWHhIMGxuNjhGa2F6OXpHWEh5TGxwX0ZtN3JXNThyQmhIRHNHMkJlaVBad2RMNlhMX2pWSXJROTZPTUg4SmNjS3ZVUkpXeGJDd0lfREpYUTBZaEk1V0FjYktpVGR4S0lCV19SbzEtQy1zaHFLWURHeUZndWQwUnNORTBJbXRpMVQxcDNDQ19FZDc4MVRDa3hqb3AxdXJKak5zZw?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 2,
+      "en_count": 2
+    }
+  ]
+}

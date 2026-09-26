@@ -1,0 +1,528 @@
+{
+  "date": "2026-09-26",
+  "total": 310,
+  "version": 1,
+  "generated_at": "2026-09-26T06:31:35.750248+09:00",
+  "korean": {
+    "total": 76,
+    "categories": {
+      "의약품": 15,
+      "의약산업": 5,
+      "의약정책": 1,
+      "의약단체": 1,
+      "의약관련정부기관": 4,
+      "의료현장": 6,
+      "약국·약사": 3,
+      "의료정책·인력": 16,
+      "전통의학": 0,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "HLB 담관암 신약 '리픽투' 美 FDA 승인",
+        "source": "중소기업신문",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:1일+10 | 키워드+20 | 순위:23위+2",
+        "snippet": "HLB가 자체 개발 중인 FGFR2 표적 항암제 '리픽투(성분명: 리라푸그라티닙)'로 미국 식품의약국(FDA) 품목허가를 획득했다.HLB의 미국 자회사 엘레바 테라퓨틱스는 23일(현지시각) 미국 FDA로부터 리픽투를 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363733"
+      },
+      {
+        "title": "희귀질환 치료제 ‘100일 신속등재’ 시동…환자가 체감하는 제도 될 수 있을까? [건강한겨레]",
+        "source": "한겨레",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:1일+10 | 키워드+5 | 순위:6위+15",
+        "snippet": "희귀질환 치료제의 국민건강보험 급여 목록 등재 심사 기간을 최대 100일 이내로 단축하는 정부의 ‘희귀질환 치료제 신속등재 시범사업’이 지난 8월 말 제약사 신청을 마감하며 본격적인 첫발을 뗐다. 치료 효과가 입증된 신약을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1279384.html"
+      },
+      {
+        "title": "유럽 주요 제약사들, “유럽 제약산업 위기 봉착”",
+        "source": "메드월드뉴스",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메드월드뉴스+10 | 최신:1일+10 | 키워드+25 | 순위:29위+2",
+        "snippet": "유럽의 주요 제약회사들이 유럽의 제약산업이 위기에 봉착했다며 각국 정부에 대책마련을 촉구하고 나섰다. 한국바이오협회 바이오경제연구센터는 지난 23일자 이슈 브리핑에서 이같이 전했다.아스트라제네카, 베링거인겔하임, 키에시 그룹 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264165"
+      },
+      {
+        "title": "독감&#183;코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스]",
+        "source": "서울Pn",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:서울Pn+10 | 최신:7시간+15 | 키워드+20 | 순위:148위+2",
+        "snippet": "코로나19 중증 폐렴은 바이러스 자체보다 ORF8 단백질이 대식세포를 감염시켜 염증을 키우는 과정에서 심해진다고 연구팀이 밝혔다. IL-17RA를 막으면 바이러스와 폐 섬유화가 줄어 치료 표적 가능성도 제시됐다.",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260922500244"
+      },
+      {
+        "title": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+        "source": "약사공론",
+        "importance": 43,
+        "stars": "⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:15시간+10 | 키워드+10 | 순위:17위+5",
+        "snippet": "공공심야약국이 법제화 2년을 맞았지만 지역별 인프라 격차와 재정 지원의 한계, 현장 약사의 과중한 노동 부담이라는 과제가 여전히 제도 안착의 발목을 잡고 있는 것으로 나타났다. 휴일과 심야 시간대 가벼운 증상에도 의약품을 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544816"
+      },
+      {
+        "title": "HLB, 담관암 경구용 항암제 신약 '리픽투' 미 FDA 허가, 담관암 2차 치료제로 승인 - 한국의약통신",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 20:16:40 GMT+5 | 키워드+25 | 순위:77위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE55NzkxNmRWZEtVLTFZRFA2VWdJZXI0cVlsZjRrbXdSUEFZR3JKY2pZeklqRndBdTYzNGxJcGFnNzdvUFVJSTZsUE5hWWxGM0N3X3VFWTZQRGtxeGVpQndOSHl4UnZjRF90X25j?oc=5\"",
+        "published_time": "Fri, 25 Sep 2026 20:16:40 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 20:16:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55NzkxNmRWZEtVLTFZRFA2VWdJZXI0cVlsZjRrbXdSUEFZR3JKY2pZeklqRndBdTYzNGxJcGFnNzdvUFVJSTZsUE5hWWxGM0N3X3VFWTZQRGtxeGVpQndOSHl4UnZjRF90X25j?oc=5"
+      },
+      {
+        "title": "[K바이오 신약대전] '아로나민' 일동제약, ETC로 재도약…신약개발 强드라이브",
+        "source": "다음 뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:다음 뉴스+10 | 최신:15시간+10 | 키워드+20 | 순위:86위+2",
+        "snippet": "[더구루=김현수 기자] 일동제약이 대표 간판 브랜드인 국민 영양제 '아로나민'을 넘어 전문의약품(ETC)과 혁신 신약 파이프라인을 두 축으로 한 체질 개선에 속도를 내고 있다. 일반의약품(OTC) 중심의 사업 구조에서 탈피해 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://v.daum.net/v/20260925063104601"
+      },
+      {
+        "title": "병원 아닌 내 집에서... 찾아가는 의료기관 '가정간호' / YTN",
+        "source": "Dailymotion on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:Dailymotion on MSN+10 | 최신:41분+20 | 키워드+10 | 순위:36위+2",
+        "snippet": "루게릭병 앓는 김종록 씨, 2주마다 가정간호 받아 대형병원 소속 간호사가 집으로 찾아와 의료 처치 &quot;건강상태 꼼꼼히 확인&quot;…가족의 간병 부담도 줄어 병원이 아닌 집에서도 필요한 처치를 받을 수 있도록 의료기관이 직접 찾아가는 ...",
+        "published_time": "41분",
+        "modified_time": "",
+        "time": "41분",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%B3%91%EC%9B%90-%EC%95%84%EB%8B%8C-%EB%82%B4-%EC%A7%91%EC%97%90%EC%84%9C-%EC%B0%BE%EC%95%84%EA%B0%80%EB%8A%94-%EC%9D%98%EB%A3%8C%EA%B8%B0%EA%B4%80-%EA%B0%80%EC%A0%95%EA%B0%84%ED%98%B8-ytn/vi-AA2cYx8a?ocid=BingNewsVerp"
+      },
+      {
+        "title": "경북도, 추석연휴 가축전염병 차단 방역 '총력'",
+        "source": "뉴스핌",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스핌+10 | 최신:1일+10 | 키워드+20 | 순위:149위+2",
+        "snippet": "[경북종합=뉴스핌] 남효선 기자 = 경북도가 추석 연휴 구제역 등 가축 전염병 차단 방역에 행정력을 집중한다.24일 경북도에 따르면 도 방역당국은 추석명절을 전후해 축산농가 출입통제와 소독, 가축 전염병 임상예찰&#183;전화예찰, 구제역 백신접종 확인, 축산차량과 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.newspim.com/news/view/20260924000087"
+      },
+      {
+        "title": "진도군 ‘가축전염병 차단’…특별방역 강화",
+        "source": "전남타임스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:전남타임스+10 | 최신:1일+10 | 키워드+20 | 순위:150위+2",
+        "snippet": "진도군이 오는 10월부터 내년 2월까지를 특별방역대책 기간으로 정하고 고병원성 조류인플루엔자, 구제역, 아프리카돼지열병 등 주요 가축전염병의 발생을 예방하고 확산을 막기 위한 방역 관리 체계를 한층 강화한다. 가축질병에 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "http://www.jntimes.kr/news/articleView.html?idxno=89077"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        11
+      ],
+      [
+        "백신",
+        10
+      ],
+      [
+        "신약",
+        9
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "임상",
+        2
+      ],
+      [
+        "식약처",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "톱데일리",
+        2
+      ],
+      [
+        "약사공론",
+        2
+      ],
+      [
+        "다음 뉴스",
+        1
+      ],
+      [
+        "뉴스로드",
+        1
+      ],
+      [
+        "코메디닷컴",
+        1
+      ],
+      [
+        "청년의사",
+        1
+      ],
+      [
+        "메드월드뉴스",
+        1
+      ],
+      [
+        "핀포인트뉴스",
+        1
+      ],
+      [
+        "더구루",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ],
+      [
+        "중소기업신문",
+        1
+      ],
+      [
+        "Dailymotion on MSN",
+        1
+      ],
+      [
+        "데일리팜",
+        1
+      ],
+      [
+        "의협신문",
+        1
+      ],
+      [
+        "농민신문",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 133,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 8
+    },
+    "top_articles": [
+      {
+        "title": "Ulefnersen slows disease progression in Phase 3 ALS trial - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 17:36:06 GMT+5 | 키워드+30 | 순위:268위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQR2c3dU5vMmNPODEzU1QyaVYxV0luN2ZkdmVoZHd3eFVyZl9lVDkxNUNvRWVkWjRRdVR3bnRkTkZWelVmV3ZUbjhtMXgzazR1S09PeFNLYXVwcHJzdzdCRnZHckg0LU1qemtJUmxtd3",
+        "published_time": "Fri, 25 Sep 2026 17:36:06 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 17:36:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR2c3dU5vMmNPODEzU1QyaVYxV0luN2ZkdmVoZHd3eFVyZl9lVDkxNUNvRWVkWjRRdVR3bnRkTkZWelVmV3ZUbjhtMXgzazR1S09PeFNLYXVwcHJzdzdCRnZHckg0LU1qemtJUmxtd3Z0NGhEc3l1YXBpRlBqdHRzU2ZuN0NRRXVmU0RtT0J0amtkYTBPbDVyako4Q204Zw?oc=5"
+      },
+      {
+        "title": "Want to Lower Drug Prices? Reform the U.S. Patent System - Kaiser Permanente",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 15:22:39 GMT+5 | 키워드+30 | 순위:270위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPbko3REstVTUtTVRwSTc2M09mQV95Q0FhVkZaamRYREl2X2k3NHhRR1J4VTRuWERScC1iOWNSbmVESHFNLXJSV2pEN0hNWVlTTElqZE8tWTZwUE10aUFSc01UR3lOT3NpcVNMOEE3OF",
+        "published_time": "Fri, 25 Sep 2026 15:22:39 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 15:22:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbko3REstVTUtTVRwSTc2M09mQV95Q0FhVkZaamRYREl2X2k3NHhRR1J4VTRuWERScC1iOWNSbmVESHFNLXJSV2pEN0hNWVlTTElqZE8tWTZwUE10aUFSc01UR3lOT3NpcVNMOEE3OFc3Ri1Zd0pDYlFyZ0pDU2VWYzgwTVE0cjF3dlZWVHg3YXBwaWstVElRNQ?oc=5"
+      },
+      {
+        "title": "US FDA approves Mirum's drug for rare bone disorder - reuters.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 20:11:26 GMT+5 | 키워드+30 | 순위:271위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnRScXF6U1QyYm9qejFheHhZajVzb2dIZTRhcjJLV0R2TGJ5bUZpQU84Sm9JRkEyN2VzWFNlS2R3SExtN2cwTk9ZeDZ2ZEtYSGNIaWpndDRGY09IQ2JqY21Ia2kzbmp1djRyMVlBZH",
+        "published_time": "Fri, 25 Sep 2026 20:11:26 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 20:11:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnRScXF6U1QyYm9qejFheHhZajVzb2dIZTRhcjJLV0R2TGJ5bUZpQU84Sm9JRkEyN2VzWFNlS2R3SExtN2cwTk9ZeDZ2ZEtYSGNIaWpndDRGY09IQ2JqY21Ia2kzbmp1djRyMVlBZHFvaEVOY0VlSGdhQmFVLURBcGMxdk1qaUVSOENxb2dKcFhleHRQcnBtN1ZRQmlBOVcyZktIZC1RQmVGWGRZZ3FJekg2anNEYmVmMGc?oc=5"
+      },
+      {
+        "title": "China expands role in manufacturing new FDA-approved drugs - The Pharma Letter",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 14:08:21 GMT+5 | 키워드+30 | 순위:276위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHl3ZHd2ejMtcEN6bjlSX29TN2FzNVVsX3ZTc2NwVlBDYm9ab2NDa1lwRTFnS0ZSUFhYMzBkY2E5OTluUFZNaEhwY2dEaUdGWDgtc1hOSm5heGIxMFNjS2NiV0JhQzZRdXVZNWdXN1",
+        "published_time": "Fri, 25 Sep 2026 14:08:21 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 14:08:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHl3ZHd2ejMtcEN6bjlSX29TN2FzNVVsX3ZTc2NwVlBDYm9ab2NDa1lwRTFnS0ZSUFhYMzBkY2E5OTluUFZNaEhwY2dEaUdGWDgtc1hOSm5heGIxMFNjS2NiV0JhQzZRdXVZNWdXN1ZBVi1lMnFDWEVfWVZlR2VZdTdIR2lIS1VpZUpSdmttQlBqVWxmZnZsNkNnTDRGQWhBbzY0bTF3?oc=5"
+      },
+      {
+        "title": "EU clears first drug therapy for rare disease cALD - pharmaphorum",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 12:30:32 GMT+5 | 키워드+30 | 순위:277위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOcjl6VGhucnc0VXFHNmd3N2tEQ2tGUXdGU3JjYkJvM0t6d3hBUGx5UDdNc3NYZ3VZdmo0MU1NQWtiZDhtbk5MSTNEbnlzVHdCcXVZYVI2V0h6RXlraHBpNU1IYjR1X1pvNGlZRGVPS0",
+        "published_time": "Fri, 25 Sep 2026 12:30:32 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 12:30:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcjl6VGhucnc0VXFHNmd3N2tEQ2tGUXdGU3JjYkJvM0t6d3hBUGx5UDdNc3NYZ3VZdmo0MU1NQWtiZDhtbk5MSTNEbnlzVHdCcXVZYVI2V0h6RXlraHBpNU1IYjR1X1pvNGlZRGVPS0xfNDQyd2ZNS3RTTVNHMHFQdG9R?oc=5"
+      },
+      {
+        "title": "Sanofi's New Drugs Poised to Drive Growth Beyond Dupixent - The Globe and Mail",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 15:35:03 GMT+5 | 키워드+30 | 순위:288위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdGhpRUxDbVE5eU00LTl6RXppVDhCOHBnbHNMWjdRYVktOGpCY0hnc01odFZoZUROR3lfajJ1WHZqWEJ4T2RBR0tUS253X2ZlVWVzbTNRUlA5M2pqVW5KX0VZcDVMZnRaNEcyNTh6SE",
+        "published_time": "Fri, 25 Sep 2026 15:35:03 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 15:35:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdGhpRUxDbVE5eU00LTl6RXppVDhCOHBnbHNMWjdRYVktOGpCY0hnc01odFZoZUROR3lfajJ1WHZqWEJ4T2RBR0tUS253X2ZlVWVzbTNRUlA5M2pqVW5KX0VZcDVMZnRaNEcyNTh6SEo3X3pMWjZIV1BpYnFZeUVtbE9kVTVJMjZsNEo2dzJrQ25Uc3c3ZWVrRWtObWd5cUw5QVgzQXdjOE53OE9qS01yV01pM2xneTYyOG1seV9FLVQzUlczcDJSVVNMU2M2ZHN2WXcyVG1kUQ?oc=5"
+      },
+      {
+        "title": "AstraZeneca registers new hypertension drug in Russia - The Pharma Letter",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 10:18:12 GMT+5 | 키워드+30 | 순위:289위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVHdTNXpvclV4NTBXeFZld2tQMUVaYkxYdl9IUWRHVDN4TzdsNzN5cEJmUGtkTGh6WUVWemMwbklRM1c3SWkwRkJhNlNVSFU5Umg4Z3FuY3NfZmtBM28wM05FWTFlb1B4dmtSZGNZak",
+        "published_time": "Fri, 25 Sep 2026 10:18:12 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 10:18:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHdTNXpvclV4NTBXeFZld2tQMUVaYkxYdl9IUWRHVDN4TzdsNzN5cEJmUGtkTGh6WUVWemMwbklRM1c3SWkwRkJhNlNVSFU5Umg4Z3FuY3NfZmtBM28wM05FWTFlb1B4dmtSZGNZak9ZVnQ4eDRGd0NDbVIyWFF2djFPcWw2cWFSUHJrQlRfV3BSc1R0X2FwWmlNT2lFUQ?oc=5"
+      },
+      {
+        "title": "New pancreatic cancer drug marks shift from chemotherapy to targeted treatment - Cleveland.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 13:21:00 GMT+5 | 키워드+30 | 순위:290위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOSF9Kb2hYVmwxZVU5cjlMYXFURHBPeVNUQmNtWTZwTUNvUlRUMXZkSDFWTnNhdFhoSFU1OFh1QVZiT2FMTWJMNFlPTmlJc2ZVVzFuTnJfRFMxU3VvV1BwdzJPa21QZkxlZE1lQkJtdl",
+        "published_time": "Fri, 25 Sep 2026 13:21:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 13:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSF9Kb2hYVmwxZVU5cjlMYXFURHBPeVNUQmNtWTZwTUNvUlRUMXZkSDFWTnNhdFhoSFU1OFh1QVZiT2FMTWJMNFlPTmlJc2ZVVzFuTnJfRFMxU3VvV1BwdzJPa21QZkxlZE1lQkJtdlFHTVo0bmotUDFFa0hyX3p4MkRfbVVMWGE5NndETURfSEdVVU5keXAyM3poUGJJRVh0bV9SR1hNY3Rsbm9uT3FOWkdOdS1XYzBfbGFOUVIwUVFoV3JIaVE?oc=5"
+      },
+      {
+        "title": "New Oral Drug Offers Fresh Obesity Treatment Option - News of Bahrain",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 09:00:43 GMT+5 | 키워드+30 | 순위:295위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yZ0dtLW05eFoxeVRCVnI2NmhQSUp2dUlXWXpBd00tb0RjUkU0X3I0Q1dpOE5uckIxbXM1eXhZWDdYdXhDYS1rLTdXbi1YM05VM29xcWhvNmJDMXV4TlE?oc=5\" target=\"_blank\">",
+        "published_time": "Fri, 25 Sep 2026 09:00:43 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 09:00:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yZ0dtLW05eFoxeVRCVnI2NmhQSUp2dUlXWXpBd00tb0RjUkU0X3I0Q1dpOE5uckIxbXM1eXhZWDdYdXhDYS1rLTdXbi1YM05VM29xcWhvNmJDMXV4TlE?oc=5"
+      },
+      {
+        "title": "China expands its manufacturing role for biopharma’s new drugs - Pharmaceutical Technology",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 18:23:37 GMT+5 | 키워드+30 | 순위:296위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXBsNF8tRkF3b0E1WW4xRzdyQ0ZlU19mVHlDRzVIazdwQVNrb01ULVlsQ3h3WTcyazE3blNBLVRUVG1BYXhOYlJDQWNvYnJZOTdMN20yOFBtekRKVkVqeTZzeUhNc2lzbExRNlE3aT",
+        "published_time": "Fri, 25 Sep 2026 18:23:37 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 18:23:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRXBsNF8tRkF3b0E1WW4xRzdyQ0ZlU19mVHlDRzVIazdwQVNrb01ULVlsQ3h3WTcyazE3blNBLVRUVG1BYXhOYlJDQWNvYnJZOTdMN20yOFBtekRKVkVqeTZzeUhNc2lzbExRNlE3aThrWEtsWHhkRUotWTM0czROTnRTUjhBODI0WHAzY3RBX2taQkRrYndTNkRQOFdPODRy?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        20
+      ],
+      [
+        "manufacturing",
+        10
+      ],
+      [
+        "generic",
+        7
+      ],
+      [
+        "patent",
+        5
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "biosimilar",
+        2
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 101,
+    "languages": {
+      "French / 프랑스어": 8,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 7,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 5,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 7,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 8,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Les mini-usines à médicaments dans l’espace deviennent la nouvelle ambition de l’industrie pharmaceutique - franceinfo",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 07:02:15 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQelNiYW9TNFptdG9JOHNvZ0Z2ekh1YXdhUkhsQk9CaS00Q05lRlZzTkY3ZUM2OWl3NGdfSkJhN25FVURaWXd3YTZXZ21KOXNfQU9sd0U3Zlg0azJXd2FzSlRMSDBKMWUxYy1SLVNpX2",
+        "published_time": "Fri, 25 Sep 2026 07:02:15 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 07:02:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQelNiYW9TNFptdG9JOHNvZ0Z2ekh1YXdhUkhsQk9CaS00Q05lRlZzTkY3ZUM2OWl3NGdfSkJhN25FVURaWXd3YTZXZ21KOXNfQU9sd0U3Zlg0azJXd2FzSlRMSDBKMWUxYy1SLVNpX25weG9sNjJ0N0JmX3ZHb1VVU1NkaS1VTnNkdUVHNWxlWWVaanRhLTNmSE56ajl3aUo3eVhlUXFxRTQxdmV3alJ3MFFnd1hNUXRvRlVLc25BSFNPNmwwZUpOd2Jtekk0ODlJblhxbkZmenhSbUVQVkZJMkVuWEEwbEt6c1ZDUzlDaVlzU2FwYTBOVWF4cEJfT2ZHVWtuMA?oc=5"
+      },
+      {
+        "title": "Sağlık Bakanlığı, kanser tedavisinde kullanılan ilaçların daha fazlasının sağlık sigortası kapsamına alınması önerisi hakkında ne diyor? - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 09:37:56 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWhMWDBpT0w3ckFRR21NWDZ6Zl9EdGFZX3pUUjFoRVNpZTVlZlA2Z2tBNXJnYjhjbUJuTm56am9NZUZ3bWgySFA2a2hKV3ZUaDRFZUxyZkllNjVRSU0ySGZoeUlBbzcxUmd3dEZvUD",
+        "published_time": "Fri, 25 Sep 2026 09:37:56 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 09:37:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWhMWDBpT0w3ckFRR21NWDZ6Zl9EdGFZX3pUUjFoRVNpZTVlZlA2Z2tBNXJnYjhjbUJuTm56am9NZUZ3bWgySFA2a2hKV3ZUaDRFZUxyZkllNjVRSU0ySGZoeUlBbzcxUmd3dEZvUDJiaHE2M2dDOEQ2VTljZmthU2NOc2h4TzV3REdoT2NjVGVCMGpZTFZOSFRCc2M2MHNKR0E?oc=5"
+      },
+      {
+        "title": "Kanser tedavisinde kullanılan ilaçların daha fazlasının sağlık sigortası kapsamına alınması ve böylece insanların bu ilaçları sigorta dışında satın alma ihtiyacının azaltılması önerisi: Sağlık Bakanlığı ne diyor? - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 10:52:14 GMT+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMEN3Y2tGOFZ4OWpDRG1wbHBXYXpfRjItNGcteDl0b2ZaMkVxbjUwVjNiQTJZZkwyQ0hNSUI5dzFSTHY2c1EwZFAtRTQ4eDl6VG83UmRFbVNtbXFIRjQ4V3pnWTFkYjVqZnNYUXRrNT",
+        "published_time": "Fri, 25 Sep 2026 10:52:14 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 10:52:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMEN3Y2tGOFZ4OWpDRG1wbHBXYXpfRjItNGcteDl0b2ZaMkVxbjUwVjNiQTJZZkwyQ0hNSUI5dzFSTHY2c1EwZFAtRTQ4eDl6VG83UmRFbVNtbXFIRjQ4V3pnWTFkYjVqZnNYUXRrNTNYeG9fTGo5WlMzUHJEUWRtRkd2aU10aUxpZmpCbm5UYWRxX2dPcEFNWDhpc19HRVBjbGhFVzluekQxejZ2d3p6eVZ6VVJtdFl1eWIyRWYzbHdLa0JK?oc=5"
+      },
+      {
+        "title": "Kutu başına yaklaşık 3 milyon VND'ye mal olan sahte An Cung vakasının ardından: \"An Cung\" bir ilaç mı yoksa farklı bir ürün mü? - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 10:11:02 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRDVXX29UaXZPZWJ2a25FYWczb1RpdzdBa0trM2gxdzRDQW0xQVhXUWJHcm42QVhsZ1Y4LVQycFZKeUVpNW1tZ05MeG1TenZ1Y1lSUEMwVDdVUXdEek9jLVVzOFNxRUk5NGx3TVgtal",
+        "published_time": "Fri, 25 Sep 2026 10:11:02 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 10:11:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDVXX29UaXZPZWJ2a25FYWczb1RpdzdBa0trM2gxdzRDQW0xQVhXUWJHcm42QVhsZ1Y4LVQycFZKeUVpNW1tZ05MeG1TenZ1Y1lSUEMwVDdVUXdEek9jLVVzOFNxRUk5NGx3TVgtalAzZFpHNy1DLThqVi1taWRPQzJMTUdsdmNBNmdVZUdRXzJOTGxwT0lNRkZlQnZwUQ?oc=5"
+      },
+      {
+        "title": "Dexa Group Perkuat Industri Farmasi Halal untuk Perluas Pasar Global - republika.co.id",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 25 Sep 2026 14:15:12 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0xzRWdORE9JeHI0ak1jVDRGY2RlcE9nVkVQUjBZdmd5Rlo5ZmU3UHhuTV9hSGN4Y21TeVoydmJPTVkxRTVWOWZtSVdEb2traHJjUElPb2k5ZllObFR3LUtOZ0RRTVRyS2hvcXlkUD",
+        "published_time": "Fri, 25 Sep 2026 14:15:12 GMT",
+        "modified_time": "",
+        "time": "Fri, 25 Sep 2026 14:15:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0xzRWdORE9JeHI0ak1jVDRGY2RlcE9nVkVQUjBZdmd5Rlo5ZmU3UHhuTV9hSGN4Y21TeVoydmJPTVkxRTVWOWZtSVdEb2traHJjUElPb2k5ZllObFR3LUtOZ0RRTVRyS2hvcXlkUDY3N0pEbVU4WGdUU2ozU0s2VWlVX0tnTWxKOTlOODlBM2tKOHhLUU1pbmtpQVhHVW50QjRzZDFyX3FhTjBTTWotWXAzV2JOSDQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "date": "2026-09-18",
+  "total": 382,
+  "version": 1,
+  "generated_at": "2026-09-18T06:32:00.158075+09:00",
+  "korean": {
+    "total": 184,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 12,
+      "의약단체": 16,
+      "의약관련정부기관": 24,
+      "의료현장": 25,
+      "약국·약사": 2,
+      "의료정책·인력": 25,
+      "전통의학": 5,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "FDA, 임상시험계획 승인 가속 파일럿 프로그램",
+        "source": "약업닷컴",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:6시간+20 | 키워드+20 | 순위:141위+2",
+        "snippet": "FDA가 임상시험계획 승인 가속화(Expedited Investigational New Drug)를 위한 파일럿 프로그램의 최종案을 15일 공개했다.이 파일럿 프로그램은 임상시험 일정이 신속히 진행될 수 있도록 하고, 규제와 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=332708"
+      },
+      {
+        "title": "FDA, 환각제 치료 규제 틀 짠다…승인 넘어 접근성 논의",
+        "source": "메디파나 뉴스",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+25 | 순위:140위+2",
+        "snippet": "미국 식품의약국(FDA)이 환각제, 이른바 사이키델릭 기반 치료제의 개발과 승인 이후 실제 사용환경을 아우르는 규제체계 마련에 나섰다. 치료 효과와 약물 안전성뿐 아니라 장시간 이어지는 투약 과정의 감독, 치료 제공자의 자격 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417684"
+      },
+      {
+        "title": "NRX 파마슈티컬스, FDA 신약신청 등급 경미한개정으로 하향..승인 앞당겨져",
+        "source": "매일경제 증권",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일경제 증권+28 | 최신:1일+10 | 키워드+20 | 순위:142위+2",
+        "snippet": "FDA의 신약신청 등급 하향 조정으로 승인 절차가 앞당겨지면서 투자 심리에 긍정적인 영향을 줄 것으로 보입니다. 특히 2026년 11월 조기 승인 가능성이 높아지면서 시장 출시 시점이 앞당겨질 수 있으며, 증권가가 전망한 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://stock.mk.co.kr/news/view/1160590"
+      },
+      {
+        "title": "대한약사회, 국무조정실&#183;중기부 항의 방문…산업 활성화보다 국민안전, 확대보다 시행&#183;검증이 먼저' 권영희 회장&#183;공동비대위원장 ...",
+        "source": "메디컬헤럴드",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디컬헤럴드+10 | 최신:5시간+20 | 키워드+20 | 순위:88위+2",
+        "snippet": "대한약사회 국민건강권 사수 비상대책위원회는 9월 16일 국무조정실과 중소벤처기업부를 잇달아 항의 방문하고, 비대면진료 제도 시행을 앞두고 제기된 의약품 배송 확대 논의를 즉각 중단할 것을 촉구했다.대한약사회는 비대면진료 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "http://www.mediherald.com/news/articleView.html?idxno=90493"
+      },
+      {
+        "title": "[기획] 원료 자급화 역행 정책에 깊어지는 한숨…대안은 없나",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:66위+2",
+        "snippet": "정부가 관련 업계에서 제기되는 '원료 자급화' 역행 우려에도 원료직접생산 범위에서 자회사&#183;계열사를 제외하겠다는 입장을 바꾸지 않고 있어, 대응 방안을 찾기 위한 업계 고심은 깊어지고 있다. 우선 정부가 입장을 굳히고 있는 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417861"
+      },
+      {
+        "title": "[기획] 형식에 갇힌 약가정책, 대한민국 원료 자급화 가로막다",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:12시간+15 | 키워드+10 | 순위:67위+2",
+        "snippet": "제약업계가 기등재 의약품 약가인하로 또 한 차례 들썩이고 있다. 제네릭 의약품 약가 산정률이 53.55%에서 45%로 조정되면서 이미 홍역을 치렀음에도, 정부가 산업 안정화와 혁신성을 지원하겠다며 내세운 여러 가산 시스템에서 제약업계는 또다시 좌절감에 빠졌다. 글로벌 공급망 불안정성이 상시화되면서 '의약품 안보'는 국가 생존 핵심 과제로 평가된 지 오래다.",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417778"
+      },
+      {
+        "title": "서울시약, 보건복지 정책포럼 참석…차세대 약사 리더 2명 수상",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1시간+20 | 키워드+10 | 순위:89위+2",
+        "snippet": "서울시약사회가 국회에서 열린 보건복지 정책포럼에 참석해 국민건강권 보장을 위한 정책 방향을 논의하는 한편 차세대 약사 리더들의 수상 소식도 전했다. 서울시약사회 (회장 김위학)는 지난 11일 국회의원회관 대회의실에서 열린 ...",
+        "published_time": "1시간",
+        "modified_time": "",
+        "time": "1시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544198"
+      },
+      {
+        "title": "수원 권선구 200평 규모 ‘수원메가리브약국’ 9월 21일 오픈…365일 연중무휴 운영",
+        "source": "서울신문 on MSN",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:서울신문 on MSN+10 | 최신:6시간+20 | 키워드+10 | 순위:11위+10",
+        "snippet": "경기도 수원시 권선구 탑동에 약 200평 규모의 대형약국 ‘수원메가리브약국’이 오는 2026년 9월 21일 정식 오픈한다.수원메가리브약국은 경기도 수원시 권선구 탑동 일원에 위치한다. 약 200평 규모의 넓은 매장을 갖추고 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.msn.com/ko-kr/shopping/%EC%9D%BC%EB%B0%98/%EC%88%98%EC%9B%90-%EA%B6%8C%EC%84%A0%EA%B5%AC-200%ED%8F%89-%EA%B7%9C%EB%AA%A8-%EC%88%98%EC%9B%90%EB%A9%94%EA%B0%80%EB%A6%AC%EB%B8%8C%EC%95%BD%EA%B5%AD-9%EC%9B%94-21%EC%9D%BC-%EC%98%A4%ED%94%88-365%EC%9D%BC-%EC%97%B0%EC%A4%91%EB%AC%B4%ED%9C%B4-%EC%9A%B4%EC%98%81/ar-AA2coCvv?ocid=BingNewsVerp"
+      },
+      {
+        "title": "식약처, 태국서 ‘한-태 의약품 포럼’…K-의약품 현지 진출 지원",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+10 | 순위:151위+2",
+        "snippet": "식품의약품안전처(처장 오유경)는 한국제약바이오협회, 대한무역투자진흥공사(KOTRA)와 함께 지난 14일 태국 방콕에서 ‘한-태 의약품 포럼’을 개최했다고 16일 밝혔다.이번 포럼은 식약처가 추진하는 민관 합동 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=332615"
+      },
+      {
+        "title": "약사회 &quot;플랫폼 임의 알고리즘 의&#183;약사, 환자 종속&quot;… 약 배송 확대 철회 촉구",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:15시간+10 | 키워드+10 | 순위:87위+2",
+        "snippet": "비대면진료 의료법 개정안의 12월 24일 시행을 앞두고, 대한약사회가 정부의 '약 배송 전면 확대' 논의에 대해 강경한 반대 입장을 천명했다. 권영희 대한약사회 회장을 비롯해 비상대책위원회 공동위원장, 16개 시&#183;도약사회장 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=332675"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        23
+      ],
+      [
+        "식약처",
+        9
+      ],
+      [
+        "한약",
+        8
+      ],
+      [
+        "임상",
+        8
+      ],
+      [
+        "약가",
+        6
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "비만",
+        4
+      ],
+      [
+        "위고비",
+        3
+      ],
+      [
+        "허가",
+        3
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "특허",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        5
+      ],
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "전자신문",
+        2
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        2
+      ],
+      [
+        "바이오타임즈",
+        2
+      ],
+      [
+        "메디컬헤럴드",
+        2
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "nursenews",
+        1
+      ],
+      [
+        "뉴스핌 on MSN",
+        1
+      ],
+      [
+        "뉴시스 on MSN",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ],
+      [
+        "로리더",
+        1
+      ],
+      [
+        "코리아헬스로그",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 118,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 17,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "Pregnant women cautioned over use of herbal medicines - Gulf Daily News (Bahrain)",
+        "source": "",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 21:17:44 GMT+5 | 키워드+30 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPd05vZ2hmR24xdGE4bUpjdXZuMDNFS2hsZ2p6S0hIZ0hEQXVMM0ZCd2pBbUZ3WVhzSHhKb0JadC1PU1ZnRlQzbG9ORDM5bEJ3ZWNWQzRvTGZqZFhOMjNkR25fZkVjdGN1SlJfZ2tmc0",
+        "published_time": "Thu, 17 Sep 2026 21:17:44 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 21:17:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd05vZ2hmR24xdGE4bUpjdXZuMDNFS2hsZ2p6S0hIZ0hEQXVMM0ZCd2pBbUZ3WVhzSHhKb0JadC1PU1ZnRlQzbG9ORDM5bEJ3ZWNWQzRvTGZqZFhOMjNkR25fZkVjdGN1SlJfZ2tmc0NGSVBhbTdRbkdPT3hUYV9FUlpVM1d4cl9tbmZhLWdBYWYxUzNfM1dkVG5iYw?oc=5"
+      },
+      {
+        "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 10:42:02 GMT+5 | 키워드+30 | 순위:256위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QX",
+        "published_time": "Thu, 17 Sep 2026 10:42:02 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 10:42:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5"
+      },
+      {
+        "title": "Nuvation Bio Announces FDA Approval of Supplemental New Drug Application for IBTROZI® (taletrectinib) with Updated Duration of Response in TKI-Naïve Advanced ROS1-Positive Non-Small Cell Lung Cancer - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 11:30:00 GMT+5 | 키워드+30 | 순위:257위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSmdwRnkxQk41NmYwTFd0RnhleG1US1hONHdydlAyYmVGVk01dzNhb3Jfem1OUnMzTGxFaUNIWndyMGpKdjlNSnVYOGZ1TUNxZDN0X2h3c1V1SnVGc3R3dWtWOEFsVm5lelhMR1pvcn",
+        "published_time": "Thu, 17 Sep 2026 11:30:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 11:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSmdwRnkxQk41NmYwTFd0RnhleG1US1hONHdydlAyYmVGVk01dzNhb3Jfem1OUnMzTGxFaUNIWndyMGpKdjlNSnVYOGZ1TUNxZDN0X2h3c1V1SnVGc3R3dWtWOEFsVm5lelhMR1pvcnJZRmQ0OGF6enJZRWZ5SzVhTGl2UHdHTThScW9yN1ZqbUNtWWRQSG9GVS1aanR4bk9OZHlGMnIzcEppaHExYWNfZVY3anBOb0lTWDlYaS1jU2lvQURRc1E3QmdtM2FSZVAxTVVtczJHSDRjd1ZMZWwyTDdzeEEzUThGWHZzMDNqTFVWWEpxdG1rTU42WGJ1OUlNWUphaXk0MnVtbUFqTGFnVTBmMFZfSWJ6cEdQVWFJckZkR1QwX0oteTR4SE1jNW5CcVkxWXpNUzRTaU5RWGQwbFF1VlluQzFFOWFZTVRMOHotRHA3alhYRnJ6aGhhR0I1aXhmN2gtOEd5RVE?oc=5"
+      },
+      {
+        "title": "Bayer’s Kerendia secures FDA nod as first drug in 30 years for Type 1 diabetes-associated kidney disease - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 18:06:00 GMT+5 | 키워드+30 | 순위:258위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU5YY2g1ZjZQeEtqVlVMWXAtSWRwMzF5aExueUxtLWkwa3hVOGVrLTFLOHpKa0lvVVRmMm9WaTJldHNEd05JY0Fna2t3aFNpTFBpaU0wbFNIMlFyNTY1VmRsMkE4cVFyakZXMDhORD",
+        "published_time": "Thu, 17 Sep 2026 18:06:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 18:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU5YY2g1ZjZQeEtqVlVMWXAtSWRwMzF5aExueUxtLWkwa3hVOGVrLTFLOHpKa0lvVVRmMm9WaTJldHNEd05JY0Fna2t3aFNpTFBpaU0wbFNIMlFyNTY1VmRsMkE4cVFyakZXMDhORDhoMG1pZWJDekZNeFl6dkczbFp4UzRHWDRxbWVZcG9UTGNSUFVxeDhablJzMGc2am1VRnVxY0dtRTlIRUd2OVp1VVpvdjlobGYxM2hWd3NFaTQ?oc=5"
+      },
+      {
+        "title": "2026 Lasker Awards honor advances in narcolepsy, hemophilia, Parkinson’s disease - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 10:38:36 GMT+5 | 키워드+30 | 순위:260위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPa21UMlpndV8zSUNqTFpKektiVWI5MkVuWDdjVksydUp3RklIWWcybDVVdHpCUGhCWVJyWEZuX3hRX3l5R0J3UXEzSlRKV2w5MzhRcnhsZFg0MExZbC1adlhlbHZoX08tcnBZSHFRc2",
+        "published_time": "Thu, 17 Sep 2026 10:38:36 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 10:38:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa21UMlpndV8zSUNqTFpKektiVWI5MkVuWDdjVksydUp3RklIWWcybDVVdHpCUGhCWVJyWEZuX3hRX3l5R0J3UXEzSlRKV2w5MzhRcnhsZFg0MExZbC1adlhlbHZoX08tcnBZSHFRc2pYeUlSWUJHZ0FvQWVCbWFvb21ONjFfWjNMM3RoLXhMdlJXUmlWR3lWdEN4Y09zVzVjVEhKWHByYk03aWRwejF0UVBPYmxzN3V2TkE?oc=5"
+      },
+      {
+        "title": "AI Agents Collaborate to Streamline Drug Discovery - insideprecisionmedicine.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 18:00:47 GMT+5 | 키워드+30 | 순위:262위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1dqRUpkUGotNEs5cjY2SUNlSU5qRUtyaFlUQURkczVPZ1MxWTVaNFZILXNkZVJFelJGc0lSZHlwZ09KRkNlQjZFdllxWDlobFlUMXNqeGl3THJmRkhtQk1FMG1Gb08wd3Zla2dJeE",
+        "published_time": "Thu, 17 Sep 2026 18:00:47 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 18:00:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU1dqRUpkUGotNEs5cjY2SUNlSU5qRUtyaFlUQURkczVPZ1MxWTVaNFZILXNkZVJFelJGc0lSZHlwZ09KRkNlQjZFdllxWDlobFlUMXNqeGl3THJmRkhtQk1FMG1Gb08wd3Zla2dJeExlWnRPVzlaSjhpQWk3TjhXSzZPZmZ5QnJGa1lrekpCanlnU3Zrb0w3Zm5yV0pZcmhBU1VKNHBwR2RHV29JSFZv?oc=5"
+      },
+      {
+        "title": "Xenon submits a seizure drug to FDA while pausing new depression-trial enrollment - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 20:01:00 GMT+5 | 키워드+30 | 순위:273위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JSZktwendodGl4VlIyOGdyZ3B5VHhYN3l0RVdPY3gzRF94TUVBNG1LNVltWXNIVG9EYk03bnFMRUZTRHpSbUJpV0pUVDF0Q0xBWjRFenhzUWpwY1JHcWdTblFlUEZXT25LM2k5Qm",
+        "published_time": "Thu, 17 Sep 2026 20:01:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 20:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JSZktwendodGl4VlIyOGdyZ3B5VHhYN3l0RVdPY3gzRF94TUVBNG1LNVltWXNIVG9EYk03bnFMRUZTRHpSbUJpV0pUVDF0Q0xBWjRFenhzUWpwY1JHcWdTblFlUEZXT25LM2k5QmZlZ1JUS3hPVDlpZU5jZUNtN3BPeEZPUEV1Q09Fa2NTNTYyRTNuRkRUa2N3T21CMGFIVDNOLTVNUkNMbzlnSXlGY3N2d09wYWUyRlJKenNGZ1g?oc=5"
+      },
+      {
+        "title": "Need a new, better drug to tackle a serious illness? In Canada, you have to ‘fail’ on an old drug first - National Post",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 10:03:32 GMT+5 | 키워드+30 | 순위:275위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUEdzNWstbjNPbkxCdjBzMTY1OFU2UzF3T1lxc0xUZmhWZUttZWtsR0RkUTFiV2JEM0ZaSE5CVHE0ODFtWFJRR19TRHNZSzRwRUR4eXZEWTl4UVJ4dWZfb3dYcEt1cHFJY3VJUHBFVj",
+        "published_time": "Thu, 17 Sep 2026 10:03:32 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 10:03:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUEdzNWstbjNPbkxCdjBzMTY1OFU2UzF3T1lxc0xUZmhWZUttZWtsR0RkUTFiV2JEM0ZaSE5CVHE0ODFtWFJRR19TRHNZSzRwRUR4eXZEWTl4UVJ4dWZfb3dYcEt1cHFJY3VJUHBFVjc3M0RuN0YtLU9WZHhrbDdHSVJraw?oc=5"
+      },
+      {
+        "title": "A cancer drug developer with decades of experience joins a biotech board as a therapy moves toward human testing. - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 12:42:00 GMT+5 | 키워드+30 | 순위:276위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2kxSWxqbmQ0NEpZUUFPSTNKazBsdkd4ZHkxTGVBd1VWRE9qY1l4SlpYMFVmSExxb2NZTEVkazBFckhyNlVPdThQV3lCaVB0MnhjUV9femNFWnZyYXlvTHVkLVU0VFhJdXVsNGFQaV",
+        "published_time": "Thu, 17 Sep 2026 12:42:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 12:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2kxSWxqbmQ0NEpZUUFPSTNKazBsdkd4ZHkxTGVBd1VWRE9qY1l4SlpYMFVmSExxb2NZTEVkazBFckhyNlVPdThQV3lCaVB0MnhjUV9femNFWnZyYXlvTHVkLVU0VFhJdXVsNGFQaVdkeFpJSnlxaUFOWFUyOHotYks5WUZkcjZqT1Zkd0pyVkZOSW1NTi1Ta2lVQkYxOFRBUmFBa016dDFZUUZmNzJTRWZUUUY?oc=5"
+      },
+      {
+        "title": "FDA-ordered studies of many drugs, devices on the market are not done - washingtonpost.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 16:00:00 GMT+5 | 키워드+30 | 순위:277위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPekVPRlBaSkpUYklBeThkWlAzVHBrTUdSbkRtR183VngybXZsOGt5aTRLUVlsdVRLM0FqR3oxQ0ExTUpfbW5HYjNEb1VQMTd3Ym0zOXQ5UTRZS1huM1VFRWtHc0pEMU03SUZkdnJVcE",
+        "published_time": "Thu, 17 Sep 2026 16:00:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekVPRlBaSkpUYklBeThkWlAzVHBrTUdSbkRtR183VngybXZsOGt5aTRLUVlsdVRLM0FqR3oxQ0ExTUpfbW5HYjNEb1VQMTd3Ym0zOXQ5UTRZS1huM1VFRWtHc0pEMU03SUZkdnJVcEhkd250M3pQZl9VTEI2QVZzdHE1S2FsZFRkc3NZUWVVWWV6VWROX2JiRkdRR0NGZFhMQl9CczBRdmE1ZWR3?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        21
+      ],
+      [
+        "GLP-1",
+        5
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "obesity",
+        3
+      ],
+      [
+        "pricing",
+        3
+      ],
+      [
+        "vaccine",
+        2
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 80,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 7,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 6,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 4,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 4,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Sağlık Bakanı: İlk aşamada sağlık sigortası kapsamına giren ilaçlar listesine 349 ilacın daha eklenmesi bekleniyor. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 08:48:10 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFJpTm5QUGI0WWpreFRyZWNXQjZmc2x5eVN1RTBtai1HUDRjRkZPeGVNLUpaS0Y0VWI5QWlFWHl6X0d3dVUxMGtIOEh1VTFKSHpEUUZpd1YyVTVSUHdVSzNjeU9IZWdnQWpLMkFoaH",
+        "published_time": "Thu, 17 Sep 2026 08:48:10 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 08:48:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFJpTm5QUGI0WWpreFRyZWNXQjZmc2x5eVN1RTBtai1HUDRjRkZPeGVNLUpaS0Y0VWI5QWlFWHl6X0d3dVUxMGtIOEh1VTFKSHpEUUZpd1YyVTVSUHdVSzNjeU9IZWdnQWpLMkFoaHQ2TEk3LW04N2t1RWt0OGxqNHo4VGNrNThhVkhscmZBM1pYcGFoQVhSZ0V6VFNMNmxEOXVQYy15ZTA?oc=5"
+      },
+      {
+        "title": "Perusahaan farmasi terkemuka Eropa menghentikan pengembangan obat untuk amyotrophic lateral sclerosis (ALS). - vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 12:02:27 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNdV9UMzN4Y2tlaEF4WFdwdVViMkVwMmRTOEctMHc1YlNLbDVEVV9ONVdUOFdOZDNjUDJ5bUxCU1p5OG9KcGlWUzlQSWtRQXI4YUpnemJLTVRQMjJQQ0Z3SmpXVFBDREM0dFFETWxsNj",
+        "published_time": "Thu, 17 Sep 2026 12:02:27 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 12:02:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdV9UMzN4Y2tlaEF4WFdwdVViMkVwMmRTOEctMHc1YlNLbDVEVV9ONVdUOFdOZDNjUDJ5bUxCU1p5OG9KcGlWUzlQSWtRQXI4YUpnemJLTVRQMjJQQ0Z3SmpXVFBDREM0dFFETWxsNjAyc0NINE5VeHlRQWd0cG0zYVVNa0gxdnlMaC0teEV5Q2k1V2lJS1BlM3MxTUgxZw?oc=5"
+      },
+      {
+        "title": "Putusan MK perketat paten farmasi, risiko monopoli obat bergeser di Indonesia - Traders Union",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 07:08:25 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxON1FjdE1ZSGJYZjN5blJlcXlZRXNsVUdEMVpWS1ZWSU5OY245WElyTkJ6WURVMEJjQkNNcjNqemxjODhZMXlVTDliZWxxWHFBUmhSS0ZJYllJb1VRWkRaRFB4cFhET0VlSXRMNTRJVF",
+        "published_time": "Thu, 17 Sep 2026 07:08:25 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 07:08:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1FjdE1ZSGJYZjN5blJlcXlZRXNsVUdEMVpWS1ZWSU5OY245WElyTkJ6WURVMEJjQkNNcjNqemxjODhZMXlVTDliZWxxWHFBUmhSS0ZJYllJb1VRWkRaRFB4cFhET0VlSXRMNTRJVFRvZ2Q5OXNSUVhiRGhNMGI3UklhM3dfOUlxWDNMcVBaMlN4RmhjclRGUXJKcDVJMnNaMzNj?oc=5"
+      },
+      {
+        "title": "הכשרה בזיהוי ושימוש בצמחי מרפא וייטנאמיים מסורתיים ניתנה ליותר מ-70 חברים באיגוד הרפואה המסורתית המחוזית. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 08:19:41 GMT+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVBxc0hiMTVaNW9Sb1oxVGpoN1Fidi1hdHBja2JlUkY0d1RWT2xuVVJZMXRQQmxVZzFKdmFtWk9YTEM5WkZGM1hOaElKaTdUOUdiazJyYWpNRENOSHhEbW9qT2dCdWI3NklrOHlHWU",
+        "published_time": "Thu, 17 Sep 2026 08:19:41 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 08:19:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVBxc0hiMTVaNW9Sb1oxVGpoN1Fidi1hdHBja2JlUkY0d1RWT2xuVVJZMXRQQmxVZzFKdmFtWk9YTEM5WkZGM1hOaElKaTdUOUdiazJyYWpNRENOSHhEbW9qT2dCdWI3NklrOHlHWUpIdWdYU0ZFWlhkQ2xJQzdoaTFnMXUtLU5POFdHT0Y5QVdPaFNwZ1ptX1pyUVN4R0wzclc2aA?oc=5"
+      },
+      {
+        "title": "Milyar dolarlık pazar: Geleneksel tıp, müşterilerini elde tutmanın yollarını arıyor. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 17 Sep 2026 13:08:49 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXJnN2s4TGlKTlJqUVI3eVlJMWM3QjNaZjdzTHFodUg0ZjNmVTVDekZ2VG5STEhJaExVV0FGLUNyQWE4Z2tqQlJNWEhlVjktWkkwM3REOV9oaklnVzNtOGUxTVZDRG9ldHBwaWtBTF",
+        "published_time": "Thu, 17 Sep 2026 13:08:49 GMT",
+        "modified_time": "",
+        "time": "Thu, 17 Sep 2026 13:08:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXJnN2s4TGlKTlJqUVI3eVlJMWM3QjNaZjdzTHFodUg0ZjNmVTVDekZ2VG5STEhJaExVV0FGLUNyQWE4Z2tqQlJNWEhlVjktWkkwM3REOV9oaklnVzNtOGUxTVZDRG9ldHBwaWtBTFZnUlBWX05QWEVlYW9qWHhheEw1Z3g?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "date": "2026-09-17",
+  "total_articles": 413,
+  "language_breakdown": {
+    "korean": {
+      "total": 204,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 19,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 4,
+        "의료정책·인력": 25,
+        "전통의학": 6,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 121,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 19,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 88,
+      "languages": {
+        "French / 프랑스어": 8,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 7,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 7,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 24
+    },
+    {
+      "keyword": "한약",
+      "count": 8
+    },
+    {
+      "keyword": "식약처",
+      "count": 8
+    },
+    {
+      "keyword": "허가",
+      "count": 5
+    },
+    {
+      "keyword": "약가",
+      "count": 5
+    },
+    {
+      "keyword": "급여",
+      "count": 4
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "원료의약품",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "approval",
+      "count": 11
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "shortage",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 2
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 2
+    },
+    {
+      "source": "바이오타임즈",
+      "count": 1
+    },
+    {
+      "source": "비즈워치",
+      "count": 1
+    },
+    {
+      "source": "한겨레",
+      "count": 1
+    },
+    {
+      "source": "히트뉴스",
+      "count": 1
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스",
+      "count": 1
+    },
+    {
+      "source": "코리아헬스로그",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "keywords": [
+        "포럼",
+        "한-태",
+        "식약처",
+        "개최",
+        "제약",
+        "kotra",
+        "의약품",
+        "제약바이오협회"
+      ],
+      "articles": [
+        {
+          "title": "식약처, 태국서 ‘한-태 의약품 포럼’…K-의약품 현지 진출 지원",
+          "source": "약업닷컴",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "식품의약품안전처(처장 오유경)는 한국제약바이오협회, 대한무역투자진흥공사(KOTRA)와 함께 지난 14일 태국 방콕에서 ‘한-태 의약품 포럼’을 개최했다고 16일 밝혔다.이번 포럼은 식약처가 추진하는 민관 합동 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "12시간",
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=332615"
+        },
+        {
+          "title": "제약바이오협회&#183;식약처&#183;KOTRA, 방콕서 '한-태 제약 포럼' 개최",
+          "source": "팜뉴스 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[팜뉴스=김응민 기자] 한국제약바이오협회는 식품의약품안전처, 대한무역투자진흥공사(KOTRA), 국내 제약기업 10개사와 민&#183;관 대표단을 꾸려 지난 14일부터 15일까지 이틀간 태국 방콕에서 '한-태 제약 포럼'과 비즈니스 상담회를 진행했다고 16일 밝혔다.이번 대표단 파견은 협회 기업 수요조사 결과 진출 희망국 1위로 꼽힌 태국 시장을 겨냥해 마련",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EC%8B%9D%EC%95%BD%EC%B2%98-kotra-%EB%B0%A9%EC%BD%95%EC%84%9C-%ED%95%9C-%ED%83%9C-%EC%A0%9C%EC%95%BD-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C/ar-AA2cjtBj?ocid=BingNewsVerp"
+        },
+        {
+          "title": "한국제약바이오협회, 민&#183;관 합동 '한-태 제약 포럼' 개최",
+          "source": "서울경제TV SEN on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[서울경제TV=정효빈 인턴기자] 한국제약바이오협회가 식품의약품안전처, 대한무역투자진흥공사(KOTRA) 및 국내 주요 제약기업 10개사와 손잡고 태국 현지에서 대규모 민&#183;관 합동 진출 지원 프로그램을 성황리에 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "15시간",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EB%AF%BC-%EA%B4%80-%ED%95%A9%EB%8F%99-%ED%95%9C-%ED%83%9C-%EC%A0%9C%EC%95%BD-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C/ar-AA2cjTuw?ocid=BingNewsVerp"
+        },
+        {
+          "title": "식약처&#183;KOTRA와 '한-태 제약 포럼' 개최…'양국 산업 및 의약품 규제 동향' 공유",
+          "source": "메디컬헤럴드",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회(회장 노연홍)는 식품의약품안전처(처장 오유경), 대한무역투자진흥공사(사장 강경성, 이하 KOTRA), 국내 제약기업 10개사와 함께 민&#183;관 대표단을 구성해 14일부터 15일까지(현지시간) 태국 방콕에서 ‘한 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "11시간",
+          "url": "http://www.mediherald.com/news/articleView.html?idxno=90473"
+        },
+        {
+          "title": "제약바이오협회, 식약처&#183;KOTRA와 '한-태 제약 포럼' 개최",
+          "source": "MEDI:GATE NEWS",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[메디게이트뉴스 이지원 기자] 한국제약바이오협회가 식품의약품안전처, 대한무역투자진흥공사(KOTRA), 국내 제약기업 10개사와 함께 태국 방콕에서 '한-태 제약 포럼'과 비즈니스 상담회를 진행했다고 16일 밝혔다. 협회에 따르면 이번 행사는 14일부터 15일까지(현지시간) 열렸다. 협회는 고령화로 의약품 수요가 늘고 있는 태국 시장에 대한 국내 기업 진출 ",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "8시간",
+          "url": "https://www.medigatenews.com/news/1564487178"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "quot",
+        "접근성",
+        "치료",
+        "촉구",
+        "약사",
+        "확대"
+      ],
+      "articles": [
+        {
+          "title": "FDA, 환각제 치료 규제 틀 짠다…승인 넘어 접근성 논의",
+          "source": "메디파나 뉴스",
+          "importance": 66,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "미국 식품의약국(FDA)이 환각제, 이른바 사이키델릭 기반 치료제의 개발과 승인 이후 실제 사용환경을 아우르는 규제체계 마련에 나섰다. 치료 효과와 약물 안전성뿐 아니라 장시간 이어지는 투약 과정의 감독, 치료 제공자의 자격 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "12시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=417684"
+        },
+        {
+          "title": "약사회 &quot;플랫폼 임의 알고리즘 의&#183;약사, 환자 종속&quot;… 약 배송 확대 철회 촉구",
+          "source": "약업닷컴",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "비대면진료 의료법 개정안의 12월 24일 시행을 앞두고, 대한약사회가 정부의 '약 배송 전면 확대' 논의에 대해 강경한 반대 입장을 천명했다. 권영희 대한약사회 회장을 비롯해 비상대책위원회 공동위원장, 16개 시&#183;도약사회장 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=332675"
+        },
+        {
+          "title": "[릴레이집회-363일차] &quot;약사&#183;한약사 면허 다르다&quot; 업무범위 명확화 촉구",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "앞서 보건복지부가 지난 8월 시도 지자체와 경찰청 등에 한약사가 의사&#183;치과의사의 처방전에 따라 전문&#183;일반의약품을 조제하는 것은 면허범위를 벗어난다는 취지의 입장을 전달한 만큼, 이를 실질적인 제도 개선으로 이어가야 한다는 목소리도 커지고 있다.",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "9시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=543907"
+        },
+        {
+          "title": "국민 70% 신약 접근성 확대 '공감'…&quot;치료 시기 확보에 초점을&quot;",
+          "source": "코리아헬스로그",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "희귀질환 분야 혁신 신약 도입을 앞당겨야 한다는 사회적 공감대가 확인된 가운데, 그 '적정성'을 둘러싼 현장 고민이 계속되고 있다. 단순히 신약 건강보험 급여 등재 기간 단축에 치중하지 않고 '적정한 심사를 거쳐 적정한 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "11시간",
+          "url": "https://www.koreahealthlog.com/news/articleView.html?idxno=59020"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 2,
+      "keywords": [
+        "강화",
+        "한약",
+        "기능"
+      ],
+      "articles": [
+        {
+          "title": "한의약진흥원, 한약 연구정보 AI 수집&#183;분석 기능 강화",
+          "source": "경북일보",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "파편화돼 있던 한약 관련 실험 데이터를 한데 모아 인공지능(AI)으로 분석&#183;활용하는 한의약 디지털 전환 사업이 한층 본격화된다.한국한의약진흥원(원장 고호연)은 한약 연구 데이터의 활용도를 극대화하기 위해 추진 중인 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "4시간",
+          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084467"
+        },
+        {
+          "title": "한국한의약진흥원, ‘한약실험정보관리시스템’ AI 기능 강화",
+          "source": "중앙일보 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "한국한의약진흥원이 한약 연구데이터의 활용도를 높이기 위해 ‘한약실험정보관리시스템(KLIMS)’의 인공지능(AI) 기능을 강화한다. KLIMS는 한약재와 성분, 질병, 유전체 등 여러 곳에 흩어진 실험정보를 수집&#183;표준화하고 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "14시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EA%B5%AD%ED%95%9C%EC%9D%98%EC%95%BD%EC%A7%84%ED%9D%A5%EC%9B%90-%ED%95%9C%EC%95%BD%EC%8B%A4%ED%97%98%EC%A0%95%EB%B3%B4%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C-ai-%EA%B8%B0%EB%8A%A5-%EA%B0%95%ED%99%94/ar-AA2cktWR?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "도마",
+        "맞춤형이라니",
+        "미리",
+        "만들어놓고",
+        "한약",
+        "논란",
+        "불법",
+        "사전조제"
+      ],
+      "articles": [
+        {
+          "title": "미리 만들어놓고 맞춤형이라니… 한약 불법 사전조제 논란 도마",
+          "source": "매일방송 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "【 앵커멘트 】 개인의 체질과 증상에 맞춰 지어주는 줄 알았던 한약이 사실은 미리 만들어둔 것일 수도 있습니다. 환자를 진료하기도 전에 한약을 대량으로 만들어두고 맞춤 처방인 것처럼 내주는 행태가 업계 관행처럼 이뤄지고 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EB%AF%B8%EB%A6%AC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%86%93%EA%B3%A0-%EB%A7%9E%EC%B6%A4%ED%98%95%EC%9D%B4%EB%9D%BC%EB%8B%88-%ED%95%9C%EC%95%BD-%EB%B6%88%EB%B2%95-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%A0%9C-%EB%85%BC%EB%9E%80-%EB%8F%84%EB%A7%88/ar-AA2cdtOx?ocid=BingNewsVerp"
+        },
+        {
+          "title": "미리 만들어놓고 맞춤형이라니… 한약 불법 사전조제 논란 도마 [굿모닝 MBN]",
+          "source": "MBN news on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "【 앵커멘트 】 개인의 체질과 증상에 맞춰 지어주는 줄 알았던 한약이 사실은 미리 만들어둔 것일 수도 있습니다. 환자를 진료하기도 전에 한약을 대량으로 만들어두고 맞춤 처방인 것처럼 내주는 행태가 업계 관행처럼 이뤄지고 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%AF%B8%EB%A6%AC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%86%93%EA%B3%A0-%EB%A7%9E%EC%B6%A4%ED%98%95%EC%9D%B4%EB%9D%BC%EB%8B%88-%ED%95%9C%EC%95%BD-%EB%B6%88%EB%B2%95-%EC%82%AC%EC%A0%84%EC%A1%B0%EC%A0%9C-%EB%85%BC%EB%9E%80-%EB%8F%84%EB%A7%88-%EA%B5%BF%EB%AA%A8%EB%8B%9D-mbn/vi-AA2cdhUr?ocid=BingNewsVerp"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "국산 1호 CAR-T 치료제, 상업화 급물살…‘K-바이오 육성’ 시금석 [건강한겨레]",
+      "source": "한겨레",
+      "importance": 55,
+      "snippet": "첫 국산 카티(CAR-T&#183;키메릭 항원 수용체-티세포) 치료제가 지난 3일 건강보험심사평가원(심평원) 약제급여평가위원회(약평위) 심의를 통과하며 보건당국의 인허가와 국민건강보험 급여 항목 등재 절차를 빠르게 마무리 짓고 있다.",
+      "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278196.html"
+    },
+    {
+      "title": "단독 산재 조사 '빨간불'...산안보건연구원, 수련병원 지위 반납",
+      "source": "머니투데이",
+      "importance": 47,
+      "snippet": "산업안전보건공단 산업안전보건연구원이 올해 직업환경의학과 전공의 수련병원 지위를 내려놓은 것으로 확인됐다. 역학조사 수행은 물론 전문 인력 양성에 '적신호'가 켜진 것이다. 국회 기후에너지환경노동위원회 소속 김주영 민주당 의원 ...",
+      "url": "https://www.mt.co.kr/politics/2026/09/16/2026091611073875361"
+    },
+    {
+      "title": "기등재약 재평가에 사용량-약가 연동 겹치면 '중복 인하'",
+      "source": "히트뉴스",
+      "importance": 46,
+      "snippet": "기등재 의약품 상한금액 재평가가 4~7년에 걸쳐 단계적으로 진행되는 가운데 사용량-약가 연동 등 사후관리에 따른 약가 인하는 재평가와 중복 적용된다. 정부는 최종 인하가격을 한 번에 고시하지 않고 매년 연차별 상한금액을 ...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79134"
+    },
+    {
+      "title": "“의료사고, 처벌만으론 해결 못해”… 개정 의료분쟁조정법 안착 방안 논의",
+      "source": "법률신문",
+      "importance": 42,
+      "snippet": "2027년 5월 시행되는 개정 의료분쟁조정법이 환자의 피해구제와 의료인의 안정적인 진료환경을 함께 보장하려면 책임보험과 의료사고 설명, 의료감정&#183;조정 등 제도가 유기적으로 작동해야 한다는 제언이 나왔다.",
+      "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=226427"
+    },
+    {
+      "title": "[사설] 건강보험, 꼭 필요한 곳에 두껍게 보장해야",
+      "source": "헬스코리아뉴스",
+      "importance": 40,
+      "snippet": "[헬스코리아뉴스] 정부가 희귀질환과 중증난치질환을 중심으로 건강보험 보장을 확대하기로 했다. 보건복지부는 지난 8일 건강보험정책심의위원회에서 이런 내용을 담은 ‘건강보험 보장 1단계 혁신방안’을 의결했다. 희귀&#183;중증난치질환자 136만 명의 본인부담률을 현재 10%에서 올해 12월 7%로 낮추고, 2028년 상반기에는 5%까지 추가 인하하는 것이 핵",
+      "url": "https://www.hkn24.com/news/articleView.html?idxno=351079"
+    },
+    {
+      "title": "제약바이오협회, 태국 진출길 넓혔다",
+      "source": "의학신문",
+      "importance": 37,
+      "snippet": "노연홍 제약바이오협회장은 “협회는 2023년 베트남을 시작으로 인도네시아와 일본 등 산업계의 진출 수요가 높은 국가에 민&#183;관 대표단을 파견하며 우리 기업의 글로벌 진출을 지원해 왔다”며 “태국은 우수한 의료 인프라와 제약산업 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012247"
+    },
+    {
+      "title": "의료분쟁조정법 12대 중과실, 법조계도 우려 &quot;유례 찾기 어렵다&quot;",
+      "source": "의협신문",
+      "importance": 37,
+      "snippet": "정부가 내년 5월 시행을 앞두고 있는 의료분쟁조정법 하위법령 만들기에 한창이다. 의료계는 산적한 독소조항 중에서도 중대한 과실 의료행위를 '12가지'로 정하고 있는 데 대해 특히 우려를 표시하고 있다. 법조계 역시 &quot;이례적인 ...",
+      "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166385"
+    },
+    {
+      "title": "흩어진 한약 연구데이터 한곳에…한의약 AI 전환 시동",
+      "source": "전자신문",
+      "importance": 37,
+      "snippet": "흩어져 있는 한약 실험정보를 한곳에 모으고 인공지능(AI)으로 분석해 연구에 활용할 수 있도록 지원하는 한의약 디지털 전환 사업이 닻을 올린다. 한국한의약진흥원은 한약 연구데이터 활용도를 높이기 위해 운영하는 한약실험정보관리시스템(KLIMS)을 AI 기반으로 전환한다고 16일 밝혔다. KLIMS는 한약재와 성분, 질병, 유전체 등 다양한 실험정보를 체계적으",
+      "url": "https://www.etnews.com/20260916000260"
+    },
+    {
+      "title": "제약바이오기업, 신규 설비투자 이어간다",
+      "source": "의학신문",
+      "importance": 32,
+      "snippet": "[의학신문&#183;일간보사=김정일 기자] 제약바이오기업들이 최근 잇달아 신공장 등 신규 설비투자에 나서고 있어 주목된다. 안국약품은 지난 10일 경기도 향남공장 부지 내에 건설한 내용액제 전용공장 기공식을 개최했다.",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012081"
+    },
+    {
+      "title": "‘혁신형 제약기업’은 무엇으로 증명하나…R&amp;D 투자 넘어 신약&#183;기술수출까지",
+      "source": "바이오타임즈",
+      "importance": 32,
+      "snippet": "[바이오타임즈] 정부가 ‘혁신형 제약기업’ 인증제도를 대폭 손질하면서 제약&#183;바이오업계의 재인증과 신규 진입 경쟁이 본격화하고 있다. 단순히 연구개발 (R&amp;D)에 얼마나 많은 돈을 투입했는지를 넘어 임상시험, 기술이전, 수출 ...",
+      "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=34512"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 11
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 3,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 5,
+      "en_count": 2
+    }
+  ]
+}

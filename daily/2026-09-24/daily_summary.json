@@ -1,0 +1,536 @@
+{
+  "date": "2026-09-24",
+  "total": 377,
+  "version": 1,
+  "generated_at": "2026-09-24T06:31:37.424575+09:00",
+  "korean": {
+    "total": 153,
+    "categories": {
+      "의약품": 22,
+      "의약산업": 16,
+      "의약정책": 14,
+      "의약단체": 5,
+      "의약관련정부기관": 18,
+      "의료현장": 23,
+      "약국·약사": 3,
+      "의료정책·인력": 25,
+      "전통의학": 2,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "약가인하 후폭풍…제약업계 체질전환 가속",
+        "source": "중소기업신문",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:10시간+15 | 키워드+20 | 순위:75위+2",
+        "snippet": "국내 제약업계가 정부의 약가 인하 정책에 대응해 사업모델 전환에 속도를 내고 있다. 전문의약품(ETC) 중심 수익구조가 흔들리면서 일반의약품(OTC) 시장으로 무게중심을 옮기는 한편, 연구개발(R&amp;D) 투자를 통한 신약 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=363675"
+      },
+      {
+        "title": "의약품 공공기관 3곳 하나로…백신 인프라 첨단바이오까지 확대",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:15시간+10 | 키워드+20 | 순위:128위+2",
+        "snippet": "식품의약품안전처가 한국의약품안전관리원, 한국희귀필수의약품센터, 백신안전기술지원센터 등 소관 공공기관 3곳을 하나로 통합하는 기능개혁을 추진한다. 의약품 안전정보 관리와 희귀&#183;필수의약품 공급, 백신 기술지원 등 기관별로 분산된 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=332923"
+      },
+      {
+        "title": "제약바이오, 수출 성장세 뚜렷…글로벌 신약개발은 장기화&#183;성공률 하락",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:88위+2",
+        "snippet": "정윤택 제약사업전략연구원 원장이 ‘주요 모달리티별 아시아 국가 임상시험 동향’에 대해 설명하고 있다.&#169;약업신문=허지수 기자‘KOREA LIFE SCIENCE WEEK 2026’ 현장.&#169;약업신문=허지수 기자국내 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=332915"
+      },
+      {
+        "title": "동국제약 &quot;전립선비대증 개량 신약, 점유율 1위&quot;",
+        "source": "뉴시스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:10시간+15 | 키워드+10 | 순위:126위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 동국제약의 전립선비대증 치료 개량신약이 동일 성분 조합 시장에서 점유율 1위를 기록했다.동국제약은 전립선비대증 치료 개량신약 '유레스코정'이 지난 6월 의약품 시장조사기관 유비스트(UBIST) ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.newsis.com/view/NISX20260923_0003801810"
+      },
+      {
+        "title": "&quot;의료제품 개발 지원&quot;…식약처, 상담 사례집 개정",
+        "source": "뉴시스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:12시간+15 | 키워드+10 | 순위:101위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 혁신 의료제품 상담 사례를 공개하는 등 사례집을 개정해 제품화 지원에 나선다. 식약처 소속 식품의약품안전평가원은 기업&#183;연구자가 신기술 의약품&#183;바이오의약품&#183;의료기기 등을 개발할 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.newsis.com/view/NISX20260923_0003801426"
+      },
+      {
+        "title": "유럽 ‘빅9’ 제약사 “R&amp;D&#183;임상 경쟁력 추락”…투자 환경 개선 요구",
+        "source": "더바이오",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:더바이오+10 | 최신:5시간+20 | 키워드+20 | 순위:93위+2",
+        "snippet": "[더바이오 지용준 기자] 유럽 주요 제약사들이 ‘제약산업 경쟁력 약화’가 의약품 공급과 보건 안보 문제로 이어질 수 있다며 각국 정부에 투자 환경 개선을 요구했다.23일 한국바이오협회에 따르면 아스트라제네카와 베링거인겔하임, ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.thebionews.net/news/articleView.html?idxno=28423"
+      },
+      {
+        "title": "기등재 약가 재평가 1차 대상 축소…최종 1만1953품목",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:10시간+15 | 키워드+10 | 순위:82위+2",
+        "snippet": "내년 4월부터 상한금액 조정이 시작되는 기등재 의약품 1차 재평가 대상이 구체화됐다. 한미약품과 종근당을 비롯해 대웅바이오, 한국휴텍스제약, 하나제약 등 국내 제약사가 다수 품목을 재평가 명단에 올렸다. 이달 초 첫 명단이 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=418174"
+      },
+      {
+        "title": "한국신약개발연구조합, 제약바이오 글로벌 변화 '데이터'로 짚었다",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:91위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 한국신약개발연구조합이 '2026년도 제약&#183;바이오헬스 통계포럼'을 개최했다. 사진 한국신약개발연구조합 제공. 한국신약개발연구조합이 제약&#183;바이오헬스 산업의 시장&#183;임상&#183;특허&#183;투자 등 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544660"
+      },
+      {
+        "title": "한약&#183;침&#183;뜸, HIV&#183;AIDS 치료 시 증상관리&#183;면역 개선 잠재적 유용성 보여",
+        "source": "메디칼업저버",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디칼업저버+10 | 최신:6시간+20 | 키워드+10 | 순위:11위+10",
+        "snippet": "[메디칼업저버 신형주 기자] HIV&#183;AIDS 치료 시 발생하는 합병증 및 환자 삶의 질 저하를 개선하는데 한의약의 잠재적 유용성이 확인됐다. 국립중앙의료원 한방진료부 연구팀(한방내과 김진원 전문의, 침구과 윤인애 전문의, ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=414138"
+      },
+      {
+        "title": "[쿠키과학] 치질 한약 ‘을자탕’ 코로나19 치료 가능… 한의학연, 임상검증 추진",
+        "source": "쿠키뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:쿠키뉴스+10 | 최신:1일+10 | 키워드+20 | 순위:12위+10",
+        "snippet": "치질 치료에 쓰던 한약 ‘을자탕’이 코로나바이러스 증식에 효과가 있는 것으로 나타났다. 한국한의학연구원(이하 한의학연) 한의기술응용센터 진영희 박사팀은 충북대 수의학과 이상명 교수, 경희대 한방병원 김태훈 교수팀과 공동으로 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kukinews.com/article/view/kuk202609220188"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        15
+      ],
+      [
+        "임상",
+        12
+      ],
+      [
+        "급여",
+        8
+      ],
+      [
+        "백신",
+        7
+      ],
+      [
+        "약가",
+        6
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "식약처",
+        5
+      ],
+      [
+        "한약",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "허가",
+        1
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "항암",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "의학신문",
+        5
+      ],
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "메디칼업저버",
+        3
+      ],
+      [
+        "뉴시스",
+        2
+      ],
+      [
+        "청년의사",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "라포르시안",
+        2
+      ],
+      [
+        "글로벌이코노믹 on MSN",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "디지틀조선일보 on MSN",
+        1
+      ],
+      [
+        "더바이오",
+        1
+      ],
+      [
+        "시사저널e",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 133,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 22,
+      "Traditional & Complementary Medicine": 11
+    },
+    "top_articles": [
+      {
+        "title": "Experimental drug reverses paralysis, vision loss in multiple sclerosis model - EurekAlert!",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 18:34:23 GMT+5 | 키워드+30 | 순위:253위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE12S0NXdjlpbTlYczV5OTczN3l2M3VUVjBncmZCNFFpNkh0YXpTelZiTkpNSjA4Vkt1a3ozei01N29FVFJnTlZ1R0JHRFhFcHpLODlvTU5IVkZOTHoy?oc=5\" target=\"_blank\">Exp",
+        "published_time": "Wed, 23 Sep 2026 18:34:23 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 18:34:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12S0NXdjlpbTlYczV5OTczN3l2M3VUVjBncmZCNFFpNkh0YXpTelZiTkpNSjA4Vkt1a3ozei01N29FVFJnTlZ1R0JHRFhFcHpLODlvTU5IVkZOTHoy?oc=5"
+      },
+      {
+        "title": "Drugmakers, biotech VCs show ‘reinvigorated’ interest in osteoporosis treatments - STAT",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 09:15:45 GMT+5 | 키워드+30 | 순위:255위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9qZXp5RmIwMm9VNDNreUNrUmVsY3RMQlN2bGM0c3pNamFoc0dqLVBVVmlkV0hpY1lZbmxYOTBlbW9rdlJzUUVmcno3T29OVkVVVXl4ZkFKbzFUNUM4ZHZPcVM3REFSMEJYRm53Nm",
+        "published_time": "Wed, 23 Sep 2026 09:15:45 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 09:15:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbV9qZXp5RmIwMm9VNDNreUNrUmVsY3RMQlN2bGM0c3pNamFoc0dqLVBVVmlkV0hpY1lZbmxYOTBlbW9rdlJzUUVmcno3T29OVkVVVXl4ZkFKbzFUNUM4ZHZPcVM3REFSMEJYRm53NmR5engxdEp1bURfVmhOTVNza0RhS0REYzV1MkF6SW44N2xNMWlNQkk1UmYyaUlOUQ?oc=5"
+      },
+      {
+        "title": "Inhaled form of approved treatment boosts lung drug levels in IPF trials - Pulmonary Fibrosis News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 17:54:02 GMT+5 | 키워드+30 | 순위:259위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDdjcW44Rnp4QU5FQTJma0JQc0FoeFo0RW1fYVVjX3RzeWk0a0hLLTF3eE51eF92dlFFenVrUzBLUi1lYUsxZGZZWXlHNUlEMTNfOTBGSkFObjZuemotLTNOU2NDaUZmcm54T2NaSW",
+        "published_time": "Wed, 23 Sep 2026 17:54:02 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 17:54:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDdjcW44Rnp4QU5FQTJma0JQc0FoeFo0RW1fYVVjX3RzeWk0a0hLLTF3eE51eF92dlFFenVrUzBLUi1lYUsxZGZZWXlHNUlEMTNfOTBGSkFObjZuemotLTNOU2NDaUZmcm54T2NaSWNJZDFkVVVtSTJ3blU3WEgwaC11R2lIcEd0cTFZczJVdG9JbEhmQzh3T1lJaXJBMTI5?oc=5"
+      },
+      {
+        "title": "FDA Approves Update for Winrevair Based on Phase 3 HYPERION Trial Data - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 18:24:48 GMT+5 | 키워드+30 | 순위:260위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEVNSFdubl9yUDl2X1VzandDOG9LT0JHM3hnY1JEMFVvM1NMTno3MnU4bmlrLTJMWUFVRFE5TWt5WWFYd0RnM20tZXZoVWdzdHltaGQyQmNVdXpVQnkyNXJlNTZaNml1VGFzOTFBMn",
+        "published_time": "Wed, 23 Sep 2026 18:24:48 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 18:24:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEVNSFdubl9yUDl2X1VzandDOG9LT0JHM3hnY1JEMFVvM1NMTno3MnU4bmlrLTJMWUFVRFE5TWt5WWFYd0RnM20tZXZoVWdzdHltaGQyQmNVdXpVQnkyNXJlNTZaNml1VGFzOTFBMnJ3UnZnMExDM3BWdGRQVUZyX2JIOFk4Y0g4ZU8xUDFIM2RVSWlmYmw4U2RRWjF3MjFlTlZiaQ?oc=5"
+      },
+      {
+        "title": "Lantheus wins FDA approval for Bravnetsa GEP-NET drug - Mugglehead Investment Magazine",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 13:26:43 GMT+5 | 키워드+30 | 순위:261위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9iMHZjSlc4RUVvelc3dm9laTNha2ROeVFOazZnQ1F4dS1fS3dfYWdGcFBnc2lOcVNDeGlqRlFhMmtZeE5XWTczOW42U3Z1X0lMaEtMY0hDZXBMMWg3Uzl6ZDdmWUdRM0N1VkJBMVdNTH",
+        "published_time": "Wed, 23 Sep 2026 13:26:43 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 13:26:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iMHZjSlc4RUVvelc3dm9laTNha2ROeVFOazZnQ1F4dS1fS3dfYWdGcFBnc2lOcVNDeGlqRlFhMmtZeE5XWTczOW42U3Z1X0lMaEtMY0hDZXBMMWg3Uzl6ZDdmWUdRM0N1VkJBMVdNTHE3dzJvU1E?oc=5"
+      },
+      {
+        "title": "Hengrui Medicine Wins Clinical Trial Approval for Ten New Drugs, Targeting Weight Loss and Kidney Disease Markets - finance.biggo.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 09:05:00 GMT+5 | 키워드+30 | 순위:262위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE53TDlVUGVGU2pPNk9lS0ZRV0tVYW1jM050VWMyZ2hPcnlXMXdzLVRzNHk1SDBMcUt4b1NVRHY3Q3hKV1h0RU41eV81R0xCZUg0VlpuZTdQWXBBYWFaVHhycGZueGd2d29fOHdsRVRUQ1",
+        "published_time": "Wed, 23 Sep 2026 09:05:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 09:05:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53TDlVUGVGU2pPNk9lS0ZRV0tVYW1jM050VWMyZ2hPcnlXMXdzLVRzNHk1SDBMcUt4b1NVRHY3Q3hKV1h0RU41eV81R0xCZUg0VlpuZTdQWXBBYWFaVHhycGZueGd2d29fOHdsRVRUQ1JBXy1RWGc?oc=5"
+      },
+      {
+        "title": "Atticus Pharma Secures $2 Million NIH Grant for Cutaneous Lupus Drug - citybiz",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 18:39:40 GMT+5 | 키워드+30 | 순위:263위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWVhakZOLXBCVGZ5YTdNOGVncUlIdlhnMGdYY21SMWRvT1ZPeEhtNzVwUFBBMjEtSHhVbHVnclRtQTQxUUJXYmZhWWM3R2pzYUxFRllhdHllcXppXzBPVjdBUjNGVzdUT0Y1SE84Un",
+        "published_time": "Wed, 23 Sep 2026 18:39:40 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 18:39:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWVhakZOLXBCVGZ5YTdNOGVncUlIdlhnMGdYY21SMWRvT1ZPeEhtNzVwUFBBMjEtSHhVbHVnclRtQTQxUUJXYmZhWWM3R2pzYUxFRllhdHllcXppXzBPVjdBUjNGVzdUT0Y1SE84UnFNUzdHd3Nlal9fNnF6OEYxUXcxTTNyUVNZbUoxbExwUWVielZMWjBNTjl5ajV0bzAtZk16c3ZfU2pUUQ?oc=5"
+      },
+      {
+        "title": "Open-Medicine AI: Lantern Pharma to Present the Agentic AI Drug Development Market, User Needs, Development Roadmap, Platform Economics, and Benchmarks, Today at 12:30 PM ET - Business Wire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 11:45:00 GMT+5 | 키워드+30 | 순위:265위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxQdkZ5M2I0b1ZzMmhSVm1oN0FUeUI5Uk1oUFhYd3lBR0pNdnZ6a2Z0Y3hnMXRlbXZyaGw5SHFUU3ZMWHBwVU5iaHZjVDY4eWNkeGNMRnN3VXZDZlBUWFZOWlNpR1NyRDNiMUNTdm9Fbi",
+        "published_time": "Wed, 23 Sep 2026 11:45:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 11:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQdkZ5M2I0b1ZzMmhSVm1oN0FUeUI5Uk1oUFhYd3lBR0pNdnZ6a2Z0Y3hnMXRlbXZyaGw5SHFUU3ZMWHBwVU5iaHZjVDY4eWNkeGNMRnN3VXZDZlBUWFZOWlNpR1NyRDNiMUNTdm9Fbi1hWWhkem5CNVdwajI5N0s3SDJJa3d3M19TNlU5Y1JyQXFLTzY1ckxjeTBlc00zTjh4MDltY1Bzd3YwTVM4dWVUVlNTUTl2ZDJzLTN2T3JzbFdHV0dyY3RMdkNfR3RaSmt3cGFOUUdWUjl3OUZ0WGRMZVg5YTlRV0VJUDBWZWNNQnJvZllwYU1MX1NwZTlFa05FTHJCYjdhTW1vRmdDa1VOQnpaa3lPNTYzbGEtR3lUZEFuUU5YQUxpdHRDQVB6ZERYdUFXUEppdF9FdjJWOFUyUGxIblhUZw?oc=5"
+      },
+      {
+        "title": "Roche, Ionis RNA drug scores in kidney disease study - BioPharma Dive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 16:26:52 GMT+5 | 키워드+30 | 순위:279위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3g1cnl1aWF2bXpPZFlic0gtcjFwRmRFRnJGQkNua243eG9ub0xyM1FtSV9QT01CMkVjREZtRGVVTnhvMV9PREZpYk8yejZwNUczeU85cV8tOUVMeEc3YUJ2VnVQTzBzRHdlZy01bX",
+        "published_time": "Wed, 23 Sep 2026 16:26:52 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 16:26:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3g1cnl1aWF2bXpPZFlic0gtcjFwRmRFRnJGQkNua243eG9ub0xyM1FtSV9QT01CMkVjREZtRGVVTnhvMV9PREZpYk8yejZwNUczeU85cV8tOUVMeEc3YUJ2VnVQTzBzRHdlZy01bXBDVnBGSmluTkZ1WXNERlZOaTVrZVBsb0k?oc=5"
+      },
+      {
+        "title": "U.S. demand for Novo Nordisk's weight loss drugs is so huge that the Danish central bank just doubled the nation's entire growth forecast - Fortune",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 11:09:00 GMT+5 | 키워드+30 | 순위:282위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWRDX3dyazNKMVBiNm5GUlJtOTluZDZxbXNiZFZIR0ltbmVsUEdPdGVvYnJ0TG1abkhSSUtvVzlSOEJyMDlHbHp4eWhIa19RR0tnTHFKQzYtNjVoSGwtTWxJaGl0WEN4OWlkNW5ENl",
+        "published_time": "Wed, 23 Sep 2026 11:09:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 11:09:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWRDX3dyazNKMVBiNm5GUlJtOTluZDZxbXNiZFZIR0ltbmVsUEdPdGVvYnJ0TG1abkhSSUtvVzlSOEJyMDlHbHp4eWhIa19RR0tnTHFKQzYtNjVoSGwtTWxJaGl0WEN4OWlkNW5ENlBxcUNTX1JUSzJMSTB5Tlp3bEZkUzBiQQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        12
+      ],
+      [
+        "manufacturing",
+        7
+      ],
+      [
+        "clinical trial",
+        6
+      ],
+      [
+        "approval",
+        6
+      ],
+      [
+        "generic",
+        4
+      ],
+      [
+        "biosimilar",
+        3
+      ],
+      [
+        "vaccine",
+        3
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 91,
+    "languages": {
+      "French / 프랑스어": 4,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 5,
+      "Portuguese / 포르투갈어": 6,
+      "Dutch / 네덜란드어": 5,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 7,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 7,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 6,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Présidentielle 2027 : l’industrie pharma veut faire du médicament un enjeu stratégique - Le Moniteur des pharmacies",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 16:38:18 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNkhZUmRQWHF0R0xIWk1JUnJYM0ZMZXZaaXRyTTJhWk9ZODhRWlpOYWh3aU5jXzJRNXM1QUhvV3BTa21LTGRfQTVRZEpLVU9YdWRncXpxbVkzYTRBZ3UyTzg0YjVVUE9xdGVqYWZjOF",
+        "published_time": "Wed, 23 Sep 2026 16:38:18 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 16:38:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNkhZUmRQWHF0R0xIWk1JUnJYM0ZMZXZaaXRyTTJhWk9ZODhRWlpOYWh3aU5jXzJRNXM1QUhvV3BTa21LTGRfQTVRZEpLVU9YdWRncXpxbVkzYTRBZ3UyTzg0YjVVUE9xdGVqYWZjOFVkUkJPbWFianJnLVlpWlZub0lXNkY4OUlmVmVia05ONGktN3dWRmJxbXJUMllRM0d5aXplb2xuZV9JZ1VNQVJ4YWxRbXkzTjVJSkxIUTBnVHgtUjdnY2FPc1kzYklxODg1eUphT0NZX2d0dldI?oc=5"
+      },
+      {
+        "title": "Kangra: दवाइयों की गुणवत्ता में खामी से हिमाचल के फार्मा उद्योग को झटका : शांता - himachal.punjabkesari.in",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 17:19:00 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmxoTmtrWkhfYV9xOFMzbElJUXlfclRTXzBEb0JoYVVrMXljS3FWQUl6WFNkM094ODhrbmFDc01Rc2c4LU92dzZ0cmc2RTV1T2hUcXFOX1RVMXRfSW05YVI2XzBDNzZhQ0IyZEJ1c1",
+        "published_time": "Wed, 23 Sep 2026 17:19:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 17:19:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmxoTmtrWkhfYV9xOFMzbElJUXlfclRTXzBEb0JoYVVrMXljS3FWQUl6WFNkM094ODhrbmFDc01Rc2c4LU92dzZ0cmc2RTV1T2hUcXFOX1RVMXRfSW05YVI2XzBDNzZhQ0IyZEJ1c1ZoTUJwUmFUQzFXdkRDcm5OTUNZR3Y5ME5ndVV3Z3pFcWJjdnlPX29ORzdMY9IBowFBVV95cUxPRzRqN1JSU1RuaVlHRFlwbnVzUll4RXhsV0p5WkxsSFdCLXBsXzFjdFlEb0ZjLTR4SXFYMUoydE1oaEk1MzBpQ1FuQ0xYOU42QWFrUUJiY3UyaG80aHM3U1FENURmZlg3TXhSRV9yUml0Y0NOSGhrbXlXNVp5UUJYVldVdVZZZ3RMVWI4c3M3VXpnZzFKMnJFeDRVTG5ZV01vZ0lV?oc=5"
+      },
+      {
+        "title": "הקונגרס הראשון של איגוד הרפואה המסורתית של מחוז לאו צאי, לתקופה 2026-2031, הסתיים בהצלחה. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 08:10:35 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFJlREtWSWFSZTE4eHg2dGV0YnU0b2FyckZLM0ZUWUJFd3licVBkTDlIN01ZWlZIdnFXdTE1M0RZa2FSV2VlU2tNQVU4VmhvRDE1dExMQ2tjcXlEMVcyamNBZV9lZHhSMW80SWlYUU",
+        "published_time": "Wed, 23 Sep 2026 08:10:35 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 08:10:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFJlREtWSWFSZTE4eHg2dGV0YnU0b2FyckZLM0ZUWUJFd3licVBkTDlIN01ZWlZIdnFXdTE1M0RZa2FSV2VlU2tNQVU4VmhvRDE1dExMQ2tjcXlEMVcyamNBZV9lZHhSMW80SWlYUUcyYUFzTzBQNjR1MkVXb0Z1OGVQdVlndUQ3MmxJYVpKVEMySXU3dUdDVFQzT2VZcmZRZFJfb25RV3JlU09OM3kyRFVRMS0?oc=5"
+      },
+      {
+        "title": "Insomnie, mycoses, poux, rhinite : les 33 médicaments que les pharmaciens veulent vendre sans ordonnance - Capital.fr",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 16:39:08 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWQxQ3ZPaGEwTXVVYTF3bnJQQWhPeXJjUGlubHo3eUc5cVdmX3IzanJWM2hQX19KN3NQWUF4YXBZcVN4cjRIc01MS21XWEZQVnVnakZmb3ZqY2pFdzNXZjQ5SGxmQVh2bzFleDNKLV",
+        "published_time": "Wed, 23 Sep 2026 16:39:08 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 16:39:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcWQxQ3ZPaGEwTXVVYTF3bnJQQWhPeXJjUGlubHo3eUc5cVdmX3IzanJWM2hQX19KN3NQWUF4YXBZcVN4cjRIc01MS21XWEZQVnVnakZmb3ZqY2pFdzNXZjQ5SGxmQVh2bzFleDNKLV91Q1RwMGMtWGJTazhsd2FndF9hQWtxb0xkcGlzSVUtSTFZTk9WMFBDbzFSTm1aQTVLUUtEMUFxVDZmZzF6SXlKOGRvaDBzM3l6TmI2T3FDbVNvSi1DWGVrNHBVU2RlVEcxeEE?oc=5"
+      },
+      {
+        "title": "La trasmissione in diretta streaming della vendita di medicinali potrebbe essere vietata. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 23 Sep 2026 07:19:15 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdUhGZXRvYkZWaXZJWWg3R2lHS1d4ZEhLT0RTdG0tanBQbFdqNkNrODFZazVkdXdUQTJfdjN4dXRRSm5mTHhzOVNDb1VmalpyXzZscGlIa1VvVlprQUxiV2VOWUNydnYtcXZOVDhteU",
+        "published_time": "Wed, 23 Sep 2026 07:19:15 GMT",
+        "modified_time": "",
+        "time": "Wed, 23 Sep 2026 07:19:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JdUhGZXRvYkZWaXZJWWg3R2lHS1d4ZEhLT0RTdG0tanBQbFdqNkNrODFZazVkdXdUQTJfdjN4dXRRSm5mTHhzOVNDb1VmalpyXzZscGlIa1VvVlprQUxiV2VOWUNydnYtcXZOVDhteUU?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

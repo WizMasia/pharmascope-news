@@ -1,0 +1,508 @@
+{
+  "date": "2026-09-27",
+  "total": 198,
+  "version": 1,
+  "generated_at": "2026-09-27T06:31:29.948800+09:00",
+  "korean": {
+    "total": 50,
+    "categories": {
+      "의약품": 13,
+      "의약산업": 8,
+      "의약정책": 0,
+      "의약단체": 1,
+      "의약관련정부기관": 4,
+      "의료현장": 3,
+      "약국·약사": 1,
+      "의료정책·인력": 4,
+      "전통의학": 0,
+      "감염·보건": 16
+    },
+    "top_articles": [
+      {
+        "title": "AI 판독이 맞는지 AI가 심사한다…FDA 'LLM 배심원' 실험",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+20 | 순위:24위+2",
+        "snippet": "인공지능(AI)이 작성한 방사선 판독문이 정확한지를 또 다른 AI들이 평가하는 실험이 미국에서 시작됐다. 생성형 AI 의료기기가 빠르게 늘어나면서 사람이 일일이 방대한 판독 결과를 검증하기 어려워지자 여러 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=418273"
+      },
+      {
+        "title": "[기획] 공공심야약국 법제화 2년의 명암...남은 과제는",
+        "source": "약사공론",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:6위+15",
+        "snippet": "공공심야약국이 법제화 2년을 맞았지만 지역별 인프라 격차와 재정 지원의 한계, 현장 약사의 과중한 노동 부담이라는 과제가 여전히 제도 안착의 발목을 잡고 있는 것으로 나타났다. 휴일과 심야 시간대 가벼운 증상에도 의약품을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=544816"
+      },
+      {
+        "title": "HLB '리픽투' FDA 승인…올 4분기 美 시장 출시",
+        "source": "한스경제 on MSN",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한스경제 on MSN+10 | 최신:3시간+20 | 키워드+20 | 순위:23위+2",
+        "snippet": "| 서울=한스경제 허승아 기자 | &quot;제 책상 서랍에는 HLB가 개발해 온 항암신약이 FDA로부터 공식 승인되었다는 내용의 원고가 3개 쌓여 있다. 물론 모두 읽지 못한 원고가 됐다. 이번에 네 번째로 준비한 원고를 읽을 수 ...",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.msn.com/ko-kr/news/other/hlb-%EB%A6%AC%ED%94%BD%ED%88%AC-fda-%EC%8A%B9%EC%9D%B8-%EC%98%AC-4%EB%B6%84%EA%B8%B0-%E7%BE%8E-%EC%8B%9C%EC%9E%A5-%EC%B6%9C%EC%8B%9C/ar-AA2cZODt?ocid=BingNewsVerp"
+      },
+      {
+        "title": "[건강 돋보기] 감기인 줄 알았는데 독감?... 감기&#183;독감&#183;코로나19, 어떻게 구별하나?",
+        "source": "newsa",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:newsa+10 | 최신:59분+20 | 키워드+20 | 순위:96위+2",
+        "snippet": "박완범 교수는 &quot;독감, 코로나19, 감기는 증상만으로 완벽히 구별하기 어렵기 때문에 의심 시 즉시 검사를 받는 게 가장 좋다&quot;며 &quot;고령인이나 기저 질환자 등 고위험군은 예방접종을 미루지 말고, 마스크 쓰기와 손 위생 등 기본 ...",
+        "published_time": "59분",
+        "modified_time": "",
+        "time": "59분",
+        "url": "https://www.newsa.co.kr/news/articleView.html?idxno=402992"
+      },
+      {
+        "title": "[K바이오 신약대전] '아로나민' 일동제약, ETC로 재도약…신약개발 强드라이브",
+        "source": "다음 뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:다음 뉴스+10 | 최신:1일+10 | 키워드+20 | 순위:75위+2",
+        "snippet": "[더구루=김현수 기자] 일동제약이 대표 간판 브랜드인 국민 영양제 '아로나민'을 넘어 전문의약품(ETC)과 혁신 신약 파이프라인을 두 축으로 한 체질 개선에 속도를 내고 있다. 일반의약품(OTC) 중심의 사업 구조에서 탈피해 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://v.daum.net/v/20260925063104601"
+      },
+      {
+        "title": "파킨슨병 신약 ‘새판’…얀 르쿤&#183;SK바이오팜도 뛰어들었다",
+        "source": "다음 뉴스",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:다음 뉴스+10 | 최신:5시간+20 | 키워드+10 | 순위:78위+2",
+        "snippet": "‘인공지능(AI)의 대부’ 얀 르쿤과 모더나 공동창업자 로버트 랭어가 지난 21일(현지 시각) 미국 셀룰러인텔리전스의 자문위원으로 이름을 올렸다. 2018년 튜링상을 받은 르쿤은 메타의 수석 AI 과학자를 지낸 세계적인 AI ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://v.daum.net/v/20260927060259075"
+      },
+      {
+        "title": "이천시, 인플루엔자·코로나19 무료 예방접종 실시 - ijelder.com",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 11:00:00 GMT+5 | 키워드+25 | 순위:84위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdmxCRFQ5UDZOR2ZnRlJ1NXJjTEFqNE0tMG10MHNSdTBHb25YWEFXTmdKbWc0Z19WdUo0WkMtWXFDQTlpbG5EU2Izc2psUTJfd3dPVHF0cUVCNEk?oc=5\" target=\"_blank\">이천시,",
+        "published_time": "Sat, 26 Sep 2026 11:00:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 11:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdmxCRFQ5UDZOR2ZnRlJ1NXJjTEFqNE0tMG10MHNSdTBHb25YWEFXTmdKbWc0Z19WdUo0WkMtWXFDQTlpbG5EU2Izc2psUTJfd3dPVHF0cUVCNEk?oc=5"
+      },
+      {
+        "title": "독감 유행 시기 왜 빨라졌을까... 코로나19가 흔든 독감 유행 공식",
+        "source": "경향신문 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:경향신문 on MSN+10 | 최신:14시간+10 | 키워드+20 | 순위:94위+2",
+        "snippet": "올해 독감(인플루엔자) 유행은 평년보다 두 달 이상 일찍 시작됐다. 코로나19 이후로 여러 지역에서 독감 유행 시기가 달라진 현상이 관찰됐다. 사진은 2024년 8월 마스크를 쓰고 거리를 걷고 있는 시민의 모습. 정효진 기자 올해 독감(인플루엔자) 유행은 평년보다 두 달 이상 일찍 찾아왔다. 코로나19까지 증가세를 보이면서 연말에는 두 감염병이 동시에 유행",
+        "published_time": "14시간",
+        "modified_time": "",
+        "time": "14시간",
+        "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EB%8F%85%EA%B0%90-%EC%9C%A0%ED%96%89-%EC%8B%9C%EA%B8%B0-%EC%99%9C-%EB%B9%A8%EB%9D%BC%EC%A1%8C%EC%9D%84%EA%B9%8C-%EC%BD%94%EB%A1%9C%EB%82%9819%EA%B0%80-%ED%9D%94%EB%93%A0-%EB%8F%85%EA%B0%90-%EC%9C%A0%ED%96%89-%EA%B3%B5%EC%8B%9D/ar-AA2cZZY0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "독감&#183;코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스]",
+        "source": "서울Pn",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:서울Pn+10 | 최신:1일+10 | 키워드+20 | 순위:95위+2",
+        "snippet": "코로나19 중증 폐렴은 바이러스 자체보다 ORF8 단백질이 대식세포를 감염시켜 염증을 키우는 과정에서 심해진다고 연구팀이 밝혔다. IL-17RA를 막으면 바이러스와 폐 섬유화가 줄어 치료 표적 가능성도 제시됐다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://go.seoul.co.kr/news/newsView.php?id=20260922500244"
+      },
+      {
+        "title": "제약바이오, AI&#183;로봇 입는다…스마트팩토리 고도화 ‘속도’",
+        "source": "직썰",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:직썰+10 | 최신:15시간+10 | 키워드+5 | 순위:6위+15",
+        "snippet": "[직썰 / 최소라 기자] 제약바이오업계에 인공지능(AI)과 로봇을 활용한 자동화 바람이 거세지고 있다. 신약 후보물질 발굴 등 연구개발(R&amp;D)은 물론 의약품 생산&#183;품질관리와 물류에 이르기까지 AI와 로봇을 접목하는 영역이 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.ziksir.com/news/articleView.html?idxno=147428"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        8
+      ],
+      [
+        "FDA",
+        6
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "허가",
+        1
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "다음 뉴스",
+        3
+      ],
+      [
+        "데일리한국 on MSN",
+        1
+      ],
+      [
+        "뉴스로드",
+        1
+      ],
+      [
+        "노컷뉴스",
+        1
+      ],
+      [
+        "더구루 on MSN",
+        1
+      ],
+      [
+        "더구루",
+        1
+      ],
+      [
+        "직썰",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "한스경제 on MSN",
+        1
+      ],
+      [
+        "YTN on MSN",
+        1
+      ],
+      [
+        "약사공론",
+        1
+      ],
+      [
+        "의협신문",
+        1
+      ],
+      [
+        "newsa",
+        1
+      ],
+      [
+        "경향신문 on MSN",
+        1
+      ],
+      [
+        "서울Pn",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 87,
+    "categories": {
+      "Drugs & Therapies": 17,
+      "Pharma Industry": 25,
+      "Pharma Policy": 13,
+      "Pharma Associations": 22,
+      "Regulatory Agencies": 9,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "Opinion | Why Do Clinical Trials for Cancer Drugs Take So Long? - nytimes.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 11:00:08 GMT+5 | 키워드+30 | 순위:52위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPakNxbERaWGdVMUpFNkNGcGc0c1Q2ZWIwVnFSUGN1Wjd6QjRael9iR0lLa1g2cHFtTXRVeGVjYjlOcHJiMldVYjZVOU9pRG5PYl9JaW55SkdLRWdOT2tKWTJxRUJ2VTIwTFlneDFmX0",
+        "published_time": "Sat, 26 Sep 2026 11:00:08 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 11:00:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakNxbERaWGdVMUpFNkNGcGc0c1Q2ZWIwVnFSUGN1Wjd6QjRael9iR0lLa1g2cHFtTXRVeGVjYjlOcHJiMldVYjZVOU9pRG5PYl9JaW55SkdLRWdOT2tKWTJxRUJ2VTIwTFlneDFmX095cnl5NHJ3bEJBNFI0V09KV0tn?oc=5"
+      },
+      {
+        "title": "FDA advisers narrowly vote to add 6 peptides to a drug compounding list. What's next? - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 07:56:22 GMT+5 | 키워드+30 | 순위:54위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0JqS2lhR293UDllbDRWTkpwNkdiSjN5MkpCeUtSME5oTUR5WmMzSnpmRmZTUG8wWVVxQlJidEd3ZU5fWUNBbmdYZ3lnbFJyOUUwZnNUUUNtUUhvZXphNGpMV2EwMElSSUEtNVVjRF",
+        "published_time": "Sat, 26 Sep 2026 07:56:22 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 07:56:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0JqS2lhR293UDllbDRWTkpwNkdiSjN5MkpCeUtSME5oTUR5WmMzSnpmRmZTUG8wWVVxQlJidEd3ZU5fWUNBbmdYZ3lnbFJyOUUwZnNUUUNtUUhvZXphNGpMV2EwMElSSUEtNVVjRFNjQlpJYXV6bEswSGV6NWpoeTJTbkFYOFRNQ09FOHg4aHJXUm1qTzl30gGcAUFVX3lxTFA0dnZEd3pIbXJlZHVsRWlJVFVjMUk5U2N5NmFIQ1VvVzl3Qk45b0owZkJqUklqalF5cXJ5QUhoRlYwNzQ2bFkxVEc4dTR1VDNGY3YzbXJ6YV9YTmRLZDI5QWNkVld2aUx1QXNFTXBvQTdEMXpYVGJSY1daLW1VQ3JiSGdodkRCUHBBY0s2N2lHUXlJT1RaUE9oblp1Ug?oc=5"
+      },
+      {
+        "title": "Inhaled drug shows promise for rare lung disease combination - Medical Xpress",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 15:00:03 GMT+5 | 키워드+30 | 순위:55위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE83U1VtbjVmdExmSFYzbVp0T1ljWnc3bzNPYmwwY3l1Y1hIMGY4YWZnZkdjRkVEWDFuRUxDN3VpX3hfeGFrRkV5S1p2aFFNVlp3b0treUc4ZWphaXFkWXNjNTZVdlU4bWdhS1BQcXpfX0",
+        "published_time": "Sat, 26 Sep 2026 15:00:03 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 15:00:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83U1VtbjVmdExmSFYzbVp0T1ljWnc3bzNPYmwwY3l1Y1hIMGY4YWZnZkdjRkVEWDFuRUxDN3VpX3hfeGFrRkV5S1p2aFFNVlp3b0treUc4ZWphaXFkWXNjNTZVdlU4bWdhS1BQcXpfX0tVeXNfdHpCZEdMUVBxeXM?oc=5"
+      },
+      {
+        "title": "Psychedelic Drugs Market Forecast to 2035: Demand Accelerates on Mental Health Crisis and Regulatory Breakthroughs - IndexBox",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 12:26:04 GMT+5 | 키워드+30 | 순위:57위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUY2eWs3WVhXd2Vvbzd2MC1NOTNkVHp6YlBoRGdGdjR1ZEg1aFRfc3kwMXk5MjNkLTh5bnpqTFJTelg1ODNCaFVfdjNxRFlrVG9mYms3TDVKNmhFSHB5LUdUanBqWHJGZ3d2SjRfRl",
+        "published_time": "Sat, 26 Sep 2026 12:26:04 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 12:26:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUY2eWs3WVhXd2Vvbzd2MC1NOTNkVHp6YlBoRGdGdjR1ZEg1aFRfc3kwMXk5MjNkLTh5bnpqTFJTelg1ODNCaFVfdjNxRFlrVG9mYms3TDVKNmhFSHB5LUdUanBqWHJGZ3d2SjRfRldsczhSUFQ3dXFiSU41N0VpdTJBNk9pdlU5OG1IMmZubnBmeU5wZHdIcXNVWm10UW9LNXd5OFNpdE1wZWhMaFBZWm5MbjhYWW5IRDk0MmNGdkluYzlETElGZkRGcGFROURiX3p5bHNRb1daekU?oc=5"
+      },
+      {
+        "title": "Atebrioz: US approves drug for rare bone disorder - ARYnews.tv",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 12:39:02 GMT+5 | 키워드+30 | 순위:65위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdXRNTWMzbVRNenYtZnc2YUdhcHNxbVZJY3NOSXA5ZmNBX1NqVGh2c3dHNEJlZ25pTHZJNXhNR1Jlb094QzdabXN1aUlPcGUxU1dWZXBMblpHZnlSQ3Q3Y2ZTWmd0T00zRGRVek4xWH",
+        "published_time": "Sat, 26 Sep 2026 12:39:02 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 12:39:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdXRNTWMzbVRNenYtZnc2YUdhcHNxbVZJY3NOSXA5ZmNBX1NqVGh2c3dHNEJlZ25pTHZJNXhNR1Jlb094QzdabXN1aUlPcGUxU1dWZXBMblpHZnlSQ3Q3Y2ZTWmd0T00zRGRVek4xWHlYLTl2c0E?oc=5"
+      },
+      {
+        "title": "AI Drug Discovery: On the Eve of Full Value Realization in Modern Pharmaceutical Innovation - eu.36kr.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 10:52:25 GMT+5 | 키워드+30 | 순위:96위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdkFrcVF2cUs0QnNhNDhBSDdEbnNSb1R3MjlVTnk3dERqa1Ywa05zWjdMUkk0VVZEbFZxaGtwbS1XdFF6Q1hibXB3OGNsQk1GNE9r?oc=5\" target=\"_blank\">AI Drug Discove",
+        "published_time": "Sat, 26 Sep 2026 10:52:25 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 10:52:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdkFrcVF2cUs0QnNhNDhBSDdEbnNSb1R3MjlVTnk3dERqa1Ywa05zWjdMUkk0VVZEbFZxaGtwbS1XdFF6Q1hibXB3OGNsQk1GNE9r?oc=5"
+      },
+      {
+        "title": "Opinion | Why Do Clinical Trials for Cancer Drugs Take So Long? - nytimes.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 11:00:08 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPakNxbERaWGdVMUpFNkNGcGc0c1Q2ZWIwVnFSUGN1Wjd6QjRael9iR0lLa1g2cHFtTXRVeGVjYjlOcHJiMldVYjZVOU9pRG5PYl9JaW55SkdLRWdOT2tKWTJxRUJ2VTIwTFlneDFmX0",
+        "published_time": "Sat, 26 Sep 2026 11:00:08 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 11:00:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakNxbERaWGdVMUpFNkNGcGc0c1Q2ZWIwVnFSUGN1Wjd6QjRael9iR0lLa1g2cHFtTXRVeGVjYjlOcHJiMldVYjZVOU9pRG5PYl9JaW55SkdLRWdOT2tKWTJxRUJ2VTIwTFlneDFmX095cnl5NHJ3bEJBNFI0V09KV0tn?oc=5"
+      },
+      {
+        "title": "Rare diseases: when patients drive the pharmaceutical industry forward - Il Sole 24 ORE",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 15:23:38 GMT+5 | 키워드+30 | 순위:101위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlUxaEhIbnFuQ2NBYks3bjV2bGRRR2xLNnhyczhuRWdqMGcyb21iamQtYkZlM2FwdmdVd2lBOEtNSkp6TWVPb3VMS3prUUNmTFN5NEZSWE1nb1d3dDhpX3ZURmJpdXJXWVo2SVV4Zn",
+        "published_time": "Sat, 26 Sep 2026 15:23:38 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 15:23:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlUxaEhIbnFuQ2NBYks3bjV2bGRRR2xLNnhyczhuRWdqMGcyb21iamQtYkZlM2FwdmdVd2lBOEtNSkp6TWVPb3VMS3prUUNmTFN5NEZSWE1nb1d3dDhpX3ZURmJpdXJXWVo2SVV4ZnhyMUlkNWhWNFRUVnRzWEJHZjZWU0JNUFNMT0VWcjNnbUYzQXJZNy1aZG5KMTI2emFEaTdZ?oc=5"
+      },
+      {
+        "title": "Commentary: The Prescription Drug Affordability Board is working, it's time to press forward, not back - Maryland Matters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 10:18:42 GMT+5 | 키워드+30 | 순위:40위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWlyQXd5U3A2LTAtWWhKSXBPdXdTXzNwRGhwQ3lKbkhSNDVkTVdGdFZnUXZpMHczbFplSjRBWVZ5bkkyZXdUbnpSZEUwOFRqNFVQRzBMeTlpWC04X2Fsajhqb0ZkN19uVjZ5OHpKTF",
+        "published_time": "Sat, 26 Sep 2026 10:18:42 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 10:18:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWlyQXd5U3A2LTAtWWhKSXBPdXdTXzNwRGhwQ3lKbkhSNDVkTVdGdFZnUXZpMHczbFplSjRBWVZ5bkkyZXdUbnpSZEUwOFRqNFVQRzBMeTlpWC04X2Fsajhqb0ZkN19uVjZ5OHpKTFN3OVhaVVJwSjBKRlBnNnNxaV9jT0RJaEJjT0JFYVlHMWROUlpydEZYcUM3WEo0NVNQQVVScjNhUDNOd0o1SlJhbGx2Y0FHZXhxMFJFOVc0b2hOTFAtbGc?oc=5"
+      },
+      {
+        "title": "Breast Cancer Drug Prices: Kerala HC Case Explained - urbanacres.in",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 13:47:59 GMT+5 | 키워드+30 | 순위:52위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWppRWNESTg4REwyZlRkOENXQmhxRW1LTjFNMWk2UDI2WXZkSHBmNE9xNlk1SU9UYmEyWkVaWTNodVRBSHd0eF9RU1U1UTUzaUZ2cm91U01xbjdZSnBNWmdNSnY1R3V5dzJjZ29SLW",
+        "published_time": "Sat, 26 Sep 2026 13:47:59 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 13:47:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWppRWNESTg4REwyZlRkOENXQmhxRW1LTjFNMWk2UDI2WXZkSHBmNE9xNlk1SU9UYmEyWkVaWTNodVRBSHd0eF9RU1U1UTUzaUZ2cm91U01xbjdZSnBNWmdNSnY1R3V5dzJjZ29SLWVTQzZUdmdnYzFhTXJycEFYUnNpc1BJYUlUWWtDVkhn?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        6
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "approval",
+        3
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 61,
+    "languages": {
+      "French / 프랑스어": 7,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 4,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 4,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Bir adamın sarılık seviyeleri, geleneksel bitkisel ilaçlarla kendi kendine tedavi uygulaması sonucu 42 kat arttı. - Vietnam.vn",
+        "source": "",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 12:58:19 GMT+5 | 키워드+30 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2JrLXZFenNwcDZMUUcwSmVFekEwcGlTMjRadUthbkRYOGEtSkpObndkR21lcWNMLTlWbGQ4cnFTX1AySUdOLUJkeHFLb2N4WWZ1SkY5WFd0QW5tWURVelhscG9Mdng5ZDl5d290Zm",
+        "published_time": "Sat, 26 Sep 2026 12:58:19 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 12:58:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2JrLXZFenNwcDZMUUcwSmVFekEwcGlTMjRadUthbkRYOGEtSkpObndkR21lcWNMLTlWbGQ4cnFTX1AySUdOLUJkeHFLb2N4WWZ1SkY5WFd0QW5tWURVelhscG9Mdng5ZDl5d290ZmdTRjAtZWpGeTkyLWl6WTJNeUhvdXhhRFF4U2VhUldDa3VPUVlYcUE?oc=5"
+      },
+      {
+        "title": "Yeni nesil kanser ilaçlarının sağlık sigortası kapsamına alınmasına yönelik teklif. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 09:10:04 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVBCTTAwZGV6SEh1V3JoVmQ2RGg0RE9zNjgtaWh1VUZNVTgwRTBPTDZwZVFrT3YyUEItd0hQTWZ6X0R5YlppWTdDOF9nTGRsVUdKYURJTFpMdDJJT1hiMzJWNWE4a0hoYnFXNmJzVm",
+        "published_time": "Sat, 26 Sep 2026 09:10:04 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 09:10:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVBCTTAwZGV6SEh1V3JoVmQ2RGg0RE9zNjgtaWh1VUZNVTgwRTBPTDZwZVFrT3YyUEItd0hQTWZ6X0R5YlppWTdDOF9nTGRsVUdKYURJTFpMdDJJT1hiMzJWNWE4a0hoYnFXNmJzVmN6REpQaEdlVS1wbmsxVGJIaW9ZRUZMSDVUVjNoN0Y3MlNJV1ZyamNNTg?oc=5"
+      },
+      {
+        "title": "Dexa Group Terus Perkuat Industri Farmasi Halal - kontan.co.id",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 12:56:15 GMT+5 | 키워드+25 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ00wVFFaYld1eGFYUW1MNWJ1bmVSem9XanlVM3M2RnAtbnF0SXg3S1dJZzRiWXZLN3BLNWZSbllWSVBEcGFSZ0Y4ODJoUGszUEwyeVRqWGhfVkFlaGtFMGczTU9VSUM0MEhrRGRkV3",
+        "published_time": "Sat, 26 Sep 2026 12:56:15 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 12:56:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ00wVFFaYld1eGFYUW1MNWJ1bmVSem9XanlVM3M2RnAtbnF0SXg3S1dJZzRiWXZLN3BLNWZSbllWSVBEcGFSZ0Y4ODJoUGszUEwyeVRqWGhfVkFlaGtFMGczTU9VSUM0MEhrRGRkV3hHelJUVngtOXRqYmszMnF3S3BNYnZ2aW40OVHSAYMBQVVfeXFMUG9fSjFvOEQ5VGluUWtYVWNkckVlNm5RbE5PeE5lckdUMWNKNzd1QmlKNktXcTVKUmN1eXRBNjZQRktoS3hjR3c1bVpISFZyZHpHVjBNOHlDSEhqb2NtbEZjRFdULTVxeWdfTm5DekFScTZyUFNWWEozU201MVp1YWtiVVk?oc=5"
+      },
+      {
+        "title": "Bidiphar: Dari menguasai teknologi obat suntik hingga berinovasi dalam produksi farmasi berteknologi tinggi. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 10:17:52 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGtVYWhxcjNHLVhLblV6TDZKMGdIRUo1Z2htWUNVNXhuR3V2bE1nTjY2TFIxNHhRVXMtUTI0SzZwTEIzOWFCSmxoemlwZkI4NmItaDZkbEhkU0J1ZnB3blhtZkFIWVNHSVk2NHhOS0",
+        "published_time": "Sat, 26 Sep 2026 10:17:52 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 10:17:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGtVYWhxcjNHLVhLblV6TDZKMGdIRUo1Z2htWUNVNXhuR3V2bE1nTjY2TFIxNHhRVXMtUTI0SzZwTEIzOWFCSmxoemlwZkI4NmItaDZkbEhkU0J1ZnB3blhtZkFIWVNHSVk2NHhOS01uekhGcWdpV2lfdE95LVMwVThuWGxqdW02UktKRFJIZlRYWTRFbUExaHR1XzdLbjhQWjdEZXlYWXgxMlBXd2F1OA?oc=5"
+      },
+      {
+        "title": "科技巨头渗透与顶层政策提振医药股 金斯瑞生物科技月内累计涨超20% - 东方财富",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 26 Sep 2026 11:16:25 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oalRCUUtvbUU3ZXlNQVdKNFNRMmRoZHIzOE1RUGlDTnNxN2ZRbEh1WWxBU2Rzakg4VzYzRXFBTjlYOExmVG1NcFNZYklua2hNakxBZVdKVG1zVW1tcm5EQg?oc=5\" target=\"_blan",
+        "published_time": "Sat, 26 Sep 2026 11:16:25 GMT",
+        "modified_time": "",
+        "time": "Sat, 26 Sep 2026 11:16:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oalRCUUtvbUU3ZXlNQVdKNFNRMmRoZHIzOE1RUGlDTnNxN2ZRbEh1WWxBU2Rzakg4VzYzRXFBTjlYOExmVG1NcFNZYklua2hNakxBZVdKVG1zVW1tcm5EQg?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

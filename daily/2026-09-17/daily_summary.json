@@ -1,0 +1,524 @@
+{
+  "date": "2026-09-17",
+  "total": 413,
+  "version": 1,
+  "generated_at": "2026-09-17T06:31:42.302427+09:00",
+  "korean": {
+    "total": 204,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 19,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 4,
+      "의료정책·인력": 25,
+      "전통의학": 6,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "FDA, 환각제 치료 규제 틀 짠다…승인 넘어 접근성 논의",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:12시간+15 | 키워드+25 | 순위:150위+2",
+        "snippet": "미국 식품의약국(FDA)이 환각제, 이른바 사이키델릭 기반 치료제의 개발과 승인 이후 실제 사용환경을 아우르는 규제체계 마련에 나섰다. 치료 효과와 약물 안전성뿐 아니라 장시간 이어지는 투약 과정의 감독, 치료 제공자의 자격 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=417684"
+      },
+      {
+        "title": "약사회 &quot;플랫폼 임의 알고리즘 의&#183;약사, 환자 종속&quot;… 약 배송 확대 철회 촉구",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:151위+2",
+        "snippet": "비대면진료 의료법 개정안의 12월 24일 시행을 앞두고, 대한약사회가 정부의 '약 배송 전면 확대' 논의에 대해 강경한 반대 입장을 천명했다. 권영희 대한약사회 회장을 비롯해 비상대책위원회 공동위원장, 16개 시&#183;도약사회장 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=332675"
+      },
+      {
+        "title": "국산 1호 CAR-T 치료제, 상업화 급물살…‘K-바이오 육성’ 시금석 [건강한겨레]",
+        "source": "한겨레",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:6시간+20 | 키워드+5 | 순위:109위+2",
+        "snippet": "첫 국산 카티(CAR-T&#183;키메릭 항원 수용체-티세포) 치료제가 지난 3일 건강보험심사평가원(심평원) 약제급여평가위원회(약평위) 심의를 통과하며 보건당국의 인허가와 국민건강보험 급여 항목 등재 절차를 빠르게 마무리 짓고 있다.",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1278196.html"
+      },
+      {
+        "title": "식약처, 태국서 ‘한-태 의약품 포럼’…K-의약품 현지 진출 지원",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:12시간+15 | 키워드+10 | 순위:148위+2",
+        "snippet": "식품의약품안전처(처장 오유경)는 한국제약바이오협회, 대한무역투자진흥공사(KOTRA)와 함께 지난 14일 태국 방콕에서 ‘한-태 의약품 포럼’을 개최했다고 16일 밝혔다.이번 포럼은 식약처가 추진하는 민관 합동 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=332615"
+      },
+      {
+        "title": "단독 산재 조사 '빨간불'...산안보건연구원, 수련병원 지위 반납",
+        "source": "머니투데이",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:머니투데이+10 | 최신:7시간+15 | 키워드+20 | 순위:150위+2",
+        "snippet": "산업안전보건공단 산업안전보건연구원이 올해 직업환경의학과 전공의 수련병원 지위를 내려놓은 것으로 확인됐다. 역학조사 수행은 물론 전문 인력 양성에 '적신호'가 켜진 것이다. 국회 기후에너지환경노동위원회 소속 김주영 민주당 의원 ...",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.mt.co.kr/politics/2026/09/16/2026091611073875361"
+      },
+      {
+        "title": "기등재약 재평가에 사용량-약가 연동 겹치면 '중복 인하'",
+        "source": "히트뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:107위+2",
+        "snippet": "기등재 의약품 상한금액 재평가가 4~7년에 걸쳐 단계적으로 진행되는 가운데 사용량-약가 연동 등 사후관리에 따른 약가 인하는 재평가와 중복 적용된다. 정부는 최종 인하가격을 한 번에 고시하지 않고 매년 연차별 상한금액을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79134"
+      },
+      {
+        "title": "국내 제약사 10곳, 태국 시장 공략…현지서 180건 비즈니스 상담 - 더글로벌기빙뉴스",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 08:11:00 GMT+5 | 키워드+25 | 순위:128위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ONHFnUlN5TFRyd0NIbXdYQ2NydGpoN25CR29LNGRaOUN6NXZyaHdnaDFNVGo2TDZ0YjBURS1aOFBWMzQycVk1cUV4LXlJR0pQYUhhMQ?oc=5\" target=\"_blank\">국내 제약사 10곳, 태",
+        "published_time": "Wed, 16 Sep 2026 08:11:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 08:11:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ONHFnUlN5TFRyd0NIbXdYQ2NydGpoN25CR29LNGRaOUN6NXZyaHdnaDFNVGo2TDZ0YjBURS1aOFBWMzQycVk1cUV4LXlJR0pQYUhhMQ?oc=5"
+      },
+      {
+        "title": "유한양행, 글로벌 제약사와 786억원 규모 원료의약품 공급계약 - 메디컬투데이",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 10:07:27 GMT+5 | 키워드+25 | 순위:129위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSGJiNkNQVFRpb2tvSkN6RnNsUnlRVGVDYmpiTTJBYk0zblp2Q25CcDM0R1lsbDlvU25WYjRha2JrRmtrcFRSOHlqTWtiLWwtdXJQQ2VhUHlKTXcwLXZuNkFjZjhXRTRSYkZVSQ?oc=",
+        "published_time": "Wed, 16 Sep 2026 10:07:27 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 10:07:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSGJiNkNQVFRpb2tvSkN6RnNsUnlRVGVDYmpiTTJBYk0zblp2Q25CcDM0R1lsbDlvU25WYjRha2JrRmtrcFRSOHlqTWtiLWwtdXJQQ2VhUHlKTXcwLXZuNkFjZjhXRTRSYkZVSQ?oc=5"
+      },
+      {
+        "title": "제약바이오협회&#183;식약처&#183;KOTRA, 방콕서 '한-태 제약 포럼' 개최",
+        "source": "팜뉴스 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:팜뉴스 on MSN+10 | 최신:5시간+20 | 키워드+10 | 순위:155위+2",
+        "snippet": "[팜뉴스=김응민 기자] 한국제약바이오협회는 식품의약품안전처, 대한무역투자진흥공사(KOTRA), 국내 제약기업 10개사와 민&#183;관 대표단을 꾸려 지난 14일부터 15일까지 이틀간 태국 방콕에서 '한-태 제약 포럼'과 비즈니스 상담회를 진행했다고 16일 밝혔다.이번 대표단 파견은 협회 기업 수요조사 결과 진출 희망국 1위로 꼽힌 태국 시장을 겨냥해 마련",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EC%8B%9D%EC%95%BD%EC%B2%98-kotra-%EB%B0%A9%EC%BD%95%EC%84%9C-%ED%95%9C-%ED%83%9C-%EC%A0%9C%EC%95%BD-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C/ar-AA2cjtBj?ocid=BingNewsVerp"
+      },
+      {
+        "title": "한국제약바이오협회, 민&#183;관 합동 '한-태 제약 포럼' 개최",
+        "source": "서울경제TV SEN on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:서울경제TV SEN on MSN+10 | 최신:15시간+10 | 키워드+20 | 순위:156위+2",
+        "snippet": "[서울경제TV=정효빈 인턴기자] 한국제약바이오협회가 식품의약품안전처, 대한무역투자진흥공사(KOTRA) 및 국내 주요 제약기업 10개사와 손잡고 태국 현지에서 대규모 민&#183;관 합동 진출 지원 프로그램을 성황리에 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EA%B5%AD%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EB%AF%BC-%EA%B4%80-%ED%95%A9%EB%8F%99-%ED%95%9C-%ED%83%9C-%EC%A0%9C%EC%95%BD-%ED%8F%AC%EB%9F%BC-%EA%B0%9C%EC%B5%9C/ar-AA2cjTuw?ocid=BingNewsVerp"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        24
+      ],
+      [
+        "한약",
+        8
+      ],
+      [
+        "식약처",
+        8
+      ],
+      [
+        "허가",
+        5
+      ],
+      [
+        "약가",
+        5
+      ],
+      [
+        "급여",
+        4
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "임상",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "원료의약품",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "백신",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "팜뉴스 on MSN",
+        2
+      ],
+      [
+        "바이오타임즈",
+        1
+      ],
+      [
+        "비즈워치",
+        1
+      ],
+      [
+        "한겨레",
+        1
+      ],
+      [
+        "히트뉴스",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "팜뉴스",
+        1
+      ],
+      [
+        "코리아헬스로그",
+        1
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        1
+      ],
+      [
+        "더바이오",
+        1
+      ],
+      [
+        "서울경제TV SEN on MSN",
+        1
+      ],
+      [
+        "메디컬헤럴드",
+        1
+      ],
+      [
+        "MEDI:GATE NEWS",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 121,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 19,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Remedy Skin Tag Remover Price 2026: Natural Healing Costs Revealed [ysu3BOWHCGQ] - santeestrie.qc.ca",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 07:34:02 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaHhneGhiWHNEWC10NHFJN09udkNNaUdyS1RHd0tZMnhHdUREWHpmMEoxcC1ZcFp0TmRyRzFrUExrRXllZzBJSGFuNlNuODg5aWdLQ1dhaTJPdFMwVE5hb3ZoUU15bUJReTFHN2VuUV",
+        "published_time": "Wed, 16 Sep 2026 07:34:02 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 07:34:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaHhneGhiWHNEWC10NHFJN09udkNNaUdyS1RHd0tZMnhHdUREWHpmMEoxcC1ZcFp0TmRyRzFrUExrRXllZzBJSGFuNlNuODg5aWdLQ1dhaTJPdFMwVE5hb3ZoUU15bUJReTFHN2VuUVJNbkNhQTFzVkZNY0VqX3FHMkFqVWhQV0ZtNzFEZEItMU0ydDZ3UUVsa0ZHSVM0SThUZDhsbmxvaXhKMFQzR3dnRFprT3lDVFplbXNpYU5xMVFhZ25QN1BSOTVvazJQMHhzSFFEaERfSGpZX0ppQktBVS0zVFRTMUNn?oc=5"
+      },
+      {
+        "title": "Montana’s giving the biotech industry sweeping authority to sell unapproved drugs - Politico",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 15:07:00 GMT+5 | 키워드+30 | 순위:253위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQNXJQMWF6MG5fQkI2VDQwbHgwSU5zejVoNDMtLUVObjhRbDdXOThUSTMxUGZtcEVyM3kyeVVmQkk1RGYzMkFRRTBYRV9vVmcxek4zeUxGY0FkZW1URk1FY2s1WEJYamtxNUdmX3JEb3",
+        "published_time": "Wed, 16 Sep 2026 15:07:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 15:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXJQMWF6MG5fQkI2VDQwbHgwSU5zejVoNDMtLUVObjhRbDdXOThUSTMxUGZtcEVyM3kyeVVmQkk1RGYzMkFRRTBYRV9vVmcxek4zeUxGY0FkZW1URk1FY2s1WEJYamtxNUdmX3JEb3pEeWVZak03a3dyUlItdDJNWkk2VVlhZ0tmX1V2VlloUDlocEY4amhLM0dvajlWUQ?oc=5"
+      },
+      {
+        "title": "Remepy welcomes new CMO to advance hybrid drug pipeline - The Pharma Letter",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 17:05:25 GMT+5 | 키워드+30 | 순위:255위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUxvQnJ3WXZrWk5vYTBHRTJ5dUh4Ync4RE9XbldkZWtvcHFOTDVqcGQyWUpGcmRCN3dPc2J5UHJVRG1NRE9VODBjMUZzWDE3a20xNHRJa3NfSUJoalRJN3NLWUtSaHRYNTItRzNkcW",
+        "published_time": "Wed, 16 Sep 2026 17:05:25 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 17:05:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUxvQnJ3WXZrWk5vYTBHRTJ5dUh4Ync4RE9XbldkZWtvcHFOTDVqcGQyWUpGcmRCN3dPc2J5UHJVRG1NRE9VODBjMUZzWDE3a20xNHRJa3NfSUJoalRJN3NLWUtSaHRYNTItRzNkcWVMZEN4WDl4QkR3TFBmbkdjQzRYVHp4Z1I2MW1aZzgyTnpETUJkeXNvMjNDaW5fcGhl?oc=5"
+      },
+      {
+        "title": "Remepy Welcomes Pharma R&D Leader, Eran Harary, MD, as Chief Medical Officer, to Advance Hybrid Drug™ Pipeline - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 11:30:00 GMT+5 | 키워드+30 | 순위:256위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxONUZFRXI3NEI3bVZXd0xKVWNpVm5wNEE3ZE9ULUt1aTkxLUM0QnV5WjNxNV91M3RrNElLdC1VMERaZWhqWlFxQ3R2RGVGdzJXNk9zRUJrQ1J0c0FsMVo1WEs3VkdEUUI5aVRsanVhbF",
+        "published_time": "Wed, 16 Sep 2026 11:30:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 11:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONUZFRXI3NEI3bVZXd0xKVWNpVm5wNEE3ZE9ULUt1aTkxLUM0QnV5WjNxNV91M3RrNElLdC1VMERaZWhqWlFxQ3R2RGVGdzJXNk9zRUJrQ1J0c0FsMVo1WEs3VkdEUUI5aVRsanVhbFcydHVFaUJISDl4Z2hyLV9OaXlpLVFZNTd1cVVHMDhybEFhM1hpMDdhTE9VOU56c19CLU5JV3BZbXZ2OF9uVnd6emRBNER5NDhRdVYyRXVzeWtDU24ydDN0a2JJTG9EQjJhN3liN1VTbnZFeW1Vd3pGYjhpWHdPUVVtSU5YSHQ1d0RRQQ?oc=5"
+      },
+      {
+        "title": "VivoSim Labs (VIVS) FDA Approvals, PDUFA Dates & Drug Alerts 2026 $VIVS - MarketBeat",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 17:18:54 GMT+5 | 키워드+30 | 순위:258위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwOVlBVGVxSjNtUEdqLWVQSjJ2cFYwSUlVNy1wcExJWm9aNWpxeDlMS2NmZGR3THhYT21lZmNST3RzYmZuY2lKYjFPbW5VRmVKVHBzeGtIYzhXelZpQktxSmloMXZ1R3k3?oc=5\" tar",
+        "published_time": "Wed, 16 Sep 2026 17:18:54 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 17:18:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwOVlBVGVxSjNtUEdqLWVQSjJ2cFYwSUlVNy1wcExJWm9aNWpxeDlMS2NmZGR3THhYT21lZmNST3RzYmZuY2lKYjFPbW5VRmVKVHBzeGtIYzhXelZpQktxSmloMXZ1R3k3?oc=5"
+      },
+      {
+        "title": "Tray Separators Pharmaceutical Market To 2035: Injectable Drug Demand Drives 5.8% CAGR - News and Statistics - IndexBox",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 18:36:20 GMT+5 | 키워드+30 | 순위:259위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFd1dENWY0JRa0Q2azYwc256WG9jUEIyazh3dEJrUWFfbUcybWJTc1NFM0doT2gxM3hLQXdTcnFtWlcteE15b1FYMVFnUUJkSlZDWHBabFRSOGNXcWVIQTJyS3J2Z2d2dWpZRC1fd3",
+        "published_time": "Wed, 16 Sep 2026 18:36:20 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 18:36:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFd1dENWY0JRa0Q2azYwc256WG9jUEIyazh3dEJrUWFfbUcybWJTc1NFM0doT2gxM3hLQXdTcnFtWlcteE15b1FYMVFnUUJkSlZDWHBabFRSOGNXcWVIQTJyS3J2Z2d2dWpZRC1fd3ViU2FlWEtJQkxjeDQ1Mkx5OHpLa3BGeFUyZDhlVkR4RTh0S0xVOEF2OWVOeVFvOGdod25YRXJULVEtU1Q1LWxVY0kxOV9aeDBXaGxvV3U2eTU?oc=5"
+      },
+      {
+        "title": "Hypertension Clinical Trial Pipeline Accelerates as 100+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight - The Manila Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 17:15:37 GMT+5 | 키워드+30 | 순위:260위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxQODZpTFh0Y2dRcTdyb2NjZk01bDZkcktCb1BhdW9YNmdDa1dDVnNvYTNUMlNSbzEwUjBxa20tS01kekpncmpVLTdXQTROWDFUb016cVVYajA0ZXZVR3NHUDBWT0F3UG1PVlQtTVhfSG",
+        "published_time": "Wed, 16 Sep 2026 17:15:37 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 17:15:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQODZpTFh0Y2dRcTdyb2NjZk01bDZkcktCb1BhdW9YNmdDa1dDVnNvYTNUMlNSbzEwUjBxa20tS01kekpncmpVLTdXQTROWDFUb016cVVYajA0ZXZVR3NHUDBWT0F3UG1PVlQtTVhfSGtXV09xR3hVR2ItM3lrNTNUNGktSi1zZEF3ZGFRYUhEU3lROE9tRnYyRllUWEdTemk1dVF2TDM4Tlp3RW5sUVpkcV9UQzFjYzlwUXRUUF9ocHNjTm1WeGVEVDg1QXNrWGUyT0Z3TE9Hd2lIU2pZWG9YRGdTM2pPRWZSNDZaNmx3d2d2eTBRYnBMYkl4WUZvM0JLTWc0OFZkT0NfaElVcDRKbkRUdzlDdW5KR2hJY0FtRXZjdTVUSTItWmtZajlYd9IBrgJBVV95cUxQODZpTFh0Y2dRcTdyb2NjZk01bDZkcktCb1BhdW9YNmdDa1dDVnNvYTNUMlNSbzEwUjBxa20tS01kekpncmpVLTdXQTROWDFUb016cVVYajA0ZXZVR3NHUDBWT0F3UG1PVlQtTVhfSGtXV09xR3hVR2ItM3lrNTNUNGktSi1zZEF3ZGFRYUhEU3lROE9tRnYyRllUWEdTemk1dVF2TDM4Tlp3RW5sUVpkcV9UQzFjYzlwUXRUUF9ocHNjTm1WeGVEVDg1QXNrWGUyT0Z3TE9Hd2lIU2pZWG9YRGdTM2pPRWZSNDZaNmx3d2d2eTBRYnBMYkl4WUZvM0JLTWc0OFZkT0NfaElVcDRKbkRUdzlDdW5KR2hJY0FtRXZjdTVUSTItWmtZajlYdw?oc=5"
+      },
+      {
+        "title": "Shinpoong seeks phase 3 IND amendment for stroke drug SP-8203 - Korea Biomedical Review",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 07:19:15 GMT+5 | 키워드+30 | 순위:261위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE0temNrV2lxOHoyWTI5NHhuUU9QQXQyS1lnNElKWkRVR2N5N3lhVU55eFgxdE9YWXNZWXZ3SnBVNjhxcEIyRTQwYm5hUE9RbmdqVm05cDBub2dWN01pRUR2bWl6enJZWjZ6VmxUOGxR0g",
+        "published_time": "Wed, 16 Sep 2026 07:19:15 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 07:19:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0temNrV2lxOHoyWTI5NHhuUU9QQXQyS1lnNElKWkRVR2N5N3lhVU55eFgxdE9YWXNZWXZ3SnBVNjhxcEIyRTQwYm5hUE9RbmdqVm05cDBub2dWN01pRUR2bWl6enJZWjZ6VmxUOGxR0gFyQVVfeXFMTU5xUFdENEh2MENEVlpibTM2T09ybFh6M2hkaEtJbld2Qkp6VTFzZG41YmhmUmRYSHBaNUJpTnR1LVZaUFcwOE9NZXVaYUVEcWc0dkpRaGx5blZmWDVGaEk5NkFSVGc1V0hUYUJjeG5VNERB?oc=5"
+      },
+      {
+        "title": "South Korea's First Homegrown Obesity Drug 'EPPE' Set for Launch This Year, Challenging Wegovy and Mounjaro at Half the Price - finance.biggo.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 16:55:00 GMT+5 | 키워드+30 | 순위:263위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB4YnJPRl9RYVYxUnVaMkl3al83dzMtSFQwczNZOXZpWE45MnJQYWd0WlpmcWNYWkdKWi1YOVp6MzRNc3RyRnNwNGFramdwMTlRX2VXUjVCcHVGRWtXU1lncEVvczltR0JsOGE1TnQyTW",
+        "published_time": "Wed, 16 Sep 2026 16:55:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 16:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4YnJPRl9RYVYxUnVaMkl3al83dzMtSFQwczNZOXZpWE45MnJQYWd0WlpmcWNYWkdKWi1YOVp6MzRNc3RyRnNwNGFramdwMTlRX2VXUjVCcHVGRWtXU1lncEVvczltR0JsOGE1TnQyTWppQjFWV2c?oc=5"
+      },
+      {
+        "title": "Alkem launches anti-seizure drug NeuCeno in India - pharma.economictimes.indiatimes.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 09:43:29 GMT+5 | 키워드+30 | 순위:265위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1Z6bWl0eFZkajNzdnZqVHJIUlYxUmJSNVNLU2EtTzJZSE11a0kwRWkteE41dXBlbGdMWXZ3M1QzdUlsTUd5djMtWURCV0V6cVB1THlXalpHT3RaTEFQYnRTOHE5M1BKRnViY05YUW",
+        "published_time": "Wed, 16 Sep 2026 09:43:29 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 09:43:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1Z6bWl0eFZkajNzdnZqVHJIUlYxUmJSNVNLU2EtTzJZSE11a0kwRWkteE41dXBlbGdMWXZ3M1QzdUlsTUd5djMtWURCV0V6cVB1THlXalpHT3RaTEFQYnRTOHE5M1BKRnViY05YUW4tOW1fNlI2WHdQR0p2aEpmRzRhcGdOQ0xPeHFBaG8yMjZKTC1XUnVyVmVmQ3oxR2FuZm11WW9pZDI0akhvSkd5ZXJwazZxbkhYQkdORUtwUjloNXJxOVZpR2hocTR5WktlaVROVk1rWdIB1wFBVV95cUxON1Z6bWl0eFZkajNzdnZqVHJIUlYxUmJSNVNLU2EtTzJZSE11a0kwRWkteE41dXBlbGdMWXZ3M1QzdUlsTUd5djMtWURCV0V6cVB1THlXalpHT3RaTEFQYnRTOHE5M1BKRnViY05YUW4tOW1fNlI2WHdQR0p2aEpmRzRhcGdOQ0xPeHFBaG8yMjZKTC1XUnVyVmVmQ3oxR2FuZm11WW9pZDI0akhvSkd5ZXJwazZxbkhYQkdORUtwUjloNXJxOVZpR2hocTR5WktlaVROVk1rWQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        12
+      ],
+      [
+        "approval",
+        11
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "shortage",
+        3
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 88,
+    "languages": {
+      "French / 프랑스어": 8,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 7,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 5,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Sağlık sigortası kapsamına alınan geleneksel tıp ilaçları listesinin genişletilmesi bekleniyor. - Vietnam.vn",
+        "source": "",
+        "importance": 63,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 10:12:30 GMT+5 | 키워드+30 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkg3YzV4NzYtSWhsM1dYckNMX3VlcEJxbFV1ZmhNQXZIVV9qNkdieW9BTnNENERQNHROVWMzbFp2MlplN2JKY3VFMkJORUtBRWZmeDRXSjUxUjhZQ3pCb1dUejRFRmM4S0JqM09DT2",
+        "published_time": "Wed, 16 Sep 2026 10:12:30 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 10:12:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSkg3YzV4NzYtSWhsM1dYckNMX3VlcEJxbFV1ZmhNQXZIVV9qNkdieW9BTnNENERQNHROVWMzbFp2MlplN2JKY3VFMkJORUtBRWZmeDRXSjUxUjhZQ3pCb1dUejRFRmM4S0JqM09DT2NMVE9jMktkUnBSYXQwSGdNcEpPUjJDemFLOE9tdGpoUHFYLWZPamJaZ21nRnJtd2dYRFBqNQ?oc=5"
+      },
+      {
+        "title": "De lijst met geneesmiddelen uit de traditionele geneeskunde die door de ziektekostenverzekering worden vergoed, zal naar verwachting worden uitgebreid. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 09:27:47 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnlLWGU2X2w1eFBxTnVPTXhwY3NiVC1IaDMxME9FYTk2Rm84WmN2a21KU0JTbGRDT0h6Smp6Z2VvcXhFV2M4REt4UjBWWDhIOF9HUDNPUGc1N09hRDZXNFlmQzdxT09WZWlVclRZcm",
+        "published_time": "Wed, 16 Sep 2026 09:27:47 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 09:27:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQnlLWGU2X2w1eFBxTnVPTXhwY3NiVC1IaDMxME9FYTk2Rm84WmN2a21KU0JTbGRDT0h6Smp6Z2VvcXhFV2M4REt4UjBWWDhIOF9HUDNPUGc1N09hRDZXNFlmQzdxT09WZWlVclRZcmNQMi1KZnZoUU41Ym1FZ1JmeEtNVEhfckdjalMwckJaeDBZOFN1QUVWcENmOFgzR3FqQWRpMA?oc=5"
+      },
+      {
+        "title": "通化医药：从“制药老基地”到“智造新高地” - 人民网",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 08:17:00 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeXIxUkVNNGRlRzljRXRqWkpidTFLRFB3OTFTQ1JGWGdGRjAybU9XYzRReFhiQTExRTRMaHdzaUMtR2h6RVVmdGpLa3RXQ0dEb1Y2am1sSnJJb0U0YVd0ZkZzTmZ5UUgwa3c?oc=5\" ",
+        "published_time": "Wed, 16 Sep 2026 08:17:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 08:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yeXIxUkVNNGRlRzljRXRqWkpidTFLRFB3OTFTQ1JGWGdGRjAybU9XYzRReFhiQTExRTRMaHdzaUMtR2h6RVVmdGpLa3RXQ0dEb1Y2am1sSnJJb0U0YVd0ZkZzTmZ5UUgwa3c?oc=5"
+      },
+      {
+        "title": "中國藥品短缺政策成效評估與供應鏈挑戰分析 - GeneOnline",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 12:56:11 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxNRjVjMndUTlF0c3BuamdkamJuU2RGYTdyRHE3VGVoamU4aG9fcWFzZGlCSHZIY1hhWk9JbmFrdHR4OG5IRGxFWHdGaUg1VXItei1wVFVqSk54bzBFa0hXSjRZYmkyaFhjMzBjNHRqMU",
+        "published_time": "Wed, 16 Sep 2026 12:56:11 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 12:56:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRjVjMndUTlF0c3BuamdkamJuU2RGYTdyRHE3VGVoamU4aG9fcWFzZGlCSHZIY1hhWk9JbmFrdHR4OG5IRGxFWHdGaUg1VXItei1wVFVqSk54bzBFa0hXSjRZYmkyaFhjMzBjNHRqMUptTXVzc2xZNXhJTkJtRXgwMFJPc0F3WXpMZUo0bFVmdDZDLUdwZnB3dlpHTy02QXNlLVdBdWs1UmtrTFp3Y0VYeXkyMkV6SHE1eW5YMGRKVjJQX3R3T2Uyek9NMDY1bjc1bnNBaC0xcjFmVnVMQjhvUFlRNkhCR0hMYlN6SXBQS1M2QXR0eVhMdXNleC1RUzhfcE14U3psUWpxM0FtaXpua3dnWm42bEd3ekI3Q3I0OW5QVGdYUE84eXdxb1ZoUQ?oc=5"
+      },
+      {
+        "title": "AI dalam Penemuan, Desain dan Pengembangan Obat di Dunia Farmasi - RM.ID",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 16 Sep 2026 13:57:00 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0VRcHprUUFJOHJUZ1FoRFM1T2xOQl8tLWpncWlNZU9tU1NTbmtVejZHVXo3LWlJcVpFSjZlbTBVMzVoQURqRUFLanNwX2YtcHhqMG11OFIyRW5ZTGM2dGw1a3M5NXJ4NS1uek5YX0",
+        "published_time": "Wed, 16 Sep 2026 13:57:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 16 Sep 2026 13:57:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM0VRcHprUUFJOHJUZ1FoRFM1T2xOQl8tLWpncWlNZU9tU1NTbmtVejZHVXo3LWlJcVpFSjZlbTBVMzVoQURqRUFLanNwX2YtcHhqMG11OFIyRW5ZTGM2dGw1a3M5NXJ4NS1uek5YX0l3RFRwbkxVMDNQc1dFWUhCRTVPWEhRdGdVTlhUTm1XVXExdko1cXFmWnpYWVJmRHo4THVZZ0dYTXJrQQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
