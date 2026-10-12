@@ -1,0 +1,791 @@
+{
+  "date": "2026-10-13",
+  "total_articles": 385,
+  "language_breakdown": {
+    "korean": {
+      "total": 183,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 8,
+        "의약단체": 25,
+        "의약관련정부기관": 24,
+        "의료현장": 25,
+        "약국·약사": 1,
+        "의료정책·인력": 25,
+        "전통의학": 0,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 73,
+      "languages": {
+        "French / 프랑스어": 1,
+        "German / 독일어": 2,
+        "Spanish / 스페인어": 4,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 7,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 4,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 2,
+        "Indonesian / 인도네시아어": 5,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 5,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 31
+    },
+    {
+      "keyword": "비만",
+      "count": 19
+    },
+    {
+      "keyword": "FDA",
+      "count": 16
+    },
+    {
+      "keyword": "허가",
+      "count": 13
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "급여",
+      "count": 6
+    },
+    {
+      "keyword": "식약처",
+      "count": 6
+    },
+    {
+      "keyword": "위고비",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 3
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    },
+    {
+      "keyword": "실사",
+      "count": 2
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "공급망",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 22
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "obesity",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "뉴데일리 경제",
+      "count": 2
+    },
+    {
+      "source": "뉴스1 on MSN",
+      "count": 2
+    },
+    {
+      "source": "매일신문 on MSN",
+      "count": 1
+    },
+    {
+      "source": "보건신문",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "직썰",
+      "count": 1
+    },
+    {
+      "source": "theggnews",
+      "count": 1
+    },
+    {
+      "source": "뉴시스",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 29,
+      "keywords": [
+        "drug",
+        "weight",
+        "loss",
+        "digital",
+        "olhar"
+      ],
+      "articles": [
+        {
+          "title": "new fda approved weight loss drugs 2022 - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMl9EVnVSRzNjSWQyXzd3aE5ndzFuVFlHVXM4TUlFT3JUMm8wdmxodF9faUh0czBycmdSbFFZdHl4T3VWU1VGb1R6bDRtUWFPUGZWX2p6cGtZVVdEWEdKUkY5QU9kenhPWFQwRnduN1",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 11:19:29 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMl9EVnVSRzNjSWQyXzd3aE5ndzFuVFlHVXM4TUlFT3JUMm8wdmxodF9faUh0czBycmdSbFFZdHl4T3VWU1VGb1R6bDRtUWFPUGZWX2p6cGtZVVdEWEdKUkY5QU9kenhPWFQwRnduN1hKZGx2RW5FSTNlTy16bmc2czhuS29NcTd3Qkl3VndEa2xQZw?oc=5"
+        },
+        {
+          "title": "a pharmaceutical company has developed a new weight loss drug - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlB6VTJnSjQ0U2ZsX3VsdjBacm5vUDZmTFFGX0Y2UkhVbWFGQnZxQkNHUUZ4UVdtY1Z3ellGZnhXdzRDeVJFWUdmV21ONWNwUkF4TE9CMWFxWGNhSEcybzlXbmFBSExjYlFQLTJVU0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 12:32:53 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlB6VTJnSjQ0U2ZsX3VsdjBacm5vUDZmTFFGX0Y2UkhVbWFGQnZxQkNHUUZ4UVdtY1Z3ellGZnhXdzRDeVJFWUdmV21ONWNwUkF4TE9CMWFxWGNhSEcybzlXbmFBSExjYlFQLTJVU0tnbVBYTENfN2d5LWY4MjduR184NFRrWURQVXlrQWtRWEZiUFItaW9yZzVKXzJKVzA3OW1PRA?oc=5"
+        },
+        {
+          "title": "whats the new drug for weight loss - BusinessWorld Online",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUJXWkJidWRPVG9EQ052R0hDLUlQUENKY2NTWnlMcHZTOW1wQXNDdVNhakNqa01lWnRXcVo2SFNSTjRFdG1vZXJyc3NRTjhWM2ZuTmd2RU5sNXZtdUJLc3VnX3ExM2hwdThNNlpzQW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 07:46:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUJXWkJidWRPVG9EQ052R0hDLUlQUENKY2NTWnlMcHZTOW1wQXNDdVNhakNqa01lWnRXcVo2SFNSTjRFdG1vZXJyc3NRTjhWM2ZuTmd2RU5sNXZtdUJLc3VnX3ExM2hwdThNNlpzQWFCM05ySEtabWUyRVhwelNMRUF3?oc=5"
+        },
+        {
+          "title": "weight loss new drug - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE56S3BmMDU5YXNjaENydmFUdmFtMlFqZnNmSklEcklUekNkRlFJZko1Q2VlLUgtOUZVb0p2YV9NdG5Vc2E3bElQVnotMzlzNTU1aXRpSVFVVDFWajcxNUxHVGRxV0JFMmZkLS11emhfbw",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 20:24:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56S3BmMDU5YXNjaENydmFUdmFtMlFqZnNmSklEcklUekNkRlFJZko1Q2VlLUgtOUZVb0p2YV9NdG5Vc2E3bElQVnotMzlzNTU1aXRpSVFVVDFWajcxNUxHVGRxV0JFMmZkLS11emhfbw?oc=5"
+        },
+        {
+          "title": "what is the new weight loss drug approved by fda - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhzNUVLSjBETzd4TnBzMnd1dmFXNTZnc3pFeVRCZ3l5VkRhVTY1ZldkeFBfTVhmblI5eFAtVDlpcXo0NTEta2lENFE3QVpVSS0ybjdLcC1tYTVvcEJjX0EyU3loeC1SS2hYbFQ1RT",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 13:10:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhzNUVLSjBETzd4TnBzMnd1dmFXNTZnc3pFeVRCZ3l5VkRhVTY1ZldkeFBfTVhmblI5eFAtVDlpcXo0NTEta2lENFE3QVpVSS0ybjdLcC1tYTVvcEJjX0EyU3loeC1SS2hYbFQ1RTEyZlk0ZklycU00cGZ5ZXZoclJEVVdrSS1ENGUwNDNleGU4R1IyU3hfc1kwWQ?oc=5"
+        },
+        {
+          "title": "eli lilly reports significant weight loss results from new drug - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXM3RmhWVVFQM0o2SDZNZ1d6SnVwMWZuS1RVTV8tTDVyTDlHYVQwTkxJQTlCYmIxZlppYTRjWWpKamxQbHNLdWFDMGQzU0h0RGJub2w2QmQybG1XQ2RuWVNIMHZ2S2tDdjhnU0U4ck",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 16:44:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXM3RmhWVVFQM0o2SDZNZ1d6SnVwMWZuS1RVTV8tTDVyTDlHYVQwTkxJQTlCYmIxZlppYTRjWWpKamxQbHNLdWFDMGQzU0h0RGJub2w2QmQybG1XQ2RuWVNIMHZ2S2tDdjhnU0U4ckZfSE41WWVJbVp5a0c3a1Z2SmdVSGstM3Z4NFh4d3hzdTFyaG5zdnZGOC1mMGp6bV80Qng2UmNubkZ3THM?oc=5"
+        },
+        {
+          "title": "eli lilly reports high weight loss in new drug trial - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHlOenpxa1g2ME9IM0RpT2wwMGs1SFFfT3dDWXVGVG5lVGNrOEROaE5STlNYdUZkZ3RrRHZKMWhMbUhDMUNEaC1VU2dOclBodVZDX29kRG5aVmVfSDRwcjNYY2VmVTA4anBHSGl4d3",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 13:15:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHlOenpxa1g2ME9IM0RpT2wwMGs1SFFfT3dDWXVGVG5lVGNrOEROaE5STlNYdUZkZ3RrRHZKMWhMbUhDMUNEaC1VU2dOclBodVZDX29kRG5aVmVfSDRwcjNYY2VmVTA4anBHSGl4d3FHZllTWmdfRlItRVJGYWU3UkpXWkN6N0MxdGFqNTNLeTJ5ZTdnckZTY0RuelZIaDZRUnNfUQ?oc=5"
+        },
+        {
+          "title": "does merck have a weight loss drug - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZTTzk5LTZJNE5ZUnFNWmM4OWotWExxNXVSYm0zclJtS3VyT05HT0lfcWJ5Z1pCOXZZZktNMDZ4ZUN0NkdvWVZ6V2VNaDhSdURpUWl2bFpUYWtHMUppLTVyRm9FMy1uSGY0MEM5Yz",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 15:35:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZTTzk5LTZJNE5ZUnFNWmM4OWotWExxNXVSYm0zclJtS3VyT05HT0lfcWJ5Z1pCOXZZZktNMDZ4ZUN0NkdvWVZ6V2VNaDhSdURpUWl2bFpUYWtHMUppLTVyRm9FMy1uSGY0MEM5YzZCanhtR20xVXJxbnRxMG9UT25Pa1BFWUp3My1iekhn?oc=5"
+        },
+        {
+          "title": "newest weight loss drug by nova nortis - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlY3WHp2ZHRMVnFPbDE5OTRCaTBZWWtDZGc2OUlzSGVaNEo5c3VUR1ZzS1lyek1DLWNXSkFra0p4QjVpUl9rSFg0enZPT3lYZGRyYTR0c01Ga1BQZ3QtRWJwS0JUUkx3SUlmWS1HY3",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 07:29:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlY3WHp2ZHRMVnFPbDE5OTRCaTBZWWtDZGc2OUlzSGVaNEo5c3VUR1ZzS1lyek1DLWNXSkFra0p4QjVpUl9rSFg0enZPT3lYZGRyYTR0c01Ga1BQZ3QtRWJwS0JUUkx3SUlmWS1HY3otYWljX0hWUXhnVHdaLXhaQ3hFSUpHTFFMT0RxS0s4YlZTYms?oc=5"
+        },
+        {
+          "title": "weight loss: fda approves highly effective drug treatment for obesity - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlBiYmlPNnFVN0xjcXFpcFNKTEF5ZDFUWVJobEF0OE5TemdEZ3lqS0xqTkRYYWxOYVZNdmV6dzl5NVoteEFISGNYVFZwMFlreHF5TWlXbXlmRGM2R3RPUTlXdmhOaV9nQkhkMmpKcX",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 08:16:59 GMT",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlBiYmlPNnFVN0xjcXFpcFNKTEF5ZDFUWVJobEF0OE5TemdEZ3lqS0xqTkRYYWxOYVZNdmV6dzl5NVoteEFISGNYVFZwMFlreHF5TWlXbXlmRGM2R3RPUTlXdmhOaV9nQkhkMmpKcXowYUxud1Nwc2NmSjZLSXZzQjdKc1JkVmo4bGdsdUEtc00ySjF0Z2RlS00tbVE5RFpMWUJIWDREQWlhclFCeE45eGxn?oc=5"
+        },
+        {
+          "title": "eli lilly releases new form of weight loss drug - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTNMM1V3ekVJMm9ndU5DSjlDaWMyRF9VbmZjbjZycEprOTdyR1ZpYVFFaUhNV2k1cW1aYVowVkQwRzNzY0ViWDV4OXBHRnUxQkNHQl9xS29xVmtrSGlDZGwxYTFPOER2TFVoZFpCbH",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 13:12:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTNMM1V3ekVJMm9ndU5DSjlDaWMyRF9VbmZjbjZycEprOTdyR1ZpYVFFaUhNV2k1cW1aYVowVkQwRzNzY0ViWDV4OXBHRnUxQkNHQl9xS29xVmtrSGlDZGwxYTFPOER2TFVoZFpCbHU5bjFhVl81SmR1N2xwM3E5eTY2aGR5aU9wdmhtWkZ4WFVjeWM?oc=5"
+        },
+        {
+          "title": "new eli lilly diabetes drug - BusinessWorld Online",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4zN0FSSjBEZEhON1NHb3RGMFJCNkd4WlFTMjhwTTZOZHNMMG9XcjJIS1YzeEJ1MXpjNmlQRDlmanN0Y3BQUFJfLXkyUlk0Y28zX0k4bTJpVFVRUXhnZDBRdU15eVdpOVFnTlVzaGRxbj",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 07:06:32 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zN0FSSjBEZEhON1NHb3RGMFJCNkd4WlFTMjhwTTZOZHNMMG9XcjJIS1YzeEJ1MXpjNmlQRDlmanN0Y3BQUFJfLXkyUlk0Y28zX0k4bTJpVFVRUXhnZDBRdU15eVdpOVFnTlVzaGRxbjE1T0dhMkdibGt2bXQ4TWc?oc=5"
+        },
+        {
+          "title": "second helping of weight loss drugs is coming - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2szXzd2UVlseVp2TmRQNFdqbGFhMVRKaUdCYllOTXY4UE9oSGhYN0g5N3hyMmVKdXlTNHVtaWRBbDdzRUdhY0loOXhaZ0NFNmtUT2VEY2dRVDF5RngtcmVua3FFS2I3bTBNOWk3Yz",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 15:09:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2szXzd2UVlseVp2TmRQNFdqbGFhMVRKaUdCYllOTXY4UE9oSGhYN0g5N3hyMmVKdXlTNHVtaWRBbDdzRUdhY0loOXhaZ0NFNmtUT2VEY2dRVDF5RngtcmVua3FFS2I3bTBNOWk3YzRidmN4S29JSWN6ZTlUZUpqUUNsSFg0RkVpNlA3V3FNUF9XaE0?oc=5"
+        },
+        {
+          "title": "new prescription weight loss drug 2023 - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1F3N3FhMTVrdF91aU1FSFVueHhqTVV0UFN5NGpWcEZPY183X3VSTWI2RFU1eS16OTdmd0ZLcVVRbi1vNjRTaVNUMWhXOTRKbTgwenM3bFN4LWlJQlZsa1M2SFFUbTEwTlBMVVRhMD",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 10:13:52 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT1F3N3FhMTVrdF91aU1FSFVueHhqTVV0UFN5NGpWcEZPY183X3VSTWI2RFU1eS16OTdmd0ZLcVVRbi1vNjRTaVNUMWhXOTRKbTgwenM3bFN4LWlJQlZsa1M2SFFUbTEwTlBMVVRhMDdBX181cVZUVFlhZG9yQl9iekZ6WEpDWTJ5Q2tTM1dR?oc=5"
+        },
+        {
+          "title": "new weight loss drug 2022 - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUkU4Mm9vX3Y3MlJleDZPMU1qdnlnNzhrWUd2Rkp1LUZuenQwekI1cnJFV0ZEdlU0bkFvX2E1YlpFakt1NktwcFhSVmNwZHI2QVlkNFFaSXJYMkZGYTZQV1FtZ005M3V2MnJwVmJkUj",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 07:28:24 GMT",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUkU4Mm9vX3Y3MlJleDZPMU1qdnlnNzhrWUd2Rkp1LUZuenQwekI1cnJFV0ZEdlU0bkFvX2E1YlpFakt1NktwcFhSVmNwZHI2QVlkNFFaSXJYMkZGYTZQV1FtZ005M3V2MnJwVmJkUjBRelV5WkRETS1paHdxNm8?oc=5"
+        },
+        {
+          "title": "FDA Approves Once-Monthly Olanzapine Injection for Adults with Schizophrenia - Drug Topics",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1dWUUZROVUxeGYxQk9uci1mUF9PNDRudzRDQkVFYmcweTBQWHVHc29VZU9iS3hxbjlJX0dzektZWV82Y2lXWmxZcWFQa0JWcmNPZDJGb0x4NUJSVi0wZlo2bVJpdG5ZRGpIY0JwR3",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 19:15:27 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1dWUUZROVUxeGYxQk9uci1mUF9PNDRudzRDQkVFYmcweTBQWHVHc29VZU9iS3hxbjlJX0dzektZWV82Y2lXWmxZcWFQa0JWcmNPZDJGb0x4NUJSVi0wZlo2bVJpdG5ZRGpIY0JwR3lPa0hDR21HS1dMdkhvMno3NzZlYjBJQ2doNEZRTHZUNG1MYmFIMGFFWlh5cHZ5X1J2bTlRTlZ4Uk9PaURX?oc=5"
+        },
+        {
+          "title": "new fda approved drugs for weight loss - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVA5VmN0WHE5YnJOejh4NGYzVl9TM0lTNUlvU250NnNCbjZ6LUJBcTg1V3Y4aTY0dWk5eUw0VHNDMW1wR3BUU0xveEJVazhfbHdaWEoxb3hOTlJvenBBZkJadVhXeGpjZ1RRMzVPRk",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 17:51:20 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTVA5VmN0WHE5YnJOejh4NGYzVl9TM0lTNUlvU250NnNCbjZ6LUJBcTg1V3Y4aTY0dWk5eUw0VHNDMW1wR3BUU0xveEJVazhfbHdaWEoxb3hOTlJvenBBZkJadVhXeGpjZ1RRMzVPRkxhM240eDNGbWFKb0Fyb2VfREdBd3J3Qmc3bGF1ZWRwWXM?oc=5"
+        },
+        {
+          "title": "new weight loss drug awaiting fda approval - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFreXJaZmJPMUFOZjRuWWk3OUNaQTRUUWpCMWphaXV0eXhSTzZkdDk3TUlEM0NQVGRtWUJXZE9KQk5SMU5JVEJKWHNQdGF5dVFkZGg4d1ZReVhHRVh5cHhTMlgzd2pNdjdtZkJ5ZE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 14:16:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmFreXJaZmJPMUFOZjRuWWk3OUNaQTRUUWpCMWphaXV0eXhSTzZkdDk3TUlEM0NQVGRtWUJXZE9KQk5SMU5JVEJKWHNQdGF5dVFkZGg4d1ZReVhHRVh5cHhTMlgzd2pNdjdtZkJ5ZE1JbDJudDBwdy1NV09pSWVFZm1nWkR2ckwzY2NaazB3?oc=5"
+        },
+        {
+          "title": "eli lilly built $1.5 billion stockpile experimental weight-loss drug - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjA1b3hQR2xrb2J2bk1Uel9GRDFGQnRrelJwNFRKNWpuZVl1WEx0Q25remZSLU5jMTMtTlZqazRCdUJqa00tMWNCQVZlSWlsU0d4UERnenNQUUN6WGhXWlZoS09DcFJHa1AxZUhwVn",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 08:38:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjA1b3hQR2xrb2J2bk1Uel9GRDFGQnRrelJwNFRKNWpuZVl1WEx0Q25remZSLU5jMTMtTlZqazRCdUJqa00tMWNCQVZlSWlsU0d4UERnenNQUUN6WGhXWlZoS09DcFJHa1AxZUhwVnlZY19JdTdNZkxyamtQMEc3OVFNM1JubTNodmd1bmlXbFJtd2Q2NnJiVk9UWmdsamZMT0JHbENtREJCX0lSTDRSY25ZZHdVSmN0N2NwUw?oc=5"
+        },
+        {
+          "title": "novo nordisks new drug amycretin shows significant weight loss - Philstar Life",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXkyeEVzekJ3N2tuSUpOczlyb1BrSThFWjFueFFteDFlM3RMVUtwN1o1bHl1Wk01VjJ4el9rMHVyUTV6R2FmbEhfc3FzZ0NQN25JMklZUDVENzJBZUNHX2JOSFJzSUN0aldNdVg3NW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 09:22:03 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXkyeEVzekJ3N2tuSUpOczlyb1BrSThFWjFueFFteDFlM3RMVUtwN1o1bHl1Wk01VjJ4el9rMHVyUTV6R2FmbEhfc3FzZ0NQN25JMklZUDVENzJBZUNHX2JOSFJzSUN0aldNdVg3NW5qZFJQLWlNMGVMYmt4NXMySHM2bU9MS2JES09DcEl0MkpaYkZmWkNYOVBXT21wUTBXcWR4Mw?oc=5"
+        },
+        {
+          "title": "the new holy grail for weight loss drugs - Olhar Digital",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlV2ajZ0ZmRkd3BreHQ3T2JNeC05cWsxbUZ0M2J5NDVHOVNvVlY5QmZZd0FjNmVOSTA3aEZEcEZLeXh6aFh3eUhEdVhkTGdBelZQajNjYl8xeURIaWRUdm55WVBLVXVsVXhldUtER0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 13:51:45 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlV2ajZ0ZmRkd3BreHQ3T2JNeC05cWsxbUZ0M2J5NDVHOVNvVlY5QmZZd0FjNmVOSTA3aEZEcEZLeXh6aFh3eUhEdVhkTGdBelZQajNjYl8xeURIaWRUdm55WVBLVXVsVXhldUtER01QZVZRaHM3N0E1N2RpZnBzdHRudGtET3dVd3c?oc=5"
+        },
+        {
+          "title": "Obesity Drug Market Shifts Focus to Quality of Weight Loss - 조선일보",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDRaLW9tYm5vRkxTMnlrSVIzbVVZX3ZQRXprRktDMWNYM2twR0M0di1NdGY2NVVrbVVqbEhQZnc1eXFhYTZaeDdzcUprV2RHQkVTdG5UMjVqeklpS1oxWC10ejFtSkVjamtNVThzdj",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 10:39:04 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRDRaLW9tYm5vRkxTMnlrSVIzbVVZX3ZQRXprRktDMWNYM2twR0M0di1NdGY2NVVrbVVqbEhQZnc1eXFhYTZaeDdzcUprV2RHQkVTdG5UMjVqeklpS1oxWC10ejFtSkVjamtNVThzdjRBTlhOLXlUZ0M4dUEyaEEtMkczQlhxRFk5?oc=5"
+        },
+        {
+          "title": "new eli lilly drug for weight loss - www.polskieradio.pl",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXBRWEhfUDdLOHNEalF2NHl4YkFEZTdWRmhBRExFQTYyZ3NZdTA0SmRQVEpfeHFFVzltTlR0dUROd0NBZ1ppaGJ0NFFabzZ6QlphMzV0cmhneVNkeUdjOXJHcWdLTncwLUtCQ1JjbU",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 10:46:35 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXBRWEhfUDdLOHNEalF2NHl4YkFEZTdWRmhBRExFQTYyZ3NZdTA0SmRQVEpfeHFFVzltTlR0dUROd0NBZ1ppaGJ0NFFabzZ6QlphMzV0cmhneVNkeUdjOXJHcWdLTncwLUtCQ1JjbUhTZ1JQeWIwM0x1TFhaQTdTM0VXTDVqS3Q0MkFJdA?oc=5"
+        },
+        {
+          "title": "whats the newest weight loss drug - BusinessWorld Online",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZpOEM0S3hEbFY4UzhqRElGTXB3WXB2RXdmVEZ5TUoyNjE0WUtQbGZzeHhzRU5sRUFPSmdvb1hFMFhZYW44WF83YzMyWWFCbGFsMkREZ2NJYmxoY2ZIN1NVZUNsZFJYSy1HNFROZ0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Mon, 12 Oct 2026 08:00:44 GMT",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnZpOEM0S3hEbFY4UzhqRElGTXB3WXB2RXdmVEZ5TUoyNjE0WUtQbGZzeHhzRU5sRUFPSmdvb1hFMFhZYW44WF83YzMyWWFCbGFsMkREZ2NJYmxoY2ZIN1NVZUNsZFJYSy1HNFROZ0xEcFV1NW9ueFdVQ0ZDRnFCMg?oc=5"
+        },
+        {
+          "title": "﻿Dt&CRO bolsters competitiveness as a full-cycle new drug development CRO, widens academia and industry collaboration - 더바이오",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcHBINnZuMkRyTDdWR2ZsNEVPTkxUWEw1Rjk5bEtnUURrdGN4V1lOQjJmaG10TzlZUnByaDdVRUZlZlRYRlFCRmxqSFlqWHZ2NFFnUTdqVjVlQWpOcjgzeUc1RXo1aEg3RDd0LWsyLU",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 12 Oct 2026 07:54:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcHBINnZuMkRyTDdWR2ZsNEVPTkxUWEw1Rjk5bEtnUURrdGN4V1lOQjJmaG10TzlZUnByaDdVRUZlZlRYRlFCRmxqSFlqWHZ2NFFnUTdqVjVlQWpOcjgzeUc1RXo1aEg3RDd0LWsyLU3SAXBBVV95cUxPZnBwSDZ2bjJEckw3VkdmbDRFT05MVFhMNUY5OWxLZ1FEa3RjeFdZTkIyZmhtdE85WVJwcmg3VUVGZWZUWEZRQkZsakhZalh2djRRZ1E3alY1ZUFqTnI4M3lHNUV6NWhIN0Q3dC1rMi1N?oc=5"
+        },
+        {
+          "title": "Rockwell Automation Joins Digital CMC Consortium to Accelerate Drug Development and Pharmaceutical Manufacturing - BioPharma APAC",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ1hYWk1oZ1V5N0JLSDdveEVpNzZaYUxVMnRsNlRfX0pSWVNwRjVIRGplbkpGRHJFV0NGbXk5Uk80UEV3Z3JlMHhXUzZGX1dsaEJfcW1SMlJ4ajRjcnVDUmFNQjd2ODI1Zml6c0VGaH",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 12 Oct 2026 19:08:22 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ1hYWk1oZ1V5N0JLSDdveEVpNzZaYUxVMnRsNlRfX0pSWVNwRjVIRGplbkpGRHJFV0NGbXk5Uk80UEV3Z3JlMHhXUzZGX1dsaEJfcW1SMlJ4ajRjcnVDUmFNQjd2ODI1Zml6c0VGaHlUckZ1cEY4NEU1VktfWWNhbEg2dU5Hc2p4Z25HaEJkQWtuS1RqNUpwV1Nxc1pQeG1fMnc4NVpXZlFPVW9XRmhUdmJLRy1tTGFQS1RwMGt4WTdNb2VIS0NMVnlUYjYtYnBPNmlzSzFPMldLVWFBdEFzdXFvNXRvVFFTX21jNA?oc=5"
+        },
+        {
+          "title": "Bayer Plans $2.2B Pharmaceutical Manufacturing Site in Ohio - ConstructConnect News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3R1X21kb3gtdDV6aXZwVllIckpGZG4wdGZmNTBCc3NTUGVsQ0V3Wk0wMS0ySE15VlkwcEhvZ0taR19OYzR0LWMxd2VqdU1rbnJ0VU4yd19oeUFDb0dVaXFFbkRFa0tYbzJfLW1vRH",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 12 Oct 2026 15:30:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR3R1X21kb3gtdDV6aXZwVllIckpGZG4wdGZmNTBCc3NTUGVsQ0V3Wk0wMS0ySE15VlkwcEhvZ0taR19OYzR0LWMxd2VqdU1rbnJ0VU4yd19oeUFDb0dVaXFFbkRFa0tYbzJfLW1vRHFwMjZ1SHJud3oxRWMwOXZHWUZrdURnRFoxZjhqQWdxSWtYNWtwb3l3dFRCYXFiSFVaOEEwUzVuWdIBpwFBVV95cUxQR3R1X21kb3gtdDV6aXZwVllIckpGZG4wdGZmNTBCc3NTUGVsQ0V3Wk0wMS0ySE15VlkwcEhvZ0taR19OYzR0LWMxd2VqdU1rbnJ0VU4yd19oeUFDb0dVaXFFbkRFa0tYbzJfLW1vRHFwMjZ1SHJud3oxRWMwOXZHWUZrdURnRFoxZjhqQWdxSWtYNWtwb3l3dFRCYXFiSFVaOEEwUzVuWQ?oc=5"
+        },
+        {
+          "title": "Pharmaceutical Grade Silica Gel Market to Accelerate on Drug Packaging Demand, Reaching 2035 Expansion - IndexBox",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNNzJrZl9Ra04zYk96UlQyNF82bFg1VWMxbTlUVmN6NVVBallMRXV3UTFTQjAyS0s0Q0xnNWlNYkZTMTFpYkFfeERLeUVic2gxRUdVbVk2MGhIeXkxVml0WTFZdE9tT1VhaGh6Wk5yUU",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 12 Oct 2026 16:56:05 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNzJrZl9Ra04zYk96UlQyNF82bFg1VWMxbTlUVmN6NVVBallMRXV3UTFTQjAyS0s0Q0xnNWlNYkZTMTFpYkFfeERLeUVic2gxRUdVbVk2MGhIeXkxVml0WTFZdE9tT1VhaGh6Wk5yUUloMlZsMmg0Y0tsRkNUbjhCV1A2cV92dUt5ck01OE9BUXdaSGhBWEJXcy16NmVBemtpeE1lWWwxT0Nvb3ZrT1pqTUZXZUFHdm9TamdaR0Y1Y0NKN2JfTEUyRXc0bw?oc=5"
+        },
+        {
+          "title": "Pharmaceutical Aseptic Processing Market Gains a New - openPR.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTlmMDAzSTBaaTZqZnpZeDVGY1ZOLUJMSXRHRGY1N3o1aVpzZ0pxR1pjbTJ5N0RCQklPNjN3YVdMZXh3RHBXejlaTnVGNFZVSjlGUVJfZVN0Z1dMMlAxbFEtUHI3MXNCd0VQWUpMSG",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Mon, 12 Oct 2026 10:21:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTlmMDAzSTBaaTZqZnpZeDVGY1ZOLUJMSXRHRGY1N3o1aVpzZ0pxR1pjbTJ5N0RCQklPNjN3YVdMZXh3RHBXejlaTnVGNFZVSjlGUVJfZVN0Z1dMMlAxbFEtUHI3MXNCd0VQWUpMSGFaNzhpWnlBOHplb0ZWcTNLTEhrWWFkUnBLZzE1dWQtX0xuQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 3,
+      "keywords": [
+        "글로벌",
+        "제약바이오협회",
+        "qmm",
+        "동향",
+        "사례",
+        "현장",
+        "공유"
+      ],
+      "articles": [
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유한다",
+          "source": "메디파나 뉴스",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "한국제약바이오협회는 국내 기업 '품질경영성숙도(QMM)' 체계 구축과 제조혁신을 지원하기 위해 내달 4일 협회 강당에서 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 미국 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "10시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=419102"
+        },
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유",
+          "source": "의학신문",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김정일 기자] 한국제약바이오협회 (회장 노연홍)기 오는 11월 4일 협회 4층 강당에서 ‘제3회 KPBMA 품질경영 아카데미’를 개최하고 국내 기업의 ‘품질경영성숙도 (Quality Management ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013709"
+        },
+        {
+          "title": "제약바이오협회, 11월4일 '글로벌 QMM 동향 공유 아카데미' 개최",
+          "source": "뉴데일리 경제",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "한국제약바이오협회가 글로벌 품질경영성숙도 동향과 현장 적용사례를 공유하는 교육을 연다.한국제약바이오협회는 11월4일 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 국내 제약바이오기업의 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "10시간",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200131.html"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "전공의",
+        "보호수련시간",
+        "없어"
+      ],
+      "articles": [
+        {
+          "title": "'보호수련시간'을 아시나요?…전공의 10명 중 7명 &quot;들어본 적 없어&quot;",
+          "source": "의협신문",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "전공의들의 교육시간을 실질적으로 보호하는 제도적 장치가 제대로 작동하지 않는 것으로 드러났다. 전공의들 10명 중 1명만 정기적으로 '보호수련시간'을 경험한다고 응답했다. 대한전공의협의회는 12일 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "5시간",
+          "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166712"
+        },
+        {
+          "title": "전공의 90%, 정기적 ‘보호수련시간’ 미경험",
+          "source": "데일리메디",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "﻿﻿﻿전공의 90%가 ‘보호수련시간’을 정기적으로 경험하지 못한 것으로 나타났다. 공식 교육시간 중 진료업무화 호출로부터 실제 보호된 시간이 없는 경우는 73%였다. 보호수련시간은 전공의가 수련목표와 연계된 교육활동에 참여할 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "9시간",
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941340"
+        },
+        {
+          "title": "전공의 10명 중 9명 “정기적인 보호수련시간 없어”…대체인력 확보 시급",
+          "source": "라포르시안",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[라포르시안] 전공의 10명 중 9명은 진료업무와 호출에서 벗어나 교육에 집중할 수 있는 '보호수련시간'을 정기적으로 보장받지 못하는 것으로 나타났다. 교육시간이 공식적으로 편성돼 있더라도 실제로는 진료업무를 병행하는 경우가 많아 대체인력 확보와 제도적 보장이 필요하다는 지적이다.",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "9시간",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241152"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "medicine",
+        "african",
+        "ayush",
+        "traditional",
+        "university",
+        "chair",
+        "india",
+        "south"
+      ],
+      "articles": [
+        {
+          "title": "India seeks Ayush chair at South African university to boost traditional medicine ties - ET Government",
+          "source": "",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmFvV1NoU2R0YTJpa3pDT0Q1TVE0eEhKSlpUU2Z3NmFMMVdHZlBVblpXb3lNel91dk14RmNHQTdpXzQyLUtiTVFEUWxjY2l3WFptWGNXSDZna0ZqS0ZSSncxYnctOGR0RkdhQ1FHNV",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Mon, 12 Oct 2026 08:53:10 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmFvV1NoU2R0YTJpa3pDT0Q1TVE0eEhKSlpUU2Z3NmFMMVdHZlBVblpXb3lNel91dk14RmNHQTdpXzQyLUtiTVFEUWxjY2l3WFptWGNXSDZna0ZqS0ZSSncxYnctOGR0RkdhQ1FHNVN1U0hmaHljaFU2S1cwTzVZMjhHREZ4azRQRTdPeFdGZWtvYm1tV1plcHNBbmJEb25zM2ZUdDFTTjc0LWVQc1JzaXlFVTNaY3JIMWU1YUdSa1daU09fYU10VDRtR1ljbmpkeGZhNHlfY2xoQlVKS09hVlZaU2JNVDJQcE5XNkUyOF9Gdw?oc=5"
+        },
+        {
+          "title": "India Plans Ayush Chair At South African University To Expand Traditional Medicine Education - BW Education",
+          "source": "",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRlNKY2VFR0x2NFBIa2VZSGdJbUpHV2tjRmNPVU0tTW5tQ3FzUXdwa1p2eGpLU2ROdHYwbXA0N25ZaHF3TXFhRFM2U1hzN3NmZWRqc1l2bXJFU1FPU0FMNlE5VU9lUlJKT21xOGZldU",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Mon, 12 Oct 2026 12:56:19 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRlNKY2VFR0x2NFBIa2VZSGdJbUpHV2tjRmNPVU0tTW5tQ3FzUXdwa1p2eGpLU2ROdHYwbXA0N25ZaHF3TXFhRFM2U1hzN3NmZWRqc1l2bXJFU1FPU0FMNlE5VU9lUlJKT21xOGZldUh4TW5GYURBdHpQZ05mdlIxM1V5MF83QzQyVl9QcWJkZ2EzVFRIVC01SXo4b0Zrd09VUTZEeVhla1lYVkctZDItRjBOVjhEajlxZE9DSWd4Z2tNVlVNeUs1T3lJV01RSHZU?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "escasez",
+        "farmacias",
+        "comunitarias"
+      ],
+      "articles": [
+        {
+          "title": "Recurren a farmacias comunitarias y gratuitas ante escasez de medicinas - El Diario - Bolivia",
+          "source": "",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNqQTVRZ3BsNWFmUzMtM2FxRm5PMlZBdnBsa3FseXVPajlPcWZaMHptaHctaWYxQWRKd3RJc3l1TTdrVlFfaEF3RVJNLW5reUx5anY4WWdtVFQ1aUZzLUV0Q0JDc2lNYzJJQy1pV1",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Mon, 12 Oct 2026 09:48:19 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNqQTVRZ3BsNWFmUzMtM2FxRm5PMlZBdnBsa3FseXVPajlPcWZaMHptaHctaWYxQWRKd3RJc3l1TTdrVlFfaEF3RVJNLW5reUx5anY4WWdtVFQ1aUZzLUV0Q0JDc2lNYzJJQy1pV1pCQkxOd1BNNkloM0JKZTVqTk56T1FDWUlhUXd2MWctSlVpdUM2bGtzSnBXWHFOeTlMenFEY1lTRVI4bkVsQ2VNVWc3RmpIQQ?oc=5"
+        },
+        {
+          "title": "Cuba enfrenta una grave escasez de medicamentos: las farmacias comunitarias son el sostén - La Unión Digital",
+          "source": "",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVZRRjVSUWtKZDYtcjhEdFdMcGhYdEFkblIwSGJiSk5NODRPRHNFZUNUTTBhZG9ELTNVRWNwS2thakMzRzdOSDk3aG1CYVJ2WXRCZW5XVS1UdXJrVjUwZFM4VW1YQTl5bHR5Njl3c2",
+          "section": "multilingual",
+          "category": "Spanish / 스페인어",
+          "time": "Mon, 12 Oct 2026 11:14:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVZRRjVSUWtKZDYtcjhEdFdMcGhYdEFkblIwSGJiSk5NODRPRHNFZUNUTTBhZG9ELTNVRWNwS2thakMzRzdOSDk3aG1CYVJ2WXRCZW5XVS1UdXJrVjUwZFM4VW1YQTl5bHR5Njl3c25EclVxVVBxZk0xZWpZcFRqZVVsZzJPTDFlNHNXSTVkeWRmLW1rRGNXS0s0aW9PYVlaNG04clZuSnEwNGNUUEF0b2pmZGhlRmpKSVBsadIBwgFBVV95cUxPMVplSTVZellGcHNLQTJZMXFJeWJGN1BwSWtIRENya0RMcDZrNERtYWVES1FZWlBkS2Z5c1pwUEtXWHIzS3FpaGIwelBoUU5aMjVYbXdzVWhtX0VnSzFPUU9kZGR4RVRPRFE3d01MRk95Mk9sZWdmMmFqZ2N4aGVpbXR0RXE0T201dmFvcW5zdUpWc1VvRjhDV2cyMDVYVC16Nm9tbUZreHdaenUzU0ZDZWJFN3hLcS1zTGJUekdpeFQwQQ?oc=5"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "医药级硅胶市场2035年展望：药品包装需求驱动增长 - 新闻和统计 - IndexBox",
+      "source": "",
+      "importance": 58,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhpdHAwbXhwZVktSXFRVTRrdVRlTmk3Wl9jTWZKb2FadkVPY3Z1RVcyamhaYWpsN1ZPd3l6TnZNd2MyZnI2cEJNUDgySkVKRHFfNGtBUTNuM0IyRE5IVXhzVUl5ZTcxQldJcm9lYW",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhpdHAwbXhwZVktSXFRVTRrdVRlTmk3Wl9jTWZKb2FadkVPY3Z1RVcyamhaYWpsN1ZPd3l6TnZNd2MyZnI2cEJNUDgySkVKRHFfNGtBUTNuM0IyRE5IVXhzVUl5ZTcxQldJcm9lYW1jOGVWbGdmTDRVaERWZ3NfOUszN0cxcDkwQW5DdUZxRE5uNXd6MEo3NC1RY2tBeWVpWDdNS2I3NVVndVBuS0NKNVh5MmJTdjBsVG1FLW5sNmU4UkRtWkU5MGg4ZjJYemEyYVZFUWZR?oc=5"
+    },
+    {
+      "title": "식약처 &quot;국제인증표준품 관련 종합안내서 발간&quot;",
+      "source": "뉴시스",
+      "importance": 55,
+      "snippet": "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 국제인증표준품 분양을 개시한다.식약처 소속 식품의약품안전평가원은 국제인증표준품(CRM) 및 NDMA 등 니트로사민류 표준품을 포함한 '2026 식품의약품안전처 표준품 종합안내서 ...",
+      "url": "https://www.newsis.com/view/NISX20261012_0003821551"
+    },
+    {
+      "title": "94 Persen Bahan Baku Obat Masih Impor, Taruna Ikrar Ajak IAI Bangun Ketahanan Farmasi Nasional - NTVNews.id",
+      "source": "",
+      "importance": 55,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWF2NTIzUHFEZ3gxdXhSZV9tbmpMOTNMLWFxeG5iWXhzSHVKYXRMTG96emY2QTRWQzBCRDJvRkRzajJFeE1JVXJwTWNGMURGV2YwMWlZYU9BQnRVLVQxQ1V4NE5RUzRSZDh6TlNsWn",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWF2NTIzUHFEZ3gxdXhSZV9tbmpMOTNMLWFxeG5iWXhzSHVKYXRMTG96emY2QTRWQzBCRDJvRkRzajJFeE1JVXJwTWNGMURGV2YwMWlZYU9BQnRVLVQxQ1V4NE5RUzRSZDh6TlNsWnFkbHhZQloxaUdfbEVRbUZ2RTZZLWozZ3IyMG5jU1RjS0I3WHhVRjJ4ejFwZlJTbWdiY2FRQzVtclFZMUxMbVJmTlJMRUQ5Tkk5OGdGQl9xR3M5SmduV1lvdjFxSnhHVnN3VW42MEt1ZjRyUQ?oc=5"
+    },
+    {
+      "title": "Marco normativo sanitario: Impulsan un proyecto de ley para regular la actividad e industria farmacéutica en Neuquén - Neuquén News",
+      "source": "",
+      "importance": 53,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWtpOEgzMzRPZnI3SDd0Q25SNmIyWTZnOHFrQV9lMjFBdXZJR29aYWdqczZiYkhuLUlMdXpuaEw2QmtpZWZvaTdlLS1RZGIwUFRCMmlDWmFpdDBTaHdnZlZvRi1VcWxxbWFjb1ljZn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWtpOEgzMzRPZnI3SDd0Q25SNmIyWTZnOHFrQV9lMjFBdXZJR29aYWdqczZiYkhuLUlMdXpuaEw2QmtpZWZvaTdlLS1RZGIwUFRCMmlDWmFpdDBTaHdnZlZvRi1VcWxxbWFjb1ljZnJyX0YwdGc3MENpejYyRktjbTFpN1JYR2szcHpDaURkUGZvaHBmbUxQb0IyYW9vSDRuWjlaUXU0emlYOHprc3VrdUhxZVpUb2tVTzdOelE2MjU?oc=5"
+    },
+    {
+      "title": "科兴制药长效升白针GB-K02上市申请获受理 - 医药网",
+      "source": "",
+      "importance": 53,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5icW1xUmI3Wi0zbGdoOWk1SHY1WDZETGpIU0tzOEJ4ajVoR2VQbVB4R2JiUnNlS0hSZlNVNkFKYmt4UDNScTYyajJRSkVDUVJObGFVbjBxWER3OTZ3ajduSEhGOFJPZw?oc=5\" targe",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5icW1xUmI3Wi0zbGdoOWk1SHY1WDZETGpIU0tzOEJ4ajVoR2VQbVB4R2JiUnNlS0hSZlNVNkFKYmt4UDNScTYyajJRSkVDUVJObGFVbjBxWER3OTZ3ajduSEhGOFJPZw?oc=5"
+    },
+    {
+      "title": "打進全球第三大醫藥市場！TherapiAI於BioJapan獲57家藥廠約談台灣AI平台加速製藥數位轉型| 熱門亮點| 商情 - 經濟日報",
+      "source": "",
+      "importance": 53,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gbll0cjJFS2xWU3NRRS0yNlBXbW9sb011Y3BxS0tZVTM5X3JlbjY2ZW41WkJiT2pvbjJ4Z3FjeWg3RUs1MHBGajA4OGlMSWp0UldhS1RFcUczQQ?oc=5\" target=\"_blank\">打進全球第",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gbll0cjJFS2xWU3NRRS0yNlBXbW9sb011Y3BxS0tZVTM5X3JlbjY2ZW41WkJiT2pvbjJ4Z3FjeWg3RUs1MHBGajA4OGlMSWp0UldhS1RFcUczQQ?oc=5"
+    },
+    {
+      "title": "전공의 10명 중 9명 '교육시간' 보장 못 받아 … 진료&#183;호출에 수련 뒷전",
+      "source": "뉴데일리 경제",
+      "importance": 52,
+      "snippet": "전공의 10명 중 9명은 진료업무에서 벗어나 교육에 전념할 수 있는 '보호수련시간'을 정기적으로 보장받지 못하는 것으로 나타났다. 교육시간이 공식적으로 편성돼 있더라도 실제로는 진료와 호출에 시달리는 경우가 많아 제도 개선이 ...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200305.html"
+    },
+    {
+      "title": "国家科技重大专项在沪启动 深度融合中医“扶正祛邪”理论与 AI决策系统 - 上海新闻",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVJuaTFSVHBpVlVsUnh5NTJUNkRUMGxYNUk3dGtUOHZaZHpiTnNVRXFDM3dRTXVnNzA1UkEtTEZMSkpYUDVLNnhUSng4ODNQYWE0SGtrbTVRSG5LNTN2aWRHWXRiU25VU2xtdg?oc=",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVJuaTFSVHBpVlVsUnh5NTJUNkRUMGxYNUk3dGtUOHZaZHpiTnNVRXFDM3dRTXVnNzA1UkEtTEZMSkpYUDVLNnhUSng4ODNQYWE0SGtrbTVRSG5LNTN2aWRHWXRiU25VU2xtdg?oc=5"
+    },
+    {
+      "title": "Kejari Yogyakarta Wanti-wanti Peredaran Obat Keras dan Jamu tanpa Izin - RRI.co.id",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXNvSnFDc2h5WEZjalJkMjkxSFJSY1lHVmVNYXEycHRkTXBta3NjWFhsQjhrd2VMRWJpc3JsazFzd0RXbkJVWnFNWUV1ZGp4Q0NuUzE2endwMjNHOF9LcUtoY2k3eGF0ZzhOaDlvWT",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXNvSnFDc2h5WEZjalJkMjkxSFJSY1lHVmVNYXEycHRkTXBta3NjWFhsQjhrd2VMRWJpc3JsazFzd0RXbkJVWnFNWUV1ZGp4Q0NuUzE2endwMjNHOF9LcUtoY2k3eGF0ZzhOaDlvWTBnM25wemhlNEoyOGhENVQxRTNTbU9ZdUs4ZlJTclY0Q2hhSTlJV2s0NXFfa05tbjl5bEd3UmRIcC1ORVdCRGVDTzl0MUZMQUk?oc=5"
+    },
+    {
+      "title": "Aicuris acquisition delivers new drug for Asahi Kasei - pharmaphorum",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGJoc3dBRlRqdmFEbUFMXzdoSFhNN0oweElhdEYxelY4VEsyMHdKM0x6QkZmblpycE1yRFhJVkxkMDRvVnNwR0lBVFhIYkZXSElHTjJDbHJ0U29HckViajJGSjh2LUFwUGFELURtak",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdGJoc3dBRlRqdmFEbUFMXzdoSFhNN0oweElhdEYxelY4VEsyMHdKM0x6QkZmblpycE1yRFhJVkxkMDRvVnNwR0lBVFhIYkZXSElHTjJDbHJ0U29HckViajJGSjh2LUFwUGFELURtakZ3NHZpUHJCWmtmQnhZN0xOeUxyZ0Q1QQ?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 5,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 13,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 2
+    }
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "date": "2026-10-13",
+  "total": 385,
+  "version": 1,
+  "generated_at": "2026-10-13T06:31:11.564873+09:00",
+  "korean": {
+    "total": 183,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 8,
+      "의약단체": 25,
+      "의약관련정부기관": 24,
+      "의료현장": 25,
+      "약국·약사": 1,
+      "의료정책·인력": 25,
+      "전통의학": 0,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유한다",
+        "source": "메디파나 뉴스",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:10시간+15 | 키워드+20 | 순위:156위+2",
+        "snippet": "한국제약바이오협회는 국내 기업 '품질경영성숙도(QMM)' 체계 구축과 제조혁신을 지원하기 위해 내달 4일 협회 강당에서 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 미국 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=419102"
+      },
+      {
+        "title": "식약처 &quot;국제인증표준품 관련 종합안내서 발간&quot;",
+        "source": "뉴시스",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:12시간+15 | 키워드+10 | 순위:141위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 국제인증표준품 분양을 개시한다.식약처 소속 식품의약품안전평가원은 국제인증표준품(CRM) 및 NDMA 등 니트로사민류 표준품을 포함한 '2026 식품의약품안전처 표준품 종합안내서 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.newsis.com/view/NISX20261012_0003821551"
+      },
+      {
+        "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:5시간+20 | 키워드+20 | 순위:151위+2",
+        "snippet": "[의학신문&#183;일간보사=김정일 기자] 한국제약바이오협회 (회장 노연홍)기 오는 11월 4일 협회 4층 강당에서 ‘제3회 KPBMA 품질경영 아카데미’를 개최하고 국내 기업의 ‘품질경영성숙도 (Quality Management ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013709"
+      },
+      {
+        "title": "'보호수련시간'을 아시나요?…전공의 10명 중 7명 &quot;들어본 적 없어&quot;",
+        "source": "의협신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의협신문+10 | 최신:5시간+20 | 키워드+20 | 순위:146위+2",
+        "snippet": "전공의들의 교육시간을 실질적으로 보호하는 제도적 장치가 제대로 작동하지 않는 것으로 드러났다. 전공의들 10명 중 1명만 정기적으로 '보호수련시간'을 경험한다고 응답했다. 대한전공의협의회는 12일 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166712"
+      },
+      {
+        "title": "전공의 10명 중 9명 '교육시간' 보장 못 받아 … 진료&#183;호출에 수련 뒷전",
+        "source": "뉴데일리 경제",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴데일리 경제+10 | 최신:6시간+20 | 키워드+20 | 순위:149위+2",
+        "snippet": "전공의 10명 중 9명은 진료업무에서 벗어나 교육에 전념할 수 있는 '보호수련시간'을 정기적으로 보장받지 못하는 것으로 나타났다. 교육시간이 공식적으로 편성돼 있더라도 실제로는 진료와 호출에 시달리는 경우가 많아 제도 개선이 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200305.html"
+      },
+      {
+        "title": "제약바이오협회, 11월4일 '글로벌 QMM 동향 공유 아카데미' 개최",
+        "source": "뉴데일리 경제",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴데일리 경제+10 | 최신:10시간+15 | 키워드+20 | 순위:153위+2",
+        "snippet": "한국제약바이오협회가 글로벌 품질경영성숙도 동향과 현장 적용사례를 공유하는 교육을 연다.한국제약바이오협회는 11월4일 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 국내 제약바이오기업의 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200131.html"
+      },
+      {
+        "title": "전공의 90%, 정기적 ‘보호수련시간’ 미경험",
+        "source": "데일리메디",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리메디+10 | 최신:9시간+15 | 키워드+20 | 순위:147위+2",
+        "snippet": "﻿﻿﻿전공의 90%가 ‘보호수련시간’을 정기적으로 경험하지 못한 것으로 나타났다. 공식 교육시간 중 진료업무화 호출로부터 실제 보호된 시간이 없는 경우는 73%였다. 보호수련시간은 전공의가 수련목표와 연계된 교육활동에 참여할 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941340"
+      },
+      {
+        "title": "전공의 10명 중 9명 “정기적인 보호수련시간 없어”…대체인력 확보 시급",
+        "source": "라포르시안",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:라포르시안+10 | 최신:9시간+15 | 키워드+20 | 순위:148위+2",
+        "snippet": "[라포르시안] 전공의 10명 중 9명은 진료업무와 호출에서 벗어나 교육에 집중할 수 있는 '보호수련시간'을 정기적으로 보장받지 못하는 것으로 나타났다. 교육시간이 공식적으로 편성돼 있더라도 실제로는 진료업무를 병행하는 경우가 많아 대체인력 확보와 제도적 보장이 필요하다는 지적이다.",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.rapportian.com/news/articleView.html?idxno=241152"
+      },
+      {
+        "title": "다함체인, 첫 개국 세미나 성료…데이터 기반 성공 전략 소개",
+        "source": "메디컬투데이 on MSN",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디컬투데이 on MSN+10 | 최신:12시간+15 | 키워드+5 | 순위:6위+15",
+        "snippet": "[mdtoday = 최민석 기자] 약국 체인 다함약국체인(이하 다함체인)이 개국을 준비하는 약사들을 대상으로 개최한 제1회 개국세미나 ‘실패 없는 개국 로드맵’을 성황리에 마쳤다고 12일 밝혔다.이번 세미나는 ‘내 인생 첫 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%8B%A4%ED%95%A8%EC%B2%B4%EC%9D%B8-%EC%B2%AB-%EA%B0%9C%EA%B5%AD-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%84%B1%EB%A3%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98-%EC%84%B1%EA%B3%B5-%EC%A0%84%EB%9E%B5-%EC%86%8C%EA%B0%9C/ar-AA2e41ev?ocid=BingNewsVerp"
+      },
+      {
+        "title": "\"신약개발도 AI 시대…국내외 임상시험 판이 바뀌고 있다\" - www.citytimes.co.kr",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 10:09:44 GMT+5 | 키워드+25 | 순위:220위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5RY3I2OFRCNUxxaVREQ3dNUTVCUmowWU1YX0VpODBtTi1wLS1Md3k4eHdicE02aGdELVpZRldtN2F0cW5pdERvZnhIWndBU0VEd3RSejliTlA0eUg2bHFLRlJBR2h5QV9paG5qblYxd3",
+        "published_time": "Mon, 12 Oct 2026 10:09:44 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 10:09:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RY3I2OFRCNUxxaVREQ3dNUTVCUmowWU1YX0VpODBtTi1wLS1Md3k4eHdicE02aGdELVpZRldtN2F0cW5pdERvZnhIWndBU0VEd3RSejliTlA0eUg2bHFLRlJBR2h5QV9paG5qblYxd3ItZw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        31
+      ],
+      [
+        "비만",
+        19
+      ],
+      [
+        "FDA",
+        16
+      ],
+      [
+        "허가",
+        13
+      ],
+      [
+        "임상",
+        10
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "식약처",
+        6
+      ],
+      [
+        "위고비",
+        5
+      ],
+      [
+        "백신",
+        5
+      ],
+      [
+        "GLP-1",
+        4
+      ],
+      [
+        "수출",
+        3
+      ],
+      [
+        "오남용",
+        2
+      ],
+      [
+        "실사",
+        2
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "공급망",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "뉴데일리 경제",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "매일신문 on MSN",
+        1
+      ],
+      [
+        "보건신문",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "직썰",
+        1
+      ],
+      [
+        "theggnews",
+        1
+      ],
+      [
+        "뉴시스",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "팜뉴스",
+        1
+      ],
+      [
+        "의협신문",
+        1
+      ],
+      [
+        "데일리메디",
+        1
+      ],
+      [
+        "라포르시안",
+        1
+      ],
+      [
+        "청년의사",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 129,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 4
+    },
+    "top_articles": [
+      {
+        "title": "India seeks Ayush chair at South African university to boost traditional medicine ties - ET Government",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 08:53:10 GMT+5 | 키워드+30 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmFvV1NoU2R0YTJpa3pDT0Q1TVE0eEhKSlpUU2Z3NmFMMVdHZlBVblpXb3lNel91dk14RmNHQTdpXzQyLUtiTVFEUWxjY2l3WFptWGNXSDZna0ZqS0ZSSncxYnctOGR0RkdhQ1FHNV",
+        "published_time": "Mon, 12 Oct 2026 08:53:10 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 08:53:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmFvV1NoU2R0YTJpa3pDT0Q1TVE0eEhKSlpUU2Z3NmFMMVdHZlBVblpXb3lNel91dk14RmNHQTdpXzQyLUtiTVFEUWxjY2l3WFptWGNXSDZna0ZqS0ZSSncxYnctOGR0RkdhQ1FHNVN1U0hmaHljaFU2S1cwTzVZMjhHREZ4azRQRTdPeFdGZWtvYm1tV1plcHNBbmJEb25zM2ZUdDFTTjc0LWVQc1JzaXlFVTNaY3JIMWU1YUdSa1daU09fYU10VDRtR1ljbmpkeGZhNHlfY2xoQlVKS09hVlZaU2JNVDJQcE5XNkUyOF9Gdw?oc=5"
+      },
+      {
+        "title": "India Plans Ayush Chair At South African University To Expand Traditional Medicine Education - BW Education",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 12:56:19 GMT+5 | 키워드+30 | 순위:15위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRlNKY2VFR0x2NFBIa2VZSGdJbUpHV2tjRmNPVU0tTW5tQ3FzUXdwa1p2eGpLU2ROdHYwbXA0N25ZaHF3TXFhRFM2U1hzN3NmZWRqc1l2bXJFU1FPU0FMNlE5VU9lUlJKT21xOGZldU",
+        "published_time": "Mon, 12 Oct 2026 12:56:19 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 12:56:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRlNKY2VFR0x2NFBIa2VZSGdJbUpHV2tjRmNPVU0tTW5tQ3FzUXdwa1p2eGpLU2ROdHYwbXA0N25ZaHF3TXFhRFM2U1hzN3NmZWRqc1l2bXJFU1FPU0FMNlE5VU9lUlJKT21xOGZldUh4TW5GYURBdHpQZ05mdlIxM1V5MF83QzQyVl9QcWJkZ2EzVFRIVC01SXo4b0Zrd09VUTZEeVhla1lYVkctZDItRjBOVjhEajlxZE9DSWd4Z2tNVlVNeUs1T3lJV01RSHZU?oc=5"
+      },
+      {
+        "title": "new fda approved weight loss drugs 2022 - www.polskieradio.pl",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 11:19:29 GMT+5 | 키워드+30 | 순위:226위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMl9EVnVSRzNjSWQyXzd3aE5ndzFuVFlHVXM4TUlFT3JUMm8wdmxodF9faUh0czBycmdSbFFZdHl4T3VWU1VGb1R6bDRtUWFPUGZWX2p6cGtZVVdEWEdKUkY5QU9kenhPWFQwRnduN1",
+        "published_time": "Mon, 12 Oct 2026 11:19:29 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 11:19:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMl9EVnVSRzNjSWQyXzd3aE5ndzFuVFlHVXM4TUlFT3JUMm8wdmxodF9faUh0czBycmdSbFFZdHl4T3VWU1VGb1R6bDRtUWFPUGZWX2p6cGtZVVdEWEdKUkY5QU9kenhPWFQwRnduN1hKZGx2RW5FSTNlTy16bmc2czhuS29NcTd3Qkl3VndEa2xQZw?oc=5"
+      },
+      {
+        "title": "a pharmaceutical company has developed a new weight loss drug - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 12:32:53 GMT+5 | 키워드+30 | 순위:227위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlB6VTJnSjQ0U2ZsX3VsdjBacm5vUDZmTFFGX0Y2UkhVbWFGQnZxQkNHUUZ4UVdtY1Z3ellGZnhXdzRDeVJFWUdmV21ONWNwUkF4TE9CMWFxWGNhSEcybzlXbmFBSExjYlFQLTJVU0",
+        "published_time": "Mon, 12 Oct 2026 12:32:53 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 12:32:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlB6VTJnSjQ0U2ZsX3VsdjBacm5vUDZmTFFGX0Y2UkhVbWFGQnZxQkNHUUZ4UVdtY1Z3ellGZnhXdzRDeVJFWUdmV21ONWNwUkF4TE9CMWFxWGNhSEcybzlXbmFBSExjYlFQLTJVU0tnbVBYTENfN2d5LWY4MjduR184NFRrWURQVXlrQWtRWEZiUFItaW9yZzVKXzJKVzA3OW1PRA?oc=5"
+      },
+      {
+        "title": "whats the new drug for weight loss - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 07:46:48 GMT+5 | 키워드+30 | 순위:228위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUJXWkJidWRPVG9EQ052R0hDLUlQUENKY2NTWnlMcHZTOW1wQXNDdVNhakNqa01lWnRXcVo2SFNSTjRFdG1vZXJyc3NRTjhWM2ZuTmd2RU5sNXZtdUJLc3VnX3ExM2hwdThNNlpzQW",
+        "published_time": "Mon, 12 Oct 2026 07:46:48 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 07:46:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdUJXWkJidWRPVG9EQ052R0hDLUlQUENKY2NTWnlMcHZTOW1wQXNDdVNhakNqa01lWnRXcVo2SFNSTjRFdG1vZXJyc3NRTjhWM2ZuTmd2RU5sNXZtdUJLc3VnX3ExM2hwdThNNlpzQWFCM05ySEtabWUyRVhwelNMRUF3?oc=5"
+      },
+      {
+        "title": "weight loss new drug - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 20:24:06 GMT+5 | 키워드+30 | 순위:229위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE56S3BmMDU5YXNjaENydmFUdmFtMlFqZnNmSklEcklUekNkRlFJZko1Q2VlLUgtOUZVb0p2YV9NdG5Vc2E3bElQVnotMzlzNTU1aXRpSVFVVDFWajcxNUxHVGRxV0JFMmZkLS11emhfbw",
+        "published_time": "Mon, 12 Oct 2026 20:24:06 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 20:24:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56S3BmMDU5YXNjaENydmFUdmFtMlFqZnNmSklEcklUekNkRlFJZko1Q2VlLUgtOUZVb0p2YV9NdG5Vc2E3bElQVnotMzlzNTU1aXRpSVFVVDFWajcxNUxHVGRxV0JFMmZkLS11emhfbw?oc=5"
+      },
+      {
+        "title": "what is the new weight loss drug approved by fda - www.polskieradio.pl",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 13:10:03 GMT+5 | 키워드+30 | 순위:230위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhzNUVLSjBETzd4TnBzMnd1dmFXNTZnc3pFeVRCZ3l5VkRhVTY1ZldkeFBfTVhmblI5eFAtVDlpcXo0NTEta2lENFE3QVpVSS0ybjdLcC1tYTVvcEJjX0EyU3loeC1SS2hYbFQ1RT",
+        "published_time": "Mon, 12 Oct 2026 13:10:03 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 13:10:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmhzNUVLSjBETzd4TnBzMnd1dmFXNTZnc3pFeVRCZ3l5VkRhVTY1ZldkeFBfTVhmblI5eFAtVDlpcXo0NTEta2lENFE3QVpVSS0ybjdLcC1tYTVvcEJjX0EyU3loeC1SS2hYbFQ1RTEyZlk0ZklycU00cGZ5ZXZoclJEVVdrSS1ENGUwNDNleGU4R1IyU3hfc1kwWQ?oc=5"
+      },
+      {
+        "title": "eli lilly reports significant weight loss results from new drug - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 16:44:01 GMT+5 | 키워드+30 | 순위:231위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXM3RmhWVVFQM0o2SDZNZ1d6SnVwMWZuS1RVTV8tTDVyTDlHYVQwTkxJQTlCYmIxZlppYTRjWWpKamxQbHNLdWFDMGQzU0h0RGJub2w2QmQybG1XQ2RuWVNIMHZ2S2tDdjhnU0U4ck",
+        "published_time": "Mon, 12 Oct 2026 16:44:01 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 16:44:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXM3RmhWVVFQM0o2SDZNZ1d6SnVwMWZuS1RVTV8tTDVyTDlHYVQwTkxJQTlCYmIxZlppYTRjWWpKamxQbHNLdWFDMGQzU0h0RGJub2w2QmQybG1XQ2RuWVNIMHZ2S2tDdjhnU0U4ckZfSE41WWVJbVp5a0c3a1Z2SmdVSGstM3Z4NFh4d3hzdTFyaG5zdnZGOC1mMGp6bV80Qng2UmNubkZ3THM?oc=5"
+      },
+      {
+        "title": "eli lilly reports high weight loss in new drug trial - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 13:15:41 GMT+5 | 키워드+30 | 순위:232위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHlOenpxa1g2ME9IM0RpT2wwMGs1SFFfT3dDWXVGVG5lVGNrOEROaE5STlNYdUZkZ3RrRHZKMWhMbUhDMUNEaC1VU2dOclBodVZDX29kRG5aVmVfSDRwcjNYY2VmVTA4anBHSGl4d3",
+        "published_time": "Mon, 12 Oct 2026 13:15:41 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 13:15:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNHlOenpxa1g2ME9IM0RpT2wwMGs1SFFfT3dDWXVGVG5lVGNrOEROaE5STlNYdUZkZ3RrRHZKMWhMbUhDMUNEaC1VU2dOclBodVZDX29kRG5aVmVfSDRwcjNYY2VmVTA4anBHSGl4d3FHZllTWmdfRlItRVJGYWU3UkpXWkN6N0MxdGFqNTNLeTJ5ZTdnckZTY0RuelZIaDZRUnNfUQ?oc=5"
+      },
+      {
+        "title": "does merck have a weight loss drug - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 15:35:54 GMT+5 | 키워드+30 | 순위:233위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZTTzk5LTZJNE5ZUnFNWmM4OWotWExxNXVSYm0zclJtS3VyT05HT0lfcWJ5Z1pCOXZZZktNMDZ4ZUN0NkdvWVZ6V2VNaDhSdURpUWl2bFpUYWtHMUppLTVyRm9FMy1uSGY0MEM5Yz",
+        "published_time": "Mon, 12 Oct 2026 15:35:54 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 15:35:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHZTTzk5LTZJNE5ZUnFNWmM4OWotWExxNXVSYm0zclJtS3VyT05HT0lfcWJ5Z1pCOXZZZktNMDZ4ZUN0NkdvWVZ6V2VNaDhSdURpUWl2bFpUYWtHMUppLTVyRm9FMy1uSGY0MEM5YzZCanhtR20xVXJxbnRxMG9UT25Pa1BFWUp3My1iekhn?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        22
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "obesity",
+        5
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 73,
+    "languages": {
+      "French / 프랑스어": 1,
+      "German / 독일어": 2,
+      "Spanish / 스페인어": 4,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 7,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 4,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 2,
+      "Indonesian / 인도네시아어": 5,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "医药级硅胶市场2035年展望：药品包装需求驱动增长 - 新闻和统计 - IndexBox",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 16:56:05 GMT+5 | 키워드+25 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhpdHAwbXhwZVktSXFRVTRrdVRlTmk3Wl9jTWZKb2FadkVPY3Z1RVcyamhaYWpsN1ZPd3l6TnZNd2MyZnI2cEJNUDgySkVKRHFfNGtBUTNuM0IyRE5IVXhzVUl5ZTcxQldJcm9lYW",
+        "published_time": "Mon, 12 Oct 2026 16:56:05 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 16:56:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjhpdHAwbXhwZVktSXFRVTRrdVRlTmk3Wl9jTWZKb2FadkVPY3Z1RVcyamhaYWpsN1ZPd3l6TnZNd2MyZnI2cEJNUDgySkVKRHFfNGtBUTNuM0IyRE5IVXhzVUl5ZTcxQldJcm9lYW1jOGVWbGdmTDRVaERWZ3NfOUszN0cxcDkwQW5DdUZxRE5uNXd6MEo3NC1RY2tBeWVpWDdNS2I3NVVndVBuS0NKNVh5MmJTdjBsVG1FLW5sNmU4UkRtWkU5MGg4ZjJYemEyYVZFUWZR?oc=5"
+      },
+      {
+        "title": "94 Persen Bahan Baku Obat Masih Impor, Taruna Ikrar Ajak IAI Bangun Ketahanan Farmasi Nasional - NTVNews.id",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 08:45:00 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWF2NTIzUHFEZ3gxdXhSZV9tbmpMOTNMLWFxeG5iWXhzSHVKYXRMTG96emY2QTRWQzBCRDJvRkRzajJFeE1JVXJwTWNGMURGV2YwMWlZYU9BQnRVLVQxQ1V4NE5RUzRSZDh6TlNsWn",
+        "published_time": "Mon, 12 Oct 2026 08:45:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 08:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWF2NTIzUHFEZ3gxdXhSZV9tbmpMOTNMLWFxeG5iWXhzSHVKYXRMTG96emY2QTRWQzBCRDJvRkRzajJFeE1JVXJwTWNGMURGV2YwMWlZYU9BQnRVLVQxQ1V4NE5RUzRSZDh6TlNsWnFkbHhZQloxaUdfbEVRbUZ2RTZZLWozZ3IyMG5jU1RjS0I3WHhVRjJ4ejFwZlJTbWdiY2FRQzVtclFZMUxMbVJmTlJMRUQ5Tkk5OGdGQl9xR3M5SmduV1lvdjFxSnhHVnN3VW42MEt1ZjRyUQ?oc=5"
+      },
+      {
+        "title": "Marco normativo sanitario: Impulsan un proyecto de ley para regular la actividad e industria farmacéutica en Neuquén - Neuquén News",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 12:56:00 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWtpOEgzMzRPZnI3SDd0Q25SNmIyWTZnOHFrQV9lMjFBdXZJR29aYWdqczZiYkhuLUlMdXpuaEw2QmtpZWZvaTdlLS1RZGIwUFRCMmlDWmFpdDBTaHdnZlZvRi1VcWxxbWFjb1ljZn",
+        "published_time": "Mon, 12 Oct 2026 12:56:00 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 12:56:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWtpOEgzMzRPZnI3SDd0Q25SNmIyWTZnOHFrQV9lMjFBdXZJR29aYWdqczZiYkhuLUlMdXpuaEw2QmtpZWZvaTdlLS1RZGIwUFRCMmlDWmFpdDBTaHdnZlZvRi1VcWxxbWFjb1ljZnJyX0YwdGc3MENpejYyRktjbTFpN1JYR2szcHpDaURkUGZvaHBmbUxQb0IyYW9vSDRuWjlaUXU0emlYOHprc3VrdUhxZVpUb2tVTzdOelE2MjU?oc=5"
+      },
+      {
+        "title": "科兴制药长效升白针GB-K02上市申请获受理 - 医药网",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 16:46:10 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5icW1xUmI3Wi0zbGdoOWk1SHY1WDZETGpIU0tzOEJ4ajVoR2VQbVB4R2JiUnNlS0hSZlNVNkFKYmt4UDNScTYyajJRSkVDUVJObGFVbjBxWER3OTZ3ajduSEhGOFJPZw?oc=5\" targe",
+        "published_time": "Mon, 12 Oct 2026 16:46:10 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 16:46:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5icW1xUmI3Wi0zbGdoOWk1SHY1WDZETGpIU0tzOEJ4ajVoR2VQbVB4R2JiUnNlS0hSZlNVNkFKYmt4UDNScTYyajJRSkVDUVJObGFVbjBxWER3OTZ3ajduSEhGOFJPZw?oc=5"
+      },
+      {
+        "title": "打進全球第三大醫藥市場！TherapiAI於BioJapan獲57家藥廠約談台灣AI平台加速製藥數位轉型| 熱門亮點| 商情 - 經濟日報",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 12 Oct 2026 08:02:50 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gbll0cjJFS2xWU3NRRS0yNlBXbW9sb011Y3BxS0tZVTM5X3JlbjY2ZW41WkJiT2pvbjJ4Z3FjeWg3RUs1MHBGajA4OGlMSWp0UldhS1RFcUczQQ?oc=5\" target=\"_blank\">打進全球第",
+        "published_time": "Mon, 12 Oct 2026 08:02:50 GMT",
+        "modified_time": "",
+        "time": "Mon, 12 Oct 2026 08:02:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gbll0cjJFS2xWU3NRRS0yNlBXbW9sb011Y3BxS0tZVTM5X3JlbjY2ZW41WkJiT2pvbjJ4Z3FjeWg3RUs1MHBGajA4OGlMSWp0UldhS1RFcUczQQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
