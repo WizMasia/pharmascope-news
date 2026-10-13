@@ -1,14 +1,120 @@
 {
   "date": "2026-10-13",
   "total_articles": 385,
-  "language_breakdown": {"korean": 183, "english": 129, "multilingual": 73},
+  "language_breakdown": {
+    "korean": 183,
+    "english": 129,
+    "multilingual": 73
+  },
   "issues": [
-    {"topic":"비만·체중감량 치료제 경쟁", "domain":"drug", "significance":"high", "article_count":29, "avg_importance":47, "key_articles":[{"title":"new fda approved weight loss drugs 2022", "importance":47, "url":"https://news.google.com/rss/articles/CBMikgFBVV95cUxOMl9EVnVSRzNjSWQyXzd3aE5ndzFuVFlHVXM4TUlFT3JUMm8wdmxodF9faUh0czBycmdSbFFZdHl4T3VWU1VGb1R6bDRtUWFPUGZWX2p6cGtZVVdEWEdKUkY5QU9kenhPWFQwRnduN1hKZGx2RW5FSTNlTy16bmc2czhuS29NcTd3Qkl3VndEa2xQZw?oc=5"}],"summary_kr":"비만·체중감량 의약품 관련 보도가 가장 큰 클러스터를 형성했다. GLP-1 계열과 신규 후보물질 경쟁의 지속 여부를 후속 확인할 필요가 있다.","summary_en":"Weight-loss drug coverage formed the largest cluster, indicating continued attention to GLP-1 and emerging therapies."},
-    {"topic":"글로벌 QMM 품질관리 동향", "domain":"regulatory", "significance":"high", "article_count":3, "avg_importance":57, "key_articles":[{"title":"제약바이오협회, 글로벌 QMM 동향·현장 사례 공유한다", "importance":61, "url":"https://www.medipana.com/news/articleView.html?idxno=419102"}],"summary_kr":"제약바이오협회가 글로벌 QMM 동향과 현장 사례를 공유한다. 품질문화와 제조현장 운영 수준을 함께 점검하는 흐름으로 해석된다.","summary_en":"Korea’s pharma association is sharing global QMM trends and field cases, highlighting quality-management maturity."},
-    {"topic":"전공의 보호수련시간 인지도·운영 공백", "domain":"policy", "significance":"medium", "article_count":3, "avg_importance":50, "key_articles":[{"title":"'보호수련시간'을 아시나요?…전공의 10명 중 7명 '들어본 적 없어'", "importance":52, "url":"https://doctorsnews.co.kr/news/articleView.html?idxno=166712"}],"summary_kr":"전공의 보호수련시간 제도 인지와 경험이 낮다는 보도가 나타났다. 수련환경 개선 정책의 현장 전달과 이행 점검이 과제다.","summary_en":"Reports indicate low awareness and experience of protected training time among residents, pointing to implementation gaps."},
-    {"topic":"인도-남아공 전통의학 교육 협력", "domain":"traditional_medicine", "significance":"medium", "article_count":2, "avg_importance":55, "key_articles":[{"title":"India seeks Ayush chair at South African university to boost traditional medicine ties", "importance":55, "url":"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTmFvV1NoU2R0YTJpa3pDT0Q1TVE0eEhKSlpUU2Z3NmFMMVdHZlBVblpXb3lNel91dk14RmNHQTdpXzQyLUtiTVFEUWxjY2l3WFptWGNXSDZna0ZqS0ZSSncxYnctOGR0RkdhQ1FHNVN1U0hmaHljaFU2S1cwTzVZMjhHREZ4azRQRTdPeFdGZWtvYm1tV1plcHNBbmJEb25zM2ZUdDFTTjc0LWVQc1JzaXlFVTNaY3JIMWU1YUdSa1daU09fYU10VDRtR1ljbmpkeGZhNHlfY2xoQlVKS09hVlZaU2JNVDJQcE5XNkUyOF9Gdw?oc=5"}],"summary_kr":"인도의 Ayush 전통의학 교육 거점을 남아공 대학에 설치하려는 움직임이 포착됐다. 전통의학의 국제 교육·제도화 사례다.","summary_en":"India is pursuing an Ayush chair at a South African university, expanding institutional cooperation in traditional medicine."},
-    {"topic":"의약품 부족과 지역 약국 대응", "domain":"global", "significance":"medium", "article_count":2, "avg_importance":50, "key_articles":[{"title":"Recurren a farmacias comunitarias y gratuitas ante escasez de medicinas", "importance":50, "url":"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUlNqQTVRZ3BsNWFmUzMtM2FxRm5PMlZBdnBsa3FseXVPajlPcWFaMHptaHctaWYxQWRKd3RJc3l1TTdrVlFfaEF3RVJNLW5reUx5anY4WWdtVFQ1aUZzLUV0Q0JDc2lNYzJJQy1pV1pCQkxOd1BNNkloM0JKZTVqTk56T1FDWUlhUXd2MWctSlVpdUM2bGtzSnBXWHFOeTlMenFEY1lTRVI4bkVsQ2VNVWc3RmpIQQ?oc=5"}],"summary_kr":"중남미 의약품 부족과 지역·무료 약국 의존 사례가 보도됐다. 공급망 취약성이 환자 접근성과 지역 약국 기능에 직접 영향을 준다.","summary_en":"Medicine shortages are increasing reliance on community and free pharmacies, underscoring supply-access vulnerabilities."}
+    {
+      "topic": "FDA QMM 대응과 국내 제약바이오 품질경영 고도화",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 7,
+      "avg_importance": 44,
+      "key_articles": [
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유한다",
+          "importance": 61,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=419102"
+        },
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유",
+          "importance": 52,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013709"
+        },
+        {
+          "title": "제약바이오협회, 11월4일 '글로벌 QMM 동향 공유 아카데미' 개최",
+          "importance": 47,
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200131.html"
+        }
+      ],
+      "summary_kr": "한국제약바이오협회가 FDA 품질경영성숙도(QMM) 동향과 현장 사례를 공유하는 교육을 추진하면서, 국내 기업의 제조·품질시스템을 규정 준수 중심에서 성숙도 중심으로 고도화해야 한다는 흐름이 부각됐다.",
+      "summary_en": "Korean pharma companies are preparing for the FDA Quality Management Maturity direction, with industry education focused on manufacturing innovation and practical QMM response."
+    },
+    {
+      "topic": "전공의 보호수련시간의 실효성 부족",
+      "domain": "clinical",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 49,
+      "key_articles": [
+        {
+          "title": "'보호수련시간'을 아시나요?…전공의 10명 중 7명 &quot;들어본 적 없어&quot;",
+          "importance": 52,
+          "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166712"
+        },
+        {
+          "title": "전공의 90%, 정기적 ‘보호수련시간’ 미경험",
+          "importance": 47,
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941340"
+        },
+        {
+          "title": "전공의 10명 중 9명 “정기적인 보호수련시간 없어”…대체인력 확보 시급",
+          "importance": 47,
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241152"
+        }
+      ],
+      "summary_kr": "전공의 10명 중 9명 안팎이 정기적인 보호수련시간을 경험하지 못한다는 보도가 이어졌다. 공식 교육시간 편성만으로는 부족하며 진료 대체인력과 실제 분리 보장이 핵심 과제로 제시된다.",
+      "summary_en": "Reports indicate that most residents do not receive regular protected training time, highlighting the need for staffing and enforceable separation from clinical duties."
+    },
+    {
+      "topic": "위고비 건강보험 급여 등재 신청과 GLP-1 접근성",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 34,
+      "key_articles": [
+        {
+          "title": "비만치료제 '위고비' 건강보험 급여 등재 신청",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013710"
+        },
+        {
+          "title": "위고비, 건강보험 급여 신청…GLP-1 비만약 첫 사례",
+          "importance": 32,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%9C%84%EA%B3%A0%EB%B9%84-%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98-%EA%B8%89%EC%97%AC-%EC%8B%A0%EC%B2%AD-glp-1-%EB%B9%84%EB%A7%8C%EC%95%BD-%EC%B2%AB-%EC%82%AC%EB%A1%80/ar-AA2e2OSQ?ocid=BingNewsVerp"
+        },
+        {
+          "title": "한국아스텔라스, '파드셉&#183;빌로이' 동시 급여 등재… 암 치료 패러다임 재편",
+          "importance": 27,
+          "url": "http://bokuennews.com/news/article.html?no=285321"
+        }
+      ],
+      "summary_kr": "한국노보노디스크가 위고비의 건강보험 급여 결정신청서를 제출했다. 고도비만 및 동반질환 환자의 접근성 확대 가능성과 함께 재정 영향·급여 기준 논의가 이어질 전망이다.",
+      "summary_en": "Novo Nordisk Korea has applied for reimbursement listing of Wegovy, opening debate over access for severe obesity and comorbid patients as well as reimbursement criteria and budget impact."
+    }
   ],
-  "cross_language_issues":[{"keyword":"백신","kr_count":5,"en_count":1,"significance":"medium"},{"keyword":"허가","kr_count":13,"en_count":4,"significance":"high"},{"keyword":"임상","kr_count":10,"en_count":2,"significance":"medium"}],
-  "notable_absences": [], "trend_shift": {"from_yesterday": [], "changes": []}, "connections": [], "generated_at": "2026-10-13T07:31:00+09:00"
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 5,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 13,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 2
+    }
+  ],
+  "notable_absences": [
+    "전통의학 관련 기사는 한국어 수집에서 0건이었다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": [
+      "전일 분석 데이터가 없어 비교 불가"
+    ]
+  },
+  "connections": [
+    "FDA QMM 대응과 식약처 표준품 분양은 제조·품질관리 역량 강화라는 공통 축을 가진다.",
+    "위고비 급여 신청은 GLP-1 비만치료제의 규제·급여·안전사용 논의를 연결한다."
+  ],
+  "generated_at": "2026-10-14T07:31:00+09:00"
 }
