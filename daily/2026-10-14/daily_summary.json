@@ -1,0 +1,552 @@
+{
+  "date": "2026-10-14",
+  "total": 440,
+  "version": 1,
+  "generated_at": "2026-10-14T06:31:07.829661+09:00",
+  "korean": {
+    "total": 193,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 17,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 16,
+      "약국·약사": 7,
+      "의료정책·인력": 25,
+      "전통의학": 3,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "원료약 국산화하라면서… 약가개편에 설 자리 좁아진 원료기업",
+        "source": "히트뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:5시간+20 | 키워드+10 | 순위:98위+2",
+        "snippet": "국산 원료의약품 살리기 정책의 역설 약가개편으로 국산 원료의약품 사용 확대와 산업 활성화를 기대했지만 현장의 체감 효과는 매우 제한적이다. 국내 원료의약품산업 생태계를 살릴 방법을 모색한다.①정책 목표를 달성하기 힘든 정책 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79790"
+      },
+      {
+        "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유한다",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:145위+2",
+        "snippet": "한국제약바이오협회는 국내 기업 '품질경영성숙도(QMM)' 체계 구축과 제조혁신을 지원하기 위해 내달 4일 협회 강당에서 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 미국 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=419102"
+      },
+      {
+        "title": "노연홍 제약바이오협회장 “AI&#183;데이터 기반 글로벌 임상 혁신 허브 구축해야”",
+        "source": "더바이오",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:더바이오+10 | 최신:5시간+20 | 키워드+20 | 순위:173위+2",
+        "snippet": "[더바이오 지용준 기자] 국내 제약바이오 산업이 글로벌 경쟁력을 높이기 위해 인공지능(AI)과 데이터 기반의 신약 개발 생태계를 구축해야 한다는 제언이 나왔다. 세계적인 임상시험 수행 역량과 신약 후보물질 개발 능력을 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.thebionews.net/news/articleView.html?idxno=28969"
+      },
+      {
+        "title": "10년만에 IPF 급여 옵션 탄생하나...'오페브' 성패는?",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+5 | 순위:101위+2",
+        "snippet": "10년 동안 비급여로 머물렀든 오페브의 특발성폐섬유증 보험급여 확대가 이뤄질지 관심이 모아진다. 현재 한국베링거인겔하임은 국민건강보험공단과 오페브의 특발성폐섬유증(IPF, Idiopathic Pulmonary Fibrosis ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/343361"
+      },
+      {
+        "title": "'약가 우대&#183;CSO&#183;공동생동' 복지부, 제약산업 제도 개선 검토",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+10 | 순위:163위+2",
+        "snippet": "이와 함께 합성의약품의 국가전략기술 지정, 혁신형&#183;준혁신형 제약기업 지원체계, 의약품 판촉영업자 (CSO) 관리 강화, 공동생물학적동등성시험 (공동생동) 제도 개선 등 제약산업 전반에 걸친 정책 방향에 대해서도 입장을 밝혔다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546270"
+      },
+      {
+        "title": "자생한방병원, ‘강남구 진로박람회’서 직업체험 부스 운영",
+        "source": "스포츠동아",
+        "importance": 48,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:스포츠동아+28 | 최신:13시간+10 | 키워드+5 | 순위:18위+5",
+        "snippet": "[스포츠동아 정정욱 기자] 자생의료재단이 최근 서울 강남 소재 세텍에서 열린 ‘2026 강남구 진로박람회’에서 청소년을 위한 한의학 진로&#183;직업체험 프로그램(사진)을 운영했다.‘K-메디컬 체험관; 한방 MEDI-Lab’ ...",
+        "published_time": "13시간",
+        "modified_time": "",
+        "time": "13시간",
+        "url": "https://sports.donga.com/life/article/all/20261013/134837018/1"
+      },
+      {
+        "title": "도미나크림 &quot;화장품 아닌 치료제… 정확한 복약지도 필수&quot;",
+        "source": "약업닷컴",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+10 | 순위:41위+2",
+        "snippet": "11일 양재 aT센터에서 약사의 미래를 준비하는 모임(이하 약준모)과 약업신문이 공동 개최한 '약준모 학술제’에서 부산 오거리약국 황은경 약사(지역의약품안전센터 부산센터장)는 히드로퀴논의 올바른 이해와 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=333550"
+      },
+      {
+        "title": "'약가 우대&#183;CSO&#183;공동생동' 복지부, 제약산업 제도 개선 검토",
+        "source": "약사공론",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+5 | 순위:150위+2",
+        "snippet": "이와 함께 합성의약품의 국가전략기술 지정, 혁신형&#183;준혁신형 제약기업 지원체계, 의약품 판촉영업자 (CSO) 관리 강화, 공동생물학적동등성시험 (공동생동) 제도 개선 등 제약산업 전반에 걸친 정책 방향에 대해서도 입장을 밝혔다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546270"
+      },
+      {
+        "title": "&quot;금연약국 도입하자&quot;…복지부, 약국 금연지원 참여 검토",
+        "source": "약사공론",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+5 | 순위:144위+2",
+        "snippet": "보건복지부의 '2026년도 국정감사 2일차 질의답변서'에 따르면 국회 보건복지위원회 서영석 의원은 지난 8일 국정감사에서 국가금연지원사업의 접근성 개선과 금연약국 도입 필요성을 집중적으로 제기했다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546281"
+      },
+      {
+        "title": "복지부 약배송 '신중론' 불구 &quot;취약지역&#183;계층에 확대안 추진&quot;",
+        "source": "약사공론",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+5 | 순위:146위+2",
+        "snippet": "결국 복지부는 약배송에 대해서는 '안전관리와 제한적 시행을 우선한다'는 신중론을 유지하면서도 의료취약지역에 대한 확대 가능성은 열어뒀다. 여기에 비대면 초진 처방에서는 7일 원칙을 제시하면서도 치료 지속 필요성을 이유로 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546258"
+      }
+    ],
+    "top_keywords": [
+      [
+        "식약처",
+        25
+      ],
+      [
+        "신약",
+        24
+      ],
+      [
+        "임상",
+        22
+      ],
+      [
+        "비만",
+        14
+      ],
+      [
+        "약가",
+        13
+      ],
+      [
+        "급여",
+        10
+      ],
+      [
+        "위고비",
+        9
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "FDA",
+        7
+      ],
+      [
+        "백신",
+        6
+      ],
+      [
+        "심사",
+        5
+      ],
+      [
+        "한약",
+        5
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "오남용",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        7
+      ],
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "더바이오",
+        3
+      ],
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "paxmedicalnews",
+        2
+      ],
+      [
+        "뉴데일리 경제",
+        2
+      ],
+      [
+        "의협신문",
+        2
+      ],
+      [
+        "kndaily.co.kr",
+        1
+      ],
+      [
+        "전자신문 on MSN",
+        1
+      ],
+      [
+        "메드월드뉴스",
+        1
+      ],
+      [
+        "히트뉴스",
+        1
+      ],
+      [
+        "데일리팜",
+        1
+      ],
+      [
+        "뉴스웍스",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 129,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 4
+    },
+    "top_articles": [
+      {
+        "title": "Although overseas patients who want to prescribe K oriental medicine continue to request it, the rea.. - 매일경제",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 08:30:18 GMT+5 | 키워드+30 | 순위:13위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LOGhDa3M3UU82NVppd3ZISzJROEN5bTkxeW9NQUd5NkowVkdVa2ExWU1ZSzNhUFlZVnYwTzgzV2NMZDdOOGZNSVFjaThCYzdXWEE?oc=5\" target=\"_blank\">Although oversea",
+        "published_time": "Tue, 13 Oct 2026 08:30:18 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 08:30:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LOGhDa3M3UU82NVppd3ZISzJROEN5bTkxeW9NQUd5NkowVkdVa2ExWU1ZSzNhUFlZVnYwTzgzV2NMZDdOOGZNSVFjaThCYzdXWEE?oc=5"
+      },
+      {
+        "title": "Ayush Ministry releases treatment guidelines for skin disorders across four traditional systems - The Statesman",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 13:56:12 GMT+5 | 키워드+25 | 순위:15위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLS0zTlpxV2x2emN6N19UeW42Mk4wYVdLak1NN1d3WVVYUXlnNFhXQ3ctdWEzWExJTjROeWg3QUF4YXlBTG54cHljbm0wSDc5bnRBaFdFUWYzakphcDVyYlM2dXVyTEJTU1lfYmNMcl",
+        "published_time": "Tue, 13 Oct 2026 13:56:12 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 13:56:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLS0zTlpxV2x2emN6N19UeW42Mk4wYVdLak1NN1d3WVVYUXlnNFhXQ3ctdWEzWExJTjROeWg3QUF4YXlBTG54cHljbm0wSDc5bnRBaFdFUWYzakphcDVyYlM2dXVyTEJTU1lfYmNMclM5YzRDTXNOR1FJYmM3Q0RpZnhBR2NWQ1BWZUVIbkJJUlFzWE1DS1k4bFNia2FoSE5KZG1icXBEdVdGUk1oeEtjWW0taVBEWFVQNTJKeFhXWkVpUldWZjlOcVpUNkRNbEZDTF9Sc0t2MmtsQzlzVW4wT09Zcm3SAeQBQVVfeXFMTS0tM05acVdsdnpjejdfVHluNjJOMGFXS2pNTTdXd1lVWFF5ZzRYV0N3LXVhM1hMSU40TnloN0FBeGF5QUxueHB5Y25tMEg3OW50QWhXRVFmM2pKYXA1cmJTNnV1ckxCU1NZX2JjTHJTOWM0Q01zTkdRSWJjN0NEaWZ4QUdjVkNQVmVFSG5CSVJRc1hNQ0tZOGxTYmthaEhOSmRtYnFwRHVXRlJNaHhLY1ltLWlQRFhVUDUySnhYV1pFaVJXVmY5TnFaVDZETWxGQ0xfUnNLdjJrbEM5c1VuME9PWXJt?oc=5"
+      },
+      {
+        "title": "Drugmakers Sue to Block Trump Medicare Plan Tying Drug Costs to Lower Foreign Prices - Law Commentary",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 19:14:53 GMT+5 | 키워드+30 | 순위:228위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeHlfdlFZS01qNmcwRTl5X0FxRFF2N2QzbEV4bmZZVXk3dk9GRnEzRW1UZ3R0QW9TSWdyNjFjQkpTbm1HV2taREJ4WFo5bGZBUXhGT2gyRGk2aHVZWjlTMGpWa1FLOFBSTUVLWEsxUV",
+        "published_time": "Tue, 13 Oct 2026 19:14:53 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 19:14:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeHlfdlFZS01qNmcwRTl5X0FxRFF2N2QzbEV4bmZZVXk3dk9GRnEzRW1UZ3R0QW9TSWdyNjFjQkpTbm1HV2taREJ4WFo5bGZBUXhGT2gyRGk2aHVZWjlTMGpWa1FLOFBSTUVLWEsxUVBwblN5TUFFLWJzRzU4T1RpR1htZXh2aVZJbllraVVR?oc=5"
+      },
+      {
+        "title": "FDA Approves New Drug for HSV Lesions in Adults - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 16:10:27 GMT+5 | 키워드+30 | 순위:229위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFhhX296YXFVRWI0VEQxNXhnWHRDUUVxMmxONDBXamVYTldFNmpmZElvWGl6MXl0X2FtYkp1Nkw2aEJ5LW12Zi1pbFBUSy1QdExmNWo2Yk5kLWNjSThjUjRENmtWa0JvVWRMS0x5TH",
+        "published_time": "Tue, 13 Oct 2026 16:10:27 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 16:10:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFhhX296YXFVRWI0VEQxNXhnWHRDUUVxMmxONDBXamVYTldFNmpmZElvWGl6MXl0X2FtYkp1Nkw2aEJ5LW12Zi1pbFBUSy1QdExmNWo2Yk5kLWNjSThjUjRENmtWa0JvVWRMS0x5THV3cGZPTnVRMUFvZlM4ZEFlSUVxMzczQQ?oc=5"
+      },
+      {
+        "title": "Colorectal Cancer (CRC) Drugs Therapeutic Market To 2035: Biomarker-Driven Demand Fuels Growth - News and Statistics - IndexBox",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 14:06:05 GMT+5 | 키워드+30 | 순위:231위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlZQaHRLSzBtUUZtUUFYd2ljMGEyV0pad05USmYzYl9vRjZwWlIxeGpLNlo1alhoUzhZNTBNMXBrNmJGUTBycUdQRnpzQUxlclNHa1FHd2hTOWdCSFJWYnZVOEJfZEo1T1VvTWhDWW",
+        "published_time": "Tue, 13 Oct 2026 14:06:05 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 14:06:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNlZQaHRLSzBtUUZtUUFYd2ljMGEyV0pad05USmYzYl9vRjZwWlIxeGpLNlo1alhoUzhZNTBNMXBrNmJGUTBycUdQRnpzQUxlclNHa1FHd2hTOWdCSFJWYnZVOEJfZEo1T1VvTWhDWWlCYlZiMzhaSkVIa3owMjlkS0RZSTktZVJ6RjN0alNzSkZ4NmJJenZqdm5TWHptYUF6MlZZNHlQUDNRR1RaemoxVTZ5ZWtqSnM0Q25IUnFRbVVTemFvVXl4VkpfalhqLUEyU0tiU1dUTjg?oc=5"
+      },
+      {
+        "title": "Chinese Government Targets 25% of Global First-in-Class Drugs by 2030 - 조선일보",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 17:11:41 GMT+5 | 키워드+30 | 순위:232위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcE9abV95X2RoZVEyQUY4M0M1YlZkTnRFOUhubHE2eGVyMVV6VXkyOFRDeUNvUnJ1YmZiRmVlanRWUlRDVVZKOXhvRGxTTGl4OFVJV2RQU1c2ZVZ2U1VBVFo4VldZdzY0UDFTY0k4Ql",
+        "published_time": "Tue, 13 Oct 2026 17:11:41 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 17:11:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcE9abV95X2RoZVEyQUY4M0M1YlZkTnRFOUhubHE2eGVyMVV6VXkyOFRDeUNvUnJ1YmZiRmVlanRWUlRDVVZKOXhvRGxTTGl4OFVJV2RQU1c2ZVZ2U1VBVFo4VldZdzY0UDFTY0k4QlQ2V0psTnVPSGwxWTZlZXRyR2owZXd5QXFT?oc=5"
+      },
+      {
+        "title": "newest weight loss drug approved - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 16:44:04 GMT+5 | 키워드+30 | 순위:233위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlM4Vk5NZXE5RlBRZFIta2xFckhJSUNJNDlqVXV3WWljbVlwczFXMFVzODdlck1MOVBlNnBmTFM1SU03OTZGYTYzZjVwYXRlRS1rSjlkWEFtQ28zUmdDNlN5cEVJdEJDVEVCVEpCbk",
+        "published_time": "Tue, 13 Oct 2026 16:44:04 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 16:44:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlM4Vk5NZXE5RlBRZFIta2xFckhJSUNJNDlqVXV3WWljbVlwczFXMFVzODdlck1MOVBlNnBmTFM1SU03OTZGYTYzZjVwYXRlRS1rSjlkWEFtQ28zUmdDNlN5cEVJdEJDVEVCVEpCbkF6YUpxZnRicHJsTEtPVkRQNDlqUU5XclE?oc=5"
+      },
+      {
+        "title": "is pfizer working on a weight loss drug - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 08:41:55 GMT+5 | 키워드+30 | 순위:236위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1N0bmp1OVNONmFYRjh6OG5rOFBteTJZcFhvYm1LZjVUYVdqZ0ppOFlhdXJUX21DTVhvZWNIajNYNWZvdVlqcUM0WElFZTByNFJ1OThKN1l6Y1pWTFl1dGtILU1xcmZfck9yVXpqMU",
+        "published_time": "Tue, 13 Oct 2026 08:41:55 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 08:41:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1N0bmp1OVNONmFYRjh6OG5rOFBteTJZcFhvYm1LZjVUYVdqZ0ppOFlhdXJUX21DTVhvZWNIajNYNWZvdVlqcUM0WElFZTByNFJ1OThKN1l6Y1pWTFl1dGtILU1xcmZfck9yVXpqMU93Z1VDNjNSbUhLSmM0TlRqSDFrekh1ZzQ1Z004?oc=5"
+      },
+      {
+        "title": "is pfizer developing a weight loss drug - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 15:49:57 GMT+5 | 키워드+30 | 순위:237위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFBJX1I3NmFYUEhwVFRMcXV1ejZDcGlPQy10TnpMT21WUk9xWTh6UE1sQzgwTTBnUWswelZZOHJlLW5sSjRBeEdoSzlOLVk2MmVwRE11MjdCUUMwbmdqNjhsbDhSWC1hbk5DU09NTm",
+        "published_time": "Tue, 13 Oct 2026 15:49:57 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 15:49:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFBJX1I3NmFYUEhwVFRMcXV1ejZDcGlPQy10TnpMT21WUk9xWTh6UE1sQzgwTTBnUWswelZZOHJlLW5sSjRBeEdoSzlOLVk2MmVwRE11MjdCUUMwbmdqNjhsbDhSWC1hbk5DU09NTmpRTWhOMkJ4emtPcGhkYUYxUzZ1STIwbnJ2?oc=5"
+      },
+      {
+        "title": "fda approves eli lilly weight loss drug - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 10:02:27 GMT+5 | 키워드+30 | 순위:238위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDcyQmtpNWh6a1JXNHN4bW1hdjVhNFhGbFVXTC1MTEFkT3VVQXhuU0dlZ055cV9tcTlMRFlpWE16TGxsTWx0cnJnMlhoZW9PM0drLUVGVnpvd3pFRnR5ZjlBR1ZpVl9zSkptb1pHNk",
+        "published_time": "Tue, 13 Oct 2026 10:02:27 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 10:02:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDcyQmtpNWh6a1JXNHN4bW1hdjVhNFhGbFVXTC1MTEFkT3VVQXhuU0dlZ055cV9tcTlMRFlpWE16TGxsTWx0cnJnMlhoZW9PM0drLUVGVnpvd3pFRnR5ZjlBR1ZpVl9zSkptb1pHNkZmT2pmMGxqSjFUajU4R21GbTV6dVRhV3RkSmROWXRUVQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        14
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "obesity",
+        4
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 118,
+    "languages": {
+      "French / 프랑스어": 10,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 10,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 2,
+      "Turkish / 터키어": 10,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 10,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 10,
+      "Hebrew / 히브리어": 5,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "虽然希望开K中药处方的海外患者不断提出要求,但现实情况是,药材无法送到国境之外。 与全球传统医药市场快速增长相反,国内中医药产业被制度空白所束缚,无法进入国外市场。 成药形态的制剂因未能越过国家许可门.. - 매일경제",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 08:30:18 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OQ0otNy03eWl5cVJYQmdVUGpMSVlQdlAydEFqcGUwNUVrR3liaDRZbG9zUS1lS3ZlQzBFSjhNSFhyWmFna1B6U2ktN0ZRTUVOVVE?oc=5\" target=\"_blank\">虽然希望开K中药处方的海外患者不",
+        "published_time": "Tue, 13 Oct 2026 08:30:18 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 08:30:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OQ0otNy03eWl5cVJYQmdVUGpMSVlQdlAydEFqcGUwNUVrR3liaDRZbG9zUS1lS3ZlQzBFSjhNSFhyWmFna1B6U2ktN0ZRTUVOVVE?oc=5"
+      },
+      {
+        "title": "ה-FTC מבקשת להוציא צו בזיון בית-משפט נגד מרטין שקרלי בשל הפרת איסור הפעילות בתעשיית התרופות מאת Investing.com - Investing.com",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 12:59:47 GMT+5 | 키워드+25 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTGdvbnNLU3dZUVg2eEZxMnFIMlpuckxIME5NbHRkN19NdUUtaVQ2c00yMHpjM3ZwV2Z5UGxjWFBHWHhOWW5QeWN4M1l4MGpBNjlUTFpvNVRmQTRaT09mdDhlUFJyQmY0b1Vqa2haNA",
+        "published_time": "Tue, 13 Oct 2026 12:59:47 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 12:59:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTGdvbnNLU3dZUVg2eEZxMnFIMlpuckxIME5NbHRkN19NdUUtaVQ2c00yMHpjM3ZwV2Z5UGxjWFBHWHhOWW5QeWN4M1l4MGpBNjlUTFpvNVRmQTRaT09mdDhlUFJyQmY0b1Vqa2haNA?oc=5"
+      },
+      {
+        "title": "FTC minta Martin Shkreli dihukum atas pelanggaran larangan industri farmasi - Investing.com Indonesia",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 12:55:03 GMT+5 | 키워드+25 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2hNbXNKblBHYmc4Q0hVSm55cHVVaUJ5anZDWHBmYXd4RGRMVGZpUlNwc3VzUlVfc2hULUVKYWxZOXRGY05FMTAxY3BCNjVXOXVCc1Fsdm1hcEdwYmZxRW5XR0w0VHhRaWpiMS03Qk",
+        "published_time": "Tue, 13 Oct 2026 12:55:03 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 12:55:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2hNbXNKblBHYmc4Q0hVSm55cHVVaUJ5anZDWHBmYXd4RGRMVGZpUlNwc3VzUlVfc2hULUVKYWxZOXRGY05FMTAxY3BCNjVXOXVCc1Fsdm1hcEdwYmZxRW5XR0w0VHhRaWpiMS03QkJoMm1IaHVuYVlJQzNwNVd3LXV1YTU1NEVMNzZldGN5OHZLSTA3anVOT0FkSlZNTHozd0tiSjhjQWNKQVJ0Mkx0YUNvUk9rTy1SdFBiOG9USlpUOU5aYW9ZYXQwSQ?oc=5"
+      },
+      {
+        "title": "עד שנת 2030, ב-100% מהפרובינציות והערים יהיו בתי חולים לרפואה מסורתית. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 11:36:55 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObHFBQkhINnJYd09IRmd3VVdmdzZvU2Z3dHlUemxGUVpSMENWMmt0bnpnUmNVdUdsUV9XM2hBX0R1X2hxWW1VUXlkTUstTTlSdng4VWVubUZqci1PaktQNEJlaWRld2lsQ2lwZDdRd2",
+        "published_time": "Tue, 13 Oct 2026 11:36:55 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 11:36:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObHFBQkhINnJYd09IRmd3VVdmdzZvU2Z3dHlUemxGUVpSMENWMmt0bnpnUmNVdUdsUV9XM2hBX0R1X2hxWW1VUXlkTUstTTlSdng4VWVubUZqci1PaktQNEJlaWRld2lsQ2lwZDdRd2xhTDBRYlB1NnhJVVVJel94bU1uYU15bGIzLVpjbFJ3Yw?oc=5"
+      },
+      {
+        "title": "וייטנאם שואפת להכפיל את הוצאות ביטוח הבריאות על רפואה מסורתית. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 13 Oct 2026 11:27:56 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHo5T3EtVlEzRUJCRTcxMndoS19zbnRObUN6aFBYMzNZS3NYXzBadm14c2xsWVZRTVJHdC1vdlk1WWRQczhkNi1ubFk0NUo4MEU3MDkyRjN0VllYbkxObFZjX1Z0Ti1QemNwUks5Tm",
+        "published_time": "Tue, 13 Oct 2026 11:27:56 GMT",
+        "modified_time": "",
+        "time": "Tue, 13 Oct 2026 11:27:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeHo5T3EtVlEzRUJCRTcxMndoS19zbnRObUN6aFBYMzNZS3NYXzBadm14c2xsWVZRTVJHdC1vdlk1WWRQczhkNi1ubFk0NUo4MEU3MDkyRjN0VllYbkxObFZjX1Z0Ti1QemNwUks5Tm5OMGl1aHp0dUFFWXkyeWhNZXFURk9QUG1BdDBkT2dhM0Y3MDQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

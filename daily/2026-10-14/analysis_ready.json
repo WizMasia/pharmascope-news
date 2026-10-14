@@ -1,0 +1,748 @@
+{
+  "date": "2026-10-14",
+  "total_articles": 440,
+  "language_breakdown": {
+    "korean": {
+      "total": 193,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 17,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 16,
+        "약국·약사": 7,
+        "의료정책·인력": 25,
+        "전통의학": 3,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 129,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 118,
+      "languages": {
+        "French / 프랑스어": 10,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 10,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 10,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 10,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 4,
+        "Arabic / 아랍어": 10,
+        "Hebrew / 히브리어": 5,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "식약처",
+      "count": 25
+    },
+    {
+      "keyword": "신약",
+      "count": 24
+    },
+    {
+      "keyword": "임상",
+      "count": 22
+    },
+    {
+      "keyword": "비만",
+      "count": 14
+    },
+    {
+      "keyword": "약가",
+      "count": 13
+    },
+    {
+      "keyword": "급여",
+      "count": 10
+    },
+    {
+      "keyword": "위고비",
+      "count": 9
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "FDA",
+      "count": 7
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 5
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 14
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 6
+    },
+    {
+      "keyword": "obesity",
+      "count": 4
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "approval",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 7
+    },
+    {
+      "source": "약사공론",
+      "count": 6
+    },
+    {
+      "source": "더바이오",
+      "count": 3
+    },
+    {
+      "source": "약업닷컴",
+      "count": 2
+    },
+    {
+      "source": "뉴스1 on MSN",
+      "count": 2
+    },
+    {
+      "source": "paxmedicalnews",
+      "count": 2
+    },
+    {
+      "source": "뉴데일리 경제",
+      "count": 2
+    },
+    {
+      "source": "의협신문",
+      "count": 2
+    },
+    {
+      "source": "kndaily.co.kr",
+      "count": 1
+    },
+    {
+      "source": "전자신문 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "FDA QMM 대응과 국내 제약바이오 품질경영 고도화",
+    "전공의 보호수련시간의 실효성 부족",
+    "위고비 건강보험 급여 등재 신청과 GLP-1 접근성"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 12,
+      "keywords": [
+        "신약",
+        "임상",
+        "혁신",
+        "기반",
+        "신약개발"
+      ],
+      "articles": [
+        {
+          "title": "노연홍 제약바이오협회장 “AI&#183;데이터 기반 글로벌 임상 혁신 허브 구축해야”",
+          "source": "더바이오",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "[더바이오 지용준 기자] 국내 제약바이오 산업이 글로벌 경쟁력을 높이기 위해 인공지능(AI)과 데이터 기반의 신약 개발 생태계를 구축해야 한다는 제언이 나왔다. 세계적인 임상시험 수행 역량과 신약 후보물질 개발 능력을 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=28969"
+        },
+        {
+          "title": "정부, 자살예방 ‘국가자살대응실’ 설치…고위험군 치료 거점의료기관 지정",
+          "source": "한겨레",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "내년부터 24시간 전국 자살 시도&#183;사망 현황을 관리하는 국가자살대응실을 보건복지부 산하에 설치한다. 자살 고위험군을 치료하는 거점의료기관은 전국 권역별로 지정할 예정이다. 정부는 12일 서울 종로구 정부서울청사에서 한성숙 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.hani.co.kr/arti/society/rights/1282012.html"
+        },
+        {
+          "title": "임상시험 강국 한국, 신약개발 경쟁력은 과제…허가&#183;약가&#183;AI 혁신 필요성 제기",
+          "source": "전자신문 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "글로벌 임상시험 강국으로 성장한 한국이 임상 능력을 신약개발 경쟁력 향상으로 이어가기 위해 규제 대응 역량 강화와 약가 보상체계 개선, 인공지능(AI) 기반 혁신이 필요하다는 지적이 나왔다. 보건복지부와 식품의약품안전처, ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "6시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%9E%84%EC%83%81%EC%8B%9C%ED%97%98-%EA%B0%95%EA%B5%AD-%ED%95%9C%EA%B5%AD-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%80-%EA%B3%BC%EC%A0%9C-%ED%97%88%EA%B0%80-%EC%95%BD%EA%B0%80-ai-%ED%98%81%EC%8B%A0-%ED%95%84%EC%9A%94%EC%84%B1-%EC%A0%9C%EA%B8%B0/ar-AA2e7vrA?ocid=BingNewsVerp"
+        },
+        {
+          "title": "AI 기반 신약개발 전주기 혁신 본격…글로벌 임상 전략 모색",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "임상시험 분야에서는 시험기관 선정, 환자 모집, 예산&#183;계약, 임상 데이터 관리 자동화 등 AI 기반 운영 혁신 사례가 다뤄진다. 분산형 임상시험과 원격 데이터 모니터링, 디지털 트윈을 활용한 임상시험 혁신 사례도 공유된다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546081"
+        },
+        {
+          "title": "신약개발 경쟁력, '허가 기간 단축' 만으론 부족하다",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 정부가 신약 허가심사 기간을 240일로 단축하는 등 제약바이오산업 규제 혁신을 추진하고 있는 가운데, 실질적인 신약개발 경쟁력 확보를 위해서는 심사 전문성과 독립성 강화, 혁신 신약에 대한 적정한 약가 보상, AI 기반 임상시험 환경 구축이 병행돼야 한다는 제약산업계 및 전문가 제언이 나왔다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013797"
+        },
+        {
+          "title": "신약개발도 AI 시대…국내외 임상시험 판이 바뀌고 있다",
+          "source": "뉴스1 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "복지부&#183;임상시험지원재단, 국제 콘퍼런스 개최 후보물질 발굴부터 임상시험 설계&#183;환자 모집&#183;데이터 분석&#183;허가까지 신약개발 전 과정에 AI를 접목하는 전략이 본격적으로 논의된다. 보건복지부와 국가임상시험지원재단(KoNECT)은 오는 13일부터 15일까지 서울 중구 더그랜드롯데 서울에서 '2026 KoNECT-MOHW-MFDS ",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C%EB%8F%84-ai-%EC%8B%9C%EB%8C%80-%EA%B5%AD%EB%82%B4%EC%99%B8-%EC%9E%84%EC%83%81%EC%8B%9C%ED%97%98-%ED%8C%90%EC%9D%B4-%EB%B0%94%EB%80%8C%EA%B3%A0-%EC%9E%88%EB%8B%A4/ar-AA2e1GZ0?ocid=BingNewsVerp"
+        },
+        {
+          "title": "[국회입법] 이수진의원 등 11인, 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 일부개정법률안 발의",
+          "source": "로이슈",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "이수진의원 등 11인은 필수의료 강화 지원 및 지역 간 의료격차 해소를 위한 특별법 일부개정법률안을 발의했다고 12일, 밝혔다.제안이유 및 주요내용은 2027년 3월 시행 예정(지역필수의료 특별회계 관련 규정은 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202610121513006732b50722e900_12"
+        },
+        {
+          "title": "복지부, 지역&#183;필수의료 및 AI 의료 전담 인력 9명 증원",
+          "source": "nursenews",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "보건복지부가 지역&#183;필수&#183;공공의료 정책을 강화하고 인공지능 (AI) 기반 의료체계 구축을 추진하기 위해 전담 인력을 확충한다. 아울러 ‘인구전략기본법’ 시행에 맞춰 관련 조직의 사무 분장을 정비하는 등 조직 운영체계 개선에도 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.nursenews.co.kr/news/articleView.html?idxno=44993"
+        },
+        {
+          "title": "정신응급 필수의료 지정 추진...우울증 치료 보장성 강화",
+          "source": "의학신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 정부가 자살 고위험군에 대한 의료적 대응을 강화하기 위해 정신응급을 필수의료로 지정하고 관련 병상과 치료 인프라 확충에 나선다. 난치성 우울증 치료의 건강보험 보장성을 강화하는 한편, ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/curationView.html?idxno=3013715"
+        },
+        {
+          "title": "정부, AI&#183;디지털 기반 신약개발 지원 강화",
+          "source": "의학신문",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 정부가 인공지능 (AI)과 디지털 기술을 활용한 신약개발 생태계 조성을 가속화하고, 범부처 연구개발 (R&amp;D) 투자와 정책펀드, 민간투자를 연계하는 지원 전략을 추진한다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013711"
+        },
+        {
+          "title": "AI&#183;디지털로 신약 임상개발 혁신…제12회 코넥트 국제 컨퍼런스 13일 개막",
+          "source": "paxmedicalnews",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[팍스메디컬뉴스] 인공지능 (AI)과 디지털 기술을 활용한 신약 임상개발 혁신과 글로벌 규제 변화 대응 방안을 논의하는 국제 컨퍼런스가 13일 서울에서 열린다. 보건복지부와 식품의약품안전처가 주최하고 국가임상시험지원재단 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.paxmedicalnews.com/news/articleView.html?idxno=3159"
+        },
+        {
+          "title": "다함체인, 첫 개국 세미나 성료…데이터 기반 성공 전략 소개",
+          "source": "메디컬투데이 on MSN",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[mdtoday = 최민석 기자] 약국 체인 다함약국체인(이하 다함체인)이 개국을 준비하는 약사들을 대상으로 개최한 제1회 개국세미나 ‘실패 없는 개국 로드맵’을 성황리에 마쳤다고 12일 밝혔다.이번 세미나는 ‘내 인생 첫 ...",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EB%8B%A4%ED%95%A8%EC%B2%B4%EC%9D%B8-%EC%B2%AB-%EA%B0%9C%EA%B5%AD-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%84%B1%EB%A3%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B8%B0%EB%B0%98-%EC%84%B1%EA%B3%B5-%EC%A0%84%EB%9E%B5-%EC%86%8C%EA%B0%9C/ar-AA2e41ev?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 11,
+      "keywords": [
+        "qmm",
+        "제약바이오협회",
+        "아카데미",
+        "개최",
+        "글로벌",
+        "품질경영",
+        "동향",
+        "공유",
+        "fda",
+        "FDA"
+      ],
+      "articles": [
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유한다",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "한국제약바이오협회는 국내 기업 '품질경영성숙도(QMM)' 체계 구축과 제조혁신을 지원하기 위해 내달 4일 협회 강당에서 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 미국 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=419102"
+        },
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향&#183;현장 사례 공유",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김정일 기자] 한국제약바이오협회 (회장 노연홍)기 오는 11월 4일 협회 4층 강당에서 ‘제3회 KPBMA 품질경영 아카데미’를 개최하고 국내 기업의 ‘품질경영성숙도 (Quality Management ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013709"
+        },
+        {
+          "title": "제약바이오협회, 11월 4일 ‘제3회 품질경영 아카데미’ 개최",
+          "source": "paxmedicalnews",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "교육 대상은 제약바이오기업의 품질보증 (QA)&#183;품질관리 (QC) 책임자와 임원, 경력 7년 이상 실무자다. 해외 연사 강연에는 AI 동시통역이 제공된다. 수강 신청은 10월 23일 오후 5시까지 한국제약바이오협회 홈페이지 내 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "4시간",
+          "url": "https://www.paxmedicalnews.com/news/articleView.html?idxno=3178"
+        },
+        {
+          "title": "제약바이오협회, 11월4일 '글로벌 QMM 동향 공유 아카데미' 개최",
+          "source": "뉴데일리 경제",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회가 글로벌 품질경영성숙도 동향과 현장 적용사례를 공유하는 교육을 연다.한국제약바이오협회는 11월4일 '제3회 KPBMA 품질경영 아카데미'를 개최한다고 12일 밝혔다. 이번 아카데미는 국내 제약바이오기업의 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200131.html"
+        },
+        {
+          "title": "한국제약바이오협회, 제3회 품질경영 아카데미 개최",
+          "source": "MEDI:GATE NEWS",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[메디게이트뉴스 이지원 기자] 한국제약바이오협회가 11월 4일 협회 4층 강당에서 제3회 KPBMA 품질경영 아카데미를 개최한다고 12일 밝혔다. 이번 아카데미는 미 FDA가 의약품 공급망 안정화와 품질 문제 사전 예방을 위해 추진 중인 품질경영성숙도(QMM) 평가 프로그램에 대비하기 위해 마련됐다. QMM은 제조시설이 규정을 준수하는 수준을 넘어 품질시스",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.medigatenews.com/news/1772708294"
+        },
+        {
+          "title": "한국제약바이오협회, 11월 4일 품질경영 아카데미 개최…美 FDA 출신 전문가가 QMM 평가 사례 공유",
+          "source": "바이오타임즈",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[바이오타임즈] 한국제약바이오협회 (회장 노연홍)는 국내 제약바이오기업의 품질경영성숙도 (Quality Management Maturity, QMM) 체계 구축과 제조혁신을 지원하기 위해 오는 11월 4일 서울 협회 4층 강당에서 ‘제3회 KPBMA 품질경영 아카데미’를 개최한다고 12일 밝혔다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=35118"
+        },
+        {
+          "title": "제약바이오협회, 글로벌 QMM 동향 공유 ‘품질경영 아카데미’ 개최",
+          "source": "더바이오",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[더바이오 최성훈 기자] 한국제약바이오협회는 국내 기업의 ‘품질경영성숙도(Quality Management Maturity, 이하 QMM)’ 체계 구축과 제조혁신을 지원하기 위해 오는 11월 4일 협회 4층 강당에서 ‘제3회 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=28914"
+        },
+        {
+          "title": "제약바이오협회, 11월 ‘품질경영 아카데미’ 개최…FDA QMM 대응 지원",
+          "source": "직썰",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[직썰 / 안진영 기자] 한국제약바이오협회가 미국 식품의약국(FDA)의 품질경영성숙도 평가 도입에 발맞춰 국내 제약바이오 기업의 글로벌 규제 대응 지원에 나선다.한국제약바이오협회는 국내 제약바이오 기업의 제조혁신을 지원하기 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=148986"
+        },
+        {
+          "title": "제약바이오협, ‘품질경영 아카데미’ 개최...글로벌 QMM 동향 등 공유",
+          "source": "라포르시안",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[라포르시안] 한국제약바이오협회(회장 노연홍)는 국내 기업의 QMM 체계 구축과 제조혁신을 지원하기 위해 오는 11월 4일 협회 4층 강당에서 ‘제3회 KPBMA 품질경영 아카데미’를 개최한다고 12일 밝혔다. QMM은 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=241175"
+        },
+        {
+          "title": "제약바이오협회, 美 FDA 품질평가 대응 교육…글로벌 경쟁력 강화",
+          "source": "뉴스1 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "다음달 4일 제3회 품질경영 아카데미 개최전직 FDA 평가관 등 참여…품질관리&#183;AI 활용 사례 공유 (서울=뉴스1) 임여익 기자 = 한국제약바이오협회가 미국 식품의약국(FDA)의 새로운 의약품 품질평가 체계에 대응하기 위해 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%E7%BE%8E-fda-%ED%92%88%EC%A7%88%ED%8F%89%EA%B0%80-%EB%8C%80%EC%9D%91-%EA%B5%90%EC%9C%A1-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EA%B2%BD%EC%9F%81%EB%A0%A5-%EA%B0%95%ED%99%94/ar-AA2e2VU3?ocid=BingNewsVerp"
+        },
+        {
+          "title": "FDA 품질평가 기준 바뀐다…제약바이오업계, QMM 선제 대응 나선다",
+          "source": "theggnews",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "미국 식품의약국(FDA)이 의약품 제조시설의 규정 준수 여부를 넘어 품질시스템의 성숙도까지 평가하는 품질경영성숙도(QMM) 프로그램 도입을 추진하면서 국내 제약바이오기업의 대응 필요성이 커지고 있다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://theggnews.com/ko-kr/articles/28041"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "복지부",
+        "검토",
+        "제도",
+        "제약산업",
+        "cso",
+        "공동생동",
+        "우대",
+        "약가",
+        "개선",
+        "quot"
+      ],
+      "articles": [
+        {
+          "title": "'약가 우대&#183;CSO&#183;공동생동' 복지부, 제약산업 제도 개선 검토",
+          "source": "약사공론",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "이와 함께 합성의약품의 국가전략기술 지정, 혁신형&#183;준혁신형 제약기업 지원체계, 의약품 판촉영업자 (CSO) 관리 강화, 공동생물학적동등성시험 (공동생동) 제도 개선 등 제약산업 전반에 걸친 정책 방향에 대해서도 입장을 밝혔다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546270"
+        },
+        {
+          "title": "'약가 우대&#183;CSO&#183;공동생동' 복지부, 제약산업 제도 개선 검토",
+          "source": "약사공론",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "이와 함께 합성의약품의 국가전략기술 지정, 혁신형&#183;준혁신형 제약기업 지원체계, 의약품 판촉영업자 (CSO) 관리 강화, 공동생물학적동등성시험 (공동생동) 제도 개선 등 제약산업 전반에 걸친 정책 방향에 대해서도 입장을 밝혔다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546270"
+        },
+        {
+          "title": "&quot;금연약국 도입하자&quot;…복지부, 약국 금연지원 참여 검토",
+          "source": "약사공론",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "보건복지부의 '2026년도 국정감사 2일차 질의답변서'에 따르면 국회 보건복지위원회 서영석 의원은 지난 8일 국정감사에서 국가금연지원사업의 접근성 개선과 금연약국 도입 필요성을 집중적으로 제기했다.",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546281"
+        },
+        {
+          "title": "복지부 약배송 '신중론' 불구 &quot;취약지역&#183;계층에 확대안 추진&quot;",
+          "source": "약사공론",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "결국 복지부는 약배송에 대해서는 '안전관리와 제한적 시행을 우선한다'는 신중론을 유지하면서도 의료취약지역에 대한 확대 가능성은 열어뒀다. 여기에 비대면 초진 처방에서는 7일 원칙을 제시하면서도 치료 지속 필요성을 이유로 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546258"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "전공의",
+        "보호수련시간"
+      ],
+      "articles": [
+        {
+          "title": "'보호수련시간'을 아시나요?…전공의 10명 중 7명 &quot;들어본 적 없어&quot;",
+          "source": "의협신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "전공의들의 교육시간을 실질적으로 보호하는 제도적 장치가 제대로 작동하지 않는 것으로 드러났다. 전공의들 10명 중 1명만 정기적으로 '보호수련시간'을 경험한다고 응답했다. 대한전공의협의회는 12일 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://doctorsnews.co.kr/news/articleView.html?idxno=166712"
+        },
+        {
+          "title": "전공의 90%, 정기적 ‘보호수련시간’ 미경험",
+          "source": "데일리메디",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "﻿﻿﻿전공의 90%가 ‘보호수련시간’을 정기적으로 경험하지 못한 것으로 나타났다. 공식 교육시간 중 진료업무화 호출로부터 실제 보호된 시간이 없는 경우는 73%였다. 보호수련시간은 전공의가 수련목표와 연계된 교육활동에 참여할 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "1일",
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941340"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "점안제",
+        "삼일제약",
+        "가속화",
+        "글로벌",
+        "사업",
+        "cmo",
+        "확대"
+      ],
+      "articles": [
+        {
+          "title": "삼일제약, ‘CPHI Milan 2026’ 참가…글로벌 점안제 CMO 사업 확대 가속화",
+          "source": "더바이오",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[더바이오 유수인 기자] 삼일제약은 최근 이탈리아 밀라노에서 개최된 세계적인 제약산업 전시회인 ‘CPHI Milan 2026’에 참가, 글로벌 제약사들과 점안제 위탁생산(CMO) 및 위탁개발생산(CDMO) 사업 확대를 위한 협의를 진행했다고 13일 밝혔다.CPHI는 전 세계 제약바이오 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "7시간",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=28966"
+        },
+        {
+          "title": "삼일제약, 글로벌 점안제 CMO 사업 확대 가속화",
+          "source": "메드월드뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "삼일제약(대표이사 허승범)은 지난주 이탈리아 밀라노에서 개최된 세계적인 제약산업 전시회 'CPHI Milan 2026'에 참가해 글로벌 제약사들과 점안제 위탁생산(CMO) 및 위탁개발생산(CDMO) 사업 확대를 위한 협의를 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "9시간",
+          "url": "http://www.medworld.co.kr/news/articleView.html?idxno=264717"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "위고비",
+        "급여",
+        "등재"
+      ],
+      "articles": [
+        {
+          "title": "한미 '에페' 10만원대 소문에…급해진 위고비 '급여 등재' 추진",
+          "source": "뉴스웍스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[뉴스웍스=박시은 기자] 마운자로에 맞서 위고비 출고가를 최대 40% 낮췄던 노보노디스크가 이번에는 급여 카드를 꺼냈다. 국산 비만약인 한미약품의 '에페'가 10만원 후반대에 출시할 가능성이 높다는 소문에, 건강보험 급여 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "3시간",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856365"
+        },
+        {
+          "title": "비만치료제 '위고비' 건강보험 급여 등재 신청",
+          "source": "의학신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "한국노보노디스크 관계자는 &quot;이번 위고비 급여 신청은 만성질환인 비만으로 어려움을 겪는 국내 환자들의 치료 접근성을 높이기 위한 것으로, 특히 고도비만과 동반질환이 있는 환자들이 보다 적절한 치료를 받을 수 있도록 하기 위한 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013710"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "원료약 국산화하라면서… 약가개편에 설 자리 좁아진 원료기업",
+      "source": "히트뉴스",
+      "importance": 56,
+      "snippet": "국산 원료의약품 살리기 정책의 역설 약가개편으로 국산 원료의약품 사용 확대와 산업 활성화를 기대했지만 현장의 체감 효과는 매우 제한적이다. 국내 원료의약품산업 생태계를 살릴 방법을 모색한다.①정책 목표를 달성하기 힘든 정책 ...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79790"
+    },
+    {
+      "title": "10년만에 IPF 급여 옵션 탄생하나...'오페브' 성패는?",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "10년 동안 비급여로 머물렀든 오페브의 특발성폐섬유증 보험급여 확대가 이뤄질지 관심이 모아진다. 현재 한국베링거인겔하임은 국민건강보험공단과 오페브의 특발성폐섬유증(IPF, Idiopathic Pulmonary Fibrosis ...",
+      "url": "https://m.dailypharm.com/user/news/343361"
+    },
+    {
+      "title": "자생한방병원, ‘강남구 진로박람회’서 직업체험 부스 운영",
+      "source": "스포츠동아",
+      "importance": 48,
+      "snippet": "[스포츠동아 정정욱 기자] 자생의료재단이 최근 서울 강남 소재 세텍에서 열린 ‘2026 강남구 진로박람회’에서 청소년을 위한 한의학 진로&#183;직업체험 프로그램(사진)을 운영했다.‘K-메디컬 체험관; 한방 MEDI-Lab’ ...",
+      "url": "https://sports.donga.com/life/article/all/20261013/134837018/1"
+    },
+    {
+      "title": "도미나크림 &quot;화장품 아닌 치료제… 정확한 복약지도 필수&quot;",
+      "source": "약업닷컴",
+      "importance": 46,
+      "snippet": "11일 양재 aT센터에서 약사의 미래를 준비하는 모임(이하 약준모)과 약업신문이 공동 개최한 '약준모 학술제’에서 부산 오거리약국 황은경 약사(지역의약품안전센터 부산센터장)는 히드로퀴논의 올바른 이해와 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=333550"
+    },
+    {
+      "title": "바이오의약품 수출 66억달러…CDMO&#183;바이오시밀러, 제조 공급망 재편 주목",
+      "source": "kndaily.co.kr",
+      "importance": 42,
+      "snippet": "식품의약품안전처가 10월 8일 발표한 자료에 따르면 올해 3분기까지 국내 바이오의약품 수출액은 잠정 66억달러로, 전년 동기보다 15.8% 증가했다. 전체 의약품 수출액 90억달러 가운데 73.4%를 차지했다. 다만 이는 ...",
+      "url": "https://www.kndaily.co.kr/news/articleView.html?idxno=311022"
+    },
+    {
+      "title": "전공의 10명 중 9명 '교육시간' 보장 못 받아 … 진료&#183;호출에 수련 뒷전",
+      "source": "뉴데일리 경제",
+      "importance": 42,
+      "snippet": "전공의 10명 중 9명은 진료업무에서 벗어나 교육에 전념할 수 있는 '보호수련시간'을 정기적으로 보장받지 못하는 것으로 나타났다. 교육시간이 공식적으로 편성돼 있더라도 실제로는 진료와 호출에 시달리는 경우가 많아 제도 개선이 ...",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200305.html"
+    },
+    {
+      "title": "조아제약, 철분제 '뉴헴포르테시럽' 콩고민주공화국 수출 계약",
+      "source": "약업닷컴",
+      "importance": 41,
+      "snippet": "조아제약은 콩고민주공화국 의약품 제조&#183;유통 기업 킨메드 파마(Kinmed Pharma)와 '뉴헴포르테시럽' 수출 계약을 체결했다고 12일 밝혔다.뉴헴포르테시럽은 철 결핍성 빈혈 및 철분 결핍의 예방&#183;치료에 사용하는 ...",
+      "url": "https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=333562"
+    },
+    {
+      "title": "국감서 다시 드러난 DUR 존재감…처방부터 헌혈안전까지",
+      "source": "약사공론",
+      "importance": 40,
+      "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. AI 생성 이미지. 올해 국정감사에서 의약품 안전 문제가 잇따라 도마에 오르면서 의약품안전사용서비스(DUR) 시스템의 활용도가 다시 주목받고 있다.",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546158"
+    },
+    {
+      "title": "약사회, 비대위 확대&#183;보강 논의 착수…“약사사회 총단결”",
+      "source": "의학신문",
+      "importance": 37,
+      "snippet": "[의학신문&#183;일간보사=유은제 기자]대한약사회가 임시대의원총회에서 제기된 비상대책위원회 확대&#183;보강 요구를 수용하고 조직 정비에 나선다. 새로운 비대위 구성안은 부결됐지만 현 집행부에 대한 대의원들의 주문을 반영해 기존 비대위의 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013734"
+    },
+    {
+      "title": "[제약 레이더] 대웅바이오, 알츠하이머 혈액진단 확대…제약바이오협회&#183;휴메딕스도 학술 행보",
+      "source": "더밸류뉴스",
+      "importance": 32,
+      "snippet": "제약바이오업계가 품질관리와 진단, 의료기기 분야에서 전문정보 공유에 나서고 있다. 대웅바이오는 알츠하이머병 혈액진단검사 ‘루미펄스’를 의료진에게 소개했다. 한국제약바이오협회는 미국 식품의약국(FDA)의 품질경영성숙도(QMM) ...",
+      "url": "https://www.thevaluenews.co.kr/news/202252"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 6,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 1
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 22,
+      "en_count": 1
+    }
+  ]
+}
