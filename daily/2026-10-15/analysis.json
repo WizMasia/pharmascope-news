@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-15",
+  "total_articles": 413,
+  "language_breakdown": {
+    "korean": 198,
+    "english": 131,
+    "multilingual": 84
+  },
+  "issues": [
+    {
+      "topic": "quot·허가·식약처",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 10,
+      "avg_importance": 38,
+      "key_articles": [
+        {
+          "title": "40조 ‘키트루다’ 바이오시밀러 FDA 최초 허가 신청..개발 경쟁 ‘급물살’",
+          "importance": 46,
+          "url": "https://www.yakup.com/news/?mode=view&cat=12&cat2=121&cat3=0&nid=333707"
+        },
+        {
+          "title": "식약처, 임신중지약 허가 심사 신중론에 \"위해성관리계획 엄격히 검토\"",
+          "importance": 42,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013854"
+        },
+        {
+          "title": "최보윤 \"허가 단계서 의약품 '유사 제품명·포장' 걸러내야\"",
+          "importance": 41,
+          "url": "https://www.dailypharm.com/user/news/343378"
+        }
+      ],
+      "summary_kr": "quot·허가·식약처 관련 보도 10건을 분석했다. 독일 바이오시밀러 개발사 Formycon과 인도 Zydus Lifesciences는 미국 FDA가 ‘키트루다’’(성분명: 펨브롤리주맙) 바이오시밀러 후보 물질 ‘FYB206’에 대; [의학신문·일간보사=이재원 기자] 임신중지 의약품 미프진의 국내 도입을 둘러싸고 국회에서 안전성 검증과 허가 절차에 대한 논쟁이 이어진 가운데, 식품의약품안전처가 위해성관리계획 (",
+      "summary_en": "Coverage focused on quot·허가·식약처, with implications for pharmaceutical and healthcare stakeholders."
+    },
+    {
+      "topic": "환자경험·통합·플랫폼",
+      "domain": "clinical",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "가천대 길병원, 환자경험 통합 플랫폼 본격 가동",
+          "importance": 52,
+          "url": "http://bokuennews.com/news/article.html?no=285504"
+        },
+        {
+          "title": "길병원, 환자경험 통합 플랫폼 본격 가동…AI 기반 관리",
+          "importance": 47,
+          "url": "https://www.msn.com/ko-kr/news/national/%EA%B8%B8%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-%ED%86%B5%ED%95%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B3%B8%EA%B2%A9-%EA%B0%80%EB%8F%99ai-%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC/ar-AA2ebrVM?ocid=BingNewsVerp"
+        },
+        {
+          "title": "길병원, 환자경험 통합 플랫폼 본격 가동",
+          "importance": 47,
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&wr_id=941435"
+        }
+      ],
+      "summary_kr": "환자경험·통합·플랫폼 관련 보도 4건을 분석했다. 가천대 길병원 (병원장 김우경)이 AI를 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 '환자경험 통합 플랫폼'을 본격 운영한다. 이번 플랫폼은 가천; 가천대 길병원은 인공지능(AI)을 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 ‘환자경험 통합 플랫폼’을 본격 운영한다고 14일 밝혔다. 환자경험 ",
+      "summary_en": "Coverage focused on 환자경험·통합·플랫폼, with implications for pharmaceutical and healthcare stakeholders."
+    },
+    {
+      "topic": "셀트리온·pbm·추가",
+      "domain": "policy",
+      "significance": "high",
+      "article_count": 4,
+      "avg_importance": 36,
+      "key_articles": [
+        {
+          "title": "셀트리온, 미국 PBM 추가 등재 추진…후속 제품 처방 확대",
+          "importance": 46,
+          "url": "https://www.dailypharm.com/user/news/343385"
+        },
+        {
+          "title": "셀트리온, 美 대형 PBM 추가 등재 협상 막바지…4분기 실적 성장 기대",
+          "importance": 37,
+          "url": "https://www.efnews.co.kr/news/articleView.html?idxno=133131"
+        },
+        {
+          "title": "셀트리온, 美 대형 PBM 추가 등재 협상 막바지…4분기 성장 노린다",
+          "importance": 32,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8-%E7%BE%8E-%EB%8C%80%ED%98%95-pbm-%EC%B6%94%EA%B0%80-%EB%93%B1%EC%9E%AC-%ED%98%91%EC%83%81-%EB%A7%89%EB%B0%94%EC%A7%80-4%EB%B6%84%EA%B8%B0-%EC%84%B1%EC%9E%A5-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA2eb2SM?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "셀트리온·pbm·추가 관련 보도 4건을 분석했다. 셀트리온은 미국 대형 처방약급여관리업체(PBM)와 진행 중인 고수익 후속 제품군의 처방집 추가 등재 협상이 마무리 단계에 접어들었으며, 4분기 내 계약 체결을 목표로 협의하고 있다; 셀트리온이 미국 대형 처방약급여관리업체(PBM)와 후속 제품군의 처방집 등재 협상을 진행하며 4분기 내 추가 계약 체결을 추진하고 있다. 기존 제품의 판매 호조에 더해 후속 제품의",
+      "summary_en": "Coverage focused on 셀트리온·pbm·추가, with implications for pharmaceutical and healthcare stakeholders."
+    },
+    {
+      "topic": "수출·제약사·수출기업",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "제네릭 제약사, 몸집 키워 R&D 강화…\"수출기업 육성해야\"",
+          "importance": 60,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546341"
+        },
+        {
+          "title": "정부, 복제약 제약사 규모화·전문화 추진…수출기업 전환 방안 논의",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%95%EB%B6%80-%EB%B3%B5%EC%A0%9C%EC%95%BD-%EC%A0%9C%EC%95%BD%EC%82%AC-%EA%B7%9C%EB%AA%A8%ED%99%94-%EC%A0%84%EB%AC%B8%ED%99%94-%EC%B6%94%EC%A7%84-%EC%88%98%EC%B6%9C%EA%B8%B0%EC%97%85-%EC%A0%84%ED%99%98-%EB%B0%A9%EC%95%88-%EB%85%BC%EC%9D%98/ar-AA2ecKhz?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "수출·제약사·수출기업 관련 보도 2건을 분석했다. 보건복지부는 14일 오후 3시30분 상연재 서울역점에서 제3차 제약산업 혁신 민·관협의체를 열고 국내 제네릭 산업 현황을 점검하는 한편 제네릭 중심 기업의 경쟁력 강화와 수출기업화; 복지부, 제3차 제약산업 혁신 민관협의체 개최…중소 제약사 R&D 역량 강화 모색 위탁생산·공동생동에 따른 유사 제품 난립 지적…CSO 관리·감독 개선도 논의 정부가 복제약(제네릭",
+      "summary_en": "Coverage focused on 수출·제약사·수출기업, with implications for pharmaceutical and healthcare stakeholders."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 14,
+      "en_count": 4,
+      "significance": "medium"
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-10-15T22:31:40.358634+00:00"
+}

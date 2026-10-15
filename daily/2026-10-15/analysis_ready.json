@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-15",
+  "total_articles": 413,
+  "language_breakdown": {
+    "korean": {
+      "total": 198,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 23,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 21,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 2,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 131,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 6
+      }
+    },
+    "multilingual": {
+      "total": 84,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 3,
+        "Dutch / 네덜란드어": 6,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "허가",
+      "count": 14
+    },
+    {
+      "keyword": "제네릭",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 10
+    },
+    {
+      "keyword": "수출",
+      "count": 9
+    },
+    {
+      "keyword": "비만",
+      "count": 8
+    },
+    {
+      "keyword": "신약",
+      "count": 8
+    },
+    {
+      "keyword": "임상",
+      "count": 7
+    },
+    {
+      "keyword": "급여",
+      "count": 5
+    },
+    {
+      "keyword": "백신",
+      "count": 5
+    },
+    {
+      "keyword": "위고비",
+      "count": 3
+    },
+    {
+      "keyword": "마운자로",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "약가",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 21
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 6
+    },
+    {
+      "keyword": "obesity",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "pricing",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "약사공론",
+      "count": 2
+    },
+    {
+      "source": "히트뉴스",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "약업닷컴",
+      "count": 2
+    },
+    {
+      "source": "머니투데이 on MSN",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 1
+    },
+    {
+      "source": "중부일보",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "연구·신약개발 혁신과 글로벌 임상 역량",
+    "FDA QMM과 국내 제약바이오 품질경영",
+    "제약산업 제도·약가 및 CSO 공동생동 개선",
+    "전공의 보호수련시간의 실효성",
+    "삼일제약 점안제 사업의 글로벌 확장"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 10,
+      "keywords": [
+        "quot",
+        "허가",
+        "식약처"
+      ],
+      "articles": [
+        {
+          "title": "40조 ‘키트루다’ 바이오시밀러 FDA 최초 허가 신청..개발 경쟁 ‘급물살’",
+          "source": "약업닷컴",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "독일 바이오시밀러 개발사 Formycon과 인도 Zydus Lifesciences는 미국 FDA가 ‘키트루다’’(성분명: 펨브롤리주맙) 바이오시밀러 후보 물질 ‘FYB206’에 대한 바이오의약품 허가 신청(BLA)을 심사 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "14시간",
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=333707"
+        },
+        {
+          "title": "식약처, 임신중지약 허가 심사 신중론에 &quot;위해성관리계획 엄격히 검토&quot;",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 임신중지 의약품 미프진의 국내 도입을 둘러싸고 국회에서 안전성 검증과 허가 절차에 대한 논쟁이 이어진 가운데, 식품의약품안전처가 위해성관리계획 (RMP)을 면밀하게 심사하고 허가 이후 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013854"
+        },
+        {
+          "title": "최보윤 &quot;허가 단계서 의약품 '유사 제품명&#183;포장' 걸러내야&quot;",
+          "source": "데일리팜",
+          "importance": 41,
+          "stars": "⭐⭐",
+          "snippet": "조제 현장에서 투약 오류를 유발하는 의약품의 유사 명칭과 판박이 포장 문제를 방지하기 위해, 허가 심사 단계부터 유사성을 사전에 검증&#183;차단하는 제도적 장치가 필요하다는 지적이 국회에서 제기됐다. 식약처는 신규 품목 허가 시 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "23시간",
+          "url": "https://www.dailypharm.com/user/news/343378"
+        },
+        {
+          "title": "&quot;디지털융합의약품 허가 0건…제도 안착 지원 필요&quot;",
+          "source": "히트뉴스",
+          "importance": 41,
+          "stars": "⭐⭐",
+          "snippet": "[히트뉴스=최선재 기자] 디지털의료제품법 시행 이후 디지털융합의약품 관련 가이드라인과 심사 절차 마련이 늦어지고 있어 기업의 개발과 허가를 뒷받침할 지원체계를 보완해야 한다는 지적이 나왔다.13일 최보윤 국민의힘 의원은 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "23시간",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79863"
+        },
+        {
+          "title": "&quot;마약류 수거 참여 100곳뿐&quot; 지적에 식약처 &quot;내년 10억원 이상 확보&quot;",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "전국 약국 2만 5000여곳 가운데 마약류 수거에 참여하는 약국은 100곳에 그치고, 일부 시도에는 거점 약국조차 없는 것으로 파악돼 수거 체계와 참여 유인책을 재검토해야 한다는 것이 국정감사에서 나온 얘기다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546257"
+        },
+        {
+          "title": "위고비 건보 급여 신청, 마운자로&#183;에페 등 비만약 시장 경쟁 변수될까",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 노보노디스크가 비만치료제 위고비의 건강보험 급여등재를 신청하면서 향후 국내 GLP-1 계열 비만치료제 시장의 경쟁 구도에 어떤 영향을 미칠지 관심이 모이고 있다. 특히 위고비가 먼저 건강보험 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013947"
+        },
+        {
+          "title": "오유경 식약처장 &quot;미프진 합법화해 부작용 피해 구제해야&quot;",
+          "source": "노컷뉴스",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "오유경 식품의약품안전처장이 임신중지 의약품 '미프진' 도입과 관련해 불법적인 약물 사용으로 발생하는 부작용 피해를 구제하기 위해 합법적인 도입이 필요하다는 입장을 밝혔다. 한국인을 대상으로 별도의 임상시험을 진행하지 않겠다는 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.nocutnews.co.kr/news/6590656"
+        },
+        {
+          "title": "국회 GLP-1 비만약 오남용 우려에… 식약처장 &quot;오남용의약품 지정 서두르겠다&quot;",
+          "source": "paxmedicalnews",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[팍스메디컬뉴스] 13일 국회 보건복지위원회의 식품의약품안전처 국정감사에서 여야 의원들은 위고비&#183;마운자로 등 GLP-1 계열 비만치료제의 급격한 유통 증가와 무분별한 처방 실태를 질타했다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "22시간",
+          "url": "https://www.paxmedicalnews.com/news/articleView.html?idxno=3179"
+        },
+        {
+          "title": "식약처, AI로 마약류 불법 유통 잡는다…필수의약품 공급망도 강화",
+          "source": "뉴스1 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[국감현장] 감시 대상 선정 기간 3주서 3일로 단축GMO 표시 대상 확대하고 인체조직 부작용 관리 강화 (서울=뉴스1) 천선휴 강승지 기자 = 식품의약품안전처가 인공지능(AI) 기반 마약류 오남용 감시체계를 구축하고 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%8B%9D%EC%95%BD%EC%B2%98-ai%EB%A1%9C-%EB%A7%88%EC%95%BD%EB%A5%98-%EB%B6%88%EB%B2%95-%EC%9C%A0%ED%86%B5-%EC%9E%A1%EB%8A%94%EB%8B%A4-%ED%95%84%EC%88%98%EC%9D%98%EC%95%BD%ED%92%88-%EA%B3%B5%EA%B8%89%EB%A7%9D%EB%8F%84-%EA%B0%95%ED%99%94/ar-AA2e6HHs?ocid=BingNewsVerp"
+        },
+        {
+          "title": "의약품 허가 시 '기존 치료제 대비 우월성 요구' 과잉 규제 논란",
+          "source": "의학신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "권 의원은 현행 약사법상 의약품 허가의 기본적인 판단 요소가 안전성과 유효성이라는 점을 언급하며, 기존 치료제보다 우월한 효과를 입증해야 하는지 아니면 비열등성을 입증하는 것으로 충분한지 기준을 명확히 할 필요가 있다고 지적했다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013805"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 4,
+      "keywords": [
+        "환자경험",
+        "통합",
+        "플랫폼",
+        "길병원",
+        "가동",
+        "가천대",
+        "기반"
+      ],
+      "articles": [
+        {
+          "title": "가천대 길병원, 환자경험 통합 플랫폼 본격 가동",
+          "source": "보건신문",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "가천대 길병원 (병원장 김우경)이 AI를 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 '환자경험 통합 플랫폼'을 본격 운영한다. 이번 플랫폼은 가천대 길병원 환자경험 실무부서와 병원 자회사인 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "4시간",
+          "url": "http://bokuennews.com/news/article.html?no=285504"
+        },
+        {
+          "title": "길병원, 환자경험 통합 플랫폼 본격 가동…AI 기반 관리",
+          "source": "국민일보 on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "가천대 길병원은 인공지능(AI)을 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 ‘환자경험 통합 플랫폼’을 본격 운영한다고 14일 밝혔다. 환자경험 통합 플랫폼은 길병원 환자경험 실무부서와 병원 자회사인 가천헬스케어텍이 공동 개발했다. 실제 환자경험 업무를 담당하는 실무자들이 개발 과정에 직접 참여해 현장의 업무 흐름과 요구를",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "11시간",
+          "url": "https://www.msn.com/ko-kr/news/national/%EA%B8%B8%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-%ED%86%B5%ED%95%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B3%B8%EA%B2%A9-%EA%B0%80%EB%8F%99ai-%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC/ar-AA2ebrVM?ocid=BingNewsVerp"
+        },
+        {
+          "title": "길병원, 환자경험 통합 플랫폼 본격 가동",
+          "source": "데일리메디",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "가천대학교 길병원(병원장 김우경)이 AI(인공지능)를 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 ‘환자경험 통합 플랫폼’을 본격 운영한다.14일 병원에 따르면 이번 플랫폼은 환자경험 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "10시간",
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941435"
+        },
+        {
+          "title": "가천대 길병원, AI 기반 환자경험 통합 플랫폼 운영",
+          "source": "경기일보",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "가천대 길병원이 인공지능(AI)을 활용해 환자 의견을 분석하고 상담&#183;현장 점검 등을 통합 관리하는 환자경험 통합 플랫폼을 운영한다. 가천대 길병원은 환자 요구에 신속하게 대응하고 의료 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "21시간",
+          "url": "https://www.kyeonggi.com/article/20261014580082"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "셀트리온",
+        "pbm",
+        "추가",
+        "등재",
+        "제품",
+        "성장",
+        "대형",
+        "막바지",
+        "협상",
+        "분기"
+      ],
+      "articles": [
+        {
+          "title": "셀트리온, 미국 PBM 추가 등재 추진…후속 제품 처방 확대",
+          "source": "데일리팜",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "셀트리온은 미국 대형 처방약급여관리업체(PBM)와 진행 중인 고수익 후속 제품군의 처방집 추가 등재 협상이 마무리 단계에 접어들었으며, 4분기 내 계약 체결을 목표로 협의하고 있다고 14일 밝혔다. 회사는 기존 제품의 판매 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "12시간",
+          "url": "https://www.dailypharm.com/user/news/343385"
+        },
+        {
+          "title": "셀트리온, 美 대형 PBM 추가 등재 협상 막바지…4분기 실적 성장 기대",
+          "source": "파이낸셜신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "셀트리온이 미국 대형 처방약급여관리업체(PBM)와 후속 제품군의 처방집 등재 협상을 진행하며 4분기 내 추가 계약 체결을 추진하고 있다. 기존 제품의 판매 호조에 더해 후속 제품의 보험 환급 적용 범위가 확대되면 미국 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "4시간",
+          "url": "https://www.efnews.co.kr/news/articleView.html?idxno=133131"
+        },
+        {
+          "title": "셀트리온, 美 대형 PBM 추가 등재 협상 막바지…4분기 성장 노린다",
+          "source": "더구루 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[더구루=진유진 기자] 셀트리온이 미국 대형 처방약급여관리업체(PBM)와 고수익 후속 제품군의 처방집 추가 등재 협상을 마무리 단계까지 진행했다. 3분기 실적이 분기 기준 역대 최대치를 기록한 가운데, 4분기 내 보험 환급 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "12시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%85%80%ED%8A%B8%EB%A6%AC%EC%98%A8-%E7%BE%8E-%EB%8C%80%ED%98%95-pbm-%EC%B6%94%EA%B0%80-%EB%93%B1%EC%9E%AC-%ED%98%91%EC%83%81-%EB%A7%89%EB%B0%94%EC%A7%80-4%EB%B6%84%EA%B8%B0-%EC%84%B1%EC%9E%A5-%EB%85%B8%EB%A6%B0%EB%8B%A4/ar-AA2eb2SM?ocid=BingNewsVerp"
+        },
+        {
+          "title": "삼성바이오&#183;셀트리온, 일본서 제품 경쟁력&#183;송도 생산능력 알려",
+          "source": "중부일보",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "제임스 최 삼성바이오로직스 영업지원담당(부사장)이 지난 7일 일본 요코하마에서 열린 ‘바이오 재팬 2026(BIO JAPAN 2026)’ 행사에서 삼성바이오로직스의 엔드 투 엔드(End-to-End) 위탁개발생산(CDMO) ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363739088"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "수출",
+        "제약사",
+        "수출기업"
+      ],
+      "articles": [
+        {
+          "title": "제네릭 제약사, 몸집 키워 R&amp;D 강화…&quot;수출기업 육성해야&quot;",
+          "source": "약사공론",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "보건복지부는 14일 오후 3시30분 상연재 서울역점에서 제3차 제약산업 혁신 민&#183;관협의체를 열고 국내 제네릭 산업 현황을 점검하는 한편 제네릭 중심 기업의 경쟁력 강화와 수출기업화를 위한 개선 방안을 논의했다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546341"
+        },
+        {
+          "title": "정부, 복제약 제약사 규모화&#183;전문화 추진…수출기업 전환 방안 논의",
+          "source": "머니투데이 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "복지부, 제3차 제약산업 혁신 민관협의체 개최…중소 제약사 R&amp;D 역량 강화 모색 위탁생산&#183;공동생동에 따른 유사 제품 난립 지적…CSO 관리&#183;감독 개선도 논의 정부가 복제약(제네릭) 중심 국내 제약기업의 규모화와 전문화를 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "14시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%95%EB%B6%80-%EB%B3%B5%EC%A0%9C%EC%95%BD-%EC%A0%9C%EC%95%BD%EC%82%AC-%EA%B7%9C%EB%AA%A8%ED%99%94-%EC%A0%84%EB%AC%B8%ED%99%94-%EC%B6%94%EC%A7%84-%EC%88%98%EC%B6%9C%EA%B8%B0%EC%97%85-%EC%A0%84%ED%99%98-%EB%B0%A9%EC%95%88-%EB%85%BC%EC%9D%98/ar-AA2ecKhz?ocid=BingNewsVerp"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "자생한방병원, ‘강남구 진로박람회’서 직업체험 부스 운영",
+      "source": "스포츠동아",
+      "importance": 53,
+      "snippet": "[스포츠동아 정정욱 기자] 자생의료재단이 최근 서울 강남 소재 세텍에서 열린 ‘2026 강남구 진로박람회’에서 청소년을 위한 한의학 진로&#183;직업체험 프로그램(사진)을 운영했다.‘K-메디컬 체험관; 한방 MEDI-Lab’ ...",
+      "url": "https://sports.donga.com/life/article/all/20261013/134837018/1"
+    },
+    {
+      "title": "IPF 치료 선택지 확대 움직임…'닌테다닙' 급여&#183;제네릭 주목",
+      "source": "메디파나 뉴스",
+      "importance": 51,
+      "snippet": "특발성폐섬유증(IPF) 치료 선택지가 확대될지 주목된다. '닌테다닙' 오리지널 의약품 '오페브'의 IPF 급여 확대가 약가협상 단계에 들어갔다. 국내 제네릭까지 IPF 급여 시장에 진입하면 성분과 가격 선택지가 함께 늘어날 ...",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=419327"
+    },
+    {
+      "title": "대구한의대 한의학 교육, 몽골 정규학점으로 잇는다",
+      "source": "경북일보",
+      "importance": 50,
+      "snippet": "글로컬대학인 대구한의대학교(총장 변창훈)가 몽골 현지 대학생들을 대상으로 한의학 교육을 시행하고, 교육 이수자에 대한 정규 학점 인정 체계를 확대 구축하는 등 한의학의 국제 교육 기반 강화에 박차를 가하고 있다.대구한의대는 최근 한국한의약진흥원이 지원하는 ‘한의약 해외교육&#183;연수 지원 ...",
+      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087221"
+    },
+    {
+      "title": "대학병원 간호사 또 사망…“태움 의혹 철저히 규명해야”",
+      "source": "청년의사",
+      "importance": 47,
+      "snippet": "최근 한 대학병원에서 간호사가 사망하는 사건이 발생해 직장 내 괴롭힘과 과중한 업무가 원인이라는 의혹이 제기되고 있다. 병원 측이 외부 전문가가 참여하는 조사위원회 구성을 추진하는 가운데, 노동계는 철저한 진상규명과 재발 ...",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043623"
+    },
+    {
+      "title": "코로나19 국가예방접종 개시...70세 이상부터 / YTN 사이언스",
+      "source": "YTN on MSN",
+      "importance": 47,
+      "snippet": "70세 이상 고령층, 12세 이상 면역저하자와 감염취약시설 입원입소자에 대한 코로나19 국가예방접종이 시작됐습니다.대상자는 '예방접종도우미' 누리집에서 접종 가능한 의료기관을 확인하고 방문해 무료로 백신을 맞으면 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%BD%94%EB%A1%9C%EB%82%9819-%EA%B5%AD%EA%B0%80%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%EA%B0%9C%EC%8B%9C-70%EC%84%B8-%EC%9D%B4%EC%83%81%EB%B6%80%ED%84%B0-ytn-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/vi-AA2e70Bv?ocid=BingNewsVerp"
+    },
+    {
+      "title": "Vanda Pharmaceuticals stock falls after anxiety drug trial fails By Investing.com - Investing.com Canada",
+      "source": "",
+      "importance": 47,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVN4dzFWNV9EaXJIa1labnpRYW85ZjN4aG1xaklJWmVDRjBMLTNfRzJobjBOcDRJNVpvTm5YQU9BdEV4cnlvZG9nblQtczgzWEJYWGNkdV9rV0VGdW1uci1fRkZLZDRWOGo1am1BU2",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVN4dzFWNV9EaXJIa1labnpRYW85ZjN4aG1xaklJWmVDRjBMLTNfRzJobjBOcDRJNVpvTm5YQU9BdEV4cnlvZG9nblQtczgzWEJYWGNkdV9rV0VGdW1uci1fRkZLZDRWOGo1am1BU2t6c0ZoUEtYSk53TEpUUHctMnhsNzBwV08tbG9vQlRpOUhvLUVMTlBkMU5zR1FkZzBUZ0Exc1UxSXJzcTgzemozQWxPTlU2UC1VSnF4Tg?oc=5"
+    },
+    {
+      "title": "원료약 국산화하라면서… 약가개편에 설 자리 좁아진 원료기업",
+      "source": "히트뉴스",
+      "importance": 46,
+      "snippet": "국산 원료의약품 살리기 정책의 역설 약가개편으로 국산 원료의약품 사용 확대와 산업 활성화를 기대했지만 현장의 체감 효과는 매우 제한적이다. 국내 원료의약품산업 생태계를 살릴 방법을 모색한다.①정책 목표를 달성하기 힘든 정책 ...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79790"
+    },
+    {
+      "title": "보건복지위, 식품의약품안전처 등 국정감사 실시",
+      "source": "글로벌뉴스통신GNA",
+      "importance": 42,
+      "snippet": "[국회=글로벌뉴스통신]국회 보건복지위원회 (위원장 이만희)는 10월 13일 (화) 전체회의장 (본관 601호)에서 식품의약품안전처 및 한국식품안전관리인증원 등 14개 기관을 대상으로 국정감사를 실시하였다.",
+      "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=498863"
+    },
+    {
+      "title": "[2026 국정감사] 미프진 허가 놓고 갈라진 여야…안전성 검증&#183;관리체계 국감 쟁점",
+      "source": "약업닷컴",
+      "importance": 41,
+      "snippet": "2026년 국회 보건복지위원회 식약처 국정감사에서는 더불어민주당 남인순&#183;이수진 의원과 국민의힘 백종헌&#183;이만희&#183;한지아&#183;조배숙 의원 등이 미프지미소의 허가 및 안전관리 문제를 질의했다.",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=333701"
+    },
+    {
+      "title": "탐색부터 상업화까지...제약 5사, R&amp;D '조직 설계'로 키우는 경쟁력",
+      "source": "팜뉴스",
+      "importance": 37,
+      "snippet": "국내 상위 제약사들이 신약 연구개발(R&amp;D) 조직의 짜임새를 경쟁력의 한 축으로 다듬고 있다. JW중외제약&#183;종근당&#183;대웅제약&#183;제일약품&#183;일동제약은 후보물질 탐색에서 임상, 기술수출, 상업화로 이어지는 가치사슬 가운데 서로 다른 ...",
+      "url": "https://www.pharmnews.com/news/articleView.html?idxno=306928"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 14,
+      "en_count": 4
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 2,
+      "en_count": 1
+    }
+  ]
+}

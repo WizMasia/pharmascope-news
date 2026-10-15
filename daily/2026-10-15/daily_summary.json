@@ -1,0 +1,548 @@
+{
+  "date": "2026-10-15",
+  "total": 413,
+  "version": 1,
+  "generated_at": "2026-10-15T06:31:09.652404+09:00",
+  "korean": {
+    "total": 198,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 23,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 21,
+      "약국·약사": 2,
+      "의료정책·인력": 25,
+      "전통의학": 2,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제네릭 제약사, 몸집 키워 R&amp;D 강화…&quot;수출기업 육성해야&quot;",
+        "source": "약사공론",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+20 | 순위:146위+2",
+        "snippet": "보건복지부는 14일 오후 3시30분 상연재 서울역점에서 제3차 제약산업 혁신 민&#183;관협의체를 열고 국내 제네릭 산업 현황을 점검하는 한편 제네릭 중심 기업의 경쟁력 강화와 수출기업화를 위한 개선 방안을 논의했다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546341"
+      },
+      {
+        "title": "자생한방병원, ‘강남구 진로박람회’서 직업체험 부스 운영",
+        "source": "스포츠동아",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:스포츠동아+28 | 최신:23시간+10 | 키워드+5 | 순위:11위+10",
+        "snippet": "[스포츠동아 정정욱 기자] 자생의료재단이 최근 서울 강남 소재 세텍에서 열린 ‘2026 강남구 진로박람회’에서 청소년을 위한 한의학 진로&#183;직업체험 프로그램(사진)을 운영했다.‘K-메디컬 체험관; 한방 MEDI-Lab’ ...",
+        "published_time": "23시간",
+        "modified_time": "",
+        "time": "23시간",
+        "url": "https://sports.donga.com/life/article/all/20261013/134837018/1"
+      },
+      {
+        "title": "가천대 길병원, 환자경험 통합 플랫폼 본격 가동",
+        "source": "보건신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:보건신문+10 | 최신:4시간+20 | 키워드+20 | 순위:123위+2",
+        "snippet": "가천대 길병원 (병원장 김우경)이 AI를 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 '환자경험 통합 플랫폼'을 본격 운영한다. 이번 플랫폼은 가천대 길병원 환자경험 실무부서와 병원 자회사인 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "http://bokuennews.com/news/article.html?no=285504"
+      },
+      {
+        "title": "IPF 치료 선택지 확대 움직임…'닌테다닙' 급여&#183;제네릭 주목",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:135위+2",
+        "snippet": "특발성폐섬유증(IPF) 치료 선택지가 확대될지 주목된다. '닌테다닙' 오리지널 의약품 '오페브'의 IPF 급여 확대가 약가협상 단계에 들어갔다. 국내 제네릭까지 IPF 급여 시장에 진입하면 성분과 가격 선택지가 함께 늘어날 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=419327"
+      },
+      {
+        "title": "대구한의대 한의학 교육, 몽골 정규학점으로 잇는다",
+        "source": "경북일보",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:경북일보+10 | 최신:4시간+20 | 키워드+10 | 순위:12위+10",
+        "snippet": "글로컬대학인 대구한의대학교(총장 변창훈)가 몽골 현지 대학생들을 대상으로 한의학 교육을 시행하고, 교육 이수자에 대한 정규 학점 인정 체계를 확대 구축하는 등 한의학의 국제 교육 기반 강화에 박차를 가하고 있다.대구한의대는 최근 한국한의약진흥원이 지원하는 ‘한의약 해외교육&#183;연수 지원 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087221"
+      },
+      {
+        "title": "길병원, 환자경험 통합 플랫폼 본격 가동…AI 기반 관리",
+        "source": "국민일보 on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:국민일보 on MSN+10 | 최신:11시간+15 | 키워드+20 | 순위:124위+2",
+        "snippet": "가천대 길병원은 인공지능(AI)을 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 ‘환자경험 통합 플랫폼’을 본격 운영한다고 14일 밝혔다. 환자경험 통합 플랫폼은 길병원 환자경험 실무부서와 병원 자회사인 가천헬스케어텍이 공동 개발했다. 실제 환자경험 업무를 담당하는 실무자들이 개발 과정에 직접 참여해 현장의 업무 흐름과 요구를",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.msn.com/ko-kr/news/national/%EA%B8%B8%EB%B3%91%EC%9B%90-%ED%99%98%EC%9E%90%EA%B2%BD%ED%97%98-%ED%86%B5%ED%95%A9-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B3%B8%EA%B2%A9-%EA%B0%80%EB%8F%99ai-%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC/ar-AA2ebrVM?ocid=BingNewsVerp"
+      },
+      {
+        "title": "길병원, 환자경험 통합 플랫폼 본격 가동",
+        "source": "데일리메디",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리메디+10 | 최신:10시간+15 | 키워드+20 | 순위:125위+2",
+        "snippet": "가천대학교 길병원(병원장 김우경)이 AI(인공지능)를 활용해 환자의 요구에 보다 빠르게 대응하고 의료서비스의 만족도를 높이기 위한 ‘환자경험 통합 플랫폼’을 본격 운영한다.14일 병원에 따르면 이번 플랫폼은 환자경험 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=941435"
+      },
+      {
+        "title": "대학병원 간호사 또 사망…“태움 의혹 철저히 규명해야”",
+        "source": "청년의사",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:8시간+15 | 키워드+20 | 순위:126위+2",
+        "snippet": "최근 한 대학병원에서 간호사가 사망하는 사건이 발생해 직장 내 괴롭힘과 과중한 업무가 원인이라는 의혹이 제기되고 있다. 병원 측이 외부 전문가가 참여하는 조사위원회 구성을 추진하는 가운데, 노동계는 철저한 진상규명과 재발 ...",
+        "published_time": "8시간",
+        "modified_time": "",
+        "time": "8시간",
+        "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043623"
+      },
+      {
+        "title": "코로나19 국가예방접종 개시...70세 이상부터 / YTN 사이언스",
+        "source": "YTN on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:YTN on MSN+10 | 최신:1일+10 | 키워드+25 | 순위:148위+2",
+        "snippet": "70세 이상 고령층, 12세 이상 면역저하자와 감염취약시설 입원입소자에 대한 코로나19 국가예방접종이 시작됐습니다.대상자는 '예방접종도우미' 누리집에서 접종 가능한 의료기관을 확인하고 방문해 무료로 백신을 맞으면 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%BD%94%EB%A1%9C%EB%82%9819-%EA%B5%AD%EA%B0%80%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%EA%B0%9C%EC%8B%9C-70%EC%84%B8-%EC%9D%B4%EC%83%81%EB%B6%80%ED%84%B0-ytn-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4/vi-AA2e70Bv?ocid=BingNewsVerp"
+      },
+      {
+        "title": "원료약 국산화하라면서… 약가개편에 설 자리 좁아진 원료기업",
+        "source": "히트뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:15시간+10 | 키워드+10 | 순위:133위+2",
+        "snippet": "국산 원료의약품 살리기 정책의 역설 약가개편으로 국산 원료의약품 사용 확대와 산업 활성화를 기대했지만 현장의 체감 효과는 매우 제한적이다. 국내 원료의약품산업 생태계를 살릴 방법을 모색한다.①정책 목표를 달성하기 힘든 정책 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79790"
+      }
+    ],
+    "top_keywords": [
+      [
+        "허가",
+        14
+      ],
+      [
+        "제네릭",
+        10
+      ],
+      [
+        "식약처",
+        10
+      ],
+      [
+        "수출",
+        9
+      ],
+      [
+        "비만",
+        8
+      ],
+      [
+        "신약",
+        8
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "급여",
+        5
+      ],
+      [
+        "백신",
+        5
+      ],
+      [
+        "위고비",
+        3
+      ],
+      [
+        "마운자로",
+        3
+      ],
+      [
+        "심사",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "항암",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        4
+      ],
+      [
+        "약사공론",
+        2
+      ],
+      [
+        "히트뉴스",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "머니투데이 on MSN",
+        1
+      ],
+      [
+        "팜뉴스",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "중부일보",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "파이낸셜신문",
+        1
+      ],
+      [
+        "더구루 on MSN",
+        1
+      ],
+      [
+        "글로벌뉴스통신GNA",
+        1
+      ],
+      [
+        "노컷뉴스",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 131,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 6
+    },
+    "top_articles": [
+      {
+        "title": "Is Your Independent Pharmacy Ready for New Therapies and Innovations? - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 17:00:00 GMT+5 | 키워드+30 | 순위:313위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHlWSm82VFFZdXNxbE8tdFFrSElNN3ZucmRwNjh5bXg2dXFEMU1JNkl0aW0za1p6MmVXX2NTXzhfcVJZOXpsLW5VUWsxckNfM3J4TjZkOWVTZVJfNWZVM2FSY1lFLW1Rb3ZZS3c0Vj",
+        "published_time": "Wed, 14 Oct 2026 17:00:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 17:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHlWSm82VFFZdXNxbE8tdFFrSElNN3ZucmRwNjh5bXg2dXFEMU1JNkl0aW0za1p6MmVXX2NTXzhfcVJZOXpsLW5VUWsxckNfM3J4TjZkOWVTZVJfNWZVM2FSY1lFLW1Rb3ZZS3c0VjJUc2lUbEZCNHRFWENRcVY0SURyaWxzREdoOG83UFJJTFpiRHYzOUpfaUZvQndhV1Myc2RZ?oc=5"
+      },
+      {
+        "title": "Trump signs executive order accelerating research into psychedelic drug therapies - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 08:28:01 GMT+5 | 키워드+30 | 순위:314위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1BvY29qdzU3bm1lUEVOWUJHenU5OEpCdkxUajRMdmoxSlpORE9PRTBudnVUd0lkNF9wVzRkUldfbGFDUkNzWXJnb3VpRGp3N0hpaUotTUhBRjFoVnRtWlMtdnNwUjIzSUJnRjNQLX",
+        "published_time": "Wed, 14 Oct 2026 08:28:01 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 08:28:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1BvY29qdzU3bm1lUEVOWUJHenU5OEpCdkxUajRMdmoxSlpORE9PRTBudnVUd0lkNF9wVzRkUldfbGFDUkNzWXJnb3VpRGp3N0hpaUotTUhBRjFoVnRtWlMtdnNwUjIzSUJnRjNQLXU1YXMyMWxucHNUVWJuWnJvNXVqZmFobEh0aWxmSGFSLXpVel9Wb0ZUVmlrX1FXaXNyRU90ZEw5RUNyV1JOU1JxWE5B?oc=5"
+      },
+      {
+        "title": "Parabilis Medicines (PBLS) FDA Approvals, PDUFA Dates & Drug Alerts 2026 - MarketBeat",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 14:15:28 GMT+5 | 키워드+30 | 순위:315위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yLUZZRVhPdUVFV1hWc3ZmRllqbmxEelZCSGVwTUhlRmdjNDFyX05feVFJUlE0Um1NeVpFa05CYzhjT1dOZ3JLdzNKWnhKY0w2Nm4zSUJQVWlhWjdYd3lZX0F3OUs5N0wy?oc=5\" tar",
+        "published_time": "Wed, 14 Oct 2026 14:15:28 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 14:15:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yLUZZRVhPdUVFV1hWc3ZmRllqbmxEelZCSGVwTUhlRmdjNDFyX05feVFJUlE0Um1NeVpFa05CYzhjT1dOZ3JLdzNKWnhKY0w2Nm4zSUJQVWlhWjdYd3lZX0F3OUs5N0wy?oc=5"
+      },
+      {
+        "title": "2024 will see a new weight loss drug - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 18:24:16 GMT+5 | 키워드+30 | 순위:316위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlB1MlZVYjJrRW5SSC1UeFpQVzVEX1hGNEVuVDRwcDc4SHYzN0lRQ2szLXJlSGQ5cXpaNGpmQ051R2FGQW91V3A3U3NUREJ5QmtENUE2aHlVcE9TOFFRTDF2WHVIZFZMZzI5MFd5MT",
+        "published_time": "Wed, 14 Oct 2026 18:24:16 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 18:24:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlB1MlZVYjJrRW5SSC1UeFpQVzVEX1hGNEVuVDRwcDc4SHYzN0lRQ2szLXJlSGQ5cXpaNGpmQ051R2FGQW91V3A3U3NUREJ5QmtENUE2aHlVcE9TOFFRTDF2WHVIZFZMZzI5MFd5MTJ0RDZ1R2Q3UEN0enVPSzZsaXJ0MUZCdVFjWVlwZUxSNXZNaExfSngwR1Z0azZpU184SS1UUW9hck5raDAtd1AwWi1LWVRhMGhRcVR5VmhiQnljWXM0?oc=5"
+      },
+      {
+        "title": "Europe gives a rare skin disease drug special status. Approval could bring 10 years' exclusivity. - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 10:30:00 GMT+5 | 키워드+30 | 순위:318위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUF9vV0Z4M0s1OTd0N3drY3BXWV9DSVgwQ2hGMGxOLVBsMkxKTHBYOFZBYmpCWmt3cFJ4aWpXNHFUTGFYTVhHaWkxNm8wYnVadVNnYVVPS3JhaGl2akdCT0ZUQ1pvNmJoVUpKaFh6bm",
+        "published_time": "Wed, 14 Oct 2026 10:30:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 10:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUF9vV0Z4M0s1OTd0N3drY3BXWV9DSVgwQ2hGMGxOLVBsMkxKTHBYOFZBYmpCWmt3cFJ4aWpXNHFUTGFYTVhHaWkxNm8wYnVadVNnYVVPS3JhaGl2akdCT0ZUQ1pvNmJoVUpKaFh6bmlhSHAtYTJjMmEwM0FTREIxQUJLY0VTSnNHODdjXzJsclVDeFBTLXZGdHh1MFYyaDExbDVFUm00d1Q5SnhnWDhvdU9zNzVRenpKcUNNQm44Y3g?oc=5"
+      },
+      {
+        "title": "eli lilly trial shows new drug achieves significant weight loss - www.polskieradio.pl",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 14:28:56 GMT+5 | 키워드+30 | 순위:319위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxONjhHN25ma2pjU21YdkwwQ3hUdUI2WkRTdXpONkFDb18zYmV4SlN0WlM0Vl93QXAzemt3SmNnNXAzcU5UclZ5MDFTU2dMakNPUWtnd1JWLWRrOGtyd00wRGItbW5nTjRzWEpUam5kej",
+        "published_time": "Wed, 14 Oct 2026 14:28:56 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 14:28:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjhHN25ma2pjU21YdkwwQ3hUdUI2WkRTdXpONkFDb18zYmV4SlN0WlM0Vl93QXAzemt3SmNnNXAzcU5UclZ5MDFTU2dMakNPUWtnd1JWLWRrOGtyd00wRGItbW5nTjRzWEpUam5kejV3OTJTelhWV2R5RTZpOUpsS1kxVzFRc0dhZnd2SWRHVHkxNXo1c1dQU3p5ZFdodXNMclllWVphWVJ2T051aWNVRlhuSzYxekk?oc=5"
+      },
+      {
+        "title": "weight loss drugs news today march 2026 - Philstar Life",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 10:18:17 GMT+5 | 키워드+30 | 순위:320위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUgtLTFZTzlPblBiQ3NVUnBSeHhBV1hIb0EwMVg4ajU1WXNNWlRaRWdqUGllZTRUbm1uQ0t1STFPWnR1cUFxT3JrbVcySnAxYkFLN3dLY0haWUdna0tERlRXa0xucFkzcUNhcWc1c2",
+        "published_time": "Wed, 14 Oct 2026 10:18:17 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 10:18:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMUgtLTFZTzlPblBiQ3NVUnBSeHhBV1hIb0EwMVg4ajU1WXNNWlRaRWdqUGllZTRUbm1uQ0t1STFPWnR1cUFxT3JrbVcySnAxYkFLN3dLY0haWUdna0tERlRXa0xucFkzcUNhcWc1c25vd2p6U0NnQ2ljYjgzaXR5WWxwU2E?oc=5"
+      },
+      {
+        "title": "fda approves new weight loss drug january 2026 - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 13:14:58 GMT+5 | 키워드+30 | 순위:321위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxORHRXdEVLT012SjROLVdHMW9wN3ZTbWFWLXJKdU5CX19vaW5ZTmxGWkNqYzdQZTA0VEtDNWlMSUs2VWdoWFFtWHRNNnllTWdtY3I5anZMZThIbzMwY2ZUVnByN2xmaHF4ekFIa1ZYTG",
+        "published_time": "Wed, 14 Oct 2026 13:14:58 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 13:14:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHRXdEVLT012SjROLVdHMW9wN3ZTbWFWLXJKdU5CX19vaW5ZTmxGWkNqYzdQZTA0VEtDNWlMSUs2VWdoWFFtWHRNNnllTWdtY3I5anZMZThIbzMwY2ZUVnByN2xmaHF4ekFIa1ZYTGl2dnRiWkl5WEdreFJiT3ZjbnZZdElDaDVoMkhHOUVhM084VTM5VXZDRA?oc=5"
+      },
+      {
+        "title": "future drugs help with safe weight loss - BusinessWorld Online",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 14:13:31 GMT+5 | 키워드+30 | 순위:322위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVNzcEFaV1R2b2ZEZ29DY3V4cWI0bHJyN3A3b1NwbUtaRTh6V3IyOFFRRmpjaU9zMGVFX1hVNEMydHJ2SlVRX1c0TkFROEtpTkVRQWpFZmhueWktLWtCZGlELVlZX0oxcVBidGJJRV",
+        "published_time": "Wed, 14 Oct 2026 14:13:31 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 14:13:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVNzcEFaV1R2b2ZEZ29DY3V4cWI0bHJyN3A3b1NwbUtaRTh6V3IyOFFRRmpjaU9zMGVFX1hVNEMydHJ2SlVRX1c0TkFROEtpTkVRQWpFZmhueWktLWtCZGlELVlZX0oxcVBidGJJRVpRdjVUbFA3MzBYUFNCOHNPZjBqUXRaUQ?oc=5"
+      },
+      {
+        "title": "weight-loss drug forecasts jump to $150 billion as supply grows - Olhar Digital",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 15:15:16 GMT+5 | 키워드+30 | 순위:323위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxON0h1S3Y1OU42UXJMS3lqUFBLOXJWbFlSYWZuRFo0N19JdWswZWU0bGNyblhPaXpZdGRPaVg1TzhKTTY1LXUyREtNX2t0S3dhUWw0a1RXdDlycEk1My1iU1lpblktdE5QUEJkUjRac0",
+        "published_time": "Wed, 14 Oct 2026 15:15:16 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 15:15:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0h1S3Y1OU42UXJMS3lqUFBLOXJWbFlSYWZuRFo0N19JdWswZWU0bGNyblhPaXpZdGRPaVg1TzhKTTY1LXUyREtNX2t0S3dhUWw0a1RXdDlycEk1My1iU1lpblktdE5QUEJkUjRac0NvYTF1Q3k2ckVUWmVwM0ZsQXJzenV2R1ZJX2h1dWZhcGJjcGE5TUN3TjRlT0U2a3JscDRqWk1rVQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        21
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "obesity",
+        6
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "pricing",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 84,
+    "languages": {
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 3,
+      "Dutch / 네덜란드어": 6,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 4,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 7,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Çin, sınıfının ilk örneği ilaçlarda yüzde 25’i aşan pay hedefliyor - İstanbul Ticaret Gazetesi",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 07:53:36 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOR212VzJLRFJSWWVwbUVja21uVXMzdDNjZXhLRUViWW5TS3hIakh5SnJKXy1OcGVBdHEzbV9Nb0tQOG54cUhjaXlKd0hUU0FRRXluc05zdlQySVJYRVh3bV9JN0NiYlRkXzBmZ2RNVH",
+        "published_time": "Wed, 14 Oct 2026 07:53:36 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 07:53:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR212VzJLRFJSWWVwbUVja21uVXMzdDNjZXhLRUViWW5TS3hIakh5SnJKXy1OcGVBdHEzbV9Nb0tQOG54cUhjaXlKd0hUU0FRRXluc05zdlQySVJYRVh3bV9JN0NiYlRkXzBmZ2RNVHpseDRxdUxESEw4c19SUjBEY2tLTnhOWWhfMENUQ3FCeDV2ODd1cjhlNV85a0g4THBBWXc?oc=5"
+      },
+      {
+        "title": "العمل باستمرار على رفع مكانة الأعشاب الطبية من منطقة التعدين. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 09:59:58 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBuQ2RsNlhnakVCSUR4S3FwRmY5b2ttajFEZV8tblVjV2VhNWpVR19JZ2lYYmFqaFBJX3Z3TVNWLUZuSkdoQzUzdXhuQkhzRnUxZjVkWjhuUk9XdzRvdWdQc1hIVU5vZXc4SUE?oc=5\" ",
+        "published_time": "Wed, 14 Oct 2026 09:59:58 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 09:59:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuQ2RsNlhnakVCSUR4S3FwRmY5b2ttajFEZV8tblVjV2VhNWpVR19JZ2lYYmFqaFBJX3Z3TVNWLUZuSkdoQzUzdXhuQkhzRnUxZjVkWjhuUk9XdzRvdWdQc1hIVU5vZXc4SUE?oc=5"
+      },
+      {
+        "title": "וול סטריט נופלת, מניות התרופות מזנקות: למה הכסף עובר לאלי לילי ומרק? - ביזפורטל",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 19:50:00 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SWZ2OW4zUW1YYjlRbkswWlkzVV9WakZDbTJlcWM5bUtSYkI5WGN6c3ByOWFhTk5WZllNTmZCcUdrS1lwLTBwMzU3b2V4NW1PdmNRUkRUWUFFVzc5a3RTSHctYW16ZFFKYjJieFFpOW",
+        "published_time": "Wed, 14 Oct 2026 19:50:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 19:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SWZ2OW4zUW1YYjlRbkswWlkzVV9WakZDbTJlcWM5bUtSYkI5WGN6c3ByOWFhTk5WZllNTmZCcUdrS1lwLTBwMzU3b2V4NW1PdmNRUkRUWUFFVzc5a3RTSHctYW16ZFFKYjJieFFpOWE?oc=5"
+      },
+      {
+        "title": "תאי לב בצלחת ורובוטים שלא ישנים: העתיד של פיתוח התרופות כבר כאן - YNET",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 10:03:00 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMkxpQ1NmeG9CVDFCc2JTRlhQeUtISlY4Z3NLbEVhNk5OUXdjOEtJRktNQ3VHRXMzQlNOeHdLMG1iem96bEY1YktQLUdZQmxTblVKLUctNTJ4QThf?oc=5\" target=\"_blank\">תאי",
+        "published_time": "Wed, 14 Oct 2026 10:03:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 10:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPMkxpQ1NmeG9CVDFCc2JTRlhQeUtISlY4Z3NLbEVhNk5OUXdjOEtJRktNQ3VHRXMzQlNOeHdLMG1iem96bEY1YktQLUdZQmxTblVKLUctNTJ4QThf?oc=5"
+      },
+      {
+        "title": "Silvio Garattini, farmaci pericolosi e rischio tumori: quali medicinali possono causare il cancro e cosa prevede la legge - Corriere dello Spettacolo",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 14 Oct 2026 20:38:34 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQdTRCdFBSbGlDTWF4RU9RZURFMmY1b0x5dFE0dHEzSVN5c2lDMExpUHNoWENWUk5PdWNOR1VTODJJa1lFOWVJS1NxTjEtaktaREQ0QmI5OE5WZ2M1LWVxMDFxR1kyc1EwaVdMTEVCY0",
+        "published_time": "Wed, 14 Oct 2026 20:38:34 GMT",
+        "modified_time": "",
+        "time": "Wed, 14 Oct 2026 20:38:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdTRCdFBSbGlDTWF4RU9RZURFMmY1b0x5dFE0dHEzSVN5c2lDMExpUHNoWENWUk5PdWNOR1VTODJJa1lFOWVJS1NxTjEtaktaREQ0QmI5OE5WZ2M1LWVxMDFxR1kyc1EwaVdMTEVCY0EzcVdNUnZtM3FiTlQ1S1pnM2ptczRhNGZpcnJXRW53TGRlck9Zdk9QZFAyeTFPVkc0c1VTVkNjcUd1NjY4cFFTV21FYU10M0hDVDBvV3M2d040d1FTRmlCRUtFa1NySGdKLTNzdjNhWVpRWi05NjVrc18tS1pVcHdYOFlZNWJndVhrWXY2V2xyc29NTG9GcGJq?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
