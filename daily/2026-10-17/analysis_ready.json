@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-17",
+  "total_articles": 409,
+  "language_breakdown": {
+    "korean": {
+      "total": 192,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 16,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 17,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 4,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 128,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 25,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 89,
+      "languages": {
+        "French / 프랑스어": 3,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 6,
+        "Portuguese / 포르투갈어": 4,
+        "Dutch / 네덜란드어": 4,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 3,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 6,
+        "Arabic / 아랍어": 8,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "급여",
+      "count": 20
+    },
+    {
+      "keyword": "식약처",
+      "count": 19
+    },
+    {
+      "keyword": "허가",
+      "count": 16
+    },
+    {
+      "keyword": "신약",
+      "count": 13
+    },
+    {
+      "keyword": "약가",
+      "count": 9
+    },
+    {
+      "keyword": "제네릭",
+      "count": 7
+    },
+    {
+      "keyword": "한약",
+      "count": 6
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "위고비",
+      "count": 4
+    },
+    {
+      "keyword": "오남용",
+      "count": 4
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "비만",
+      "count": 3
+    },
+    {
+      "keyword": "백신",
+      "count": 3
+    },
+    {
+      "keyword": "마운자로",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 23
+    },
+    {
+      "keyword": "approval",
+      "count": 10
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 7
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "obesity",
+      "count": 3
+    },
+    {
+      "keyword": "generic",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 3
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 3
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "아시아에이",
+      "count": 1
+    },
+    {
+      "source": "전자신문 on MSN",
+      "count": 1
+    },
+    {
+      "source": "뉴스웨이",
+      "count": 1
+    },
+    {
+      "source": "시사저널e",
+      "count": 1
+    },
+    {
+      "source": "서울신문 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "원료 직접생산 약가우대 &quot;기준 강화에 취지 퇴색&quot; 지적",
+      "source": "약사공론",
+      "importance": 50,
+      "snippet": "의약품 원료의 해외 의존도를 낮추고 국가 공급망을 안정화하기 위해 도입된 원료 직접 생산 의약품 약가우대 제도가 지나치게 엄격한 인정 기준으로 제 기능을 하지 못하고 있다는 언급이 나왔다. 감염병 대유행 등 국가 비상 상황에 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546602"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 3,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 1,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 16,
+      "en_count": 10
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 4,
+      "en_count": 1
+    }
+  ]
+}

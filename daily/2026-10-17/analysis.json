@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-17",
+  "total_articles": 409,
+  "language_breakdown": {"korean": 192, "english": 128, "multilingual": 89},
+  "issues": [
+    {
+      "topic": "원료 직접생산 의약품 약가우대 기준",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 50,
+      "key_articles": [{"title": "원료 직접생산 약가우대 &quot;기준 강화에 취지 퇴색&quot; 지적", "importance": 50, "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546602"}],
+      "summary_kr": "원료의 해외 의존도와 국가 공급망 취약성을 줄이기 위한 직접생산 의약품 약가우대 제도가 엄격한 인정 기준으로 실효성이 약화됐다는 지적이 제기됐다.",
+      "summary_en": "A Korean report questions whether stricter eligibility criteria have weakened the intended supply-chain effect of price incentives for medicines made directly from domestically produced ingredients."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "허가", "kr_count": 16, "en_count": 10, "significance": "medium"},
+    {"keyword": "임상", "kr_count": 4, "en_count": 1, "significance": "low"},
+    {"keyword": "백신", "kr_count": 3, "en_count": 1, "significance": "low"},
+    {"keyword": "특허", "kr_count": 1, "en_count": 2, "significance": "low"}
+  ],
+  "notable_absences": ["시간 필터 적용 후 클러스터를 구성할 만큼 중복 주제가 확인되지 않음"],
+  "trend_shift": {"from_yesterday": [], "changes": []},
+  "connections": [],
+  "generated_at": "2026-10-17T07:31:00+09:00"
+}
