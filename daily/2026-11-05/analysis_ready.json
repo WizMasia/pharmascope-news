@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-05",
+  "total_articles": 404,
+  "language_breakdown": {
+    "korean": {
+      "total": 215,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 24,
+        "의료현장": 25,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 11,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 115,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 12,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 74,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 4,
+        "Portuguese / 포르투갈어": 8,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 6,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 2,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 5,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 21
+    },
+    {
+      "keyword": "약가",
+      "count": 15
+    },
+    {
+      "keyword": "한약",
+      "count": 14
+    },
+    {
+      "keyword": "심사",
+      "count": 13
+    },
+    {
+      "keyword": "급여",
+      "count": 9
+    },
+    {
+      "keyword": "FDA",
+      "count": 9
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "비만",
+      "count": 7
+    },
+    {
+      "keyword": "항암",
+      "count": 7
+    },
+    {
+      "keyword": "수출",
+      "count": 7
+    },
+    {
+      "keyword": "임상",
+      "count": 4
+    },
+    {
+      "keyword": "식약처",
+      "count": 4
+    },
+    {
+      "keyword": "위고비",
+      "count": 3
+    },
+    {
+      "keyword": "오남용",
+      "count": 3
+    },
+    {
+      "keyword": "특허",
+      "count": 3
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "manufacturing",
+      "count": 7
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "quality",
+      "count": 4
+    },
+    {
+      "keyword": "pricing",
+      "count": 3
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "inspection",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "의학신문",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 3
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 2
+    },
+    {
+      "source": "핀포인트뉴스",
+      "count": 1
+    },
+    {
+      "source": "데일리메디",
+      "count": 1
+    },
+    {
+      "source": "히트뉴스",
+      "count": 1
+    },
+    {
+      "source": "한국정경신문",
+      "count": 1
+    },
+    {
+      "source": "쿠키뉴스",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "대화제약, 경구용 항암제 ‘리포락셀’ 베트남 공략",
+      "source": "데일리메디",
+      "importance": 37,
+      "snippet": "﻿﻿대화제약이 경구용 항암제 ‘리포락셀액’의 베트남 시장 진출을 위한 교두보를 마련했다.현지 독점 판매권을 부여하는 대신 제품 공급에 따른 수출 매출과 단계별 로열티를 확보하는 방식으로 해외 사업 확대에 나선다.대화제약은 ...",
+      "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=942255"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 5
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 15,
+      "en_count": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "window_kst": {
+    "start": "2026-11-05T06:30:00+09:00",
+    "end": "2026-11-06T06:29:59+09:00"
+  },
+  "total_articles": 1,
+  "language_breakdown": {
+    "korean": 1,
+    "english": 0,
+    "multilingual": 0
+  },
+  "issues": [
+    {
+      "topic": "대화제약, 경구용 항암제 리포락셀의 베트남 진출 추진",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "대화제약, 경구용 항암제 ‘리포락셀’ 베트남 공략",
+          "importance": 37,
+          "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&wr_id=942255"
+        }
+      ],
+      "summary_kr": "대화제약은 경구용 항암제 리포락셀액의 베트남 시장 진출을 위해 현지 독점 판매권을 부여하고, 제품 공급 매출과 단계별 로열티를 확보하는 방식의 사업 확대를 추진한다. 제공된 기사 요약에 근거한 내용이다.",
+      "summary_en": "Daehwa Pharmaceutical is pursuing entry into Vietnam for Liporaxel, its oral anticancer drug, through an exclusive local sales arrangement, with product-supply revenue and milestone royalties."
+    }
+  ],
+  "cross_language_issues": [],
+  "notable_absences": [
+    "시간 범위 필터 후 analysis_ready.json의 uncategorized_articles에 1건만 남았습니다. 원시 수집 총계 404건 및 교차언어 후보는 시간 필터 전 집계여서 본 분석에서 제외했습니다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-11-04T22:32:08.261577+00:00"
+}
