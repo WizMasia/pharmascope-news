@@ -202,14 +202,395 @@
   ],
   "top_en_sources": [],
   "yesterday_issues": [],
-  "clusters": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 11,
+      "keywords": [
+        "약가",
+        "약가제도"
+      ],
+      "articles": [
+        {
+          "title": "일방적 약가제도 개편 막는다…공청회 의무화 추진",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "정부가 약가제도 주요 사항을 변경할 때 관련 단체와 전문가 등의 의견을 수렴하도록 의무화하는 법안이 발의됐다. 제네릭 의약품 약가 인하에 따른 필수의약품 공급 불안과 연구개발 투자 위축 우려가 제기되는 가운데, 약가정책 결정 과정 투명성과 예측 가능성을 높이려는 취지다. 3일 국회에 따르면 최수진 국민의힘 의원은 이 같은 내용을 담은 '국민건강보험법 일부개",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=420801"
+        },
+        {
+          "title": "최수진 의원, 약가제도 변경 시 공청회 의무화 법안 발의",
+          "source": "히트뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "[히트뉴스=이현주 기자] 정부가 약가제도의 주요 사항을 변경할 때 관련 단체와 전문가의 의견을 수렴하도록 의무화하는 법안이 발의됐다.3일 국민의힘 최수진 의원(국회 산업통상자원중소벤처기업위원회)은 약가제도 변경 시 공청회 개최를 의무화하는 내용의 '국민건강보험법 일부개정법률안'을 대표발의했다고 밝혔다.개정안은 보건복지부장관이 △약제의 요양급여대상 여부 결정",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80459"
+        },
+        {
+          "title": "오리지널보다 비싼 제네릭…복지부 &quot;약가제도 추가 개선 검토&quot;",
+          "source": "약사공론",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "오리지널보다 제네릭 약가가 높아질 수 있다는 지적에 보건복지부가 약가 우대는 제약산업 혁신과 의약품 안정공급을 위한 한시적 보상이라는 입장을 밝혔다. 개량신약&#183;천연물신약의 급여적정성 재평가 역차별 우려에는 임상적 유용성을 최우선으로 평가하겠다고 답했다.",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "10시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548078"
+        },
+        {
+          "title": "약가개편에 제약사 개발전략 변화…제네릭 줄이고 개량신약 확대",
+          "source": "약사공론",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "약가제도 개편으로 제네릭 의약품의 수익성이 낮아지면서 제약사들의 개발전략에도 변화가 나타나고 있다. 경쟁 품목이 많은 일반 제네릭의 개발을 줄이고 개량신약과 차별화 제형에 집중하는 한편, 원료의약품 직접생산과 해외 수출도 검토하고 있다.",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547905"
+        },
+        {
+          "title": "건보공단 &quot;'RSA+약가유연제' 병행안, 단계적 추진검토&quot;",
+          "source": "약사공론",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "건강보험공단이 최근 5년간 위험분담제 (RSA) 재계약을 거절한 사례는 한 건도 없었던 것으로 확인됐다. 다만 계약 조건을 변경하거나 계약을 종료한 사례는 5건으로, 2024년 4건과 2025년 1건이 발생했다.",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548108"
+        },
+        {
+          "title": "제약계, 약가개편 공청회법 기대감…&quot;예측 가능 정책수립&quot;",
+          "source": "데일리팜",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "정부가 약가제도를 손질하거나 약가를 직권조정할 때 사전에 공청회를 반드시 열도록 하는 법안이 국회 제출되면서 제약바이오업계는 예측 가능한 약가제도 수립을 위한 민관 거버넌스 구축이 가능해질 것이란 평가를 내놓고 있다. 그간 일방 통보식으로 추진돼 온 ‘하향식(Top-down) 제네릭 약가 인하’에서 벗어나 산업적 파급효과까지 공식 테이블에서 투명하게 논의할",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "15시간",
+          "url": "https://www.dailypharm.com/user/news/344141"
+        },
+        {
+          "title": "필수의약품 약가보상 확대…정부, 공급 안정 위한 추가 개선 검토",
+          "source": "약사공론",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 필수의약품의 안정적인 공급을 위해 정부가 약가 보상체계를 강화하고 추가적인 제도 개선을 검토한다. 생산비 상승과 낮은 수익성 등으로 공급 유지에 어려움을 겪는 의약품에 대한 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "9시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548077"
+        },
+        {
+          "title": "美 약가정책 변화에 K바이오 셈법은…기술수출&#183;신약 접근성 주목 [약의 정치학②]",
+          "source": "쿠키뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "챗GPT 생성 이미지 미국의 약가 인하 정책이 국내 제약바이오 기업의 기술수출과 환자의 신약 접근성에 어떤 영향을 미칠지 주목된다. 글로벌 제약사가 미국에서 기대하는 신약 수익이 달라지면 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://www.kukinews.com/article/view/kuk202611020209"
+        },
+        {
+          "title": "약가제도 개편 전 '의견수렴' 절차 의무화 추진",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "국회 산업통상자원중소벤처기업위원회 최수진 의원은 지난 2일 약가제도 개편 등 중대한 정책 변경 과정에서 의견 수렴을 위한 공청회를 의무화하는 국민건강보험법 일부개정법률안의 대표 발의했다. 최 의원 측은 최근 정부의 약가제도 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015508"
+        },
+        {
+          "title": "美 민주당 의회 탈환해도 약가 인하 압박은 계속... 빅파마 셈법 복잡해져 [약의 정치학①]",
+          "source": "쿠키뉴스 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "미국 중간선거에서 민주당이 상&#183;하원 다수당을 확보할 것으로 전망되면서 글로벌 제약바이오 업계의 약가 전략도 새로운 변수에 직면했다. 의회 주도권이 바뀌더라도 트럼프 행정부의 약가 인하 조치와 제약사별 합의가 자동으로 사라지는 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "13시간",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%E7%BE%8E-%EB%AF%BC%EC%A3%BC%EB%8B%B9-%EC%9D%98%ED%9A%8C-%ED%83%88%ED%99%98%ED%95%B4%EB%8F%84-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98-%EC%95%95%EB%B0%95%EC%9D%80-%EA%B3%84%EC%86%8D-%EB%B9%85%ED%8C%8C%EB%A7%88-%EC%85%88%EB%B2%95-%EB%B3%B5%EC%9E%A1%ED%95%B4%EC%A0%B8-%EC%95%BD%EC%9D%98-%EC%A0%95%EC%B9%98%ED%95%99/ar-AA2gJ0Ne?ocid=BingNewsVerp"
+        },
+        {
+          "title": "희귀약 신속등재 “확대 검토”…카빅티 급여 문턱엔 재정 부담",
+          "source": "뉴스더보이스헬스케어",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[심평원 종감 서면답변 = ① 신약&#183;급여 접근성] 건강보험심사평가원이 희귀질환 치료제 신속등재 시범사업의 선정 품목 확대 필요성을 보건복지부와 협의해 검토하겠다는 입장을 밝혔다. 다발골수종 치료제 카빅티주의 급여기준을 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "15시간",
+          "url": "https://www.newsthevoice.com/news/articleView.html?idxno=47917"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "keywords": [
+        "한약",
+        "감기약",
+        "제조",
+        "한약사",
+        "마약",
+        "약사",
+        "업무범위",
+        "약사회",
+        "quot",
+        "명확히"
+      ],
+      "articles": [
+        {
+          "title": "감기약 마약 제조 사건, 약사&#183;한약사 면허범위 갈등에 불씨",
+          "source": "메디파나 뉴스",
+          "importance": 61,
+          "stars": "⭐⭐⭐",
+          "snippet": "감기약(슈도에페드린) 63만여정이 필로폰 제조에 악용된 사건으로 약사와 한약사 면허범위를 둘러싼 공방이 격화되는 모양새다. 대한약사회는 4일 배포한 입장문에서 한약사의 면허범위와 의약품 판매 관리체계 문제를 더 이상 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "9시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=420907"
+        },
+        {
+          "title": "약사회 &quot;감기약 마약 제조…한약사 업무범위 명확히 해야&quot;",
+          "source": "데일리팜",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "대한약사회(회장 권영희)가 한약사의 감기약 대량 판매와 관련한 마약 제조 연루 사건을 계기로 한약사 업무범위 명확화와 의약품 판매 관리&#183;감독 강화를 촉구했다. 대한약사회는 3일 입장문을 내고 한약사가 마약 제조 일당에 감기약 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "15시간",
+          "url": "https://www.dailypharm.com/user/news/344148"
+        },
+        {
+          "title": "마약제조 가담한 한약사에, 대한한약사회 &quot;강경 대응&quot;",
+          "source": "데일리팜",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "감기약을 이용한 필로폰 제조 사건에 한약사 등이 연루된 사건과 관련해 한약사단체가 강경 대응을 예고했다. 국민의 생명과 건강을 위협하는 마약범죄에 대해서는 어떠한 이유로도 관용이 있을 수 없다는 것이다. 대한한약사회(회장 임채윤)는 '마약 제조에 악용한다는 사실을 알면서도 의약품을 공급했다면 이는 단순히 직업윤리 위반을 넘어 국민보건을 정면으로 위협하는 중",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.dailypharm.com/user/news/344133"
+        },
+        {
+          "title": "감기약 63만정 마약 제조 악용에…약사&#183;한약사 단체 '책임 공방'",
+          "source": "아시아경제 on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "감기약 63만여정을 이용해 필로폰을 제조한 일당이 경찰에 붙잡힌 사건을 두고 약사와 한약사 단체 간 갈등이 불거졌다. 대한약사회가 한약사의 면허범위와 의약품 판매 관리체계의 허점이 드러났다며 제도 개선을 촉구하고 나선 가운데 대한한약사회는 개인의 범죄를 한약사 전체의 문제로 확대해서는 안 된다고 맞섰다. 4일 관련 업계에 따르면 대한약사회와 대한한약사회는 ",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "12시간",
+          "url": "https://www.msn.com/ko-kr/money/topstories/%EA%B0%90%EA%B8%B0%EC%95%BD-63%EB%A7%8C%EC%A0%95-%EB%A7%88%EC%95%BD-%EC%A0%9C%EC%A1%B0-%EC%95%85%EC%9A%A9%EC%97%90-%EC%95%BD%EC%82%AC-%ED%95%9C%EC%95%BD%EC%82%AC-%EB%8B%A8%EC%B2%B4-%EC%B1%85%EC%9E%84-%EA%B3%B5%EB%B0%A9/ar-AA2gHCjz?ocid=BingNewsVerp"
+        },
+        {
+          "title": "감기약 63만정이 필로폰 제조에…약사회 “한약사 업무범위 명확히 하라”",
+          "source": "뉴스더보이스헬스케어",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "한약사가 판매한 감기약 63만여정이 필로폰 제조에 악용됐다는 언론보도와 관련해 대한약사회가 철저한 수사와 엄정한 처벌을 촉구했다. 보건복지부에는 한약사의 일반의약품 판매에 대한 면허범위 판단과 관리&#183;감독 강화를, 국회에는 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "12시간",
+          "url": "https://www.newsthevoice.com/news/articleView.html?idxno=47923"
+        },
+        {
+          "title": "감기약 필로폰 제조 사건에…대한한약사회, 연루 회원 엄중 징계 예고",
+          "source": "직썰",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[직썰 / 박정우 기자] 감기약을 이용한 필로폰 제조 사건에 한약사 등이 연루됐다는 보도가 나온 가운데 대한한약사회가 관련 회원의 위법행위가 확인되면 엄중히 징계하겠다고 밝혔다. 대한약사회에도 사건에 연루된 약사에 대해 같은 기준으로 조치하고, 의약품 불법 유출과 오남용을 막기 위한 공동 대응에 나서라고 촉구했다.대한한약사회는 3일 입장문을 내고 의약품을 ",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "12시간",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=151933"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "의약품",
+        "부작용",
+        "quot",
+        "정보",
+        "나눌수록",
+        "안전합니다"
+      ],
+      "articles": [
+        {
+          "title": "&quot;의약품 부작용 정보, 나눌수록 안전합니다&quot;",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "“이번 캠페인도 귀찮아서 외면하는 부작용 보고를 활성화하는데 있습니다. 수집된 부작용 정보는 의약품 품질관리, 실마리정보 탐색, 안전정보 평가&#183;생산을 거쳐 의약품 안전관리에 활용된다고 생각하면 허투루 다룰수 있는 문제가 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "6시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015592"
+        },
+        {
+          "title": "&quot;의약품 부작용 정보, 나눌수록 안전합니다&quot;",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "“이번 캠페인도 귀찮아서 외면하는 부작용 보고를 활성화하는데 있습니다. 수집된 부작용 정보는 의약품 품질관리, 실마리정보 탐색, 안전정보 평가&#183;생산을 거쳐 의약품 안전관리에 활용된다고 생각하면 허투루 다룰수 있는 문제가 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "6시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015592"
+        },
+        {
+          "title": "의약품 부작용 보고는 10%뿐…안전원 &quot;지나치지 말고 보고를&quot;",
+          "source": "청년의사",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "&quot;국민이 '의약품 부작용 보고는 어렵거나 특별한 일이 아니며, 쉽게 참여할 수 있는 안전 활동이다'라는 점을 인식할 수 있게 하겠습니다.&quot;한국의약품안전관리원은 지난 3일 식품의약품안전처 출입 전문지 기자단을 대상으로 연 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "14시간",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044277"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "급여",
+        "gift",
+        "지속",
+        "협의"
+      ],
+      "articles": [
+        {
+          "title": "&quot;GIFT 신속심사 약제 3종 급여평가 진행중, 관계기관과 협의 지속&quot;",
+          "source": "약사공론",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 식품의약품안전처의 글로벌 혁신제품 신속심사(GIFT) 대상으로 지정된 의약품 3종이 건강보험 급여평가 절차를 밟고 있는 가운데, 건강보험심사평가원이 신속한 등재를 위해 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "3시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548141"
+        },
+        {
+          "title": "GIFT 신속허가에도 급여등재 단축계획은 '미정'...심평원, 관계부처 협의 지속",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 식품의약품안전처의 글로벌 혁신제품 신속심사 지원체계(GIFT)를 통해 의약품 허가 절차를 앞당기더라도 건강보험 급여등재까지 소요되는 기간을 단축하기 위한 구체적인 실행계획은 아직 제시되지 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015624"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "온라인",
+        "의료기기",
+        "부당광고",
+        "적발",
+        "식약처"
+      ],
+      "articles": [
+        {
+          "title": "식약처, 국민 다소비 의료기기 온라인 부당광고 156건 적발",
+          "source": "라포르시안",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[라포르시안] 식품의약품안전처(처장 오유경)는 지난달 19일부터 23일까지 레이저제모기&#183;체온계 등 국민 다소비 의료기기를 대상으로 온라인 유통&#183;광고 실태를 점검한 결과 의료기기법을 위반한 게시물 156건을 확인했다고 4일 밝혔다. 이번 점검은 2025년부터 운영 중인 ‘의료기기 민&#183;관 합동 온라인 감시단’과 식약처가 함께 진행했다",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "4시간",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=242045"
+        },
+        {
+          "title": "“허가 안 된 의료기기 해외직구 조심하세요”… 식약처,온라인 불법유통&#183;부당광고 156건 적발",
+          "source": "경인종합일보",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[경기= 김형천 기자]식품의약품안전처(처장 오유경)가 국민들이 일상에서 자주 사용하는 다소비 의료기기를 대상으로 온라인 불법 유통 및 부당 광고를 집중 점검한 결과,관련 법령을 위반한 게시물 156건을 무더기로 적발했다고 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "6시간",
+          "url": "http://www.jonghapnews.com/news/articleView.html?idxno=495413"
+        }
+      ]
+    }
+  ],
   "uncategorized_articles": [
     {
-      "title": "대화제약, 경구용 항암제 ‘리포락셀’ 베트남 공략",
-      "source": "데일리메디",
-      "importance": 37,
-      "snippet": "﻿﻿대화제약이 경구용 항암제 ‘리포락셀액’의 베트남 시장 진출을 위한 교두보를 마련했다.현지 독점 판매권을 부여하는 대신 제품 공급에 따른 수출 매출과 단계별 로열티를 확보하는 방식으로 해외 사업 확대에 나선다.대화제약은 ...",
-      "url": "https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=942255"
+      "title": "“FDA 승인 비만약” 광고해놓고…“미승인” 안내문 붙여도 못 피한 경고",
+      "source": "헬스코리아뉴스",
+      "importance": 55,
+      "snippet": "[헬스코리아뉴스 / 임해리] 미국에서 세마글루타이드&#183;터제파타이드 조제약을 판매하면서 미국 식품의약국(FDA)의 승인을 받은 것처럼 광고한 업체가 경고를 받았다. 업체는 FDA 승인을 받은 브랜드약의 성분을 사용한다는 점을 ...",
+      "url": "https://www.hkn24.com/news/articleView.html?idxno=351563"
+    },
+    {
+      "title": "백신 플랫폼부터 동물용 의약품까지… 바이오 관련주 매수세 봇물",
+      "source": "핀포인트뉴스",
+      "importance": 52,
+      "snippet": "백신 진단시약 방역(신종플루, AI 등) 관련주가 4일 동반 상승하고 있다.신종 감염병에 대한 대응 필요성이 커지는 가운데 백신 플랫폼 연구개발과 진단 기술 고도화, 동물용 백신 시장 확대 기대가 맞물리면서 관련 바이오&#183;제약 ...",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501269"
+    },
+    {
+      "title": "'에페' 18만원 영향..건강보험심사평가원, 위고비 오남용&#183;약가 시험대",
+      "source": "한국정경신문",
+      "importance": 52,
+      "snippet": "[한국정경신문=정아람 기자] 건강보험심사평가원의 위고비 급여화가 에페라는 변수를 맞닥뜨렸다.4일 보건당국에 따르면 건강보험심사평가원은 지난달 7일 한국노보노디스크가 제출한 위고비의 요양급여 결정신청서를 접수해 평가 절차를 ...",
+      "url": "https://kpenews.com/View.aspx?No=4297180"
+    },
+    {
+      "title": "대웅제약 매출 지형 바뀐다, 나보타 성장에 OTC도 외형 확대",
+      "source": "약사공론",
+      "importance": 45,
+      "snippet": "특히 전체 분기 매출이 3000억원대에서 4000억원대로 확대되는 과정에서도 OTC 사업은 일정한 매출 비중을 유지하고 있다. 나보타가 수출 확대를 통해 성장을 주도하는 가운데 OTC가 안정적인 매출 기반을 뒷받침하는 구조로 해석된다.",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548069"
+    },
+    {
+      "title": "‘의료사고’ 병원 압수수색 딜레마... ‘법치와 건강권 사이’ 해외는 어떻게?",
+      "source": "경향신문 on MSN",
+      "importance": 42,
+      "snippet": "자넌덜30일 서울 용산구 의사협회에서 열린 ‘소아응급실 압수수색 규탄 및 진료권 보호 촉구 긴급기자회견’에 참석한 이지숙 아주대 소아응급의료센터장. 연합뉴스 경찰이 생후 4개월 아기가 숨진 사건을 수사하기 위해 아주대병원 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%98%EB%A3%8C%EC%82%AC%EA%B3%A0-%EB%B3%91%EC%9B%90-%EC%95%95%EC%88%98%EC%88%98%EC%83%89-%EB%94%9C%EB%A0%88%EB%A7%88-%EB%B2%95%EC%B9%98%EC%99%80-%EA%B1%B4%EA%B0%95%EA%B6%8C-%EC%82%AC%EC%9D%B4-%ED%95%B4%EC%99%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C/ar-AA2gCEZP?ocid=BingNewsVerp"
+    },
+    {
+      "title": "비대면진료 제도화 눈앞…요양기관 마약류 조제 DUR 체크해야",
+      "source": "약사공론",
+      "importance": 40,
+      "snippet": "다만 이번 의료법 개정으로 신설되는 '마약 또는 향정약 처방&#183;직접조제 전 의약품정보 확인 의무'의 법적 주체는 의사와 치과의사이지만, 비대면진료가 제도화되면서 처방 단계의 제한과 약국 조제 단계의 DUR 확인이 하나의 흐름으로 이어지기 때문에 주목할 필요가 있다.",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=547908"
+    },
+    {
+      "title": "건강보험 첩약 시범사업 3년간 조제 1261건",
+      "source": "약사공론",
+      "importance": 40,
+      "snippet": "건강보험 첩약 시범사업 시행 이후 최근 3년간 한약국의 조제건수는 모두 1261건으로 파악됐다. 보건복지부는 최근 국회 보건복지위원회 국민의힘 한지아 의원의 국정감사 서면질의에 대한 답변을 통해 지난 2024년 4월 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548073"
+    },
+    {
+      "title": "응급실 분쟁도 곧장 112에 신고… 경찰의 의료사고 감정의뢰, 4년새 최다",
+      "source": "문화일보 on MSN",
+      "importance": 32,
+      "snippet": "한국의료분쟁조정중재원(중재원)에 접수된 감정 의뢰 10건 중 7건은 경찰이 맡긴 것으로 나타났다. 의료사고를 둘러싼 갈등이 중재나 조정이 아닌 곧장 수사기관으로 향하는 ‘의료 사법화’ 경향이 짙어지기 때문인 것으로 풀이된다.",
+      "url": "https://www.msn.com/ko-kr/news/news/%EC%9D%91%EA%B8%89%EC%8B%A4-%EB%B6%84%EC%9F%81%EB%8F%84-%EA%B3%A7%EC%9E%A5-112%EC%97%90-%EC%8B%A0%EA%B3%A0-%EA%B2%BD%EC%B0%B0%EC%9D%98-%EC%9D%98%EB%A3%8C%EC%82%AC%EA%B3%A0-%EA%B0%90%EC%A0%95%EC%9D%98%EB%A2%B0-4%EB%85%84%EC%83%88-%EC%B5%9C%EB%8B%A4/ar-AA2gCWUo?ocid=BingNewsVerp"
     }
   ],
   "cross_language_candidates": [

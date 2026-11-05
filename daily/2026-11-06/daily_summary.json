@@ -1,0 +1,544 @@
+{
+  "date": "2026-11-06",
+  "total": 404,
+  "version": 1,
+  "generated_at": "2026-11-06T06:30:56.551488+09:00",
+  "korean": {
+    "total": 202,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 25,
+      "의약단체": 25,
+      "의약관련정부기관": 20,
+      "의료현장": 19,
+      "약국·약사": 4,
+      "의료정책·인력": 25,
+      "전통의학": 9,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "수술실 간호사 숙련도까지 데이터로…삼성서울병원 美 특허",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:4시간+20 | 키워드+20 | 순위:112위+2",
+        "snippet": "수술실에 어떤 간호사를 배치할 것인지는 수술의 특성과 의료진의 경험, 인력 운영 상황 등을 종합적으로 고려해야 하는 문제다. 수술 분야가 세분화되고 첨단 장비의 활용이 늘어나면서 수술에 참여하는 간호사의 숙련도와 전문성을 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421071"
+      },
+      {
+        "title": "약사회 &quot;감기약 마약 제조…한약사 업무범위 명확히 해야&quot;",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+20 | 순위:50위+2",
+        "snippet": "대한약사회(회장 권영희)가 한약사의 감기약 대량 판매와 관련한 마약 제조 연루 사건을 계기로 한약사 업무범위 명확화와 의약품 판매 관리&#183;감독 강화를 촉구했다. 대한약사회는 3일 입장문을 내고 한약사가 마약 제조 일당에 감기약 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.dailypharm.com/user/news/344148"
+      },
+      {
+        "title": "감기약 마약 제조 사건, 약사&#183;한약사 면허범위 갈등에 불씨",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:52위+2",
+        "snippet": "감기약(슈도에페드린) 63만여정이 필로폰 제조에 악용된 사건으로 약사와 한약사 면허범위를 둘러싼 공방이 격화되는 모양새다. 대한약사회는 4일 배포한 입장문에서 한약사의 면허범위와 의약품 판매 관리체계 문제를 더 이상 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=420907"
+      },
+      {
+        "title": "전남대병원 간호사 2명, SCI급 국제학술지 논문 게재…임상 연구 성과",
+        "source": "전국매일신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:전국매일신문+10 | 최신:4시간+20 | 키워드+20 | 순위:111위+2",
+        "snippet": "전남대학교병원 간호사들이 신생아와 소아 환자, 가족 및 간호인력을 대상으로 한 전문 연구를 수행해 SCI급 국제학술지에 잇따라 논문을 게재하는 성과를 거뒀다.전남대병원은 신생아중환자실(NICU) 김나윤 간호사와 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309009"
+      },
+      {
+        "title": "[긴급진단/ 공공의료 확충과 의사 양성, 울산의 해법은] 병원 확충돼도 텅빈 진료실… 의사 수급 과제",
+        "source": "경상일보 on MSN",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:경상일보 on MSN+10 | 최신:6시간+20 | 키워드+20 | 순위:114위+2",
+        "snippet": "울산에 공공의료기관이 잇따라 들어서고 있지만 정작 환자를 진료할 의사 확보는 쉽지 않다. 의료시설 확충만으로는 시민들이 체감하는 의료서비스 개선을 기대하기 어려운 현실이다. 여기에 울산의대의 서울아산병원 임상실습을 둘러싸고 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EA%B8%B4%EA%B8%89%EC%A7%84%EB%8B%A8-%EA%B3%B5%EA%B3%B5%EC%9D%98%EB%A3%8C-%ED%99%95%EC%B6%A9%EA%B3%BC-%EC%9D%98%EC%82%AC-%EC%96%91%EC%84%B1-%EC%9A%B8%EC%82%B0%EC%9D%98-%ED%95%B4%EB%B2%95%EC%9D%80-%EB%B3%91%EC%9B%90-%ED%99%95%EC%B6%A9%EB%8F%BC%EB%8F%84-%ED%85%85%EB%B9%88-%EC%A7%84%EB%A3%8C%EC%8B%A4-%EC%9D%98%EC%82%AC-%EC%88%98%EA%B8%89-%EA%B3%BC%EC%A0%9C/ar-AA2gP3ZU?ocid=BingNewsVerp"
+      },
+      {
+        "title": "화이자 '리트풀로', 중증 원형탈모 급여 적정성 인정…12세 이상 포함",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:2시간+20 | 키워드+5 | 순위:171위+2",
+        "snippet": "건강보험심사평가원 제11차 약제급여평가위원회 심의 결과. &#169;건강보험심사평가원한국화이자제약의 중증 원형탈모증 치료제 '리트풀로캡슐 50mg(성분명 리틀레시티닙토실산염)'이 건강보험 급여 적용을 위한 주요 ...",
+        "published_time": "2시간",
+        "modified_time": "",
+        "time": "2시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=334844"
+      },
+      {
+        "title": "감기약 63만정, 필로폰 제조 일당에…의약품 대량 유통관리 '도마'",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:48위+2",
+        "snippet": "슈도에페드린 함유 감기약이 필로폰 제조에 악용된 사건을 계기로 의약품 대량 유통&#183;판매관리 문제가 불거지고 있다. &#169;AI 생성 이미지슈도에페드린 성분 감기약 63만여 정이 필로폰 제조 일당에 공급된 사건을 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=334850"
+      },
+      {
+        "title": "오리지널보다 비싼 제네릭…복지부 &quot;약가제도 추가 개선 검토&quot;",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:165위+2",
+        "snippet": "오리지널보다 제네릭 약가가 높아질 수 있다는 지적에 보건복지부가 약가 우대는 제약산업 혁신과 의약품 안정공급을 위한 한시적 보상이라는 입장을 밝혔다. 개량신약&#183;천연물신약의 급여적정성 재평가 역차별 우려에는 임상적 유용성을 최우선으로 평가하겠다고 답했다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548078"
+      },
+      {
+        "title": "“FDA 승인 비만약” 광고해놓고…“미승인” 안내문 붙여도 못 피한 경고",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:1일+10 | 키워드+20 | 순위:118위+2",
+        "snippet": "[헬스코리아뉴스 / 임해리] 미국에서 세마글루타이드&#183;터제파타이드 조제약을 판매하면서 미국 식품의약국(FDA)의 승인을 받은 것처럼 광고한 업체가 경고를 받았다. 업체는 FDA 승인을 받은 브랜드약의 성분을 사용한다는 점을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=351563"
+      },
+      {
+        "title": "전남대병원 간호사들, 신생아&#183;소아 간호 연구 SCI급 학술지 게재",
+        "source": "의학신문",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:7시간+15 | 키워드+20 | 순위:113위+2",
+        "snippet": "[의학신문&#183;일간보사=차원준 기자] 전남대학교병원 신생아중환자실(NICU)과 소아중환자실(PICU) 간호사들이 임상 현장의 경험을 바탕으로 한 연구 논문을 SCI급 국제학술지에 잇따라 게재했다. 김나윤 간호사 NICU 김나윤 ...",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015662"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        28
+      ],
+      [
+        "급여",
+        16
+      ],
+      [
+        "임상",
+        15
+      ],
+      [
+        "한약",
+        8
+      ],
+      [
+        "비만",
+        7
+      ],
+      [
+        "심사",
+        7
+      ],
+      [
+        "약가",
+        7
+      ],
+      [
+        "수출",
+        6
+      ],
+      [
+        "허가",
+        5
+      ],
+      [
+        "백신",
+        5
+      ],
+      [
+        "GLP-1",
+        3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "특허",
+        3
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "천연물",
+        1
+      ],
+      [
+        "식약처",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "의학신문",
+        5
+      ],
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "쿠키뉴스 on MSN",
+        2
+      ],
+      [
+        "헬스코리아뉴스",
+        2
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        2
+      ],
+      [
+        "아시아경제 on MSN",
+        2
+      ],
+      [
+        "메디파나 뉴스",
+        2
+      ],
+      [
+        "미디어펜 on MSN",
+        1
+      ],
+      [
+        "뉴스1 on MSN",
+        1
+      ],
+      [
+        "재경일보",
+        1
+      ],
+      [
+        "머니투데이 on MSN",
+        1
+      ],
+      [
+        "히트뉴스",
+        1
+      ],
+      [
+        "뉴스티앤티",
+        1
+      ],
+      [
+        "청년의사",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 112,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 21,
+      "Regulatory Agencies": 14,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Sacred Crown Awards 2026: Dr Wiafe Akenteng’s Natural Way Herbal Clinic wins Herbal Medicine Excellence Award - Modern Ghana",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 09:26:00 GMT+5 | 키워드+30 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1BrcjBxdTBUOHlubHJPdk9acmRSWDNrNkpxSXRKdVBkMHVuVGFQYnlONVV2UFQwd19XNDJlVHVFZVpfOEMtUjZMdFZ4bVVyUVpCeWdBMzZnZU9wQXk3ck1Cb0F4eDluM1EzdTN5T2",
+        "published_time": "Thu, 05 Nov 2026 09:26:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 09:26:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1BrcjBxdTBUOHlubHJPdk9acmRSWDNrNkpxSXRKdVBkMHVuVGFQYnlONVV2UFQwd19XNDJlVHVFZVpfOEMtUjZMdFZ4bVVyUVpCeWdBMzZnZU9wQXk3ck1Cb0F4eDluM1EzdTN5T283NlVoNGtEU2Y2RlZyaGxMUmgwZ3hTaS1hd3Fic0pKa2w1bUVrSnowdEln0gGYAUFVX3lxTE9ucjY4ZGZ2RDNKUEtLSE1xYlp4aUFsaVhLTVJ1NEFpMFgxUk5NWmhSRDRjTDk4bU5MSjdaSmcxeE5CRmFzZDloR2RLRVFBeUJZQU9GanNUMWQwS1F2NTEwbU9OOEdhaU1pQ053RHZpX0dpZXFwN3Zjc2M0SmlhaDY4TEJ6SkFvcnFoX05FX2JlRU9NNHdBQkhR?oc=5"
+      },
+      {
+        "title": "Drug From Stony Brook-Developed Anti-Cancer Compounds Now in Clinical Trials | Newswise - Newswise",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 18:20:00 GMT+5 | 키워드+30 | 순위:97위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPalptdlhPN3FfQ3lFaGtYYUs3QTFjckhHOWEwTWhHbW02ZUMtb0NsLW0yVWl1UHRac2poZnZwQnBjVWZCUGRtTVc3OExsWHRkSjZHSlFCYUJzUzV1ZzZFNF8tNVZrenpMc01zYm9QUm",
+        "published_time": "Thu, 05 Nov 2026 18:20:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 18:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalptdlhPN3FfQ3lFaGtYYUs3QTFjckhHOWEwTWhHbW02ZUMtb0NsLW0yVWl1UHRac2poZnZwQnBjVWZCUGRtTVc3OExsWHRkSjZHSlFCYUJzUzV1ZzZFNF8tNVZrenpMc01zYm9QUmVWWThEYndYaW0tMmtrTEJnbjFiQW1JOHFxeGFDQzFrZFF5OUlNNExjRllUZWNwOHRyRnBwRFJ6RGd5ZmxfX2o40gGvAUFVX3lxTE9qWm12WE83cV9DeUVoa1hhSzdBMWNySEc5YTBNaEdtbTZlQy1vQ2wtbTJVaXVQdFpzamhmdnBCcGNVZkJQZG1NVzc4TGxYdGRKNkdKUUJhQnNTNXVnNkU0Xy01Vmt6ekxzTXNib1BSZVZZOERid1hpbS0ya2tMQmduMWJBbUk4cXF4YUNDMWtkUXk5SU00TGNGWVRlY3A4dHJGcHBEUnpEZ3lmbF9fajg?oc=5"
+      },
+      {
+        "title": "Achondroplasia Pipeline Report 2026: Discover Novel Drug Candidates, Ongoing Trials, and Major Players Shaping Future Care | BioMarin Pharma, BridgeBio/ QED Therapeutics, Ribomic Inc, Sanofi - StreetInsider",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 20:57:28 GMT+5 | 키워드+30 | 순위:98위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVjZFNF9OakNNclB4SllhWHVNRUt6YWRUeHVqRXE3NFlHNF9hZjlvNVpnV2VKUTB1aUN1SGRlRllLM3JuSlBFOFlFdGw0dG5RcDZWWmN2S0Rpb1p4VWlaZ29GQjA2cmhqZ3hZd0p4eH",
+        "published_time": "Thu, 05 Nov 2026 20:57:28 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 20:57:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQVjZFNF9OakNNclB4SllhWHVNRUt6YWRUeHVqRXE3NFlHNF9hZjlvNVpnV2VKUTB1aUN1SGRlRllLM3JuSlBFOFlFdGw0dG5RcDZWWmN2S0Rpb1p4VWlaZ29GQjA2cmhqZ3hZd0p4eHlTVG4xOVY0Q1ZEaVgyYTFIaEdGMklPZmhUdjZlUXd0b0FZdXlUVWh2OHVLbzhEWDUxcXN4aVlLTnhPT2Q5UktyYkJzN1pEMW1lUnJTYW9CdnNLMlBkejc4TzJRSzZ1enV0OTVUTFV1eFN2WnE2azhqYnZReWYwT2NhaFdEd3BqS3RDLTVXYU9QZzlBU1J6TkxEUGhNc1RYM3dJS3RzbDhqaVh0RFdmNkZZa1FYbV9KYWRRWXVielpQcGNWckhWNFVORDJuVHlfUkhwZTBUdFVDaE5FckJSRVNvTFhlUHpieElzaXY2bWlhNEJyeVBLdTlJdDdpajlGTThISXNSWG8xcA?oc=5"
+      },
+      {
+        "title": "Dry Eye Disease Pipeline Report 2026: Discover Novel Drug Candidates, Ongoing Trials, and Major Players Shaping Future Care | Laboratorios Sophia, Iolyx Therapeutics, Oculis Pharma, HanAll BioPharma - StreetInsider",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 15:53:24 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxNMkJvalVTb05SZzNENENoaXhfNVdBZEJqYTFGRVhydEQ3eFRLNGNwRFk1b1JZNEZIOW9NU0FROWNGT3p3bjlJcmVpaTNEMUVmTm5sdlloQ2xZeDUwb2FGaUlVSXJhWVdha1g3SFpTUS",
+        "published_time": "Thu, 05 Nov 2026 15:53:24 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 15:53:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNMkJvalVTb05SZzNENENoaXhfNVdBZEJqYTFGRVhydEQ3eFRLNGNwRFk1b1JZNEZIOW9NU0FROWNGT3p3bjlJcmVpaTNEMUVmTm5sdlloQ2xZeDUwb2FGaUlVSXJhWVdha1g3SFpTUS1HX1A5S3llQ0lPdC1hcFVzb1FYWlZHaENJeG9DTmlkWUdhNVJrdEJZTlFKR0VhbjhseWxPNlV4X3Z4aE9NelpMQ3hmaUhuS1ZITVVYbmd3ZGM0c1l3QUs5Qlp4ZFc4SzN2RFowZnRhdFRBS0pWNmF4aUFZa3U5UWh1NzdsY3FQT2lpWHFLSmFnRC1kU3pBWlh6ckR3dEJoc0g4aTBoN25BdDEtSjlTTEJTVkJheFBkXzBkaTZvank4Y0RqdjRUM1h0RVpOWC1MX21fVzZQMlp5TjVYZDhUMUo4R2tiS2VmbzJ3MHNRODZYUm41ZTE1eVltSkRULUtOYTgwc1dLa2RHS0ZFN05sTjhxTjB2Mg?oc=5"
+      },
+      {
+        "title": "FDA approves first ever plasmid DNA-based immunotherapy - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 18:53:36 GMT+5 | 키워드+30 | 순위:101위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RWQWs3SVZkekJTSmc5aWtjNEd3ZFh2S0NZNzltRzNzMUktM2x3MzVPZzlKMGkyTk9HSEtkMXhza2dzMTctUnB1R2pyX3RfYnI2Ry1XdmdkYXNPUmdzV0tabjNxTjNoXzVzdU9RUF",
+        "published_time": "Thu, 05 Nov 2026 18:53:36 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 18:53:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3RWQWs3SVZkekJTSmc5aWtjNEd3ZFh2S0NZNzltRzNzMUktM2x3MzVPZzlKMGkyTk9HSEtkMXhza2dzMTctUnB1R2pyX3RfYnI2Ry1XdmdkYXNPUmdzV0tabjNxTjNoXzVzdU9RUFFYUG1jQUw3dEhpTk13aXlXSHZwQ3dUMVNobGVUOUl4c01WZExaWlAwVnRidw?oc=5"
+      },
+      {
+        "title": "ANI makes $560M play for Egetis and its approved orphan drug Emcitate - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 16:35:15 GMT+5 | 키워드+30 | 순위:102위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Q3ZHNqSHBqTmZVYlJPNkNnSDczVk1ITUVra0hGWDJBcXdsaEJjeTdqdmpZcXBNVVFtQlZWODc5N2tSQlpRZGt6YWQtNUxBMG1YZTBxSlJBUUh4MWNBWmxrN05fYUxVc01EYzhYT1",
+        "published_time": "Thu, 05 Nov 2026 16:35:15 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 16:35:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0Q3ZHNqSHBqTmZVYlJPNkNnSDczVk1ITUVra0hGWDJBcXdsaEJjeTdqdmpZcXBNVVFtQlZWODc5N2tSQlpRZGt6YWQtNUxBMG1YZTBxSlJBUUh4MWNBWmxrN05fYUxVc01EYzhYT19aMWRMeXNEX0ZMRWlRZHJQTEMzRThkWFRxVjV5Mmg1V0hOTzBxdnc?oc=5"
+      },
+      {
+        "title": "Elevar Therapeutics Announces FDA PDUFA Date for Resubmitted New Drug Application for Rivoceranib in Combination With Camrelizumab for Use as a First-line Systemic Treatment for Unresectable or Metastatic Hepatocellular Carcinoma - The Manila Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 16:16:01 GMT+5 | 키워드+30 | 순위:104위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisANBVV95cUxPUmduUTMxZXM5d21ZUTk0S3I0MmtGS1lIMGFBYUowZmpOV2xTNldVMEdFbHZvWEdQOF95dXdkLXF2T3J6S0szUnhab2ZLNEtPNHROU2IzcWFCWUR5NVItY1BfNDY3MlJlUlBSNTFtWV",
+        "published_time": "Thu, 05 Nov 2026 16:16:01 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 16:16:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxPUmduUTMxZXM5d21ZUTk0S3I0MmtGS1lIMGFBYUowZmpOV2xTNldVMEdFbHZvWEdQOF95dXdkLXF2T3J6S0szUnhab2ZLNEtPNHROU2IzcWFCWUR5NVItY1BfNDY3MlJlUlBSNTFtWVlTSHUzb3ZmLUVsdFBZLV9RcFJZV21tR281WXBBWlU4Wm1sSTJJUmx5b2RCWEY1d0NLVWdHWTRrOXlMd3hfci1xOEh3eDdTN1FHX2ZBM1U4eU52V2hMamQ1dDJ6N2dmV2ltc3Fzb21CQWFwdl91VjNWVUwyLXNmZm9oQnAyQUpNNGVCTGJ2bms4RTdTMnZHVDhwX2ZqYzBKNXJwVUdtbUpFY3pONFA3aTloaDRaQWVJbVJ5Y1RHZHpuTjlpRW9hWXVIYk9sVUVyT1gtdzJTZDc5bFRNZ2MzUkFQY3p2VmZyOU1YSm5pOVVYSm5JT0ZOUFgwam1QcldYSl95UU1CM0h0N1R3UDFXNVBhb1RsTnBOSXFVRFdJSFAwOU9Kc2hheDlqUjJCS3h0QlBKend3WDJ0cmVJTUVrckVSRTJxUXBnOGLSAbYDQVVfeXFMT1hHbU1idDdIczJjWHVBZUdqSEVKS2lMS092U0l0VWg3VnJIUmhkaDliQmhkSHRLYWs1NU02WmhsV2xhN2FGOFNVMWRQWEljWTh1a3lXaUkyS3RkbXUxdTQ4RFBiY2NjajlQRVFYU1BtWjdzR0JOdm42emJncHRWZXI0OEVJZlQxV1lmQU85TV9sMXNaWnFub2JPWjY0RE1JRHZDcFFnYTQyN1c3WjBBZEJJZ2FxVHdlUVZmTkkzekRwZktWV1lRa1V6MnU3MUFGcDVQb19Hc21SMU54SGc0eE44dWhKTkl6ZUd4NmpSYjZKQV8yV1I0djFpaUkyM3BaYkNibVVqRkNETEJIb2ktVU5rQTFxTkx1aV9YQUM0QzVGaVVMSnMxRzE1M01fV3JQNTlNU1hqSFR5dkNMYkduTU11X0IyQzRrWkFtN2ZWTEp0R0hjLW92WkRhTjB3c3FUN29ZWjRydDZFUlFBcWREdnk0THdpblFRalhpNDlIaW4tUXpVNjdjTzROcUo2YkRIU3FzSWtZNVYyZElnUkpINjYydVJtbTF3a1RiTUVsZl8tS1hEal9R?oc=5"
+      },
+      {
+        "title": "Kazia Therapeutics Recognized as \"Drug Discovery Company of the Year\" in 2026 BioTech Breakthrough Awards - The Malaysian Reserve",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 12:36:49 GMT+5 | 키워드+30 | 순위:111위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdDRqSThFUFFJT3hyanJBVVhHaW5JcG9kMTV3N2Z5bkU1OG0yazNLQ1ZrRGc0Qnc0ZGVISlNocHdBbmVaVlBPSHVuNkJWQURQa181bkRVb0NzWXlmRnhJSkpLUUZxN2tBLV80SDN1cF",
+        "published_time": "Thu, 05 Nov 2026 12:36:49 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 12:36:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdDRqSThFUFFJT3hyanJBVVhHaW5JcG9kMTV3N2Z5bkU1OG0yazNLQ1ZrRGc0Qnc0ZGVISlNocHdBbmVaVlBPSHVuNkJWQURQa181bkRVb0NzWXlmRnhJSkpLUUZxN2tBLV80SDN1cFo2TFFMa0xoZ3BoY19ua1FVRUNhdXpLSVc0WGRqNzJzVHBLRGlBOFVOcFB6VS1sWGhlVHkzbTF6cGdiUjY3SWpKYlVMRmRuZThyZlloNHZ6WllOQzl6b0E1bTV2bTNVaExEWWtNRjRoaGxhSW1UY0ZfMGhzbC16QQ?oc=5"
+      },
+      {
+        "title": "Haplotype-Based ASOs Can Bypass Bespoke Rare Disease Drug Design - Inside Precision Medicine",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 16:00:30 GMT+5 | 키워드+30 | 순위:114위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVBsRWZhdk1LZ1RDRlhXaFJocmNpcWFkZmlYdER1cm5fRTdxaXYwWGFwcmhvNlRnRDVHbTRYMmwtU1hSYzNZbFFYbmZiMkRLa29QcmxLY1ZFUndXVHFsNVBOYlZYTmQzRFY3MzZoN2",
+        "published_time": "Thu, 05 Nov 2026 16:00:30 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 16:00:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWVBsRWZhdk1LZ1RDRlhXaFJocmNpcWFkZmlYdER1cm5fRTdxaXYwWGFwcmhvNlRnRDVHbTRYMmwtU1hSYzNZbFFYbmZiMkRLa29QcmxLY1ZFUndXVHFsNVBOYlZYTmQzRFY3MzZoN2tYdWhIMEdmamZONEhfdnFkT29IbW9YM0Zrc094ZVBpZ2xBazdsZndFTDU4UXpZYTYzcVU4Z3lrOE1vWVhsaEZQS1drdmtBeDZnOFoydEF1Q0xCWjZmQjRSWDRjcw?oc=5"
+      },
+      {
+        "title": "Zai Lab reports phase 2 trial results for cancer drug candidate - Investing.com UK",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 14:10:00 GMT+5 | 키워드+30 | 순위:118위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXF0QmNPMGtoVE1fc2FkUU5vbklxYmNZc2tMX2ZaMGc5Ym1OQ3ZxUDBrRTdWMHdsZmZlN0thaHY0V0FKN01wdVkwWlZBSU1rZWtNOEhGUFpIN2ZhTFNtX0VJU0lnaENtWE5EUGdHRk",
+        "published_time": "Thu, 05 Nov 2026 14:10:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 14:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXF0QmNPMGtoVE1fc2FkUU5vbklxYmNZc2tMX2ZaMGc5Ym1OQ3ZxUDBrRTdWMHdsZmZlN0thaHY0V0FKN01wdVkwWlZBSU1rZWtNOEhGUFpIN2ZhTFNtX0VJU0lnaENtWE5EUGdHRkp2SU41b040UEVUeDdOVUJmTk9MU0NVWnJTNC1IUHNkMEpMalFfSkZCdVY1TXZJMGRGTmpSNG9vbzU0LURoZjAxSlI2VzlmamV6ejlxVlJta1psQQ?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "clinical trial",
+        4
+      ],
+      [
+        "patent",
+        3
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 90,
+    "languages": {
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 3,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 2,
+      "Chinese Simplified / 중국어": 2,
+      "Chinese Traditional / 대만": 9,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 4,
+      "Indonesian / 인도네시아어": 8,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Sağlık Bakanlığı, tıbbi bitkilerin işlenmesi ve geleneksel ilaçların hazırlanmasına ilişkin yeni standartlar düzenlemeleri geliştiriyor. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 11:52:45 GMT+5 | 키워드+25 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUF6OHd2NDZFQ1F5N2l5X1B2R2lJRWVMc25FUzdCVlpTVjBkX0dyZk9CSFlCM1JMcUFTazNnVzFIcGdtdlZ1aDYzYmdCXzFkbFE5aE81X1dGem5CQkVvajN1RjRSNVhLMFBSWWZhd2",
+        "published_time": "Thu, 05 Nov 2026 11:52:45 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 11:52:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUF6OHd2NDZFQ1F5N2l5X1B2R2lJRWVMc25FUzdCVlpTVjBkX0dyZk9CSFlCM1JMcUFTazNnVzFIcGdtdlZ1aDYzYmdCXzFkbFE5aE81X1dGem5CQkVvajN1RjRSNVhLMFBSWWZhd2gwem40d3h1cm1ISHpwNVFPRzRZVnN0ck5LZ212a28yOC1OakEwRmhlNjc5bktnaVVRMzJISld3MDhvdkhKVldtYnJB?oc=5"
+      },
+      {
+        "title": "Industri Kimia dan Farmasi Tumbuh 8,1%, Airlangga Ungkap Faktor Pendorongnya - MetroTVNews.com",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 15:10:49 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGZlZFRpSUhZVzFhaFl4aWlOZ3V2R0hBZmItRk13RTQzODFRT1hNSmtsc2xDMS1ETkEwYXhJMDF0dnIwaVRpLXNnbmx1cGFYdkVQV3RRczNhbDBtdkRXLXRvLTBjazRTVGhHaGFSdW",
+        "published_time": "Thu, 05 Nov 2026 15:10:49 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 15:10:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRGZlZFRpSUhZVzFhaFl4aWlOZ3V2R0hBZmItRk13RTQzODFRT1hNSmtsc2xDMS1ETkEwYXhJMDF0dnIwaVRpLXNnbmx1cGFYdkVQV3RRczNhbDBtdkRXLXRvLTBjazRTVGhHaGFSdWlkdlI3SDMtcjZHX0dSaWVRZ3pyb1JKRDlWTUtRS0tJTzc5SUUtZDZSci1RYmZpcHNiWGpIY2txYlM2SDF3c1lEUnFrdXVXWFk?oc=5"
+      },
+      {
+        "title": "Industri Kimia dan Farmasi Naik 8,1 Persen, Airlangga Dorongan Ekspansi Obat BPJS - IDX Channel",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 12:30:00 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPaURIZDIzdUJERk1hMVFJc2x5UEpleHR1UUk0NzhnU093QXlscTcydm5NNWRmdDVIbldYS25fc2txQVhqWkpnTkFIeElaeWNieW1IRXp1V1V1NkRwZDFSY1k5eWswM2dsbHJOaExURG",
+        "published_time": "Thu, 05 Nov 2026 12:30:00 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 12:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaURIZDIzdUJERk1hMVFJc2x5UEpleHR1UUk0NzhnU093QXlscTcydm5NNWRmdDVIbldYS25fc2txQVhqWkpnTkFIeElaeWNieW1IRXp1V1V1NkRwZDFSY1k5eWswM2dsbHJOaExURGd3ZjJmWHRPQnZPT2NyTmR3cE01RGJ2Q0NzVWU5RzRJZEU1MC1HVDN5TDhqSTlqY1M3ZGxtdlV6amlOLUhmWHh2MlY2Ulp2dklmWUJCUdIBvAFBVV95cUxPaURIZDIzdUJERk1hMVFJc2x5UEpleHR1UUk0NzhnU093QXlscTcydm5NNWRmdDVIbldYS25fc2txQVhqWkpnTkFIeElaeWNieW1IRXp1V1V1NkRwZDFSY1k5eWswM2dsbHJOaExURGd3ZjJmWHRPQnZPT2NyTmR3cE01RGJ2Q0NzVWU5RzRJZEU1MC1HVDN5TDhqSTlqY1M3ZGxtdlV6amlOLUhmWHh2MlY2Ulp2dklmWUJCUQ?oc=5"
+      },
+      {
+        "title": "تعمل وزارة الصحة على وضع لوائح جديدة بشأن معايير معالجة الأعشاب الطبية وإعداد الأدوية التقليدية. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 11:40:26 GMT+5 | 키워드+30 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmZBRGxvT0tBY1U1eWJDbDlmZ0xqNG5qOHotYnhURmh2b0FPYW1fZlkyMzh2bEdwV1p3M3BRMElSWmN0aFJDT21STDhfMklKN0loYV9yNVRyUXRnc2FlUDJMZ0Vqem5EaUhXY1NxYU",
+        "published_time": "Thu, 05 Nov 2026 11:40:26 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 11:40:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTmZBRGxvT0tBY1U1eWJDbDlmZ0xqNG5qOHotYnhURmh2b0FPYW1fZlkyMzh2bEdwV1p3M3BRMElSWmN0aFJDT21STDhfMklKN0loYV9yNVRyUXRnc2FlUDJMZ0Vqem5EaUhXY1NxYUNQZmljZy1GdGU3WWRBNnFaUzFNRUlxZFZwek1EVFJuaU5kWGtxWnBodWhNcUN1d0REUDlxeWtCNFNxVVM5MEpaQ0tn?oc=5"
+      },
+      {
+        "title": "全球醫藥供應鏈巨頭轉型特殊藥品業務成功抵銷品牌藥價壓力 - GeneOnline",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Thu, 05 Nov 2026 17:25:17 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxQRDB4dkxLUTAtNlU5SE9rWmljREtzZEwwNGJmSWdtRjRmcnJkLTlrbWpmbU5odTc0b0NicHJfTHRZWW1BbFN1Wmk3RGJ2bFhBam9ReEkxRlRMRVlDNmlsNFJwN2ZZN0dEVUZqRW9PUk",
+        "published_time": "Thu, 05 Nov 2026 17:25:17 GMT",
+        "modified_time": "",
+        "time": "Thu, 05 Nov 2026 17:25:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQRDB4dkxLUTAtNlU5SE9rWmljREtzZEwwNGJmSWdtRjRmcnJkLTlrbWpmbU5odTc0b0NicHJfTHRZWW1BbFN1Wmk3RGJ2bFhBam9ReEkxRlRMRVlDNmlsNFJwN2ZZN0dEVUZqRW9PUkJ1YmtVbTMybDFTWnFTaGx2V3lkYVpkT2ZNZ053VkxvR0tBNkNDUDh3WW8yY081TGt0LTFqQl9EMW5ncnlBcGxDamdzZUZtTk5xMWVXVmZyQ1hiLWVCM0xDSzNfbUxOUl9UOG9lRXllNU0wSGZwS2d1SXJuYng2R2tzemlXaTFISl9BT2x2MXZ5S19OUjRnWWZBOVRud3F1Zk0tTmpFX1ZTeTREM2g3cXRpYWFSRHlxeHctZ3VxS3RPVU41djl2RVBzRnBDdUpodzhvaFI4V1B1VGNHTk1Pdw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
