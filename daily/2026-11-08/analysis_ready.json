@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-08",
+  "total_articles": 236,
+  "language_breakdown": {
+    "korean": {
+      "total": 117,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 12,
+        "의약정책": 4,
+        "의약단체": 15,
+        "의약관련정부기관": 15,
+        "의료현장": 12,
+        "약국·약사": 3,
+        "의료정책·인력": 11,
+        "전통의학": 3,
+        "감염·보건": 17
+      }
+    },
+    "english": {
+      "total": 65,
+      "categories": {
+        "Drugs & Therapies": 16,
+        "Pharma Industry": 18,
+        "Pharma Policy": 12,
+        "Pharma Associations": 14,
+        "Regulatory Agencies": 3,
+        "Traditional & Complementary Medicine": 2
+      }
+    },
+    "multilingual": {
+      "total": 54,
+      "languages": {
+        "French / 프랑스어": 0,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 2,
+        "Italian / 이탈리아어": 2,
+        "Portuguese / 포르투갈어": 4,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 3,
+        "Indonesian / 인도네시아어": 5,
+        "Hindi / 힌디어": 7,
+        "Arabic / 아랍어": 7,
+        "Hebrew / 히브리어": 0,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 14
+    },
+    {
+      "keyword": "허가",
+      "count": 11
+    },
+    {
+      "keyword": "임상",
+      "count": 11
+    },
+    {
+      "keyword": "식약처",
+      "count": 7
+    },
+    {
+      "keyword": "심사",
+      "count": 6
+    },
+    {
+      "keyword": "비만",
+      "count": 5
+    },
+    {
+      "keyword": "한약",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "급여",
+      "count": 2
+    },
+    {
+      "keyword": "FDA",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "생약",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "patent",
+      "count": 1
+    },
+    {
+      "keyword": "recall",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "의학신문",
+      "count": 5
+    },
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "약사공론",
+      "count": 4
+    },
+    {
+      "source": "데일리메디",
+      "count": 3
+    },
+    {
+      "source": "청년의사",
+      "count": 2
+    },
+    {
+      "source": "뉴스더보이스헬스케어",
+      "count": 2
+    },
+    {
+      "source": "국제뉴스",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "한국사회복지저널",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "“세브란스병원 사건 엄중, 폭력예방 제도 개선 지속”",
+      "source": "데일리메디",
+      "importance": 37,
+      "snippet": "﻿﻿﻿﻿세브란스병원 정신건강의학과 교수가 흉기 공격을 당한 사건이 발생하면서 의료진 안전 문제가 도마에 오른 가운데 정부가 “의료기관 폭력행위 예방과 안전한 진료환경 조성에 전력하겠다”는 입장을 내놨다.일각에선 지난 ...",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942353"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 11,
+      "en_count": 2
+    }
+  ]
+}

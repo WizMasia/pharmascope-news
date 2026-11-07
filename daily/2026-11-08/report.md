@@ -1,0 +1,1430 @@
+# 🔬 PharmaScope — 글로벌 의약업계 동향 일일 리포트
+**수집일:** 2026-11-08  |  **소스:** Google News RSS + Bing fallback  |  **어댑터 패턴**  |  **총 236건**
+**평가:** ⭐⭐⭐⭐⭐(85↑) ⭐⭐⭐⭐(65↑) ⭐⭐⭐(45↑) ⭐⭐(25↑) ⭐(0↑)  |  **정수 계산**
+
+## 🇰🇷 국내 (한국어)
+
+### 💊 의약품 (25건)
+1. ⭐⭐⭐ **[56점]** 안국약품, 셀비온과 방사성의약품 혁신신약 개발 추진
+   📰 출처: 약업닷컴
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 안국약품(대표 박인철)이 방사성의약품 전문기업 셀비온(대표 김권)과 업무협약(MOU) 체결 이후 후속 실무 협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 ...
+   📊 출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:145위+2
+   🔗 https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=334861
+2. ⭐⭐ **[42점]** 안국약품, 셀비온과 방사성의약품 신약 개발 본격화
+   📰 출처: 의학신문
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 협력 파트너인 셀비온은 암 치료 및 진단용 방사성의약품 연구개발과 제조 역량을 보유한 기업으로, 대표적인 신약 후보물질인 전립선암 치료제 ‘177Lu-DGUL (포큐보타이드 사테트라세탄)’은 국내 임상 2상을 완료하고 ...
+   📊 출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:140위+2
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3015799
+3. ⭐⭐ **[42점]** 안국약품, 셀비온과 방사성의약품 혁신신약 개발 본격화
+   📰 출처: 지디넷코리아 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: (지디넷코리아=조민규 기자)안국약품은 방사성의약품 전문기업 셀비온과 업무협약(MOU) 체결 이후 후속 실무협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 있다고 밝혔다. 양사는 ...
+   📊 출처:지디넷코리아 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:141위+2
+   🔗 https://www.msn.com/ko-kr/news/techandscience/%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88-%EC%85%80%EB%B9%84%EC%98%A8%EA%B3%BC-%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88-%ED%98%81%EC%8B%A0%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA2gQSbu?ocid=BingNewsVerp
+4. ⭐⭐ **[42점]** 안국약품, 셀비온과 방사성의약품 개발 속도...항암 신약 공동연구 구체화
+   📰 출처: e-science
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 안국약품이 방사성의약품을 새로운 항암 신약 개발 분야로 낙점하고 외부 전문기업과 협력 범위를 넓히고 있다. 자체 의약품 개발과 사업화 경험에 방사성의약품 전문기업의 연구개발 역량을 결합해 신약 파이프라인 확대를 추진하는 ...
+   📊 출처:e-science+10 | 최신:1일+10 | 키워드+20 | 순위:142위+2
+   🔗 https://www.e-science.co.kr/news/articleView.html?idxno=139120
+5. ⭐⭐ **[42점]** 의약품 품목허가 수수료 대폭 올린다
+   📰 출처: 의학신문
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 예고된 품목허가 수수료는 첨단바이오의약품이 803만원에서 2,071만원 (257%↑), 신규생물의약품이 803만원에서 2,071만원, 자료제출의약품이 260만원에서 1,604만원 (617%↑)으로 재산정 (인상)된다. 신약이나 바이오시밀러는 지난해와 올해 품목허가 수수료는 각각 대폭 인상한 바 있다.
+   📊 출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:144위+2
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3015805
+6. ⭐⭐ **[42점]** 신약개발 병목 줄이려면…초기 판단부터 임상 운영까지 함께 설계해야
+   📰 출처: financialpost
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 신약개발 과정에서 발생하는 시간과 비용 부담을 줄이려면 개발 초기부터 필요한 시험자료와 의사결정 기준을 함께 마련해야 한다는 지적이 나왔다. 비임상시험과 임상시험, 제조&#183;품질관리(CMC)를 별도로 준비하는 관행에서 벗어나 ...
+   📊 출처:financialpost+10 | 최신:1일+10 | 키워드+20 | 순위:147위+2
+   🔗 https://www.financialpost.co.kr/news/articleView.html?idxno=285343
+7. ⭐⭐ **[42점]** 지씨씨엘, 한미약품 비만 신약 ‘에페’ 임상 3상 분석 지원…30개 기관 검체 분석 수행
+   📰 출처: 더퍼스트미디어
+   ⏫ 업로드: 2시간 | ♻️ 갱신: -
+   🧾 요약: 글로벌 임상시험 검체분석 기관 지씨씨엘(GCCL)이 한미약품의 비만 신약 후보물질 ‘에페(성분명 에페글레나타이드)’의 임상 3상에서 약동학 분석과 센트럴랩 서비스를 제공하며 신약 개발을 지원했다.지씨씨엘(대표 조관구)은 지난 ...
+   📊 출처:더퍼스트미디어+10 | 최신:2시간+20 | 키워드+10 | 순위:148위+2
+   🔗 https://www.thefirstmedia.net/news/articleView.html?idxno=212952
+8. ⭐⭐ **[42점]** SK바이오팜, 44억 토큰 신약개발 데이터 구축…AI 연구 전환
+   📰 출처: 스트레이트뉴스
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 제약업계에서 인공지능(AI)의 역할이 후보물질 탐색을 넘어 독성 예측과 임상시험 설계, 환자별 치료 경과 분석 등 연구개발 전반으로 확대되고 있다. AI 모델의 성능을 높이려면 범용 데이터뿐 아니라 제약사가 보유한 연구 ...
+   📊 출처:스트레이트뉴스+10 | 최신:1일+10 | 키워드+20 | 순위:149위+2
+   🔗 https://www.straightnews.co.kr/news/articleView.html?idxno=314783
+9. ⭐⭐ **[42점]** SK바이오팜, 신약개발 AI 모델 실증 완료…714만건 학습데이터 구축
+   📰 출처: 전자신문 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: SK바이오팜이 714만건의 신약개발 특화 데이터를 활용한 인공지능(AI) 모델 개발과 실증을 마쳤다. 신약 후보물질 발굴부터 임상시험 결과 예측까지 AI 적용 범위를 확대하며 연구개발(R&amp;D) 효율화에 나선다. SK바이오팜은 과학기술정보통신부가 주관한 'AI 특화 파운데이션 모델 프로젝트'에서 약 10개월간의 개발과 실증을 완료했다고 6일 밝혔다.
+   📊 출처:전자신문 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:150위+2
+   🔗 https://www.msn.com/ko-kr/news/other/sk%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-ai-%EB%AA%A8%EB%8D%B8-%EC%8B%A4%EC%A6%9D-%EC%99%84%EB%A3%8C-714%EB%A7%8C%EA%B1%B4-%ED%95%99%EC%8A%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%B6%95/ar-AA2gQPVz?ocid=BingNewsVerp
+10. ⭐⭐ **[32점]** 안국약품, 셀비온과 방사성의약품 공동개발 후속 협의
+   📰 출처: 청년의사
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 안국약품(대표 박인철)은 6일 셀비온(대표 김권)과 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 있다고 밝혔다.양사는 지난 9월 방사성의약품 치료(Radiopharmaceutical ...
+   📊 출처:청년의사+10 | 최신:1일+10 | 키워드+10 | 순위:143위+2
+   🔗 https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044358
+11. ⭐⭐ **[32점]** 유럽, 경구 GLP-1 허가 권고…영국은 치쿤구니야 백신 퇴출
+   📰 출처: 뉴스더보이스헬스케어
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 유럽에서 당뇨병 치료와 체중관리를 위한 새로운 경구용 GLP-1 의약품의 시판허가가 권고됐다. 항암제와 희귀질환 치료제의 신규 허가 및 적응증 확대도 이어졌다. 영국은 치쿤구니야 백신의 안전성을 재검토해 시판허가를 철회했으며 ...
+   📊 출처:뉴스더보이스헬스케어+10 | 최신:1일+10 | 키워드+10 | 순위:146위+2
+   🔗 https://www.newsthevoice.com/news/articleView.html?idxno=47952
+12. ⭐⭐ **[27점]** 한미약품 “좋은 약은 출발점”…GLP-1 신약에 디지털 헬스 결합 추진 - 한국의약통신
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:06:10 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9uYnZ3V2lDMG9XWFZoTk41WGhWS3p6UHYwM2I2eWIzcDhTNlg3Y3o0SFk4dmpjbEdyYlE0VlBWakIxdzlseEswd3JxY0gyRG93ZHVRb0pBbERKNnA5MU11dFNxaEE2ZE9lcFBV?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:06:10 GMT+5 | 키워드+10 | 순위:126위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE9uYnZ3V2lDMG9XWFZoTk41WGhWS3p6UHYwM2I2eWIzcDhTNlg3Y3o0SFk4dmpjbEdyYlE0VlBWakIxdzlseEswd3JxY0gyRG93ZHVRb0pBbERKNnA5MU11dFNxaEE2ZE9lcFBV?oc=5
+13. ⭐⭐ **[27점]** 지씨씨엘, 한미약품 비만 신약 ‘에페’ 임상 3상 분석 지원…30개 기관 검체 분석 수행 - 더퍼스트미디어
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:42:16 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5IZlFUemM2bUJ5cjFITmxTekxDWUY0SzJ2dE9ud2tpbUpPN1hDOXF4VDFQTk5aYlpYVGNmbzRwRXQxSXFEMHlMQlZtQVZRajJyMnB2T2JJY1NheWhWNGF5aEtkbUZqeks5dXhvYjMtWH
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:42:16 GMT+5 | 키워드+10 | 순위:128위+2
+   🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE5IZlFUemM2bUJ5cjFITmxTekxDWUY0SzJ2dE9ud2tpbUpPN1hDOXF4VDFQTk5aYlpYVGNmbzRwRXQxSXFEMHlMQlZtQVZRajJyMnB2T2JJY1NheWhWNGF5aEtkbUZqeks5dXhvYjMtWHZJby1Y0gF0QVVfeXFMTkhmUVR6YzZtQnlyMUhObFN6TENZRjRLMnZ0T253a2ltSk83WEM5cXhUMVBOTlpiWlhUY2ZvNHBFdDFJcUQweUxCVm1BVlFqMnIycHZPYkljU2F5aFY0YXloS2RtRmp6Szl1eG9iMy1YdklvLVg?oc=5
+14. ⭐⭐ **[27점]** [원격의료 로(Ro), AI로 환자 데이터 분석하는 연구 부서 출범…제약사 파트너십 확대 노린다] 수백만 환자 데이터 기반 치료 패턴·결과 분석…보험 적용·신약 개발 영향력 확대 목표, 환자 의료데이터로 돈 번다. - AI넷
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:10:18 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiQEFVX3lxTE91aVp4amRXelBldmZIS3h3dmhPcUtoVnk0N1FpbEEzWHZMeXJmcDNfdjRVdHQ1bWRUd2ktLXdWdXQ?oc=5" target="_blank">[원격의료 로(Ro), AI로 환자 데이터 분석하는 연구 부서 출범…제약
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:10:18 GMT+5 | 키워드+10 | 순위:130위+2
+   🔗 https://news.google.com/rss/articles/CBMiQEFVX3lxTE91aVp4amRXelBldmZIS3h3dmhPcUtoVnk0N1FpbEEzWHZMeXJmcDNfdjRVdHQ1bWRUd2ktLXdWdXQ?oc=5
+15. ⭐⭐ **[27점]** 노바티스, 주요 임상 실패로 블록버스터 기대 신약 펠라카르센 개발 중단 - Investing.com 한국어
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:16:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ga0NpbTh0elo1N1M4XzNUa1h5RjlrbFdJaFRMOXdjMW1XdUl5djBlRUs2OEJMOENQVXdSRHpDODhWSC11M1V1YTRzaG9WRWFKSkJ2dlFvcENOZzFJUHlfS0Jmb1piQVBhZUFOTWQtcT
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:16:00 GMT+5 | 키워드+10 | 순위:137위+2
+   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ga0NpbTh0elo1N1M4XzNUa1h5RjlrbFdJaFRMOXdjMW1XdUl5djBlRUs2OEJMOENQVXdSRHpDODhWSC11M1V1YTRzaG9WRWFKSkJ2dlFvcENOZzFJUHlfS0Jmb1piQVBhZUFOTWQtcTQ?oc=5
+16. ⭐⭐ **[27점]** [장수 바이오테크, 2045년 6,170억 달러 시장 전망…"노화 치료제, 주류 의학 진입 본격화"] 롱제비티테크놀로지(Longevity.Technology)의 신규 보고서는 노화 생물학을 표적으로 한 치료법이 주류 의학으로 - AI넷
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:05:47 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rZzN0WnF1aWZoVUlORVBNUWZjTDB4bDEyc0lTMUNrb0xZa3hrUWY4cmExUlFmQ0N0TUNYMFNOcVNRZw?oc=5" target="_blank">[장수 바이오테크, 2045년 6,170억 달러 시장 전망…"노화
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:05:47 GMT+5 | 키워드+10 | 순위:139위+2
+   🔗 https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rZzN0WnF1aWZoVUlORVBNUWZjTDB4bDEyc0lTMUNrb0xZa3hrUWY4cmExUlFmQ0N0TUNYMFNOcVNRZw?oc=5
+17. ⭐ **[22점]** 안과질환부터 교모세포종까지…HLB테라퓨틱스 글로벌 임상 승부수 - 핀포인트뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:28:24 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9udklHbEczdWctdXBEejhBdDVxMDVsTDlNMTRkUDNCdjR4RG1nUHdacXNHSHJBUE9ydXRYR0toNmczRE1qbjh5OWZYZE5CcGM1R2VhcVVpQ2MzTUgtc0RlSjN5a1pfb1hEYk9uWldMbm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:28:24 GMT+5 | 키워드+5 | 순위:127위+2
+   🔗 https://news.google.com/rss/articles/CBMid0FVX3lxTE9udklHbEczdWctdXBEejhBdDVxMDVsTDlNMTRkUDNCdjR4RG1nUHdacXNHSHJBUE9ydXRYR0toNmczRE1qbjh5OWZYZE5CcGM1R2VhcVVpQ2MzTUgtc0RlSjN5a1pfb1hEYk9uWldMbmN4NEtmZ1dr0gF3QVVfeXFMT252SUdsRzN1Zy11cER6OEF0NXEwNWxMOU0xNGRQM0J2NHhEbWdQd1pxc0dIckFQT3J1dFhHS2g2ZzNETWpuOHk5ZlhkTkJwYzVHZWFxVWlDYzNNSC1zRGVKM3lrWl9vWERiT25aV0xuY3g0S2ZnV2s?oc=5
+18. ⭐ **[22점]** SK바이오팜, 3분기 영업익 1163억원…분기 최대 실적 경신 - 식약일보
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:51:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiO0FVX3lxTE43dzBQS2dGYlk1RHRucmxaNmhSeDBic0FhTlcyRkNmNVJhOVBNUGZwMC1OMTUwZTRleE40?oc=5" target="_blank">SK바이오팜, 3분기 영업익 1163억원…분기 최대 실적 경신</a>&nbsp;&nb
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:51:00 GMT+5 | 키워드+5 | 순위:129위+2
+   🔗 https://news.google.com/rss/articles/CBMiO0FVX3lxTE43dzBQS2dGYlk1RHRucmxaNmhSeDBic0FhTlcyRkNmNVJhOVBNUGZwMC1OMTUwZTRleE40?oc=5
+19. ⭐ **[22점]** 국산 비만약 '에페' 오늘부터 처방…위고비·마운자로에 도전장 > 뉴스포커스 - SeattleN
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:07:42 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1sU1FCUTF6Q1E0ZWJ2M0dGcDAtdWNWMDBfTTRWVVhjLXFWeC1qTXF0LUJUM0pNMVo1clZsLUx6bmM3dEhNdHhYcUxxVDFwNV9hdl9PckZpaW04QUZNOWhtRG4xUmJiWmFBUzRtZzNWUF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:07:42 GMT+5 | 키워드+5 | 순위:131위+2
+   🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE1sU1FCUTF6Q1E0ZWJ2M0dGcDAtdWNWMDBfTTRWVVhjLXFWeC1qTXF0LUJUM0pNMVo1clZsLUx6bmM3dEhNdHhYcUxxVDFwNV9hdl9PckZpaW04QUZNOWhtRG4xUmJiWmFBUzRtZzNWUFNsa2s?oc=5
+20. ⭐ **[22점]** [제약공시 책갈피] 11월 1주차 - 삼바로직스·SK바이오팜 外 - 메디파나뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdVJ1clBhSS0tWTBLWUgxV3VRWVhTQjVuaExBNlFRSzhIbXVfZ1duNnlqNzFBaU5ocUE4Tko2LTRrWkhMcHRDRFltUFU4b21ySUdkTTRidkVvSWh2VDExbVFHZDd2YzllM1Jn?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:00:00 GMT+5 | 키워드+5 | 순위:132위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdVJ1clBhSS0tWTBLWUgxV3VRWVhTQjVuaExBNlFRSzhIbXVfZ1duNnlqNzFBaU5ocUE4Tko2LTRrWkhMcHRDRFltUFU4b21ySUdkTTRidkVvSWh2VDExbVFHZDd2YzllM1Jn?oc=5
+21. ⭐ **[22점]** 노원구약사회, 2026 하반기 연수교육 성료… "최신 임상부터 AI 트렌드까지 학술 열기 후끈" - 한국의약통신
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:27:12 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydWFicjV6UDdPOUU3ZnZnaThkZFl1NjRnaGdEeFFsTU9tSFpxbjZteHozVHFLR1JFWG5OdF9vd2U1VFpPRkZQaXB1SWlUSTRQWWNPUlNHVUd5N3ZwRkhYTWF2M1poUmNMRzJn?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:27:12 GMT+5 | 키워드+5 | 순위:133위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydWFicjV6UDdPOUU3ZnZnaThkZFl1NjRnaGdEeFFsTU9tSFpxbjZteHozVHFLR1JFWG5OdF9vd2U1VFpPRkZQaXB1SWlUSTRQWWNPUlNHVUd5N3ZwRkhYTWF2M1poUmNMRzJn?oc=5
+22. ⭐ **[22점]** 생약성분 감기약은 더 안전?…'이 부작용' 조심을 - 뉴시스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:01:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMTg1YkZJalp6TFVrT3E5WUJjOEdpVlY0Y19IWUwtNjZ4VzRJR0xUZ1VQaTJYeWhHdTRnZTZoalE3NzYyVGVWMWRicXlETWluTTR2bkdXc3lNWmtHR1NsM9IBeEFVX3lxTE02UGlYd0
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:01:00 GMT+5 | 키워드+5 | 순위:134위+2
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMTg1YkZJalp6TFVrT3E5WUJjOEdpVlY0Y19IWUwtNjZ4VzRJR0xUZ1VQaTJYeWhHdTRnZTZoalE3NzYyVGVWMWRicXlETWluTTR2bkdXc3lNWmtHR1NsM9IBeEFVX3lxTE02UGlYd01UQXhQTXpZWU9VQWN2UGRZenRrOVR6WnJRbDU2WGNuV3hBRUxUeW5WSEFRaUFCcTRWaF9BVWVqek1aTlQtTTJnUDROYXR1X0htUHo1RlVsNlhJWmkzUHJ6WU1Qd2Myd1JlTUJpZTFBNS1LVw?oc=5
+23. ⭐ **[22점]** 많이 먹을수록 좋다?…메가도스 마케팅에 커지는 과다섭취 우려 - 노컷뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 20:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVTVpbXpCTUZKbVRYYnlQTzR4LXZnRGs2eHpLaUJxN2hnazRaMldCYWdfZlpRRDl2S0FlVGZFaWNGY2U3R0JESTZwOVViYWtXMlpzSA?oc=5" target="_blank">많이 먹을수록 좋다?…메
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 20:00:00 GMT+5 | 키워드+5 | 순위:135위+2
+   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVTVpbXpCTUZKbVRYYnlQTzR4LXZnRGs2eHpLaUJxN2hnazRaMldCYWdfZlpRRDl2S0FlVGZFaWNGY2U3R0JESTZwOVViYWtXMlpzSA?oc=5
+24. ⭐ **[22점]** 독일 머크가 선택한 K바이오 4곳…글루진, AAV 기술로 최고상 - 약업신문
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:03:12 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFB4MlU0WjZCNjRtSWdkMVhrMURaaHNlMEJLSUR1WWNOZ2FqZ3RXd0xnclVXOXU3YktnR3E3eDNudXhVOVlFSHA1MmtscW5uRG9CSWF5RmxPUEM2NTRCbTVYWjlGbWtxMHZOb2ZkRGo2WQ
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:03:12 GMT+5 | 키워드+5 | 순위:136위+2
+   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTFB4MlU0WjZCNjRtSWdkMVhrMURaaHNlMEJLSUR1WWNOZ2FqZ3RXd0xnclVXOXU3YktnR3E3eDNudXhVOVlFSHA1MmtscW5uRG9CSWF5RmxPUEM2NTRCbTVYWjlGbWtxMHZOb2ZkRGo2WQ?oc=5
+25. ⭐ **[22점]** "K-바이오, 기술력 뽐낸다"…‘바이오 유럽’ 총집결 - 뉴시스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:01:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KUWxjS3MyLW9RUWtvS1NobUs0N2JqeGJDRmZmLUxRdkxZa3BxU05wMlRMb0J5NXQ5Vk16NFdjWDhRQW9sU2hZUVRwZFZvQk82alBJLXFVOTNVVkJhR3VQbdIBeEFVX3lxTFBiZmYxbF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:01:00 GMT+5 | 키워드+5 | 순위:138위+2
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KUWxjS3MyLW9RUWtvS1NobUs0N2JqeGJDRmZmLUxRdkxZa3BxU05wMlRMb0J5NXQ5Vk16NFdjWDhRQW9sU2hZUVRwZFZvQk82alBJLXFVOTNVVkJhR3VQbdIBeEFVX3lxTFBiZmYxbFlSbmlRZEZlN3pVYmlRcUtfSE9vZDZyMUJmeFhPRHd3dzBHWkN6WXk3Mk5UaVJoZU1mMFpEQkhJSFQzbjdiT0ZSN0xKNXpxdlNEcnFyUGE2SHBrdVBBOUpucEo4SVJQbzNITVY2UDE5SEdDMg?oc=5
+
+### 🏭 의약산업 (12건)
+1. ⭐⭐⭐ **[50점]** 셀트리온부터 종근당까지…국내 제약사 유럽 공략법도 각양각색 *(협회지)*
+   📰 출처: 약사공론
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 스위스에서는 마크로젠과 프리클리나가 바젤을 중심으로 유럽 연구&#183;바이오헬스 생태계와의 접점을 넓히고 있다. 마크로젠은 유전체 시퀀싱과 유전자 검사 등 유전체 분석 서비스를 제공하며, 마크로젠 유럽 법인을 거점으로 현지 연구기관 및 제약바이오 기업과 협력을 확대하고 있다. 프리클리나는 면역계 질환에 특화된 비임상시험수탁기관 (CRO)으로, 인간화 모델
+   📊 출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:71위+2
+   🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=548315
+2. ⭐⭐⭐ **[46점]** 눈에 띠는 실적 올리고 있는 제약바이오, SK바이오팜&#183;파마리서치
+   📰 출처: 메디파나 뉴스
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: SK바이오팜과 파마리서치가 자사가 개발한 블록버스터로 해마다 눈에 띠는 경영 실적을 내고 있다. 자체 개발 제품인데다 해외시장이 나날이 확대되고 있어 영업이익이 독보적인데다 앞으로도 지속적인 성장이 예견된다. 하지만 중장기적인 성장 구조를 위해선 기존 블록버스터 제품 외에 이를 이을만한 후속 포트폴리오를 갖추는 것이 중요해보인다. 국산신약 엑스코프리로 연간
+   📊 출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:72위+2
+   🔗 https://www.medipana.com/news/articleView.html?idxno=421163
+3. ⭐⭐ **[42점]** AI로 실명, 심부전 위험 예측…제약사 주목하는 디지털 헬스케어
+   📰 출처: 조선비즈 on MSN
+   ⏫ 업로드: 14시간 | ♻️ 갱신: -
+   🧾 요약: 국내 제약&#183;바이오 기업들이 AI 및 웨어러블 기기를 활용한 디지털 헬스케어 기술로 고령화 사회의 건강 관리 수요를 충족하고 있다.
+   📊 출처:조선비즈 on MSN+10 | 최신:14시간+10 | 키워드+20 | 순위:69위+2
+   🔗 https://www.msn.com/ko-kr/news/other/ai%EB%A1%9C-%EC%8B%A4%EB%AA%85-%EC%8B%AC%EB%B6%80%EC%A0%84-%EC%9C%84%ED%97%98-%EC%98%88%EC%B8%A1-%EC%A0%9C%EC%95%BD%EC%82%AC-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EB%94%94%EC%A7%80%ED%84%B8-%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4/ar-AA2gVxGv?ocid=BingNewsVerp
+4. ⭐⭐ **[41점]** 동구바이오제약, 군포 ‘트리아츠지식산업센터’로 연구소 확장 이전
+   📰 출처: 약업닷컴
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 동구바이오제약이 연구소를 안양 인덕원에서 군포 ‘트리아츠지식산업센터’로 확장 이전하고, 지난 3일 개소식을 열었다. 이번 이전으로 동구바이오제약은 기존보다 넓은 연구 공간을 확보했으며, 제제∙분석 연구를 위한 전용 실험실과 ...
+   📊 출처:약업닷컴+24 | 최신:1일+10 | 키워드+5 | 순위:68위+2
+   🔗 https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=334857
+5. ⭐⭐ **[37점]** 제약사 CSO 관리·감독 의무 약사법에 명문화해야…"합리적 관리 시 면책 근거 마련" - 경기메디뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:08:47 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5Mc1E1cXRveHlNVGFTRVNYVDQwSXhFUjFmeXFsWlNtTjV0QlJoa0pPSkxvSTJSQ2M5ZjlSUTdVTTFRbTR2S3hKSlJJc2lSLXY5Zm5najFsa3Z1NndsUFRKdVRobHVpSFFqdlZR?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:08:47 GMT+5 | 키워드+20 | 순위:61위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE5Mc1E1cXRveHlNVGFTRVNYVDQwSXhFUjFmeXFsWlNtTjV0QlJoa0pPSkxvSTJSQ2M5ZjlSUTdVTTFRbTR2S3hKSlJJc2lSLXY5Zm5najFsa3Z1NndsUFRKdVRobHVpSFFqdlZR?oc=5
+6. ⭐⭐ **[37점]** '귀여움 처방' 나선 제약사…앤 만들고 산리오 더하고 - 데일리안
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMimAJBVV95cUxQSlA4dzkzRjJINVU0QThZMXJFU1N0bHcweDZXenlZZmZ6UFNXdXV6V3FJSGxNMm9OVFhzZl9JRDQydTR0QzlocDFrRjUyTVdUQmt0VXNaV1FSUWZyd09UcmZDY1hMWFJ3ZVJYUzVnbW
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:00:00 GMT+5 | 키워드+20 | 순위:63위+2
+   🔗 https://news.google.com/rss/articles/CBMimAJBVV95cUxQSlA4dzkzRjJINVU0QThZMXJFU1N0bHcweDZXenlZZmZ6UFNXdXV6V3FJSGxNMm9OVFhzZl9JRDQydTR0QzlocDFrRjUyTVdUQmt0VXNaV1FSUWZyd09UcmZDY1hMWFJ3ZVJYUzVnbWdfa1Vlckp4VlNuOV9NdEdjY2w2bXRzc2QzeVhBWWVFZzlTUkRJeEJ4UlNUTm8tMjZ5dVZBalBxZjV0U000ZVlsbmxraDN4dmg0YTRzcXZrZGxheDNCTzdrX0lQQS0tYV9MRVRKaGRsSmZPMk9HM3BIcXpfRFUtemlDcEtLeEgya29YTHhkdGlzeDFhMWJMU0V3WlJ4Q1FiZGdQQklPSUVjQ0pOb0hsSVU4?oc=5
+7. ⭐⭐ **[27점]** 바이오 투자, '후기 공동 임상' 집중해야 결실
+   📰 출처: 메디칼업저버
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [메디칼업저버 이승덕 기자] 바이오 신약개발 성과를 키우려면 후기 임상 지원을 강화해야 한다는 제언이 나왔다. 개발 경험을 갖춘 제약사와 바이오벤처 공동 임상에 자금을 집중하자는 주장이다. 기업의 투자&#183;공동연구를 인정하고 ...
+   📊 출처:메디칼업저버+10 | 최신:1일+10 | 키워드+5 | 순위:70위+2
+   🔗 https://www.monews.co.kr/news/articleView.html?idxno=415186
+8. ⭐ **[22점]** [제약공시 책갈피] 11월 1주차 - 삼바로직스·SK바이오팜 外 - 메디파나뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdVJ1clBhSS0tWTBLWUgxV3VRWVhTQjVuaExBNlFRSzhIbXVfZ1duNnlqNzFBaU5ocUE4Tko2LTRrWkhMcHRDRFltUFU4b21ySUdkTTRidkVvSWh2VDExbVFHZDd2YzllM1Jn?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:00:00 GMT+5 | 키워드+5 | 순위:62위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE9rdVJ1clBhSS0tWTBLWUgxV3VRWVhTQjVuaExBNlFRSzhIbXVfZ1duNnlqNzFBaU5ocUE4Tko2LTRrWkhMcHRDRFltUFU4b21ySUdkTTRidkVvSWh2VDExbVFHZDd2YzllM1Jn?oc=5
+9. ⭐ **[22점]** "K-바이오, 기술력 뽐낸다"…‘바이오 유럽’ 총집결 - 뉴시스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:01:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KUWxjS3MyLW9RUWtvS1NobUs0N2JqeGJDRmZmLUxRdkxZa3BxU05wMlRMb0J5NXQ5Vk16NFdjWDhRQW9sU2hZUVRwZFZvQk82alBJLXFVOTNVVkJhR3VQbdIBeEFVX3lxTFBiZmYxbF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:01:00 GMT+5 | 키워드+5 | 순위:64위+2
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KUWxjS3MyLW9RUWtvS1NobUs0N2JqeGJDRmZmLUxRdkxZa3BxU05wMlRMb0J5NXQ5Vk16NFdjWDhRQW9sU2hZUVRwZFZvQk82alBJLXFVOTNVVkJhR3VQbdIBeEFVX3lxTFBiZmYxbFlSbmlRZEZlN3pVYmlRcUtfSE9vZDZyMUJmeFhPRHd3dzBHWkN6WXk3Mk5UaVJoZU1mMFpEQkhJSFQzbjdiT0ZSN0xKNXpxdlNEcnFyUGE2SHBrdVBBOUpucEo4SVJQbzNITVY2UDE5SEdDMg?oc=5
+10. ⭐ **[22점]** 지씨씨엘, 한미약품 비만 신약 ‘에페’ 임상 3상 분석 지원…30개 기관 검체 분석 수행 - 더퍼스트미디어
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:36:50 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5LZGtQUnRkYlFfeWhndFFYU1puUW5uVTlSRXNTSFpIc3FfcTZyb1hKbC12c2dIMUxCV1dhc0REcGp5RkRvMmpUaExfYXFsZjRlbm93bHNZYzBPYktnYkFJUkVpRFIyVjhCT3hkbmNBSV
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:36:50 GMT+5 | 키워드+5 | 순위:65위+2
+   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE5LZGtQUnRkYlFfeWhndFFYU1puUW5uVTlSRXNTSFpIc3FfcTZyb1hKbC12c2dIMUxCV1dhc0REcGp5RkRvMmpUaExfYXFsZjRlbm93bHNZYzBPYktnYkFJUkVpRFIyVjhCT3hkbmNBSV80Z9IBdEFVX3lxTE5IZlFUemM2bUJ5cjFITmxTekxDWUY0SzJ2dE9ud2tpbUpPN1hDOXF4VDFQTk5aYlpYVGNmbzRwRXQxSXFEMHlMQlZtQVZRajJyMnB2T2JJY1NheWhWNGF5aEtkbUZqeks5dXhvYjMtWHZJby1Y?oc=5
+11. ⭐ **[22점]** 흄 후드 시장 2035년 전망: 제약 연구개발과 안전 규제가 성장 견인 - 뉴스 및 통계 - IndexBox
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:06:03 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxPMlVKRVlZdjFXbGNHR2wwaUlvRERtQklBZmtFMG5PbjhtUjNFRmJicW1Dc0QzWjlmRy1KYlFQQ1prZ3FXRTJFVVhxbUtPN2c5ZWY1MS1yOVFKamN0NHZqM2ZQUnRzT1I4dkZCdFh2LV
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:06:03 GMT+5 | 키워드+5 | 순위:66위+2
+   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxPMlVKRVlZdjFXbGNHR2wwaUlvRERtQklBZmtFMG5PbjhtUjNFRmJicW1Dc0QzWjlmRy1KYlFQQ1prZ3FXRTJFVVhxbUtPN2c5ZWY1MS1yOVFKamN0NHZqM2ZQUnRzT1I4dkZCdFh2LVZmbnYxdnFkZjJTSWRwV1V3ejdheWVLQ2tzLXNZYWRMVGtiLTdGRmZ0T1ZtVkdlck45b1hUNGEwX2lYQXZoaFNXZ1l6dmpmZkxlSVdvaE5JNnRQNnFIbEJWSDFR?oc=5
+12. ⭐ **[22점]** 2035년 위생 밸브 시장 전망: 바이오 제약 무균 공정이 성장 견인 - 뉴스 및 통계 - IndexBox
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:16:04 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUhrdUlZa0hEVG4tZjBLSlhMc0FvTUZqX2VnWEhZTkpqcVpYOUlqbGs3N0RRNXY2Z2dfN3ZWZ0dJY3ZmWndlaDdtLW9hSUwxeWV3cjNMZnNDSGRhR0o4S0xwbXJ4NXJIaTBScWZjNl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:16:04 GMT+5 | 키워드+5 | 순위:67위+2
+   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUhrdUlZa0hEVG4tZjBLSlhMc0FvTUZqX2VnWEhZTkpqcVpYOUlqbGs3N0RRNXY2Z2dfN3ZWZ0dJY3ZmWndlaDdtLW9hSUwxeWV3cjNMZnNDSGRhR0o4S0xwbXJ4NXJIaTBScWZjNlRMNGZuTHF6V1BGN0F6eTNNZElvOWJDZjZEb2FRN21mbXduUVZuakhIclFYa2MzNDMzdy1IdWlSLXVORGdLQnJDdnFWVGtTc3RlZlVvUlFJbHNOXzA?oc=5
+
+### 📋 의약정책 (4건)
+1. ⭐⭐ **[32점]** 희귀질환 치료제 '선등재 후평가' 첫발&#183;&#183;&#183;5종 건보 등재 100일로 앞당긴다
+   📰 출처: 여성경제신문
+   ⏫ 업로드: 9시간 | ♻️ 갱신: -
+   🧾 요약: 루게릭병과 뒤쉔 근디스트로피 등 희귀질환 치료제 5종이 건강보험 신속등재 시범사업 대상으로 선정됐다. 정부가 올해 도입한 신속등재 제도의 첫 적용 사례로 기존 최대 240일이 걸리던 건강보험 등재기간을 100일 이내로 ...
+   📊 출처:여성경제신문+10 | 최신:9시간+15 | 키워드+5 | 순위:24위+2
+   🔗 https://www.womaneconomy.co.kr/news/articleView.html?idxno=260788
+2. ⭐⭐ **[27점]** 제약사 CSO 관리·감독 의무 약사법에 명문화해야…"합리적 관리 시 면책 근거 마련" - 경기메디뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:08:47 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUcwbTNUXy1hWEdlVDFlcG53aE1jdURCMExKdEJ2Z0FUWkJfdkpwN2hzMmw0RjJBNmZZNnQyUF91bDk4bFppUHpZQ2JsdnhfWUtFT3RHb0g4UmhkSXA2bEczZTF6MVZ6Z3c?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:08:47 GMT+5 | 키워드+10 | 순위:21위+2
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNUcwbTNUXy1hWEdlVDFlcG53aE1jdURCMExKdEJ2Z0FUWkJfdkpwN2hzMmw0RjJBNmZZNnQyUF91bDk4bFppUHpZQ2JsdnhfWUtFT3RHb0g4UmhkSXA2bEczZTF6MVZ6Z3c?oc=5
+3. ⭐⭐ **[27점]** 심평원, '리트풀로캡슐 50㎎', 중증 원형탈모증 치료제 급여 '적정성 인정'
+   📰 출처: 국제뉴스
+   ⏫ 업로드: 22시간 | ♻️ 갱신: -
+   🧾 요약: (원주=국제뉴스) 이현복 기자 = 중증 원형탈모증 치료제인 리트풀로캡슐이 건강보험 급여의 적정성을 인정받았다.건강보험심사평가원(원장 홍승권)은 2026년 제11차 약제급여평가위원회에서 한국화이자제약㈜의 리트풀로캡슐 50㎎(성분명 리틀레시티닙토실산염)에 대해 급여 적정성이 있다고 의결했다고 지난 5일 밝혔다.리트풀로캡슐은 성인과 12세 이상 청소년의 중증 원
+   📊 출처:국제뉴스+10 | 최신:22시간+10 | 키워드+5 | 순위:22위+2
+   🔗 https://www.gukjenews.com/news/articleView.html?idxno=3744845
+4. ⭐⭐ **[27점]** 희귀약 신속등재 첫발…환자단체 “급여 적용까지 속도 내야”
+   📰 출처: 뉴스더보이스헬스케어
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 희귀질환 치료제 5개가 신속등재 시범사업 대상으로 선정되자 환자단체가 실제 건강보험 적용까지 속도를 내야 한다고 촉구했다. 사후평가 결과에 따라 급여조건이 바뀌더라도 기존 환자가 치료를 중단하거나 과도한 비용을 부담하지 ...
+   📊 출처:뉴스더보이스헬스케어+10 | 최신:1일+10 | 키워드+5 | 순위:23위+2
+   🔗 https://www.newsthevoice.com/news/articleView.html?idxno=47973
+
+### 🤝 의약단체 (15건)
+1. ⭐⭐ **[42점]** 제약바이오협회, 'KPBMA Focus 제36호' 발간 *(협회지)*
+   📰 출처: 팜뉴스 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [팜뉴스=홍효정 기자] 한국제약바이오협회(KPBMA)는 국내외 의약품 판촉영업자(CSO)의 제도적 현황을 분석하고 유통질서 정상화를 위한 제도 개선 방안을 담은 산업 보고서 'KPBMA FOCUS 제36호'를 발간했다고 6일 밝혔다.이번 보고서는 김&#183;장 법률사무소의 강한철&#183;이환범&#183;권혁찬 변호사가 집필을 맡아 국내 CSO 규제의 한
+   📊 출처:팜뉴스 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:85위+2
+   🔗 https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-kpbma-focus-%EC%A0%9C36%ED%98%B8-%EB%B0%9C%EA%B0%84/ar-AA2gRE8B?ocid=BingNewsVerp
+2. ⭐⭐ **[41점]** 최광훈 대약 총회의장, 아시아약학연맹 특별공로상 수상 *(협회지)*
+   📰 출처: 데일리팜
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 대한약사회(회장 권영희)는 지난 5일 태국 방콕에서 열린 제31차 아시아약학연맹(FAPA) 총회 개회식에서 최광훈 총회의장이 특별공로상(Distinguished Contributor Award)을, 손의동 중앙대학교 약학대학 ...
+   📊 출처:데일리팜+24 | 최신:1일+10 | 키워드+5 | 순위:88위+2
+   🔗 https://www.dailypharm.com/user/news/344290
+3. ⭐⭐ **[41점]** 한국바이오협회, ‘2026 바이오코스메틱 미디어데이’ 성료
+   📰 출처: 약업닷컴
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 한국바이오협회가 바이오&#183;제약기업의 연구개발 기술을 화장품 산업에 적용한 사례와 사업화 전략을 공유했다. 기업들은 기술 기반 제품 개발 경험을 소개하고, 시장 경쟁력 확보와 산업 간 협력 방안을 논의했다. 한국바이오협회는 지난 ...
+   📊 출처:약업닷컴+24 | 최신:1일+10 | 키워드+5 | 순위:90위+2
+   🔗 https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=334891
+4. ⭐⭐ **[32점]** [인터뷰] 이영신 KRPIA 부회장 &quot;임상강국 한국, 신약 도입도 빨라져야&quot;
+   📰 출처: 뉴스1
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 글로벌 제약사 34곳, 지난해 국내 임상연구에 1조 922억 투자 &quot;신속등재 중증질환으로 확대…약가 예측 가능성 높여야&quot; &quot;국가 간 약가 참조가 중요해지면서 혁신 가치를 충분히 반영하지 못할 경우, 신약 도입이 지연될 수 ...
+   📊 출처:뉴스1+10 | 최신:1일+10 | 키워드+10 | 순위:87위+2
+   🔗 https://www.news1.kr/bio/pharmaceutical-bio/6344596
+5. ⭐⭐ **[27점]** 제약사 CSO 관리·감독 의무 약사법에 명문화해야…"합리적 관리 시 면책 근거 마련" - 경기메디뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:08:47 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5Mc1E1cXRveHlNVGFTRVNYVDQwSXhFUjFmeXFsWlNtTjV0QlJoa0pPSkxvSTJSQ2M5ZjlSUTdVTTFRbTR2S3hKSlJJc2lSLXY5Zm5najFsa3Z1NndsUFRKdVRobHVpSFFqdlZR?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:08:47 GMT+5 | 키워드+10 | 순위:76위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE5Mc1E1cXRveHlNVGFTRVNYVDQwSXhFUjFmeXFsWlNtTjV0QlJoa0pPSkxvSTJSQ2M5ZjlSUTdVTTFRbTR2S3hKSlJJc2lSLXY5Zm5najFsa3Z1NndsUFRKdVRobHVpSFFqdlZR?oc=5
+6. ⭐⭐ **[27점]** 노원구약사회, 2026 하반기 연수교육 성료… "최신 임상부터 AI 트렌드까지 학술 열기 후끈" - 한국의약통신
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:27:12 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydWFicjV6UDdPOUU3ZnZnaThkZFl1NjRnaGdEeFFsTU9tSFpxbjZteHozVHFLR1JFWG5OdF9vd2U1VFpPRkZQaXB1SWlUSTRQWWNPUlNHVUd5N3ZwRkhYTWF2M1poUmNMRzJn?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:27:12 GMT+5 | 키워드+10 | 순위:77위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE0ydWFicjV6UDdPOUU3ZnZnaThkZFl1NjRnaGdEeFFsTU9tSFpxbjZteHozVHFLR1JFWG5OdF9vd2U1VFpPRkZQaXB1SWlUSTRQWWNPUlNHVUd5N3ZwRkhYTWF2M1poUmNMRzJn?oc=5
+7. ⭐⭐ **[27점]** 유통 투명화, CSO 자격 요건 강화&#183;재위탁 규제 등 제언
+   📰 출처: 의학신문
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [의학신문&#183;일간보사=김정일 기자] CSO 자격 요건 강화, 다단계 재위탁 규제 등 불법 리베이트를 차단하고 건전한 산업 육성을 위한 다양한 개선방안이 제시됐다. 김&#183;장 법률사무소 강한철, 이환범, 권혁찬 변호사는 최근 한국제약바이오협회 ‘KPBMA FOCUS’에 기고한 이슈 리포트를 통해 의약품 판촉영업자(CSO) 관리&#183;감독 체계
+   📊 출처:의학신문+10 | 최신:1일+10 | 키워드+5 | 순위:86위+2
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3015839
+8. ⭐⭐ **[27점]** ‘제품이 되는 기술’ 앞세워…제약&#183;바이오, 화장품서 새 성장동력 찾는다
+   📰 출처: 서울신문 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 한국바이오협회는 지난 5일 서울 노보텔 앰배서더 서울 동대문에서 ‘2026 바이오코스메틱 미디어데이’를 개최했다고 6일 밝혔다. ‘바이오가 다시 쓰는 코스메틱의 미래’를 주제로 열린 이번 행사에는 바이오&#183;제약기업, 화장품 ...
+   📊 출처:서울신문 on MSN+10 | 최신:1일+10 | 키워드+5 | 순위:89위+2
+   🔗 https://www.msn.com/ko-kr/money/topstories/%EC%A0%9C%ED%92%88%EC%9D%B4-%EB%90%98%EB%8A%94-%EA%B8%B0%EC%88%A0-%EC%95%9E%EC%84%B8%EC%9B%8C-%EC%A0%9C%EC%95%BD-%EB%B0%94%EC%9D%B4%EC%98%A4-%ED%99%94%EC%9E%A5%ED%92%88%EC%84%9C-%EC%83%88-%EC%84%B1%EC%9E%A5%EB%8F%99%EB%A0%A5-%EC%B0%BE%EB%8A%94%EB%8B%A4/ar-AA2gRCdp?ocid=BingNewsVerp
+9. ⭐ **[22점]** 모더나 노로바이러스 백신, 3상 중간분석서 조기 성공 기준 미충족 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:15:56 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VTNsY1ZLdWVWX1hsZmE1WDJ3U3cwX3V1N2pZMUR5OHRnbWw3aXNNelpMWEtJQlRzbmhLaDZDanJWankwWDc1MmFVQmlrYlpCNzhhZHVBSWpHd21jVldWMVJXUC0?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:15:56 GMT+5 | 키워드+5 | 순위:78위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE11VTNsY1ZLdWVWX1hsZmE1WDJ3U3cwX3V1N2pZMUR5OHRnbWw3aXNNelpMWEtJQlRzbmhLaDZDanJWankwWDc1MmFVQmlrYlpCNzhhZHVBSWpHd21jVldWMVJXUC0?oc=5
+10. ⭐ **[22점]** 일산백병원, 우울증 진료에 심부 TMS 장비 도입 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:08:38 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Cd1ctY1BDSkNVTUEwS0VwS0ttTDJGTi1KeVFVX2RkbTRlRGFlMWY4RjZPclE1VFh4cV91OUZNZktMZWVsc1NpZklielV2cTEzQkt0d2lqLVRUWlgzcGhVY0dKaUk?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:08:38 GMT+5 | 키워드+5 | 순위:79위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Cd1ctY1BDSkNVTUEwS0VwS0ttTDJGTi1KeVFVX2RkbTRlRGFlMWY4RjZPclE1VFh4cV91OUZNZktMZWVsc1NpZklielV2cTEzQkt0d2lqLVRUWlgzcGhVY0dKaUk?oc=5
+11. ⭐ **[22점]** 푸르메병원 REDI, ‘아이마음 탐사대’ 최종 단계 선정 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:13:27 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RdzFYa2MyVlFzUHZYem1CXzZQeUJmcDVESHVkRjVmd2NEbkJPQVRHZHg0UW5GMEJYZWViVDRwX0o4ZG55bXQyRWJWUURtVkVNc2JRWmJ6ZDEySUZsTEFxcndLeWg?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:13:27 GMT+5 | 키워드+5 | 순위:80위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RdzFYa2MyVlFzUHZYem1CXzZQeUJmcDVESHVkRjVmd2NEbkJPQVRHZHg0UW5GMEJYZWViVDRwX0o4ZG55bXQyRWJWUURtVkVNc2JRWmJ6ZDEySUZsTEFxcndLeWg?oc=5
+12. ⭐ **[22점]** 건협, 중앙아시아 4개국 연수단에 AI 건강검진 운영 사례 소개 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:18:24 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxalQ2X0Q0aTlzUF8wbzAzWWFxYkJmeV9xQzdRZ1QxRkkyLWlVZDcxMmNIcjZMMTZwdGZxMVhreUs2SEVLVERyUzgtRFlZT2xqTmFzclpHZGFwcVpOekwxQkgybUg?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:18:24 GMT+5 | 키워드+5 | 순위:81위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxalQ2X0Q0aTlzUF8wbzAzWWFxYkJmeV9xQzdRZ1QxRkkyLWlVZDcxMmNIcjZMMTZwdGZxMVhreUs2SEVLVERyUzgtRFlZT2xqTmFzclpHZGFwcVpOekwxQkgybUg?oc=5
+13. ⭐ **[22점]** 큐브세븐틴·바텍엠시스, 디지털 보철 플랫폼 서비스 제휴 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:21:33 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aE1VbW1YYXBELVZVdmNOVmJUR1h3OHpPZE5TTC15cjYzT0FjdGQ3VW10eHF1OG5CYzd5LVlpSU5CR1UwNk81TzdGS0VTWDNoQzdIOU9yRUc1M0oyV1g2X2ZtMWQ?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:21:33 GMT+5 | 키워드+5 | 순위:82위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE95aE1VbW1YYXBELVZVdmNOVmJUR1h3OHpPZE5TTC15cjYzT0FjdGQ3VW10eHF1OG5CYzd5LVlpSU5CR1UwNk81TzdGS0VTWDNoQzdIOU9yRUc1M0oyV1g2X2ZtMWQ?oc=5
+14. ⭐ **[22점]** 건보공단, 의료·요양·돌봄 연계 등 4대 경영방침 제시 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:06:53 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xZ1hZajJfRmdUbkUwN1RBaGZoNXNzUkdfUDk2WnlsOVVoU0pFcXVnWm13aElUT0s5eUEzOGhIeUpuRzV0OE51TzVxZVRLRXlieFVEUGRTeFZPS050bWlET3VYMlU?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:06:53 GMT+5 | 키워드+5 | 순위:83위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xZ1hZajJfRmdUbkUwN1RBaGZoNXNzUkdfUDk2WnlsOVVoU0pFcXVnWm13aElUT0s5eUEzOGhIeUpuRzV0OE51TzVxZVRLRXlieFVEUGRTeFZPS050bWlET3VYMlU?oc=5
+15. ⭐ **[22점]** 수원·김해보훈요양원, 장기요양 현장실천 우수사례 수상 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:29:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FRlpBZ3dSZU5ueV9CUUUtSGtBa0Yzb044SFUzY3RvM05McUVGRXVVS25WZ0VDZVp1RENXdWtBOVZfaU5tUlhxUHZpcVpLaWkzb0MxNUpzem4zZVgtSDNCTlBHaV8?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:29:00 GMT+5 | 키워드+5 | 순위:84위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FRlpBZ3dSZU5ueV9CUUUtSGtBa0Yzb044SFUzY3RvM05McUVGRXVVS25WZ0VDZVp1RENXdWtBOVZfaU5tUlhxUHZpcVpLaWkzb0MxNUpzem4zZVgtSDNCTlBHaV8?oc=5
+
+### 🏛️ 의약관련정부기관 (15건)
+1. ⭐⭐⭐ **[47점]** [보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련
+   📰 출처: 한국사회복지저널
+   ⏫ 업로드: 11시간 | ♻️ 갱신: -
+   🧾 요약: 식약처, ‘연조직고정용장치 허가&#183;심사 가이드라인(민원인안내서)’ 마련- 제품 개발 추세 맞춰 구조, 삽입방식 등에 따른 성능평가 필요 항목 제시식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 건(힘줄)&#183;인대 등 연조직을 뼈에 고정하기 위해 사용하는 의료기기인 연 ...
+   📊 출처:한국사회복지저널+10 | 최신:11시간+15 | 키워드+20 | 순위:83위+2
+   🔗 https://www.ksw-news.com/news/articleView.html?idxno=3057988
+2. ⭐⭐ **[42점]** [보도참고] 식약처, 의약품 허가 심사 수수료 현실화 추진
+   📰 출처: 한국사회복지저널
+   ⏫ 업로드: 17시간 | ♻️ 갱신: -
+   🧾 요약: - 고난도 심사가 필요한 의약품의 품목허가, 변경허가, 사전검토 수수료 개편- 「첨단바이오의약품 안전 및 지원에 관한 규칙」 개정안 입법예고(11.6~12.16)- 「의약품 등의 허가 등에 관한 수수료 규정」 개정안 행정예고(11.6~11.26)식품의약품안전처(처장 오유경)는 신약 외 ...
+   📊 출처:한국사회복지저널+10 | 최신:17시간+10 | 키워드+20 | 순위:82위+2
+   🔗 https://www.ksw-news.com/news/articleView.html?idxno=3057977
+3. ⭐⭐ **[42점]** 의약외품 GMP 자율 도입서 의무화로...식약처, 2027년 법령 개정 추진
+   📰 출처: 의학신문
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [의학신문&#183;일간보사=이재원 기자] 식품의약품안전처가 그동안 자율 도입을 중심으로 운영해 온 의약외품 제조&#183;품질관리기준 (GMP)을 단계적으로 의무화하는 방안을 추진한다. 올해 말까지 관련 연구를 마무리하고 2027년부터 ...
+   📊 출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:84위+2
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3015867
+4. ⭐⭐ **[42점]** 식약처, 의약품 허가&#183;심사 수수료 현실화 추진
+   📰 출처: 정필
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [정필=양건영 의학전문기자 kspa@jeongpil.com] 식품의약품안전처는 신약 외 첨단바이오의약품, 신규생물의약품, 자료제출의약품의 품목허가 등 수수료 현실화를 주요 내용으로 하는 ｢첨단바이오의약품 안전 및 지원에 관한 ...
+   📊 출처:정필+10 | 최신:1일+10 | 키워드+20 | 순위:86위+2
+   🔗 http://jeongpil.com/2745973
+5. ⭐⭐ **[42점]** 자료제출의약품 허가 수수료 6배로…식약처, 심사 수수료 인상 추진
+   📰 출처: 한국스포츠통신
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 식품의약품안전처가 자료제출의약품의 품목허가 수수료를 현행의 약 6.1배로 올리는 등 의약품 허가&#183;심사 수수료 인상을 추진한다. 신약과 바이오시밀러에 이어 신약 외 첨단바이오의약품과 신규생물의약품까지 수수료 개편 대상을 확대해 ...
+   📊 출처:한국스포츠통신+10 | 최신:1일+10 | 키워드+20 | 순위:89위+2
+   🔗 https://www.apsk.co.kr/news/articleView.html?idxno=540989
+6. ⭐⭐ **[42점]** 첨단바이오의약품 허가 수수료 803만→2071만원…식약처, 고난도 심사 비용 현실화
+   📰 출처: 와이드경제 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 세포&#183;유전자 치료제 등 고도의 전문성과 안전성 검증이 요구되는 첨단바이오의약품의 품목허가 수수료가 종전 800만 원대에서 2000만 원대로 대폭 인상된다.식품의약품안전처는 신약 외 첨단바이오의약품, 신규생물의약품, ...
+   📊 출처:와이드경제 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:90위+2
+   🔗 https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%83%9D%ED%99%94%ED%95%99/%EC%B2%A8%EB%8B%A8%EB%B0%94%EC%9D%B4%EC%98%A4%EC%9D%98%EC%95%BD%ED%92%88-%ED%97%88%EA%B0%80-%EC%88%98%EC%88%98%EB%A3%8C-803%EB%A7%8C-2071%EB%A7%8C%EC%9B%90-%EC%8B%9D%EC%95%BD%EC%B2%98-%EA%B3%A0%EB%82%9C%EB%8F%84-%EC%8B%AC%EC%82%AC-%EB%B9%84%EC%9A%A9-%ED%98%84%EC%8B%A4%ED%99%94/ar-AA2gQZP0?ocid=BingNewsVerp
+7. ⭐⭐ **[40점]** 식약처, 첨단바이오&#183;자료제출의약품 허가 수수료 인상 추진 *(협회지)*
+   📰 출처: 약사공론
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 기사의 본문 내용은 이 글자크기로 변경됩니다. 식품의약품안전처가 첨단바이오의약품과 신규생물의약품, 자료제출의약품의 품목허가 수수료를 현실화하는 방안을 추진한다. 임상&#183;품질자료의 복잡성이 높아지고 전문 심사인력 투입이 증가하는 ...
+   📊 출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:87위+2
+   🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=548305
+8. ⭐⭐ **[37점]** [식품의약품안전처] 나트륨·당류 저감 표시 223개 식품유형으로 확대 추진… 26일까지 의견 - 커넥트이천
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:26:26 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRjdyQ09IYkQ4QldHMkFrMkJRdllTbEQ3dWFCTU1Fc3BSNDNuaGdpcU1rQ2g3NndFNTJOSUMtTXl0Z21CcFVPV1k3ZTdTN05tTFl0dURGb3dfbWxfdEE?oc=5" target="_blank">
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:26:26 GMT+5 | 키워드+20 | 순위:76위+2
+   🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRjdyQ09IYkQ4QldHMkFrMkJRdllTbEQ3dWFCTU1Fc3BSNDNuaGdpcU1rQ2g3NndFNTJOSUMtTXl0Z21CcFVPV1k3ZTdTN05tTFl0dURGb3dfbWxfdEE?oc=5
+9. ⭐⭐ **[37점]** 미 FDA, 리브리반트 파스프로 두경부암 적응증 가속승인 - 메디포뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:16:20 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZ2toWnM0T3BuV2tUMmdJREF1LWFUQ1F5eWhVMmFhV3lXNEVERnJJQ2ptaEszN1l5V1ZVc1JQellMTUk0ZTctODRnenFGTlhSdHF1SFcxY3AxQVRLM3lNdlByUFo?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:16:20 GMT+5 | 키워드+20 | 순위:78위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZ2toWnM0T3BuV2tUMmdJREF1LWFUQ1F5eWhVMmFhV3lXNEVERnJJQ2ptaEszN1l5V1ZVc1JQellMTUk0ZTctODRnenFGTlhSdHF1SFcxY3AxQVRLM3lNdlByUFo?oc=5
+10. ⭐⭐ **[35점]** 의약품 허가 수수료 최대 6배 인상 추진…&quot;인상 폭 과도&quot; 우려도 *(협회지)*
+   📰 출처: 약사공론
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 식품의약품안전처가 첨단바이오의약품과 신규생물의약품, 자료제출의약품의 허가&#183;심사 수수료를 대폭 인상하는 방안을 추진하면서 제약바이오업계의 부담이 커질 전망이다. 심사 난이도 증가에 대응해 전문인력을 확충하고 허가&#183;심사 서비스의 ...
+   📊 출처:약사공론+18 | 최신:1일+10 | 키워드+5 | 순위:85위+2
+   🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=548312
+11. ⭐⭐ **[32점]** 의약품 허가&#183;심사 수수료 줄인상... '최대 2.5배' 상향
+   📰 출처: 식약일보
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 앞으로 첨단바이오의약품과 신규생물의약품, 자료제출의약품 등의 품목허가 수수료가 대폭 상향 조정된다. 고난도 심사가 요구되는 의약품 품목에 대해 심사 체계 합리화와 전문 역량 강화를 위한 조치다. 식품의약품안전처 (처장 오유경 ...
+   📊 출처:식약일보+10 | 최신:1일+10 | 키워드+10 | 순위:88위+2
+   🔗 https://kfdn.co.kr/73827
+12. ⭐⭐ **[27점]** 노바티스 유전자 치료제 ‘졸겐스마’, 투약 환자 종양 발생에 美 FDA 조사 착수 - 글로벌이코노믹
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2hjYjNKWjE1ZXRha05EVUtWanZUbGk4aGhuOEVYd080Q194Si1hd05BMzJaX2NjS2Z6UW5BdjhENFNTSXM4LTVxekdnd2xzOTRHM3d0MXQ4YkFBS1lJQ2ZOOE5YMHctUklsQXB6OF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:00:00 GMT+5 | 키워드+10 | 순위:79위+2
+   🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2hjYjNKWjE1ZXRha05EVUtWanZUbGk4aGhuOEVYd080Q194Si1hd05BMzJaX2NjS2Z6UW5BdjhENFNTSXM4LTVxekdnd2xzOTRHM3d0MXQ4YkFBS1lJQ2ZOOE5YMHctUklsQXB6OFowT05BMHZRcWEwX2R4bzdhQW1Cdy0wM2FB?oc=5
+13. ⭐ **[22점]** 많이 먹을수록 좋다?…메가도스 마케팅에 커지는 과다섭취 우려 - 노컷뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 20:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVTVpbXpCTUZKbVRYYnlQTzR4LXZnRGs2eHpLaUJxN2hnazRaMldCYWdfZlpRRDl2S0FlVGZFaWNGY2U3R0JESTZwOVViYWtXMlpzSA?oc=5" target="_blank">많이 먹을수록 좋다?…메
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 20:00:00 GMT+5 | 키워드+5 | 순위:77위+2
+   🔗 https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lVTVpbXpCTUZKbVRYYnlQTzR4LXZnRGs2eHpLaUJxN2hnazRaMldCYWdfZlpRRDl2S0FlVGZFaWNGY2U3R0JESTZwOVViYWtXMlpzSA?oc=5
+14. ⭐ **[22점]** "손상된 힘줄·인대 고정"…의료기기 평가법 안내 - 뉴시스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:06:23 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWG42LWxNSXhWWDM4aWgteWhjUDBmVkl6ZjdfV0FzVnF4UFJLYlRlYUtWR053U0d3X1VSWjFtVDA4Qjh5ZXItdm5NbTJRcE1HOTJha2pvdFRKdDJpd0VnbjFDTnBibll5UzAyUDU5Q3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:06:23 GMT+5 | 키워드+5 | 순위:80위+2
+   🔗 https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWG42LWxNSXhWWDM4aWgteWhjUDBmVkl6ZjdfV0FzVnF4UFJLYlRlYUtWR053U0d3X1VSWjFtVDA4Qjh5ZXItdm5NbTJRcE1HOTJha2pvdFRKdDJpd0VnbjFDTnBibll5UzAyUDU5Q3pweUFKOEhSSNIBeEFVX3lxTE1QWG42LWxNSXhWWDM4aWgteWhjUDBmVkl6ZjdfV0FzVnF4UFJLYlRlYUtWR053U0d3X1VSWjFtVDA4Qjh5ZXItdm5NbTJRcE1HOTJha2pvdFRKdDJpd0VnbjFDTnBibll5UzAyUDU5Q3pweUFKOEhSSA?oc=5
+15. ⭐ **[22점]** 비만약 허가 30일 만에 관리 앱까지…한미약품 '에피데이' 출시 - 이포커스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:32:51 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9uVGVfcXUzUTFpbWVrX3o5M00zdzJTc1ZWZGNOb3JjbkNkYnRaU29BTUVDd3BReFlZVmMtQzRQWUp2Z1dWV2tMNEVQVVNmNnpLZEs4djZxWTliRUZUaFotU2V3cHpYbEpsNmtZcXZR?o
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:32:51 GMT+5 | 키워드+5 | 순위:81위+2
+   🔗 https://news.google.com/rss/articles/CBMibkFVX3lxTE9uVGVfcXUzUTFpbWVrX3o5M00zdzJTc1ZWZGNOb3JjbkNkYnRaU29BTUVDd3BReFlZVmMtQzRQWUp2Z1dWV2tMNEVQVVNmNnpLZEs4djZxWTliRUZUaFotU2V3cHpYbEpsNmtZcXZR?oc=5
+
+### 🏥 의료현장 (12건)
+1. ⭐⭐ **[37점]** 하노이 산부인과 병원의 5개 진료과는 국제 표준에 따라 운영됩니다. - Vietnam.vn
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:42:17 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUZKVXFjeTRLQVliSDRWdC15ZjdnT1VRQlZHOHFNT1NtMXNxQ0o5bldnODBNWjliSEJ0X0dHWlVPOE9jWGJlNlpEOTVneWZkUndobXVxalVFQUxQSElzTnRaR003ZzdaRkNqT0lIM3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:42:17 GMT+5 | 키워드+20 | 순위:70위+2
+   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUZKVXFjeTRLQVliSDRWdC15ZjdnT1VRQlZHOHFNT1NtMXNxQ0o5bldnODBNWjliSEJ0X0dHWlVPOE9jWGJlNlpEOTVneWZkUndobXVxalVFQUxQSElzTnRaR003ZzdaRkNqT0lIM3FNZ0FCN2xqRGNBRzZCOGNfazdGMTdOdHFzX25nbUlXMFp2N0Q2TUE?oc=5
+2. ⭐⭐ **[32점]** 외과 수련시간 ‘반토막’…법적 안전망도 ‘구멍’
+   📰 출처: 데일리메디
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿외과 전공의 수련기간이 3년 단축과 근무시간 제한까지 더해지면서 전체 수련시간이 과거 절반 수준으로 줄어든 것으로 나타났다. 수련시간 감소에 따른 술기 역량 저하가 현실화된 가운데, 개정 의료분쟁조정법도 수술 현장의 특수성을 충분히 반영하지 못하고 있다는 우려다.대한외과학회는 5일 추계학술대회(ACKSS 2026) 기자간담회에서 외과 전공
+   📊 출처:데일리메디+10 | 최신:1일+10 | 키워드+10 | 순위:71위+2
+   🔗 https://www.dailymedi.com/news/news_view.php?wr_id=942294
+3. ⭐⭐ **[32점]** 분당제생병원, 간호간병통합서비스 우수기관 선정
+   📰 출처: 청년의사
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 분당제생병원(원장 손정환)이 최근 국민건강보험공단이 선정하는 ‘2026년 간호간병통합서비스 우수기관'에 이름을 올렸다.간호간병통합서비스는 보호자나 사적 간병인 없이 전문 간호인력이 입원환자에게 간호와 간병을 제공하는 제도다.
+   📊 출처:청년의사+10 | 최신:1일+10 | 키워드+10 | 순위:72위+2
+   🔗 https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044364
+4. ⭐⭐ **[27점]** 대학병원 이어 동네 의원까지…이틀새 진료실 흉기 난동 잇따라 - 메디컬월드뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:39:23 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZ3B3UDRzdFV3VklUVGJPMU5LbHB3bXB5SjRtSFd0LXlCUWpXemw3Z1hGWjBrOGhCMXlLdHhFN1NBSVdsVk1XOWN3VTVPV0N3cVBTWlhMeGdhYWNHYTZycm5SMjVqdXlXalNLUE1SNW
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:39:23 GMT+5 | 키워드+10 | 순위:61위+2
+   🔗 https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZ3B3UDRzdFV3VklUVGJPMU5LbHB3bXB5SjRtSFd0LXlCUWpXemw3Z1hGWjBrOGhCMXlLdHhFN1NBSVdsVk1XOWN3VTVPV0N3cVBTWlhMeGdhYWNHYTZycm5SMjVqdXlXalNLUE1SNWo?oc=5
+5. ⭐⭐ **[27점]** 소아 완화의료 환자 7년 새 8배↑…11개 시도 병원 '전무' - 뉴시스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:01:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xa0J4NklIVnRlZ2pLQ1RFOC1YZU5xS3lFbDZJTHJZWjRPdXRpZjNpTHlOb21tSjc1WXlaVGt1Wi0tdnJDNzJ3TmthTk41MUt6U25HRmtYV21FLUVEZzV4OdIBeEFVX3lxTE5zbGFrS2
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:01:00 GMT+5 | 키워드+10 | 순위:63위+2
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xa0J4NklIVnRlZ2pLQ1RFOC1YZU5xS3lFbDZJTHJZWjRPdXRpZjNpTHlOb21tSjc1WXlaVGt1Wi0tdnJDNzJ3TmthTk41MUt6U25HRmtYV21FLUVEZzV4OdIBeEFVX3lxTE5zbGFrS2VLRTB0NGNmX192dGhfLXNZTXZjWHFrVnZkeDI5ZGVCM2t5azI1SVNFRFZoenRXMEF3ZU1fdVE0WDF4Z3lsOWlsQTAyUHFqekllZHk3R0FvVGc4SDJ1cVhDV3Z6NnVYSW1MZFpzSGVUYlNVZQ?oc=5
+6. ⭐⭐ **[27점]** 달빛어린이병원 수가 인상 추진…“병원급 소아진료 지원도 필요” - 쿠키뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:26:50 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2M25DbHUwdldQN0N2SGFvd0RnN2taMEt0MTJySzFPMjh0RkFTUHJyQ1lZN0JCbFRua2lIMV9IYjVMaE1ibEVucm5tVlowOTVSazZNS1VFUXpubmFxWnI0ZGJVTQ?oc=5" target="_
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:26:50 GMT+5 | 키워드+10 | 순위:65위+2
+   🔗 https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2M25DbHUwdldQN0N2SGFvd0RnN2taMEt0MTJySzFPMjh0RkFTUHJyQ1lZN0JCbFRua2lIMV9IYjVMaE1ibEVucm5tVlowOTVSazZNS1VFUXpubmFxWnI0ZGJVTQ?oc=5
+7. ⭐⭐ **[27점]** “KFC 치킨 먹으면 환자 몰려온다”…학술지에도 실린 병원 금지어 'KFC' - 전자신문
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYkxqNVd4aVNzcmRjU2dsUURiUG5kbk95a0pzNko5M2o4RXpYUEI3UkVqRWdTY0swM0hvMVcyRHVJQmJwMnRWYlZCblE3TnF5SURjTVNzVVR5N2V2TDVxSzVR?oc=5" target="_bl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:00:00 GMT+5 | 키워드+10 | 순위:66위+2
+   🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fYkxqNVd4aVNzcmRjU2dsUURiUG5kbk95a0pzNko5M2o4RXpYUEI3UkVqRWdTY0swM0hvMVcyRHVJQmJwMnRWYlZCblE3TnF5SURjTVNzVVR5N2V2TDVxSzVR?oc=5
+8. ⭐⭐ **[27점]** 국제 전문가들이 메콩델타 지역 의사들에게 척추 수술 기법을 전수하고 있습니다. - Vietnam.vn
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:16:13 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPU0ZZZkFyeFVqVjlONUVKelVqOTdRMzdDVlFEeVlSeXBMMkk5TTQwdFd2Wk9UVzFocWxoZDdhdjdiZjVYVFg2YWctXzJxZzQ0LXd0czY1MzFHSmZUWmFaS0lIOFVoYng5Ul9lamdIZV
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:16:13 GMT+5 | 키워드+10 | 순위:67위+2
+   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxPU0ZZZkFyeFVqVjlONUVKelVqOTdRMzdDVlFEeVlSeXBMMkk5TTQwdFd2Wk9UVzFocWxoZDdhdjdiZjVYVFg2YWctXzJxZzQ0LXd0czY1MzFHSmZUWmFaS0lIOFVoYng5Ul9lamdIZVJCS2M1MWJIVm9oMHU5ajhwM2Fud2ZTczdXdFVCamJ3RzhHY01xNmt6VmVUdFJ1UQ?oc=5
+9. ⭐⭐ **[27점]** 전공의 모집 앞 ‘압수수색 파장’…전남광주 소아의료 불안 - 진일보 | 전남일보
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:09:23 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZQmdwVVNzdjNmbEhKcWsxLTNybjVhdTAzaFJpeE1qQV9kQnkzcm5YYXhoSzRxM204VFhhQzdFT0FtWmY1QjlOdHZBall0WUdsMDFySUc2UUVYNHVCbFhJSG9Pb1VMRmVDbVNHR0xhVQ
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:09:23 GMT+5 | 키워드+10 | 순위:68위+2
+   🔗 https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZQmdwVVNzdjNmbEhKcWsxLTNybjVhdTAzaFJpeE1qQV9kQnkzcm5YYXhoSzRxM204VFhhQzdFT0FtWmY1QjlOdHZBall0WUdsMDFySUc2UUVYNHVCbFhJSG9Pb1VMRmVDbVNHR0xhVQ?oc=5
+10. ⭐ **[22점]** 모방 마을 주민 약 500명이 무료 건강 검진과 치료를 받았습니다. - Vietnam.vn
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:24:37 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlJ2OGp4Y3RoVlN2ZlRJY19mVXNvUUtfTWk2OTNxU1M0WUpHcnNnZjJMRWw2YzQ4MENfZjJaRlVyM2stamVTYWhjQUFNWEdvWlFrZW5VeWQ4aHNpRmRyR2hHZUNXUkdqNE4ycVg2al
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:24:37 GMT+5 | 키워드+5 | 순위:62위+2
+   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlJ2OGp4Y3RoVlN2ZlRJY19mVXNvUUtfTWk2OTNxU1M0WUpHcnNnZjJMRWw2YzQ4MENfZjJaRlVyM2stamVTYWhjQUFNWEdvWlFrZW5VeWQ4aHNpRmRyR2hHZUNXUkdqNE4ycVg2alVQY1RHT1dtNC1iTFZKbEpUT0JuczNjd0huOW1xQUFzbmV2Zw?oc=5
+11. ⭐ **[22점]** 경희대 의료경영MBA ‘의료경영의 천재들(SEASON 1)’ -미래 의료 AI 경영 학술 잔치 - 한국의약통신
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:08:56 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1BTHA2eGx1Q3RrNkl2WkR6eHlhSmZETUZfODZzYy1JSXNlM3NwUms1dnE5STFSUFpSTmo0SW4wSnZrXy1Ka1RvTngtRnAwVExLY3psUUlad2FYS2V6QXpLUS1VRlRvTmlZaTZj?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:08:56 GMT+5 | 키워드+5 | 순위:64위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE1BTHA2eGx1Q3RrNkl2WkR6eHlhSmZETUZfODZzYy1JSXNlM3NwUms1dnE5STFSUFpSTmo0SW4wSnZrXy1Ka1RvTngtRnAwVExLY3psUUlad2FYS2V6QXpLUS1VRlRvTmlZaTZj?oc=5
+12. ⭐ **[22점]** 기관 파열로 위독한 상태에 빠진 소년의 생명을 구하기 위해 3시간에 걸친 수술이 진행되었습니다. - Vietnam.vn
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:29:26 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE5XZi12YXMtLXBuZExnYkpIc0NROUxid19XU0RqMlZlZnI3cVJBSDhKeG9mbUdxelBwNXJ4Yjd1elBYOXBnM1hOanpqQWh1djlMMVc5amJKU2tuaW1rekhyeUhPSFlmVWdGbmIyTE
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:29:26 GMT+5 | 키워드+5 | 순위:69위+2
+   🔗 https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE5XZi12YXMtLXBuZExnYkpIc0NROUxid19XU0RqMlZlZnI3cVJBSDhKeG9mbUdxelBwNXJ4Yjd1elBYOXBnM1hOanpqQWh1djlMMVc5amJKU2tuaW1rekhyeUhPSFlmVWdGbmIyTEJGX0ZxODVpUDgtRFVCU1Q3QzdjR1lpN0JDNHk0YzdkdFBYUVVkM3c?oc=5
+
+### 💊 약국·약사 (3건)
+1. ⭐⭐ **[44점]** 최광훈 대약 총회의장, 아시아약학연맹 특별공로상 수상 *(협회지)*
+   📰 출처: 데일리팜
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 대한약사회(회장 권영희)는 지난 5일 태국 방콕에서 열린 제31차 아시아약학연맹(FAPA) 총회 개회식에서 최광훈 총회의장이 특별공로상(Distinguished Contributor Award)을, 손의동 중앙대학교 약학대학 ...
+   📊 출처:데일리팜+24 | 최신:1일+10 | 키워드+5 | 순위:16위+5
+   🔗 https://www.dailypharm.com/user/news/344290
+2. ⭐⭐ **[43점]** 약사회 비대위, 창고형약국 후속 입법&#183;현장 대응 강화 *(협회지)*
+   📰 출처: 약사공론
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 비대위는 창고형약국 관련 입법 성과를 점검하고, 개정 약사법의 실효성 확보를 위한 후속조치와 불법 개설&#183;운영에 대한 대응을 강화하기로 했다. 대한약사회 (회장 권영희) 국민건강권 사수 비상대책위원회는 4일 제9차 운영위원회를 ...
+   📊 출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:17위+5
+   🔗 https://www.kpanews.co.kr/news/articleView.html?idxno=548310
+3. ⭐⭐ **[35점]** 대한약사회 비대위, 창고형약국 외부자본 차단 및 후속 입법 대응 착수 *(협회지)*
+   📰 출처: 팜뉴스 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [팜뉴스=김응민 기자] 대한약사회 국민건강권 사수 비상대책위원회는 지난 4일 제9차 운영위원회를 열고 창고형약국 관련 입법 후속 조치와 불법 개설&#183;운영에 대한 대응 방안을 논의했다고 6일 밝혔다.운영위원회는 창고형약국 사안과 관련해 약국의 독립적 운영권을 확립하고 외부자본에 의한 경영 개입 및 의약품 무분별 유통을 차단하는 데 중점을 두기로 의견을
+   📊 출처:팜뉴스 on MSN+10 | 최신:1일+10 | 키워드+10 | 순위:18위+5
+   🔗 https://www.msn.com/ko-kr/news/other/%EB%8C%80%ED%95%9C%EC%95%BD%EC%82%AC%ED%9A%8C-%EB%B9%84%EB%8C%80%EC%9C%84-%EC%B0%BD%EA%B3%A0%ED%98%95%EC%95%BD%EA%B5%AD-%EC%99%B8%EB%B6%80%EC%9E%90%EB%B3%B8-%EC%B0%A8%EB%8B%A8-%EB%B0%8F-%ED%9B%84%EC%86%8D-%EC%9E%85%EB%B2%95-%EB%8C%80%EC%9D%91-%EC%B0%A9%EC%88%98/ar-AA2gRE8A?ocid=BingNewsVerp
+
+### 🩺 의료정책·인력 (11건)
+1. ⭐⭐ **[37점]** “세브란스병원 사건 엄중, 폭력예방 제도 개선 지속”
+   📰 출처: 데일리메디
+   ⏫ 업로드: 39분 | ♻️ 갱신: -
+   🧾 요약: ﻿﻿﻿﻿세브란스병원 정신건강의학과 교수가 흉기 공격을 당한 사건이 발생하면서 의료진 안전 문제가 도마에 오른 가운데 정부가 “의료기관 폭력행위 예방과 안전한 진료환경 조성에 전력하겠다”는 입장을 내놨다.일각에선 지난 ...
+   📊 출처:데일리메디+10 | 최신:39분+20 | 키워드+5 | 순위:65위+2
+   🔗 https://www.dailymedi.com/news/news_view.php?wr_id=942353
+2. ⭐⭐ **[32점]** 지방의료원 41곳 역할 바꾼다…국립대병원 규제 풀고 필수의료 보상 강화
+   📰 출처: 라포르시안
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [라포르시안] 정부가 공공의료 정책의 무게중심을 공공병원 확충에서 지역 의료체계의 기능과 역할을 재편하는 방향으로 옮긴다. 국립대병원은 중증&#183;고난도 질환의 최종치료를 담당하는 권역 거점으로 육성하고, 지방의료원 등 ...
+   📊 출처:라포르시안+10 | 최신:1일+10 | 키워드+10 | 순위:63위+2
+   🔗 https://www.rapportian.com/news/articleView.html?idxno=242110
+3. ⭐⭐ **[32점]** 전공의 수련 정상화 막바지…충원난&#183;9월 인턴 ‘이중 과제’
+   📰 출처: 데일리메디
+   ⏫ 업로드: 21시간 | ♻️ 갱신: -
+   🧾 요약: ﻿﻿﻿﻿﻿﻿[기획 1] 의정갈등으로 흔들렸던 전공의 수련체계가 정상화의 마지막 단계에 접어들고 있다. 정부는 2027년도 레지던트 정원 확대를 추진하며 수련인력 확보에 속도를 내고 있지만, 의정갈등 이전 수준으로의 회복 ...
+   📊 출처:데일리메디+10 | 최신:21시간+10 | 키워드+10 | 순위:64위+2
+   🔗 https://www.dailymedi.com/news/news_view.php?ca_id=22&amp;wr_id=942351
+4. ⭐⭐ **[27점]** 보건복지부, 환자 자기결정권 및 존엄성 보장 위한 생애 말 의료·돌봄 공론화 착수 - 엔디엔뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:38:24 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5LM29ZYzBldEotS0lORmZoUndmWlgtY1lGMElnd2dUdU9nX1lVLWxiMU5lOXdGWFRHaGp2QzBDLXpKQktQR2NTUFdLOFplUDdvRmIwWVhfWXFXVzdwaUN4c0lOZ0ZfTFNqZlYwMDIzdW
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:38:24 GMT+5 | 키워드+10 | 순위:57위+2
+   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE5LM29ZYzBldEotS0lORmZoUndmWlgtY1lGMElnd2dUdU9nX1lVLWxiMU5lOXdGWFRHaGp2QzBDLXpKQktQR2NTUFdLOFplUDdvRmIwWVhfWXFXVzdwaUN4c0lOZ0ZfTFNqZlYwMDIzdWZaUdIBckFVX3lxTE5LM29ZYzBldEotS0lORmZoUndmWlgtY1lGMElnd2dUdU9nX1lVLWxiMU5lOXdGWFRHaGp2QzBDLXpKQktQR2NTUFdLOFplUDdvRmIwWVhfWXFXVzdwaUN4c0lOZ0ZfTFNqZlYwMDIzdWZaUQ?oc=5
+5. ⭐⭐ **[27점]** 분당차병원, 건강보험 빅데이터 분석센터 개소…RWD 기반 연구 확대 - 더퍼스트미디어
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:24:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE13Nk9UQ1RBUHA2U1pyRGVfa19IenN4d3VmM2dHQTNSZURuRklrczlNMkFrUWZDbVNka2d3cWxacXM5RGFTLTl0VzRSaFNaajA1WWo1cHV4S3lsaTdUWURoZEd5WmVPMVVqZWVuVy1qU0
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:24:05 GMT+5 | 키워드+10 | 순위:60위+2
+   🔗 https://news.google.com/rss/articles/CBMidEFVX3lxTE13Nk9UQ1RBUHA2U1pyRGVfa19IenN4d3VmM2dHQTNSZURuRklrczlNMkFrUWZDbVNka2d3cWxacXM5RGFTLTl0VzRSaFNaajA1WWo1cHV4S3lsaTdUWURoZEd5WmVPMVVqZWVuVy1qU0VRdVdz0gF0QVVfeXFMTXc2T1RDVEFQcDZTWnJEZV9rX0h6c3h3dWYzZ0dBM1JlRG5GSWtzOU0yQWtRZkNtU2RrZ3dxbFpxczlEYVMtOXRXNFJoU1pqMDVZajVwdXhLeWxpN1RZRGhkR3laZU8xVWplZW5XLWpTRVF1V3M?oc=5
+6. ⭐⭐ **[27점]** 3차 공공보건의료 기본계획, 현장선 '인력 공백&#183;재정 지원' 보완 요구
+   📰 출처: 의학신문
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [의학신문&#183;일간보사=이재원 기자] 정부가 제3차 공공보건의료 기본계획을 통해 지역&#183;필수의료 강화와 공공병원 기능 재편에 나선 가운데, 의료 현장에서는 신규 의료인력이 배출되기까지 발생할 인력 공백을 해소하고 공공병원의 구조적 ...
+   📊 출처:의학신문+10 | 최신:1일+10 | 키워드+5 | 순위:66위+2
+   🔗 https://www.bosa.co.kr/news/articleView.html?idxno=3015769
+7. ⭐ **[22점]** 복지부, 건강검진 검체검사도 손본다…"실시기준 개정에 3~4개월 예상" - MEDI:GATE NEWS
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:47:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpa2YzemRjck9CQmJ6UHZwMHhSTkN0YmdYRWZoSnZ0eXhuZHRRaEphZ1FrNU9kTlBjNDFvZnJQcFNtZlBCY2E0Q0xmdWdEYVgybEwycEVJSQ?oc=5" target="_blank">복지부, 건강검진
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:47:00 GMT+5 | 키워드+5 | 순위:56위+2
+   🔗 https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpa2YzemRjck9CQmJ6UHZwMHhSTkN0YmdYRWZoSnZ0eXhuZHRRaEphZ1FrNU9kTlBjNDFvZnJQcFNtZlBCY2E0Q0xmdWdEYVgybEwycEVJSQ?oc=5
+8. ⭐ **[22점]** 부천시, ‘2026 한일 시니어 포럼’ 우수 통합돌봄 대상 우수상 수상 > 뉴스 - 더코리아
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:03:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9pVHhaWFV5TUNKSUNXSkUzc1BzSUJxbkVYOWNOOWtKd1FtZ1hfQklLV1dGSjk4RUZIUkVvUHhTejYySVJSUFdHTnQ1ZEpwcklLTjRFbW9ySVhYR2w5cmNBTmQwb2todk9MSE56dkM2WF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:03:00 GMT+5 | 키워드+5 | 순위:58위+2
+   🔗 https://news.google.com/rss/articles/CBMickFVX3lxTE9pVHhaWFV5TUNKSUNXSkUzc1BzSUJxbkVYOWNOOWtKd1FtZ1hfQklLV1dGSjk4RUZIUkVvUHhTejYySVJSUFdHTnQ1ZEpwcklLTjRFbW9ySVhYR2w5cmNBTmQwb2todk9MSE56dkM2WFdRdw?oc=5
+9. ⭐ **[22점]** ‘ICNSH 2026’ 성료…‘질환의 궤적’에서 ‘삶의 궤적’까지 묻다 - 병원신문
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE15M2VVNW9pLWRLZkRfRmIyZTRpSTBDZFNXV0w2RG9XWmt4eEtUcXJtRlpyZV9tb2NLeDZwMF9HM1JhU0oxUERYNExTMTJkU1dFVDZVSGRET09XUDFYMjZqSnZNNWdiay1JNGc?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:00:00 GMT+5 | 키워드+5 | 순위:59위+2
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE15M2VVNW9pLWRLZkRfRmIyZTRpSTBDZFNXV0w2RG9XWmt4eEtUcXJtRlpyZV9tb2NLeDZwMF9HM1JhU0oxUERYNExTMTJkU1dFVDZVSGRET09XUDFYMjZqSnZNNWdiay1JNGc?oc=5
+10. ⭐ **[22점]** 32년 만에 의대 2곳 문 연다…순천대 60명·경국대 40명 - www.edaily.co.kr
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:29:58 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVVpaFpobG9uUy00ak5hT0ZJTTYxNHVZbE1xNEN2alotMDhtbjBVZE1EcTJ1WExTZnVXbm5Ja3ZlMDlBMUNnbDl4WGpvSEtCdWptdHZwYkpaOEpoNzhIZXlQemJGSC1Yb2FneEhiNT
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:29:58 GMT+5 | 키워드+5 | 순위:61위+2
+   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVVpaFpobG9uUy00ak5hT0ZJTTYxNHVZbE1xNEN2alotMDhtbjBVZE1EcTJ1WExTZnVXbm5Ja3ZlMDlBMUNnbDl4WGpvSEtCdWptdHZwYkpaOEpoNzhIZXlQemJGSC1Yb2FneEhiNThmSjgtNy15MzZ1SElldy1SbQ?oc=5
+11. ⭐ **[22점]** 전남광주특별시, 강진의료원 의사 숙소 준공… “농어촌 공공의료 인프라 획기적 강화” - 브레이크뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:03:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE10aExheE0xdG9kZlZVUEIyUVhzaFJvaTJUSlhCcFctVXM0Z2xfdFdRNUVZRWVFUFEwV0hvaS1RQkRBdw?oc=5" target="_blank">전남광주특별시, 강진의료원 의사 숙소 준공… “농어촌 공공의료 인프
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:03:00 GMT+5 | 키워드+5 | 순위:62위+2
+   🔗 https://news.google.com/rss/articles/CBMiQkFVX3lxTE10aExheE0xdG9kZlZVUEIyUVhzaFJvaTJUSlhCcFctVXM0Z2xfdFdRNUVZRWVFUFEwV0hvaS1RQkRBdw?oc=5
+
+### 🌿 전통의학 (3건)
+1. ⭐⭐⭐ **[50점]** 대한한약사회 &quot;한약사 피해 구제 위한 정부 대책 촉구&quot;
+   📰 출처: 국제뉴스
+   ⏫ 업로드: 12시간 | ♻️ 갱신: -
+   🧾 요약: (서울=국제뉴스) 김서중 기자 = 대한한약사회는 9일 오전 11시 국회 정문 앞에서 한약사 피해 구제를 위한 규탄대회 및 협의체 구성 촉구대회를 개최한다. 이번 행사에는 현직 한약사, 한약학과 교수, 학생 등 약 400명이 참여할 예정이다.이번 대회는 1994년 한약사 제도 도입 이후 30년 넘게 한의약분업이 이행되지 않은 상황과 관련 제도적 문제, 현장
+   📊 출처:국제뉴스+10 | 최신:12시간+15 | 키워드+20 | 순위:16위+5
+   🔗 https://www.gukjenews.com/news/articleView.html?idxno=3744925
+2. ⭐⭐⭐ **[45점]** 한약사회, 감기약 필로폰 제조 연루 회원 '엄중 징계'
+   📰 출처: 글로벌뉴스통신GNA
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [서울=글로벌뉴스통신]대한한약사회 (회장 임채윤)가 최근 일반의약품인 감기약을 악용한 필로폰 제조 사건에 일부 회원이 연루된 것에 대해 깊은 유감을 표하며, 관련자에 대한 무관용 원칙과 엄중한 징계를 예고했다.
+   📊 출처:글로벌뉴스통신GNA+10 | 최신:1일+10 | 키워드+20 | 순위:17위+5
+   🔗 https://www.globalnewsagency.kr/news/articleView.html?idxno=503275
+3. ⭐⭐ **[44점]** 감기약 63만정, 필로폰 제조 일당에…의약품 대량 유통관리 '도마'
+   📰 출처: 약업닷컴
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 슈도에페드린 함유 감기약이 필로폰 제조에 악용된 사건을 계기로 의약품 대량 유통&#183;판매관리 문제가 불거지고 있다. &#169;AI 생성 이미지슈도에페드린 성분 감기약 63만여 정이 필로폰 제조 일당에 공급된 사건을 ...
+   📊 출처:약업닷컴+24 | 최신:1일+10 | 키워드+5 | 순위:18위+5
+   🔗 https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=334850
+
+### 🔬 감염·보건 (17건)
+1. ⭐⭐⭐ **[50점]** 독감에 코로나까지 '트윈데믹'… &quot;고령층, 코로나 아직 무섭다&quot;
+   📰 출처: 조선비즈
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 독감에 코로나까지 트윈데믹 고령층, 코로나 아직 무섭다 국내 80세 이상 사망률, 60대의 33배 日 사망자 한 해 3만5000명부모님 여행 전 백신부터 65세 이상 코로나 백신 접종, 내년 6월까지 무료 ...
+   📊 출처:조선비즈+28 | 최신:1일+10 | 키워드+10 | 순위:100위+2
+   🔗 https://biz.chosun.com/science-chosun/science/2026/11/06/MRRDQOJYMU2WEMRQGY2GKZRSGA/
+2. ⭐⭐ **[42점]** 주춤하던 독감 2주 연속 증가, 입원도 ↑…“아동&#183;노인 예방접종 서둘러야”
+   📰 출처: 중앙일보 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 지난달 서울 시내 한 병원에서 어르신이 독감 예방접종을 받는 모습. 뉴스1 주춤하던 인플루엔자(독감) 유행이 다시 2주 연속 증가세로 돌아섰다. 질병관리청은 아동&#183;노인 등이 예방접종을 서두르고, 의심 증상이 있으면 빠르게 ...
+   📊 출처:중앙일보 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:97위+2
+   🔗 https://www.msn.com/ko-kr/news/national/%EC%A3%BC%EC%B6%A4%ED%95%98%EB%8D%98-%EB%8F%85%EA%B0%90-2%EC%A3%BC-%EC%97%B0%EC%86%8D-%EC%A6%9D%EA%B0%80-%EC%9E%85%EC%9B%90%EB%8F%84-%EC%95%84%EB%8F%99-%EB%85%B8%EC%9D%B8-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%EC%84%9C%EB%91%98%EB%9F%AC%EC%95%BC/ar-AA2gRjBX?ocid=BingNewsVerp
+3. ⭐⭐ **[42점]** 연천 뚫리고 김포&#183;용인까지… 경기도 가축전염병 방역 비상, 18개 시군 긴급 점검
+   📰 출처: 주간한국 on MSN
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [경기인천본부=주간한국 최연훈 기자] 겨울철 가축전염병 방역을 강화해야 할 시기에 경기도 연천에서 고병원성 조류인플루엔자(AI)가 발생하면서 도내 축산 방역망에 비상이 걸렸다. 김포와 용인에서도 감염된 야생조류가 확인된 ...
+   📊 출처:주간한국 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:101위+2
+   🔗 https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EC%97%B0%EC%B2%9C-%EB%9A%AB%EB%A6%AC%EA%B3%A0-%EA%B9%80%ED%8F%AC-%EC%9A%A9%EC%9D%B8%EA%B9%8C%EC%A7%80-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EB%B0%A9%EC%97%AD-%EB%B9%84%EC%83%81-18%EA%B0%9C-%EC%8B%9C%EA%B5%B0-%EA%B8%B4%EA%B8%89-%EC%A0%90%EA%B2%80/ar-AA2gRRVa?ocid=BingNewsVerp
+4. ⭐⭐ **[42점]** 음성군, 가축전염병 특별방역 ‘총력’
+   📰 출처: ccreview
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: 현장 소독과 예찰 활동도 한층 강화해 축협 공동방제단 차량을 투입, 축산 밀집 지역과 하천 주변을 매일 소독하고 있으며, 가금류 농가가 모여 있는 5개 읍&#183;면 (금왕&#183;대소&#183;소이&#183;삼성&#183;맹동)에는 전용 방역 차량을 상시 배치해 ...
+   📊 출처:ccreview+10 | 최신:1일+10 | 키워드+20 | 순위:102위+2
+   🔗 https://www.ccreview.co.kr/news/articleView.html?idxno=362061
+5. ⭐⭐ **[37점]** [질병관리청] 독감 의사환자 다시 증가… 어린이·어르신 예방접종 서둘러야 - 커넥트이천
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:22:10 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYWFIN2cxcHVJaG00ZGNYMXdSWTR6NHV0N0dpeTJBRFZCakZiZzM3LW1MRjZOLWtZNnJETnFXVm9RU3o1aDFKVERGNWlCcVVLbEY5eDY1eHJRZU5Iamc?oc=5" target="_blank">
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:22:10 GMT+5 | 키워드+20 | 순위:86위+2
+   🔗 https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fYWFIN2cxcHVJaG00ZGNYMXdSWTR6NHV0N0dpeTJBRFZCakZiZzM3LW1MRjZOLWtZNnJETnFXVm9RU3o1aDFKVERGNWlCcVVLbEY5eDY1eHJRZU5Iamc?oc=5
+6. ⭐⭐ **[27점]** 독감 2주연속 다시 증가세 - 마음건강 길
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:03:30 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE5CQ29PYXo4NXJoMjBhQlNrOVNGbjV1SXJ4RkhiejNtU1ItaXZMV2RCOHA3bHhFVWNqcURDVXJlclpwU3h5LTZuVDdRTGw3dUozVGtISEpPMFRiRHlrLWRjalBGb3FOT0ptRGfSAW5BVV
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:03:30 GMT+5 | 키워드+10 | 순위:87위+2
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE5CQ29PYXo4NXJoMjBhQlNrOVNGbjV1SXJ4RkhiejNtU1ItaXZMV2RCOHA3bHhFVWNqcURDVXJlclpwU3h5LTZuVDdRTGw3dUozVGtISEpPMFRiRHlrLWRjalBGb3FOT0ptRGfSAW5BVV95cUxQU0oyeGRvejJSdFZacTlqeU9MSXlvRU40SE40a0VSdDhnUmVYRFdqZU14Q2ZYM0std1BzS0VETEpKRHdGUnRqZGxZYXFoR0RxMDM2LVVkWE8tNFI0TXhneFdsMVMxVm41anNJSXVOdw?oc=5
+7. ⭐⭐ **[27점]** 예수병원, 의료관련감염 예방 공로 질병관리청장 표창 수상
+   📰 출처: 투데이안
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: -상시 감염 감시&#183;신속 대응체계 구축 등 환자 안전 강화-전 직원 감염관리 교육과 손위생 캠페인으로 안전한 의료환경 조성[투데이안] 예수병원이 의료관련감염 예방과 관리에 기여한 공로를 인정받아 질병관리청장 표창을 ...
+   📊 출처:투데이안+10 | 최신:1일+10 | 키워드+5 | 순위:98위+2
+   🔗 https://www.todayan.com/news/articleView.html?idxno=636347
+8. ⭐⭐ **[27점]** 예수병원, 의료관련감염 예방&#183;관리 공로 질병관리청장 표창 수상
+   📰 출처: 아시아뉴스전북
+   ⏫ 업로드: 1일 | ♻️ 갱신: -
+   🧾 요약: [아시아뉴스전북=유병철 기자] 예수병원(병원장 신충식)이 의료관련감염 예방과 관리에 기여한 공로를 인정받아 질병관리청장 표창을 수상했다.예수병원은 질병관리청이 주관한 ‘2026년 의료관련감염 예방&#183;관리 주간’을 맞아 감염 ...
+   📊 출처:아시아뉴스전북+10 | 최신:1일+10 | 키워드+5 | 순위:99위+2
+   🔗 http://www.mjeonbuk.com/news/articleView.html?idxno=150083
+9. ⭐ **[22점]** 안과질환부터 교모세포종까지…HLB테라퓨틱스 글로벌 임상 승부수 - 핀포인트뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:14:21 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRjBxaTVTRFpYUDJXTHQ2elByWm94aFhOVTRnVkNBYXhVRVlGMXU4M3Y0WUNSX1J3NXlISXNsYjBta0NkOUJvdzdzdXZ1UzFzcDlwYjJVYmNoYVd3R2t0UEFPTlZxUkJ2RV9zZ1ZVNW
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:14:21 GMT+5 | 키워드+5 | 순위:88위+2
+   🔗 https://news.google.com/rss/articles/CBMic0FVX3lxTE9zRjBxaTVTRFpYUDJXTHQ2elByWm94aFhOVTRnVkNBYXhVRVlGMXU4M3Y0WUNSX1J3NXlISXNsYjBta0NkOUJvdzdzdXZ1UzFzcDlwYjJVYmNoYVd3R2t0UEFPTlZxUkJ2RV9zZ1ZVNWpRUTjSAXdBVV95cUxPbnZJR2xHM3VnLXVwRHo4QXQ1cTA1bEw5TTE0ZFAzQnY0eERtZ1B3WnFzR0hyQVBPcnV0WEdLaDZnM0RNam44eTlmWGROQnBjNUdlYXFVaUNjM01ILXNEZUozeWtaX29YRGJPblpXTG5jeDRLZmdXaw?oc=5
+10. ⭐ **[22점]** ’66세’ 이미숙, 지팡이 찾았다 “대상포진 주사 고통 엄청나.. 밥도 못 먹을 지경” [RE:뷰] - TV리포트
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:24:04 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaDFselRZYk9pa2tGdGU3SnBaRVB2WDlMb3UwY2J6S08zSmhqYk5sVldPQ1VZdEVzSWJuTUkxMF8tZnQwaDhPM01NVktVOG1jTVNoVUk2RnJhRjA4RnhuazN30gFiQVVfeXFMTnlPNX
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:24:04 GMT+5 | 키워드+5 | 순위:89위+2
+   🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zaDFselRZYk9pa2tGdGU3SnBaRVB2WDlMb3UwY2J6S08zSmhqYk5sVldPQ1VZdEVzSWJuTUkxMF8tZnQwaDhPM01NVktVOG1jTVNoVUk2RnJhRjA4RnhuazN30gFiQVVfeXFMTnlPNXJ0RmVjQ2ZRZ1RjUE5tdVd6Y3hHRVp0aTdoYzZ0Z19CSm1ieng4bWVzX1k2eXNlVi1sUTdSS1lKSFhVeUJJWXlONkV5SWowQWZkVTN4SkxScFdVQkw3OUE?oc=5
+11. ⭐ **[22점]** '전국 양돈장, 사육제한구역에 96.1%'...정부, 관련 규제 완화 추진한다 - 돼지와사람
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:45:36 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE92MHpiVWRObzFwMDhRRG56TXczU1o0ZUJ3cTBFblFOMExHSTdZZ3hNUnR6ZXljSGhHcEg4dnFEc0pwYk1kVUtiSXFnTkJwQ0YycUZ6NEhCc0lpXy04eENoWWdn?oc=5" target="_bl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:45:36 GMT+5 | 키워드+5 | 순위:90위+2
+   🔗 https://news.google.com/rss/articles/CBMiYkFVX3lxTE92MHpiVWRObzFwMDhRRG56TXczU1o0ZUJ3cTBFblFOMExHSTdZZ3hNUnR6ZXljSGhHcEg4dnFEc0pwYk1kVUtiSXFnTkJwQ0YycUZ6NEhCc0lpXy04eENoWWdn?oc=5
+12. ⭐ **[22점]** [자원순환 심층기획 | 죽은 가축은 어디로 가는가⑩] 매몰지는 사라졌지만 사체는 어디로 갔나…한국형 소멸화 시스템을 만들자 - https://www.climatepol.com/
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:19:56 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE00bDM1MWZtUldDQXVyT0FhSzR4QTl4TjZnbVF6YkVVcWp0ejVRZDlMX3dMX2tkOGlxcnlCTm1xakZrV0lzX08xejY0UUgtRWZpUFBRb1VLRFJia1QwRTlsUmZmYUlqWng2clBHVg?oc=
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:19:56 GMT+5 | 키워드+5 | 순위:91위+2
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE00bDM1MWZtUldDQXVyT0FhSzR4QTl4TjZnbVF6YkVVcWp0ejVRZDlMX3dMX2tkOGlxcnlCTm1xakZrV0lzX08xejY0UUgtRWZpUFBRb1VLRFJia1QwRTlsUmZmYUlqWng2clBHVg?oc=5
+13. ⭐ **[22점]** [자원순환 심층기획: 죽은 가축은 어디로 가는가 ①] FRP 저장조에 갇힌 죽음…가축은 죽었지만 악취는 살아 있다 - 저스트 이코노믹스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:18:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkT2lER0luZFJsSkdCYlFTdXMwREpnbG9pc0E2OUcwcUtIQkhQTUpBWHJwRFJYVng5R3E4MTdXRXB0YVAwaDV3OTdrZUxHOWxWT2N3UXk0UG43OHBYRmhF?oc=5" target="_blank"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:18:00 GMT+5 | 키워드+5 | 순위:92위+2
+   🔗 https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkT2lER0luZFJsSkdCYlFTdXMwREpnbG9pc0E2OUcwcUtIQkhQTUpBWHJwRFJYVng5R3E4MTdXRXB0YVAwaDV3OTdrZUxHOWxWT2N3UXk0UG43OHBYRmhF?oc=5
+14. ⭐ **[22점]** 추미애, 민선 9기 조직개편안 수정 지시…농수산·축산동물복지 기능 강화 - 중앙뉴스타임스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:20:11 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeTFlVXFwOGU5Yy16UmZEX1I4U0IyV2V1UFFRQ01Qa3VkcWN3TTc2VkN3LW9BNnhZSzZCWXhqMG9YNWtfbDkwTm1takdCd3psYWY2ZGxrTHJ0VFJsbHBHLU9mb18?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:20:11 GMT+5 | 키워드+5 | 순위:93위+2
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UeTFlVXFwOGU5Yy16UmZEX1I4U0IyV2V1UFFRQ01Qa3VkcWN3TTc2VkN3LW9BNnhZSzZCWXhqMG9YNWtfbDkwTm1takdCd3psYWY2ZGxrTHJ0VFJsbHBHLU9mb18?oc=5
+15. ⭐ **[22점]** 여주 산란계 26만 마리 농장서 고병원성 AI…올겨울 3번째 - OBC 뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:16:37 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFVRWExwRTdxeGZZWjhJbFpHU1g5TE5tNVZ0RHhnZTdwQndHRWdWcmFlaThKaFprSTJZaTNNUklRVDB4b0RBNnE1djBSRWhRVXFmbDhZejZERGd3VUR0eXd5ZlpJaHNPenc?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:16:37 GMT+5 | 키워드+5 | 순위:94위+2
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFVRWExwRTdxeGZZWjhJbFpHU1g5TE5tNVZ0RHhnZTdwQndHRWdWcmFlaThKaFprSTJZaTNNUklRVDB4b0RBNnE1djBSRWhRVXFmbDhZejZERGd3VUR0eXd5ZlpJaHNPenc?oc=5
+16. ⭐ **[22점]** 질병관리청 '나이지리아 에볼라' 유입 낮지만 선제적 검역 대응 - 교통뉴스
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:30:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE11cWZXSjJuQzI5X3BzNmJ5eHZWTkNiTEF0RWhtdGhGMGJNNlZ6LU9lRndGbFhKbEk1bU9RMjY0RnlwNzlKWXZrSHU0M2I5VmtFdEZvdGk5bmhhU1I5M3RXLURBS2pKcC1qc25GeA?oc=
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:30:00 GMT+5 | 키워드+5 | 순위:95위+2
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTE11cWZXSjJuQzI5X3BzNmJ5eHZWTkNiTEF0RWhtdGhGMGJNNlZ6LU9lRndGbFhKbEk1bU9RMjY0RnlwNzlKWXZrSHU0M2I5VmtFdEZvdGk5bmhhU1I5M3RXLURBS2pKcC1qc25GeA?oc=5
+17. ⭐ **[22점]** [자원순환 심층기획 | 죽은 가축은 어디로 가는가 ⑦] 1년의 분해를 하루로 줄일 수 있을까…살처분 사체 처리기술의 경쟁 - https://www.climatepol.com/
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:36:56 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRFlZWkozcG1mYzNXb2RoYWlUS2FaRkY3NU83THVEZk5QUnBveG9Ga21FQ1djdE95cncxV0xTRWJjNzRhZExvSGdDbmF5V3FfMHotdmF1aXFVLVZjdmdWYXZzQk9UVUU2Ty1QOA?oc=
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:36:56 GMT+5 | 키워드+5 | 순위:96위+2
+   🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRFlZWkozcG1mYzNXb2RoYWlUS2FaRkY3NU83THVEZk5QUnBveG9Ga21FQ1djdE95cncxV0xTRWJjNzRhZExvSGdDbmF5V3FfMHotdmF1aXFVLVZjdmdWYXZzQk9UVUU2Ty1QOA?oc=5
+
+---
+## 🌐 글로벌 (영어)
+
+### 💊 Drugs & Therapies (16건)
+1. ⭐⭐⭐ **[47점]** FDA Drug Approval Process: CDER Regulatory Guide - CASRAI
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:28:55 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5" target="_blan
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:28:55 GMT+5 | 키워드+30 | 순위:50위+2
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5
+2. ⭐⭐⭐ **[47점]** Pharma CEOs Meet in New York: What’s at Stake for Cancer Drugs? - Oncodaily
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:42:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZXZIZEh1MkNuZXY1M1pPWVNnUG1FdGhHeHFhNTlvTnJ4M1RvYlpjZkEyc3J4T1pWYy1HX3lmRm5OczVrVGVFZnhiYlZYMk4yakJzc3FqdmU?oc=5" target="_blank">Pharma C
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:42:05 GMT+5 | 키워드+30 | 순위:52위+2
+   🔗 https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZXZIZEh1MkNuZXY1M1pPWVNnUG1FdGhHeHFhNTlvTnJ4M1RvYlpjZkEyc3J4T1pWYy1HX3lmRm5OczVrVGVFZnhiYlZYMk4yakJzc3FqdmU?oc=5
+3. ⭐⭐⭐ **[47점]** Routine Invasive Procedures for Stable Heart Disease Offer No Long-Term Survival Advantage Over Drug Therapy - PR Newswire
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:07:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVl5Sm93REY3MmlObVAxbl95cDR6bXRVUzZGcGFPalNJX2RyR1k2S2hscnBjZEhLb0pVM2M0d3JmeTBHZldGby1RdnBzbjdBalktNzJ3ZnJQaEMxWDVRSDJFeGdnNHk0OXFOWkpHaX
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:07:00 GMT+5 | 키워드+30 | 순위:53위+2
+   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVl5Sm93REY3MmlObVAxbl95cDR6bXRVUzZGcGFPalNJX2RyR1k2S2hscnBjZEhLb0pVM2M0d3JmeTBHZldGby1RdnBzbjdBalktNzJ3ZnJQaEMxWDVRSDJFeGdnNHk0OXFOWkpHaXVfMURBY3ZpMlFXTW03NXdma09ITy1hNFFzQVFjeGRnLVR4WGlwbElSSFgtYVdTV2dpelRqbTB5MzZ2WFJnaXliQ0Z6OEkzR1J2bko3R2V0MHdtMkNfbEZ3bnhndmU4U0VnVnR6c2J1akQ3TFpjZXNpVWtQSzl4M3pkaVpCQmtZeVV5Q3A0NzNj?oc=5
+4. ⭐⭐ **[37점]** A promising new medicine against heart disease fails unexpectedly - NPR
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:50:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2lTODhGQkZYM0Ntd2pTdzBNc3N5dXBEM1c4T092RndUVzZoVjA0SjJEN1pneHBWWE5VN09JTndKVDBsdGJzLWhOMXV5cE1kOEJFNmplWHhQMUlLTFZZWks2a1JGMGtBR1VCb1RNaF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:50:00 GMT+5 | 키워드+20 | 순위:49위+2
+   🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2lTODhGQkZYM0Ntd2pTdzBNc3N5dXBEM1c4T092RndUVzZoVjA0SjJEN1pneHBWWE5VN09JTndKVDBsdGJzLWhOMXV5cE1kOEJFNmplWHhQMUlLTFZZWks2a1JGMGtBR1VCb1RNaFBxWGxXWWVKTm5tN1R0aVVNZ0F5ZE00dw?oc=5
+5. ⭐⭐ **[37점]** ICYMI: FDA Approves INOVIO’s First DNA Medicine for Rare Disease - MyChesCo
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:08:44 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlAtOHhxRnlrdUhtSUNBZXY5T3hETDNRR3JoODZvZnhkRlhZNUpwejB1TVpKeVNxNFZiaGU3ZHZlM3dTUDFHWjhxeEpuMld2REpqdGhSWVNvSW5fTXBRdWVkSlk3T0ZwRFRlbUhBS3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:08:44 GMT+5 | 키워드+20 | 순위:55위+2
+   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlAtOHhxRnlrdUhtSUNBZXY5T3hETDNRR3JoODZvZnhkRlhZNUpwejB1TVpKeVNxNFZiaGU3ZHZlM3dTUDFHWjhxeEpuMld2REpqdGhSWVNvSW5fTXBRdWVkSlk3T0ZwRFRlbUhBS3VLQ1lwd2NtRjZzTWZoaDZzOE05RVJmOWdzSUN2OWdLNXJQbXFZbHJRUWN0dE8tNUJjQkx4aGtNWQ?oc=5
+6. ⭐⭐ **[37점]** How rapid AST can guide earlier treatment of resistant Gram-negative infections and support timely clinical action - SelectScience
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:10:26 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0VKWDVmdWhhUTU2REdvYUJMb050Wm56cEdFamU4SUlTWjNTSW5KSnBHNmlEZDloak9rS2ljRW9mSjlOZTdvdy1fTzRhMTFyOVZyUS1NMk8wTUpHMUstNTRZc0tSdDdxN01zUjltZG
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:10:26 GMT+5 | 키워드+20 | 순위:59위+2
+   🔗 https://news.google.com/rss/articles/CBMixwFBVV95cUxPU0VKWDVmdWhhUTU2REdvYUJMb050Wm56cEdFamU4SUlTWjNTSW5KSnBHNmlEZDloak9rS2ljRW9mSjlOZTdvdy1fTzRhMTFyOVZyUS1NMk8wTUpHMUstNTRZc0tSdDdxN01zUjltZGl3SzNmUTVhQjZmZzV5dDM5aFp4RjlkaEFSYm1PVl92cXp1d2VWRlY3VmNJQWRiMFJhN1prcHBVSjAwcVp5Y0EwQnZiNnJwSERDc3ppNmQtWVczdV9Oenlj?oc=5
+7. ⭐⭐ **[27점]** AI, automation and novel assays accelerate the hunt for new medicines - Bioengineer.org
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:19:49 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1Qzall5RlRsUkEyUU5CSk84WkcwRGlGODhPTS15NHl0NXpOaE9EYnhqVGtGOVliSTdyblNnb0dCMFdKVF9ocnBGbm5mTlVmaThFTnJ4WllSNXlSUjZULVZjcGV3d0JGOHRIbTVqOU
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:19:49 GMT+5 | 키워드+10 | 순위:54위+2
+   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1Qzall5RlRsUkEyUU5CSk84WkcwRGlGODhPTS15NHl0NXpOaE9EYnhqVGtGOVliSTdyblNnb0dCMFdKVF9ocnBGbm5mTlVmaThFTnJ4WllSNXlSUjZULVZjcGV3d0JGOHRIbTVqOUQ4NjRNQjNZbm1NbTFNN2xQYXpqeV9KSThXM0pibmVyRG9MOGJYOXFoaQ?oc=5
+8. ⭐⭐ **[27점]** Recurrent Gastric Cancer Case Reveals Dual Autoimmune Complications During Nivolumab Therapy - Bioengineer.org
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:22:35 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFRLZUhyS21TQTNUNFl6NXVvTnI5MnI1ZldjZHpoYWtjcXotM3RaOXNUblBTckVaRGk0Qnd6V1BXU0JWbEQtVTNqaHBmS2dFWllSM0FRRTRjd1U4dGtDWEo4bXlGQml2UUxZSzBSdk
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:22:35 GMT+5 | 키워드+10 | 순위:57위+2
+   🔗 https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFRLZUhyS21TQTNUNFl6NXVvTnI5MnI1ZldjZHpoYWtjcXotM3RaOXNUblBTckVaRGk0Qnd6V1BXU0JWbEQtVTNqaHBmS2dFWllSM0FRRTRjd1U4dGtDWEo4bXlGQml2UUxZSzBSdk9uemZ6M1luLUw4ZHBCcVBFY2FNVmFyTDJncm5TNXNwOWFSYnJnelEzNWdoMUtQckIzRF9kV3padHJMNnBGbzl5YUUwd0p1Q1U5?oc=5
+9. ⭐⭐ **[27점]** Moroccan Researcher Adnane Remmal Wins UNESCO International Science Award - Morocco World News
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:31:50 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEN0WVJFUzNtd1g0ZWpHT3UxanJSY2tDRjVKY09yOEFRSTFna3ZKZ1RmOWU4QlNhQ2ZUY2ZDTVBqOUlhNF9SRk9EUFBnT3JlU19aWUJkcl9NSFBEOTZuTVNOMTBlRE9FZWt3ZEFRMm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:31:50 GMT+5 | 키워드+10 | 순위:61위+2
+   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEN0WVJFUzNtd1g0ZWpHT3UxanJSY2tDRjVKY09yOEFRSTFna3ZKZ1RmOWU4QlNhQ2ZUY2ZDTVBqOUlhNF9SRk9EUFBnT3JlU19aWUJkcl9NSFBEOTZuTVNOMTBlRE9FZWt3ZEFRMmVWaC1sWGJNRTN5WThxb3NfclpJNXlqcTVwM2tYZHh4VDdFYjlMNEZ3R3hNUExCQWlxYTFOZHZCemNTTmM4dDE4V3U3SmJXS1JNSWFQWjdOMA?oc=5
+10. ⭐⭐ **[27점]** Moroccan scientist Adnane Remmal wins 2026 UNESCO-Equatorial Guinea International Prize for Research in Life Sciences - HESPRESS English - Morocco News
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:33:57 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZV90SnBoeTNSOUh0QUhacGpINnhJYUVtb08xTG5hOEhCX2NvUktMSklVSnZwSUd5QzdtNVR2SHJ0WHZ1ZkhOdF9rRGpMNDNpWlc5ZWtUdXBwZWM2UkMwZmhsWFJSRW9LdnBURzFxMz
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:33:57 GMT+5 | 키워드+10 | 순위:62위+2
+   🔗 https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZV90SnBoeTNSOUh0QUhacGpINnhJYUVtb08xTG5hOEhCX2NvUktMSklVSnZwSUd5QzdtNVR2SHJ0WHZ1ZkhOdF9rRGpMNDNpWlc5ZWtUdXBwZWM2UkMwZmhsWFJSRW9LdnBURzFxMzg5YnJ6cmFIV1BWNjdiNVE2aHlIR0otaV9xTXpnb0ZWQ1dRV2Q5c0Y1YWp5Yi1aMWFYV3JaNUd0N1puZWk4NTdOcElZSWt5Znp2VGN6cldWbzBYZEUzV0duWktkV2kyOVRab1dhMWxGTm1ELXNBZ09CSmdsY1F4aGx2?oc=5
+11. ⭐⭐ **[27점]** Hospitals in Iran Face Tangled Web of Barriers to Rational Antibiotic Prescribing, Qualitative Study Finds - Bioengineer.org
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:39:14 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjRZWFpTZVVQOVlSTFYwMnZUNDIyalVtcHE0SFdqRllyMURvZGZjOTF0dWdYQjN0WDU1SUFMLVF6OFUwYnNQcG1uTlc1MHBPbGlVWjU5cmhyZXZoeW9mTlpGWGJZV2k5OTRDVTJkX0
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:39:14 GMT+5 | 키워드+10 | 순위:63위+2
+   🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjRZWFpTZVVQOVlSTFYwMnZUNDIyalVtcHE0SFdqRllyMURvZGZjOTF0dWdYQjN0WDU1SUFMLVF6OFUwYnNQcG1uTlc1MHBPbGlVWjU5cmhyZXZoeW9mTlpGWGJZV2k5OTRDVTJkX0tzNTZ6S3JLYzdKY2N2RHhFZ21pZ2RlMm9pU3dLa3pLaDE1QjV5b3djN0hLZW0xSUZBWkljOEljcUNkQWU3X2oyMFJ0dzVaUjNNWm5rZU9IU1d1Zmc3dERxTGRB?oc=5
+12. ⭐ **[22점]** Opinion | Retatrutide Is One Click Away. That Doesn't Make it Safe. - MedPage Today
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:01:20 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYnRIa3FvNzFURjk0c0I0eFg4U3Nlak04NFVacl8xM3U1clFpZzVKRkNoR1RRNXBSNG5mS1E1aFdHSXN0Qk9pS25wZTZsZFlEMXBjYUlGR3p3eTk2TTJ4bGhzeWUxM1pYTFB3?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:01:20 GMT+5 | 키워드+5 | 순위:51위+2
+   🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTFAyYnRIa3FvNzFURjk0c0I0eFg4U3Nlak04NFVacl8xM3U1clFpZzVKRkNoR1RRNXBSNG5mS1E1aFdHSXN0Qk9pS25wZTZsZFlEMXBjYUlGR3p3eTk2TTJ4bGhzeWUxM1pYTFB3?oc=5
+13. ⭐ **[22점]** 'Liquid biopsy can ease financial burden for cancer patients': Scientists on how a $1,000 test could save - The Economic Times
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:39:53 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivwJBVV95cUxOWU9sTWczVHhaYUhuekpucXpHRUVySTRQX1lnbjJjNFlzWVVRQWQ3Nlp1ZGkwdEN3SW8tSGFZNTd0LXRQSExDaktZLWZ6aXJXSXdSdE56dkxLZzRoejF4cXotXzdtZ29QejdNVVkxdU
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:39:53 GMT+5 | 키워드+5 | 순위:56위+2
+   🔗 https://news.google.com/rss/articles/CBMivwJBVV95cUxOWU9sTWczVHhaYUhuekpucXpHRUVySTRQX1lnbjJjNFlzWVVRQWQ3Nlp1ZGkwdEN3SW8tSGFZNTd0LXRQSExDaktZLWZ6aXJXSXdSdE56dkxLZzRoejF4cXotXzdtZ29QejdNVVkxdURYRExReTFfUXJuY3ptM2xJNmV2eGZ6dWRRXzgzOVVqeW9XMXF5NVJpMmRhRE5aN0xHcWlLU0xBX3d1X29kMlRTdFQ3S1VJQ081enVZTmFRalQwQWVKTGF3cjVlTl83dDdpNzdmZzFtRUJnSFNobzJxWjB4SjNBRVJ5cHExdTFNWEgycTRsTXJjai0tSTl3Q1d4V29odE02U0RKTHdqSEs3TEdyWG5xRUMwQldxZ1ZmbDdZVXJ0S0hxdTM3cmJLU2swTmZ3T2NET2FzSkxYaFNn0gHEAkFVX3lxTE9jUGVrOHdDUVhqMmpHTm04NGJfTXN1aDZCQ1ZvQThFM0UyZDJCSlE4X3BkdGhDOTMxeS1UeTZhM1ZHZGZNS2FWa1pPQUttdTU4WGIxdzFGcVJLdjY2cC1rLXRJaUx5Mm5KMFVMeFc2akhnM2tiNTJZbGk5cWhndHRhVlRNWko5MTktY1VNRWZZRlVuZ1VYRS1hMlNmUG50MmFJdnYwSFpTYlh6eFJ0Znp1T1kyZzdQN2dyaEkzWFBxMy00bWdjUnF5R3pfZHVvOVZYdi1KNnN4ODRmM3UwdWx3UEstZHhoNnp1VVhFbDBxUnM5bzVKLXI5dmdzQmpzRXk3UFRNNWpvM1Vpa3JIdU95RnVTNGpTTHlyeXJ1STZ5VjlkRks3Slk4VjZwZ3p4ODFobXJrRHQ5LVJoWU1JTmpQcGZyLQ?oc=5
+14. ⭐ **[22점]** AstraZeneca And 2 More British Biotech Stocks To Watch - Simply Wall St
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:39:50 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXBqRnY5aExEY0VlOEtRMlFSMXVURkhSRGZzWEZTNGtrWlRnMmw5czVWT2NTa3lzUkIxNzl4bzN5RlVxZXVjaUJNQ2JUWmpmUVY0RnVKTFlNR2NqOGNIejJqZ0VablJoUFBKMzNwT3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:39:50 GMT+5 | 키워드+5 | 순위:58위+2
+   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVXBqRnY5aExEY0VlOEtRMlFSMXVURkhSRGZzWEZTNGtrWlRnMmw5czVWT2NTa3lzUkIxNzl4bzN5RlVxZXVjaUJNQ2JUWmpmUVY0RnVKTFlNR2NqOGNIejJqZ0VablJoUFBKMzNwT3Vxdm43RElQcVplWmU3Tzdva1BFaVN6SGxscGpyUHdja0szU0F3ck81c0hoTzBMY3AzcW1UV2hHejVMcW1xV3pqNGZHX3QyWkpOMDNmRlFOMkNQN0RhVk5STXl1YjJoRkNid0JITzhTdk9RM0JSTDh30gHfAUFVX3lxTE5VcGpGdjloTERjRWU4S1EyUVIxdVRGSFJEZnNYRlM0a2taVGcybDlzNVZPY1NreXNSQjE3OXhvM3lGVXFldWNpQk1DYlRaamZRVjRGdUpMWU1HY2o4Y0h6MmpnRVpuUmhQUEozM3BPdXF2bjdESVBxWmVaZTdPN29rUEVpU3pIbGxwanJQd2NrSzNTQXdyTzVzSGhPMExjcDNxbVRXaEd6NUxxbXFXemo0ZkdfdDJaSk4wM2ZGUU4yQ1A3RGFWTlJNeXViMmhGQ2J3QkhPOFN2T1EzQlJMOHc?oc=5
+15. ⭐ **[22점]** CARB-X: Antibacterial Accelerator Program Guide - CASRAI
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:28:41 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qWWV1cTc5aUxsSjV1ZnBFZWZPZG51Slk3cUhWZ0lQVTJYd2I4SnpRWUZIZUV4NGV2MkYyTnR2OFdzTEpnWUdN?oc=5" target="_blank">CARB-X: Antibacterial Accelerat
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:28:41 GMT+5 | 키워드+5 | 순위:60위+2
+   🔗 https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qWWV1cTc5aUxsSjV1ZnBFZWZPZG51Slk3cUhWZ0lQVTJYd2I4SnpRWUZIZUV4NGV2MkYyTnR2OFdzTEpnWUdN?oc=5
+16. ⭐ **[22점]** Mycoplasma genitalium positief: behandeling en hertest - Kantesti - AI Blood Test Analyzer
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:33:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3BINmlEbVFnR1ZKbXNYb1pmSnFVMUE5SE10RWdlNUIzbjlWQUFPbUMxb242SEoxVVVJZFNXbThMWmdyeExBU0R0Zk9SdTJWZUJwcU5IOElNM3JOSkttTkdGTGVKTXNyc2V6bWVUUF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:33:05 GMT+5 | 키워드+5 | 순위:64위+2
+   🔗 https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3BINmlEbVFnR1ZKbXNYb1pmSnFVMUE5SE10RWdlNUIzbjlWQUFPbUMxb242SEoxVVVJZFNXbThMWmdyeExBU0R0Zk9SdTJWZUJwcU5IOElNM3JOSkttTkdGTGVKTXNyc2V6bWVUUFg0SUVpdG1uNFcwTWlISmdnSi0zdkVNdDZj?oc=5
+
+### 🏭 Pharma Industry (18건)
+1. ⭐⭐⭐ **[47점]** Pharma industry steps up API investments to cut import dependence, move up value chain - The Economic Times
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:09:57 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:09:57 GMT+5 | 키워드+30 | 순위:59위+2
+   🔗 https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5
+2. ⭐⭐⭐ **[47점]** India CDMO Sector: Contract Development and Manufacturing in Pharma - Kalkine India
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:45:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVk
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:45:00 GMT+5 | 키워드+30 | 순위:69위+2
+   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5
+3. ⭐⭐⭐ **[47점]** Fume Hoods Market To 2035: Pharmaceutical R&D and Safety Rules Fuel Expansion - News and Statistics - IndexBox
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:06:03 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0VjUUVmVEY5bnloMlpxSS00N1VhcFRaNU5Mcl9zcWF2NS0zQkh2Y0d1WjB3a3FUM0JsUFplR3JFN191S014MzJBUUlOUmp1OU45cUY1aHBhQk5jRFQ5RGM5OGp6Y0FGcVpjSWZwek
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:06:03 GMT+5 | 키워드+30 | 순위:70위+2
+   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0VjUUVmVEY5bnloMlpxSS00N1VhcFRaNU5Mcl9zcWF2NS0zQkh2Y0d1WjB3a3FUM0JsUFplR3JFN191S014MzJBUUlOUmp1OU45cUY1aHBhQk5jRFQ5RGM5OGp6Y0FGcVpjSWZwekdTZUZFSlVLNTJ1TVpscm1sdGlnSEIwSmIyZVBXcDZfbmRsOTR5ejRueHhmQ0hGVE04N1llSllmdzJMLXBlTUVsZ1pNV0VlOTFFSWFaU3VOOEswdVFGVnc?oc=5
+4. ⭐⭐ **[42점]** More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int - The Economic Times
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:14:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivAJBVV95cUxPVjhwcGJIZ0tNaGpJQTNVN2I1V0FWVXNqSFZSQmsweGU4OUNEUlBxdDFwTUc2dUo0RkVfbnZxQUUwd0YzaU8zdmFHX1RKUFl5SUhKMFF6M1pnbXlqWHhDb1A2RVBQdE5vYTItLW1oUj
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:14:05 GMT+5 | 키워드+25 | 순위:55위+2
+   🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxPVjhwcGJIZ0tNaGpJQTNVN2I1V0FWVXNqSFZSQmsweGU4OUNEUlBxdDFwTUc2dUo0RkVfbnZxQUUwd0YzaU8zdmFHX1RKUFl5SUhKMFF6M1pnbXlqWHhDb1A2RVBQdE5vYTItLW1oUjVkS3hWRHdQRGhQVExRVmdzQzAybng5MjFqTG9VaGViNVFTQ21fZmNoX3NLV1N0TkRhWkFvcWpBOUZVZVA5U3o0UEdDME1UcDYzNlA0WGlDZmFVczk1RGdrT0ZiOC1raHZmYzNBWk9OdGprMXdiT2ZwdklwblZwUXJCeGpJTFg4bWQwNk8xWHZSQ1JsNXZVWUdMMzRSX1FkMDYxUWM5VVNLcUhEamw5RksyWDFiSEl1bXdZM1RObEQ0SGtkekRLXzY4NVZoSVJPRUNQbEhL0gHCAkFVX3lxTE5nVzZWeEJtT0NGV3hyT3dwR0VGMEVMXzdPUzRvMW5CR05zN2VFamtzS1BpUDB5REJLY3Y1RWE3XzhtQ2xZekpnSE90STFzdl9PQXlJSk9JdXRKTDN3aFRKdkNRTXBPV1ZOUXhOZC13RW5sQWtSQ2RmMjNJTEJBWTJQTTZseFpqbWRCS25uLTNydFlMdEIyUG5hOWZZblZaMjNKbTd4ZHJhWmxrRlNYSURxU1VONk9mZVg4SWhwd3I0dHNOaGtkNE0yb3dUQjlidG85QV9sZGxRRG1jWlhCdEc5cTFwbDNteUxUaERRZE9HeXFRMlg2amNJRFQxeV82ekwzN3M5aW1jUDR6Wndid2xQaHNkTjA0TGxkbHN2YXFwMzFmSlFOT0FObDZOMUViVGZRT1ZXWmZvWDRwZktqT1JZaHc?oc=5
+5. ⭐⭐ **[42점]** Large Pharma And Emerging Biotech Pursue Starkly Different Commercialization Paths, Curatio Advisors Partner Says - London Insider
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:54:48 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVJ6UUNhRlZIWFVIbnYzN0JlRlNKVE5QbXJiLTV2QUZ3SnN4SjFiQUxld2xUTDdXWXZMakR5cmZaSWEtaXNnbHBSZmd1Ty04ZV8tcVpsakZ3ek51LVBWcDBoeGEta0JkeTFISmdkaj
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:54:48 GMT+5 | 키워드+25 | 순위:60위+2
+   🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVJ6UUNhRlZIWFVIbnYzN0JlRlNKVE5QbXJiLTV2QUZ3SnN4SjFiQUxld2xUTDdXWXZMakR5cmZaSWEtaXNnbHBSZmd1Ty04ZV8tcVpsakZ3ek51LVBWcDBoeGEta0JkeTFISmdkajZsaDc3ZG9IT1pzRnI1RTUtaFdvak8xQWlZM1hWdTNvQy1WUTFiT0NqbEZvNzhVT0hMcG5CWGNkUkJtRUw4WGRoNVhjcXp5YXZKMzBFMmQxRGFuT3FKcGhlbF9lOFJXMGE5bk9lQWo3VWI?oc=5
+6. ⭐⭐ **[42점]** Nine pharma firms boost profits, but ACI and Silva losses deepen - The Business Standard
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:32:44 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlA1ZV9MaWpONDlRdHU3T2FGYjh6bUROb0VLUlQ2UDFXcUw2ZkNfTWs4cEI1eG5xVjNYWjhTb3NsQXdOVmQxLUdYZUpJOGdUWVo2T0VjbHRTWC1pWVpBM09xSXRIbWZNaFUyN0FpTm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:32:44 GMT+5 | 키워드+25 | 순위:61위+2
+   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlA1ZV9MaWpONDlRdHU3T2FGYjh6bUROb0VLUlQ2UDFXcUw2ZkNfTWs4cEI1eG5xVjNYWjhTb3NsQXdOVmQxLUdYZUpJOGdUWVo2T0VjbHRTWC1pWVpBM09xSXRIbWZNaFUyN0FpTmVOZ3cwcTdoTDRpeEhScUpXNldBMnZoRU5LRFVtd19wWEk2ck9lY3h0N1lVeXliT0h3bHVYc05oWER3dw?oc=5
+7. ⭐⭐ **[42점]** Helus Pharma Co-Founders Leave Executive Roles as Mark Lawson Becomes Independent Chair - The Globe and Mail
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:17:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMihAJBVV95cUxONDEtbE5PV3FlSXdhMU9KRmM0SlZzQXY0cUNQTUMtZjBUdTJDOTJIS1FUM21JVHcwc2NsY1lVWWwtc3RiVE9DTlVvNEZSNjNrX0wzNlZJRENaZ2o1VkNNT2NzU0xOeE1Vc2NYdVptRF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:17:00 GMT+5 | 키워드+25 | 순위:63위+2
+   🔗 https://news.google.com/rss/articles/CBMihAJBVV95cUxONDEtbE5PV3FlSXdhMU9KRmM0SlZzQXY0cUNQTUMtZjBUdTJDOTJIS1FUM21JVHcwc2NsY1lVWWwtc3RiVE9DTlVvNEZSNjNrX0wzNlZJRENaZ2o1VkNNT2NzU0xOeE1Vc2NYdVptRF9xcTJTTjV6WVNRemY1QXZqWTFIRUhyNks4Vm0wNE9XY3ZxQ2NRM01fX1hJU01mVlpfYWF4Mm9seFVjMzVsX09zcmRNTFlWMFdLQkhScm1acUc1NnVzZXRZRk1MOUpDd05aOWJnd25jWVBtQ1BrNlRLaFBUWTM3UjE3aDdHa2tZVmNDdGNmSWc0aWhQdWM2VGwzSms1YQ?oc=5
+8. ⭐⭐ **[42점]** India pharma exports powering on, despite global trade crisis - Fortune India
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:05:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0NTUjBndEk2OGZZOWgwdFZOOUJQdGstNXdid25walRrTDh3YzU5TnJvVHhsUV8tZ250NUplRWxJV0RLbVV2cTZVOEpoWHZfU0p2M3JCb3dZTjhGaHdqRGFNY05aM0lYbE5BTW9RLU
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:05:00 GMT+5 | 키워드+25 | 순위:64위+2
+   🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0NTUjBndEk2OGZZOWgwdFZOOUJQdGstNXdid25walRrTDh3YzU5TnJvVHhsUV8tZ250NUplRWxJV0RLbVV2cTZVOEpoWHZfU0p2M3JCb3dZTjhGaHdqRGFNY05aM0lYbE5BTW9RLUdYZEdrbDlZMjJYbklUaVQ1NEhhS2xqYWdfekxfR0l1LTdsY1ZlVFNETl9oeDFVNklqbWFMNmRuLU50Z25MQVdTY0U2cGF5Q2NNS0NmatIBvAFBVV95cUxPa0NTUjBndEk2OGZZOWgwdFZOOUJQdGstNXdid25walRrTDh3YzU5TnJvVHhsUV8tZ250NUplRWxJV0RLbVV2cTZVOEpoWHZfU0p2M3JCb3dZTjhGaHdqRGFNY05aM0lYbE5BTW9RLUdYZEdrbDlZMjJYbklUaVQ1NEhhS2xqYWdfekxfR0l1LTdsY1ZlVFNETl9oeDFVNklqbWFMNmRuLU50Z25MQVdTY0U2cGF5Q2NNS0Nmag?oc=5
+9. ⭐⭐ **[42점]** Ivyctory CEO Delivers Special Talk at InnoPharm 2026, Meets Drug Discovery Online Leadership - PRLog
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:04:08 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3lqTVdaY240ZXB3MWZsYzVIak1iZ3BBMVF4Z3l3TDdfbFhsZWxTSUV3SnNUd044WjhzZExlQlZ3Nk11aWtvZEc3N1FBX19PS3ZDc2RUWVJEMkJoNjVWTERleERjU3FpRXQybzRMbl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:04:08 GMT+5 | 키워드+25 | 순위:66위+2
+   🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3lqTVdaY240ZXB3MWZsYzVIak1iZ3BBMVF4Z3l3TDdfbFhsZWxTSUV3SnNUd044WjhzZExlQlZ3Nk11aWtvZEc3N1FBX19PS3ZDc2RUWVJEMkJoNjVWTERleERjU3FpRXQybzRMblFqeHNrcjNZZjB4a0pCU3Nrc0FlQUZCZXZBMG1wZlNSd2UwdGhlMWJFYlZWWk5WQ0Q3U1EwN28wZnVaR1c5M1gzNk1jd2tQNXQ0blRyRjZzc1AyVWppT2c?oc=5
+10. ⭐⭐ **[42점]** India's chemical industry set for strong growth, global market expansion amid investment push - Big News Network.com
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 08:03:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1h0QXpnUXZEMHJOSlVIQnZSQjhicENRTFJxdDUzWkRkMEhDRlRLR2V4U0J0T294aUhCTnVlazhYNUM2OHdJd3FHTVRfbFlmUFU1d3ZHYU9FeVVwR2RYSHdzZmVORm5vSDBQSVBoWl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 08:03:00 GMT+5 | 키워드+25 | 순위:67위+2
+   🔗 https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU1h0QXpnUXZEMHJOSlVIQnZSQjhicENRTFJxdDUzWkRkMEhDRlRLR2V4U0J0T294aUhCTnVlazhYNUM2OHdJd3FHTVRfbFlmUFU1d3ZHYU9FeVVwR2RYSHdzZmVORm5vSDBQSVBoWlRLdkJESmNXdXFsbFZibWFSOEp6b2dLVmFTYUoyZXJGeFZPWDh3eTB5STNORHVLSmZuRmhMZGo4WVVwcklyUFpXamExRTA2RndtYnp5VkRiWXhvaFZhUERLSGZoZGdqV0toeVE?oc=5
+11. ⭐⭐ **[42점]** Alembic Pharma Q2FY27 profit rises 81%, raises FY27 revenue guidance - scanx.trade
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:30:41 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFZPa3ZGY1E0NVVVT3h1MkVnYUZ3RzVqZWJEdkRNN3VFT2U2UGRwSjBIc3F4d0NQdUl2dDNPYjJGVjNHUjl0b3JLRnFWZ2NUMTF1azlDSGVDbnI1X2ozY1pqQ0xMTER0TjlUdXNEVz
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:30:41 GMT+5 | 키워드+25 | 순위:72위+2
+   🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFZPa3ZGY1E0NVVVT3h1MkVnYUZ3RzVqZWJEdkRNN3VFT2U2UGRwSjBIc3F4d0NQdUl2dDNPYjJGVjNHUjl0b3JLRnFWZ2NUMTF1azlDSGVDbnI1X2ozY1pqQ0xMTER0TjlUdXNEVzYzN0V6cmI5dGY5VmNFSndPaU1pVTZlMVdLdXIwMXlTMUlrQlJrbFZPSjRVRUdXZlh2WGxXM0liR0JDU3QxS1VwSnRueWE?oc=5
+12. ⭐⭐ **[27점]** Hunan Pinliu Biotechnology: Steam Eye Mask Manufacturer & One-Stop Self-Heating Wellness Products OEM/ODM Factory - The Des Moines Register
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:34:48 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlR5eXlZcVozYzRrMEdoQ3hpUHVYYlNmYU9oZ2hnQWZvVkQwdVhZcjlYdmlOX1FmNXliS3h0WDcyZDczS3NCU3gxVWFELU0xSGNhTWFPelhjMEJ1dGljbEFMQnRfMHJjbzNPRURJRz
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:34:48 GMT+5 | 키워드+10 | 순위:57위+2
+   🔗 https://news.google.com/rss/articles/CBMiggJBVV95cUxQNlR5eXlZcVozYzRrMEdoQ3hpUHVYYlNmYU9oZ2hnQWZvVkQwdVhZcjlYdmlOX1FmNXliS3h0WDcyZDczS3NCU3gxVWFELU0xSGNhTWFPelhjMEJ1dGljbEFMQnRfMHJjbzNPRURJRzRJNHF6ZjF1QmVrM2YzM0dMeVZoY2dXaW5HenU5TkV3ejEzSGh5eTRuc2FDRnRwemQ4a3BLVHg5N1Z1b1FzRkVPMWhnOTNhQk5QZE5sTndpVzZxU2puWlh4S2xHNFBkQmNhOTZQQWNQbHRIVHZ3VVFPTGJ2RHotOV96SVNWWGVXQ3N5TGlDdlRwTnoyVzBudVJlc1E?oc=5
+13. ⭐⭐ **[27점]** AI investment cycle may have peaked, Jefferies warns; raises India allocation to 14% - The Economic Times
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:41:44 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaH
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:41:44 GMT+5 | 키워드+10 | 순위:65위+2
+   🔗 https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVWhFYTItVkxiaDRvQjNmYWg3ZWpheFRlYlB5NFV6ek9laW5fWEVlMkVkamNLY1FaYjRlbGs0dDUxaEI5cmI2cWVUQlg4alpyWlpZYnhySU1taVpyQzFtX1ZNQTZycXNjUkZGZERuaHVTMzZWb1BEbEVsX2dySGF6dTBvX3djNVladkRiam5UWFJ1VGlkY3lhMWxZdmwtSzdiQjRzeC1fMFlsZjNycXpvMlBkWktxaFk2SVJkaExuSmdYcEllQTFhUVpkMWh4eW84UGVlSS00ZlpWRGFPVkxLUk9yME12WDlhTmhhaE51TGRzWm1PaVlN0gH8AUFVX3lxTE56bkl4SjJzNUNJa1ltclpwZnBTTlJPSGJkanF4dm1sQjk0c3RjMmViN3NFZG5HMm8xX1hJUzZ0bmdWR2RtSjNjVGRzdFpLV19jLWhwZFVSUWRQUzRvbmt2YV93XzlFbzRvTmtaRWIwMnBXazlvdWpnOF9oemZGR2tyWnJ1bXlGRGN2RnRVd2hod1M0dE9iaWFBbUZXcHhYR2dSTGplMUNMY0RSeE5PWUdIdlNyWHBzZEJMS25lZXM0cmh4Q0RkQ1hGelNWXzZkbWM4ZFNtbnhRY1hOVngyRm92Nzk0WW82SU1IX2dsMU40ZG9kTk5vSFlFNlU4ZA?oc=5
+14. ⭐⭐ **[27점]** Touchlight announces leadership transition, with Will Downie appointed interim CEO - Manufacturing Chemist
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:08:31 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjBhSTBuYVFQd2dwNXlKS2lvQU14aFZrQXFGWS1mRGJLX1NrRTZncXhWNUlqTkZvbUU5M2NoR0NPRENweHZoclJxSzRSN0JkeEdLUDdUM09EUElLUE5YVVp5MF9hdFl5Q0o2S0lNcT
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:08:31 GMT+5 | 키워드+10 | 순위:68위+2
+   🔗 https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjBhSTBuYVFQd2dwNXlKS2lvQU14aFZrQXFGWS1mRGJLX1NrRTZncXhWNUlqTkZvbUU5M2NoR0NPRENweHZoclJxSzRSN0JkeEdLUDdUM09EUElLUE5YVVp5MF9hdFl5Q0o2S0lNcTVjMTFWbHNGTVNFN1c1aWtqVXlzSW15RE1IX1JBYW8wVHI5ZHlLcF9vV2xoVk9DQzE4TjkwcQ?oc=5
+15. ⭐ **[22점]** IYH and XBI: Two Distinct Paths to Investing in Healthcare - The Globe and Mail
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:35:45 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2liRThDZzZxbUJKX25XT3ZKN0Q4Rk9WQ0ZoZWxuT2lDd21UcDhycU1HZmhld1RCODBfYVE0X3cxOFhXV3N4MkhCelVDUC16cG9nYVlWVS1RMGNzTEEtX2Jndm5pcjNFYmpPb2tFXz
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:35:45 GMT+5 | 키워드+5 | 순위:56위+2
+   🔗 https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2liRThDZzZxbUJKX25XT3ZKN0Q4Rk9WQ0ZoZWxuT2lDd21UcDhycU1HZmhld1RCODBfYVE0X3cxOFhXV3N4MkhCelVDUC16cG9nYVlWVS1RMGNzTEEtX2Jndm5pcjNFYmpPb2tFXzAyaEcxSnFENWZLeW9PVzRpMXg2cG9DSmZyd0stbV9kdkpsWHNodlVoenZya3BfQkVSZlZ0aWRHaDZIRllyLUczUk8yZkM1R2ZhSGRFSm14YTJ2LXN6UWd5Z0dIeHd1U2hjUHl3Q1NzcmVGUQ?oc=5
+16. ⭐ **[22점]** Pfizer Elevates John Sourke as Vice President, AI Acceleration and Transformation - https://hrtoday.in/
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:12:02 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHViQkN1dlJOX0t1YW00ZXUxajVmaDhDdlctSDdwWDhvd3V5NVNGY1FZbG1fNUprYWhxZ3BfMTJfbG9RbEhldm5aTk9yTkFWR09kRVFyRlV6TFZfczc0aEhxMnlGcnFnMnJNcHhzRG
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:12:02 GMT+5 | 키워드+5 | 순위:58위+2
+   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHViQkN1dlJOX0t1YW00ZXUxajVmaDhDdlctSDdwWDhvd3V5NVNGY1FZbG1fNUprYWhxZ3BfMTJfbG9RbEhldm5aTk9yTkFWR09kRVFyRlV6TFZfczc0aEhxMnlGcnFnMnJNcHhzRGJNdUFiYUsyaGpCa0ltWEpKRGUyWFluRGxQQl9vNS1OSFBKSExvTFgtbFZ0LVd0Nkx5SEE?oc=5
+17. ⭐ **[22점]** Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors - The Motley Fool
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 20:15:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQNi1ZdjlNS3dueXVEeFJ6NDdtcC1Xdm05ck8xMnk1SHV1LUVzMkVqdWNtdE56YlR4UEpWcGpjQ3hySTh3WEUtR2J3WTd1WGFGeHV4WjdpcEw1WTkzVGRsc3JQc012MWlNSW1LU1RSdm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 20:15:00 GMT+5 | 키워드+5 | 순위:62위+2
+   🔗 https://news.google.com/rss/articles/CBMimAFBVV95cUxQNi1ZdjlNS3dueXVEeFJ6NDdtcC1Xdm05ck8xMnk1SHV1LUVzMkVqdWNtdE56YlR4UEpWcGpjQ3hySTh3WEUtR2J3WTd1WGFGeHV4WjdpcEw1WTkzVGRsc3JQc012MWlNSW1LU1RSdmNuaW9rbkRBbTlZWU9BeVFtc2o2bVBCVVdPY09Hbjllc2RLd3dyQkxOag?oc=5
+18. ⭐ **[22점]** Pfizer, Regeneron, Lancet, Tandem: This Week in Healthcare - Healthcare Digital
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:05:25 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXdfUWNIWXJFSUVJa19fNlZ2OXUxRGNncUdXRHFIbjd5ZnRwQ3BQYktFeFZJU1p2cDZZd2FycjlKYXFFaEdNQ0RIdDNtZ0tWaFhqbDJxUHp4ZmgxZEZweXlmTzA3Qlk4b0NEMmhPRz
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:05:25 GMT+5 | 키워드+5 | 순위:71위+2
+   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxOaXdfUWNIWXJFSUVJa19fNlZ2OXUxRGNncUdXRHFIbjd5ZnRwQ3BQYktFeFZJU1p2cDZZd2FycjlKYXFFaEdNQ0RIdDNtZ0tWaFhqbDJxUHp4ZmgxZEZweXlmTzA3Qlk4b0NEMmhPRzEzWFdCLUMtNVZuYXFHZU9XaFd0Tk14dWlaRTJqRmhpRWkwUUxs?oc=5
+
+### 📋 Pharma Policy (12건)
+1. ⭐⭐⭐ **[47점]** US Lost Over 3000 Pharmacies From 2022 to 2024, Mostly Chains - Drug Topics
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 15:35:41 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUMxc1pTMW1wZFhEUHBEN2NLeF9JUlZCQ3NPb3Q3aFhCRGRUMjI3X3Vfb0plS3V5WHhKNG5naEJrYm9zc3hLWTQzcTY2bGk2cXdnWEZaTWloS0g2R3hrQ0VIcUlGV3JveVJ0RVBYMG
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 15:35:41 GMT+5 | 키워드+30 | 순위:37위+2
+   🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUMxc1pTMW1wZFhEUHBEN2NLeF9JUlZCQ3NPb3Q3aFhCRGRUMjI3X3Vfb0plS3V5WHhKNG5naEJrYm9zc3hLWTQzcTY2bGk2cXdnWEZaTWloS0g2R3hrQ0VIcUlGV3JveVJ0RVBYMG8weDU4bzhKeEpwbjdmY1RBdWFERUxQejhZaEhJV3ItVlZfTnp6ZTJj?oc=5
+2. ⭐⭐⭐ **[47점]** Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you. - MarketWatch
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 19:20:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHhRTTNpTFFYanRUZ0pXeExNTm5icWhkOUNmM1oxMkJaWV92bmJkekFVeWpYdkZ2TVFWR0IwanZlZVJRdXZVWFVkaXBfRlp6Qk9kS3lyRm5va3dudXNjejg0ZHoxc0VldTl6ZjFMUT
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 19:20:00 GMT+5 | 키워드+30 | 순위:39위+2
+   🔗 https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHhRTTNpTFFYanRUZ0pXeExNTm5icWhkOUNmM1oxMkJaWV92bmJkekFVeWpYdkZ2TVFWR0IwanZlZVJRdXZVWFVkaXBfRlp6Qk9kS3lyRm5va3dudXNjejg0ZHoxc0VldTl6ZjFMUTVibTh1OVRNcW43OG84STlHWjZLd0ZlVFdCdlJfdkRQcFFkY1ZDUldKV2xYdktRM09KZG5SQ3hvWERQcUdKaWJoOUdXNVMxXzh2UU1rNlg1d1RFZ3M?oc=5
+3. ⭐⭐⭐ **[47점]** BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries - STAT
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:58:59 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXJHa1ZINkZmWXBqOUdNeHNndDkyZXZyMDFUOEtfR2JXdUhva3ZIeHZFYlM1SEFkeU13eTJNaHd1WHliS2lfdGgyckFCbjNlcnRJMDEwXzgtbnJiTmpYSWp2M1FtMmc2Nl80bHM4UF
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:58:59 GMT+5 | 키워드+30 | 순위:40위+2
+   🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxOMXJHa1ZINkZmWXBqOUdNeHNndDkyZXZyMDFUOEtfR2JXdUhva3ZIeHZFYlM1SEFkeU13eTJNaHd1WHliS2lfdGgyckFCbjNlcnRJMDEwXzgtbnJiTmpYSWp2M1FtMmc2Nl80bHM4UFNEUUxwRDJCeEdDTnViM3NlNWhMbm85UQ?oc=5
+4. ⭐⭐⭐ **[47점]** 8 takeaways from the MHE and Drug Topics post-midterms webinar - Managed Healthcare Executive
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:33:57 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOc1lScGgzM21qUFFwS050M092ZndLNVY3UGNuS1J3WWd6bWJOUmk1Y3YzRGg0dkw5OHJPUzFXUVZIZl9sT2dJQVpIcl9rVTlFX09Ub2hkcERyY1RZV1JNaFoxdXM4TnpuVkt5cTV1Q2
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:33:57 GMT+5 | 키워드+30 | 순위:43위+2
+   🔗 https://news.google.com/rss/articles/CBMingFBVV95cUxOc1lScGgzM21qUFFwS050M092ZndLNVY3UGNuS1J3WWd6bWJOUmk1Y3YzRGg0dkw5OHJPUzFXUVZIZl9sT2dJQVpIcl9rVTlFX09Ub2hkcERyY1RZV1JNaFoxdXM4TnpuVkt5cTV1Q2NmclQzY19iZmR0dEMxenJKLW9teFV3UkJWaFBWclNWYXdYMWJjZzNMY2VKQk5Pdw?oc=5
+5. ⭐⭐⭐ **[47점]** NAFDAC ​‌‌​‌‌​‍⁠⁠‍‍​​​​​‍⁠‌​warns Imo patent medicine dealers against fake, expired drugs - News Agency of Nigeria
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:54:57 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSzFwQnZ6MzhOVjBmTjBRT29naV9qd0RaVEdOQmE5aHNOY0ZTR2k5YV9UbXBMOWFRWUxDR3BpMno4dV9ac1hIcWd2TzRHVnd4ZV85RC1ZUnBveTVXa3ZYWVRwVXZsZUlOYXc?oc=5"
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:54:57 GMT+5 | 키워드+30 | 순위:48위+2
+   🔗 https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSzFwQnZ6MzhOVjBmTjBRT29naV9qd0RaVEdOQmE5aHNOY0ZTR2k5YV9UbXBMOWFRWUxDR3BpMno4dV9ac1hIcWd2TzRHVnd4ZV85RC1ZUnBveTVXa3ZYWVRwVXZsZUlOYXc?oc=5
+6. ⭐⭐ **[37점]** Democrats’ election rout is poised to dramatically reorder federal health policy - North Carolina Health News
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG9DUFE4VDdJLXo2RmMtSnliemo5UlVJdGJ0SGhWXzJsV3NTVURNSGNrX1JkYXFpcjZXYkpXLWJnWXd4NXRuWm9BSWt3V0FFVm91SjBTMmlwYTZrWE9ablM3QVJabndIZEIxNWhtQ3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:00:00 GMT+5 | 키워드+20 | 순위:38위+2
+   🔗 https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG9DUFE4VDdJLXo2RmMtSnliemo5UlVJdGJ0SGhWXzJsV3NTVURNSGNrX1JkYXFpcjZXYkpXLWJnWXd4NXRuWm9BSWt3V0FFVm91SjBTMmlwYTZrWE9ablM3QVJabndIZEIxNWhtQ3pMNFZVTC1ON3VmLTFjZFQwdnowNFVxRmNGYUMxeUc3bldQQnNkNE1mLUZPT0F3UVg0NDdqRUk3YXcwZzdIMWJQX2ptalJPbDBJZEhmNGpVRUk3c19ETTlaZTltOA?oc=5
+7. ⭐⭐ **[27점]** Health Care Disparities Persist Across Liver Diseases - The American Journal of Managed Care® (AJMC®)
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:05:56 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDdsekV2U09ENTR5YzhXMzNiMWRVU0FHbjdoSlRjbzQyZnZwYjR4TTNzT1ctQ1FNcG95dm1xN2NWUFo5WTlhZnZIUmJEVTBQQUxnblZpR0VValB1Vjl6VjRiRmRnZ194clVfVkZBS3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:05:56 GMT+5 | 키워드+10 | 순위:42위+2
+   🔗 https://news.google.com/rss/articles/CBMihgFBVV95cUxNVDdsekV2U09ENTR5YzhXMzNiMWRVU0FHbjdoSlRjbzQyZnZwYjR4TTNzT1ctQ1FNcG95dm1xN2NWUFo5WTlhZnZIUmJEVTBQQUxnblZpR0VValB1Vjl6VjRiRmRnZ194clVfVkZBS3Fmb1MyQWFfbjd0bmFGRzJ3OS10UTB2Zw?oc=5
+8. ⭐⭐ **[27점]** India CDMO Sector: Contract Development and Manufacturing in Pharma - Kalkine India
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:45:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVk
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:45:00 GMT+5 | 키워드+10 | 순위:47위+2
+   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5
+9. ⭐ **[22점]** How to Save on Medicare in 2027 - East Idaho News
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:38:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFB4RzE2dWROWDFRc2hPZGxFWHlpUmI4QTg1d3Z4cmxncTIzeU5Rc0l1SXAyc0FpU2ZDYzkwbGUyV1puLVI2VzlKMmdjNWhHNG9wN3lodkMzb3hpczNKUUJZN2NXX21ta0Z3bExvZUVZZj
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:38:00 GMT+5 | 키워드+5 | 순위:41위+2
+   🔗 https://news.google.com/rss/articles/CBMiekFVX3lxTFB4RzE2dWROWDFRc2hPZGxFWHlpUmI4QTg1d3Z4cmxncTIzeU5Rc0l1SXAyc0FpU2ZDYzkwbGUyV1puLVI2VzlKMmdjNWhHNG9wN3lodkMzb3hpczNKUUJZN2NXX21ta0Z3bExvZUVZZjZFMzlvQVUzbkRn?oc=5
+10. ⭐ **[22점]** The One Medicare Decision That Follows You for Decades - TheStreet
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:33:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOemRhNWw3UTFsbEhWS1RIdUR1MjY1SndkTkotdmRSbnZTdGctaFVaSDF4cE5oYThLSFlPSU5MZE4tX0NnRjhvUWd6aElPTldIQVJ2cTEzWW05TEtnSWZ4QTVpTXlUX2JZVzB2T1YxWj
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:33:00 GMT+5 | 키워드+5 | 순위:44위+2
+   🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxOemRhNWw3UTFsbEhWS1RIdUR1MjY1SndkTkotdmRSbnZTdGctaFVaSDF4cE5oYThLSFlPSU5MZE4tX0NnRjhvUWd6aElPTldIQVJ2cTEzWW05TEtnSWZ4QTVpTXlUX2JZVzB2T1YxWjdhTUNyc043a0JTa2pSSVFpVWVsaHM0aU9FZnpKNzI5TkZmSTFXdng2N3p1eGxjUjBYWlIwR1k5WQ?oc=5
+11. ⭐ **[22점]** Your Medicare Plan Is Changing Pharmacies in 2027 — What to Check Before December 7 - Newswav
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:33:02 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19Db3BpUDJzZ2hKaGVuWF9yVmw3dXE5bFFtNXlOVWU5MWlaLTBWTVB2ZFYzTmZGWFhSMllHV0M2UTFmQWRydGxwZ1ljQkF6VnFSLVNZenlDeVdpd0l6ZUt0bXdSN0IyVDZaR2JrYU
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:33:02 GMT+5 | 키워드+5 | 순위:45위+2
+   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19Db3BpUDJzZ2hKaGVuWF9yVmw3dXE5bFFtNXlOVWU5MWlaLTBWTVB2ZFYzTmZGWFhSMllHV0M2UTFmQWRydGxwZ1ljQkF6VnFSLVNZenlDeVdpd0l6ZUt0bXdSN0IyVDZaR2JrYUR3ZXIyT1NtLThyTTV4Q1dMWjRHTDNzWkZMNXZJMEl3cEVjaUREcHZrOWlNMnFaRHptcWhzbmg0c2Z2TV9ZWWJyendCbmRyZW8?oc=5
+12. ⭐ **[22점]** India Generic Pharma: How It Became the World's Pharmacy - Kalkine India
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:45:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHJkcXRxd2J2OUt4MlcwOWFodVhjXzh1akhaRFd2RlBfbjM1M2FqcXdtdFFEQlYtQzlHX0xHZndRNmFaTy1SUWw4MW9UTHhjQ3hUZ3hYd3BMWGRWZWxEOHhRb1FqTFpzX1QtTTdtbl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:45:00 GMT+5 | 키워드+5 | 순위:46위+2
+   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHJkcXRxd2J2OUt4MlcwOWFodVhjXzh1akhaRFd2RlBfbjM1M2FqcXdtdFFEQlYtQzlHX0xHZndRNmFaTy1SUWw4MW9UTHhjQ3hUZ3hYd3BMWGRWZWxEOHhRb1FqTFpzX1QtTTdtblR3UGdjemUzcHcwUVl6dmdWYkp4dUd4NEQxRkFxamRqaW5wcEJQWkZaRW1FM0dLbDlvYTh3enRXc0N2dw?oc=5
+
+### 🤝 Pharma Associations (14건)
+1. ⭐⭐ **[42점]** India Pharma Shifts to High-Value Drugs, API Self-Reliance - Rediff MoneyWiz
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:15:50 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm93S2ZGcTVJemhyeEJBRHlyaDd1NW94OFhKblR5Ry11Z0pkSXRtLUZNNGI0QVhTdXMwRnRoUXVjZ2RFSVUxei1sa3p2OHZVSXpfQmFzTHluR3kwMHRnUGtRdGZva3pBUnY2WVhGS3
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:15:50 GMT+5 | 키워드+25 | 순위:50위+2
+   🔗 https://news.google.com/rss/articles/CBMiswFBVV95cUxNSm93S2ZGcTVJemhyeEJBRHlyaDd1NW94OFhKblR5Ry11Z0pkSXRtLUZNNGI0QVhTdXMwRnRoUXVjZ2RFSVUxei1sa3p2OHZVSXpfQmFzTHluR3kwMHRnUGtRdGZva3pBUnY2WVhGS3UyRzdwd0Nvem0yTVp4UTl3RVZ4Q0VleFQ2QlhXTFJ2UXY4Z19ibXZxUjh4MUFvR1F3TVl0UzBWZzFOSHpqRXlvU21OTdIBswFBVV95cUxNSm93S2ZGcTVJemhyeEJBRHlyaDd1NW94OFhKblR5Ry11Z0pkSXRtLUZNNGI0QVhTdXMwRnRoUXVjZ2RFSVUxei1sa3p2OHZVSXpfQmFzTHluR3kwMHRnUGtRdGZva3pBUnY2WVhGS3UyRzdwd0Nvem0yTVp4UTl3RVZ4Q0VleFQ2QlhXTFJ2UXY4Z19ibXZxUjh4MUFvR1F3TVl0UzBWZzFOSHpqRXlvU21OTQ?oc=5
+2. ⭐⭐ **[42점]** Oman advances pharmaceutical manufacturing with three major projects in Sohar - Times of Oman
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:09:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTNWN0tSZEhUcld3bXRlMjBYdHlEaDVCVVhoWlgxT0JkRUN5MkpZN09VclBGM2NtaUtNVmFHUno5RjZJOHlGaE0xWklkSURzRnpfTUEtVnl6VEZhb1Flb0VHdWpkdEFaVU5fcVNocE
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:09:00 GMT+5 | 키워드+25 | 순위:51위+2
+   🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxOWTNWN0tSZEhUcld3bXRlMjBYdHlEaDVCVVhoWlgxT0JkRUN5MkpZN09VclBGM2NtaUtNVmFHUno5RjZJOHlGaE0xWklkSURzRnpfTUEtVnl6VEZhb1Flb0VHdWpkdEFaVU5fcVNocExyU0EtOTdUNzFmTEtsZldKRm9kRnRGazVZSzlwYzdraVp6SWY3M2Frb1RGem9YdFczTTlZTlctT3A2Q3RhaTFGS1o1VXJhTGM?oc=5
+3. ⭐⭐ **[42점]** Pharmaceuticals to adopt global tracking standards by January - Kenya News Agency
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:51:26 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNNURJeHYwZXRMVXlQSnhNa2lxbkJRZWp1dWFXLXphdGlfUWZsR2VJSFVXa2o5d0ViYmc2TGN1c2RxQ2p5YkpFY2czZFYzNE5iYVNuQjdGX2tpYklFdVliOG5RaXZONkR5eUdwYUxCRm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:51:26 GMT+5 | 키워드+25 | 순위:52위+2
+   🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNNURJeHYwZXRMVXlQSnhNa2lxbkJRZWp1dWFXLXphdGlfUWZsR2VJSFVXa2o5d0ViYmc2TGN1c2RxQ2p5YkpFY2czZFYzNE5iYVNuQjdGX2tpYklFdVliOG5RaXZONkR5eUdwYUxCRmw0M2NUbjFnX01KcEMtU1hDajR2WmF3b3hDOUpTaDF0OUlLcHY4?oc=5
+4. ⭐⭐ **[37점]** Fluid Bed Dryers Market To 2035: Pharma Continuous Processing Drives Growth - News and Statistics - IndexBox
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:21:04 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGVKNTRUVlBiVlBfVWpYQWhhdmw2RE85QzRhY2JmWkNvaFdLNkl5TmpXZEN0d3Z4Rks3VWRITGs5TU5kLVpldnUwZmZqY0RLdEN0TnhtWEdtVGRUb1VJQmRtWi1HSGd4NlotQndUZX
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:21:04 GMT+5 | 키워드+20 | 순위:43위+2
+   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGVKNTRUVlBiVlBfVWpYQWhhdmw2RE85QzRhY2JmWkNvaFdLNkl5TmpXZEN0d3Z4Rks3VWRITGs5TU5kLVpldnUwZmZqY0RLdEN0TnhtWEdtVGRUb1VJQmRtWi1HSGd4NlotQndUZXNpbDZ6LTFYYzhLYjZxSGN3WnZmNmctTDEtOG51RVNhVDZFRk5JaDdhZWdrSTJBbVk0QjZKeEhWRVk1eC11X3QwRFdQVEFsZw?oc=5
+5. ⭐⭐ **[37점]** Riverside backs French medical device CDMO Medical Group; Mutares to acquire Steinmüller Engineering - PEI Private Equity
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:11:53 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxPakVoQXdIVUxIc0hSVW5aLWlLZjlqOHVtX19iN3ZLdU9DR0p5TlQwaDJSU2IzZG56TlBYRXY1SXRSVzZNUThROFltX1ExVEZCRHVBODRJNTZWMkZqaVZoNmxzVWt1OUJCdEctUDlUVX
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:11:53 GMT+5 | 키워드+20 | 순위:44위+2
+   🔗 https://news.google.com/rss/articles/CBMi2wFBVV95cUxPakVoQXdIVUxIc0hSVW5aLWlLZjlqOHVtX19iN3ZLdU9DR0p5TlQwaDJSU2IzZG56TlBYRXY1SXRSVzZNUThROFltX1ExVEZCRHVBODRJNTZWMkZqaVZoNmxzVWt1OUJCdEctUDlUVXZzLTdaYmZGanNJWTlrOWpYNldvR1phZUZ6WXdSXzRzeFc1X0hReTFPczJOSmp6SHJBNnhzM012bk42WTBZWWkyV2M1ZW0tV2doMkxta3llN0pmUy1Bamh1dDB3dFZsQXhxN3pMYktfYi1KWG8?oc=5
+6. ⭐⭐ **[37점]** Nine pharma firms boost profits, but ACI and Silva losses deepen - The Business Standard
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 14:32:44 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlA1ZV9MaWpONDlRdHU3T2FGYjh6bUROb0VLUlQ2UDFXcUw2ZkNfTWs4cEI1eG5xVjNYWjhTb3NsQXdOVmQxLUdYZUpJOGdUWVo2T0VjbHRTWC1pWVpBM09xSXRIbWZNaFUyN0FpTm
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 14:32:44 GMT+5 | 키워드+20 | 순위:47위+2
+   🔗 https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlA1ZV9MaWpONDlRdHU3T2FGYjh6bUROb0VLUlQ2UDFXcUw2ZkNfTWs4cEI1eG5xVjNYWjhTb3NsQXdOVmQxLUdYZUpJOGdUWVo2T0VjbHRTWC1pWVpBM09xSXRIbWZNaFUyN0FpTmVOZ3cwcTdoTDRpeEhScUpXNldBMnZoRU5LRFVtd19wWEk2ck9lY3h0N1lVeXliT0h3bHVYc05oWER3dw?oc=5
+7. ⭐⭐ **[37점]** Sanitary Valves Market To 2035: Biopharma Sterile Processing Fuels Expansion - News and Statistics - IndexBox
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 12:16:04 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWFfTWZKMF93VWp1T0taSHdKdnAxNVJQZXMtX2VHbk55RG1tbldNUUNwWUt3ZzNzR3A3MHo0dGUySVdsenhFU19TUEM4UjR3Z1ptaEdES3M0M1F3dmdVVjEtYkFOa2lmbFlVSEQtVG
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 12:16:04 GMT+5 | 키워드+20 | 순위:49위+2
+   🔗 https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWFfTWZKMF93VWp1T0taSHdKdnAxNVJQZXMtX2VHbk55RG1tbldNUUNwWUt3ZzNzR3A3MHo0dGUySVdsenhFU19TUEM4UjR3Z1ptaEdES3M0M1F3dmdVVjEtYkFOa2lmbFlVSEQtVG15OW43TlNmbEZxZzRNWDJTYmwzbjhTTW1wZ0ViVFZVU2JSTW92cEVLTWY4MjFicXhZWUtvdTFJcGZhekQ5Y1NSUXhHQ2gwRHk2OEtMalJiNA?oc=5
+8. ⭐⭐ **[37점]** What Trade Show Visitor Data Tells Manufacturers About Industrial Demand | By Bhavana Rajagopalan, Director – Marketing & Strategy, Orangebeak Expos - Loktej English
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 10:30:37 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNW1BMW9zVVFqaU4yYmNMRzh3ZXNSb2FZUHZkWVhvaTdydXJIV3NjYldHb1VvZ0c0Z3ZIbl8wcjVSMkktRVNieFliUUhCWFFIOG5vYTJaYk0wRTJvMENIZjJybFhSWWJEUzRPWXhZNV
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 10:30:37 GMT+5 | 키워드+20 | 순위:56위+2
+   🔗 https://news.google.com/rss/articles/CBMiqAJBVV95cUxPNW1BMW9zVVFqaU4yYmNMRzh3ZXNSb2FZUHZkWVhvaTdydXJIV3NjYldHb1VvZ0c0Z3ZIbl8wcjVSMkktRVNieFliUUhCWFFIOG5vYTJaYk0wRTJvMENIZjJybFhSWWJEUzRPWXhZNVg5OExxdDcwejVMZGFNV3EyQXg1NU1vMEJUaXM2RGJRRUZzbzNUWjZNZ2p6V3pBZF9TQkJmdFptdUdwTTRTRk9NZU1ESFdHNmJSQkd5WmdvU3B0V19nb0k5ZU1sNXhlb2tFWk11a1A3b3BsVVBiOWg4ajNqcDVmQmdaQlJXNEsyNGRzRmxOaUE1MWNYUldTU3ZobW94X2hjeDFNcnhJS0dvRDZmNW1WMWJMYnc0d0libHAyTlNkY3hjSQ?oc=5
+9. ⭐⭐ **[27점]** More than family business: Drugmakers make costly, long-term strategic shifts as next generation steps int - The Economic Times
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 18:14:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMivAJBVV95cUxPVjhwcGJIZ0tNaGpJQTNVN2I1V0FWVXNqSFZSQmsweGU4OUNEUlBxdDFwTUc2dUo0RkVfbnZxQUUwd0YzaU8zdmFHX1RKUFl5SUhKMFF6M1pnbXlqWHhDb1A2RVBQdE5vYTItLW1oUj
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 18:14:05 GMT+5 | 키워드+10 | 순위:46위+2
+   🔗 https://news.google.com/rss/articles/CBMivAJBVV95cUxPVjhwcGJIZ0tNaGpJQTNVN2I1V0FWVXNqSFZSQmsweGU4OUNEUlBxdDFwTUc2dUo0RkVfbnZxQUUwd0YzaU8zdmFHX1RKUFl5SUhKMFF6M1pnbXlqWHhDb1A2RVBQdE5vYTItLW1oUjVkS3hWRHdQRGhQVExRVmdzQzAybng5MjFqTG9VaGViNVFTQ21fZmNoX3NLV1N0TkRhWkFvcWpBOUZVZVA5U3o0UEdDME1UcDYzNlA0WGlDZmFVczk1RGdrT0ZiOC1raHZmYzNBWk9OdGprMXdiT2ZwdklwblZwUXJCeGpJTFg4bWQwNk8xWHZSQ1JsNXZVWUdMMzRSX1FkMDYxUWM5VVNLcUhEamw5RksyWDFiSEl1bXdZM1RObEQ0SGtkekRLXzY4NVZoSVJPRUNQbEhL0gHCAkFVX3lxTE5nVzZWeEJtT0NGV3hyT3dwR0VGMEVMXzdPUzRvMW5CR05zN2VFamtzS1BpUDB5REJLY3Y1RWE3XzhtQ2xZekpnSE90STFzdl9PQXlJSk9JdXRKTDN3aFRKdkNRTXBPV1ZOUXhOZC13RW5sQWtSQ2RmMjNJTEJBWTJQTTZseFpqbWRCS25uLTNydFlMdEIyUG5hOWZZblZaMjNKbTd4ZHJhWmxrRlNYSURxU1VONk9mZVg4SWhwd3I0dHNOaGtkNE0yb3dUQjlidG85QV9sZGxRRG1jWlhCdEc5cTFwbDNteUxUaERRZE9HeXFRMlg2amNJRFQxeV82ekwzN3M5aW1jUDR6Wndid2xQaHNkTjA0TGxkbHN2YXFwMzFmSlFOT0FObDZOMUViVGZRT1ZXWmZvWDRwZktqT1JZaHc?oc=5
+10. ⭐ **[22점]** These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout - Investor's Business Daily
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 13:01:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRek
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 13:01:00 GMT+5 | 키워드+5 | 순위:45위+2
+   🔗 https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5
+11. ⭐ **[22점]** Pfizer Elevates John Sourke as Vice President, AI Acceleration and Transformation - https://hrtoday.in/
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:12:02 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHViQkN1dlJOX0t1YW00ZXUxajVmaDhDdlctSDdwWDhvd3V5NVNGY1FZbG1fNUprYWhxZ3BfMTJfbG9RbEhldm5aTk9yTkFWR09kRVFyRlV6TFZfczc0aEhxMnlGcnFnMnJNcHhzRG
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:12:02 GMT+5 | 키워드+5 | 순위:48위+2
+   🔗 https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHViQkN1dlJOX0t1YW00ZXUxajVmaDhDdlctSDdwWDhvd3V5NVNGY1FZbG1fNUprYWhxZ3BfMTJfbG9RbEhldm5aTk9yTkFWR09kRVFyRlV6TFZfczc0aEhxMnlGcnFnMnJNcHhzRGJNdUFiYUsyaGpCa0ltWEpKRGUyWFluRGxQQl9vNS1OSFBKSExvTFgtbFZ0LVd0Nkx5SEE?oc=5
+12. ⭐ **[22점]** Textile firms struggle to protect margins as energy, labour costs bite in FY26 - The Business Standard
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 09:22:04 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxORVJXMkVmU3pFeGwtNTFCSjlER2E5UGlhZFh5ajdtRU9WX256R1p2RE94M3VtY005NFExMzVPYmJJZFV3MXlXUUFUSV9rekd4X01nVXlvVmtvTldLNXJiUXhRX0t1N1Bqd3RXT3d5YX
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 09:22:04 GMT+5 | 키워드+5 | 순위:53위+2
+   🔗 https://news.google.com/rss/articles/CBMitgFBVV95cUxORVJXMkVmU3pFeGwtNTFCSjlER2E5UGlhZFh5ajdtRU9WX256R1p2RE94M3VtY005NFExMzVPYmJJZFV3MXlXUUFUSV9rekd4X01nVXlvVmtvTldLNXJiUXhRX0t1N1Bqd3RXT3d5YXhjdzA0aF9PWEFBZktNWnRlRWpuMW1RY1RDYTh2dzBtdTVTMFNqTU94M1QzZEkxT1RCekNFblZMNVRqZzVyaG1vUkwyWm0wQQ?oc=5
+13. ⭐ **[22점]** Uzbekistan and Algeria Discuss Local Insulin Production - UzDaily.uz
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:59:24 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPU195aG03ZTVFakhwc3d4M2l5N0h1UkRSejlSalFwVnNMbWRNZVFpYnk3SVZJSWxFZW43Tnd6enpsb01DRG8xTzZpT1NnTlB6S1JBT1A2bHFqb24xWEdtRXJnYWdFQzBTTlVXdC1jcW
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:59:24 GMT+5 | 키워드+5 | 순위:54위+2
+   🔗 https://news.google.com/rss/articles/CBMiigFBVV95cUxPU195aG03ZTVFakhwc3d4M2l5N0h1UkRSejlSalFwVnNMbWRNZVFpYnk3SVZJSWxFZW43Tnd6enpsb01DRG8xTzZpT1NnTlB6S1JBT1A2bHFqb24xWEdtRXJnYWdFQzBTTlVXdC1jcWxBb1lsNDU0Q2Y3dDF5Q2Y3blpqc2w3aVVGelE?oc=5
+14. ⭐ **[22점]** Kirloskar Industries Q2 profit rises 5% to ₹105 crore, income up 17% - Business Standard
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:37:31 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc3puWXFwZ25wdU0yS0NDWTlKUE85dVhXZDhVRkYwdHBHdFJsY3JQeFNINWRmdGZnVXAtM2lEYl9ZcGs4SmU0b1ktRDRFbEhmaGV5bDA5akM3Mk1oZ3dqdVI1bVRnR3AxUC1CTG9CeE
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:37:31 GMT+5 | 키워드+5 | 순위:55위+2
+   🔗 https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc3puWXFwZ25wdU0yS0NDWTlKUE85dVhXZDhVRkYwdHBHdFJsY3JQeFNINWRmdGZnVXAtM2lEYl9ZcGs4SmU0b1ktRDRFbEhmaGV5bDA5akM3Mk1oZ3dqdVI1bVRnR3AxUC1CTG9CeENsU1ZjeC1NSUt1cjBYbHVlaGRoMmhsSmVzTC15MjBfMjZLd0ZpeUx6S2dzVmJxaHB3elNnbEVfaUhGVXVySExVOFFIa0w2cEtnNHVqU1cxU1VzWEdRa2lDREJsVXJIdVdvM2lXOVhheUxxZWEtS2d30gHkAUFVX3lxTE9rLTRnTmRQY005SS1jUXhMd1k4VGlMTUhvay1PcXpzM2tBWUs3dUhOTTFma00zS0EyTnFjNkFOa1NJTFhhWWd3NTVSVU5yNlgxUFgwVWthQ19sQURnWmU0SXlIOVBSQndzSE1sc0RjRW1USTlxSEFKeGxETTlWS29YUXpkdDBWS2h5bTl3RlpTeTM3V0wxU3hvOFZwS2pFal9EaVB0Ml81TnJPNi02bmpNV1BJcHBUN0RXZDJxTE4xZmp4RTg0SG1vZVlmUE1BZ0Q0T0lHSjFxM0p0ekZLRHZwajFkTA?oc=5
+
+### 🏛️ Regulatory Agencies (3건)
+1. ⭐⭐⭐ **[60점]** FDA Drug Approval Process: CDER Regulatory Guide - CASRAI
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 11:28:55 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5" target="_blan
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 11:28:55 GMT+5 | 키워드+30 | 순위:10위+15
+   🔗 https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5
+2. ⭐⭐⭐ **[50점]** Hims & Hers Health (HIMS) Adds FDA Approved Obesity Drugs To Its Platform - Yahoo Finance Singapore
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 17:11:34 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW52UGxtRWE2ZXZVcWprMklwdlI2dFdFMlJRekxNLXJPdEZJQmFOZ00xT2lsM0VCWEJRRk83UldpZEhwSmlST2ZwYXJWU2F4UjVaTEJUNTl0cmVFUTVDZDlmTW1WQ2E3YnJTdEZVLT
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 17:11:34 GMT+5 | 키워드+25 | 순위:11위+10
+   🔗 https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW52UGxtRWE2ZXZVcWprMklwdlI2dFdFMlJRekxNLXJPdEZJQmFOZ00xT2lsM0VCWEJRRk83UldpZEhwSmlST2ZwYXJWU2F4UjVaTEJUNTl0cmVFUTVDZDlmTW1WQ2E3YnJTdEZVLTdlSnpqMUg2QU95U29jeG1PLQ?oc=5
+3. ⭐⭐ **[35점]** Macleods Pharma recalls 3,744 bottles of medication - Knewz
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:00:00 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmlnMUNsUnVKMnV1YzlETVJxcDN0ZFZ5ejhTUlF1UHViQ3haNzBydlQycFVYaGkycnpwYWZlR3dLOGY0VnVObG1aYzVyLVdBUjRLWG94RkdJR3FZNnNoYkl5Y0gybmdPdzUxMjdvVl
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:00:00 GMT+5 | 키워드+10 | 순위:12위+10
+   🔗 https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmlnMUNsUnVKMnV1YzlETVJxcDN0ZFZ5ejhTUlF1UHViQ3haNzBydlQycFVYaGkycnpwYWZlR3dLOGY0VnVObG1aYzVyLVdBUjRLWG94RkdJR3FZNnNoYkl5Y0gybmdPdzUxMjdvVlgtaWVTR1dfcWJYZFFSY1VzMEk0UXM?oc=5
+
+### 🌿 Traditional & Complementary Medicine (2건)
+1. ⭐⭐ **[35점]** Sri Lankan Plants Show Promise in Preventing Kidney Stones - Bioengineer.org
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 16:34:23 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemltVjNIUWVJeGVVS1hnY2ZtMktGVXdKc1F0MVBkazNDS09LckZLc0ZUQmF4NnlyRldzZjhoRnFlOUZMRm10NGllNDFtUWZUamVFZDVQWG91MTRZSHdTdHFyYlFjeC1mS0szQ3U4Uk
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 16:34:23 GMT+5 | 키워드+5 | 순위:7위+15
+   🔗 https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemltVjNIUWVJeGVVS1hnY2ZtMktGVXdKc1F0MVBkazNDS09LckZLc0ZUQmF4NnlyRldzZjhoRnFlOUZMRm10NGllNDFtUWZUamVFZDVQWG91MTRZSHdTdHFyYlFjeC1mS0szQ3U4Ukc2UzE2WUNkaU90R2paOHNnZUpIZEtJTmI4YVF3?oc=5
+2. ⭐⭐ **[35점]** Milk Protein Eased Insomnia Signs in Sleep-Deprived Mice - Dr. Axe
+   📰 출처: -
+   ⏫ 업로드: Sat, 07 Nov 2026 21:03:05 GMT | ♻️ 갱신: -
+   🧾 요약: <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MSjdpczlPemdQNFZuTVAwNEJnbUIzU21oZHRDRURQSWtaZGk1c01UaFBmbUZQcUhLcWpzRC1uNnc3WTF2S1UzXzNVMzVEN255V3hhNF8zdUl2LV8xeUNjVVltejE?oc=5" target="
+   📊 출처:+10 | 최신:Sat, 07 Nov 2026 21:03:05 GMT+5 | 키워드+5 | 순위:8위+15
+   🔗 https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MSjdpczlPemdQNFZuTVAwNEJnbUIzU21oZHRDRURQSWtaZGk1c01UaFBmbUZQcUhLcWpzRC1uNnc3WTF2S1UzXzNVMzVEN255V3hhNF8zdUl2LV8xeUNjVVltejE?oc=5
+
+---
+## 🌏 다국어 뉴스 (20개 언어)
+
+### 🇫🇷 French / 프랑스어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇩🇪 German / 독일어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇪🇸 Spanish / 스페인어 (2건)
+- ⭐⭐⭐ **[45점]** Laboratorio de Productos Eticos expresa su solidaridad con acceso a medicamentos
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 14:25:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQempjQm03TzBuWHM3a0w0ZkVERWNvZHhxbUdtWUYxTGEtaFhMUkNkRXBhY2VSZjJDT1k3bVY4NHREX2IyY1BERndjQ2g3SWh0Q1REaTFpcG9PR2dNMFhWUTlvRzctQWk4QnFqeXpPeG
+  🔗 https://news.google.com/rss/articles/CBMitwFBVV95cUxQempjQm03TzBuWHM3a0w0ZkVERWNvZHhxbUdtWUYxTGEtaFhMUkNkRXBhY2VSZjJDT1k3bVY4NHREX2IyY1BERndjQ2g3SWh0Q1REaTFpcG9PR2dNMFhWUTlvRzctQWk4QnFqeXpPeG13ZFVZRkdPcGdTUm1ESW9Qa3JVYjdtM0ZLWG5lR2R4QzZmQ3NXYnB6TDc0NmNDSkItYi04bHhYc0tuazh1Wi1US0RpY3FoRHPSAcQBQVVfeXFMTmJpZ2g3MUx3dGZ0MnNueWRtdkVYT3FFT28tYjN2RWZ3dTZTYnRIUW1TX25vU3FuZ2Nha1JKZjJMN3NVbTB6aF9SN0lqaldIT0hUTXV5bXhkVTR0VW1FeGEzQzRwT0RXcjV5dVg3TV94MkVRRlNOZ24wc1RhcjRVT3E0dkVlTzhhaHdTMEJoc2JxQnNiLS1felByVExnU3hhMUh4b01NckFqZEJQODNFOWR3MkVuaWlkUXQ2ZzFoT0NXT2FXZA?oc=5
+- ⭐⭐ **[43점]** Diputados bonaerenses: el próximo filtro para la empresa de medicamentos de Kici
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 17:33:21 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmx3aVUyV0xnSC1UUzRoSnBtdmQtSHh2WTRhMEs4QXZza2o4S2Y3Q2FuOWhUZ2d2ZWQwMkczalRHVG1aOHl2amx0eWl1Qm5QV3VxRWpmS005emw5MGxidE9TWUZwTjBsMFozbnNsRl
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmx3aVUyV0xnSC1UUzRoSnBtdmQtSHh2WTRhMEs4QXZza2o4S2Y3Q2FuOWhUZ2d2ZWQwMkczalRHVG1aOHl2amx0eWl1Qm5QV3VxRWpmS005emw5MGxidE9TWUZwTjBsMFozbnNsRlVqQTJIVHBhbmFOZmJ3SzVPa1pVT19WNGFKUkZTWTdvOFU0RGJiVDZVMVF0UUl3eE1nMjE4UzNQenVNUGtsck05Qy1jdFM0MDJqQjJ1MHhrUHVwNEQz?oc=5
+
+### 🇮🇹 Italian / 이탈리아어 (2건)
+- ⭐⭐ **[43점]** Svelare l'essenza della fitoterapia, aprendo la strada alla lotta contro la pove
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 16:58:36 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnJIQTRMRXR3Qlp2NEhlWlA4QkNQNXItVHpkRERucmJjWTVoQVdoNURTbmhLZ2s2cTVZWU5LUENselZiUkIzOHBaNTB2dmJfbWFWRUl0dHU4Y2t4ak1rSW9GbzA2Z25RcVIyWEVIOE
+  🔗 https://news.google.com/rss/articles/CBMijgFBVV95cUxNbnJIQTRMRXR3Qlp2NEhlWlA4QkNQNXItVHpkRERucmJjWTVoQVdoNURTbmhLZ2s2cTVZWU5LUENselZiUkIzOHBaNTB2dmJfbWFWRUl0dHU4Y2t4ak1rSW9GbzA2Z25RcVIyWEVIOEw1c3VDTFFQS1hlSlRINDVGU1hFT3hITEZTUXBxMWVR?oc=5
+- ⭐⭐ **[40점]** Gemmato: «Accesso precoce ai farmaci e meno payback per attrarre investimenti» -
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:31:33 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxtS3o2aG1pZUkyVmpXeFFkUE5QQlBBeGlGOFRtSnlVQzV2UldPTEVJSXU0Q29hYzdocTZYWWo3VGdWWGx0MXF3Q3lfNjlYMVBPd2cxTzY2UGJDV2RjUHhiUUowZm43SVR1eHA5Zn
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWxtS3o2aG1pZUkyVmpXeFFkUE5QQlBBeGlGOFRtSnlVQzV2UldPTEVJSXU0Q29hYzdocTZYWWo3VGdWWGx0MXF3Q3lfNjlYMVBPd2cxTzY2UGJDV2RjUHhiUUowZm43SVR1eHA5ZnBlczkxczRWaDIzN3pzdElIb2NKY0o1WlNpQXdMMnN1Q2ZnUmtwb1p5YjBEVmNvV3ZkaGxadlUwMjhrNEJ1?oc=5
+
+### 🇵🇹 Portuguese / 포르투갈어 (4건)
+- ⭐⭐ **[40점]** Marcas próprias avançam nas farmácias; Intercron projeta R$ 1 bilhão em vendas a
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 18:00:54 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTFlhSzJlR0kxQkcya3MxaUItenJZVFlHSXZhYnpzcUtfX1hIdjVwSzBtS0NSaDdlbnZqTHFQMWxOSElvRk9ZckhmaTFXSlAyMkpJZ2c2LWI3dXdoT0xzWUJfb056NlROMDNGVTJFWT
+  🔗 https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTFlhSzJlR0kxQkcya3MxaUItenJZVFlHSXZhYnpzcUtfX1hIdjVwSzBtS0NSaDdlbnZqTHFQMWxOSElvRk9ZckhmaTFXSlAyMkpJZ2c2LWI3dXdoT0xzWUJfb056NlROMDNGVTJFWTdMSXpuRVdPZnAxX3lBeFlNSzNpaGJNRWV5c3Z3SFlXcXpRMkh1TlI0UUNHRWVTUVEwQmRXYzljYjFqVFZpOVF2Z1VGMFpUclp1UHg5dl9fM0J3WnBHWWU3TUh5ZjdYSGVuRXhUVXdCem7SAdgBQVVfeXFMTUxZYUsyZUdJMUJHMmtzMWlCLXpyWVRZR0l2YWJ6c3FLX19YSHY1cEswbUtDUmg3ZW52akxxUDFsTkhJb0ZPWXJIZmkxV0pQMjJKSWdnNi1iN3V3aE9Mc1lCX29OejZUTjAzRlUyRVk3TEl6bkVXT2ZwMV95QXhZTUszaWhiTUVleXN2d0hZV3F6UTJIdU5SNFFDR0VlU1FRMEJkV2M5Y2IxalRWaTlRdmdVRjBaVHJadVB4OXZfXzNCd1pwR1llN01IeWY3WEhlbkV4VFV3Qnpu?oc=5
+- ⭐⭐ **[40점]** Presidente alerta para necessidade de garantir a sustentabilidade económica da d
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 14:00:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZDJkdEpfYkNiNTU0SFRDYnp3amxtYmVwMVhYV2JLN0xJdXFydkdacjRxTzBlN0dXOUVGNGZfYUNEXzBTM0lEcm1iY09WZGRRTVNwUzFQemZlMlNkSGtnWFIxM0pOX0N0VU9vdWtven
+  🔗 https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZDJkdEpfYkNiNTU0SFRDYnp3amxtYmVwMVhYV2JLN0xJdXFydkdacjRxTzBlN0dXOUVGNGZfYUNEXzBTM0lEcm1iY09WZGRRTVNwUzFQemZlMlNkSGtnWFIxM0pOX0N0VU9vdWtvendCRGljN2ZRNE1wMEtJcFVsUWVzRmRfOHJRel9SRGNnWGRiNG5CV2RJUEJ0MGxJTjl6Y19xanR3b0FELWNSblBSV2pNMGNZTzhSSTFvWE5sR2RURDk1TTRWcUJpZnVuQ0E5MGd2eA?oc=5
+- ⭐⭐ **[38점]** Farmacêutico rebate o Sindusfarma e diz que pedir a proibição da tirzepatida man
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 18:44:02 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1l0RUp0cnZmZUR3TXJxWXoxZVl3ZDY3V0YxS2JIQ0JfeUd1V2pZOE82cXVUejd6dlJlT2tVQ3pxRWg3a1MwakRIaDYtTElrZExfQkpuNlhOQUNsdXRuZE5qeU1OT25oT25YcFNfRW
+  🔗 https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1l0RUp0cnZmZUR3TXJxWXoxZVl3ZDY3V0YxS2JIQ0JfeUd1V2pZOE82cXVUejd6dlJlT2tVQ3pxRWg3a1MwakRIaDYtTElrZExfQkpuNlhOQUNsdXRuZE5qeU1OT25oT25YcFNfRWE5N1pBTEg3YjFpWEk0N0Nhd0JXVnJ5N2xHNkx3Sm82aVROVWdfTC1mOU1fNG1sbUpTYVVmdjlFUnR4QkFCUXdKLVdsdGE0MUsycXZieVBUN3F6Si1sUDl2V0tyNWhWN18zc3J0Qnkwb2pseHZSczZQTFdB?oc=5
+- ⭐⭐ **[35점]** Anvisa vai certificar insumos farmacêuticos ativos fabricados no país - Atibaia.
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 20:34:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXdNSy11TkFFZTlobTVRb2dHTDByR1F2QXpiMWdRWjRfYnBwOGFGX1JuamlYT1REU3l2U1V0SVNjVmxPT3N3VEo1Q1dSeTY2QWJCeWFPQ0tEYWh6NTlqSlJ5Q20wVkZMQjhJYThJTz
+  🔗 https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXdNSy11TkFFZTlobTVRb2dHTDByR1F2QXpiMWdRWjRfYnBwOGFGX1JuamlYT1REU3l2U1V0SVNjVmxPT3N3VEo1Q1dSeTY2QWJCeWFPQ0tEYWh6NTlqSlJ5Q20wVkZMQjhJYThJTzFmbVlmcEItRnZ0N0Njc1BLbmtQalJzbHJuTXFBQjlLTy0xN1dGZ29LOUlHeVYyLUtCMHVIcGdOSQ?oc=5
+
+### 🇳🇱 Dutch / 네덜란드어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇸🇪 Swedish / 스웨덴어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇵🇱 Polish / 폴란드어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇹🇷 Turkish / 터키어 (2건)
+- ⭐⭐ **[40점]** Tıbbi ve Aromatik Bitkiler Çalıştayı'nda ana tema 'safran' - DHA | Demirören Hab
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:15:48 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkJVRFdtNHIxZ3VGeEZxREswYUJlREVuMkFqRGVtUE1xQmZEbWU2S1R0VzFBcEVBVHJSVUlSUG9DMTZOa3dKcDRId1J1aW4zNzBMWmtIMHBQTENOWGdMWFdncEhUREhZdGZiWE41dT
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkJVRFdtNHIxZ3VGeEZxREswYUJlREVuMkFqRGVtUE1xQmZEbWU2S1R0VzFBcEVBVHJSVUlSUG9DMTZOa3dKcDRId1J1aW4zNzBMWmtIMHBQTENOWGdMWFdncEhUREhZdGZiWE41dTk5djNMOHVhUHVVeFVoS0pObmxuNmc1R0wxc0pmU3RPcFpHYlFDcnJaa1lRNlVWQzhORkdRZWJ5OExmVFU?oc=5
+- ⭐⭐ **[38점]** Afyon'da Tıbbi ve Aromatik Bitkiler Çalıştayı'nda Safran Rüzgarı - Kocatepe Gaze
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:48:59 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEQxWDc3RFRZOUpJRXNQUE9mUHRaZnUtUGxPTl9KOXJldkQ3a0JJX0diVzhfN2pSSjFfb1ljQkU1RWlScmxOR1dvanIzSG1YYk9odE1waHczUk52Y0k5UHZzdEVkd3QtRXB2LUR2dk
+  🔗 https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOEQxWDc3RFRZOUpJRXNQUE9mUHRaZnUtUGxPTl9KOXJldkQ3a0JJX0diVzhfN2pSSjFfb1ljQkU1RWlScmxOR1dvanIzSG1YYk9odE1waHczUk52Y0k5UHZzdEVkd3QtRXB2LUR2dk92ZkhtUC1CcVVZMm9EYk9UbEExTzR5d3piVnJVNUdkQWpGeG53TTdHajlTX3Exa0J1dVV0YVhWUXE?oc=5
+
+### 🇷🇺 Russian / 러시아어 (10건)
+- ⭐⭐ **[35점]** Лекарства за 100 рублей становятся роскошью: почему из аптек исчезают самые нужн
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 08:53:30 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iX2VzSXowRV94anA3NkVjQjBtZkJhbDlFSWNCa3Rla3U4X2JEaDdwQUo0UkthbkNsUjlveGVMaEJsTHk4aTZ4VVdKakfSAVJBVV95cUxPUjliSUZJak1MOGZ3YVNRTmhFZ19yR3pUan
+  🔗 https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iX2VzSXowRV94anA3NkVjQjBtZkJhbDlFSWNCa3Rla3U4X2JEaDdwQUo0UkthbkNsUjlveGVMaEJsTHk4aTZ4VVdKakfSAVJBVV95cUxPUjliSUZJak1MOGZ3YVNRTmhFZ19yR3pUanlScXhOY2xxMmwzekN0N3YyZXhwZWFVYkxuMUNhZGF4ZGpQQUFHYmhibWxhUXBMaFhB?oc=5
+- ⭐⭐ **[30점]** Новые правила госзакупок: как изменятся требования к стратегически значимым лека
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:10:55 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDRaYXkxZGNteXZHQTNpZTdoNy02aWNfQW5nSHg4d25tOWVMenBURkJxbWFka1RtQkFGMFo0ektaZnVsaVJ2RUgzaHRmRlJpME9La1N0RVlVaEU4Rm5ILU9RUlhjcnJ4Ri16RTdZVX
+  🔗 https://news.google.com/rss/articles/CBMitAFBVV95cUxNMDRaYXkxZGNteXZHQTNpZTdoNy02aWNfQW5nSHg4d25tOWVMenBURkJxbWFka1RtQkFGMFo0ektaZnVsaVJ2RUgzaHRmRlJpME9La1N0RVlVaEU4Rm5ILU9RUlhjcnJ4Ri16RTdZVXRTUnFsSkVMaW5lS0VjMGQzbENkdFFhb2o0bk1wZWw0RXlIeUVDNHg4eHE5LURGcGJRRERKamJHbmI1NXJQUTlXWjRwMVM?oc=5
+- ⭐⭐ **[30점]** Когда бесплатные лекарства поступят в медучреждения в новом году - Informburo.kz
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:43:34 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3Exald0VFdYLVJzVGtOWTlKQWpFdklHVTBjXzVkSTRNUlNiYTVDWUFLMk04WnZPNzZuVTM2UEZiZ1gtU1hhVEVSQW5LZzh5eWo5alcwYlMxcGN5eWVGcXE1UDh6MzY2LVBXbG5kYn
+  🔗 https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3Exald0VFdYLVJzVGtOWTlKQWpFdklHVTBjXzVkSTRNUlNiYTVDWUFLMk04WnZPNzZuVTM2UEZiZ1gtU1hhVEVSQW5LZzh5eWo5alcwYlMxcGN5eWVGcXE1UDh6MzY2LVBXbG5kYnlFdTlFSldkVDdKMGNobDdmcURrQllCYzljelF5SzgzUTgtM25yUVQ0UFZaXzk?oc=5
+- ⭐⭐ **[30점]** Чиновников в Приморье заставили обеспечить мужчину с эпилепсией лекарствами - pr
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 13:47:21 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJORUJJYk11NzNOVmtIQWRJQ0V2a1dQVm5QQTd4X2c2RkRyTHBNQXd4a3hEVHQ2QUI2VlpaUUNBQzlzcnpQZ0VJZmV5OXdGeXNsZ0ZPVFBfbkRVc1BCMHg1aE13ME95Umx5Ni0xcz
+  🔗 https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJORUJJYk11NzNOVmtIQWRJQ0V2a1dQVm5QQTd4X2c2RkRyTHBNQXd4a3hEVHQ2QUI2VlpaUUNBQzlzcnpQZ0VJZmV5OXdGeXNsZ0ZPVFBfbkRVc1BCMHg1aE13ME95Umx5Ni0xczJmN28yeU96STNnSTJKN2dRZkc5aTdKcTZ0cEpTQ2M0OUpvYXJFWTcwdi1IcEZxSzdDR0R5RnRRMExYRHc?oc=5
+- ⭐⭐ **[30점]** Новые правила работы аптек в 2026 году: кто сможет отпускать рецептурные лекарст
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 09:42:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUphX0NHVm5VZ3hUUldKYlJBRE5ITGlUck9IdE9kV1lTX3Z4N0xETjVRYTk1YkdVOXg3MERjbFlDMU9Mcm5tQ0NGbk1GY2dMckhDQ3ZWVU12OW5Lai15VnhsQzFhTVNCS2stUjFnbV
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUphX0NHVm5VZ3hUUldKYlJBRE5ITGlUck9IdE9kV1lTX3Z4N0xETjVRYTk1YkdVOXg3MERjbFlDMU9Mcm5tQ0NGbk1GY2dMckhDQ3ZWVU12OW5Lai15VnhsQzFhTVNCS2stUjFnbVlqQ2lzbVNaazFzbW5XdU9WRnNjZkhpbnZZMGZuZHRNdXBxV0otZXVoNE5WLXlOa0UtZG5DZ1Rhai1RVXh1d0NqX1hISHcwWDFuQWR1RzVxYTnSAcABQVVfeXFMTXlKYV9DR1ZuVWd4VFJXSmJSQUROSExpVHJPSHRPZFdZU192eDdMRE41UWE5NWJHVTl4NzBEY2xZQzFPTHJubUNDRm5NRmNnTHJIQ0N2VlVNdjluS2oteVZ4bEMxYU1TQktrLVIxZ21ZakNpc21TWmsxc21uV3VPVkZzY2ZIaW52WTBmbmR0TXVwcVdKLWV1aDROVi15TmtFLWRuQ2dUYWotUVV4dXdDal9YSEh3MFgxbkFkdUc1cWE5?oc=5
+
+### 🇯🇵 Japanese / 일본어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇨🇳 Chinese Simplified / 중국어 (1건)
+- ⭐⭐⭐ **[45점]** 借势进博 链接全球——河北省生物医药产业专题对接会在上海举办 - 河北广播电视台
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:36:52 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRTFSRURzcTVMVWx2Q0ZpS20xN0dUVlFaMnhaV3dxcGY1d1pJQ3VkZ3FaTWs0ajdiRmlxbnBGWHI0SFJqMklZUFU0UWJhMDFNamxKU3UwSG9SaUV1djFfbDlfdmM0UVFXUi0wWQ?oc=
+  🔗 https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRTFSRURzcTVMVWx2Q0ZpS20xN0dUVlFaMnhaV3dxcGY1d1pJQ3VkZ3FaTWs0ajdiRmlxbnBGWHI0SFJqMklZUFU0UWJhMDFNamxKU3UwSG9SaUV1djFfbDlfdmM0UVFXUi0wWQ?oc=5
+
+### 🇹🇼 Chinese Traditional / 대만 (1건)
+- ⭐⭐⭐ **[45점]** 新生兒呼吸窘迫症候群治療藥物INFASURF臨床應用與安全規範更新 - GeneOnline
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 09:39:53 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixAJBVV95cUxPMC1IVTc3dFN4cnRCYXlybGxyajJRakNyYmM1NEJpc1pqVFVWZHVKeUJUbGtQaDMxVlZfRVplRkFJTGcwemU3OXlCaTlSVWF2NmR2VnNRRUJ3aUpGWWFRWk9qX05UbEQ4MXVFRHlEbV
+  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxPMC1IVTc3dFN4cnRCYXlybGxyajJRakNyYmM1NEJpc1pqVFVWZHVKeUJUbGtQaDMxVlZfRVplRkFJTGcwemU3OXlCaTlSVWF2NmR2VnNRRUJ3aUpGWWFRWk9qX05UbEQ4MXVFRHlEbVFGeWpNRlFlMnVFWFNVS1RaLVVGTERnZWJXbjdZQklLOEtCZ29Cd3p5SGJSYzFySWdRa2pQWHc5Z1NnbDN3RUQ1OG9mV3BmdzBlMTBjVU1uQU1wNGNYV3hBaDEwUERjcHRtX2tRbndpU0ttdHNsZ0RCLXFYcnFjQ3ZHSVJiQURPeURJQTZpOGNueXh0aUlROXRsRFpNOTRQbnF1dWdxT0xDckZoVDN0Z2I1THVvdmZDd0xlLUFIRnBOMDg1Z04yWm5fbEZ1SDRpX24yNGtvM3FXX3RqNnA?oc=5
+
+### 🇻🇳 Vietnamese / 베트남어 (10건)
+- ⭐⭐ **[42점]** Y dược cổ truyền: Từ định hướng đến thực tiễn trong hệ thống y tế - kinhtemoitru
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:03:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2RybWM0ZUhoRHFocmpING5aN0lLUEJNb1E2OFpUZEhSQktoMUpoZzFmb1c5a0hKZ1B3NXNnaGJqMlZlTFE0cGpuaGdpY2RqWHFEYzRQWm5rRVU0VkFoWTJJQnpiNEdMeWVKMWZYMm
+  🔗 https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2RybWM0ZUhoRHFocmpING5aN0lLUEJNb1E2OFpUZEhSQktoMUpoZzFmb1c5a0hKZ1B3NXNnaGJqMlZlTFE0cGpuaGdpY2RqWHFEYzRQWm5rRVU0VkFoWTJJQnpiNEdMeWVKMWZYMmxscFg5eGFrakVIQ1NjWjhyUExoYmNNQkNzcWdKT2JWdmRVQVBPcnV3STFGdE5yVHpmWUFVMlhB?oc=5
+- ⭐⭐ **[42점]** Hơn 300 thầy thuốc tranh tài giải quần vợt ngành y tế Đồng bằng sông Cửu Long - 
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 10:06:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0ROZHRhZFhkaklFb0FncmY0SVdFRV9zRGkyRnludllwTjJDTlBxaGY1X1lSNTFlVG5ldHNpYkFucjY4d0o4VDZEcVlZTl94Rm9Oak1vNTJaeTZyT1V3UVBzczB6SHFNd2ljd3VneD
+  🔗 https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0ROZHRhZFhkaklFb0FncmY0SVdFRV9zRGkyRnludllwTjJDTlBxaGY1X1lSNTFlVG5ldHNpYkFucjY4d0o4VDZEcVlZTl94Rm9Oak1vNTJaeTZyT1V3UVBzczB6SHFNd2ljd3VneDlVbUFpN1ljbnNvVy1hRkZjX3p2NHc1djZISG40RnBOM0o1ODYyUUp5aFdtaXcydmV2TGdrZXJVZ05hSHg2QlBmc2JpeTI2dDhXTmpUZGt3?oc=5
+- ⭐⭐ **[42점]** Hơn 15 năm đồng hành cùng người nuôi thủy sản với nhiều sản phẩm sinh học, thảo 
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:02:50 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUZWMzNQV3k1T0Y5cjVIWW1oajU3Y29KZUIwVGhpLVBaOXdpYWpYWHhRbVpsMFdPakNDUDBHVFlUcjRKZ1hreW1GOUdBY0ZqMXlBTENob0NHWjRZWWV1eHMyQm1pNlhMUVNRNXBaTF
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUZWMzNQV3k1T0Y5cjVIWW1oajU3Y29KZUIwVGhpLVBaOXdpYWpYWHhRbVpsMFdPakNDUDBHVFlUcjRKZ1hreW1GOUdBY0ZqMXlBTENob0NHWjRZWWV1eHMyQm1pNlhMUVNRNXBaTFN3YUdQeW51SHMwOWVRejF1cFJaM1ZkNWxUd0RoeTFOMEpxUV9DbVQ3bW9TZDFyandGeC1FdWhqNmFzLTk3VW5NTUJGUFZSTkFZZUhCWG9tbmxXZDVK?oc=5
+- ⭐⭐ **[42점]** Thầy thuốc trẻ thúc đẩy ứng dụng tiến bộ y học trong điều trị ung thư - Vietnam.
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:34:53 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1M4aWtGMGtaZGFXQnFxbUFSc2s2U1pLWERyQ2UyenRyeFJFcXFFRHN0Q003UFpKY0VKX2NfelNuUUQxY3EydE5sOHhOY0U1N1NfZkFrSHFTOGM0T085dmFhR1lwRm5ydFBiRVFYYn
+  🔗 https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1M4aWtGMGtaZGFXQnFxbUFSc2s2U1pLWERyQ2UyenRyeFJFcXFFRHN0Q003UFpKY0VKX2NfelNuUUQxY3EydE5sOHhOY0U1N1NfZkFrSHFTOGM0T085dmFhR1lwRm5ydFBiRVFYYnZwdTVkRG44Yktzajd0R2hJdXFyWlQxaW1DWG1FTUY1LUhXbnVHUDBN?oc=5
+- ⭐⭐ **[42점]** Hội Đông y tỉnh tổ chức hội nghị cống hiến cây thuốc nam, kế thừa bài thuốc gia 
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:11:27 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkYxbC1tTkd4TzJkdmR4a01kSUdJMDdaOXFHelNqb1NKV09kUUVVRVBPYmpITjVDM01ROEd5V3BGNnZjbHNfZF80ZWxCMDNVVlI1VmRheTQwMzZKcDJxNG9xRDFpN29TZEVubFpIcT
+  🔗 https://news.google.com/rss/articles/CBMivAFBVV95cUxNNkYxbC1tTkd4TzJkdmR4a01kSUdJMDdaOXFHelNqb1NKV09kUUVVRVBPYmpITjVDM01ROEd5V3BGNnZjbHNfZF80ZWxCMDNVVlI1VmRheTQwMzZKcDJxNG9xRDFpN29TZEVubFpIcTNUdVBlOWZvWHVWVmw3ckgtV1RNN1dENTVpdjRrMXdLQzJkeGtGZ1VVSHc1cXpwaklOLVdFUGhJdGNsVExIVHRSd3hOc2xMNHZzdUFFdg?oc=5
+
+### 🇹🇭 Thai / 태국어 (3건)
+- ⭐⭐ **[43점]** 'GSK' บริษัทชีวเภสัชภัณฑ์ระดับโลกร่วมสธ. ขยายลงทุนวิจัย 1,500 ล้าน - bangkokbizn
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 08:36:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE0xaWJqZWFfRVdtQjJzLWxSVThoekhiNzM2VnV6MWtRVXY4N3B2ZmFCcHRGSkt2YzdUblZYZGhGMGNPdUNUcGVxVTF5Wk8xMWJDLXJ6Um5YVjA1MGZicXZ3dU5pa1dXTlVwWjB3?oc=5"
+  🔗 https://news.google.com/rss/articles/CBMia0FVX3lxTE0xaWJqZWFfRVdtQjJzLWxSVThoekhiNzM2VnV6MWtRVXY4N3B2ZmFCcHRGSkt2YzdUblZYZGhGMGNPdUNUcGVxVTF5Wk8xMWJDLXJ6Um5YVjA1MGZicXZ3dU5pa1dXTlVwWjB3?oc=5
+- ⭐⭐ **[38점]** รับมือ PM2.5 เปิดเทอมใหม่ สธ.-ศธ. คุมเข้มมาตรการ 4 ระดับสี - Thansettakij
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 10:55:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DVVVhNHFDRGxRaDlYcWd0UFpNVkp0OXBIdWhUZXNHWWFkRm83aTdJU201cWIwZEdTTVltTXhtZDdwWE5DLVpLMXpJQVZOV24yMVUtU1dVYkQ5V3BM?oc=5" target="_blank">รับ
+  🔗 https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DVVVhNHFDRGxRaDlYcWd0UFpNVkp0OXBIdWhUZXNHWWFkRm83aTdJU201cWIwZEdTTVltTXhtZDdwWE5DLVpLMXpJQVZOV24yMVUtU1dVYkQ5V3BM?oc=5
+- ⭐⭐ **[35점]** รัฐบาลลุยสอบเข้มร้านกัญชา 12,279 แห่ง ฝ่าฝืนเงื่อนไขสั่งปิด 30-90 วัน! | The Ban
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 08:29:36 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVkhuQV9xVllSNkN2WWU2UkZxN2lBNlYwaWc1VF8yVHF0NTJiQzQ3MzBLcjZ4TFFHRU1WemZpdm5PVUxwSGJRMG1OeWtPck8tX01tSlVB?oc=5" target="_blank">รัฐบาลลุยสอ
+  🔗 https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uVkhuQV9xVllSNkN2WWU2UkZxN2lBNlYwaWc1VF8yVHF0NTJiQzQ3MzBLcjZ4TFFHRU1WemZpdm5PVUxwSGJRMG1OeWtPck8tX01tSlVB?oc=5
+
+### 🇮🇩 Indonesian / 인도네시아어 (5건)
+- ⭐⭐⭐ **[55점]** Perusahaan Farmasi Menuju Era Produksi Obat Lebih Presisi Di Luar Angkasa - Vali
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 09:07:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlN2ZnZHelpIclhRLUF2UVZFQ0s1WTlLT0dsYVN1aC1Tb3BSTmZTVnQ3VTZMWDNYTlBqSDhYM0RWLWc1aHRBZ0lYSmVSU3JmMG9ROGRqUzAwdnliVV9ZLUM4OFJUWDlhYWN4OEd6az
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlN2ZnZHelpIclhRLUF2UVZFQ0s1WTlLT0dsYVN1aC1Tb3BSTmZTVnQ3VTZMWDNYTlBqSDhYM0RWLWc1aHRBZ0lYSmVSU3JmMG9ROGRqUzAwdnliVV9ZLUM4OFJUWDlhYWN4OEd6azE1enFYTUViSlczejdCQjYtRzhvSE5mWXg1SEYxd2VLQVZiNGR0UGxpT0F0dlZfXzVZbXkyRDZHWTgyUWJWTGkwWXhaZDBBckIzMGlUWU96X3E?oc=5
+- ⭐⭐⭐ **[50점]** Dari Riset Biomedis hingga Farmasi, Ilmuwan asal Indonesia Diakui Dunia - MetroT
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:01:17 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUh4ZTBwWU54WERmX2lSODR0cFJHMUNGbzNiYVYxeUs0UFktejVRTHE5dUxBenl4elBQVjVBNTVZcmN0UmVURXFIMUgxOEtCTThZbzRQdUJzQWtJRlNrdDM1RGFmZ202bnMzTUJsd0
+  🔗 https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUh4ZTBwWU54WERmX2lSODR0cFJHMUNGbzNiYVYxeUs0UFktejVRTHE5dUxBenl4elBQVjVBNTVZcmN0UmVURXFIMUgxOEtCTThZbzRQdUJzQWtJRlNrdDM1RGFmZ202bnMzTUJsd0FqZHVaaERIZGdKQVFMM3J6ODBNWmZYRWNqWXVQVjhENU1HQV9RWWVNa3VIeUsyRlhtdk42STFQLXlXcjUyQkwzNkZ3?oc=5
+- ⭐⭐⭐ **[50점]** Tingkatkan Kompetensi SDM Farmasi, GPFI Papua Gelar Workshop Beyond Talking Orde
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:10:13 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUQxMXJiOW9KWmJqWnpIcVZSVzNuR0h6UVdWOFpvQmlLUlNoMU5ER2U1MmtFc1BxZ1J6aWNnNEozVFI3azl0Rm5VVVUyR08ySktvUGIzSTY4czk3SHFoN0o3MHRsUmdpV0ZSd2pQam
+  🔗 https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUQxMXJiOW9KWmJqWnpIcVZSVzNuR0h6UVdWOFpvQmlLUlNoMU5ER2U1MmtFc1BxZ1J6aWNnNEozVFI3azl0Rm5VVVUyR08ySktvUGIzSTY4czk3SHFoN0o3MHRsUmdpV0ZSd2pQamZid0VZX1ZPOC1HcGV5dEpMcDhUcjhOSGFLVGR0MjEyZWktemo1VEJrTXo2YjV0cTk4cm1VUzlLbTQ0SnZX?oc=5
+- ⭐⭐ **[40점]** Teknologi Blockchain untuk Memberantas Peredaran Obat Palsu - RRI.co.id
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 13:26:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlVQdmJDR3BYbDBEWEI1V1VVNGhzXzZCcXBCTjV4NUgyN2taRGt4UjV4dWprMWoydS1XbVBkUU4zTWQ2NmszaDZDTlZGc3VtczZUZkJfQ0xZM1NLaS1FNERKWXlCMEtKN3VySmhKVn
+  🔗 https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlVQdmJDR3BYbDBEWEI1V1VVNGhzXzZCcXBCTjV4NUgyN2taRGt4UjV4dWprMWoydS1XbVBkUU4zTWQ2NmszaDZDTlZGc3VtczZUZkJfQ0xZM1NLaS1FNERKWXlCMEtKN3VySmhKVnZKVF9rZkpFTFdraDFmV2FwVWlsc1FvQ3Y5TXE5VlpJcnk4UnRXVVk1YndPS0otWG0z?oc=5
+- ⭐⭐ **[40점]** Polrestabes Bandung Tangkap Pemasok Utama Obat Ilegal, Barang Bukti Tembus 1 Jut
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 13:30:00 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkRCN2d1bXJxdDdSdWs1dTMzQWQxUlFQazUxNFFyNnJPM3liWExDdVlueUQteUZPc3JHSkI0ZVBON2pCUXk5RW1wX2JKazBuVWJBY05QVDFEOWpVSkRNUXF1dlR5Mk1iV0puSmxmck
+  🔗 https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkRCN2d1bXJxdDdSdWs1dTMzQWQxUlFQazUxNFFyNnJPM3liWExDdVlueUQteUZPc3JHSkI0ZVBON2pCUXk5RW1wX2JKazBuVWJBY05QVDFEOWpVSkRNUXF1dlR5Mk1iV0puSmxmckpDSnFpREpCNWF0V2FhOUVMazhGcEVBVjBaQlZ6SUt4a3h0c2VsTDhZWkNxaHYyTHFNeTYzcWZXZXU4NlI0MExtSFRPWjRpNTE1azBid3VtUmtGX25j?oc=5
+
+### 🇮🇳 Hindi / 힌디어 (7건)
+- ⭐⭐⭐ **[55점]** भारतीय दवा उद्योग उच्च मूल्य वाली दवाओं के उत्पादन पर दे रहा जोर : विशेषज्ञ - Th
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:49:38 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHpuUVQ3QkJ5d0xBQlNDc3dObHpXVnhlSjk0dzNDbm1ubUdEN0pxZGM3bjRpMkxEVE9PX3Vib2Z6Z3BGYktPSU1SRjBWdVdKaGh0YmFSckxRdlIzT1lHdTc0SU00MFVVcFNuWjNnal
+  🔗 https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHpuUVQ3QkJ5d0xBQlNDc3dObHpXVnhlSjk0dzNDbm1ubUdEN0pxZGM3bjRpMkxEVE9PX3Vib2Z6Z3BGYktPSU1SRjBWdVdKaGh0YmFSckxRdlIzT1lHdTc0SU00MFVVcFNuWjNnalFHU2tTcDNSdExVZHpiV0dSYjk2eFkzZHVKczd5alRWRGFFU3dMUUpacDJwT1U2VUhKVzdsdkQ5dS1TN1VVOUhpT1ZaaG91Z3FpazlNYWxsMzZsQWlXLWlOSEd30gHPAUFVX3lxTE9DeWpkNW91R0dNOFBmWkFWekMyc0ZLTzBnaEs1c0didElKOUF6SEpENWxkWFNJc0hTbUFld04tTGgtblVEak1ZellhTG9OeWFyMW1JdkxLTkQyR3R6QV8zdTFJejEzRW9nMHlQZzRBT3hzTWRSZlAxZ19MUklIajdQeEJGZ2xTdkszZWdxeXZqQjczYzVGZUpHQ2NqRm5JbVo1aFpXNmZyWVhwZ1V1cUQ5aW0zaW84ZGVNZE4tbGpBTVBEaWRPeUFJdUpRMTdkZw?oc=5
+- ⭐⭐ **[40점]** इंदौर से दुनिया तक पहुंचेगी MP की दवाएं: फार्मा एक्सपोर्ट बढ़ाने की तैयारी, देश 
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 12:15:49 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOE00ZlFia1llTFI0SjhINTNZaklsSlZ4MEZBeEVPc01xN2RISC1nM1hmdVhyd2pqQk5tRFUwQUJmZGpGbUFDSkRMaElMdkhIYkstNERNRm14eU13N0hVTDd6bXVqMWFBMGZnUm1NOW
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOE00ZlFia1llTFI0SjhINTNZaklsSlZ4MEZBeEVPc01xN2RISC1nM1hmdVhyd2pqQk5tRFUwQUJmZGpGbUFDSkRMaElMdkhIYkstNERNRm14eU13N0hVTDd6bXVqMWFBMGZnUm1NOW54S25jem9xTm9JSHZlNlVCT3FtUl84dkVLejJNRGtia2YzMk9mLTV3d253RjRscER2anVjU05jTlQ3eHVodDVHVjlYeVFLcGNsRER2NEdMZ2jSAcYBQVVfeXFMTWhINDAydmFtczFTNnRyS0ZMdm9MRjZ1RW56elJXUWpsMVNxR3VBWlloQml0dXNMVkE3NDdQVkh6Y3BRZE9JdnF2UzZoT01kUnpoemxULUcyNkZYZU5hcHhwSVg1TUlDWUZSdGhWQnJSWU02ZFN2MEtZeHNHRGR0cGd5OUdhQXNweHF3LUtTOFE0cGtBUjY3UUNEWVRYQl8wMGJnV1V3WnJBWWFZWjk5SEY4Y19yUTVmTGczbHRiMldYVkJJLU1B?oc=5
+- ⭐⭐ **[40점]** गया- दवा कंपनी के दो अफसर शराब के साथ गिरफ्तार: चेकिंग में कार से मिली बोतल, क्ल
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 14:34:20 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG8tYS1FVTFhV0xzTnJBZmlsR3dReENHbHE4UXZsMzV1b2RncnVvUDdZSE1yRFhEczVhX3NhWUNOSW5TTVZPU2o2QTk5cHA4X1gyNFV5TGVfREU5Q0JCajJpMHBWN1FoNDFjcTVkUD
+  🔗 https://news.google.com/rss/articles/CBMixgFBVV95cUxOZG8tYS1FVTFhV0xzTnJBZmlsR3dReENHbHE4UXZsMzV1b2RncnVvUDdZSE1yRFhEczVhX3NhWUNOSW5TTVZPU2o2QTk5cHA4X1gyNFV5TGVfREU5Q0JCajJpMHBWN1FoNDFjcTVkUDRRMzJ0bmJOWjk1U3dDN0ZvR045Rm9VcHJpQjRZQ3EtLXVpS3A0czNmUnFLaThNOHB2RjlHRkNkMFZQSU15dGp5ajdHbXdNcWJWV2tQc3hMRVFNOWpEd3fSAcsBQVVfeXFMTVBPQldtWFItWHNFUE5fRHVwaFpKdFBScTNPbE5kZ1lCb0x3M3Z3UVpQSHpDeVlwVUFHZml4TnVfSFlRNnpLNWFrUlYtRW8yTzJDY0dMc0JNZEJraExaalh2cTlRTnZKWkdha0U0aUNSSDdLb0hqa2VWc2N5VVctZWQxWjVHWHVyeEtWbGlFWVdsdHhrUGp1Zl95eWRQYy1hUzNtN09BUHJSSnJubGMzc0xkanhEOEM4U2pWNllFNDcyckZHZzMxTDZSa00?oc=5
+- ⭐⭐ **[35점]** New Delhi : कैंसर की 1000 से ज्यादा दवाइयां होंगी सस्ती, 9 नवंबर से लागू होंगी न
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 13:01:04 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzZwc3JJWmZTaHl0OG1rMl9weHpXaTZmUGRmLXBfVDVkSlIweGd3ZkhKN1p3Sldud0FlY05HRzFxcWJldk1CMkFCVEtkLV9PQ09Da0ZGTmkydVhRYmVheXREdVlpeHFpckg3SGhBR3
+  🔗 https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzZwc3JJWmZTaHl0OG1rMl9weHpXaTZmUGRmLXBfVDVkSlIweGd3ZkhKN1p3Sldud0FlY05HRzFxcWJldk1CMkFCVEtkLV9PQ09Da0ZGTmkydVhRYmVheXREdVlpeHFpckg3SGhBR3BYRUwxTmEzT1JQenpXcllwd0dHbGFla19OSTdqSVBVbXVJSmlneW84WkVZb1Y4U1ZJM0pLWV9VeWNHNk9UUFNwOVFGM0FUeUVsaDNXVWJ6TEY?oc=5
+- ⭐⭐ **[35점]** Cancer Drug Price Cut: 120 दवाएं सस्ती, ₹3,357 करोड़ बचत - Dainik Rajeev Times
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 11:08:29 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE54dExMY1FYei15WXhYNUw5U0l5Q2pJLW5Dbk1waC1tcGFUQVFtM3g0c3ZBLXBRRmdXZm9wNFZERWd3NG1yMXpEZlRTYmR5M01uMG1MQ3FqX2l3Z2gtR2xVNEtSc1hJTVl1NXlxeUdSSn
+  🔗 https://news.google.com/rss/articles/CBMif0FVX3lxTE54dExMY1FYei15WXhYNUw5U0l5Q2pJLW5Dbk1waC1tcGFUQVFtM3g0c3ZBLXBRRmdXZm9wNFZERWd3NG1yMXpEZlRTYmR5M01uMG1MQ3FqX2l3Z2gtR2xVNEtSc1hJTVl1NXlxeUdSSndlQ3JqeDNmR1V1WWlpSTg?oc=5
+
+### 🇸🇦 Arabic / 아랍어 (7건)
+- ⭐⭐ **[40점]** هيئة الدواء: 91% من احتياجات السوق تعتمد على التصنيع المحلي.. وتصدير الأدوية لـ1
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 20:35:50 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tWmxNRkNFWExwNE4tbDYzWDl6QXl1U1hyNi0zV29sN296eUJqdkFYNFBTYm9OSDdjQ2VvYUp6aGZ2dDFOZFE?oc=5" target="_blank">هيئة الدواء: 91% من احتياجات الس
+  🔗 https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tWmxNRkNFWExwNE4tbDYzWDl6QXl1U1hyNi0zV29sN296eUJqdkFYNFBTYm9OSDdjQ2VvYUp6aGZ2dDFOZFE?oc=5
+- ⭐⭐ **[40점]** هيئة الدواء المصرية: 91% من احتياجات السوق المحلي تُغطى بالصناعة الوطنية.. ولا ز
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 20:05:12 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNX082Nm5sUWlvVFlhaGQ3MHRxN0RZbjQ3OHZtVHRCQm5WaHRzajNvc2RlSVdRLU81NGtfSzBxbF83LUF6SFB4bTRkSkNNYi1YaVVKSGdhUHJRR0xlWTAxdlQtdUhianZEWnI5dkJKT1
+  🔗 https://news.google.com/rss/articles/CBMilAFBVV95cUxNX082Nm5sUWlvVFlhaGQ3MHRxN0RZbjQ3OHZtVHRCQm5WaHRzajNvc2RlSVdRLU81NGtfSzBxbF83LUF6SFB4bTRkSkNNYi1YaVVKSGdhUHJRR0xlWTAxdlQtdUhianZEWnI5dkJKT1docVpCbTVxRnRHbXJ6YzNZYk5xa2JFeDZGb01XeEROSWlxRGdi?oc=5
+- ⭐⭐ **[35점]** سوق آلات إحكام إغلاق الصواني حتى 2035: طلب الأغذية الجاهزة والأتمتة يقودان النمو
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 16:56:03 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzktaEVvejZsb3ZWXzc4S2lESFlQQm85UXNzb2lwaVBMM3FQTm5URE15cGRybExzNUJ1aXlpQkxrVUh2UG95anJwdTA2YzFQMmgxejg0d2tyOE8tS2pyb3ZoeDdBckE2NzZ1T2NTUl
+  🔗 https://news.google.com/rss/articles/CBMizwFBVV95cUxOYzktaEVvejZsb3ZWXzc4S2lESFlQQm85UXNzb2lwaVBMM3FQTm5URE15cGRybExzNUJ1aXlpQkxrVUh2UG95anJwdTA2YzFQMmgxejg0d2tyOE8tS2pyb3ZoeDdBckE2NzZ1T2NTUlhiUDBNU1RYd1dBaUxrbzMwbWVLTnZlY0J0cG5Fdkl3Z3BhcG1CcUdiS3NHOThDeWxNSF9PMnlIRzQydVY5blhhTi0wTnJtWlo4OFVLV0F0VHlLY0RGeDhabE1FTjhvalE?oc=5
+- ⭐⭐ **[35점]** هيئة الدواء: 91% من احتياجات السوق تعتمد على التصنيع المحلي وتصدير الأدوية لـ174
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 20:37:26 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMiygJBVV95cUxOUUE0bjlKRDNkOG1IeWRUcm9oMExSQU9CSS1xNWVsVDFHUk9XSHczX0w3YTJrNkx6R3dsV0N0Z3dadUk0RXpKc2NuS0xfeFFiRmhnWkNOM2w1bUlHU3N4VjctTXA5dkJfYi1PQ2FkS1
+  🔗 https://news.google.com/rss/articles/CBMiygJBVV95cUxOUUE0bjlKRDNkOG1IeWRUcm9oMExSQU9CSS1xNWVsVDFHUk9XSHczX0w3YTJrNkx6R3dsV0N0Z3dadUk0RXpKc2NuS0xfeFFiRmhnWkNOM2w1bUlHU3N4VjctTXA5dkJfYi1PQ2FkS1RCcl9IRUhOc3FqUUI3NS11UFRvZENvS1pwZVJ2SElvNDRXRVFnU0hDTWh5ZllpTUQ4elhqMllKcXVWcTZWeXMzLV9SZGNWc3BQSWRtaWNyOUdIR0JOdFZyUTQyRzJUVVRNMGhiZXp0OVI5M2VyVEo3M2JDMWVZeTJSdDdvZWlOMWpfRlZRRUxIZkJ2bzAwYk43eTJsMzhvMTNzRmc1Q2t6eTZHRHo4eHZpdmNIQnZlaVo5LV93aEJXRDlSRlp3Wm02cXgwZXU5NlFoMUxfeDQ4TDlXTzBGcVhRREE?oc=5
+- ⭐⭐ **[30점]** هيئة الدواء: مصر تصدر مستحضراتها إلى 174 دولة وتغطي 91% من احتياجات السوق محليًا
+  📰 출처: -
+  ⏫ 업로드: Sat, 07 Nov 2026 20:46:16 GMT | ♻️ 갱신: -
+  🧾 요약: <a href="https://news.google.com/rss/articles/CBMixAJBVV95cUxPQmMtak02dkdaVTdoRTFOTTdNQURocGx6cjRtbnI1cHdDa3VFVzlENFBmSDlYaXdkekhjZDFCQldoUVJCVzdQd21UVXFmMmJsT1IwTE85ZU5HZ0xmSzVGek1GdXBZa2JCVWRUeXBxTj
+  🔗 https://news.google.com/rss/articles/CBMixAJBVV95cUxPQmMtak02dkdaVTdoRTFOTTdNQURocGx6cjRtbnI1cHdDa3VFVzlENFBmSDlYaXdkekhjZDFCQldoUVJCVzdQd21UVXFmMmJsT1IwTE85ZU5HZ0xmSzVGek1GdXBZa2JCVWRUeXBxTjZfdV92eWdDcE4xMW9iczNieUNtOHBWTGcyb1dRY3FWVjRqZ1pqNkVSYW41UnBwNXdjUGZPUXJkenRjRzVWVEhCOUtrVTBzaExtV3psb2JGOS1WYk1HZksyOXdOUHp4RnpodEpvU0QwNUZjLU5HTU9BLUtIUkpMTFJxQ054M29QVGJ4REt0UEo5TlBMOXVNQVF6V0FQakYxeDFPTzBUT1QzanFXVzNKWHJRN3B1ZjltMUczb0V3QlByd1hwUEJVS1QwV096RmNKal9fbTVfSFVEdEQ0dkY?oc=5
+
+### 🇮🇱 Hebrew / 히브리어 (0건)
+- _(수집된 뉴스 없음)_
+
+### 🇮🇷 Persian / 페르시아어 (0건)
+- _(수집된 뉴스 없음)_
+
+---
+## 📊 수집 통계
+### 🇰🇷 한국어 (117건)
+- 의약품: 25건 (평균 31점)
+- 의약산업: 12건 (평균 32점)
+- 의약정책: 4건 (평균 28점)
+- 의약단체: 15건 (평균 27점)
+- 의약관련정부기관: 15건 (평균 35점)
+- 의료현장: 12건 (평균 27점)
+- 약국·약사: 3건 (평균 40점)
+- 의료정책·인력: 11건 (평균 26점)
+- 전통의학: 3건 (평균 46점)
+- 감염·보건: 17건 (평균 28점)
+### 🌐 영어 (65건)
+- Drugs & Therapies: 16건 (평균 31점)
+- Pharma Industry: 18건 (평균 35점)
+- Pharma Policy: 12건 (평균 34점)
+- Pharma Associations: 14건 (평균 32점)
+- Regulatory Agencies: 3건 (평균 48점)
+- Traditional & Complementary Medicine: 2건 (평균 35점)
+### 🌏 다국어 (54건 / 20개 언어)
+- French / 프랑스어: 0건
+- German / 독일어: 0건
+- Spanish / 스페인어: 2건 (평균 44점)
+- Italian / 이탈리아어: 2건 (평균 41점)
+- Portuguese / 포르투갈어: 4건 (평균 38점)
+- Dutch / 네덜란드어: 0건
+- Swedish / 스웨덴어: 0건
+- Polish / 폴란드어: 0건
+- Turkish / 터키어: 2건 (평균 39점)
+- Russian / 러시아어: 10건 (평균 28점)
+- Japanese / 일본어: 0건
+- Chinese Simplified / 중국어: 1건 (평균 45점)
+- Chinese Traditional / 대만: 1건 (평균 45점)
+- Vietnamese / 베트남어: 10건 (평균 39점)
+- Thai / 태국어: 3건 (평균 38점)
+- Indonesian / 인도네시아어: 5건 (평균 47점)
+- Hindi / 힌디어: 7건 (평균 37점)
+- Arabic / 아랍어: 7건 (평균 34점)
+- Hebrew / 히브리어: 0건
+- Persian / 페르시아어: 0건
+
+**📊 총계: 236건**
+**💾 저장:** `/home/wizmasia/workspace/mywiki/news/pharmascope/daily/2026-11-08/`
+**🔗 GitHub:** https://github.com/WizMasia/pharmascope-news
+**⚡ 수집:** 2026-11-08 06:30 KST | Google RSS Main + Browser Resolution

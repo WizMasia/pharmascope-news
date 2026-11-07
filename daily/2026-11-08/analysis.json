@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-08",
+  "total_articles": 236,
+  "language_breakdown": {
+    "korean": 117,
+    "english": 65,
+    "multilingual": 54
+  },
+  "issues": [],
+  "cross_language_issues": [
+    {
+      "keyword": "허가",
+      "kr_count": 11,
+      "en_count": 2,
+      "significance": "low; keyword overlap only, no clustered articles"
+    }
+  ],
+  "notable_absences": [
+    "클러스터가 생성되지 않아 주요 이슈를 통계적으로 묶을 수 없음"
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-11-07T22:31:31.505105+00:00"
+}

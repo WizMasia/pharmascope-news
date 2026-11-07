@@ -1,0 +1,528 @@
+{
+  "date": "2026-11-08",
+  "total": 236,
+  "version": 1,
+  "generated_at": "2026-11-08T06:30:55.721447+09:00",
+  "korean": {
+    "total": 117,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 12,
+      "의약정책": 4,
+      "의약단체": 15,
+      "의약관련정부기관": 15,
+      "의료현장": 12,
+      "약국·약사": 3,
+      "의료정책·인력": 11,
+      "전통의학": 3,
+      "감염·보건": 17
+    },
+    "top_articles": [
+      {
+        "title": "안국약품, 셀비온과 방사성의약품 혁신신약 개발 추진",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:145위+2",
+        "snippet": "안국약품(대표 박인철)이 방사성의약품 전문기업 셀비온(대표 김권)과 업무협약(MOU) 체결 이후 후속 실무 협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=334861"
+      },
+      {
+        "title": "셀트리온부터 종근당까지…국내 제약사 유럽 공략법도 각양각색",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:71위+2",
+        "snippet": "스위스에서는 마크로젠과 프리클리나가 바젤을 중심으로 유럽 연구&#183;바이오헬스 생태계와의 접점을 넓히고 있다. 마크로젠은 유전체 시퀀싱과 유전자 검사 등 유전체 분석 서비스를 제공하며, 마크로젠 유럽 법인을 거점으로 현지 연구기관 및 제약바이오 기업과 협력을 확대하고 있다. 프리클리나는 면역계 질환에 특화된 비임상시험수탁기관 (CRO)으로, 인간화 모델",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548315"
+      },
+      {
+        "title": "대한한약사회 &quot;한약사 피해 구제 위한 정부 대책 촉구&quot;",
+        "source": "국제뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:국제뉴스+10 | 최신:12시간+15 | 키워드+20 | 순위:16위+5",
+        "snippet": "(서울=국제뉴스) 김서중 기자 = 대한한약사회는 9일 오전 11시 국회 정문 앞에서 한약사 피해 구제를 위한 규탄대회 및 협의체 구성 촉구대회를 개최한다. 이번 행사에는 현직 한약사, 한약학과 교수, 학생 등 약 400명이 참여할 예정이다.이번 대회는 1994년 한약사 제도 도입 이후 30년 넘게 한의약분업이 이행되지 않은 상황과 관련 제도적 문제, 현장 ",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744925"
+      },
+      {
+        "title": "독감에 코로나까지 '트윈데믹'… &quot;고령층, 코로나 아직 무섭다&quot;",
+        "source": "조선비즈",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:조선비즈+28 | 최신:1일+10 | 키워드+10 | 순위:100위+2",
+        "snippet": "독감에 코로나까지 트윈데믹 고령층, 코로나 아직 무섭다 국내 80세 이상 사망률, 60대의 33배 日 사망자 한 해 3만5000명부모님 여행 전 백신부터 65세 이상 코로나 백신 접종, 내년 6월까지 무료 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://biz.chosun.com/science-chosun/science/2026/11/06/MRRDQOJYMU2WEMRQGY2GKZRSGA/"
+      },
+      {
+        "title": "[보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련",
+        "source": "한국사회복지저널",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한국사회복지저널+10 | 최신:11시간+15 | 키워드+20 | 순위:83위+2",
+        "snippet": "식약처, ‘연조직고정용장치 허가&#183;심사 가이드라인(민원인안내서)’ 마련- 제품 개발 추세 맞춰 구조, 삽입방식 등에 따른 성능평가 필요 항목 제시식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 건(힘줄)&#183;인대 등 연조직을 뼈에 고정하기 위해 사용하는 의료기기인 연 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.ksw-news.com/news/articleView.html?idxno=3057988"
+      },
+      {
+        "title": "눈에 띠는 실적 올리고 있는 제약바이오, SK바이오팜&#183;파마리서치",
+        "source": "메디파나 뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:72위+2",
+        "snippet": "SK바이오팜과 파마리서치가 자사가 개발한 블록버스터로 해마다 눈에 띠는 경영 실적을 내고 있다. 자체 개발 제품인데다 해외시장이 나날이 확대되고 있어 영업이익이 독보적인데다 앞으로도 지속적인 성장이 예견된다. 하지만 중장기적인 성장 구조를 위해선 기존 블록버스터 제품 외에 이를 이을만한 후속 포트폴리오를 갖추는 것이 중요해보인다. 국산신약 엑스코프리로 연간",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421163"
+      },
+      {
+        "title": "한약사회, 감기약 필로폰 제조 연루 회원 '엄중 징계'",
+        "source": "글로벌뉴스통신GNA",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:글로벌뉴스통신GNA+10 | 최신:1일+10 | 키워드+20 | 순위:17위+5",
+        "snippet": "[서울=글로벌뉴스통신]대한한약사회 (회장 임채윤)가 최근 일반의약품인 감기약을 악용한 필로폰 제조 사건에 일부 회원이 연루된 것에 대해 깊은 유감을 표하며, 관련자에 대한 무관용 원칙과 엄중한 징계를 예고했다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=503275"
+      },
+      {
+        "title": "최광훈 대약 총회의장, 아시아약학연맹 특별공로상 수상",
+        "source": "데일리팜",
+        "importance": 44,
+        "stars": "⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+5 | 순위:16위+5",
+        "snippet": "대한약사회(회장 권영희)는 지난 5일 태국 방콕에서 열린 제31차 아시아약학연맹(FAPA) 총회 개회식에서 최광훈 총회의장이 특별공로상(Distinguished Contributor Award)을, 손의동 중앙대학교 약학대학 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.dailypharm.com/user/news/344290"
+      },
+      {
+        "title": "감기약 63만정, 필로폰 제조 일당에…의약품 대량 유통관리 '도마'",
+        "source": "약업닷컴",
+        "importance": 44,
+        "stars": "⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+5 | 순위:18위+5",
+        "snippet": "슈도에페드린 함유 감기약이 필로폰 제조에 악용된 사건을 계기로 의약품 대량 유통&#183;판매관리 문제가 불거지고 있다. &#169;AI 생성 이미지슈도에페드린 성분 감기약 63만여 정이 필로폰 제조 일당에 공급된 사건을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=334850"
+      },
+      {
+        "title": "약사회 비대위, 창고형약국 후속 입법&#183;현장 대응 강화",
+        "source": "약사공론",
+        "importance": 43,
+        "stars": "⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:17위+5",
+        "snippet": "비대위는 창고형약국 관련 입법 성과를 점검하고, 개정 약사법의 실효성 확보를 위한 후속조치와 불법 개설&#183;운영에 대한 대응을 강화하기로 했다. 대한약사회 (회장 권영희) 국민건강권 사수 비상대책위원회는 4일 제9차 운영위원회를 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548310"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        14
+      ],
+      [
+        "허가",
+        11
+      ],
+      [
+        "임상",
+        11
+      ],
+      [
+        "식약처",
+        7
+      ],
+      [
+        "심사",
+        6
+      ],
+      [
+        "비만",
+        5
+      ],
+      [
+        "한약",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "급여",
+        2
+      ],
+      [
+        "FDA",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "생약",
+        1
+      ],
+      [
+        "항암",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        5
+      ],
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "약사공론",
+        4
+      ],
+      [
+        "데일리메디",
+        3
+      ],
+      [
+        "청년의사",
+        2
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        2
+      ],
+      [
+        "국제뉴스",
+        2
+      ],
+      [
+        "팜뉴스 on MSN",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "한국사회복지저널",
+        2
+      ],
+      [
+        "지디넷코리아 on MSN",
+        1
+      ],
+      [
+        "e-science",
+        1
+      ],
+      [
+        "financialpost",
+        1
+      ],
+      [
+        "더퍼스트미디어",
+        1
+      ],
+      [
+        "스트레이트뉴스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 65,
+    "categories": {
+      "Drugs & Therapies": 16,
+      "Pharma Industry": 18,
+      "Pharma Policy": 12,
+      "Pharma Associations": 14,
+      "Regulatory Agencies": 3,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "FDA Drug Approval Process: CDER Regulatory Guide - CASRAI",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 11:28:55 GMT+5 | 키워드+30 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5\" target=\"_blan",
+        "published_time": "Sat, 07 Nov 2026 11:28:55 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 11:28:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5"
+      },
+      {
+        "title": "Hims & Hers Health (HIMS) Adds FDA Approved Obesity Drugs To Its Platform - Yahoo Finance Singapore",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 17:11:34 GMT+5 | 키워드+25 | 순위:11위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW52UGxtRWE2ZXZVcWprMklwdlI2dFdFMlJRekxNLXJPdEZJQmFOZ00xT2lsM0VCWEJRRk83UldpZEhwSmlST2ZwYXJWU2F4UjVaTEJUNTl0cmVFUTVDZDlmTW1WQ2E3YnJTdEZVLT",
+        "published_time": "Sat, 07 Nov 2026 17:11:34 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 17:11:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNW52UGxtRWE2ZXZVcWprMklwdlI2dFdFMlJRekxNLXJPdEZJQmFOZ00xT2lsM0VCWEJRRk83UldpZEhwSmlST2ZwYXJWU2F4UjVaTEJUNTl0cmVFUTVDZDlmTW1WQ2E3YnJTdEZVLTdlSnpqMUg2QU95U29jeG1PLQ?oc=5"
+      },
+      {
+        "title": "FDA Drug Approval Process: CDER Regulatory Guide - CASRAI",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 11:28:55 GMT+5 | 키워드+30 | 순위:50위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5\" target=\"_blan",
+        "published_time": "Sat, 07 Nov 2026 11:28:55 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 11:28:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0tGN3VpWDZlWkJCR1drR1paX1R3WUlSNDdTSkl0ZzJRejhLbEs3UjdtY3NtTDBGTkc5T004OWVGRnJnZ0JWQ29YTXNtWmk4dVdlaTNKV0lIWkVXT25fdg?oc=5"
+      },
+      {
+        "title": "Pharma CEOs Meet in New York: What’s at Stake for Cancer Drugs? - Oncodaily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 13:42:05 GMT+5 | 키워드+30 | 순위:52위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZXZIZEh1MkNuZXY1M1pPWVNnUG1FdGhHeHFhNTlvTnJ4M1RvYlpjZkEyc3J4T1pWYy1HX3lmRm5OczVrVGVFZnhiYlZYMk4yakJzc3FqdmU?oc=5\" target=\"_blank\">Pharma C",
+        "published_time": "Sat, 07 Nov 2026 13:42:05 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 13:42:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZXZIZEh1MkNuZXY1M1pPWVNnUG1FdGhHeHFhNTlvTnJ4M1RvYlpjZkEyc3J4T1pWYy1HX3lmRm5OczVrVGVFZnhiYlZYMk4yakJzc3FqdmU?oc=5"
+      },
+      {
+        "title": "Routine Invasive Procedures for Stable Heart Disease Offer No Long-Term Survival Advantage Over Drug Therapy - PR Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 16:07:00 GMT+5 | 키워드+30 | 순위:53위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVl5Sm93REY3MmlObVAxbl95cDR6bXRVUzZGcGFPalNJX2RyR1k2S2hscnBjZEhLb0pVM2M0d3JmeTBHZldGby1RdnBzbjdBalktNzJ3ZnJQaEMxWDVRSDJFeGdnNHk0OXFOWkpHaX",
+        "published_time": "Sat, 07 Nov 2026 16:07:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 16:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTVl5Sm93REY3MmlObVAxbl95cDR6bXRVUzZGcGFPalNJX2RyR1k2S2hscnBjZEhLb0pVM2M0d3JmeTBHZldGby1RdnBzbjdBalktNzJ3ZnJQaEMxWDVRSDJFeGdnNHk0OXFOWkpHaXVfMURBY3ZpMlFXTW03NXdma09ITy1hNFFzQVFjeGRnLVR4WGlwbElSSFgtYVdTV2dpelRqbTB5MzZ2WFJnaXliQ0Z6OEkzR1J2bko3R2V0MHdtMkNfbEZ3bnhndmU4U0VnVnR6c2J1akQ3TFpjZXNpVWtQSzl4M3pkaVpCQmtZeVV5Q3A0NzNj?oc=5"
+      },
+      {
+        "title": "Pharma industry steps up API investments to cut import dependence, move up value chain - The Economic Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 12:09:57 GMT+5 | 키워드+30 | 순위:59위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1",
+        "published_time": "Sat, 07 Nov 2026 12:09:57 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 12:09:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcC1WQkpiXzNCU2V1aUgwNEJxd0VQRVZWMDhzRWRWZ3JUb19UOXNxR3lSYTIzakZGbGJYZGoyZmVsaklic2R0dmNwY3M0R0hweGJPX21WMEJHYjJ2WkFuTzM2Qm9VVTFJVHNocGhNa1VJbGhmQWJldm4zSjg2YmhJQTlYb3pQYWFfSEQ3VDdWS1FMVU9jdHo2b3czR05OQTcycjY1RlBmRUhPbS1TYzF0TXRNSzNyVk5jd2I1VUk4SjlLTS04N0d6QnN3cndUaDRPd0JNTEcyX1VpTkdwLW9KR0daZExTX0VBYkh2VVRBWmlnalVqZmdtbWhBdktpcEhELTl6bXpOVTZJZ9IBjwJBVV95cUxPWkxZOEx3R1RCTFdtRGkycUNSdFYwSkZjVm5JaTlHSnBaRVpCVXdMSVlPSFFPQ3BuNVFwRlBNRjY4NlFVTnZ1RHdZV0RPY084NnNsWkdFaHFZQkdPcVVPVDlnTlZQYzg3UFdhYlNFSXFwVUE5RTFTNzIwRFlEbU9hNzlWMV8weXhTWUxXTGxlWjY1UUFNbEJYeUw0dkpKTXNNT0c3N3U4SmhKaVJsYm9McEdKX2lXMlZfeUtjT0Y5b1RFV2gwU3pyR3NEczRic0s4bWJHUG1aYkUxZWwydWVWY3RKcDJTSG5SYUpWaUNycnFHQzBUcC0wR0pwZng4OTAxTXZIU3NKd09PNklqNk53?oc=5"
+      },
+      {
+        "title": "India CDMO Sector: Contract Development and Manufacturing in Pharma - Kalkine India",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 13:45:00 GMT+5 | 키워드+30 | 순위:69위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVk",
+        "published_time": "Sat, 07 Nov 2026 13:45:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 13:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZDdRS1dUYkpkN25KX19rYmxZZTJTdE5KYnVVcDRmRDlMOF8tUlphM2JxU2JkYVcyQ0xSZ3ZJVl9qOWQzYzd6OW44dUswVHhzMWwxTGs0cnR3UTdpWWk5QXNxdmJpZ0F2a2FsSmFLVkZCMTVPSGpUNFBNNzk3Smg4SHRjNEtzMUNZLVJ0UVhval9Fdl81MXFzQmVyUE5JTFJzMkZ3YXpzcklvQQ?oc=5"
+      },
+      {
+        "title": "Fume Hoods Market To 2035: Pharmaceutical R&D and Safety Rules Fuel Expansion - News and Statistics - IndexBox",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 18:06:03 GMT+5 | 키워드+30 | 순위:70위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0VjUUVmVEY5bnloMlpxSS00N1VhcFRaNU5Mcl9zcWF2NS0zQkh2Y0d1WjB3a3FUM0JsUFplR3JFN191S014MzJBUUlOUmp1OU45cUY1aHBhQk5jRFQ5RGM5OGp6Y0FGcVpjSWZwek",
+        "published_time": "Sat, 07 Nov 2026 18:06:03 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 18:06:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0VjUUVmVEY5bnloMlpxSS00N1VhcFRaNU5Mcl9zcWF2NS0zQkh2Y0d1WjB3a3FUM0JsUFplR3JFN191S014MzJBUUlOUmp1OU45cUY1aHBhQk5jRFQ5RGM5OGp6Y0FGcVpjSWZwekdTZUZFSlVLNTJ1TVpscm1sdGlnSEIwSmIyZVBXcDZfbmRsOTR5ejRueHhmQ0hGVE04N1llSllmdzJMLXBlTUVsZ1pNV0VlOTFFSWFaU3VOOEswdVFGVnc?oc=5"
+      },
+      {
+        "title": "US Lost Over 3000 Pharmacies From 2022 to 2024, Mostly Chains - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 15:35:41 GMT+5 | 키워드+30 | 순위:37위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUMxc1pTMW1wZFhEUHBEN2NLeF9JUlZCQ3NPb3Q3aFhCRGRUMjI3X3Vfb0plS3V5WHhKNG5naEJrYm9zc3hLWTQzcTY2bGk2cXdnWEZaTWloS0g2R3hrQ0VIcUlGV3JveVJ0RVBYMG",
+        "published_time": "Sat, 07 Nov 2026 15:35:41 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 15:35:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUMxc1pTMW1wZFhEUHBEN2NLeF9JUlZCQ3NPb3Q3aFhCRGRUMjI3X3Vfb0plS3V5WHhKNG5naEJrYm9zc3hLWTQzcTY2bGk2cXdnWEZaTWloS0g2R3hrQ0VIcUlGV3JveVJ0RVBYMG8weDU4bzhKeEpwbjdmY1RBdWFERUxQejhZaEhJV3ItVlZfTnp6ZTJj?oc=5"
+      },
+      {
+        "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you. - MarketWatch",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 19:20:00 GMT+5 | 키워드+30 | 순위:39위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHhRTTNpTFFYanRUZ0pXeExNTm5icWhkOUNmM1oxMkJaWV92bmJkekFVeWpYdkZ2TVFWR0IwanZlZVJRdXZVWFVkaXBfRlp6Qk9kS3lyRm5va3dudXNjejg0ZHoxc0VldTl6ZjFMUT",
+        "published_time": "Sat, 07 Nov 2026 19:20:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 19:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHhRTTNpTFFYanRUZ0pXeExNTm5icWhkOUNmM1oxMkJaWV92bmJkekFVeWpYdkZ2TVFWR0IwanZlZVJRdXZVWFVkaXBfRlp6Qk9kS3lyRm5va3dudXNjejg0ZHoxc0VldTl6ZjFMUTVibTh1OVRNcW43OG84STlHWjZLd0ZlVFdCdlJfdkRQcFFkY1ZDUldKV2xYdktRM09KZG5SQ3hvWERQcUdKaWJoOUdXNVMxXzh2UU1rNlg1d1RFZ3M?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        5
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "approval",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "recall",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 54,
+    "languages": {
+      "French / 프랑스어": 0,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 2,
+      "Italian / 이탈리아어": 2,
+      "Portuguese / 포르투갈어": 4,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 5,
+      "Hindi / 힌디어": 7,
+      "Arabic / 아랍어": 7,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Perusahaan Farmasi Menuju Era Produksi Obat Lebih Presisi Di Luar Angkasa - Validnews",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 09:07:00 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlN2ZnZHelpIclhRLUF2UVZFQ0s1WTlLT0dsYVN1aC1Tb3BSTmZTVnQ3VTZMWDNYTlBqSDhYM0RWLWc1aHRBZ0lYSmVSU3JmMG9ROGRqUzAwdnliVV9ZLUM4OFJUWDlhYWN4OEd6az",
+        "published_time": "Sat, 07 Nov 2026 09:07:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 09:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlN2ZnZHelpIclhRLUF2UVZFQ0s1WTlLT0dsYVN1aC1Tb3BSTmZTVnQ3VTZMWDNYTlBqSDhYM0RWLWc1aHRBZ0lYSmVSU3JmMG9ROGRqUzAwdnliVV9ZLUM4OFJUWDlhYWN4OEd6azE1enFYTUViSlczejdCQjYtRzhvSE5mWXg1SEYxd2VLQVZiNGR0UGxpT0F0dlZfXzVZbXkyRDZHWTgyUWJWTGkwWXhaZDBBckIzMGlUWU96X3E?oc=5"
+      },
+      {
+        "title": "भारतीय दवा उद्योग उच्च मूल्य वाली दवाओं के उत्पादन पर दे रहा जोर : विशेषज्ञ - ThePrint Hindi",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 12:49:38 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHpuUVQ3QkJ5d0xBQlNDc3dObHpXVnhlSjk0dzNDbm1ubUdEN0pxZGM3bjRpMkxEVE9PX3Vib2Z6Z3BGYktPSU1SRjBWdVdKaGh0YmFSckxRdlIzT1lHdTc0SU00MFVVcFNuWjNnal",
+        "published_time": "Sat, 07 Nov 2026 12:49:38 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 12:49:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHpuUVQ3QkJ5d0xBQlNDc3dObHpXVnhlSjk0dzNDbm1ubUdEN0pxZGM3bjRpMkxEVE9PX3Vib2Z6Z3BGYktPSU1SRjBWdVdKaGh0YmFSckxRdlIzT1lHdTc0SU00MFVVcFNuWjNnalFHU2tTcDNSdExVZHpiV0dSYjk2eFkzZHVKczd5alRWRGFFU3dMUUpacDJwT1U2VUhKVzdsdkQ5dS1TN1VVOUhpT1ZaaG91Z3FpazlNYWxsMzZsQWlXLWlOSEd30gHPAUFVX3lxTE9DeWpkNW91R0dNOFBmWkFWekMyc0ZLTzBnaEs1c0didElKOUF6SEpENWxkWFNJc0hTbUFld04tTGgtblVEak1ZellhTG9OeWFyMW1JdkxLTkQyR3R6QV8zdTFJejEzRW9nMHlQZzRBT3hzTWRSZlAxZ19MUklIajdQeEJGZ2xTdkszZWdxeXZqQjczYzVGZUpHQ2NqRm5JbVo1aFpXNmZyWVhwZ1V1cUQ5aW0zaW84ZGVNZE4tbGpBTVBEaWRPeUFJdUpRMTdkZw?oc=5"
+      },
+      {
+        "title": "Dari Riset Biomedis hingga Farmasi, Ilmuwan asal Indonesia Diakui Dunia - MetroTVNews.com",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 12:01:17 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUh4ZTBwWU54WERmX2lSODR0cFJHMUNGbzNiYVYxeUs0UFktejVRTHE5dUxBenl4elBQVjVBNTVZcmN0UmVURXFIMUgxOEtCTThZbzRQdUJzQWtJRlNrdDM1RGFmZ202bnMzTUJsd0",
+        "published_time": "Sat, 07 Nov 2026 12:01:17 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 12:01:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUh4ZTBwWU54WERmX2lSODR0cFJHMUNGbzNiYVYxeUs0UFktejVRTHE5dUxBenl4elBQVjVBNTVZcmN0UmVURXFIMUgxOEtCTThZbzRQdUJzQWtJRlNrdDM1RGFmZ202bnMzTUJsd0FqZHVaaERIZGdKQVFMM3J6ODBNWmZYRWNqWXVQVjhENU1HQV9RWWVNa3VIeUsyRlhtdk42STFQLXlXcjUyQkwzNkZ3?oc=5"
+      },
+      {
+        "title": "Tingkatkan Kompetensi SDM Farmasi, GPFI Papua Gelar Workshop Beyond Talking Order - Pasific Pos.com",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 11:10:13 GMT+5 | 키워드+20 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUQxMXJiOW9KWmJqWnpIcVZSVzNuR0h6UVdWOFpvQmlLUlNoMU5ER2U1MmtFc1BxZ1J6aWNnNEozVFI3azl0Rm5VVVUyR08ySktvUGIzSTY4czk3SHFoN0o3MHRsUmdpV0ZSd2pQam",
+        "published_time": "Sat, 07 Nov 2026 11:10:13 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 11:10:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUQxMXJiOW9KWmJqWnpIcVZSVzNuR0h6UVdWOFpvQmlLUlNoMU5ER2U1MmtFc1BxZ1J6aWNnNEozVFI3azl0Rm5VVVUyR08ySktvUGIzSTY4czk3SHFoN0o3MHRsUmdpV0ZSd2pQamZid0VZX1ZPOC1HcGV5dEpMcDhUcjhOSGFLVGR0MjEyZWktemo1VEJrTXo2YjV0cTk4cm1VUzlLbTQ0SnZX?oc=5"
+      },
+      {
+        "title": "Laboratorio de Productos Eticos expresa su solidaridad con acceso a medicamentos crónicos - Última Hora",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 07 Nov 2026 14:25:00 GMT+5 | 키워드+10 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQempjQm03TzBuWHM3a0w0ZkVERWNvZHhxbUdtWUYxTGEtaFhMUkNkRXBhY2VSZjJDT1k3bVY4NHREX2IyY1BERndjQ2g3SWh0Q1REaTFpcG9PR2dNMFhWUTlvRzctQWk4QnFqeXpPeG",
+        "published_time": "Sat, 07 Nov 2026 14:25:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 07 Nov 2026 14:25:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQempjQm03TzBuWHM3a0w0ZkVERWNvZHhxbUdtWUYxTGEtaFhMUkNkRXBhY2VSZjJDT1k3bVY4NHREX2IyY1BERndjQ2g3SWh0Q1REaTFpcG9PR2dNMFhWUTlvRzctQWk4QnFqeXpPeG13ZFVZRkdPcGdTUm1ESW9Qa3JVYjdtM0ZLWG5lR2R4QzZmQ3NXYnB6TDc0NmNDSkItYi04bHhYc0tuazh1Wi1US0RpY3FoRHPSAcQBQVVfeXFMTmJpZ2g3MUx3dGZ0MnNueWRtdkVYT3FFT28tYjN2RWZ3dTZTYnRIUW1TX25vU3FuZ2Nha1JKZjJMN3NVbTB6aF9SN0lqaldIT0hUTXV5bXhkVTR0VW1FeGEzQzRwT0RXcjV5dVg3TV94MkVRRlNOZ24wc1RhcjRVT3E0dkVlTzhhaHdTMEJoc2JxQnNiLS1felByVExnU3hhMUh4b01NckFqZEJQODNFOWR3MkVuaWlkUXQ2ZzFoT0NXT2FXZA?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
