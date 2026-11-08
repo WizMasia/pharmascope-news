@@ -194,14 +194,478 @@
   ],
   "top_en_sources": [],
   "yesterday_issues": [],
-  "clusters": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 10,
+      "keywords": [
+        "허가",
+        "수수료",
+        "식약처",
+        "심사",
+        "추진",
+        "의약품",
+        "현실화",
+        "인상"
+      ],
+      "articles": [
+        {
+          "title": "[보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련",
+          "source": "한국사회복지저널",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "식약처, ‘연조직고정용장치 허가&#183;심사 가이드라인(민원인안내서)’ 마련- 제품 개발 추세 맞춰 구조, 삽입방식 등에 따른 성능평가 필요 항목 제시식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 건(힘줄)&#183;인대 등 연조직을 뼈에 고정하기 위해 사용하는 의료기기인 연 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "11시간",
+          "url": "https://www.ksw-news.com/news/articleView.html?idxno=3057988"
+        },
+        {
+          "title": "의약품 품목허가 수수료 대폭 올린다",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "예고된 품목허가 수수료는 첨단바이오의약품이 803만원에서 2,071만원 (257%↑), 신규생물의약품이 803만원에서 2,071만원, 자료제출의약품이 260만원에서 1,604만원 (617%↑)으로 재산정 (인상)된다. 신약이나 바이오시밀러는 지난해와 올해 품목허가 수수료는 각각 대폭 인상한 바 있다.",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015805"
+        },
+        {
+          "title": "[보도참고] 식약처, 의약품 허가 심사 수수료 현실화 추진",
+          "source": "한국사회복지저널",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "- 고난도 심사가 필요한 의약품의 품목허가, 변경허가, 사전검토 수수료 개편- 「첨단바이오의약품 안전 및 지원에 관한 규칙」 개정안 입법예고(11.6~12.16)- 「의약품 등의 허가 등에 관한 수수료 규정」 개정안 행정예고(11.6~11.26)식품의약품안전처(처장 오유경)는 신약 외 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "17시간",
+          "url": "https://www.ksw-news.com/news/articleView.html?idxno=3057977"
+        },
+        {
+          "title": "의약외품 GMP 자율 도입서 의무화로...식약처, 2027년 법령 개정 추진",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=이재원 기자] 식품의약품안전처가 그동안 자율 도입을 중심으로 운영해 온 의약외품 제조&#183;품질관리기준 (GMP)을 단계적으로 의무화하는 방안을 추진한다. 올해 말까지 관련 연구를 마무리하고 2027년부터 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015867"
+        },
+        {
+          "title": "식약처, 의약품 허가&#183;심사 수수료 현실화 추진",
+          "source": "정필",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[정필=양건영 의학전문기자 kspa@jeongpil.com] 식품의약품안전처는 신약 외 첨단바이오의약품, 신규생물의약품, 자료제출의약품의 품목허가 등 수수료 현실화를 주요 내용으로 하는 ｢첨단바이오의약품 안전 및 지원에 관한 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "http://jeongpil.com/2745973"
+        },
+        {
+          "title": "자료제출의약품 허가 수수료 6배로…식약처, 심사 수수료 인상 추진",
+          "source": "한국스포츠통신",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "식품의약품안전처가 자료제출의약품의 품목허가 수수료를 현행의 약 6.1배로 올리는 등 의약품 허가&#183;심사 수수료 인상을 추진한다. 신약과 바이오시밀러에 이어 신약 외 첨단바이오의약품과 신규생물의약품까지 수수료 개편 대상을 확대해 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.apsk.co.kr/news/articleView.html?idxno=540989"
+        },
+        {
+          "title": "첨단바이오의약품 허가 수수료 803만→2071만원…식약처, 고난도 심사 비용 현실화",
+          "source": "와이드경제 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "세포&#183;유전자 치료제 등 고도의 전문성과 안전성 검증이 요구되는 첨단바이오의약품의 품목허가 수수료가 종전 800만 원대에서 2000만 원대로 대폭 인상된다.식품의약품안전처는 신약 외 첨단바이오의약품, 신규생물의약품, ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/%EA%B3%BC%ED%95%99/%EC%83%9D%ED%99%94%ED%95%99/%EC%B2%A8%EB%8B%A8%EB%B0%94%EC%9D%B4%EC%98%A4%EC%9D%98%EC%95%BD%ED%92%88-%ED%97%88%EA%B0%80-%EC%88%98%EC%88%98%EB%A3%8C-803%EB%A7%8C-2071%EB%A7%8C%EC%9B%90-%EC%8B%9D%EC%95%BD%EC%B2%98-%EA%B3%A0%EB%82%9C%EB%8F%84-%EC%8B%AC%EC%82%AC-%EB%B9%84%EC%9A%A9-%ED%98%84%EC%8B%A4%ED%99%94/ar-AA2gQZP0?ocid=BingNewsVerp"
+        },
+        {
+          "title": "식약처, 첨단바이오&#183;자료제출의약품 허가 수수료 인상 추진",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 식품의약품안전처가 첨단바이오의약품과 신규생물의약품, 자료제출의약품의 품목허가 수수료를 현실화하는 방안을 추진한다. 임상&#183;품질자료의 복잡성이 높아지고 전문 심사인력 투입이 증가하는 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548305"
+        },
+        {
+          "title": "의약품 허가 수수료 최대 6배 인상 추진…&quot;인상 폭 과도&quot; 우려도",
+          "source": "약사공론",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "식품의약품안전처가 첨단바이오의약품과 신규생물의약품, 자료제출의약품의 허가&#183;심사 수수료를 대폭 인상하는 방안을 추진하면서 제약바이오업계의 부담이 커질 전망이다. 심사 난이도 증가에 대응해 전문인력을 확충하고 허가&#183;심사 서비스의 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548312"
+        },
+        {
+          "title": "의약품 허가&#183;심사 수수료 줄인상... '최대 2.5배' 상향",
+          "source": "식약일보",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "앞으로 첨단바이오의약품과 신규생물의약품, 자료제출의약품 등의 품목허가 수수료가 대폭 상향 조정된다. 고난도 심사가 요구되는 의약품 품목에 대해 심사 체계 합리화와 전문 역량 강화를 위한 조치다. 식품의약품안전처 (처장 오유경 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://kfdn.co.kr/73827"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "셀비온과",
+        "안국약품",
+        "방사성의약품",
+        "개발",
+        "신약",
+        "혁신신약",
+        "본격화"
+      ],
+      "articles": [
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 혁신신약 개발 추진",
+          "source": "약업닷컴",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "안국약품(대표 박인철)이 방사성의약품 전문기업 셀비온(대표 김권)과 업무협약(MOU) 체결 이후 후속 실무 협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=334861"
+        },
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 신약 개발 본격화",
+          "source": "의학신문",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "협력 파트너인 셀비온은 암 치료 및 진단용 방사성의약품 연구개발과 제조 역량을 보유한 기업으로, 대표적인 신약 후보물질인 전립선암 치료제 ‘177Lu-DGUL (포큐보타이드 사테트라세탄)’은 국내 임상 2상을 완료하고 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015799"
+        },
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 혁신신약 개발 본격화",
+          "source": "지디넷코리아 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "(지디넷코리아=조민규 기자)안국약품은 방사성의약품 전문기업 셀비온과 업무협약(MOU) 체결 이후 후속 실무협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 있다고 밝혔다. 양사는 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/techandscience/%EC%95%88%EA%B5%AD%EC%95%BD%ED%92%88-%EC%85%80%EB%B9%84%EC%98%A8%EA%B3%BC-%EB%B0%A9%EC%82%AC%EC%84%B1%EC%9D%98%EC%95%BD%ED%92%88-%ED%98%81%EC%8B%A0%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%B3%B8%EA%B2%A9%ED%99%94/ar-AA2gQSbu?ocid=BingNewsVerp"
+        },
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 개발 속도...항암 신약 공동연구 구체화",
+          "source": "e-science",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "안국약품이 방사성의약품을 새로운 항암 신약 개발 분야로 낙점하고 외부 전문기업과 협력 범위를 넓히고 있다. 자체 의약품 개발과 사업화 경험에 방사성의약품 전문기업의 연구개발 역량을 결합해 신약 파이프라인 확대를 추진하는 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139120"
+        },
+        {
+          "title": "안국약품, 셀비온과 방사성의약품 공동개발 후속 협의",
+          "source": "청년의사",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "안국약품(대표 박인철)은 6일 셀비온(대표 김권)과 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 있다고 밝혔다.양사는 지난 9월 방사성의약품 치료(Radiopharmaceutical ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044358"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 5,
+      "keywords": [
+        "신약",
+        "임상",
+        "신약개발",
+        "바이오팜",
+        "구축"
+      ],
+      "articles": [
+        {
+          "title": "신약개발 병목 줄이려면…초기 판단부터 임상 운영까지 함께 설계해야",
+          "source": "financialpost",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "신약개발 과정에서 발생하는 시간과 비용 부담을 줄이려면 개발 초기부터 필요한 시험자료와 의사결정 기준을 함께 마련해야 한다는 지적이 나왔다. 비임상시험과 임상시험, 제조&#183;품질관리(CMC)를 별도로 준비하는 관행에서 벗어나 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285343"
+        },
+        {
+          "title": "지씨씨엘, 한미약품 비만 신약 ‘에페’ 임상 3상 분석 지원…30개 기관 검체 분석 수행",
+          "source": "더퍼스트미디어",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "글로벌 임상시험 검체분석 기관 지씨씨엘(GCCL)이 한미약품의 비만 신약 후보물질 ‘에페(성분명 에페글레나타이드)’의 임상 3상에서 약동학 분석과 센트럴랩 서비스를 제공하며 신약 개발을 지원했다.지씨씨엘(대표 조관구)은 지난 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "2시간",
+          "url": "https://www.thefirstmedia.net/news/articleView.html?idxno=212952"
+        },
+        {
+          "title": "SK바이오팜, 44억 토큰 신약개발 데이터 구축…AI 연구 전환",
+          "source": "스트레이트뉴스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "제약업계에서 인공지능(AI)의 역할이 후보물질 탐색을 넘어 독성 예측과 임상시험 설계, 환자별 치료 경과 분석 등 연구개발 전반으로 확대되고 있다. AI 모델의 성능을 높이려면 범용 데이터뿐 아니라 제약사가 보유한 연구 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314783"
+        },
+        {
+          "title": "SK바이오팜, 신약개발 AI 모델 실증 완료…714만건 학습데이터 구축",
+          "source": "전자신문 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "SK바이오팜이 714만건의 신약개발 특화 데이터를 활용한 인공지능(AI) 모델 개발과 실증을 마쳤다. 신약 후보물질 발굴부터 임상시험 결과 예측까지 AI 적용 범위를 확대하며 연구개발(R&amp;D) 효율화에 나선다. SK바이오팜은 과학기술정보통신부가 주관한 'AI 특화 파운데이션 모델 프로젝트'에서 약 10개월간의 개발과 실증을 완료했다고 6일 밝혔다. ",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/sk%EB%B0%94%EC%9D%B4%EC%98%A4%ED%8C%9C-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-ai-%EB%AA%A8%EB%8D%B8-%EC%8B%A4%EC%A6%9D-%EC%99%84%EB%A3%8C-714%EB%A7%8C%EA%B1%B4-%ED%95%99%EC%8A%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%B6%95/ar-AA2gQPVz?ocid=BingNewsVerp"
+        },
+        {
+          "title": "[인터뷰] 이영신 KRPIA 부회장 &quot;임상강국 한국, 신약 도입도 빨라져야&quot;",
+          "source": "뉴스1",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "글로벌 제약사 34곳, 지난해 국내 임상연구에 1조 922억 투자 &quot;신속등재 중증질환으로 확대…약가 예측 가능성 높여야&quot; &quot;국가 간 약가 참조가 중요해지면서 혁신 가치를 충분히 반영하지 못할 경우, 신약 도입이 지연될 수 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.news1.kr/bio/pharmaceutical-bio/6344596"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 2,
+      "keywords": [
+        "감기약",
+        "필로폰",
+        "제조"
+      ],
+      "articles": [
+        {
+          "title": "한약사회, 감기약 필로폰 제조 연루 회원 '엄중 징계'",
+          "source": "글로벌뉴스통신GNA",
+          "importance": 45,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울=글로벌뉴스통신]대한한약사회 (회장 임채윤)가 최근 일반의약품인 감기약을 악용한 필로폰 제조 사건에 일부 회원이 연루된 것에 대해 깊은 유감을 표하며, 관련자에 대한 무관용 원칙과 엄중한 징계를 예고했다.",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=503275"
+        },
+        {
+          "title": "감기약 63만정, 필로폰 제조 일당에…의약품 대량 유통관리 '도마'",
+          "source": "약업닷컴",
+          "importance": 44,
+          "stars": "⭐⭐",
+          "snippet": "슈도에페드린 함유 감기약이 필로폰 제조에 악용된 사건을 계기로 의약품 대량 유통&#183;판매관리 문제가 불거지고 있다. &#169;AI 생성 이미지슈도에페드린 성분 감기약 63만여 정이 필로폰 제조 일당에 공급된 사건을 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=334850"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "총회의장",
+        "특별공로상",
+        "대약",
+        "수상",
+        "최광훈",
+        "아시아약학연맹"
+      ],
+      "articles": [
+        {
+          "title": "최광훈 대약 총회의장, 아시아약학연맹 특별공로상 수상",
+          "source": "데일리팜",
+          "importance": 44,
+          "stars": "⭐⭐",
+          "snippet": "대한약사회(회장 권영희)는 지난 5일 태국 방콕에서 열린 제31차 아시아약학연맹(FAPA) 총회 개회식에서 최광훈 총회의장이 특별공로상(Distinguished Contributor Award)을, 손의동 중앙대학교 약학대학 ...",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "1일",
+          "url": "https://www.dailypharm.com/user/news/344290"
+        },
+        {
+          "title": "최광훈 대약 총회의장, 아시아약학연맹 특별공로상 수상",
+          "source": "데일리팜",
+          "importance": 41,
+          "stars": "⭐⭐",
+          "snippet": "대한약사회(회장 권영희)는 지난 5일 태국 방콕에서 열린 제31차 아시아약학연맹(FAPA) 총회 개회식에서 최광훈 총회의장이 특별공로상(Distinguished Contributor Award)을, 손의동 중앙대학교 약학대학 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.dailypharm.com/user/news/344290"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "대응",
+        "창고형약국",
+        "후속",
+        "입법",
+        "비대위"
+      ],
+      "articles": [
+        {
+          "title": "약사회 비대위, 창고형약국 후속 입법&#183;현장 대응 강화",
+          "source": "약사공론",
+          "importance": 43,
+          "stars": "⭐⭐",
+          "snippet": "비대위는 창고형약국 관련 입법 성과를 점검하고, 개정 약사법의 실효성 확보를 위한 후속조치와 불법 개설&#183;운영에 대한 대응을 강화하기로 했다. 대한약사회 (회장 권영희) 국민건강권 사수 비상대책위원회는 4일 제9차 운영위원회를 ...",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "1일",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548310"
+        },
+        {
+          "title": "대한약사회 비대위, 창고형약국 외부자본 차단 및 후속 입법 대응 착수",
+          "source": "팜뉴스 on MSN",
+          "importance": 35,
+          "stars": "⭐⭐",
+          "snippet": "[팜뉴스=김응민 기자] 대한약사회 국민건강권 사수 비상대책위원회는 지난 4일 제9차 운영위원회를 열고 창고형약국 관련 입법 후속 조치와 불법 개설&#183;운영에 대한 대응 방안을 논의했다고 6일 밝혔다.운영위원회는 창고형약국 사안과 관련해 약국의 독립적 운영권을 확립하고 외부자본에 의한 경영 개입 및 의약품 무분별 유통을 차단하는 데 중점을 두기로 의견을",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%ED%95%9C%EC%95%BD%EC%82%AC%ED%9A%8C-%EB%B9%84%EB%8C%80%EC%9C%84-%EC%B0%BD%EA%B3%A0%ED%98%95%EC%95%BD%EA%B5%AD-%EC%99%B8%EB%B6%80%EC%9E%90%EB%B3%B8-%EC%B0%A8%EB%8B%A8-%EB%B0%8F-%ED%9B%84%EC%86%8D-%EC%9E%85%EB%B2%95-%EB%8C%80%EC%9D%91-%EC%B0%A9%EC%88%98/ar-AA2gRE8A?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "강화",
+        "규제"
+      ],
+      "articles": [
+        {
+          "title": "지방의료원 41곳 역할 바꾼다…국립대병원 규제 풀고 필수의료 보상 강화",
+          "source": "라포르시안",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[라포르시안] 정부가 공공의료 정책의 무게중심을 공공병원 확충에서 지역 의료체계의 기능과 역할을 재편하는 방향으로 옮긴다. 국립대병원은 중증&#183;고난도 질환의 최종치료를 담당하는 권역 거점으로 육성하고, 지방의료원 등 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=242110"
+        },
+        {
+          "title": "유통 투명화, CSO 자격 요건 강화&#183;재위탁 규제 등 제언",
+          "source": "의학신문",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김정일 기자] CSO 자격 요건 강화, 다단계 재위탁 규제 등 불법 리베이트를 차단하고 건전한 산업 육성을 위한 다양한 개선방안이 제시됐다. 김&#183;장 법률사무소 강한철, 이환범, 권혁찬 변호사는 최근 한국제약바이오협회 ‘KPBMA FOCUS’에 기고한 이슈 리포트를 통해 의약품 판촉영업자(CSO) 관리&#183;감독 체계",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015839"
+        }
+      ]
+    }
+  ],
   "uncategorized_articles": [
     {
-      "title": "“세브란스병원 사건 엄중, 폭력예방 제도 개선 지속”",
-      "source": "데일리메디",
-      "importance": 37,
-      "snippet": "﻿﻿﻿﻿세브란스병원 정신건강의학과 교수가 흉기 공격을 당한 사건이 발생하면서 의료진 안전 문제가 도마에 오른 가운데 정부가 “의료기관 폭력행위 예방과 안전한 진료환경 조성에 전력하겠다”는 입장을 내놨다.일각에선 지난 ...",
-      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942353"
+      "title": "셀트리온부터 종근당까지…국내 제약사 유럽 공략법도 각양각색",
+      "source": "약사공론",
+      "importance": 50,
+      "snippet": "스위스에서는 마크로젠과 프리클리나가 바젤을 중심으로 유럽 연구&#183;바이오헬스 생태계와의 접점을 넓히고 있다. 마크로젠은 유전체 시퀀싱과 유전자 검사 등 유전체 분석 서비스를 제공하며, 마크로젠 유럽 법인을 거점으로 현지 연구기관 및 제약바이오 기업과 협력을 확대하고 있다. 프리클리나는 면역계 질환에 특화된 비임상시험수탁기관 (CRO)으로, 인간화 모델",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548315"
+    },
+    {
+      "title": "대한한약사회 &quot;한약사 피해 구제 위한 정부 대책 촉구&quot;",
+      "source": "국제뉴스",
+      "importance": 50,
+      "snippet": "(서울=국제뉴스) 김서중 기자 = 대한한약사회는 9일 오전 11시 국회 정문 앞에서 한약사 피해 구제를 위한 규탄대회 및 협의체 구성 촉구대회를 개최한다. 이번 행사에는 현직 한약사, 한약학과 교수, 학생 등 약 400명이 참여할 예정이다.이번 대회는 1994년 한약사 제도 도입 이후 30년 넘게 한의약분업이 이행되지 않은 상황과 관련 제도적 문제, 현장 ",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744925"
+    },
+    {
+      "title": "독감에 코로나까지 '트윈데믹'… &quot;고령층, 코로나 아직 무섭다&quot;",
+      "source": "조선비즈",
+      "importance": 50,
+      "snippet": "독감에 코로나까지 트윈데믹 고령층, 코로나 아직 무섭다 국내 80세 이상 사망률, 60대의 33배 日 사망자 한 해 3만5000명부모님 여행 전 백신부터 65세 이상 코로나 백신 접종, 내년 6월까지 무료 ...",
+      "url": "https://biz.chosun.com/science-chosun/science/2026/11/06/MRRDQOJYMU2WEMRQGY2GKZRSGA/"
+    },
+    {
+      "title": "눈에 띠는 실적 올리고 있는 제약바이오, SK바이오팜&#183;파마리서치",
+      "source": "메디파나 뉴스",
+      "importance": 46,
+      "snippet": "SK바이오팜과 파마리서치가 자사가 개발한 블록버스터로 해마다 눈에 띠는 경영 실적을 내고 있다. 자체 개발 제품인데다 해외시장이 나날이 확대되고 있어 영업이익이 독보적인데다 앞으로도 지속적인 성장이 예견된다. 하지만 중장기적인 성장 구조를 위해선 기존 블록버스터 제품 외에 이를 이을만한 후속 포트폴리오를 갖추는 것이 중요해보인다. 국산신약 엑스코프리로 연간",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=421163"
+    },
+    {
+      "title": "AI로 실명, 심부전 위험 예측…제약사 주목하는 디지털 헬스케어",
+      "source": "조선비즈 on MSN",
+      "importance": 42,
+      "snippet": "국내 제약&#183;바이오 기업들이 AI 및 웨어러블 기기를 활용한 디지털 헬스케어 기술로 고령화 사회의 건강 관리 수요를 충족하고 있다.",
+      "url": "https://www.msn.com/ko-kr/news/other/ai%EB%A1%9C-%EC%8B%A4%EB%AA%85-%EC%8B%AC%EB%B6%80%EC%A0%84-%EC%9C%84%ED%97%98-%EC%98%88%EC%B8%A1-%EC%A0%9C%EC%95%BD%EC%82%AC-%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94-%EB%94%94%EC%A7%80%ED%84%B8-%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4/ar-AA2gVxGv?ocid=BingNewsVerp"
+    },
+    {
+      "title": "제약바이오협회, 'KPBMA Focus 제36호' 발간",
+      "source": "팜뉴스 on MSN",
+      "importance": 42,
+      "snippet": "[팜뉴스=홍효정 기자] 한국제약바이오협회(KPBMA)는 국내외 의약품 판촉영업자(CSO)의 제도적 현황을 분석하고 유통질서 정상화를 위한 제도 개선 방안을 담은 산업 보고서 'KPBMA FOCUS 제36호'를 발간했다고 6일 밝혔다.이번 보고서는 김&#183;장 법률사무소의 강한철&#183;이환범&#183;권혁찬 변호사가 집필을 맡아 국내 CSO 규제의 한",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-kpbma-focus-%EC%A0%9C36%ED%98%B8-%EB%B0%9C%EA%B0%84/ar-AA2gRE8B?ocid=BingNewsVerp"
+    },
+    {
+      "title": "주춤하던 독감 2주 연속 증가, 입원도 ↑…“아동&#183;노인 예방접종 서둘러야”",
+      "source": "중앙일보 on MSN",
+      "importance": 42,
+      "snippet": "지난달 서울 시내 한 병원에서 어르신이 독감 예방접종을 받는 모습. 뉴스1 주춤하던 인플루엔자(독감) 유행이 다시 2주 연속 증가세로 돌아섰다. 질병관리청은 아동&#183;노인 등이 예방접종을 서두르고, 의심 증상이 있으면 빠르게 ...",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%A3%BC%EC%B6%A4%ED%95%98%EB%8D%98-%EB%8F%85%EA%B0%90-2%EC%A3%BC-%EC%97%B0%EC%86%8D-%EC%A6%9D%EA%B0%80-%EC%9E%85%EC%9B%90%EB%8F%84-%EC%95%84%EB%8F%99-%EB%85%B8%EC%9D%B8-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%EC%84%9C%EB%91%98%EB%9F%AC%EC%95%BC/ar-AA2gRjBX?ocid=BingNewsVerp"
+    },
+    {
+      "title": "연천 뚫리고 김포&#183;용인까지… 경기도 가축전염병 방역 비상, 18개 시군 긴급 점검",
+      "source": "주간한국 on MSN",
+      "importance": 42,
+      "snippet": "[경기인천본부=주간한국 최연훈 기자] 겨울철 가축전염병 방역을 강화해야 할 시기에 경기도 연천에서 고병원성 조류인플루엔자(AI)가 발생하면서 도내 축산 방역망에 비상이 걸렸다. 김포와 용인에서도 감염된 야생조류가 확인된 ...",
+      "url": "https://www.msn.com/ko-kr/sports/%EC%9D%BC%EB%B0%98/%EC%97%B0%EC%B2%9C-%EB%9A%AB%EB%A6%AC%EA%B3%A0-%EA%B9%80%ED%8F%AC-%EC%9A%A9%EC%9D%B8%EA%B9%8C%EC%A7%80-%EA%B2%BD%EA%B8%B0%EB%8F%84-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EB%B0%A9%EC%97%AD-%EB%B9%84%EC%83%81-18%EA%B0%9C-%EC%8B%9C%EA%B5%B0-%EA%B8%B4%EA%B8%89-%EC%A0%90%EA%B2%80/ar-AA2gRRVa?ocid=BingNewsVerp"
+    },
+    {
+      "title": "음성군, 가축전염병 특별방역 ‘총력’",
+      "source": "ccreview",
+      "importance": 42,
+      "snippet": "현장 소독과 예찰 활동도 한층 강화해 축협 공동방제단 차량을 투입, 축산 밀집 지역과 하천 주변을 매일 소독하고 있으며, 가금류 농가가 모여 있는 5개 읍&#183;면 (금왕&#183;대소&#183;소이&#183;삼성&#183;맹동)에는 전용 방역 차량을 상시 배치해 ...",
+      "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=362061"
+    },
+    {
+      "title": "동구바이오제약, 군포 ‘트리아츠지식산업센터’로 연구소 확장 이전",
+      "source": "약업닷컴",
+      "importance": 41,
+      "snippet": "동구바이오제약이 연구소를 안양 인덕원에서 군포 ‘트리아츠지식산업센터’로 확장 이전하고, 지난 3일 개소식을 열었다. 이번 이전으로 동구바이오제약은 기존보다 넓은 연구 공간을 확보했으며, 제제∙분석 연구를 위한 전용 실험실과 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=334857"
     }
   ],
   "cross_language_candidates": [
