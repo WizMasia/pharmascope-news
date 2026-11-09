@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-10",
+  "total_articles": 347,
+  "language_breakdown": {
+    "korean": 155,
+    "english": 101,
+    "multilingual": 91
+  },
+  "issues": [
+    {
+      "topic": "drug, the, news, for, and 관련 보도 흐름",
+      "domain": "global",
+      "significance": "high",
+      "article_count": 33,
+      "avg_importance": 47,
+      "key_articles": [
+        {
+          "title": "Who Regulates Herbal Medicine? - The News",
+          "importance": 60,
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iX2FsTHM5Z2R6Sm9Cc19XcFZXbUVVMzgyYXUwS2hCQTd3VDhvd3R0V0ZfbEo3bUNlSE1UYkREQzdpZFZzdHozU0thNVdCQVk1NVhhQUJ6LWVKNXhlRDJGUnRnblhfSEdaR2JYamc5ajdZZGxQN3owLXA2TQ?oc=5"
+        },
+        {
+          "title": "Big pharma tempers AI drug discovery hype as investments surge - Chosunbiz",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
+        },
+        {
+          "title": "3 Large-Cap Stocks to Watch as Drug & Biotech Sector Rebounds in 2026 - The Globe and Mail",
+          "importance": 47,
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUo2R2lWdC02c1JFdlhyY0tfaWxpMUE1QUY0ZFQ5QS11cHBFRWhhelFOajRtRWFqcWdNOWx0Zl9IaXdXczlvN0hraEVnUHp3MTM4dlNSTnRxa1EwbXV2STd3TERPZGVEam9rVGZud1FRUkllRTU0amdCNWV3bTl6MmhEQ2l3cF9TdkYtdHpuTnRSMjBmWHk5a3lqVDY5cXUtUjVKcmdNOGJnN2k2Q1lnbF9qenppMnhXR184c3RXelM2YzdFdEVubVprc2w3V041X0x2dmFMWUdpZDY3aVlpMUN0ckxodw?oc=5"
+        }
+      ],
+      "summary_kr": "상위 기사 33건이 drug, the, news, for, and 키워드를 공유합니다. 대표 보도는 Who Regulates Herbal Medicine? - The News이며, 기사 내용의 사실관계는 각 원문 확인이 필요합니다.",
+      "summary_en": "33 articles share the keywords drug, the, news, for, and. The leading headline is: Who Regulates Herbal Medicine? - The News"
+    },
+    {
+      "topic": "gmp, vietnam, voor, van 관련 보도 흐름",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 49,
+      "key_articles": [
+        {
+          "title": "Araştırma ilaçlarına ve klinik deneme ilaçlarına GMP (İyi Üretim Uygulamaları) uygulanması. - Vietnam.vn",
+          "importance": 60,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVV9JSWVuSVBENlVkTFdmUEtpVGIwOElDVDNuWVJ6Tk05Z2ZNRkZidFZQN0lBSmhPRTJ4WThEYmJ5eDRRTGJ4bW1EMzZ5YlNLdU5iVkFDdVhtWVdVVnAwZlJFajhpVTdzRjRBNXNBYmJ6dmdPMVdJSEdqSVBnOXpVN1ROZW9ycVgzSlRWb2tqdTdNNXM?oc=5"
+        },
+        {
+          "title": "Pierre Fabre zet AI en robotica van XtalPi in voor geneesmiddelenontdekking - Unite.AI",
+          "importance": 43,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhUTlVUNGhQdkMyaG9kZkVMeG1lY2ZPajdTaV9xOXprT1prM3BPN3FRR2lJaGxvSktaLTVvTV9PMXBtVFR2aC1QMWpmSDg5V3lab3FmRTFpckFYaU1pcExNUWdlVWlkeWw5TkZSUkxXeE92bzNrbTBDSTlHcWZvTG1falRYcHR1ZnlkR2FB?oc=5"
+        },
+        {
+          "title": "Het toepassen van GMP op geneesmiddelen voor onderzoek en klinische proeven. - Vietnam.vn",
+          "importance": 43,
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmpfUGFsSVo0QldTdnd2amlqeDRFSW9CQnRaSWVvQ2VQMElubjFYX01uZkh1MWZwQ1BSY0RiSG9MRDBKb0Vfd3dVRTdVYi1Dem9lY1JpRy04SkROT0tnQUNMU2ZrTGFCMi10aW9ldEpZRkJiQVBJNzVaWTRCWExndEU2YnRIeFl3RDd3c01mTVEyNDQ?oc=5"
+        }
+      ],
+      "summary_kr": "상위 기사 3건이 gmp, vietnam, voor, van 키워드를 공유합니다. 대표 보도는 Araştırma ilaçlarına ve klinik deneme ilaçlarına GMP (İyi Üretim Uygulamaları) uygulanması. - Vietnam.vn이며, 기사 내용의 사실관계는 각 원문 확인이 필요합니다.",
+      "summary_en": "3 articles share the keywords gmp, vietnam, voor, van. The leading headline is: Araştırma ilaçlarına ve klinik deneme ilaçlarına GMP (İyi Üretim Uygulamaları) uygulanması. - Vietnam.vn"
+    },
+    {
+      "topic": "farmasi, kimia, farma, industri 관련 보도 흐름",
+      "domain": "global",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 55,
+      "key_articles": [
+        {
+          "title": "Dukung Eliminasi TBC, Kimia Farma Dorong Penguatan Industri Farmasi - Kompas.com",
+          "importance": 55,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVZPTWhzTW96NzJMNUFJTTdjSkFXTlJ6WHh2YUU4OGttaDI3ZzRRaVByNk5BeEFEQWFrVVlhRDFheVdBLWJKVXFwYjVvY2VtR0ZURWJiQXR1X1RyNUZEN0dzUnZKTDN5cm9qZEs1dm1FdFFaRnAtbElPZmhtT044cnh4RGNFNlhJZDBxUkRfdWFTTWJpYVJhVFNKbzBvV2ViaU5CeExnUXhPSi1fdWUtWmF1QVUzMFhL?oc=5"
+        },
+        {
+          "title": "Kimia Farma Perkuat Industri Farmasi Lewat Kolaborasi Strategis - Limapagi",
+          "importance": 55,
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWGhHY29GVnRlTzBRd291TTlqS3JUcE53M3VLMXhMV1U0cDY1VHg4RW9qYThhVW12N1FrV3VGVkEwMmJiOFRfR3JnTTY1Ul80RTBlUHlNVjIxVnVSYmoxcDY5MmZtcll5U2JhRg?oc=5"
+        }
+      ],
+      "summary_kr": "상위 기사 2건이 farmasi, kimia, farma, industri 키워드를 공유합니다. 대표 보도는 Dukung Eliminasi TBC, Kimia Farma Dorong Penguatan Industri Farmasi - Kompas.com이며, 기사 내용의 사실관계는 각 원문 확인이 필요합니다.",
+      "summary_en": "2 articles share the keywords farmasi, kimia, farma, industri. The leading headline is: Dukung Eliminasi TBC, Kimia Farma Dorong Penguatan Industri Farmasi - Kompas.com"
+    }
+  ],
+  "cross_language_issues": [],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": [
+      "전일 분석 결과 부재로 비교 불가"
+    ]
+  },
+  "connections": [],
+  "generated_at": "2026-11-10T07:35:43.080302+09:00"
+}
