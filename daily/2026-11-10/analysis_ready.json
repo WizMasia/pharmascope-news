@@ -1,730 +1,594 @@
 {
   "date": "2026-11-10",
-  "window_kst": {
-    "start": "2026-11-10T06:30:00+09:00",
-    "end": "2026-11-11T06:29:59+09:00"
-  },
-  "total_articles": 347,
+  "total_articles": 382,
   "language_breakdown": {
-    "korean": 155,
-    "english": 101,
-    "multilingual": 91
+    "korean": {
+      "total": 190,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 18,
+        "의약단체": 25,
+        "의약관련정부기관": 21,
+        "의료현장": 16,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 7,
+        "감염·보건": 23
+      }
+    },
+    "english": {
+      "total": 101,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 12,
+        "Regulatory Agencies": 11,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 91,
+      "languages": {
+        "French / 프랑스어": 4,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 6,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 3,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 8,
+        "Hindi / 힌디어": 10,
+        "Arabic / 아랍어": 3,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
   },
   "top_kr_keywords": [
-    [
-      "신약",
-      18
-    ],
-    [
-      "임상",
-      14
-    ],
-    [
-      "허가",
-      10
-    ],
-    [
-      "수출",
-      10
-    ],
-    [
-      "약가",
-      9
-    ],
-    [
-      "급여",
-      7
-    ],
-    [
-      "한약",
-      7
-    ],
-    [
-      "식약처",
-      7
-    ],
-    [
-      "오남용",
-      5
-    ],
-    [
-      "심사",
-      5
-    ],
-    [
-      "항암",
-      4
-    ],
-    [
-      "제네릭",
-      3
-    ],
-    [
-      "FDA",
-      3
-    ],
-    [
-      "비만",
-      1
-    ],
-    [
-      "공급망",
-      1
-    ]
+    {
+      "keyword": "신약",
+      "count": 18
+    },
+    {
+      "keyword": "임상",
+      "count": 14
+    },
+    {
+      "keyword": "허가",
+      "count": 10
+    },
+    {
+      "keyword": "수출",
+      "count": 10
+    },
+    {
+      "keyword": "약가",
+      "count": 9
+    },
+    {
+      "keyword": "급여",
+      "count": 7
+    },
+    {
+      "keyword": "한약",
+      "count": 7
+    },
+    {
+      "keyword": "식약처",
+      "count": 7
+    },
+    {
+      "keyword": "오남용",
+      "count": 5
+    },
+    {
+      "keyword": "심사",
+      "count": 5
+    },
+    {
+      "keyword": "항암",
+      "count": 4
+    },
+    {
+      "keyword": "제네릭",
+      "count": 3
+    },
+    {
+      "keyword": "FDA",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 1
+    },
+    {
+      "keyword": "공급망",
+      "count": 1
+    }
   ],
   "top_en_keywords": [
-    [
-      "FDA",
-      8
-    ],
-    [
-      "approval",
-      5
-    ],
-    [
-      "GLP-1",
-      4
-    ],
-    [
-      "generic",
-      3
-    ],
-    [
-      "clinical trial",
-      2
-    ],
-    [
-      "regulation",
-      2
-    ],
-    [
-      "pricing",
-      2
-    ],
-    [
-      "obesity",
-      1
-    ],
-    [
-      "biosimilar",
-      1
-    ],
-    [
-      "vaccine",
-      1
-    ]
+    {
+      "keyword": "FDA",
+      "count": 8
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 4
+    },
+    {
+      "keyword": "generic",
+      "count": 3
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    }
   ],
-  "cross_language_candidates": [],
+  "top_kr_sources": [
+    {
+      "source": "메디파나 뉴스",
+      "count": 3
+    },
+    {
+      "source": "약사공론",
+      "count": 2
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "뉴시스",
+      "count": 1
+    },
+    {
+      "source": "e-science",
+      "count": 1
+    },
+    {
+      "source": "머니투데이 on MSN",
+      "count": 1
+    },
+    {
+      "source": "글로벌이코노믹 on MSN",
+      "count": 1
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 1
+    },
+    {
+      "source": "데일리메디",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
   "clusters": [
     {
       "cluster_id": 1,
-      "size": 33,
+      "size": 5,
       "keywords": [
-        "drug",
-        "the",
-        "news",
-        "for",
-        "and",
-        "pharma",
-        "biotech",
-        "fda",
-        "approval",
-        "cancer"
+        "신약",
+        "amp",
+        "글로벌",
+        "후보물질",
+        "신약개발",
+        "약가"
       ],
       "articles": [
         {
-          "title": "Who Regulates Herbal Medicine? - The News",
-          "source": "",
-          "importance": 60,
+          "title": "글로벌 제약바이오, 신약 후보물질 정리 속도…R&amp;D 셈법 변화",
+          "source": "메디파나 뉴스",
+          "importance": 61,
           "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5iX2FsTHM5Z2R6Sm9Cc19XcFZXbUVVMzgyYXUwS2hCQTd3VDhvd3R0V0ZfbEo3bUNlSE1UYkREQzdpZFZzdHozU0thNVdCQVk1NVhhQUJ6LWVKNXhlRDJGUnRnblhfSEdaR2JYamc5aj",
-          "section": "english",
-          "category": "Traditional & Complementary Medicine",
-          "time": "Mon, 09 Nov 2026 09:06:04 GMT",
-          "published_time": "Mon, 09 Nov 2026 09:06:04 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iX2FsTHM5Z2R6Sm9Cc19XcFZXbUVVMzgyYXUwS2hCQTd3VDhvd3R0V0ZfbEo3bUNlSE1UYkREQzdpZFZzdHozU0thNVdCQVk1NVhhQUJ6LWVKNXhlRDJGUnRnblhfSEdaR2JYamc5ajdZZGxQN3owLXA2TQ?oc=5"
+          "snippet": "글로벌 제약바이오업계에서 신약 후보물질을 정리하고 연구개발(R&amp;D) 투자를 재조정하는 움직임이 잇따르고 있다. 외부 바이오기업으로부터 도입한 기술도 개발 우선순위에서 밀리면 중단하고, 일부 기업은 연구개발 조직을 줄이는 대신 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "9시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421213"
         },
         {
-          "title": "Big pharma tempers AI drug discovery hype as investments surge - Chosunbiz",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRG",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 20:25:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 20:25:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
+          "title": "안국약품, 시네츄라 이을 글로벌 대형품목 육성…호흡기 R&amp;D&#183;생산기반 동시 강화",
+          "source": "e-science",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "안국약품이 호흡기 개량신약 개발과 생산시설 투자를 병행하며 차세대 성장동력 확보에 나서고 있다. 기존 호흡기 치료제 시네츄라를 통해 축적한 연구개발 및 상업화 경험을 후속 파이프라인으로 확장하는 한편, 글로벌 시장 진출에 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139303"
         },
         {
-          "title": "3 Large-Cap Stocks to Watch as Drug & Biotech Sector Rebounds in 2026 - The Globe and Mail",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUo2R2lWdC02c1JFdlhyY0tfaWxpMUE1QUY0ZFQ5QS11cHBFRWhhelFOajRtRWFqcWdNOWx0Zl9IaXdXczlvN0hraEVnUHp3MTM4dlNSTnRxa1EwbXV2STd3TERPZGVEam9rVGZud1",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 15:20:13 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:20:13 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUo2R2lWdC02c1JFdlhyY0tfaWxpMUE1QUY0ZFQ5QS11cHBFRWhhelFOajRtRWFqcWdNOWx0Zl9IaXdXczlvN0hraEVnUHp3MTM4dlNSTnRxa1EwbXV2STd3TERPZGVEam9rVGZud1FRUkllRTU0amdCNWV3bTl6MmhEQ2l3cF9TdkYtdHpuTnRSMjBmWHk5a3lqVDY5cXUtUjVKcmdNOGJnN2k2Q1lnbF9qenppMnhXR184c3RXelM2YzdFdEVubVprc2w3V041X0x2dmFMWUdpZDY3aVlpMUN0ckxodw?oc=5"
+          "title": "신약개발 투자, '인프라&#183;후보물질 발굴&#183;비임상'에 집중",
+          "source": "의학신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[의학신문&#183;일간보사=김정일 기자] 정부의 신약개발 지원이 인프라, 후보물질 발굴, 비임상 등에 집중된 것으로 나타났다. 한국과학기술기획평가원이 최근 발간한 ‘2024년 신약개발 정부 R&amp;D 투자 포트폴리오 분석’에 따르면 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015993"
         },
         {
-          "title": "Adneuris Therapeutics Reaches Key Regulatory Milestone with FDA Submission of New Drug Application for Cebranopadol in Moderate-to-Severe Acute Pain - markets.businessinsider.com",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxNdmR2bVBLMV9lZGFsc1hpZ05qREo4LWRSTWxfNGtEbDJwMml1NjQ3WFdjTVZ0RXVxSlVkYl9ocUx2NXFGYjRPNTF5bkpEOTg5dW5FTERPemc1N3R4d21sYzFnanFHQ2dMUjFUZFpqN0",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 14:10:13 GMT",
-          "published_time": "Mon, 09 Nov 2026 14:10:13 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdmR2bVBLMV9lZGFsc1hpZ05qREo4LWRSTWxfNGtEbDJwMml1NjQ3WFdjTVZ0RXVxSlVkYl9ocUx2NXFGYjRPNTF5bkpEOTg5dW5FTERPemc1N3R4d21sYzFnanFHQ2dMUjFUZFpqN04wSFlNdjBNSG55UEkwdkhIajNUdHJMM2hib2piSFJ6RDhvdjhFVXNzNkYxRlNSVzBlZ0pTc3VnOExtb3F6c2RoYXI2TXRUZ2s1M1A0U0FMQVMtVVNxQlZqMVhzUG5zS0tfM29xZGxDNGZFUlV1bmxacFRBbElvTHIyZ1pCSzVOV0NBVnUxZXE4VVR3VzBMLXRxX2h0a1dzLUYwSFNzdUtTQ0lTUnAzZk9oUmtIUGEzZ1pHcWlwTU9XbkxfNjR6ckt1?oc=5"
+          "title": "프랑스, 신약 초기 약가 우대…호주는 의약품 표시기준 바꾼다",
+          "source": "뉴스더보이스헬스케어",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "프랑스가 신약 출시 초기 약가를 한시적으로 우대하되 이후 주기적으로 재평가하는 약가체계 개편에 합의했다. 호주는 의약품 성분과 경고문구 등의 표시기준을 바꾸고 5년의 전환기간을 부여했다.의약품 개발&#183;관리 분야에서는 규제기관 간 원료의약품 제조소 중복 실사를 줄이고, 인공지능(AI)과 동물대체시험 등 새로운 기술의 활용 기준을 마련하려는 움직임이 이",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "15시간",
+          "url": "https://www.newsthevoice.com/news/articleView.html?idxno=47971"
         },
         {
-          "title": "COFEPRIS Approval Timelines: How Drug Classes Rank in 2026 - Mexico Business News",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOb21WUkFPaUxRRnhHckREblFnUG13N0tvb2k1STdtTE1xM1hIbXl1ekNxaHJCX19RZ2xDVnlRdXZhX3dWZ25pNThHM0o5OWp5QW9UWGZTQ1B2MklYSjlPWVB3NGdIbkpiNDBleEQ5ND",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 21:17:46 GMT",
-          "published_time": "Mon, 09 Nov 2026 21:17:46 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb21WUkFPaUxRRnhHckREblFnUG13N0tvb2k1STdtTE1xM1hIbXl1ekNxaHJCX19RZ2xDVnlRdXZhX3dWZ25pNThHM0o5OWp5QW9UWGZTQ1B2MklYSjlPWVB3NGdIbkpiNDBleEQ5NDJESXdWbkstbUpYbWF4Zk1CV2U0NzJQbHk1THgzTWZuazhBZzVPUFZmZjR3?oc=5"
-        },
-        {
-          "title": "Benzopyran-Based Small Molecule Granted FDA Orphan Drug Status in AML - Targeted Oncology",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9qY0drQmprNXdYaFd3cjM5U3gzcFE0Z0g1T29KNHJWQWNzal9ldVlxTXZ0YzVyVFVMbU1ZNUhRWVVOSWgyZFN4MXJrbnRST1YzWXRFaWJNUXg1X283endqX3pMZWV3UDBVZ2NCMWRjZz",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 16:06:33 GMT",
-          "published_time": "Mon, 09 Nov 2026 16:06:33 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qY0drQmprNXdYaFd3cjM5U3gzcFE0Z0g1T29KNHJWQWNzal9ldVlxTXZ0YzVyVFVMbU1ZNUhRWVVOSWgyZFN4MXJrbnRST1YzWXRFaWJNUXg1X283endqX3pMZWV3UDBVZ2NCMWRjZzF2U1lZWS1jdmdn?oc=5"
-        },
-        {
-          "title": "EU panel backs rare disease status for children’s achondroplasia drug - Health Tech World",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmplVThaVXNnbUFWcV9tNk5NWGVjQzBLWmc0X3JzbXQwNnVaQm5kQ1I1ajR6c2NtVWc1a1c5Uk1ieERXSTJGS0lsVXdGN3BOTmphTjVCMzYxcXJSUmN6TW12djNpVUU2d0pWRnpLOW",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 16:33:23 GMT",
-          "published_time": "Mon, 09 Nov 2026 16:33:23 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmplVThaVXNnbUFWcV9tNk5NWGVjQzBLWmc0X3JzbXQwNnVaQm5kQ1I1ajR6c2NtVWc1a1c5Uk1ieERXSTJGS0lsVXdGN3BOTmphTjVCMzYxcXJSUmN6TW12djNpVUU2d0pWRnpLOW9RVmpXckl4aGk1T1pVejh5YmppZTRzMW9iVGhHZENUTVBOcFpyLWlvTGZHOEIteVZ2eDFJcElaYjZKV3hHdGt6dk5BODBOdw?oc=5"
-        },
-        {
-          "title": "Oncovita Granted Orphan Drug Designation For MVdeltaC in Mesothelioma by the European Commission - GlobeNewswire",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLWF4RDRBRy1Oa2NwM0RURDZPRGlXM1dOU2ZoMGUzTWJTSUFQOGtnZmlkbDJVck05b1VFMV9TbHE4RlZlaUxPLUJMZUlld0xFN3pUZm5hcU9EU3RfQlg2ckdvZVNTOVU2SzhWN2oxem",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 14:30:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 14:30:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNLWF4RDRBRy1Oa2NwM0RURDZPRGlXM1dOU2ZoMGUzTWJTSUFQOGtnZmlkbDJVck05b1VFMV9TbHE4RlZlaUxPLUJMZUlld0xFN3pUZm5hcU9EU3RfQlg2ckdvZVNTOVU2SzhWN2oxemgwRE9GZkZXbVV5V0planVnSnBzUXZkVUdLZG5SN2tieEhKRllyb09kSTdXaWRfSW9UMFdOZTVLWm5RcGJRcFc2SWw3M1UxS1VaRVBkUFo4a19uRFhPeWw3REhmTnB6RElpQ2UzUC11ZEsxMm9waXVkT0k5aFU3NEVtalZ3Rkk3V05ISXlVZVFKd2ZjWW8?oc=5"
-        },
-        {
-          "title": "Volume-Based Reimbursement and Cancer Drug Treatment Selection - Aaron Mitchell - UroToday",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdkdvcTVvOWI3RGVBM3lFRTJUVFUtTnJaRmROZ181dlVsb2VMbUFaUHNWb3g3RWdiYTdiWklsbjQ1Q2xDbEdnaHBraUN1ajF6ZVhYQ2ZTcE43ZDFFWVc0Qi1ZMm1wWkVITmI3ZkZwaF",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 15:06:27 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:06:27 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdkdvcTVvOWI3RGVBM3lFRTJUVFUtTnJaRmROZ181dlVsb2VMbUFaUHNWb3g3RWdiYTdiWklsbjQ1Q2xDbEdnaHBraUN1ajF6ZVhYQ2ZTcE43ZDFFWVc0Qi1ZMm1wWkVITmI3ZkZwaFYwVjlRMFpUT0JhTlpPYzdtR3Q0Y0JBdEFHWTFudTZCaGZwSUtYbW1VSnZVLWVvbnRuaVZ0R094dGJzRm81b21NdTcwY2VsdWNlU3NUajgwVVlTcDc0b3ZCMDQwUTVsVFl3bVFsQVpIQ0VqcUlZLWY3OWNCZGtjQ0JwQ0hGaHpFMV9nOWlKazlYTkVNb1BvaXc?oc=5"
-        },
-        {
-          "title": "Faeth Therapeutics reports positive Phase 2 results for endometrial cancer drug - Investing.com UK",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDlPRnlYbUl4dDFPSS04eW9zRnFCRkUxSGhyRVhQdHFrR0x5NE5jVm9MQ0RWeW5lek1sNUpfV092VEY2bngtbVJ6dWI3WUt0RXRSM1NSME5UMTV0WDFiT3dtNEVuWXRabkUwVHc0dH",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 12:02:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 12:02:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDlPRnlYbUl4dDFPSS04eW9zRnFCRkUxSGhyRVhQdHFrR0x5NE5jVm9MQ0RWeW5lek1sNUpfV092VEY2bngtbVJ6dWI3WUt0RXRSM1NSME5UMTV0WDFiT3dtNEVuWXRabkUwVHc0dHhSYWprb2tFYW5YMHZ4OUlmR2JkUDU4MmlZeHJyQUNjRER4MnV2bkJySkc1cXU5NEVxaE05eW9McFhydDZUVVljakl6UmgwNnR3WmtVV3R3T2lrYkstUUlSbG9wVXF6Wkg5?oc=5"
-        },
-        {
-          "title": "Genmab shares rise 4% on J&J cancer drug FDA approval By Investing.com - Investing.com UK",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXoxT29uNlF6bjdaelNZRWZsTTQyUUs2TE96S181NWZNU3Rqbzh0c2FHbWNfOHZwcE9RdFN4cXhyRmI4eVNXeVROUW0wNVVrNi1reDhlTHd0STRPYU9OdFpuWFNXQURTNnZmd2NITV",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 09:46:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 09:46:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXoxT29uNlF6bjdaelNZRWZsTTQyUUs2TE96S181NWZNU3Rqbzh0c2FHbWNfOHZwcE9RdFN4cXhyRmI4eVNXeVROUW0wNVVrNi1reDhlTHd0STRPYU9OdFpuWFNXQURTNnZmd2NITVdqdFdYejlJbUpsWTE3aWg5V3c2QlRvSm5UUG5DQjZTcTNOVzVBWkt1TWJYUlA0bjdvMHdLOHdHS2Y5UkQtRGlWUlBR?oc=5"
-        },
-        {
-          "title": "Nanocarrier Drug Delivery Shows Strong Preclinical Promise Against Intracellular Brucellosis Pathogens - Bioengineer.org",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdNMWZ2eEpYRHhsWHBVZC1JVFBuTDBuc0ktT1UzVy13aDZuOHVsTG1LRzdwM05sWGpIdGVINjh0cEtmeHo5RHdWWFhCWm5UQTAwWVdra3V0R0pva3U5Wkp6MVZ4bngwVG1RenFwSz",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 20:44:49 GMT",
-          "published_time": "Mon, 09 Nov 2026 20:44:49 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVGdNMWZ2eEpYRHhsWHBVZC1JVFBuTDBuc0ktT1UzVy13aDZuOHVsTG1LRzdwM05sWGpIdGVINjh0cEtmeHo5RHdWWFhCWm5UQTAwWVdra3V0R0pva3U5Wkp6MVZ4bngwVG1RenFwSzBtMTl4c016VEc4dkRVSDE2R3JLT3VoSTFjRVZkSk9CWXdUVU5vNnBEWGpPcG0tNW0zeXB2YUFFX3JHdm5famNUVnVLTVc2amx6NzlBMzA5LTV2QmEtMkE?oc=5"
-        },
-        {
-          "title": "Study Compares Tigecycline Testing Accuracy Across Critical Drug-Resistant Bacterial Pathogens - Bioengineer.org",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRHUjJFc3ljaDJQdVkxOGJUbE5KRXEtWnpXLWwxdXdJT3M2alM3RW0tem45ajNIczlrcEl1SmwzbkhjeTQtcUlrUGZmSWJrcjBJWm12WFI1THBXaTVTSTRmSTJYTnBvWC14eldBMH",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 20:29:44 GMT",
-          "published_time": "Mon, 09 Nov 2026 20:29:44 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZnRHUjJFc3ljaDJQdVkxOGJUbE5KRXEtWnpXLWwxdXdJT3M2alM3RW0tem45ajNIczlrcEl1SmwzbkhjeTQtcUlrUGZmSWJrcjBJWm12WFI1THBXaTVTSTRmSTJYTnBvWC14eldBMHI2NW9ZNDJmandGZzN1aEloWTdfMS1fREx5RC1FWUJQUlVHUTdZOE5USUVmTXJFaWNGV1RxX0ZzdjR1N05jbnVMY3pNRzdIUlV1cUow?oc=5"
-        },
-        {
-          "title": "Clinical Model Predicts Multidrug-Resistant Lower Respiratory Infections in Hospitalized Patients - Bioengineer.org",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOWnAzSW5EX3ZDVjU4UkY2UHJsN0Fnd01EaE54OFFJX05HSU9KRm5MMEF4bjRRTDIyajZfRENDcXJFMXhBVThoQ2lMcnhESmFibHpBdzkyclFseU43SFBFV3RDeEw0T25ybXp1UklIMj",
-          "section": "english",
-          "category": "Drugs & Therapies",
-          "time": "Mon, 09 Nov 2026 16:08:43 GMT",
-          "published_time": "Mon, 09 Nov 2026 16:08:43 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWnAzSW5EX3ZDVjU4UkY2UHJsN0Fnd01EaE54OFFJX05HSU9KRm5MMEF4bjRRTDIyajZfRENDcXJFMXhBVThoQ2lMcnhESmFibHpBdzkyclFseU43SFBFV3RDeEw0T25ybXp1UklIMjZnaGYzR0FLSWpBUjcyUU9ldjRVajJ2WEJSSjhlQkFod2Z5a1hJYURKSG5XMDFEMkFUUWpZaG5yOGpBOXdzdTdRa1ptTTBGYnVPemF5akR1cw?oc=5"
-        },
-        {
-          "title": "Biotech Stocks To Watch And Pharma Industry News - Investor's Business Daily",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU",
-          "section": "english",
-          "category": "Pharma Industry",
-          "time": "Mon, 09 Nov 2026 18:04:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 18:04:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUdmRHZuYnNmWE1NdWVHeWtRVUZnMUgtMHVyd1lYRm5ROHRXbWpGMlp0YVRNUlRpWjVUanM0WjN2MlRvQVBXUXNGcnBMMUpEWHNWNGo0ejNnTmFHV3Nabjk5V3NtYmhCRXloYXJzQU9lWVFSSXBnMDlGdXdTWFZPREV6WnZGb3FaZWc3ajc5eWp6Wmw1Tl82Z1dEc1dMdmNwcW9RNTdZZzlKazZRZEt6bkVOa1FGTUU?oc=5"
-        },
-        {
-          "title": "Could new U.S. rules on China biotech investments give Europe an edge? - Pharma Voice",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXd2MDMwNkkwMDV0Wm5DSEUxbGZ3NjZYSmZnSVNyM1hrSnRtV2Z1OVVObkQ2czVrdktNR0ZtMy1fcFVRT1JMOFZLLV9KU2laOE9VOTBjN0VCYkpvMEx4Z2V5Q25BOHFvLUVabENONF",
-          "section": "english",
-          "category": "Pharma Industry",
-          "time": "Mon, 09 Nov 2026 15:20:54 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:20:54 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXd2MDMwNkkwMDV0Wm5DSEUxbGZ3NjZYSmZnSVNyM1hrSnRtV2Z1OVVObkQ2czVrdktNR0ZtMy1fcFVRT1JMOFZLLV9KU2laOE9VOTBjN0VCYkpvMEx4Z2V5Q25BOHFvLUVabENONFJ5ZC1ISWl1VXRYcHg2RFhHZTZaTWh4bzJnN1NQSTkwSGotUQ?oc=5"
-        },
-        {
-          "title": "PharmaBlock CMC Lifecycle Strategy Forum: Smarter Decisions Across the Drug Development Lifecycle - ACROFAN USA",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGbWE0Y0JlUEQ1WjJSNXhiR0tnRHpWcERxenVhSzJOQldId1FFVUZFbjBEWmVaYXZfTDNKQzMzQmFqZmFmbDBjcVRORHJiZG5tcEI2OEtxQVZGSTZi?oc=5\" target=\"_blank\">Pha",
-          "section": "english",
-          "category": "Pharma Industry",
-          "time": "Mon, 09 Nov 2026 21:10:50 GMT",
-          "published_time": "Mon, 09 Nov 2026 21:10:50 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGbWE0Y0JlUEQ1WjJSNXhiR0tnRHpWcERxenVhSzJOQldId1FFVUZFbjBEWmVaYXZfTDNKQzMzQmFqZmFmbDBjcVRORHJiZG5tcEI2OEtxQVZGSTZi?oc=5"
-        },
-        {
-          "title": "Big pharma tempers AI drug discovery hype as investments surge - Chosunbiz",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRG",
-          "section": "english",
-          "category": "Pharma Industry",
-          "time": "Mon, 09 Nov 2026 20:25:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 20:25:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkx2a3A4QUxjTGxoNDhhWnBFMEswaXVxVXpqS0EzT2dOTjVPX1ByUmNzLUJHeUpETFY1Wnk1QXJIVkNFR0hKRjNpMmhYV0huYi1GYW5IT1hqY3psdVV5MDl3YTM0Wjc0Y1AxWmgzRGpCZWZGYy1aSW83bHk2d191dtIBlAFBVV95cUxOTGwwNGIwMlhFTjY2b0RERm5zTnlXbEI1R2w1UUxMbjJJSWFDTHdzaXZEY3ZvM2VUQmRQMlp2cFl4ckZSWXBIeGUxb1YxaWo2bXRITXhmV2tiU1hNbmxfLWpnVDFWUk9FM3ctNTUyU09aRGI0Tkw5TGM2RG1VWUZOYkVibEhnZzczRS01RE1iWVViSW5K?oc=5"
-        },
-        {
-          "title": "When Drug Pricing Collides With Politics - Pharmaceutical Commerce",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEdXN0FiNEhkN3VLSWJMQ0ItY1BuR1NSaWdpU201TE5rVDdKZmRub19XZlpBVzVuLWNBZkF5TEJJT0pfRGlKdmVrQ0JGOFhXTkhMRURWalpDdnVZRl9nM3E3U0Z0RllzUXU4V1Y4Qj",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 14:27:47 GMT",
-          "published_time": "Mon, 09 Nov 2026 14:27:47 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEdXN0FiNEhkN3VLSWJMQ0ItY1BuR1NSaWdpU201TE5rVDdKZmRub19XZlpBVzVuLWNBZkF5TEJJT0pfRGlKdmVrQ0JGOFhXTkhMRURWalpDdnVZRl9nM3E3U0Z0RllzUXU4V1Y4QjFscU5ScGE2ODVKRXg3VGxwOERvUXEyeWQ5WUtLSDY5MDFJbUU?oc=5"
-        },
-        {
-          "title": "Trump Administration To Reform Drug Discount Program—Hospitals Warn Of Costly Burdens - Forbes",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGxyT3UxamFDRktzNXJFTHRRckpRandLQ3JlQ0NXZ3JDbXJmMTVadk12MVhDeVpjLWVic3dpVGtmTXpzM3VJYUE4RFBqTVZ0VnlveHE3dVZXWnlOYjE5UUFrendLb01rbTBwRk82QU",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 13:27:53 GMT",
-          "published_time": "Mon, 09 Nov 2026 13:27:53 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVGxyT3UxamFDRktzNXJFTHRRckpRandLQ3JlQ0NXZ3JDbXJmMTVadk12MVhDeVpjLWVic3dpVGtmTXpzM3VJYUE4RFBqTVZ0VnlveHE3dVZXWnlOYjE5UUFrendLb01rbTBwRk82QUpNcG9aQmxZMUFsNWFhNWMtU2NUQ19PQWF5UU5nQVVNZENubG9lcDQ1SGVRX3FSX3lDVTNxMG9kZk52NEdPVTBWaGNMSkdHbHc2cWFtNlFYajc1QUtJWWlMMFNRaHFNbkpoXzVoRg?oc=5"
-        },
-        {
-          "title": "Trump’s drug pricing deals force tough choices on launches - Endpoints News",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmN3VmpHcGxSYkJWa0M5RDh6WXZkWklhWm55OXBZVEFjdFlrVFdHbHp1ak51a3pwTTlIaXNLSzM4Y3IydDNqdnU4a3Y1V04xSkg2R21raVhpekZvZ1NYRzdhdHE3MU1sR0tKSTlCeV",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 20:00:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 20:00:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmN3VmpHcGxSYkJWa0M5RDh6WXZkWklhWm55OXBZVEFjdFlrVFdHbHp1ak51a3pwTTlIaXNLSzM4Y3IydDNqdnU4a3Y1V04xSkg2R21raVhpekZvZ1NYRzdhdHE3MU1sR0tKSTlCeVBTSzFlZjZIMTFWX0ZZWHY2akN5YU42aWNX?oc=5"
-        },
-        {
-          "title": "ACCESS to Pharmacy Care Model Lets Pharmacists Bill for Chronic Care - Drug Topics",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3NFMEd0cGdoX28ySFN3d0hvcWloNW5qdUpkQjdRWFFfVEt2TzNFZkowMHgxYkZCQ1JuSUczUkpjdHZ3MWdoT0Q2Z2RweVp4WWgzM0xDcFM1NzRHMWlpdEx4RmYtSG1TeFJLZDZZVE",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 15:16:03 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:16:03 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3NFMEd0cGdoX28ySFN3d0hvcWloNW5qdUpkQjdRWFFfVEt2TzNFZkowMHgxYkZCQ1JuSUczUkpjdHZ3MWdoT0Q2Z2RweVp4WWgzM0xDcFM1NzRHMWlpdEx4RmYtSG1TeFJLZDZZVEhEYmpnbm1tUHRRMnNNa1NFWUFmMXhGZmFmMnQ0emRkTlVLYkZIc0lyc09RVlRWcmZ0RVE?oc=5"
-        },
-        {
-          "title": "Amazon’s CEO Touts 3-Hour Prescription Delivery in 350+ Cities. On Medicare, Your Drug Plan Still Sets the Price - Money Talks News",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXhhNFlmdUYxMU5vbGZSZmdjVGt0TV8tWE9UaWh2MlpiendLUVduUmRzampiNTZHTkFURTJqa0ItcGp0TFBZazZXdXRUQzVPd0sxTEpHSjV1RHN4VjFvcGR4Z0drTTgxQ3pWOVBVRk",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 16:30:35 GMT",
-          "published_time": "Mon, 09 Nov 2026 16:30:35 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXhhNFlmdUYxMU5vbGZSZmdjVGt0TV8tWE9UaWh2MlpiendLUVduUmRzampiNTZHTkFURTJqa0ItcGp0TFBZazZXdXRUQzVPd0sxTEpHSjV1RHN4VjFvcGR4Z0drTTgxQ3pWOVBVRk1TY2FNUmZ3RmFNazI1Qk5QTEw1dXd2bXhMcG9MQzRuS09HMjFoa3R5ZjRWNlVPamVheXRZVWJTdV8weUdwNnZOcE52OThjU1ZodmhWczRvX3BXbnFBN2NmSFJyVTVDTlE?oc=5"
-        },
-        {
-          "title": "Volume-Based Reimbursement and Cancer Drug Treatment Selection - Aaron Mitchell - UroToday",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdkdvcTVvOWI3RGVBM3lFRTJUVFUtTnJaRmROZ181dlVsb2VMbUFaUHNWb3g3RWdiYTdiWklsbjQ1Q2xDbEdnaHBraUN1ajF6ZVhYQ2ZTcE43ZDFFWVc0Qi1ZMm1wWkVITmI3ZkZwaF",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 15:06:27 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:06:27 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPdkdvcTVvOWI3RGVBM3lFRTJUVFUtTnJaRmROZ181dlVsb2VMbUFaUHNWb3g3RWdiYTdiWklsbjQ1Q2xDbEdnaHBraUN1ajF6ZVhYQ2ZTcE43ZDFFWVc0Qi1ZMm1wWkVITmI3ZkZwaFYwVjlRMFpUT0JhTlpPYzdtR3Q0Y0JBdEFHWTFudTZCaGZwSUtYbW1VSnZVLWVvbnRuaVZ0R094dGJzRm81b21NdTcwY2VsdWNlU3NUajgwVVlTcDc0b3ZCMDQwUTVsVFl3bVFsQVpIQ0VqcUlZLWY3OWNCZGtjQ0JwQ0hGaHpFMV9nOWlKazlYTkVNb1BvaXc?oc=5"
-        },
-        {
-          "title": "CMS cuts 340B drug reimbursement in 2027 outpatient rule - BenefitsPRO",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZG9LdGF2dzZ3QkVTa2tWWnplTkQ1dGl1NFcxeGRCaDlZQ2FwdGljMHYwckotSnV3VHB0b0hoaXFfVFZiLVZiOWw2UWZ4dHJ2WExtdEpBalAyUHIyd1hnN2FaeFpMOFZFcVdzQVNKS1",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 17:40:41 GMT",
-          "published_time": "Mon, 09 Nov 2026 17:40:41 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZG9LdGF2dzZ3QkVTa2tWWnplTkQ1dGl1NFcxeGRCaDlZQ2FwdGljMHYwckotSnV3VHB0b0hoaXFfVFZiLVZiOWw2UWZ4dHJ2WExtdEpBalAyUHIyd1hnN2FaeFpMOFZFcVdzQVNKS182TmpSd3lqVUltemVoQnVqcEVVeDdON3N0WjlqTEVaR0M3MkkwRXJIUmlVYWE?oc=5"
-        },
-        {
-          "title": "Employers pull back on GLP-1 weight-loss drug coverage as health costs climb - ConsumerAffairs",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3Y0X3RtTGtndUNnVTBNT2REWG9YT0JvV1pScnNhTkdiVkJOLVFLcC1Sb0NNZEVjYTFFUjYxMmlOdFdETE40bXRTdlhSbmNWWmZmMlR2RGdxSkI5R3UyczhhUFNOOF92OVJyQndHbU",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 13:03:14 GMT",
-          "published_time": "Mon, 09 Nov 2026 13:03:14 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3Y0X3RtTGtndUNnVTBNT2REWG9YT0JvV1pScnNhTkdiVkJOLVFLcC1Sb0NNZEVjYTFFUjYxMmlOdFdETE40bXRTdlhSbmNWWmZmMlR2RGdxSkI5R3UyczhhUFNOOF92OVJyQndHbUJ2RjgzRnJpWTRwMzk3MmtNZEQtOGM2QUpjR1FCQU1weVFvZVR2X2p4MUNxUE9ydUVlN1V0RUhwUkZLelFtX0lub3BRa2ZGaHNjRDNYZzJFaTNLVHM?oc=5"
-        },
-        {
-          "title": "Industry observers weigh in on Department of Labor PBM Transparency and Disclosure Rule - Drug Store News",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORWZMbjZVS1otN1AzRGpzdEZhNEtpNTNoekdjYmVUUFhmMFFmSHY1a01IbnVFdENKRVE3Z051YXVsNHgtR0lhVG1qNE5HLUpYN1NSYzlTNkhrZVVLSkg0ZmJuaV9OMW5NbUlpNzBHME",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 14:39:51 GMT",
-          "published_time": "Mon, 09 Nov 2026 14:39:51 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWZMbjZVS1otN1AzRGpzdEZhNEtpNTNoekdjYmVUUFhmMFFmSHY1a01IbnVFdENKRVE3Z051YXVsNHgtR0lhVG1qNE5HLUpYN1NSYzlTNkhrZVVLSkg0ZmJuaV9OMW5NbUlpNzBHMERTclowRUJsT3V4MUo0dmxyMlFMOGx6NXg2U05DVV9JdFhDX2F4eGFJYjNqLWIxMlJHNGZsNnkwdw?oc=5"
-        },
-        {
-          "title": "The Claim Was Paid, But Was the Drug Code Correct? What OIG’s Latest Findings Mean for Hospital Revenue Integrity - MedLearn Publishing",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2pzcWVfYUtvaFJfTkNvMF9nWXpFSlJVNVktYlRyZTBTU292bDlPeE9zMFEwTDFCUTMyenp1NXN2eEhpUlJXeFZGNThyVWRGTDVucjg5bWFjYU1MTm8wdzlLVE5JYkJhb3kyZ0VETn",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 18:52:26 GMT",
-          "published_time": "Mon, 09 Nov 2026 18:52:26 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS2pzcWVfYUtvaFJfTkNvMF9nWXpFSlJVNVktYlRyZTBTU292bDlPeE9zMFEwTDFCUTMyenp1NXN2eEhpUlJXeFZGNThyVWRGTDVucjg5bWFjYU1MTm8wdzlLVE5JYkJhb3kyZ0VETno2eWxrbUtGaVZxX0Uzb2hSNUV2akFhSjQ2Nl9nZm5XcG1aTlZzTkZldk5VNVp0MVYzcnRYdzRDS0U0NWdSQktHTGtEYmxLWTRTeG5iakxQS3ctUnRvblhTdUxRUVFnTGFReDNta0dNTTRndEVHX2c?oc=5"
-        },
-        {
-          "title": "Eli Lilly Stock (LLY) Gains After Canada Recommends Public Reimbursement of Its Alzheimer’s Drug - TipRanks",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGRpQUVPN2tTcl9MSDZhTGhUM2ktNFNweGZ5NEtlY095QlBLdENTcnVEWm80VS1SakZpSG5Tc1RSUFNNLWFadHFEV3VOaWcycTVwQmxDNU1wRlBPYzJPZHNYRXIxWTRkeUc0TlFrc1",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 15:17:34 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:17:34 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMGRpQUVPN2tTcl9MSDZhTGhUM2ktNFNweGZ5NEtlY095QlBLdENTcnVEWm80VS1SakZpSG5Tc1RSUFNNLWFadHFEV3VOaWcycTVwQmxDNU1wRlBPYzJPZHNYRXIxWTRkeUc0TlFrc1RsSFVkNy13UU9Ga29wQVJEN0dvVlhiMHY1anpVdVJaZHZMOUZwcktReElBTzJoelNkT1hDQ25yRUpmekpvVUJGcUtOZEdkZ01aRVZoY3Z3?oc=5"
-        },
-        {
-          "title": "COFEPRIS Approval Timelines: How Drug Classes Rank in 2026 - Mexico Business News",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOb21WUkFPaUxRRnhHckREblFnUG13N0tvb2k1STdtTE1xM1hIbXl1ekNxaHJCX19RZ2xDVnlRdXZhX3dWZ25pNThHM0o5OWp5QW9UWGZTQ1B2MklYSjlPWVB3NGdIbkpiNDBleEQ5ND",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 21:17:46 GMT",
-          "published_time": "Mon, 09 Nov 2026 21:17:46 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb21WUkFPaUxRRnhHckREblFnUG13N0tvb2k1STdtTE1xM1hIbXl1ekNxaHJCX19RZ2xDVnlRdXZhX3dWZ25pNThHM0o5OWp5QW9UWGZTQ1B2MklYSjlPWVB3NGdIbkpiNDBleEQ5NDJESXdWbkstbUpYbWF4Zk1CV2U0NzJQbHk1THgzTWZuazhBZzVPUFZmZjR3?oc=5"
-        },
-        {
-          "title": "3 Large-Cap Stocks to Watch as Drug & Biotech Sector Rebounds in 2026 - The Globe and Mail",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUo2R2lWdC02c1JFdlhyY0tfaWxpMUE1QUY0ZFQ5QS11cHBFRWhhelFOajRtRWFqcWdNOWx0Zl9IaXdXczlvN0hraEVnUHp3MTM4dlNSTnRxa1EwbXV2STd3TERPZGVEam9rVGZud1",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 15:20:13 GMT",
-          "published_time": "Mon, 09 Nov 2026 15:20:13 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbUo2R2lWdC02c1JFdlhyY0tfaWxpMUE1QUY0ZFQ5QS11cHBFRWhhelFOajRtRWFqcWdNOWx0Zl9IaXdXczlvN0hraEVnUHp3MTM4dlNSTnRxa1EwbXV2STd3TERPZGVEam9rVGZud1FRUkllRTU0amdCNWV3bTl6MmhEQ2l3cF9TdkYtdHpuTnRSMjBmWHk5a3lqVDY5cXUtUjVKcmdNOGJnN2k2Q1lnbF9qenppMnhXR184c3RXelM2YzdFdEVubVprc2w3V041X0x2dmFMWUdpZDY3aVlpMUN0ckxodw?oc=5"
-        },
-        {
-          "title": "Alteogen faced a \"double negative factor\" of tightening regulations on drug price negotiations in th.. - 매일경제",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENWNEUi1KM2otVl9ubXA4S3QwZzJIMDl1TDhmSFZ6MFNySjBSVmR4emg3endxbnZFV0V3OFF2QVhaNDlZUzlTLVZ4V1U3NXM?oc=5\" target=\"_blank\">Alteogen faced a \"do",
-          "section": "english",
-          "category": "Pharma Policy",
-          "time": "Mon, 09 Nov 2026 08:43:09 GMT",
-          "published_time": "Mon, 09 Nov 2026 08:43:09 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ENWNEUi1KM2otVl9ubXA4S3QwZzJIMDl1TDhmSFZ6MFNySjBSVmR4emg3endxbnZFV0V3OFF2QVhaNDlZUzlTLVZ4V1U3NXM?oc=5"
-        },
-        {
-          "title": "FDA Grants Tentative Approval for First Generic Lenacapavir - Drug Topics",
-          "source": "",
-          "importance": 47,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGFlZS1ORTVtWDBybE1WM2pMbGNqR3lLREYtOXpNZUNkNkJVQ29hb0VsZUp2M2RSb2ZVZlg1eVlxaWlPX0VXT1JIMzlyU3ZfWWlQZVhxdS1LbUVaT293cXFUUHAydDg0Z0F4YUVMQ0",
-          "section": "english",
-          "category": "Regulatory Agencies",
-          "time": "Mon, 09 Nov 2026 18:06:49 GMT",
-          "published_time": "Mon, 09 Nov 2026 18:06:49 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdGFlZS1ORTVtWDBybE1WM2pMbGNqR3lLREYtOXpNZUNkNkJVQ29hb0VsZUp2M2RSb2ZVZlg1eVlxaWlPX0VXT1JIMzlyU3ZfWWlQZVhxdS1LbUVaT293cXFUUHAydDg0Z0F4YUVMQ0JjOXdmNWRLRXRrMW1ZNjFiSDNSa3NoZHFodVFYWTBNS3k4WVRkYlE?oc=5"
+          "title": "제네릭 약가 조정... 제약업계 '수출 확대' '신약개발' 두 마리 토끼 잡을까",
+          "source": "글로벌이코노믹 on MSN",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "기존 제네릭 의약품의 단계별 약가 조정을 앞두고 국내 제약사들의 신약개발 투자 재원 확보에 부담이 커질 수 있다는 전망이 나온다. 제네릭 판매 수익이 감소할 경우 기존 연구개발 투자를 유지하면서 이를 보완할 새로운 수익 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "13시간",
+          "url": "https://www.msn.com/ko-kr/money/other/%EC%A0%9C%EB%84%A4%EB%A6%AD-%EC%95%BD%EA%B0%80-%EC%A1%B0%EC%A0%95-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84-%EC%88%98%EC%B6%9C-%ED%99%95%EB%8C%80-%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C-%EB%91%90-%EB%A7%88%EB%A6%AC-%ED%86%A0%EB%81%BC-%EC%9E%A1%EC%9D%84%EA%B9%8C/ar-AA2h3lWt?ocid=BingNewsVerp"
         }
       ]
     },
     {
       "cluster_id": 2,
-      "size": 3,
+      "size": 4,
       "keywords": [
-        "gmp",
-        "vietnam",
-        "voor",
-        "van"
+        "한약",
+        "한약사",
+        "촉구",
+        "대한한약사회",
+        "제도",
+        "정상화",
+        "국회",
+        "집회"
       ],
       "articles": [
         {
-          "title": "Araştırma ilaçlarına ve klinik deneme ilaçlarına GMP (İyi Üretim Uygulamaları) uygulanması. - Vietnam.vn",
-          "source": "",
-          "importance": 60,
+          "title": "대한한약사회, 국회에서 기자회견 개최… 30년간 방치된 한약사 제도 정상화 및 협의체 즉각 구성 촉구",
+          "source": "청년투데이",
+          "importance": 70,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "[청년투데이=장효남 기자] 도입 이후 30년이 넘도록 본래의 제도적 취지대로 작동하지 못한 채 구조적 모순 속에 표류해 온 한약사 제도의 실상을 고발하고, 정부의 무책임한 방관 속에서 현장 종사자들이 겪어내고 있는 극심한 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "6시간",
+          "url": "https://www.fnnews21.com/news/articleView.html?idxno=59205"
+        },
+        {
+          "title": "한약사 300여명 &quot;조제 기능 정상화하라&quot;…국회 앞 집회",
+          "source": "데일리팜",
+          "importance": 61,
           "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVV9JSWVuSVBENlVkTFdmUEtpVGIwOElDVDNuWVJ6Tk05Z2ZNRkZidFZQN0lBSmhPRTJ4WThEYmJ5eDRRTGJ4bW1EMzZ5YlNLdU5iVkFDdVhtWVdVVnAwZlJFajhpVTdzRjRBNXNBYm",
-          "section": "multilingual",
-          "category": "Turkish / 터키어",
-          "time": "Mon, 09 Nov 2026 09:44:32 GMT",
-          "published_time": "Mon, 09 Nov 2026 09:44:32 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVV9JSWVuSVBENlVkTFdmUEtpVGIwOElDVDNuWVJ6Tk05Z2ZNRkZidFZQN0lBSmhPRTJ4WThEYmJ5eDRRTGJ4bW1EMzZ5YlNLdU5iVkFDdVhtWVdVVnAwZlJFajhpVTdzRjRBNXNBYmJ6dmdPMVdJSEdqSVBnOXpVN1ROZW9ycVgzSlRWb2tqdTdNNXM?oc=5"
+          "snippet": "'정부는 이번 국정감사에서 밝힌 협의체 구성과 운영 지원 입장을 즉각 행동으로 옮겨야 합니다. 한약사 피해 구제를 위한 공식 협의체를 조속히 구성하고, 조제 기능 정상화와 의약품 공급 차질 해소를 위한 구체적인 대책을 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "8시간",
+          "url": "https://m.dailypharm.com/user/news/344336"
         },
         {
-          "title": "Pierre Fabre zet AI en robotica van XtalPi in voor geneesmiddelenontdekking - Unite.AI",
-          "source": "",
-          "importance": 43,
-          "stars": "⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhUTlVUNGhQdkMyaG9kZkVMeG1lY2ZPajdTaV9xOXprT1prM3BPN3FRR2lJaGxvSktaLTVvTV9PMXBtVFR2aC1QMWpmSDg5V3lab3FmRTFpckFYaU1pcExNUWdlVWlkeWw5TkZSUk",
-          "section": "multilingual",
-          "category": "Dutch / 네덜란드어",
-          "time": "Mon, 09 Nov 2026 09:54:24 GMT",
-          "published_time": "Mon, 09 Nov 2026 09:54:24 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhUTlVUNGhQdkMyaG9kZkVMeG1lY2ZPajdTaV9xOXprT1prM3BPN3FRR2lJaGxvSktaLTVvTV9PMXBtVFR2aC1QMWpmSDg5V3lab3FmRTFpckFYaU1pcExNUWdlVWlkeWw5TkZSUkxXeE92bzNrbTBDSTlHcWZvTG1falRYcHR1ZnlkR2FB?oc=5"
+          "title": "대한한약사회, 9일 국회 앞 집회…한약사 제도 정상화 촉구",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "한약사들이 30년 넘게 해결되지 않은 한의약분업 문제와 일반의약품 공급 제한에 따른 피해를 호소하며 국회 앞 집회에 나선다. 한약사 제도 도입 취지에 맞는 조제체계 마련과 피해 구제를 위한 공식 협의체 구성을 정부에 요구한다는 계획이다. 대한한약사회(회장 임채윤)는 오는 9일 오전 11시 국회 정문 앞에서 현직 한약사와 한약학과 교수 및 학생 등 약 400",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421230"
         },
         {
-          "title": "Het toepassen van GMP op geneesmiddelen voor onderzoek en klinische proeven. - Vietnam.vn",
-          "source": "",
-          "importance": 43,
-          "stars": "⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmpfUGFsSVo0QldTdnd2amlqeDRFSW9CQnRaSWVvQ2VQMElubjFYX01uZkh1MWZwQ1BSY0RiSG9MRDBKb0Vfd3dVRTdVYi1Dem9lY1JpRy04SkROT0tnQUNMU2ZrTGFCMi10aW9ldE",
-          "section": "multilingual",
-          "category": "Dutch / 네덜란드어",
-          "time": "Mon, 09 Nov 2026 09:47:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 09:47:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmpfUGFsSVo0QldTdnd2amlqeDRFSW9CQnRaSWVvQ2VQMElubjFYX01uZkh1MWZwQ1BSY0RiSG9MRDBKb0Vfd3dVRTdVYi1Dem9lY1JpRy04SkROT0tnQUNMU2ZrTGFCMi10aW9ldEpZRkJiQVBJNzVaWTRCWExndEU2YnRIeFl3RDd3c01mTVEyNDQ?oc=5"
+          "title": "한의약분업 30년 미이행…설 자리 잃은 한약사 3500명",
+          "source": "뉴스웍스",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[뉴스웍스=원성훈 기자] 대한한약사회가 9일 한의약분업 미이행으로 한약사들이 30년 넘게 피해를 입고 있다며 정부에 피해 구제를 위한 공식 협의체 구성을 촉구했다. 정부가 한약사 면허를 만들고도 본연의 업무인 한약 조제를 할 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "9시간",
+          "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902388"
         }
       ]
     },
     {
       "cluster_id": 3,
-      "size": 2,
+      "size": 4,
       "keywords": [
-        "farmasi",
-        "kimia",
-        "farma",
-        "industri"
+        "허가",
+        "수수료",
+        "개발",
+        "심사",
+        "의약품"
       ],
       "articles": [
         {
-          "title": "Dukung Eliminasi TBC, Kimia Farma Dorong Penguatan Industri Farmasi - Kompas.com",
-          "source": "",
-          "importance": 55,
-          "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVZPTWhzTW96NzJMNUFJTTdjSkFXTlJ6WHh2YUU4OGttaDI3ZzRRaVByNk5BeEFEQWFrVVlhRDFheVdBLWJKVXFwYjVvY2VtR0ZURWJiQXR1X1RyNUZEN0dzUnZKTDN5cm9qZEs1dm",
-          "section": "multilingual",
-          "category": "Indonesian / 인도네시아어",
-          "time": "Mon, 09 Nov 2026 13:31:00 GMT",
-          "published_time": "Mon, 09 Nov 2026 13:31:00 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQVZPTWhzTW96NzJMNUFJTTdjSkFXTlJ6WHh2YUU4OGttaDI3ZzRRaVByNk5BeEFEQWFrVVlhRDFheVdBLWJKVXFwYjVvY2VtR0ZURWJiQXR1X1RyNUZEN0dzUnZKTDN5cm9qZEs1dm1FdFFaRnAtbElPZmhtT044cnh4RGNFNlhJZDBxUkRfdWFTTWJpYVJhVFNKbzBvV2ViaU5CeExnUXhPSi1fdWUtWmF1QVUzMFhL?oc=5"
+          "title": "자료제출약 허가 수수료 6배로…중소 제약사 개발 부담 커지나",
+          "source": "쿠키뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "쿠키뉴스 자료사진. 그래픽=한지영 디자이너 식품의약품안전처가 자료제출의약품의 품목허가 수수료를 현행의 6배 수준으로 올리는 방안을 추진한다. 안전성&#183;유효성 사전검토 수수료도 7배 수준으로 인상하기로 하면서 중소 제약사의 개발 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "5시간",
+          "url": "https://www.kukinews.com/article/view/kuk202611090154"
         },
         {
-          "title": "Kimia Farma Perkuat Industri Farmasi Lewat Kolaborasi Strategis - Limapagi",
-          "source": "",
-          "importance": 55,
+          "title": "고난도 심사가 필요한 의약품의 품목허가, 변경허가, 사전검토 수수료 개편",
+          "source": "메디컬헤럴드",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "식품의약품안전처(처장 오유경)는 신약 외 첨단바이오의약품*, 신규생물의약품, 자료제출의약품**의 품목허가 등 수수료 현실화를 주요 내용으로 하는 '첨단바이오의약품 안전 및 지원에 관한 규칙' 및 '의약품 등의 허가 등에 관한 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "11시간",
+          "url": "http://www.mediherald.com/news/articleView.html?idxno=90960"
+        },
+        {
+          "title": "최초 허가부터 변경&#183;사전검토까지…의약품 개발 전주기 수수료 체계 바뀐다",
+          "source": "미디어펜 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "식약처가 신약 외 첨단바이오의약품과 생물의약품의 허가 수수료를 대폭 인상하며, 허가&#183;심사 체계를 개편한다. 주요 항목은 최대 11배 인상될 예정이다.",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "5시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%B5%9C%EC%B4%88-%ED%97%88%EA%B0%80%EB%B6%80%ED%84%B0-%EB%B3%80%EA%B2%BD-%EC%82%AC%EC%A0%84%EA%B2%80%ED%86%A0%EA%B9%8C%EC%A7%80-%EC%9D%98%EC%95%BD%ED%92%88-%EA%B0%9C%EB%B0%9C-%EC%A0%84%EC%A3%BC%EA%B8%B0-%EC%88%98%EC%88%98%EB%A3%8C-%EC%B2%B4%EA%B3%84-%EB%B0%94%EB%80%90%EB%8B%A4/ar-AA2h2QzP?ocid=BingNewsVerp"
+        },
+        {
+          "title": "의약품 허가 수수료 최대 6배 인상... 제약업계 비용만큼 심사 개선 필요",
+          "source": "마이데일리 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[마이데일리 = 이호빈 기자] 식품의약품안전처가 의약품 허가 수수료 인상을 추진하면서 제약사들의 비용 부담이 커질 전망이다. 개량신약 등 일부 품목의 허가 수수료는 지금보다 6배 이상 오를 것으로 예상된다. 9일 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "16시간",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%9D%98%EC%95%BD%ED%92%88-%ED%97%88%EA%B0%80-%EC%88%98%EC%88%98%EB%A3%8C-%EC%B5%9C%EB%8C%80-6%EB%B0%B0-%EC%9D%B8%EC%83%81-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84-%EB%B9%84%EC%9A%A9%EB%A7%8C%ED%81%BC-%EC%8B%AC%EC%82%AC-%EA%B0%9C%EC%84%A0-%ED%95%84%EC%9A%94/ar-AA2h2tMU?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "목디스크",
+        "환자",
+        "한의치료",
+        "뒤에도",
+        "받은",
+        "수술률"
+      ],
+      "articles": [
+        {
+          "title": "“한의치료 받은 목디스크 환자, 3년 뒤에도 효과 유지”",
+          "source": "쿠키뉴스 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한의통합치료를 받은 목디스크 환자들의 통증과 기능, 삶의 질 개선 효과가 3년이 지난 뒤에도 이어졌다는 연구 결과가 나왔다. 이 기간 수술로 전환한 사례도 없었다. 자생한방병원 척추관절연구소 이수원 원장 연구팀은 이 같은 내용의 연구 결과가 SCI(E)급 국제학술지 ‘통증연구저널(Journal of Pain Research, IF=3.1)’에 게재됐다고 9",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "3시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EC%9D%98%EC%B9%98%EB%A3%8C-%EB%B0%9B%EC%9D%80-%EB%AA%A9%EB%94%94%EC%8A%A4%ED%81%AC-%ED%99%98%EC%9E%90-3%EB%85%84-%EB%92%A4%EC%97%90%EB%8F%84-%ED%9A%A8%EA%B3%BC-%EC%9C%A0%EC%A7%80/ar-AA2h2UXt?ocid=BingNewsVerp"
+        },
+        {
+          "title": "[D-BIZ 한방의료] &quot;한의통합치료 목디스크 환자 3년간 수술률 0%&quot;…자생한방병원 장기 추적 결과",
+          "source": "데일리비즈온",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[데일리비즈온 박노충 기자] 자생한방병원 척추관절연구소가 한의통합치료를 받은 목디스크 환자의 3년 장기 추적 연구 결과를 발표했다. 치료 후 통증 감소와 기능 개선 효과가 3년간 지속됐으며, 기간 내 수술 전환 사례는 단 한 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "9시간",
+          "url": "https://www.dailybizon.com/news/articleView.html?idxno=71997"
+        },
+        {
+          "title": "한의치료 받은 목디스크 환자, 3년 뒤에도 수술률 제로 확인",
+          "source": "글로벌경제신문 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "한의통합치료를 받은 목디스크(경추추간판탈출증) 환자들의 통증 개선 효과가 3년이 지난 뒤에도 유지된 것으로 나타났다. 추적 기간 중 수술로 전환한 환자는 한 명도 없었다.자생한방병원 척추관절연구소(소장 하인혁) 이수원 원장 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "7시간",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%ED%95%9C%EC%9D%98%EC%B9%98%EB%A3%8C-%EB%B0%9B%EC%9D%80-%EB%AA%A9%EB%94%94%EC%8A%A4%ED%81%AC-%ED%99%98%EC%9E%90-3%EB%85%84-%EB%92%A4%EC%97%90%EB%8F%84-%EC%88%98%EC%88%A0%EB%A5%A0-%EC%A0%9C%EB%A1%9C-%ED%99%95%EC%9D%B8/ar-AA2h4v4A?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "quot",
+        "바이오",
+        "k-바이오"
+      ],
+      "articles": [
+        {
+          "title": "&quot;임상1상 세계 4위인데&quot;…뒷심 부족한 K-바이오",
+          "source": "뉴시스",
+          "importance": 50,
           "stars": "⭐⭐⭐",
-          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWGhHY29GVnRlTzBRd291TTlqS3JUcE53M3VLMXhMV1U0cDY1VHg4RW9qYThhVW12N1FrV3VGVkEwMmJiOFRfR3JnTTY1Ul80RTBlUHlNVjIxVnVSYmoxcDY5MmZtcll5U2JhRg?oc=",
-          "section": "multilingual",
-          "category": "Indonesian / 인도네시아어",
-          "time": "Mon, 09 Nov 2026 13:36:25 GMT",
-          "published_time": "Mon, 09 Nov 2026 13:36:25 GMT",
-          "modified_time": "",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aWGhHY29GVnRlTzBRd291TTlqS3JUcE53M3VLMXhMV1U0cDY1VHg4RW9qYThhVW12N1FrV3VGVkEwMmJiOFRfR3JnTTY1Ul80RTBlUHlNVjIxVnVSYmoxcDY5MmZtcll5U2JhRg?oc=5"
+          "snippet": "[서울=뉴시스]황재희 기자 = 국내 제약&#183;바이오 산업이 초기 임상에서는 글로벌 상위권에 이름을 올렸지만, 신약 상업화를 좌우하는 후기 임상에서는 여전히 존재감이 약한 것으로 나타났다. 기술수출 성과와 함께 임상 2&#183;3상을 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "7시간",
+          "url": "https://www.newsis.com/view/NISX20261109_0003860419"
+        },
+        {
+          "title": "英 제약전문지가 韓 찾은 이유? &quot;K-바이오, 글로벌 위상 확 바뀌었다&quot;",
+          "source": "머니투데이 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "영국 제약&#183;바이오 전문매체 '파마보드룸'(Pharma Boardroom)이 약 7년 만에 한국을 찾았다. 국내 다수 기업과 만나 약 40건의 인터뷰를 진행했다. 파마보드룸은 화이자와 로슈 등 글로벌 빅파마(대형제악사)와 산업 협력 관계를 구축하고, 블룸버그터미널에 리포트(보고서)를 유통한다. 한국 기업 리포트 발행은 2019년이 마지막이다. 파마보",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "10시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%E8%8B%B1-%EC%A0%9C%EC%95%BD%EC%A0%84%EB%AC%B8%EC%A7%80%EA%B0%80-%E9%9F%93-%EC%B0%BE%EC%9D%80-%EC%9D%B4%EC%9C%A0-k-%EB%B0%94%EC%9D%B4%EC%98%A4-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9C%84%EC%83%81-%ED%99%95-%EB%B0%94%EB%80%8C%EC%97%88%EB%8B%A4/ar-AA2h1b97?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "표창",
+        "예수병원"
+      ],
+      "articles": [
+        {
+          "title": "예수병원, 의료관련감염예방 공로 질병청장 표창",
+          "source": "전라매일",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "전주 예수병원이 의료관련감염 예방과 환자 안전관리 체계 구축에 기여한 공로로 질병관리청장 표창을 받았다.예수병원은 질병관리청이 주관한 ‘2026년 의료관련감염 예방&#183;관리 주간’을 맞아 감염 예방과 안전한 의료환경 ...",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "http://m.jlmaeil.com/view.php?idx=306904"
+        },
+        {
+          "title": "전주 예수병원, 의료관련감염 예방&#183;관리 ‘질병관리청장 표창’ 수상",
+          "source": "전북도민일보",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "전주 예수병원(병원장 신충식)이 국가 의료관련감염 예방 및 관리에 헌신적으로 노력하여 국민보건 향상에 기여한 공로를 인정받아 ‘질병관리청장 표창’을 수상했다.이번 표창은 질병관리청이 ‘2026년 의료관련감염 예방&#183;관리 주간’을 기념해 감염 예방과 안전한 의료환경 조성을 위해 선도적인 역할을 수행한 우수 의료기관을 선정해 수여한 상이다.예수병원은 그",
+          "section": "korean",
+          "category": "감염·보건",
+          "time": "1일",
+          "url": "https://domin.co.kr/news/articleView.html?idxno=1574672"
         }
       ]
     }
   ],
   "uncategorized_articles": [
     {
-      "title": "L’industrie pharmaceutique au cœur de la transition écologique - Université de Bordeaux",
-      "source": "",
-      "importance": 53,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbV84VzNQbzlIM3lYX3hXYi1vNDZXd2tGdTN4UlNkaUdDOElGeklfVTNpUGFOWTlpYWhvUXhKWjBDZk9lRGZ3MWdmN3ZZaHY1MmVSR3h6Undya2NLaHV4eEtTYnpidlhxQ00wUzdGQ3",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbV84VzNQbzlIM3lYX3hXYi1vNDZXd2tGdTN4UlNkaUdDOElGeklfVTNpUGFOWTlpYWhvUXhKWjBDZk9lRGZ3MWdmN3ZZaHY1MmVSR3h6Undya2NLaHV4eEtTYnpidlhxQ00wUzdGQ3F6NzFHNDNueDBQZjNqZERPTmdYNXVYZlVoXzZqZjUwbmZ2STItcG9xa1lHWGg2a3RV?oc=5"
+      "title": "섬인데도 외부 차량에 뚫린 방역망…내부 방역도 ‘부실’ [강화, 전염병 가축 무덤 잔혹사 ②]",
+      "source": "경기일보",
+      "importance": 52,
+      "snippet": "인천 강화군에서 최근 구제역이 발생해 소 3마리를 살처분하는 등 올해 4번째 가축전염병이 발생했다. 지난 10년간 강화군에서만 소&#183;닭&#183;돼지 등 8만마리를 살처분했다. 잊을 만하면 터지는 구제역, 아프리카돼지열병(ASF), ...",
+      "url": "https://www.kyeonggi.com/article/20261109580428"
     },
     {
-      "title": "Ca Mau : Orientation du développement de la médecine traditionnelle jusqu'en 2030, vision à l'horizon 2045 - Vietnam.vn",
-      "source": "",
+      "title": "전남광주시, 조류인플루엔자&#183;럼피스킨 차단방역 강화",
+      "source": "더팩트",
+      "importance": 52,
+      "snippet": "[더팩트ㅣ전남광주=조효근 기자] 전남광주시가 고병원성 조류인플루엔자 (AI)와 소 럼피스킨 (LSD) 확산을 막기 위해 철새도래지와 축산 농가를 대상으로 방역 활동을 강화한다. 전남광주시는 최근 시&#183;군 방역부서 영상회의를 ...",
+      "url": "https://news.tf.co.kr/read/releasecopy/2386446.htm"
+    },
+    {
+      "title": "외부자본 약국 침투 막을까?…27일 네트워크약국 규제 시행",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "약사나 한약사가 둘 이상의 약국을 개설하거나 운영하는 것을 금지하는 개정 약사법 시행이 3주 앞으로 다가왔다. 기존 1인 1약국 원칙이 약국 개설뿐 아니라 실질적인 운영까지 규제하도록 명문화되면서 약국가에도 적지 않은 변화가 예상된다. 특히 최근 창고형&#183;네트워크형 약국을 중심으로 외부자본의 경영개입 논란이 이어져 온 만큼 개정법 시행 이후 어떤 운",
+      "url": "https://www.dailypharm.com/user/news/344276"
+    },
+    {
+      "title": "제약바이오 9곳 벌써 매출 1조원, 실적 이끈 성장동력은",
+      "source": "약사공론",
       "importance": 50,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEpQSHFrTHNFN2dTNzNZZFJxZEQ1cC1maGtVNzB3UTZMeTVUTjdXRnR2M1haY3hJMTlFVUQ3YzlyeElqS3E0ZDRWUmVOTXpwMEJrY1loSnRNTlp1ZUlZQnVXcXlUY2dFeENjdEtYd0",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEpQSHFrTHNFN2dTNzNZZFJxZEQ1cC1maGtVNzB3UTZMeTVUTjdXRnR2M1haY3hJMTlFVUQ3YzlyeElqS3E0ZDRWUmVOTXpwMEJrY1loSnRNTlp1ZUlZQnVXcXlUY2dFeENjdEtYd0k1cWhsaVdXQU9odVVJcU83cWloQ2lHbU9sWFRnTDVjdFhZWUZFd3E5bUNpZ04wVk5KYTBXTTlPNHk?oc=5"
+      "snippet": "국내 주요 제약바이오 기업들이 올해 3분기까지 잇따라 누적 매출 1조원을 넘어섰다. 바이오 대기업들이 4조원대 매출을 기록한 가운데 전통 제약사들도 신약과 주력 의약품, 해외 수출, 신규 도입 품목 등을 앞세워 외형 성장을 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548405"
     },
     {
-      "title": "El PP blinda en su programa el modelo de farmacia comunitaria y se compromete a acelerar el acceso a nuevos medicamentos - El Globalfarma",
-      "source": "",
-      "importance": 50,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEFDRHRIQzA2RHgzcEJXNlJuQkxGY3dsVHhxelZtanF0U3gwWjVCTWdqb0dFcHpsRGxJeHdIWUJUWFFsZVEwZmFZWV9CUGxoTUlGY2pYQWtxQVQ3elBaSzJuY0R6dkhiVENoSW5YTj",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEFDRHRIQzA2RHgzcEJXNlJuQkxGY3dsVHhxelZtanF0U3gwWjVCTWdqb0dFcHpsRGxJeHdIWUJUWFFsZVEwZmFZWV9CUGxoTUlGY2pYQWtxQVQ3elBaSzJuY0R6dkhiVENoSW5YTjJTLVRsbmZLMldJWlo1R1JoWWthTnVkN1pnZnhSWXBEQQ?oc=5"
+      "title": "보건의료노조 &quot;의사 부족 해소만으로 지역의료 강화 한계&quot;",
+      "source": "청년의사",
+      "importance": 42,
+      "snippet": "지역&#183;필수&#183;공공의료 강화를 위한 정부 투자가 병원 시설과 의사 인력 확충에 그쳐서는 안 된다는 지적이 나왔다. 간호사와 의료기사 등 보건의료인력 확보와 공공병원의 안정적인 운영을 위한 재정 지원도 함께 이뤄져야 한다는 주장이다.전국보건의료산업노동조합은 9일 성명을 내고 국회에 2027년도 정부 예산안 심의 과정에서 적정인력 기준 마련과 공",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044408"
     },
     {
-      "title": "दवा उद्योग को ₹7,000 करोड़ का सहारा देने की तैयारी में सरकार, रिसर्च के साथ उत्पादन बढ़ाने पर जोर - Business Standard",
-      "source": "",
-      "importance": 50,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VybDZzUVoxb1NfZnhacllXdWlsMmRNdjBNUWg3d01LdG1pZE9UOXIxLUdaMFcyLVBZUVdYbHNkU3dfXzVRQW9TWVVJOXZtcGxJRXh0NWRTLXR4clVxV3oxU0NfUVBlSFh2ZkFsb3",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VybDZzUVoxb1NfZnhacllXdWlsMmRNdjBNUWg3d01LdG1pZE9UOXIxLUdaMFcyLVBZUVdYbHNkU3dfXzVRQW9TWVVJOXZtcGxJRXh0NWRTLXR4clVxV3oxU0NfUVBlSFh2ZkFsb3NXYVVhRzRaVmFSaEd1SEdsSzBNWmJTNERlRVB4ZHluRDU0UkNhRTdRM3dTSFJfQXdISlQxb2M4UXoyUVJLYVlUemZyR0tWaGw2ZG9Ga01XVzJyWFJXX1RiMUpiQWdCRHPSAdQBQVVfeXFMTzgtMy0ySTFjQzBBNXZTQy1Ga3BsR1ZlbmxBZTNtck5PVS14MkpZd0hzQkYtM2YzQjl2M1EwRHcwODUwdjdKMVBpSlVjbW9UYnFpQl9iMWZSRnpmZHlmc1E3V05BaW1IVnRYNHQxQWV0TXNyak9OTng4QVBOZkgyS0FmQ3ZvTXZ5TjJiVlpsUVltbFpPTElXSnZya3RNcnhMbWk1dUxZYi1zYW9La2xuZHhkTUhJOUZGNmFmd2huQjhIUUdsT2lHaTlEampxNVR4RE5lUkI?oc=5"
+      "title": "[긴급진단/ 공공의료 확충과 의사 양성, 울산의 해법은] 역량있는 의사 유입&#183;지역교육 확대 투트랙으로",
+      "source": "경상일보 on MSN",
+      "importance": 42,
+      "snippet": "울산의 의사 부족 문제를 해결하기 위해서는 의대생의 지역 실습 확대를 넘어 전공의 수련과 전문의 취업, 장기 정착으로 이어지는 의료인력 양성체계가 구축돼야 한다. 의대생이 울산에서 교육받는 것과 졸업 후 의사가 울산에 ...",
+      "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%EA%B8%B4%EA%B8%89%EC%A7%84%EB%8B%A8-%EA%B3%B5%EA%B3%B5%EC%9D%98%EB%A3%8C-%ED%99%95%EC%B6%A9%EA%B3%BC-%EC%9D%98%EC%82%AC-%EC%96%91%EC%84%B1-%EC%9A%B8%EC%82%B0%EC%9D%98-%ED%95%B4%EB%B2%95%EC%9D%80-%EC%97%AD%EB%9F%89%EC%9E%88%EB%8A%94-%EC%9D%98%EC%82%AC-%EC%9C%A0%EC%9E%85-%EC%A7%80%EC%97%AD%EA%B5%90%EC%9C%A1-%ED%99%95%EB%8C%80-%ED%88%AC%ED%8A%B8%EB%9E%99%EC%9C%BC%EB%A1%9C/ar-AA2h56xf?ocid=BingNewsVerp"
     },
     {
-      "title": "קה מאו: כיוון פיתוח לרפואה המסורתית עד 2030, חזון עד 2045 - Vietnam.vn",
-      "source": "",
-      "importance": 50,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYl9aUnRQYjZJWUVEMWFpbHppeTlONHRRWFZoQTB0eXNjRnRUQWcxT1AtSWt0QTRXNFpFX0t5TEZkNU1JTk1IY0E3ZmJxVC1FVTlHbVBrMVFMY2pkbENVWDZvNFdxTGtTYmtRMjl2ZV",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYl9aUnRQYjZJWUVEMWFpbHppeTlONHRRWFZoQTB0eXNjRnRUQWcxT1AtSWt0QTRXNFpFX0t5TEZkNU1JTk1IY0E3ZmJxVC1FVTlHbVBrMVFMY2pkbENVWDZvNFdxTGtTYmtRMjl2ZVZPU1l6V005WFliSzZ1SHdBRjNDSEtBTWtQTTg5bm91dXBFTFRmSUpmTmdpejRhVkh5VG05OW1BY1I?oc=5"
+      "title": "'독감 다시 확산'…원주시, 어린이&#183;어르신 예방접종 당부",
+      "source": "뉴시스 on MSN",
+      "importance": 42,
+      "snippet": "강원 원주시가 인플루엔자(독감) 의심환자가 다시 증가함에 따라 어린이와 어르신, 임신부 등 고위험군의 예방접종을 당부했다. 질병관리청에 따르면 지난 10월 25~31일 인플루엔자 의사환자 분율은 외래환자 1000명당 ...",
+      "url": "https://www.msn.com/ko-kr/health/%EC%A7%88%EB%B3%91-%EB%B0%8F-%EC%83%81%ED%83%9C/%EB%8F%85%EA%B0%90-%EB%8B%A4%EC%8B%9C-%ED%99%95%EC%82%B0-%EC%9B%90%EC%A3%BC%EC%8B%9C-%EC%96%B4%EB%A6%B0%EC%9D%B4-%EC%96%B4%EB%A5%B4%EC%8B%A0-%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85-%EB%8B%B9%EB%B6%80/ar-AA2h177Q?ocid=BingNewsVerp"
     },
     {
-      "title": "MHRA grants Innovation Passports to three novel drugs - pharmaphorum",
-      "source": "",
-      "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGN1cHhVUFlkbWRlR0VESzF2ZGdzaEdtVmRYei1ucUV1TEdSQVhDRDJIam01OVNFZWxQd3NOd3F4TV9Pb1Z0VWVNd0JBVm9JUmhXR0xxUVhZdmsyRFM2SnNESnBqQXBTSkpmSjBvRk",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVGN1cHhVUFlkbWRlR0VESzF2ZGdzaEdtVmRYei1ucUV1TEdSQVhDRDJIam01OVNFZWxQd3NOd3F4TV9Pb1Z0VWVNd0JBVm9JUmhXR0xxUVhZdmsyRFM2SnNESnBqQXBTSkpmSjBvRkNaanA1X3Izb3FDMVM0aFZhUXV0R2FCaWs?oc=5"
+      "title": "음성군, 가축전염병 특별방역 추진, 고병원성 AI 확산 방지 주력",
+      "source": "대전일보 on MSN",
+      "importance": 42,
+      "snippet": "[음성]음성군은 겨울철 '고병원성 조류인플루엔자(AI)' 발생을 선제적으로 차단하기 위해 현장 중심의 고강도 방역 대응 체제에 돌입했다고 8일 밝혔다.이번 조치는 최근 경기도 연천군의 산란계 농장에서 고병원성 AI가 확진되고 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%9D%8C%EC%84%B1%EA%B5%B0-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%ED%8A%B9%EB%B3%84%EB%B0%A9%EC%97%AD-%EC%B6%94%EC%A7%84-%EA%B3%A0%EB%B3%91%EC%9B%90%EC%84%B1-ai-%ED%99%95%EC%82%B0-%EB%B0%A9%EC%A7%80-%EC%A3%BC%EB%A0%A5/ar-AA2gZrp9?ocid=BingNewsVerp"
     },
     {
-      "title": "GLP-1 drugs show lower obesity-related cancer risk than insulin, but not all diabetes treatments - Medical Xpress",
-      "source": "",
-      "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFlwWVlqNVdpQUQ1SWM0YTA5N25DQ1Nuc2hqcDMwX2FtS3pLSUJxem9fbXppTGJOckxPdDRWTlR5aWtXZThFZ3NHaTdJM1NVN19RM2U4ZDVaM2RNVUdIYnZDOVhBWE9GVjAxS1FUUz",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFlwWVlqNVdpQUQ1SWM0YTA5N25DQ1Nuc2hqcDMwX2FtS3pLSUJxem9fbXppTGJOckxPdDRWTlR5aWtXZThFZ3NHaTdJM1NVN19RM2U4ZDVaM2RNVUdIYnZDOVhBWE9GVjAxS1FUUzM2NnotaFB6aExYcDhQdVFPS3l3?oc=5"
+      "title": "내년 만료 예정 의약품 특허 83개…제네릭 시장 새 경쟁 예고",
+      "source": "메디파나 뉴스",
+      "importance": 41,
+      "snippet": "내년 국내 의약품 시장에서 존속기간 만료를 앞둔 특허가 83개에 달하는 것으로 나타났다. 비만&#183;당뇨병 치료제부터 항암제, 고혈압 치료제, 백신에 이르기까지 주요 의약품의 특허 만료 일정이 이어지면서 국내 제약사들의 후발의약품 개발과 시장 진입 경쟁도 한층 활발해질 전망이다. 8일 식품의약품안전처의 '의약품특허목록' 자료를 분석한 결과, 2027년 ",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=421221"
     },
     {
-      "title": "A triazole–quinoline derivative of 5- O -mycaminosyltylonolide exhibits potent activity against multidrug-resistant Enterobacterales in combination with SPR741 - Nature",
-      "source": "",
-      "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dWJqY3ZBamNYMDFRRDhzczVZYmV0MU5haDVDUkJyRDJUaG9rLXBGVVVHWjdVU0F6dnVMYUhhSHd1MmlmQkkyRjlSYzFIc21jc2c5WEhWTmpEOEh3N3pV?oc=5\" target=\"_blank\"",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dWJqY3ZBamNYMDFRRDhzczVZYmV0MU5haDVDUkJyRDJUaG9rLXBGVVVHWjdVU0F6dnVMYUhhSHd1MmlmQkkyRjlSYzFIc21jc2c5WEhWTmpEOEh3N3pV?oc=5"
-    },
-    {
-      "title": "Over 1,300 anti-cancer drugs to get cheaper - The Economic Times",
-      "source": "",
-      "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW5mUkJaU1RzVHFiUEg3V0YzOXY0eXZHd2ZYSFRLWGhGbnQtTDBVSXY5bjFYWEVFcTI3SlZ6bnVKc0Q5c01OSnNCRHpyVkxSRlF0QVlyQWcwdmdWYzlKZk1vVVRHWS00dXNXaFVzZT",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRW5mUkJaU1RzVHFiUEg3V0YzOXY0eXZHd2ZYSFRLWGhGbnQtTDBVSXY5bjFYWEVFcTI3SlZ6bnVKc0Q5c01OSnNCRHpyVkxSRlF0QVlyQWcwdmdWYzlKZk1vVVRHWS00dXNXaFVzZTZjalo3RGg0aXhKUklsaXRaMlF1Z2pKeTlOUzUyLWJSc1Z1YTdkbkNZUmNBLVpFRDV3UWk2SkN4bWNNbnVSQ2p5R3lET3pSMGh1dUxqb3JVMVNHUS13M1BsdW8zR25oNlFqR3FMbFdFWdIB3AFBVV95cUxNaXZIQmZOcko3YlJTdnZGTWd5VWNldTVETlBLR1VnQ2xjX2F4RE1wSXB2Szl4Q0VleEczYlBvRHJJaFNvLVpFdWk3bWNTLUVqTWFFNENnQlcxVFZSODVDUXIyYVJwMmRvelozZ3owakxkUjM3WmI2Z3QxR01mbU50MWhlWlZoWi01anM2WlJaTzl2MC16RHNfclB0Z2xVTzRBRFNnOS1LWHE3OXdOcEFZUUYwUmdZODRzXzVvWDY5cjdxbExKS3U2anhKcmVaT2dGdEFacjZraFRlazgx?oc=5"
-    },
-    {
-      "title": "Bộ Y tế hoàn thiện quy định quản lý chất lượng dược liệu và thuốc cổ truyền - https://thuonghieusanpham.vn/",
-      "source": "",
-      "importance": 47,
-      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZThIRnBlTV9xNFdrTWtudW5SdGRlRWFhUlZ6X2xOZE9SOTF2UFoyREJfQ3BySHhJcklpRkZmM1RXUFJlZUltOEpjcUpiSzhrNy1PZEx5Q1g5LXpyVVdhaTVPVzBNMUd1dW92MlFZTl",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZThIRnBlTV9xNFdrTWtudW5SdGRlRWFhUlZ6X2xOZE9SOTF2UFoyREJfQ3BySHhJcklpRkZmM1RXUFJlZUltOEpjcUpiSzhrNy1PZEx5Q1g5LXpyVVdhaTVPVzBNMUd1dW92MlFZTlJUd3dzYjNVR1pQQjY1eGx1VU9wMExGY2pqTzNJNG5jeVFLNTQtNllsZkhpMUhaTVRDQWpfYWFKYw?oc=5"
+      "title": "[전문약 리포트] 10월 치료제 시장 일제히 감소, 성장세 주춤",
+      "source": "약사공론",
+      "importance": 40,
+      "snippet": "고지혈증 복합제 (C10B) 시장은 10월 1753억1200만원으로 전월 1992억900만원 대비 12.0% 감소했다. 주요 치료영역 가운데 감소액이 238억9700만원에 달하며 큰 폭의 변화를 나타냈다.",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548435"
     }
   ],
-  "filter_policy": "Candidate timestamps checked in published_time, modified_time, updated_time, time order; retained if in KST window or same UTC date as window start.",
-  "source_collected_at": "2026-11-10T06:30:44.909811+09:00"
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 10,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 14,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 9,
+      "en_count": 2
+    }
+  ]
 }
