@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-13",
+  "total_articles": 412,
+  "language_breakdown": {
+    "korean": {
+      "total": 204,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 22,
+        "의약단체": 25,
+        "의약관련정부기관": 23,
+        "의료현장": 24,
+        "약국·약사": 2,
+        "의료정책·인력": 25,
+        "전통의학": 8,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 114,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 22,
+        "Regulatory Agencies": 13,
+        "Traditional & Complementary Medicine": 4
+      }
+    },
+    "multilingual": {
+      "total": 94,
+      "languages": {
+        "French / 프랑스어": 9,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 5,
+        "Portuguese / 포르투갈어": 9,
+        "Dutch / 네덜란드어": 0,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 4,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 3,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 8,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 3,
+        "Arabic / 아랍어": 9,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 25
+    },
+    {
+      "keyword": "급여",
+      "count": 16
+    },
+    {
+      "keyword": "임상",
+      "count": 15
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "한약",
+      "count": 9
+    },
+    {
+      "keyword": "항암",
+      "count": 9
+    },
+    {
+      "keyword": "약가",
+      "count": 7
+    },
+    {
+      "keyword": "백신",
+      "count": 6
+    },
+    {
+      "keyword": "FDA",
+      "count": 4
+    },
+    {
+      "keyword": "비만",
+      "count": 3
+    },
+    {
+      "keyword": "마운자로",
+      "count": 3
+    },
+    {
+      "keyword": "허가",
+      "count": 3
+    },
+    {
+      "keyword": "수출",
+      "count": 3
+    },
+    {
+      "keyword": "심사",
+      "count": 2
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 11
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 8
+    },
+    {
+      "keyword": "obesity",
+      "count": 4
+    },
+    {
+      "keyword": "approval",
+      "count": 4
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "regulation",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "safety",
+      "count": 2
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 7
+    },
+    {
+      "source": "의학신문",
+      "count": 6
+    },
+    {
+      "source": "약업닷컴",
+      "count": 4
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "코리아헬스로그",
+      "count": 3
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "메디칼업저버",
+      "count": 2
+    },
+    {
+      "source": "국제뉴스",
+      "count": 2
+    },
+    {
+      "source": "더팩트",
+      "count": 1
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "위암&#183;유방암&#183;림프종 치료제, 건강보험 급여 첫 관문 통과",
+      "source": "hdnews",
+      "importance": 42,
+      "snippet": "[현대경제=경제] 위암과 유방암, 림프종 등 주요 암 치료에 사용되는 항암제들이 건강보험 급여 적용을 위한 첫 심의 관문을 통과했다.향후 후속 평가와 협상이 마무리되면 해당 치료제를 사용하는 암 환자들의 약값 부담이 줄어들 ...",
+      "url": "https://www.hdnews.co.kr/news/articleView.html?idxno=362398"
+    },
+    {
+      "title": "NRx Pharmaceuticals Q3FY26 Results: Earnings call set for November 17, 2026 - scanx.trade",
+      "source": "",
+      "importance": 27,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDJiN3dHcGM1YWVyMzFvSWFZeFNFQUZrTnh1RkRreFdGYW9mNXhSTmZzaVpoMGJwdjRSUURFNktIRHg1ZjBXdVF4ODZfOUU0Sy1MY0l1Y04xWDN4VG9BX0dpREtIUFpNZWFWZXktVl",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDJiN3dHcGM1YWVyMzFvSWFZeFNFQUZrTnh1RkRreFdGYW9mNXhSTmZzaVpoMGJwdjRSUURFNktIRHg1ZjBXdVF4ODZfOUU0Sy1MY0l1Y04xWDN4VG9BX0dpREtIUFpNZWFWZXktVlBrQVBDSHA2Z1lUejhjNFNfQVBKcFdNaFJBZW83a3VBdmV2eV9SWGtYSDRYcHZ4cHkwZTdLMGpGZUhFS3h2RUxPRHVNTEdkOERCMVR2QkFYRVJLdHE0?oc=5"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 6,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 15,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 2
+    }
+  ]
+}

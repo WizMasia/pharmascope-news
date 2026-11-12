@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-13",
+  "total_articles": 412,
+  "language_breakdown": {
+    "korean": 204,
+    "english": 114,
+    "multilingual": 94
+  },
+  "issues": [],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 6,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 3,
+      "en_count": 4
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 15,
+      "en_count": 2
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 7,
+      "en_count": 2
+    }
+  ],
+  "notable_absences": [
+    "시간 필터 적용 후 분석 대상 raw.json 기사는 2건뿐이어서 유의미한 이슈 클러스터를 구성하지 못함."
+  ],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-11-13T07:31:15.043508+09:00"
+}
