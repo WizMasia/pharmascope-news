@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-15",
+  "total_articles": 0,
+  "language_breakdown": {
+    "korean": 0,
+    "english": 0,
+    "multilingual": 0
+  },
+  "issues": [],
+  "cross_language_issues": [],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [],
+    "changes": []
+  },
+  "connections": [],
+  "generated_at": "2026-11-14T22:31:14.239940+00:00",
+  "status": "no_articles_in_time_window",
+  "error_note": "Phase A reports 234 articles dropped and 0 retained; no article-level candidates available for evidence-based issue analysis."
+}

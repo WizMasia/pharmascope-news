@@ -1,0 +1,520 @@
+{
+  "date": "2026-11-15",
+  "total": 234,
+  "version": 1,
+  "generated_at": "2026-11-15T06:30:44.535171+09:00",
+  "korean": {
+    "total": 92,
+    "categories": {
+      "의약품": 16,
+      "의약산업": 16,
+      "의약정책": 5,
+      "의약단체": 11,
+      "의약관련정부기관": 7,
+      "의료현장": 7,
+      "약국·약사": 1,
+      "의료정책·인력": 11,
+      "전통의학": 2,
+      "감염·보건": 16
+    },
+    "top_articles": [
+      {
+        "title": "바이오카디아, 일본 승인 신청&#183;FDA 일정 구체화에 투자자 관심 집중",
+        "source": "매일경제 증권",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일경제 증권+28 | 최신:1일+10 | 키워드+20 | 순위:40위+2",
+        "snippet": "일본 승인 신청을 2026년 4분기~2027년 1분기로 제시하고, Helix의 FDA 승인을 2027년 중반으로 목표하면서 규제 일정이 구체화됐습니다. 상업화 가능성에 대한 기대가 커지며 매수세가 유입된 것으로 보입니다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://stock.mk.co.kr/news/view/1198620"
+      },
+      {
+        "title": "&quot;글로벌 협력&quot;…제약바이오협회, 바이오유럽 참가",
+        "source": "뉴시스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:1일+10 | 키워드+10 | 순위:64위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 한국제약바이오협회가 글로벌 행사에 참가해 국내 기업을 지원하고 글로벌 협력 기회를 모색했다.협회는 지난 9~11일 독일 쾰른에서 열린 유럽 최대 제약바이오 전시회 '바이오유럽 2026'에 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.newsis.com/view/NISX20261113_0003866755"
+      },
+      {
+        "title": "주요 제약사, 올해 3분기 순이익 저조한 성적표",
+        "source": "의학신문",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:94위+2",
+        "snippet": "금융감독원 자료를 토대로 잠정 실적으로 발표한 주요 10개 제약사의 2026년 3분기 실적을 분석한 결과 총 매출은 3조 7848억원으로 전년 동기 대비 2.63% 증가했고, 영업이익은 3313억원으로 11.20% 증가, ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016323"
+      },
+      {
+        "title": "최근 5년간 건보공단 약가협상 결렬 약제 사유 살펴보니...",
+        "source": "뉴스더보이스헬스케어",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스더보이스헬스케어+10 | 최신:1일+10 | 키워드+20 | 순위:30위+2",
+        "snippet": "2022년부터 올해 8월까지 국민건강보험공단과의 협상이 결렬된 약제는 38품목으로 집계됐다. 결렬 사유는 약가와 예상청구금액에 대한 이견이 27품목으로 가장 많았다. 위험분담 조건, 업체 본사의 공급계획, 생산 증빙 미제출도 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48057"
+      },
+      {
+        "title": "한국제약바이오협회, 바이오유럽서 해외 협력&#183;기업 진출 지원",
+        "source": "financialpost",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:financialpost+10 | 최신:1일+10 | 키워드+20 | 순위:63위+2",
+        "snippet": "노연홍 한국제약바이오협회 회장은 &quot;해외 기업 및 기관과의 지속적인 교류를 통한 협력 기회 확보가 중요하다&quot;며 &quot;협회는 이번 바이오유럽 참가를 통해 구축한 글로벌 네트워크를 바탕으로 국내 기업의 해외 파트너십 확대와 실질적인 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=300661"
+      },
+      {
+        "title": "암 진행 늦췄지만 FDA 승인 불발…딜레마 빠진 의료기기 임상",
+        "source": "메디칼업저버",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:메디칼업저버+10 | 최신:1일+10 | 키워드+20 | 순위:41위+2",
+        "snippet": "[메디칼업저버 이인복 기자]새로운 암 치료 기술을 통해 글로벌 시장 확대에 나섰던 노보큐어 (Novocure)가 미국 식품의약국 (FDA)의 허가 문턱을 넘지 못하면서 전략에 급제동이 걸렸다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.monews.co.kr/news/articleView.html?idxno=415390"
+      },
+      {
+        "title": "복지위, HPV 여성 예방접종 연령 확대&#183;고면역원성 독감백신 도입 예산 증액",
+        "source": "의학신문",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:1일+10 | 키워드+20 | 순위:93위+2",
+        "snippet": "[의학신문&#183;일간보사=이재원 기자] 국회 보건복지위원회가 2027년도 국가예방접종 예산을 대폭 증액하면서, 사람유두종바이러스 (HPV) 예방접종 지원 대상을 26세 여성까지 확대하고, 고령층 인플루엔자 백신을 고면역원성 백신으로 전환하는 방안을 추진한다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016391"
+      },
+      {
+        "title": "고은정 경기도의회 부의장 가축전염병 방역 효율화 및 에코팜랜드 RE100 태양광 설치공사 대책 마련해야",
+        "source": "서울신문 on MSN",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:서울신문 on MSN+10 | 최신:1일+10 | 키워드+20 | 순위:96위+2",
+        "snippet": "경기도의회 고은정 부의장(더불어민주당, 고양10)은 12일 열린 동물위생사업소 및 축산진흥센터 대상 행정사무감사에서 가축전염병 방역체계의 효율성을 높이고 에코팜랜드 RE100 태양광 설치공사를 정상적으로 추진할 수 있도록 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/news/other/%EA%B3%A0%EC%9D%80%EC%A0%95-%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%9D%98%ED%9A%8C-%EB%B6%80%EC%9D%98%EC%9E%A5-%EA%B0%80%EC%B6%95%EC%A0%84%EC%97%BC%EB%B3%91-%EB%B0%A9%EC%97%AD-%ED%9A%A8%EC%9C%A8%ED%99%94-%EB%B0%8F-%EC%97%90%EC%BD%94%ED%8C%9C%EB%9E%9C%EB%93%9C-re100-%ED%83%9C%EC%96%91%EA%B4%91-%EC%84%A4%EC%B9%98%EA%B3%B5%EC%82%AC-%EB%8C%80%EC%B1%85-%EB%A7%88%EB%A0%A8%ED%95%B4%EC%95%BC/ar-AA2hkDIp?ocid=BingNewsVerp"
+      },
+      {
+        "title": "신약 실패 막는 'NAMs'… 대웅제약 &quot;검증된 오가노이드로 독성 잡는다&quot;",
+        "source": "약업닷컴",
+        "importance": 41,
+        "stars": "⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+5 | 순위:89위+2",
+        "snippet": "이장호 대웅제약 바이오전략기획팀 매니저가 '제6회 제약바이오산업 혁신포럼'에서 신약 개발을 위한 NAMs 활용과 제약산업의 혁신 방향에 대해 발표하고 있다. &#169;약업신문=김홍식 기자임상 단계에서 뒤늦게 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=335160"
+      },
+      {
+        "title": "국내 제약바이오 ESG 평가 들여다보니…기업별 성적 차이 뚜렷",
+        "source": "약사공론",
+        "importance": 40,
+        "stars": "⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:88위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. ESG경영. AI 생성 이미지 2026년 국내 제약&#183;바이오기업의 환경&#183;사회&#183;지배구조(ESG) 평가에서 기업별 통합 등급뿐 아니라 영역별 평가 결과에서도 차이가 나타났다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548820"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        10
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "허가",
+        6
+      ],
+      [
+        "백신",
+        5
+      ],
+      [
+        "항암",
+        4
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "심사",
+        3
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "급여",
+        1
+      ],
+      [
+        "식약처",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "메디컬투데이 on MSN",
+        2
+      ],
+      [
+        "약사공론",
+        2
+      ],
+      [
+        "데일리메디",
+        2
+      ],
+      [
+        "미디어파인",
+        1
+      ],
+      [
+        "데일리한국 on MSN",
+        1
+      ],
+      [
+        "약업닷컴",
+        1
+      ],
+      [
+        "핀포인트뉴스",
+        1
+      ],
+      [
+        "뉴스1 on MSN",
+        1
+      ],
+      [
+        "뉴스핌",
+        1
+      ],
+      [
+        "CBC뉴스",
+        1
+      ],
+      [
+        "뉴데일리 경제",
+        1
+      ],
+      [
+        "SBS 뉴스",
+        1
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 86,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 18,
+      "Pharma Associations": 15,
+      "Regulatory Agencies": 2,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "Bhageria Industries (NSE:BHAGERIA): Did It Just Secure EU GMP Approval for Dexamethasone? - Kalkine India",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 11:53:00 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDN4ZUtCZUI4UmFJVmZtQjJfcTB6ZUVOcHRpXzFiSmxpLU0xalk5dWlFbHVVd1RFMlpWYkVyelZncVI4X0MwLURZQW1iZEdDU2Jpc0ZxbXBpNU9BMzN1VE9rc3JqdmFIM1lib3FUMD",
+        "published_time": "Sat, 14 Nov 2026 11:53:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 11:53:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDN4ZUtCZUI4UmFJVmZtQjJfcTB6ZUVOcHRpXzFiSmxpLU0xalk5dWlFbHVVd1RFMlpWYkVyelZncVI4X0MwLURZQW1iZEdDU2Jpc0ZxbXBpNU9BMzN1VE9rc3JqdmFIM1lib3FUMDJRcEl4R2VYci1rRXhUcGtQQmRDVTJnSVFGd3RsM0pFdXhfck9lWG9KSkN5M1diUGw0M1dadkFPSXFxSllMS1BsMUdCVEtObDNJZXQ5UlZsdkRiNmdqQUlDMEdWbXo?oc=5"
+      },
+      {
+        "title": "The CHMP’s November Verdict: Seven Approvals, Eleven Extensions, and a Post-Approval Evidence Burden That Sponsors Underestimate - The Clinical Trial Vanguard",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 09:41:39 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGYzZWpyTDdTaUE2N1BINFM0Yk0yMVVpcnN1TnBPR05tY2I0WUdhOXcwZzBvZjhpOTNVNXEzaFZwRERmaUZ3T29fM19mazNaR3lDdGZ6dEZXQlhqOWlFTjJhTE50ZEdMOUxMWHVEdX",
+        "published_time": "Sat, 14 Nov 2026 09:41:39 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 09:41:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQVGYzZWpyTDdTaUE2N1BINFM0Yk0yMVVpcnN1TnBPR05tY2I0WUdhOXcwZzBvZjhpOTNVNXEzaFZwRERmaUZ3T29fM19mazNaR3lDdGZ6dEZXQlhqOWlFTjJhTE50ZEdMOUxMWHVEdXBqUjRtd2YwRWI0dnNxMTVpSk1PdVFkb0w5bTVsa2dqUDE0Ry0zbmQ5ZE1JSTJqaU5yY1RidlNjTFc1OG1LeF9XNzc2MDU2Y3dYbVFxZmxCOTI5NFNCWnZ2Qk95WW9yUUpNaTRLVTNvN0FqM3dINlg4ZXpseUs2V2gyTm1NUG9pcU9iUVdQNkliU2ZjQ2hiaXVqWUNQRDlyTWdjQmEyVk00Zg?oc=5"
+      },
+      {
+        "title": "FDA Breakthrough Therapy Designation 2026: Three APAC-Originated Drugs Made the List, and None of Them Came From China - BioPharma APAC",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 10:41:28 GMT+5 | 키워드+30 | 순위:98위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPekxRdjdjTjZRN3hMQ2FjY3Y3ZHU1OUlKVW5HaHpERVdDQUpOMjViTnBpazhfVnhocllrS0dlWEZ3bmlxLUZNZk5SbHFGT092dzNxV2RtWnBfdEQtX1NxNGt4SmFyeldDN2tKN203NF",
+        "published_time": "Sat, 14 Nov 2026 10:41:28 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 10:41:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPekxRdjdjTjZRN3hMQ2FjY3Y3ZHU1OUlKVW5HaHpERVdDQUpOMjViTnBpazhfVnhocllrS0dlWEZ3bmlxLUZNZk5SbHFGT092dzNxV2RtWnBfdEQtX1NxNGt4SmFyeldDN2tKN203NFZUd0czLWF5VjlWNGVrMWtmZVdmbEc4Y0ZTQXJ5Rm1qVExFM21BYUhqOUM1YnhmSEI5aFVVZ1AxNWJaMkZnXzF0VjJibi1TRVhONjgxbTFxOXJlOHJpRjV6MG5sVDAtMDJqRXJNUVZ4MmNsUkVZbmtNcjhvSVZ4MlRkYWVFRGlZTDRaVGU0Z09F?oc=5"
+      },
+      {
+        "title": "China's 2026 medical insurance list adds record 51 Class 1 innovative drugs; CAR-T therapy cut to 300,000 yuan wins first coverage - BigGo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 08:35:00 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MYWExM3RLYWcxWWdmek81SzRjX2dYZi1BeF9BeFBRTXkxS2VZNFUxZFZhaXBMbEEyeEU0V3hqU0V1NG9MZVE3QWJ2c01DTkRjY01lOTdaNTRJWjM4YjNraHRTR0V3TzU2RnlkRXhPNk",
+        "published_time": "Sat, 14 Nov 2026 08:35:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 08:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MYWExM3RLYWcxWWdmek81SzRjX2dYZi1BeF9BeFBRTXkxS2VZNFUxZFZhaXBMbEEyeEU0V3hqU0V1NG9MZVE3QWJ2c01DTkRjY01lOTdaNTRJWjM4YjNraHRTR0V3TzU2RnlkRXhPNkN0TTF4c1E?oc=5"
+      },
+      {
+        "title": "Is a cure on the horizon for hepatitis B? New drug offers hope, but there's a 'long way to go' - CBC",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 09:00:00 GMT+5 | 키워드+30 | 순위:101위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1sanQ5S0hfWEpmMTFkemM2bmpzbFI0Ujh0S29JQm9Jd2pUV0c2TGVqNWJyc2U3WThWNUlnQUtfSGVmcFRacHFSZzNMLXNoOUZmc25kMWduZktxU3piX3BIRFRkM3hDQmxOMVJZOThfMU",
+        "published_time": "Sat, 14 Nov 2026 09:00:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 09:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sanQ5S0hfWEpmMTFkemM2bmpzbFI0Ujh0S29JQm9Jd2pUV0c2TGVqNWJyc2U3WThWNUlnQUtfSGVmcFRacHFSZzNMLXNoOUZmc25kMWduZktxU3piX3BIRFRkM3hDQmxOMVJZOThfMUM1a2lV?oc=5"
+      },
+      {
+        "title": "New Stroke Drug Approved in the USA: What Is Known About Its Effectiveness - Судово-юридична газета",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 14:34:00 GMT+5 | 키워드+30 | 순위:103위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGxyNFE1SExkMnJmcm5sblZrN1htdWxoaEJIdXg2cmN5ZHRyRkhrNEl2Q0xRMTZCMGd4VUNuOHZKMTRqamMwTU9xQWdfV2ttdzhISW16WDlYb0tyV3EtTDBPVUFPQ284a3NEMkRBNE",
+        "published_time": "Sat, 14 Nov 2026 14:34:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 14:34:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGxyNFE1SExkMnJmcm5sblZrN1htdWxoaEJIdXg2cmN5ZHRyRkhrNEl2Q0xRMTZCMGd4VUNuOHZKMTRqamMwTU9xQWdfV2ttdzhISW16WDlYb0tyV3EtTDBPVUFPQ284a3NEMkRBNEQ1WVJaOXdGd0ZyUkJIaHZRTXZwT2Q1RDZsX0JWUHJSYTIzZkJKaG54U3MxWGpINmtPMlFxbDlPbkwyc2tYN0h1N0JPc21rSHc?oc=5"
+      },
+      {
+        "title": "Made in New Jersey: What America's Drug Tariff Clock Really Means for Small US Generic Makers - BioSpectrum Asia",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 09:36:42 GMT+5 | 키워드+30 | 순위:105위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGg1ejIwaWV3WEV5UUtSbzg2ekExWTJJb052cjZZVVFwVlJ1XzJPUXVzX2NlcGs2RlZWcnhpSksySnFGa2Z6dnV4UDloMkt2WjBqZ2toRE9jT01YUDU0NDlVOHdjcU9ZUmZjaG91R2",
+        "published_time": "Sat, 14 Nov 2026 09:36:42 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 09:36:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSGg1ejIwaWV3WEV5UUtSbzg2ekExWTJJb052cjZZVVFwVlJ1XzJPUXVzX2NlcGs2RlZWcnhpSksySnFGa2Z6dnV4UDloMkt2WjBqZ2toRE9jT01YUDU0NDlVOHdjcU9ZUmZjaG91R2FHakJXYVhtTEc5NzJQTVB2aTZ1WUt3STJadmUxVWJxbW9jTE5XTXpub211VzFPcndrV1ZSR29DSnlaZ0FPVzY2NHV3bEk1OEdMdTdjX0FaVnBYSUo0ZENXU0tZOTU0M1YzWlpIeW96bXN2WmVPQzdN?oc=5"
+      },
+      {
+        "title": "Powerful New Weight-Loss Drug Could Change How Millions Treat Painful Knee Arthritis - SciTechDaily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 21:22:01 GMT+5 | 키워드+30 | 순위:108위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDNpaElkYzV2S1lZVGF6NG5OUzJfWFhUUXc2TlJTMm5YaF9xOEN0QWFVQ3VfNzEyT0xxbDFvN1hLVWVDVE5udVk4N0RxenVuOEJkWUFQajBnUE1rb0tBbkNRQnpHU1lOZzRLSTBNdl",
+        "published_time": "Sat, 14 Nov 2026 21:22:01 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 21:22:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDNpaElkYzV2S1lZVGF6NG5OUzJfWFhUUXc2TlJTMm5YaF9xOEN0QWFVQ3VfNzEyT0xxbDFvN1hLVWVDVE5udVk4N0RxenVuOEJkWUFQajBnUE1rb0tBbkNRQnpHU1lOZzRLSTBNdlBnOFdJSTJReUE1ejBsUVFsMHY2eXNmM3JTdGw3YzN0S3pMdGljLU15djktSkw3cHlTWDFmOERkRFVkWVV4cTM4?oc=5"
+      },
+      {
+        "title": "Eli Lilly's Oral Obesity Drug Orforglipron Gets China Approval, Challenging Novo's Wegovy - Medical Dialogues",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 14:46:20 GMT+5 | 키워드+30 | 순위:110위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0M3d2k2N1hPUGRLQk8zOERwOHQtQ2FKZTMtNkI3aVFUeGZiT3gwbUhybHl5bnRLS2J0aWRKaXAtb0lRMVVjZFVHZ2taWVo0SjNLb1VWRjFqU1o2dDdVMC1qcG50dWtlOWp3R0NDdy",
+        "published_time": "Sat, 14 Nov 2026 14:46:20 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 14:46:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU0M3d2k2N1hPUGRLQk8zOERwOHQtQ2FKZTMtNkI3aVFUeGZiT3gwbUhybHl5bnRLS2J0aWRKaXAtb0lRMVVjZFVHZ2taWVo0SjNLb1VWRjFqU1o2dDdVMC1qcG50dWtlOWp3R0NDdy1CelpKbDZuRWtFb19RVU5KdDU1dHdiTGVzMzdJZXV2Mk9JOFcyRzJCbUZxdjJTZENmVUFPekhBakNUcGhBNUI4NXBXbHFNeHdYaXdVOHhpV2lObFBTMFlWVmo3Sng1OGNxOVdROWRTMTJYUdIB3wFBVV95cUxQN3VQanJzRkNheGZXU0EyMUJpUnlQZjdWbW5nYzJUX3Q2aG1JMHFxcDZyR0xMUENlX0ItNHBPSVh2LTRHSHFGaUI0MzhST1loakVwbWYtaGx5MWV2ZHZnWkJxNVd0MmpJSXNVS0s2WW1kMXF3cXU2R0pwenFBdzlkLTNFNTFUUktJVWg4WlFRVlVBaU5PV0J3ME5iMVV6aEZRM3lTb3hvSjlSYmVBNTROY0RVczJmWmNkREFOTlNlVzBVZkVvX21iZzdEUmFaSlRQVXBOb1kwUVNnZFgzbUdz?oc=5"
+      },
+      {
+        "title": "AJOVY® Formally Included in China's National Reimbursement Drug List 2026 - The Manila Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 14:19:26 GMT+5 | 키워드+30 | 순위:111위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWZZQ1VPWFN2R0lURVU5ZzVKWDhkRE5jM1p5alhvbXl2ZWw2TVE5bHJ1YWlMdmNUTjBOVGhsY1Q2R1AtdlVpQ3lqZkdKSTBkWTk1WWxHTk42dzBjYVdRSER4QXUwV2IycU9WbE0yYn",
+        "published_time": "Sat, 14 Nov 2026 14:19:26 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 14:19:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWZZQ1VPWFN2R0lURVU5ZzVKWDhkRE5jM1p5alhvbXl2ZWw2TVE5bHJ1YWlMdmNUTjBOVGhsY1Q2R1AtdlVpQ3lqZkdKSTBkWTk1WWxHTk42dzBjYVdRSER4QXUwV2IycU9WbE0yYnZkSjR3LTQ4MFVQdkNUSngweFBMbW5ZZl9obXhZTUNhQlFPdW5vNHctMmZaa3g1LVE3LTNTeVlwUXUyamJtT1pKMnJ2VElrSDFUZ2hqVHIwa2dfTmxjT1lpRDhVNFI3YU9QUzhaNFRSQWRlQnfSAeABQVVfeXFMUHFiLWZ5VnEyS3BwOW1RMS1CaW9kd29fTmpmY3ZUMTJORGtiV3gzcWVhUWotNW5rYkdXN3dLMTc3bC01T2tvNlFGN3hRYnlIalk3eTBFRWs4cmg5RlQ1ckZ0VGZEbTIwY2F1Q0pva3VwNUhTbEhsOS14Ml82NThON2l3bXg2Ql84c1loRGtLRlk2V1c1Qnd3Si10WVdvVDU2NWJ5aUNPOU5jRENLdmZmZnNHNFUzb19tbFVDbXZpZmw1ZVhsc1JoZ1FTUi1sMi1hZzhBbkU5Y3NvQ1JjM3RHak0?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "approval",
+        5
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "generic",
+        2
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 56,
+    "languages": {
+      "French / 프랑스어": 1,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 2,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 1,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 0,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 4,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 2,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "12项校企合作签约超2000万元！湖北中医药大学第二届中医药科技成果路演暨转化对接会举行 - Sohu",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 12:12:17 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ydzRLMzdvZE9UVXlnTnBXaEFVSWd2UXB2VW9fTkxGTk8xYzF4OVF2Um85YjdNRG9rVTFZMkJjVXZoYk9kb2tGSXJjc2xsZkdqSU0tQXVR?oc=5\" target=\"_blank\">12项校企合作签约超2",
+        "published_time": "Sat, 14 Nov 2026 12:12:17 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 12:12:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ydzRLMzdvZE9UVXlnTnBXaEFVSWd2UXB2VW9fTkxGTk8xYzF4OVF2Um85YjdNRG9rVTFZMkJjVXZoYk9kb2tGSXJjc2xsZkdqSU0tQXVR?oc=5"
+      },
+      {
+        "title": "Carte CHIFA : La CNAS suspend le tiers payant dans les pharmacies Saidal dès le 15 novembre - Algerie360",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 10:33:56 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1yRi1yR0I3d3VBMGtiYVNuOUgtY2pUMXFqbHBfamFVQkgxejRzMFlnT2xHV2tkTWJFVGMyNElRZnBNazk4UURXLVUxdXZZWWpXTEVjQzc5UmhUbDljN2U0blhRU0VlRHpoMXJSZC1TTW",
+        "published_time": "Sat, 14 Nov 2026 10:33:56 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 10:33:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yRi1yR0I3d3VBMGtiYVNuOUgtY2pUMXFqbHBfamFVQkgxejRzMFlnT2xHV2tkTWJFVGMyNElRZnBNazk4UURXLVUxdXZZWWpXTEVjQzc5UmhUbDljN2U0blhRU0VlRHpoMXJSZC1TTWJxMF9UTUpoSw?oc=5"
+      },
+      {
+        "title": "Regulação sanitária ganha destaque na rotina das farmácias - Panorama Farmacêutico",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 16:00:00 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFI2Um9XLVlSVVhPYkQ0TWgzWW1uTlVFSnlJS3JndnRPM1dQUU9Rd0RyTG0xWjZtQXIwWTVVUlRmOTRheHZCSncyMURhZy1mVUxuUW5SVXF5aXlmbzlpWGlkeFR6bkdNQ29fNVY4Ml",
+        "published_time": "Sat, 14 Nov 2026 16:00:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFI2Um9XLVlSVVhPYkQ0TWgzWW1uTlVFSnlJS3JndnRPM1dQUU9Rd0RyTG0xWjZtQXIwWTVVUlRmOTRheHZCSncyMURhZy1mVUxuUW5SVXF5aXlmbzlpWGlkeFR6bkdNQ29fNVY4MlFPX3d1RlMxaDFCNnk1d2k0dThCQnBoUVNjQUxPdjhLSFFhbFNNOHo3T1Y3aw?oc=5"
+      },
+      {
+        "title": "ThS. Lương y Phạm Đức Tuấn -Thầy thuốc Đông y gia truyền ưu tú - https://suckhoemoitruong.com.vn/",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 16:05:50 GMT+5 | 키워드+25 | 순위:19위+5",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDMwbm4tcUlEWlVra2xhUkR0ckhENFR4R2RnbUJULXR4Y0RCaDhDVlF5U0N6ckZWV0tzNnRSSXAzSVJLLXFlUlJELVdlWi04SnNwdVR6dG5tMnkxQ3RDOUJIc05ieEVQSExid19pR0",
+        "published_time": "Sat, 14 Nov 2026 16:05:50 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 16:05:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDMwbm4tcUlEWlVra2xhUkR0ckhENFR4R2RnbUJULXR4Y0RCaDhDVlF5U0N6ckZWV0tzNnRSSXAzSVJLLXFlUlJELVdlWi04SnNwdVR6dG5tMnkxQ3RDOUJIc05ieEVQSExid19pR055UGFxbEIzQnFpa2UwR0lLVTRwN0prdkk4OS1VY0M1RWdFeDlNM1FiVE0tSFZjSG1kQjV1eXBn?oc=5"
+      },
+      {
+        "title": "Pabrik Sudah Ada Tapi Nganggur! DPR Semprot BUMN Farmasi Minta Tambah Modal Lagi - Koran Jakarta ®",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 14 Nov 2026 14:15:00 GMT+5 | 키워드+20 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmhJNlA2emV2Z25iM2NjTFZLYlFkc2pveEl4Ulp1STF1T2dSbDVtb2Q3OUpVTG9GRWRPb3VxWTkxaTByRmx2bW1ENUplVC1uY3AzOEdab2g4M3VMc0hPdUVocUIxcEpGTDR6MGFKaD",
+        "published_time": "Sat, 14 Nov 2026 14:15:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 14 Nov 2026 14:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmhJNlA2emV2Z25iM2NjTFZLYlFkc2pveEl4Ulp1STF1T2dSbDVtb2Q3OUpVTG9GRWRPb3VxWTkxaTByRmx2bW1ENUplVC1uY3AzOEdab2g4M3VMc0hPdUVocUIxcEpGTDR6MGFKaDZNTXZnUkhvbllvc3dlWm9jYWhyeW90cTAxblpucllNTEJOMDVuTVZleHBkWFZXem1WcWVjeDVROEFVODRHUmhyb25RWW4wY1ZOU1IyU9IBvAFBVV95cUxQZmhJNlA2emV2Z25iM2NjTFZLYlFkc2pveEl4Ulp1STF1T2dSbDVtb2Q3OUpVTG9GRWRPb3VxWTkxaTByRmx2bW1ENUplVC1uY3AzOEdab2g4M3VMc0hPdUVocUIxcEpGTDR6MGFKaDZNTXZnUkhvbllvc3dlWm9jYWhyeW90cTAxblpucllNTEJOMDVuTVZleHBkWFZXem1WcWVjeDVROEFVODRHUmhyb25RWW4wY1ZOU1IyUw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
