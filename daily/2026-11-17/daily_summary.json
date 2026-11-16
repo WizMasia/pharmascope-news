@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-17",
+  "total": 277,
+  "version": 1,
+  "generated_at": "2026-11-17T06:30:44.520936+09:00",
+  "korean": {
+    "total": 134,
+    "categories": {
+      "의약품": 24,
+      "의약산업": 25,
+      "의약정책": 5,
+      "의약단체": 19,
+      "의약관련정부기관": 7,
+      "의료현장": 1,
+      "약국·약사": 5,
+      "의료정책·인력": 16,
+      "전통의학": 7,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제약바이오 96개社 3개 분기 매출 35조…전년비 12.5%↑",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+20 | 순위:143위+2",
+        "snippet": "[상장 제약바이오기업 2026년 3분기 경영실적 분석 시리즈] ① 영업실적 주요 상장 제약바이오기업 96개사의 올해 3분기 누적 매출이 35조원을 넘어서며 전년 동기 대비 12.5% 증가한 것으로 확인됐다. 셀트리온과 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421941"
+      },
+      {
+        "title": "대한약사회, 제6회 약사봉사대상 수상자 5명 선정",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:6시간+20 | 키워드+20 | 순위:104위+2",
+        "snippet": "대한약사회가 지역사회에서 나눔과 봉사를 실천하며 국민건강 증진과 약사회 발전에 기여한 약사 5명을 '제6회 약사봉사대상' 수상자로 선정했다. 대한약사회(회장 권영희)는 지난 12일 열린 2026년도 제12차 상임이사회에서 '제6회 약사봉사대상' 수상자 5명을 최종 확정했다고 밝혔다. 동아약품 가송재단이 후원하는 이번 약사봉사대상 수상자는 ▲임신덕 대한약사회",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421949"
+      },
+      {
+        "title": "약사-한약사 교차고용 금지&#183;상비약 규제완화…법안 심사 속도",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+20 | 순위:37위+2",
+        "snippet": "약사&#183;한약사 교차고용 금지법과 안전상비의약품 품목 확대&#183;취급 점포 규제 완화법이 이달(11월) 국회 보건복지위 심사를 받을 전망이다. 약사와 한약사 직능갈등이 첨예히 지속중인데다 보건복지부가 안전상비약 품목 확대&#183;규제 축소 의지를 거듭 밝힌 상황 속 두 법안이 국회 심사대에 오르면서 약계는 촉각을 곤두세우게 됐다. 16일 보건복지",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344644"
+      },
+      {
+        "title": "대한약사회, 나눔과 봉사 실천한 약사 5명에 약사봉사대상",
+        "source": "약사공론",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+20 | 순위:105위+2",
+        "snippet": "수상자들은 지역사회에서 꾸준히 나눔과 봉사를 실천하며 국민건강 증진과 약사회 발전에 기여한 공로를 인정받았다. 대한약사회는 10일 열린 제5차 약사윤리위원회에서 추천 후보자 10명의 공적사항과 약사회 회무 기여도, 관련 규정 준수 여부 등을 종합적으로 심사했으며, 상임이사회 의결을 거쳐 수상자를 최종 확정한 바 있다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549068"
+      },
+      {
+        "title": "&quot;편의점약 확대 토론회 불참&quot;…보이콧 나선 약사회",
+        "source": "뉴시스",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:3시간+20 | 키워드+10 | 순위:106위+2",
+        "snippet": "[서울=뉴시스] 류난영 기자 = 대한약사회가 정부가 추진 중인 안전상비의약품(편의점약) 품목 및 판매처 확대 논의에 제동을 걸고 나섰다. 현행 제도의 안전관리 실태조차 제대로 점검되지 않은 상황에서 판매 확대를 논의하는 것은 ...",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.newsis.com/view/NISX20261116_0003870425"
+      },
+      {
+        "title": "매출에 웃고 이익에 울고…제약기업 지주사 9곳의 두 얼굴",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+10 | 순위:144위+2",
+        "snippet": "국내 주요 제약 지주사들이 올해 3분기 외형 성장에도 수익성에서는 엇갈린 성적표를 받아들었다. 매출이 늘어난 기업은 대부분이었지만 영업이익까지 개선한 곳은 절반에 미치지 못했다. 기업별 사업구조와 비용 부담에 따라 실적의 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421943"
+      },
+      {
+        "title": "약사회, 윤리기준 위반 약사 4명 자격정지 처분 의뢰",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+10 | 순위:102위+2",
+        "snippet": "대한약사회가 의약품 판매질서를 저해하거나 오&#183;남용 우려가 있는 의약품을 부적정하게 판매하는 등 약사윤리기준을 위반한 회원 4명에 대해 보건복지부에 자격정지 처분을 요구하기로 했다. 대한약사회(회장 권영희)는 지난 12일 열린 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344649"
+      },
+      {
+        "title": "약사회 &quot;국조실 상비약 토론회 불참, 안전 대책 우선&quot;",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+10 | 순위:103위+2",
+        "snippet": "대한약사회가 오는 19일 국무조정실이 진행하는 안전상비의약품 관련 규제갈등 해결 토론회에 불참을 최종 결정했다. 상비약의 품목&#183;판매처 확대에 앞서 현행 제도의 안전관리 문제부터 개선해야 한다는 입장이다. 노수진 대한약사회 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421947"
+      },
+      {
+        "title": "버티기 한계점 왔나…창고형 주변 약국들 잇단 매물로",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:12분+20 | 키워드+10 | 순위:30위+2",
+        "snippet": "전국적으로 박리다매 구조를 모델로 한 창고형 약국 개설이 이어지면서 약국 개설 시장의 지형도가 빠르게 재편되고 있습니다. 소비자는 물론 약사들 역시 대형 약국에 대한 선호도가 높아지고, 반경 수 백미터 내 창고형 약국이 ...",
+        "published_time": "12분",
+        "modified_time": "",
+        "time": "12분",
+        "url": "https://www.dailypharm.com/user/news/344559"
+      },
+      {
+        "title": "제약&#183;바이오 ESG 성적표, '서류' 넘어 '실천'이 갈랐다… 양극화 해소 과제",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:137위+2",
+        "snippet": "그래픽. &#169;약업신문=김홍식 기자국내 제약&#183;바이오 업계의 ESG(환경&#183;사회&#183;지배구조) 경영 수준이 기업 규모와 인프라에 따라 극명하게 엇갈리고 있다. 피상적인 선언과 서류상 체계 구축을 넘어, 실제 경영 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;nid=335292"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        23
+      ],
+      [
+        "급여",
+        7
+      ],
+      [
+        "한약",
+        7
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "수출",
+        4
+      ],
+      [
+        "비만",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "심사",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "약가",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "식약처",
+        1
+      ],
+      [
+        "특허",
+        1
+      ],
+      [
+        "CDMO",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "데일리팜",
+        7
+      ],
+      [
+        "메디파나 뉴스",
+        5
+      ],
+      [
+        "전자신문 on MSN",
+        2
+      ],
+      [
+        "머니투데이 on MSN",
+        2
+      ],
+      [
+        "뉴스핌",
+        2
+      ],
+      [
+        "메디컬헤럴드",
+        2
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "약업닷컴",
+        1
+      ],
+      [
+        "소비자가 만드는 신문",
+        1
+      ],
+      [
+        "e-science",
+        1
+      ],
+      [
+        "이투데이 on MSN",
+        1
+      ],
+      [
+        "이뉴스투데이",
+        1
+      ],
+      [
+        "신화망 한국어판",
+        1
+      ],
+      [
+        "약사공론",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 99,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 22,
+      "Regulatory Agencies": 0,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "FDA approves new breast cancer drug, providing new option for some patients, boost for Roche - STAT",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 21:02:20 GMT+5 | 키워드+30 | 순위:136위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnN2NHJJemRBVU9jMmZ4dGxRQUFfamM0b1d4TmF1dGI0VEUyVTQyczJXckk0VTZSeW9KSzc0d3VnZ1NxUmNjQlQ0MUh2aXI3cFpfb19ZRUwwSTdCNmdubnR3YTZ1NVpWYjh1NE9hdz",
+        "published_time": "Mon, 16 Nov 2026 21:02:20 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 21:02:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnN2NHJJemRBVU9jMmZ4dGxRQUFfamM0b1d4TmF1dGI0VEUyVTQyczJXckk0VTZSeW9KSzc0d3VnZ1NxUmNjQlQ0MUh2aXI3cFpfb19ZRUwwSTdCNmdubnR3YTZ1NVpWYjh1NE9hdzNHS25kN3h1NjRLWXdmNXJVRk9BRXY?oc=5"
+      },
+      {
+        "title": "Ending Medicaid coverage for weight loss drugs linked to sharp drop in GLP-1 use - EurekAlert!",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 17:19:43 GMT+5 | 키워드+30 | 순위:137위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE45WWxlcW9zaEM4Q2h2cTQ0OUw2OWdVQXNjaUJCM0s4RU55TDVEZGQxdC1mTWdhVVg2ZEotVkFMV0s4NWZyMG1KcVBCcGl0MldobE5qcjBBNUVpNEY4?oc=5\" target=\"_blank\">End",
+        "published_time": "Mon, 16 Nov 2026 17:19:43 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 17:19:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45WWxlcW9zaEM4Q2h2cTQ0OUw2OWdVQXNjaUJCM0s4RU55TDVEZGQxdC1mTWdhVVg2ZEotVkFMV0s4NWZyMG1KcVBCcGl0MldobE5qcjBBNUVpNEY4?oc=5"
+      },
+      {
+        "title": "Gazyva Approved as First Drug for Primary Membranous Nephropathy - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 15:22:04 GMT+5 | 키워드+30 | 순위:138위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkVzVTJqMERZX01WbnJYNDlZeC1zdW45VHNTTjdzWDhRNzFhNXdfLXZENUpMZ3Jsc1dOTzNLX1RJWFZaaG1VRVk1Zl9lSHg0V0g2TTNGcE5oY3d4SWNmbEdiSndjVFN3eXRiVlpnM3",
+        "published_time": "Mon, 16 Nov 2026 15:22:04 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 15:22:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkVzVTJqMERZX01WbnJYNDlZeC1zdW45VHNTTjdzWDhRNzFhNXdfLXZENUpMZ3Jsc1dOTzNLX1RJWFZaaG1VRVk1Zl9lSHg0V0g2TTNGcE5oY3d4SWNmbEdiSndjVFN3eXRiVlpnM3M4dlBKN0RsVzR3U1l4M3g3OUZFc192SmFWXzVVRTlzeWVRdlk3dEs0Skt3ZXY?oc=5"
+      },
+      {
+        "title": "Hazardous Drug Risk Assessment Beyond the NIOSH List - Pharmacy Practice News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 15:14:45 GMT+5 | 키워드+30 | 순위:140위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZKZ2IteENhNXNiQ0RqOHlDWGZmdFhVSEFqMC11YkQ4ZGx6eWF4aG10M0d6Z3RKS3dPYWhjMTZ1MExKaTE1MFJkZHhHNkI0VTNWVzFDME5QRGI4TExNYUFCcE5jY2dnX280RUc5aj",
+        "published_time": "Mon, 16 Nov 2026 15:14:45 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 15:14:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHZKZ2IteENhNXNiQ0RqOHlDWGZmdFhVSEFqMC11YkQ4ZGx6eWF4aG10M0d6Z3RKS3dPYWhjMTZ1MExKaTE1MFJkZHhHNkI0VTNWVzFDME5QRGI4TExNYUFCcE5jY2dnX280RUc5ajdtT0lKTmZmcXNfN3VOblFEbzdsMzhMa093a1R3eFdzQmJtbjB5ekxNRWlrcG5zcVZ5VXZzODJhUUJWM1N0dzlzcUNsXzFCWk0?oc=5"
+      },
+      {
+        "title": "Mankind licenses Lung cancer drug ensartinib from China’s Betta Pharmaceuticals - pharma.economictimes.indiatimes.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 19:53:06 GMT+5 | 키워드+30 | 순위:141위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVXAwNFRsLTRBQUZteWRaMVo5cUtCYkxYSEZGR0wyYjdSQTd5ZFFzR1RieDRySDZRdkQ4VHhWQV9ya29td0VZcW1uTzZCNU9vZVZhMzhwTGVmczA3c3JPd0hfbDczU3oySFYwVzRaQU",
+        "published_time": "Mon, 16 Nov 2026 19:53:06 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 19:53:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVXAwNFRsLTRBQUZteWRaMVo5cUtCYkxYSEZGR0wyYjdSQTd5ZFFzR1RieDRySDZRdkQ4VHhWQV9ya29td0VZcW1uTzZCNU9vZVZhMzhwTGVmczA3c3JPd0hfbDczU3oySFYwVzRaQU1PUUZMVTIzdGhFcVh5elY1UDVWX3RpdVBBb19lTDF3YTYybjMxaXZVekk0ekpJOUwwYlhERDA3blpnbGJOWm04bExNX3RlY0pxeFEzMVAtRFlxMjgxQVhpcE02MGtwMHlRR2E5Q3BIN00zeGRFMDdJYk5Hb0xxcGZV0gHsAUFVX3lxTE9tN29WR1JpbTA0UDBPMlk5YlJFMUdvQ09fenJkN2hkWlYteEQ0YnFSR2tHZFQ4UG02b1FsRUhYWkJwTm5wUkdTNk9DN1ZTTGJ3R2gwMjhmWll6VVpxVklySjNabFUtTjR1STkwbEd0dmlrZmVUWUdXMVc3MnB3Ynp0Ykc1YjNKWkFFWll3MWdTV04wcC12dWlqUFRHeHNpc2s1ZzdTMk00d1VtN05ONTF2TG5RNjlNM0hvdzVtTDV6QWNHLVlKQkJMWUM5QmNqcWw3QjMycFB0MF9ZWGFCYnlmbWF4OFlvOUs1UmJ0?oc=5"
+      },
+      {
+        "title": "FDA Expands Dexmedetomidine for At-Home Use - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 13:47:03 GMT+5 | 키워드+30 | 순위:144위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkFOc0RpVkg3REFuZ2syMU00NlpGMWtTN2dPcFdGLVd6amRPbmFHbWY1M29fVjlaUnU5dXBKbzJnUkotUURXdVFra0I1NkdQNVpCT0daVW5IYlVwdzROSE8zdk45MjdueHYteTNiWT",
+        "published_time": "Mon, 16 Nov 2026 13:47:03 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 13:47:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQkFOc0RpVkg3REFuZ2syMU00NlpGMWtTN2dPcFdGLVd6amRPbmFHbWY1M29fVjlaUnU5dXBKbzJnUkotUURXdVFra0I1NkdQNVpCT0daVW5IYlVwdzROSE8zdk45MjdueHYteTNiWThpTTRWV3JVVGRvYlQwWUlENg?oc=5"
+      },
+      {
+        "title": "How Singapore lab advances discovery and approval of rare blood disorder therapy - Singapore Economic Development Board (EDB)",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 11:29:32 GMT+5 | 키워드+30 | 순위:145위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWJIUkU2NmFCQmlxRXlxQkZwRl9GbGF3REZJSm5aWG5OZS1RcHhuUjk0WTB0b21HUTlydXd3elNoc2xKellsazdENVctV3UtTU1BMjVuZ2Uzb2hic181WlVSVXRSZ05za1VpZnN1Sk",
+        "published_time": "Mon, 16 Nov 2026 11:29:32 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 11:29:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWJIUkU2NmFCQmlxRXlxQkZwRl9GbGF3REZJSm5aWG5OZS1RcHhuUjk0WTB0b21HUTlydXd3elNoc2xKellsazdENVctV3UtTU1BMjVuZ2Uzb2hic181WlVSVXRSZ05za1VpZnN1Sk5pUnFnV0pqQUpkd3RER0EtMUlJNVB4cnhNQURFTjFOR2Y3VjFlSjJJRVpmb0NZcjQyM3NVUmF2bWFQcnhfS0tCZF9qWHdfd1REVW4wN1VBS0JqSkRCU0t2a253?oc=5"
+      },
+      {
+        "title": "Indian drugmakers sharpen oncology focus with US approvals, new deals - Business Standard",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 13:52:32 GMT+5 | 키워드+30 | 순위:146위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGNvYkIyMGxULWVWQXVjcjNfSFA1dDFKZTZOdE82RkpxRDRpN2MyRGVMY2gxUFB5M0NYRGhIbHpCb1JvQnk3a2FfMkgzQ3Q5Mnh4OF9aVGFmQkFsQTZNbkRQRlM5cTFFUUVIQnl0V3",
+        "published_time": "Mon, 16 Nov 2026 13:52:32 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 13:52:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGNvYkIyMGxULWVWQXVjcjNfSFA1dDFKZTZOdE82RkpxRDRpN2MyRGVMY2gxUFB5M0NYRGhIbHpCb1JvQnk3a2FfMkgzQ3Q5Mnh4OF9aVGFmQkFsQTZNbkRQRlM5cTFFUUVIQnl0V3duRlh2OU5sNzZWODZxc1FZTnAxd0ZscnpGZVdKZ1dBR1dxeExVZFl5T1B6TDlRTEt1UWRHUjV2NGo5VFRzaEFwYTh3QVVVT05VbXFWUkJkVEI3YXktU09lZGh5OWVrZnREZ3fSAdcBQVVfeXFMTWNncWZ1QnFYNGFyTDJJV3g1dHQwODZReGtjeVFzb0V6UXUwVzJsUjBxb3JJZS16UzFqV1V2SUNjazIxRWZHbW92aS1mdmZzbktxMTY1QWdCZnJOMTVaSnFYZmVKWXkzN3ZQY2lrZ1RhMGFGZXhKMGUwLXVMZ3daYVlkSVlkVDBJZmV3NEYzWFFqSjFDSFV0SkFCRU5odVhmdDlKVlQtMTdkdDV5X3NiWFh3TTdtU1hKYmNqekFzSzVWQ1hlMzc3RjE0bENTNURScG84dEs3S2s?oc=5"
+      },
+      {
+        "title": "New Drug for Hard-to-Control Hypertension Nears EU Approval - Medscape",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 13:16:23 GMT+5 | 키워드+30 | 순위:150위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0M3UzVmQ3BzdDRFNU5mTTBvalVwU0FiTUljYjBDT3NDWnR6REhSdEF4ajJISHRrNVU3bmR4V01kMG0tRTlQaHZHRUk1cjh3NHhoR1h6em5BWnRPYWN4WHZpZng3WUhKVHFVT2Z6dV",
+        "published_time": "Mon, 16 Nov 2026 13:16:23 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 13:16:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN0M3UzVmQ3BzdDRFNU5mTTBvalVwU0FiTUljYjBDT3NDWnR6REhSdEF4ajJISHRrNVU3bmR4V01kMG0tRTlQaHZHRUk1cjh3NHhoR1h6em5BWnRPYWN4WHZpZng3WUhKVHFVT2Z6dVFUUXgzTHNXQXRpcjlvY0RuVWxoTld5TENlWjdNWmkzWnRqSkxoUzYxa3M4ZlV4MnpyYW5XOA?oc=5"
+      },
+      {
+        "title": "Leo Pharma could launch newly acquired drug in the US next year - MedWatch",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 14:34:40 GMT+5 | 키워드+30 | 순위:154위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaFpXcXNXU3V6VUQ5TGlRbkZXRmNybkZ2UWNtdWw4M2x5YXA2Z2dpMU5TSDZPakpHZ3FTcFlSMlQ3S242dFprUHpUam1sOV9TV2xhX3EzV3JnYnFBdEluMUQ5N3Axc0FNd1RvWW5Ccw",
+        "published_time": "Mon, 16 Nov 2026 14:34:40 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 14:34:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iaFpXcXNXU3V6VUQ5TGlRbkZXRmNybkZ2UWNtdWw4M2x5YXA2Z2dpMU5TSDZPakpHZ3FTcFlSMlQ3S242dFprUHpUam1sOV9TV2xhX3EzV3JnYnFBdEluMUQ5N3Axc0FNd1RvWW5Ccw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "manufacturing",
+        7
+      ],
+      [
+        "GLP-1",
+        5
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "approval",
+        5
+      ],
+      [
+        "vaccine",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 44,
+    "languages": {
+      "French / 프랑스어": 0,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 0,
+      "Portuguese / 포르투갈어": 0,
+      "Dutch / 네덜란드어": 0,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 0,
+      "Russian / 러시아어": 0,
+      "Japanese / 일본어": 1,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "生物製藥產業轉型關鍵 基礎設施決策決定藥物研發成敗 - GeneOnline",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 16:04:34 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxOZ181dWR1QThZc2pGY1F5X2FoNDR1cXhod3Fwb0tidWJFcVJfQzVSV2plZmU5eDY4RlcyMXNqMXhaTURHSjl1TUptRlEwaE1kNFRrLVJtajIwZHByTU9GUlBaZEk4WnUzb1A3OEFzcF",
+        "published_time": "Mon, 16 Nov 2026 16:04:34 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 16:04:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOZ181dWR1QThZc2pGY1F5X2FoNDR1cXhod3Fwb0tidWJFcVJfQzVSV2plZmU5eDY4RlcyMXNqMXhaTURHSjl1TUptRlEwaE1kNFRrLVJtajIwZHByTU9GUlBaZEk4WnUzb1A3OEFzcFJvZzhCVjhmOV9Sd0o5ZTUzdGloYkRTM2E4eTJvX1daZFNZWW1UcE81dC0tOG5RaWlYdV9uOG9LcVlYRWkwUkh5Y3p1RU9EZDRpRFc5aXN2cjk2QUE0VUhnMEMwVHdRYWxjUDJDZXpuT0M5MEkwazRSTmxFSENYSy1nMEx2RGRnMzJEYXFYOWRTNG9PSUZ1S19HM2ttbkNiRVRaUHhOR0JTSHlWZkEwYVE3ZE1Oa2xRQmpFMnlwT2FFa0NtNk5rX0JCWVRUbFc3WDM2Q1JIa0VPcWo1Y3N1bjg?oc=5"
+      },
+      {
+        "title": "दवा उद्योग को ₹7,000 करोड़ का सहारा देने की तैयारी में सरकार, रिसर्च के साथ उत्पादन बढ़ाने पर जोर - Business Standard",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 13:58:35 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VybDZzUVoxb1NfZnhacllXdWlsMmRNdjBNUWg3d01LdG1pZE9UOXIxLUdaMFcyLVBZUVdYbHNkU3dfXzVRQW9TWVVJOXZtcGxJRXh0NWRTLXR4clVxV3oxU0NfUVBlSFh2ZkFsb3",
+        "published_time": "Mon, 16 Nov 2026 13:58:35 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 13:58:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0VybDZzUVoxb1NfZnhacllXdWlsMmRNdjBNUWg3d01LdG1pZE9UOXIxLUdaMFcyLVBZUVdYbHNkU3dfXzVRQW9TWVVJOXZtcGxJRXh0NWRTLXR4clVxV3oxU0NfUVBlSFh2ZkFsb3NXYVVhRzRaVmFSaEd1SEdsSzBNWmJTNERlRVB4ZHluRDU0UkNhRTdRM3dTSFJfQXdISlQxb2M4UXoyUVJLYVlUemZyR0tWaGw2ZG9Ga01XVzJyWFJXX1RiMUpiQWdCRHM?oc=5"
+      },
+      {
+        "title": "La industria farmacéutica pide una aplicación del Marco Mundial sobre Productos Químicos basada en la ciencia y proporcional al riesgo - El Globalfarma",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 15:39:33 GMT+5 | 키워드+20 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFdyNkNzSGs5d0VzZWY5UlNCSGROTzFldmNJeWN0MnpNdFFLbmFRRlhURFNsVW1UQXZ5YmIxNDh3eFczNlJOdFE3RkFhQ0tpNG11aG5fbUpnVXhFcC0zZGU5eDQwbTRWVWR4QlJQVE",
+        "published_time": "Mon, 16 Nov 2026 15:39:33 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 15:39:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFdyNkNzSGs5d0VzZWY5UlNCSGROTzFldmNJeWN0MnpNdFFLbmFRRlhURFNsVW1UQXZ5YmIxNDh3eFczNlJOdFE3RkFhQ0tpNG11aG5fbUpnVXhFcC0zZGU5eDQwbTRWVWR4QlJQVExRWG1QTVYzM0JDZmNkT3MyeTg5VDdlRmtCUEE0VHVsUzdvbVE0U19UaWNwS1BkZjBnVlE?oc=5"
+      },
+      {
+        "title": "協賛企業も確定！第5回 Japan PBSS 現地開催イベント最終のご案内 - ニコニコニュース",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 08:00:42 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wMmlBLWpZVFMzQ3VBZ00zT1BZNndySHQ1eTZHX0pmVW5ocTd5MWNXZFNwVW84RUs4WGZaeVd3TjY0QjJJZ29ZUmdreUhsMkZTRFdiWi1pVkdyQ2JiVTdld1BfMVVPN0ct?oc=5\" tar",
+        "published_time": "Mon, 16 Nov 2026 08:00:42 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 08:00:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wMmlBLWpZVFMzQ3VBZ00zT1BZNndySHQ1eTZHX0pmVW5ocTd5MWNXZFNwVW84RUs4WGZaeVd3TjY0QjJJZ29ZUmdreUhsMkZTRFdiWi1pVkdyQ2JiVTdld1BfMVVPN0ct?oc=5"
+      },
+      {
+        "title": "福安药业(300194):子公司产品纳入《国家医保药品目录》 - 中财网",
+        "source": "",
+        "importance": 43,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Mon, 16 Nov 2026 09:57:01 GMT+5 | 키워드+10 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UV2psaGQ1MzViMFVpZ3lBSWo3cVozdmxLR0g4V3dDYjFKdmV0bjQyOWk2RHJiZEtjb2x0X1IzcmZtUmxwM19PeTlGNGQ5YkpLNEE2NjZB?oc=5\" target=\"_blank\">福安药业(300194",
+        "published_time": "Mon, 16 Nov 2026 09:57:01 GMT",
+        "modified_time": "",
+        "time": "Mon, 16 Nov 2026 09:57:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UV2psaGQ1MzViMFVpZ3lBSWo3cVozdmxLR0g4V3dDYjFKdmV0bjQyOWk2RHJiZEtjb2x0X1IzcmZtUmxwM19PeTlGNGQ5YkpLNEE2NjZB?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
