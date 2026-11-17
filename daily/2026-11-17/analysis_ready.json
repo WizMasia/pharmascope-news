@@ -194,8 +194,479 @@
   ],
   "top_en_sources": [],
   "yesterday_issues": [],
-  "clusters": [],
-  "uncategorized_articles": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 12,
+      "keywords": [
+        "바이오",
+        "제약바이오협회",
+        "인력양성",
+        "협력",
+        "아일랜드",
+        "확대"
+      ],
+      "articles": [
+        {
+          "title": "&quot;편의점약 확대 토론회 불참&quot;…보이콧 나선 약사회",
+          "source": "뉴시스",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울=뉴시스] 류난영 기자 = 대한약사회가 정부가 추진 중인 안전상비의약품(편의점약) 품목 및 판매처 확대 논의에 제동을 걸고 나섰다. 현행 제도의 안전관리 실태조차 제대로 점검되지 않은 상황에서 판매 확대를 논의하는 것은 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "3시간",
+          "url": "https://www.newsis.com/view/NISX20261116_0003870425"
+        },
+        {
+          "title": "약사회 &quot;국조실 상비약 토론회 불참, 안전 대책 우선&quot;",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "대한약사회가 오는 19일 국무조정실이 진행하는 안전상비의약품 관련 규제갈등 해결 토론회에 불참을 최종 결정했다. 상비약의 품목&#183;판매처 확대에 앞서 현행 제도의 안전관리 문제부터 개선해야 한다는 입장이다. 노수진 대한약사회 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421947"
+        },
+        {
+          "title": "제약바이오협회, 아일랜드 NIBRT와 바이오 인력양성 논의",
+          "source": "히트뉴스",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "[히트뉴스=김동우 기자] 한국제약바이오협회가 아일랜드 주요 제약바이오 기관들과 전문인력 양성 및 산업 협력 확대 방안을 논의하고 바이오공정 교육과정 개발과 인력 교류를 비롯해 국내 기업의 유럽시장 진출을 위한 협력을 모색했다 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "11시간",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80798"
+        },
+        {
+          "title": "유럽 품는 제약바이오협회…아일랜드 주요 기관과 ‘바이오 인력양성’ 협력하기로",
+          "source": "futurechosun",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "한국제약바이오협회가 아일랜드 제약바이오 기관과 협력해 양국간 전문 인력 양성 및 산업협력을 강화하기로 했다. 16일 한국제약바이오협회에 따르면, 노연홍 회장을 단장으로 하는 협회 대표단은 지난 12일(현지시간) 아일랜드 수도 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "16시간",
+          "url": "https://futurechosun.com/archives/166721"
+        },
+        {
+          "title": "제약바이오협회 “아일랜드 NIBRT 등과 바이오 인력 양성 협력 확대 모색”",
+          "source": "더바이오",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "[더바이오 지용준 기자] 한국제약바이오협회는 지난 12일(현지시간) 아일랜드 더블린에서 주요 제약바이오 기관을 방문하고, 양국 산업 간 교류 확대와 글로벌 바이오 인력 양성 분야의 협력 방안을 논의했다고 16일 밝혔다.이번 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "6시간",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=30280"
+        },
+        {
+          "title": "제약바이오협회, 바이오 인력양성 협력 강화 방안 논의",
+          "source": "포인트데일리",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[포인트데일리 송가영 기자] 한국제약바이오협회(이하 협회)가 아일랜드 더블린에서 주요 제약바이오기관을 방문하고 양국 산업 간 교류 확대 및 글로벌 바이오 인력양성 분야의 협력 강화 방안을 논의했다고 16일 밝혔다.이번 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "11시간",
+          "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326087"
+        },
+        {
+          "title": "제약바이오협회, 아일랜드와 바이오 인력양성 협력 논의",
+          "source": "주간한국 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[주간한국 신은주 기자] 한국제약바이오협회는 지난 12일(현지시간) 아일랜드 더블린에서 아일랜드 국립바이오공정연구교육센터(NIBRT)를 만나 바이오의약품 생산 인력 교육과 전문인력 교류 방안을 논의했다고 16일 밝혔다.노연홍 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "9시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C%EC%99%80-%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%9D%B8%EB%A0%A5%EC%96%91%EC%84%B1-%ED%98%91%EB%A0%A5-%EB%85%BC%EC%9D%98/ar-AA2hvYgb?ocid=BingNewsVerp"
+        },
+        {
+          "title": "제약바이오협회, 아일랜드와 바이오 인력양성 협력",
+          "source": "핀포인트뉴스",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회가 아일랜드 주요 제약바이오 기관과 만나 양국 산업계 교류 확대와 글로벌 바이오 인력양성 협력 방안을 논의했다. 노연홍 회장을 비롯한 협회 대표단은 지난 12일(현지시간) 아일랜드 더블린에서 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "10시간",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504398"
+        },
+        {
+          "title": "보건산업진흥원&#183;한국로슈, 국내 바이오기업 유럽 진출 지원",
+          "source": "이뉴스투데이",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[이뉴스투데이 전승민 기자] 한국보건산업진흥원이 글로벌 제약사 로슈와 손잡고 국내 바이오기업의 유럽 시장 진출 지원을 본격화한다. 현지 투자기관과 연구기관, 글로벌 제약사 네트워크를 활용해 국내 기업의 연구개발부터 투자 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "7시간",
+          "url": "https://www.enewstoday.co.kr/news/articleView.html?idxno=2492874"
+        },
+        {
+          "title": "제약바이오협, '아일랜드 NIBRT 등과 바이오 인력양성 협력 확대' 모색…'아일랜드 진출기업 및 투자개발청(IDA) 등 방문' 유럽 진출 ...",
+          "source": "메디컬헤럴드",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회(회장 노연홍)는 지난 12일(현지시간) 아일랜드 더블린에서 주요 제약바이오기관을 방문하고, 양국 산업 간 교류 확대 및 글로벌 바이오 인력양성 분야의 협력 강화 방안을 논의했다고 16일 밝혔다.이번 방문은 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "11시간",
+          "url": "http://www.mediherald.com/news/articleView.html?idxno=91041"
+        },
+        {
+          "title": "제약바이오협, 글로벌 바이오 인력 양성 힘 쏟는다",
+          "source": "의학신문",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "한국제약바이오협회 (회장 노연홍)는 지난 12일 (현지시간) 아일랜드 더블린에서 주요 제약바이오기관을 방문하고, 양국 산업 간 교류 확대 및 글로벌 바이오 인력양성 분야의 협력 강화 방안을 논의했다고 16일 밝혔다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "7시간",
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016481"
+        },
+        {
+          "title": "제약바이오협회, 아일랜드 네트워크 확대…&quot;바이오 인력양성 협력&quot;",
+          "source": "아시아타임즈 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "아일랜드 진출기업&#183;투자개발청 방문 유럽의 주요 제약바이오 허브로 자리매김 양국 산업계 교류 확대…유럽 진출 협력 논의 [아시아타임즈=김지수 기자] 한국제약바이오협회(이하 협회)가 아일랜드 주요 기관과 교류하며 국내 기업의 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "19시간",
+          "url": "https://www.msn.com/ko-kr/money/%EC%9D%BC%EB%B0%98/%EC%A0%9C%EC%95%BD%EB%B0%94%EC%9D%B4%EC%98%A4%ED%98%91%ED%9A%8C-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%99%95%EB%8C%80-%EB%B0%94%EC%9D%B4%EC%98%A4-%EC%9D%B8%EB%A0%A5%EC%96%91%EC%84%B1-%ED%98%91%EB%A0%A5/ar-AA2hvc1X?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 6,
+      "keywords": [
+        "분기",
+        "매출",
+        "동국제약",
+        "누적",
+        "전년",
+        "억원",
+        "성장",
+        "화장품"
+      ],
+      "articles": [
+        {
+          "title": "제약바이오 96개社 3개 분기 매출 35조…전년비 12.5%↑",
+          "source": "메디파나 뉴스",
+          "importance": 66,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "[상장 제약바이오기업 2026년 3분기 경영실적 분석 시리즈] ① 영업실적 주요 상장 제약바이오기업 96개사의 올해 3분기 누적 매출이 35조원을 넘어서며 전년 동기 대비 12.5% 증가한 것으로 확인됐다. 셀트리온과 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421941"
+        },
+        {
+          "title": "동국제약, 3분기 누적 매출 7686억...전년 대비 12.4% ↑",
+          "source": "데일리팜",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "동국제약(대표이사 송준호)은 2026년 3분기까지 매출액과 영업이익, 당기순이익이 전년 대비 모두 증가한 것으로 나타났다. 16일 공시된 3분기 보고서에 따르면 올해 3분기 매출액 7,686억원, 영업이익 772억원으로 전년 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "10시간",
+          "url": "https://www.dailypharm.com/user/news/344616"
+        },
+        {
+          "title": "동국제약, 화장품 앞세워 외형 성장…3분기 누적 매출 7686억원",
+          "source": "뉴스핌",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[서울=뉴스핌] 김신영 기자 =&#160;동국제약이 화장품 해외사업 성장에 힘입어 올해 3분기 누적 매출과 영업이익이 모두 증가했다. 다만 자회사 동국생명과학의 실적 부진으로 연결기준 영업이익 증가율은 별도기준보다 낮았다.동국제약은 올해 3분기 누적 연결기준 매출 76 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "11시간",
+          "url": "https://www.newspim.com/news/view/20261116000985"
+        },
+        {
+          "title": "동국제약, 3분기 누적 매출 7686억원…전년比 12.4% 증가",
+          "source": "이투데이 on MSN",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "동국제약이 올해 3분기까지 매출과 영업이익 모두 전년 동기 대비 증가하며 성장세를 이어갔다. 일반의약품과 전문의약품, 헬스앤뷰티, 글로벌 사업 등 주요 사업 부문이 고르게 성장한 가운데 화장품 브랜드 ‘센텔리안24’의 해외 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "10시간",
+          "url": "https://www.msn.com/ko-kr/money/%EA%B2%BD%EC%A0%9C/%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD-3%EB%B6%84%EA%B8%B0-%EB%88%84%EC%A0%81-%EB%A7%A4%EC%B6%9C-7686%EC%96%B5%EC%9B%90-%EC%A0%84%EB%85%84%E6%AF%94-12-4-%EC%A6%9D%EA%B0%80/ar-AA2hv6WP?ocid=BingNewsVerp"
+        },
+        {
+          "title": "동국제약 3분기 매출 2587억, 전년比 14%↑ 화장품 해외 본격 성과",
+          "source": "머니투데이 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "3분기 영업이익 238억, 전년比 4.1% 감소…연 매출 첫 1조 달성 전망 동국제약이 연결 기준 3분기 영업이익이 238억원으로 전년 동기보다 4.1% 감소했다고 분기보고서를 통해 공시했다. 같은 기간 매출액은 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "16시간",
+          "url": "https://www.msn.com/ko-kr/money/other/%EB%8F%99%EA%B5%AD%EC%A0%9C%EC%95%BD-3%EB%B6%84%EA%B8%B0-%EB%A7%A4%EC%B6%9C-2587%EC%96%B5-%EC%A0%84%EB%85%84%E6%AF%94-14-%ED%99%94%EC%9E%A5%ED%92%88-%ED%95%B4%EC%99%B8-%EB%B3%B8%EA%B2%A9-%EC%84%B1%EA%B3%BC/ar-AA2hvC5u?ocid=BingNewsVerp"
+        },
+        {
+          "title": "대원제약, 3분기 누적 매출액 4,502억원 '누적 영업이익 흑자전환 성공'…'만성질환 처방 확대&#183;CHC 신제품 출시로 성장 기반' 강화",
+          "source": "메디컬헤럴드",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "대원제약(003220, 대표이사 백승열)은 2026년 3분기 연결 재무제표 기준 매출액 1,393억 원, 영업손실 41억 원, 당기순손실 73억 원을 기록했다고 13일 밝혔다.3분기 누적 기준으로는 매출액 4,502억 원을 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "14시간",
+          "url": "http://www.mediherald.com/news/articleView.html?idxno=91037"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 4,
+      "keywords": [
+        "한약",
+        "약사",
+        "대한약사회",
+        "약사봉사대상",
+        "한약사"
+      ],
+      "articles": [
+        {
+          "title": "대한약사회, 제6회 약사봉사대상 수상자 5명 선정",
+          "source": "메디파나 뉴스",
+          "importance": 66,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "대한약사회가 지역사회에서 나눔과 봉사를 실천하며 국민건강 증진과 약사회 발전에 기여한 약사 5명을 '제6회 약사봉사대상' 수상자로 선정했다. 대한약사회(회장 권영희)는 지난 12일 열린 2026년도 제12차 상임이사회에서 '제6회 약사봉사대상' 수상자 5명을 최종 확정했다고 밝혔다. 동아약품 가송재단이 후원하는 이번 약사봉사대상 수상자는 ▲임신덕 대한약사회",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "6시간",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421949"
+        },
+        {
+          "title": "약사-한약사 교차고용 금지&#183;상비약 규제완화…법안 심사 속도",
+          "source": "데일리팜",
+          "importance": 66,
+          "stars": "⭐⭐⭐⭐",
+          "snippet": "약사&#183;한약사 교차고용 금지법과 안전상비의약품 품목 확대&#183;취급 점포 규제 완화법이 이달(11월) 국회 보건복지위 심사를 받을 전망이다. 약사와 한약사 직능갈등이 첨예히 지속중인데다 보건복지부가 안전상비약 품목 확대&#183;규제 축소 의지를 거듭 밝힌 상황 속 두 법안이 국회 심사대에 오르면서 약계는 촉각을 곤두세우게 됐다. 16일 보건복지",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "5시간",
+          "url": "https://m.dailypharm.com/user/news/344644"
+        },
+        {
+          "title": "대한약사회, 나눔과 봉사 실천한 약사 5명에 약사봉사대상",
+          "source": "약사공론",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "수상자들은 지역사회에서 꾸준히 나눔과 봉사를 실천하며 국민건강 증진과 약사회 발전에 기여한 공로를 인정받았다. 대한약사회는 10일 열린 제5차 약사윤리위원회에서 추천 후보자 10명의 공적사항과 약사회 회무 기여도, 관련 규정 준수 여부 등을 종합적으로 심사했으며, 상임이사회 의결을 거쳐 수상자를 최종 확정한 바 있다.",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "5시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549068"
+        },
+        {
+          "title": "약사&#183;한약사 33년 갈등 평행선…정부, 언제쯤 해법 내놓나",
+          "source": "뉴스1 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "업무 범위&#183;약국 운영 놓고 대책 없이 대립연내 업무조정위 출범…약사제 개선 검토약사와 한약사 간 해묵은 직역갈등이 33년째 이어지며 좀처럼 해법을 찾지 못하고 있다. 약국 개설과 일반의약품 판매 등 업무 범위를 둘러싼 이견이 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EC%95%BD%EC%82%AC-%ED%95%9C%EC%95%BD%EC%82%AC-33%EB%85%84-%EA%B0%88%EB%93%B1-%ED%8F%89%ED%96%89%EC%84%A0-%EC%A0%95%EB%B6%80-%EC%96%B8%EC%A0%9C%EC%AF%A4-%ED%95%B4%EB%B2%95-%EB%82%B4%EB%86%93%EB%82%98/ar-AA2hulUO?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "속도전",
+        "신약",
+        "임상",
+        "규제",
+        "승인",
+        "한국",
+        "글로벌",
+        "실시간"
+      ],
+      "articles": [
+        {
+          "title": "글로벌 신약 임상 '규제 속도전'…한국 승인 10일&#183;美 실시간",
+          "source": "전자신문 on MSN",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "세계 주요국이 신약 개발 기간을 앞당기기 위해 임상시험 심사와 진행 절차를 대폭 줄이는 규제 합리화에 나섰다. 의약품 안전성은 유지하면서 초기 임상 진입 속도를 높여 글로벌 신약 주도권을 선점하려는 행보다. 15일 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/%EA%B8%B0%EC%88%A0/%EC%83%9D%EB%AA%85-%EA%B3%B5%ED%95%99/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8B%A0%EC%95%BD-%EC%9E%84%EC%83%81-%EA%B7%9C%EC%A0%9C-%EC%86%8D%EB%8F%84%EC%A0%84-%ED%95%9C%EA%B5%AD-%EC%8A%B9%EC%9D%B8-10%EC%9D%BC-%E7%BE%8E-%EC%8B%A4%EC%8B%9C%EA%B0%84/ar-AA2hrPMe?ocid=BingNewsVerp"
+        },
+        {
+          "title": "글로벌 신약 임상 '규제 속도전'…한국 승인 10일&#183;美 실시간",
+          "source": "전자신문 on MSN",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "세계 주요국이 신약 개발 기간을 앞당기기 위해 임상시험 심사와 진행 절차를 대폭 줄이는 규제 합리화에 나섰다. 의약품 안전성은 유지하면서 초기 임상 진입 속도를 높여 글로벌 신약 주도권을 선점하려는 행보다. 15일 ...",
+          "section": "korean",
+          "category": "의약품",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%8B%A0%EC%95%BD-%EC%9E%84%EC%83%81-%EA%B7%9C%EC%A0%9C-%EC%86%8D%EB%8F%84%EC%A0%84-%ED%95%9C%EA%B5%AD-%EC%8A%B9%EC%9D%B8-10%EC%9D%BC-%E7%BE%8E-%EC%8B%A4%EC%8B%9C%EA%B0%84/ar-AA2hrPMe?ocid=BingNewsVerp"
+        },
+        {
+          "title": "신약 임상시험 빨라진다…미&#183;중&#183;영 규제기관 속도전",
+          "source": "재경일보",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "미국과 중국, 영국 등 주요국이 신약 후보물질의 첫 임상시험 진입을 앞당기기 위해 심사 절차를 잇달아 손질하고 있다. 미국은 임상시험 자료를 준비되는 대로 나눠 제출하는 시범사업을 시작했고, 한국도 사전 검토를 통과한 신청의 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "1일",
+          "url": "https://news.jkn.co.kr/post/1094790"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "녹십자",
+        "수출"
+      ],
+      "articles": [
+        {
+          "title": "‘기술수출 대박’ 한미약품, 영업익 2200억 1위, 유한양행 매출 1.7조 톱... GC녹십자 홀로 역성장",
+          "source": "소비자가 만드는 신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "국내 10대 제약사 중 올해 3분기까지 매출이 감소한 곳은 GC녹십자(대표 허은철)가 유일한 것으로 나타났다. 한미약품(대표 황상연)은 영업이익이 유일하게 2000억 원 이상을 기록했다. 영업이익률도 18%로 가장 높다.17일 전자공시시스템에 따르면 10대 제약사의 올해 3분기 누적 매출은 총 11조3997억 원으로 전년 동기 대비 6.5% 증가했다. 영업",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "11시간",
+          "url": "https://www.consumernews.co.kr/news/articleView.html?idxno=768415"
+        },
+        {
+          "title": "[ES 진단] 유한&#183;녹십자&#183;광동&#183;종근당&#183;대웅&#183;한미, 6色 성장전략…신약&#183;수출&#183;헬스케어로 승부",
+          "source": "e-science",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "광동제약은 의약품과 식음료 사업을 함께 영위하는 독특한 사업 구조가 특징이다. 연결 기준 3분기 매출은 4606억 원으로 전년 동기 대비 3.6% 증가했지만 영업이익은 70억원으로 35.2% 감소했다. 당기순이익도 6억 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139529"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "초청",
+        "특강",
+        "진로"
+      ],
+      "articles": [
+        {
+          "title": "제주대 약대, 강규연 약사 초청 특강…진로 탐색 과정 소개",
+          "source": "youngjuilbo.com",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "제주대학교(총장 양덕순) 약학대학은 지난 13일 약학대학 2호관 2302호에서 ‘약사의 직능 및 진로 탐색’을 주제로 약학 전문가 특강을 개최했다.제주대 국립대학육성사업 지원으로 마련된 이번 특강에는 제주대학교병원 약제부 ...",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "4시간",
+          "url": "http://www.youngjuilbo.com/news/articleView.html?idxno=178113"
+        },
+        {
+          "title": "제주대학교 약학대학, 김희정 컨설턴트 초청 특강…약대생 진로 선택의 폭 넓혀",
+          "source": "한국강사신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[한국강사신문 한민 기자] 제주대학교 약학대학이 제약산업 전문가를 초청해 재학생들의 진로 탐색과 직무 이해를 돕는 교육 프로그램을 마련했다.제주대학교 약학대학은 지난 6일 약학대학 2호관 2302호에서 ‘약사의 직능 및 진로 ...",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "6시간",
+          "url": "https://www.lecturernews.com/news/articleView.html?idxno=213904"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "매출에 웃고 이익에 울고…제약기업 지주사 9곳의 두 얼굴",
+      "source": "메디파나 뉴스",
+      "importance": 56,
+      "snippet": "국내 주요 제약 지주사들이 올해 3분기 외형 성장에도 수익성에서는 엇갈린 성적표를 받아들었다. 매출이 늘어난 기업은 대부분이었지만 영업이익까지 개선한 곳은 절반에 미치지 못했다. 기업별 사업구조와 비용 부담에 따라 실적의 ...",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=421943"
+    },
+    {
+      "title": "약사회, 윤리기준 위반 약사 4명 자격정지 처분 의뢰",
+      "source": "데일리팜",
+      "importance": 56,
+      "snippet": "대한약사회가 의약품 판매질서를 저해하거나 오&#183;남용 우려가 있는 의약품을 부적정하게 판매하는 등 약사윤리기준을 위반한 회원 4명에 대해 보건복지부에 자격정지 처분을 요구하기로 했다. 대한약사회(회장 권영희)는 지난 12일 열린 ...",
+      "url": "https://m.dailypharm.com/user/news/344649"
+    },
+    {
+      "title": "제약&#183;바이오 ESG 성적표, '서류' 넘어 '실천'이 갈랐다… 양극화 해소 과제",
+      "source": "약업닷컴",
+      "importance": 51,
+      "snippet": "그래픽. &#169;약업신문=김홍식 기자국내 제약&#183;바이오 업계의 ESG(환경&#183;사회&#183;지배구조) 경영 수준이 기업 규모와 인프라에 따라 극명하게 엇갈리고 있다. 피상적인 선언과 서류상 체계 구축을 넘어, 실제 경영 ...",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;nid=335292"
+    },
+    {
+      "title": "동국제약, 연매출 1조원 실현 가시권…전 사업 성장세",
+      "source": "메디파나 뉴스",
+      "importance": 51,
+      "snippet": "동국제약이 연매출 1조원 실현 가능성에 근접하고 있다. 16일 동국제약에 따르면, 회사 연결재무제표 기준 올해 3분기 누적 매출액은 7686억원, 영업이익은 772억원으로 전년 동기 대비 각각 12.4%, 6.9% 늘었다. 별도재무제표 기준으로는 매출액 6586억원, 영업이익 709억원을 기록해 전년 동기 대비 각각 17.2%, 23.3% 증가했다. 회사는",
+      "url": "https://www.medipana.com/news/articleView.html?idxno=421900"
+    },
+    {
+      "title": "동화약품, 에크락겔 내년 급여 추진…일본 이어 국내도 도전",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "동화약품이 국내 첫 바르는 원발성 겨드랑이 다한증 전문의약품 에크락겔(소프피로니움브롬화물)의 건강보험 급여 등재를 추진한다. 내년 급여 등재를 목표로 관련 절차를 준비하고 있으며, 급여가 적용되면 기존 일반의약품과 비급여 치료 중심의 다한증 치료시장에서 환자의 치료 선택지가 확대될 것으로 기대된다. 일본에서는 항콜린제 외용제를 원발성 겨드랑이 다한증의 초기",
+      "url": "https://www.dailypharm.com/user/news/344588"
+    },
+    {
+      "title": "주수현 시의원, 서울의료원 지원금 3배 증가...…'필수의료 인력 수급난' 심각",
+      "source": "뉴스핌",
+      "importance": 47,
+      "snippet": "[서울=뉴스핌] 정태선 기자 = 서울의료원 지원금이 90% 넘게 줄었다는 국정감사 지적과 달리 2026년 지원액은 의정갈등 이전의 3배가량이라는 서울시 답변이 나왔다.서울시의회 보건복지위원회 주수현 부위원장(국민의힘, ...",
+      "url": "https://www.newspim.com/news/view/20261116000899"
+    },
+    {
+      "title": "2026~2027절기 인플루엔자&#183;코로나19 예방접종 실시",
+      "source": "강원일보",
+      "importance": 47,
+      "snippet": "【정선】정선군은 “환절기 호흡기 감염병 예방과 군민 건강 보호를 위해 2026~2027절기 인플루엔자 및 코로나19 예방접종을 실시한다”고 15일 밝혔다. 인플루엔자 국가 예방접종 대상은 생후 6개월~14세 어린이와 임신부, 65세 이상 어르신이며, 2027년 4월30 ...",
+      "url": "https://kwnews.co.kr/article/20261113500056"
+    },
+    {
+      "title": "의료급여 미지급 예상액 9000억…약국도 약제비 지연 우려",
+      "source": "데일리팜",
+      "importance": 46,
+      "snippet": "연말 의료급여 진료비 미지급 예상액이 국비 기준 약 9000억 원에 달할 것으로 추산되면서 병&#183;의원은 물론 일선 약국가의 조제료 및 약제비 지급 지연 우려가 현실화되고 있다. 보건복지부는 13일 ‘올해 병&#183;의원 의료급여 ...",
+      "url": "https://www.dailypharm.com/user/news/344595"
+    },
+    {
+      "title": "병원급 의료기관 '적정인력기준' 법제화 추진",
+      "source": "데일리팜",
+      "importance": 46,
+      "snippet": "병원급 의료기관의 인력 기준을 현행 ‘최소 정원’ 중심에서 ‘환자 안전과 중증도’ 중심으로 전환하는 입법이 추진된다. 규정을 준수한 의료기관은 지원하고, 기준을 따르지 않은 의료기관은 제재를 가하는 조항도 담았다. 국회 ...",
+      "url": "https://www.dailypharm.com/user/news/344598"
+    },
+    {
+      "title": "&quot;약물 안전관리 기능 만든다&quot;…원스글로벌-더웨이헬스케어 맞손",
+      "source": "머니투데이 on MSN",
+      "importance": 42,
+      "snippet": "[이 기사에 나온 스타트업에 대한 보다 다양한 기업정보는 유니콘팩토리 빅데이터 플랫폼 '데이터랩'에서 볼 수 있습니다.] 디지털 헬스케어 기업 더웨이헬스케어와 AI(인공지능) 헬스케어 기업 원스글로벌이 의약품 데이터와 AI 기술을 기반으로 한 디지털 헬스케어 솔루션을 공동 개발하는 업무협약을 체결했다고 16일 밝혔다. 2019년 5월 설립된 원스글로벌은 글",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%BD%EB%AC%BC-%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC-%EA%B8%B0%EB%8A%A5-%EB%A7%8C%EB%93%A0%EB%8B%A4-%EC%9B%90%EC%8A%A4%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%8D%94%EC%9B%A8%EC%9D%B4%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4-%EB%A7%9E%EC%86%90/ar-AA2hvZDA?ocid=BingNewsVerp"
+    }
+  ],
   "cross_language_candidates": [
     {
       "keyword": "백신",
