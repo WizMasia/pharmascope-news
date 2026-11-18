@@ -1,0 +1,232 @@
+{
+  "date": "2026-11-19",
+  "total_articles": 405,
+  "language_breakdown": {
+    "korean": {
+      "total": 196,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 25,
+        "의약관련정부기관": 25,
+        "의료현장": 12,
+        "약국·약사": 7,
+        "의료정책·인력": 15,
+        "전통의학": 12,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 108,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 10,
+        "Pharma Associations": 24,
+        "Regulatory Agencies": 23,
+        "Traditional & Complementary Medicine": 1
+      }
+    },
+    "multilingual": {
+      "total": 101,
+      "languages": {
+        "French / 프랑스어": 7,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 9,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 6,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 2,
+        "Turkish / 터키어": 2,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 1,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 0,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 5,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 6,
+        "Hebrew / 히브리어": 3,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 28
+    },
+    {
+      "keyword": "급여",
+      "count": 15
+    },
+    {
+      "keyword": "약가",
+      "count": 13
+    },
+    {
+      "keyword": "식약처",
+      "count": 12
+    },
+    {
+      "keyword": "백신",
+      "count": 10
+    },
+    {
+      "keyword": "임상",
+      "count": 8
+    },
+    {
+      "keyword": "수출",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 5
+    },
+    {
+      "keyword": "비만",
+      "count": 4
+    },
+    {
+      "keyword": "오남용",
+      "count": 3
+    },
+    {
+      "keyword": "FDA",
+      "count": 3
+    },
+    {
+      "keyword": "CDMO",
+      "count": 3
+    },
+    {
+      "keyword": "R&D",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "마운자로",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 18
+    },
+    {
+      "keyword": "approval",
+      "count": 12
+    },
+    {
+      "keyword": "GMP",
+      "count": 6
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 4
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 2
+    },
+    {
+      "keyword": "quality",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "biosimilar",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 10
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 3
+    },
+    {
+      "source": "라포르시안",
+      "count": 3
+    },
+    {
+      "source": "히트뉴스",
+      "count": 2
+    },
+    {
+      "source": "약업닷컴",
+      "count": 2
+    },
+    {
+      "source": "메디컬투데이 on MSN",
+      "count": 2
+    },
+    {
+      "source": "아시아경제 on MSN",
+      "count": 2
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "쿠키뉴스 on MSN",
+      "count": 1
+    },
+    {
+      "source": "소비자가 만드는 신문",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "해외로 뻗는 국산 의약품…브라질&#183;동남아&#183;중동서 사업화 성과",
+      "source": "쿠키뉴스 on MSN",
+      "importance": 42,
+      "snippet": "국내 제약사들이 자체 개발 의약품의 해외 사업화에 속도를 내고 있다. 기술수출과 판권 계약을 넘어 현지 품목허가를 획득하고 실제 판매에 나서는 사례가 이어지면서 국산 의약품의 글로벌 시장 진출이 확대되는 모습이다. 19일 제약업계에 따르면 최근 국내 제약사들이 개발한 의약품이 브라질과 인도네시아, 아랍에미리트(UAE) 등에서 잇따라 품목허가를 받거나 현지 ",
+      "url": "https://www.msn.com/ko-kr/news/other/%ED%95%B4%EC%99%B8%EB%A1%9C-%EB%BB%97%EB%8A%94-%EA%B5%AD%EC%82%B0-%EC%9D%98%EC%95%BD%ED%92%88-%EB%B8%8C%EB%9D%BC%EC%A7%88-%EB%8F%99%EB%82%A8%EC%95%84-%EC%A4%91%EB%8F%99%EC%84%9C-%EC%82%AC%EC%97%85%ED%99%94-%EC%84%B1%EA%B3%BC/ar-AA2hIF89?ocid=BingNewsVerp"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "바이오시밀러",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 5,
+      "en_count": 12
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 8,
+      "en_count": 2
+    }
+  ]
+}

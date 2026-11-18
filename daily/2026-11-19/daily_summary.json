@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-19",
+  "total": 405,
+  "version": 1,
+  "generated_at": "2026-11-19T06:30:39.523603+09:00",
+  "korean": {
+    "total": 196,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 25,
+      "의약단체": 25,
+      "의약관련정부기관": 25,
+      "의료현장": 12,
+      "약국·약사": 7,
+      "의료정책·인력": 15,
+      "전통의학": 12,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제약사 50곳 재고 3600억 늘었는데…웃고 운 기업들",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+20 | 순위:154위+2",
+        "snippet": "국내 주요 제약&#183;바이오기업들의 재고자산이 올해 들어 3600억원 이상 증가한 것으로 나타났다. 조사 대상 50개사 가운데 31곳에서 재고가 늘어나며 전체 규모를 끌어올렸지만, 기업별 재고 구성과 평가손익에서는 서로 다른 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422103"
+      },
+      {
+        "title": "혈액암 신약 컬럼비, 공단 약가협상 돌입…내년 2월 급여등재 '한발짝'",
+        "source": "약사공론",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+20 | 순위:168위+2",
+        "snippet": "컬럼비주는 앞서 지난 3월 심평원 제2차 암질환심의위원회 (암질심)에서 급여기준 설정을 받았다. 당시 두 가지 이상의 전신치료 후 재발하거나 불응한 DLBCL 환자를 대상으로 하는 단독요법과 ASCT가 적합하지 않은 환자에게 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549336"
+      },
+      {
+        "title": "&quot;신약은 빠르게, 관리는 촘촘히…국민 관점에서 접근성 보장&quot;",
+        "source": "히트뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:5시간+20 | 키워드+10 | 순위:150위+2",
+        "snippet": "[히트뉴스=이현주 기자] 글로벌 제약사의 요구에서 출발한 약가유연계약제가 국산 신약에도 활용되고 있다. 지난 6월 제도 시행 이후 11월까지 계약을 체결한 48품목 가운데 국내 개발 신약이 10품목으로 집계됐다. 새 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80824"
+      },
+      {
+        "title": "PV 약가인하 차액 환급 '유형 다' 제외…재평가 약제 사전협상 2월",
+        "source": "히트뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:15시간+10 | 키워드+20 | 순위:163위+2",
+        "snippet": "[히트뉴스=이현주 기자] 2027년부터 사용량-약가 연동 협상에 따른 약가 인하 시기가 연 2회로 정례화되면서 인하 시점이 늦춰지는 약제에 대해서는 건강보험 재정 지출 증가분을 제약사가 환급해야 한다. 다만 유형 '다'는 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80870"
+      },
+      {
+        "title": "美 FDA, 신약 심사자료 해외 공유 확대…글로벌 허가 절차 빨라지나",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:14시간+10 | 키워드+20 | 순위:150위+2",
+        "snippet": "미국 식품의약국(FDA)이 자국에서 승인한 의약품의 심사자료를 해외 규제기관에서도 활용할 수 있도록 하는 새로운 정보 공유 프로그램을 도입했다. FDA가 수행한 과학적 평가 결과를 다른 국가의 의약품 허가심사에 활용하도록 ...",
+        "published_time": "14시간",
+        "modified_time": "",
+        "time": "14시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422070"
+      },
+      {
+        "title": "&quot;연내 3천억 집행&quot;…복지부, 의료급여 미지급 해소 총력전",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+5 | 순위:86위+2",
+        "snippet": "보건복지부가 최근 불거진 약 9000억 원 규모의 의료급여 지급 지연 사태와 관련해 내년도 예산안에 5800억 원을 반영하고, 나머지 부족분 3000억 원가량은 예비비 등 가용 재원을 총동원해 올해 안에 최대한 해결하겠다는 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/344758"
+      },
+      {
+        "title": "상장 제약바이오 150곳, 3분기 매출 10조원 돌파",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:153위+2",
+        "snippet": "국내 상장 제약바이오기업 150곳의 올해 3분기 매출이 10조원을 넘어섰다. 삼성바이오로직스와 셀트리온이 각각 분기 매출 1조원을 기록했고, 1000억원 이상을 올린 기업은 지난해 같은 기간 20곳에서 21곳으로 늘었다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549100"
+      },
+      {
+        "title": "[병원소식] “덕분에 70년, 함께 100년”…을지대의료원, 창립 70주년 맞아 학술&#183;문화 행사 잇달아 개최",
+        "source": "한겨레",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:1일+10 | 키워드+10 | 순위:70위+2",
+        "snippet": "올해 창립 70주년을 맞은 을지대의료원이 ‘덕분에 70년, 함께 100년’을 슬로건으로 내걸고 미래의료와 전문간호의 발전 방향을 모색하는 학술대회부터 환자&#183;시민과 함께하는 기념 음악회까지 다각적인 학술&#183;문화 행사를 잇달아 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hani.co.kr/arti/hanihealth/medical/1287675.html"
+      },
+      {
+        "title": "휴베이스, 약국 개국 앞둔 약사에 입지&#183;수익 분석 교육",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:6시간+20 | 키워드+10 | 순위:41위+2",
+        "snippet": "휴베이스 (대표 김현익)가 운영하는 '개국플랜세미나'는 개국 과정에서 확인해야 할 요소를 처방 분석과 수익 구조, 입지 선정으로 나눠 살펴보는 프로그램이다. 개국을 앞둔 약사가 자신의 자금 여건과 운영 계획을 고려해 적합한 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549291"
+      },
+      {
+        "title": "&quot;지역 필수의료 강화&quot;…분당서울대&#183;복지부 논의",
+        "source": "NEWSIS on MSN",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NEWSIS on MSN+28 | 최신:1일+10 | 키워드+10 | 순위:76위+2",
+        "snippet": "분당서울대병원이 보건복지부와 지역 필수&#183;공공의료 강화를 위한 협력 방안을 논의했다. 지역 간 의료격차를 줄이고 환자가 거주지역에서 필요한 의료서비스를 받을 수 있는 지역완결형 의료체계 구축이 주요 의제로 다뤄졌다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%A7%80%EC%97%AD-%ED%95%84%EC%88%98%EC%9D%98%EB%A3%8C-%EA%B0%95%ED%99%94-%EB%B6%84%EB%8B%B9%EC%84%9C%EC%9A%B8%EB%8C%80-%EB%B3%B5%EC%A7%80%EB%B6%80-%EB%85%BC%EC%9D%98/ar-AA2hzGec?ocid=BingNewsVerp"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        28
+      ],
+      [
+        "급여",
+        15
+      ],
+      [
+        "약가",
+        13
+      ],
+      [
+        "식약처",
+        12
+      ],
+      [
+        "백신",
+        10
+      ],
+      [
+        "임상",
+        8
+      ],
+      [
+        "수출",
+        6
+      ],
+      [
+        "허가",
+        5
+      ],
+      [
+        "비만",
+        4
+      ],
+      [
+        "오남용",
+        3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "CDMO",
+        3
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "한약",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "항암",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        10
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "라포르시안",
+        3
+      ],
+      [
+        "히트뉴스",
+        2
+      ],
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "메디컬투데이 on MSN",
+        2
+      ],
+      [
+        "아시아경제 on MSN",
+        2
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "쿠키뉴스 on MSN",
+        1
+      ],
+      [
+        "소비자가 만드는 신문",
+        1
+      ],
+      [
+        "데일리메디",
+        1
+      ],
+      [
+        "paxmedicalnews",
+        1
+      ],
+      [
+        "nsenior",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "비즈월드",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 108,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 10,
+      "Pharma Associations": 24,
+      "Regulatory Agencies": 23,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "Trump’s Plan to Lower Drug Prices in U.S. Is Leading to Fewer New Drugs in Europe - WSJ",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 19:19:36 GMT+5 | 키워드+30 | 순위:190위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhRMllfZEhCQWpqaF9pYWRMVERlSmFJa3h5UGlwSmwxdVVkR05jeWRwY01tNG1Bd1pXV3RCbHZwNnZOLXpwQzBWeGpOX0d4am55Nzc1VUZIWlQ0ZW1wZld1UUJmVzdwcnNQQ18yNE",
+        "published_time": "Wed, 18 Nov 2026 19:19:36 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 19:19:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhRMllfZEhCQWpqaF9pYWRMVERlSmFJa3h5UGlwSmwxdVVkR05jeWRwY01tNG1Bd1pXV3RCbHZwNnZOLXpwQzBWeGpOX0d4am55Nzc1VUZIWlQ0ZW1wZld1UUJmVzdwcnNQQ18yNE85S043VURlYTd1ZElQZ1N4WEdCN3YwdVVkbE02R0N0VGpkaGUwTFRvS1BXTjNPWE94SndJbmtZUWhzZEp5dmpsZTBNVDdhd3hyOEthN1ZSZw?oc=5"
+      },
+      {
+        "title": "FDA moves to yank Salerno's liquid cholesterol drug approval on missing reports - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 14:54:30 GMT+5 | 키워드+30 | 순위:191위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVhQdDVBRlk3RnpEUDh3WE5FakprRDc1NnJhV2xHVzBFY21qVGlUZGhRS3kxRVhUTTVDYmM4MDg2dG5HcGN1MDJSejVrOGc1R21FVEhiVXlpV2xvd2RJQjhSQVRrZXJPdXNNTUY2ej",
+        "published_time": "Wed, 18 Nov 2026 14:54:30 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 14:54:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVhQdDVBRlk3RnpEUDh3WE5FakprRDc1NnJhV2xHVzBFY21qVGlUZGhRS3kxRVhUTTVDYmM4MDg2dG5HcGN1MDJSejVrOGc1R21FVEhiVXlpV2xvd2RJQjhSQVRrZXJPdXNNTUY2ejdhTDZNU3ZtLXo3cDBjM0Y5WXptcG1YdlZTekRQUllFbHZSRWgxcVd4Unh5bXJNdjZyZW5EeHBXOFpoRjQ?oc=5"
+      },
+      {
+        "title": "Recursion REC-4881 Phase 3 design aligned with FDA in FAP - Drug Discovery & Development",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 10:07:15 GMT+5 | 키워드+30 | 순위:192위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPR21sR0FXQVNHUWFIemhpTVoxeFhSaDlyeHNDWm1UWWh3dFZvYTRvbzNtZnJWX0ZjcHdkaGZsOENZVy1iNGlyLXhqczFwYk1vYkZDTThMSjRjX3lmcG1RZnBYT3doc3B6X1R3eS1FMW",
+        "published_time": "Wed, 18 Nov 2026 10:07:15 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 10:07:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR21sR0FXQVNHUWFIemhpTVoxeFhSaDlyeHNDWm1UWWh3dFZvYTRvbzNtZnJWX0ZjcHdkaGZsOENZVy1iNGlyLXhqczFwYk1vYkZDTThMSjRjX3lmcG1RZnBYT3doc3B6X1R3eS1FMWxuVVZBQzB1Y3pMU0dmNVN0a1ZFOVpFTUdxTk1vTnlBNmxVNzE4T2xiUkRtdmhYanExb0FvYVAzWmtIYktoSWMwR2JESHdxZl9CbFlSUFJPa0ZfeVhxc3FuWmpUZw?oc=5"
+      },
+      {
+        "title": "Why it now takes 465 days for plan members to access new drugs - Benefits and Pensions Monitor",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 14:47:28 GMT+5 | 키워드+30 | 순위:196위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTBWRDFJdWlEdXpmcFBUeFhwYTVZT2JFUXFJNDlhYk1HZVJLRFA3blN6U29ma0lnakZweXpTaHJfdjUzZ3NHRzd2NlNpZnVqbGNaLXkyZnZmbldFUUxTYllvazNQaWhaM0tfOTdMeW",
+        "published_time": "Wed, 18 Nov 2026 14:47:28 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 14:47:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTBWRDFJdWlEdXpmcFBUeFhwYTVZT2JFUXFJNDlhYk1HZVJLRFA3blN6U29ma0lnakZweXpTaHJfdjUzZ3NHRzd2NlNpZnVqbGNaLXkyZnZmbldFUUxTYllvazNQaWhaM0tfOTdMeWNpZFNTNVdFTEl4S2VMdHRuYno5WnZhelo2MDd1ZmdpV3RoTEh4ZlBoc1NLdVNOaEJ0Vk1LT1M1U0JjQ3BNMlA0bmVvRjY1STJWR3pIZk5fcWoxODh0cjhR?oc=5"
+      },
+      {
+        "title": "Beren clinches long-awaited FDA nod for cyclodextrin drug in Niemann-Pick disease - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 16:37:36 GMT+5 | 키워드+30 | 순위:197위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOV211WjVwQ3ZEcE5ETFRRel90em05bUk0a2JGZFg5VjlhWTdwVlRxbWhJMmdKRTdKWEQ5cmlkTDl6UW9NeTA1YW1WUHhXTUF3eWVoYjNMdDFQVFNiU0dIcDdxWVp3aXRMTURIYXZVTW",
+        "published_time": "Wed, 18 Nov 2026 16:37:36 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 16:37:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV211WjVwQ3ZEcE5ETFRRel90em05bUk0a2JGZFg5VjlhWTdwVlRxbWhJMmdKRTdKWEQ5cmlkTDl6UW9NeTA1YW1WUHhXTUF3eWVoYjNMdDFQVFNiU0dIcDdxWVp3aXRMTURIYXZVTWxTbC1xVWh4bUJWTnN6NGZWcHgxVng1cXMydW1OQWV3UUFVUGVKV1hr?oc=5"
+      },
+      {
+        "title": "GSK’s $10.6bn Nuvalent bet pays off with second lung cancer drug approval - Pharmaceutical Technology",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 20:21:47 GMT+5 | 키워드+30 | 순위:201위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmtfNmdfN0ltSFhGR0FwbzFEV1JXVEpHaEVZZkFmRWZHa1pxVkZuS2JWYUxqalhySUJmNUYzX0hpYUJWZDI2ZUhhb1haQjRTUFJhMzFQNE5SQlBhcHZXR2p1Q1hzNnNfLVZTcVJOU1",
+        "published_time": "Wed, 18 Nov 2026 20:21:47 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 20:21:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmtfNmdfN0ltSFhGR0FwbzFEV1JXVEpHaEVZZkFmRWZHa1pxVkZuS2JWYUxqalhySUJmNUYzX0hpYUJWZDI2ZUhhb1haQjRTUFJhMzFQNE5SQlBhcHZXR2p1Q1hzNnNfLVZTcVJOU1NaX0lyMXlkdVdVdTd6cXNzUTlKRVZSYVhncTBmb21BVEF1eVMySnk1SXBtVGZEZVNzd1czV1kzTDRyblhLWV9QX1l6LUdLQmlVNVhn?oc=5"
+      },
+      {
+        "title": "GSK gets second cancer drug approval from Nuvalent buy - pharmaphorum",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 10:19:02 GMT+5 | 키워드+30 | 순위:202위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUk1hOFJ3b05yOHFWYUF6Y0M0ZncxMVlCVEpPeHRuMk9yUFhyOFJRTEF4aGpVOWtxR1ZWWkQwdnFaRnowWjNSSFJvWURQdVR4cTB6d2ZkclQ3cmM2b2RkWU1IZ3JZTmpHVXVUckxRNV",
+        "published_time": "Wed, 18 Nov 2026 10:19:02 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 10:19:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUk1hOFJ3b05yOHFWYUF6Y0M0ZncxMVlCVEpPeHRuMk9yUFhyOFJRTEF4aGpVOWtxR1ZWWkQwdnFaRnowWjNSSFJvWURQdVR4cTB6d2ZkclQ3cmM2b2RkWU1IZ3JZTmpHVXVUckxRNVVfM0ZYWmYzaS11U3V4cUp4T0d3NmdVZw?oc=5"
+      },
+      {
+        "title": "Genomics and Vertex Extend $220 million Drug Discovery Partnership Deal - www.politicsuk.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 12:11:37 GMT+5 | 키워드+30 | 순위:205위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTFXX3dCSm1FZkVpZDU2dTZjS2ZkWDl1QXlEQ1pxRDlfdXFtWURxMzBvOUwxYll6RWtvemZUeEo3SDFNM0ZVTnBKbDY4THRJQXFrbVRlVHBUdkJrcG5oUUREdHBSdllsNWFvWGlseF",
+        "published_time": "Wed, 18 Nov 2026 12:11:37 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 12:11:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTFXX3dCSm1FZkVpZDU2dTZjS2ZkWDl1QXlEQ1pxRDlfdXFtWURxMzBvOUwxYll6RWtvemZUeEo3SDFNM0ZVTnBKbDY4THRJQXFrbVRlVHBUdkJrcG5oUUREdHBSdllsNWFvWGlseFVFMjFrVzVsdk9hUkJ6X0RiNUY5MVdabElhQ0t4UEktWmZCOGt4Z1l4RTQ0T2I2MUdzY2RTeWR2ek1Iem1GN3dlZkZqaTFnU3M2Mng0V0c0ODM0c1Izc3p4WTVVc2lEY2Ro?oc=5"
+      },
+      {
+        "title": "Floodgates open for unproven wellness drugs after US lifts peptide curbs - Financial Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 11:00:05 GMT+5 | 키워드+30 | 순위:208위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWk2VGV4VXcwZGRrRnRVVDlBODRIT1RZTUVWZUc1eThENDVfRFN3Wk96SW5wM0g0RjhBcjlITlBFQlIydW5nV1dlX283MVdpQUlRakZ0Y25WM2pNdW5qMWVTQXNPcFZYZ2w4bm9BYX",
+        "published_time": "Wed, 18 Nov 2026 11:00:05 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 11:00:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWk2VGV4VXcwZGRrRnRVVDlBODRIT1RZTUVWZUc1eThENDVfRFN3Wk96SW5wM0g0RjhBcjlITlBFQlIydW5nV1dlX283MVdpQUlRakZ0Y25WM2pNdW5qMWVTQXNPcFZYZ2w4bm9BYXc4X3FDNE1EdjY4TTFGbkZ1RXJKcEY?oc=5"
+      },
+      {
+        "title": "Ensol Bio Bets on FDA Accelerated Approval, Obesity Drug Licensing to Win KOSDAQ Transfer Listing - BigGo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 09:05:00 GMT+5 | 키워드+30 | 순위:209위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE45dmEtYVdXY1lralZaOXNSNFlsTl8yUDI1TFN2aUwzYjZMUzRMNEZBQ3ROZVJVdGg1Nmc4QndIV243R1dJUGJxV01aUVFBOWU1NDZRTjA1THpwSVNCLU5NUDd1a2JFOUFBUjM1YXgzOE",
+        "published_time": "Wed, 18 Nov 2026 09:05:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 09:05:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45dmEtYVdXY1lralZaOXNSNFlsTl8yUDI1TFN2aUwzYjZMUzRMNEZBQ3ROZVJVdGg1Nmc4QndIV243R1dJUGJxV01aUVFBOWU1NDZRTjA1THpwSVNCLU5NUDd1a2JFOUFBUjM1YXgzOERsRkdfVWc?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        18
+      ],
+      [
+        "approval",
+        12
+      ],
+      [
+        "GMP",
+        6
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 101,
+    "languages": {
+      "French / 프랑스어": 7,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 9,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 6,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 2,
+      "Turkish / 터키어": 2,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 1,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 0,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 5,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 5,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 3,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "We hopen dat MSD zal investeren in een fabriek voor de productie van geneesmiddelen en vaccins in Vietnam. - Vietnam.vn",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+28 | 최신:Wed, 18 Nov 2026 13:53:30 GMT+5 | 키워드+10 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1JGNjdEa2haRXc2WFRENDA2N1Jjd3hTUW44U2ZYNDNTMi02akR2UGpMem82eVVRZmxrSEdxN0NHanI0OTdsdGZVTnNCeXpqOE5rYmpMMkt5SkU5TUdxTEhNZElyM2VqRUFRYjU2NV",
+        "published_time": "Wed, 18 Nov 2026 13:53:30 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 13:53:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV1JGNjdEa2haRXc2WFRENDA2N1Jjd3hTUW44U2ZYNDNTMi02akR2UGpMem82eVVRZmxrSEdxN0NHanI0OTdsdGZVTnNCeXpqOE5rYmpMMkt5SkU5TUdxTEhNZElyM2VqRUFRYjU2NVRrZFhzcFMwaEE2ZUZLNlREM21wUjUyZGdFWWhZX2dJbVphZ0l0?oc=5"
+      },
+      {
+        "title": "Jaką wizję zdrowia ma przemysł farmaceutyczny? ► - Termedia",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 13:22:21 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkVubmlpbHFBN0lZaGhWWGx3OXFkUTBLQjBESFJwdkZpWXhzVkMxcF8taG1tLUpGSDNsWDh3Y3ZDSGJ3WjhVbXJJenRweXJDbmUxRGJXWjJyUmVEcE05bjd2aTM1REhYdHdXYkZaSz",
+        "published_time": "Wed, 18 Nov 2026 13:22:21 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 13:22:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkVubmlpbHFBN0lZaGhWWGx3OXFkUTBLQjBESFJwdkZpWXhzVkMxcF8taG1tLUpGSDNsWDh3Y3ZDSGJ3WjhVbXJJenRweXJDbmUxRGJXWjJyUmVEcE05bjd2aTM1REhYdHdXYkZaSzA5R0ZMS3NVOC1aaUxLZ3gwc1JQZlZpcXNFZi1UMg?oc=5"
+      },
+      {
+        "title": "Prabowo Dorong Penguatan Kerja Sama Kesehatan ASEAN-India di KTT Manila, Soroti Industri Farmasi dan Teknologi Medis - Acehtimes",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 08:47:14 GMT+5 | 키워드+25 | 순위:13위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGl1aEZLdUNGczFMQXZKbXhQdVd1OFdnQWtRUzBIcUZockNsa0F4RmZoYTNqTUlHOEI1ZEo1VV9TbVY1THNHODdmOTVBdG16bkdXb3VNcmlIUkFJMDN4SDBhUldPYy1WWHhhR09RQ1",
+        "published_time": "Wed, 18 Nov 2026 08:47:14 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 08:47:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGl1aEZLdUNGczFMQXZKbXhQdVd1OFdnQWtRUzBIcUZockNsa0F4RmZoYTNqTUlHOEI1ZEo1VV9TbVY1THNHODdmOTVBdG16bkdXb3VNcmlIUkFJMDN4SDBhUldPYy1WWHhhR09RQ1NuemVia2lHeU9kX2J2U0pkREY4X3d4TlB2THF0emRFemRCZE5xWXV6TmRLdG1tRUU0b2Q1M3N0WHNCaHp4b0JtOHVLRXVPaFBycEtLY181OFFCNkpWcTV6cFBzdHR6X19jeEloNkttY2QyQ2pE0gHiAUFVX3lxTE5JcjFHQlc2dDJwVjVaUWNmUXZPVFYtemhsRnU2UW5uUmNNcFJudnB6dlZzTGFuYjdYTks2YVFDbmhJQm5mWmF1NHZTSF90OFVhZFZvWU1zM0RMclRxQjZRM3hadUpOOHpqcVVXNUk0Y3pOdXU2elN0TDJYRVdEVHdLaFczS0RJWDFOTkRmc1BKd281SE5wTVdQVGJka01MRHI0V1dLblFYbG5taFpGMUhEZFo1am5naEt6ME01Y2JBVEtmS0JHZ2xrTExHelBTR0twM29DdkhTN09YZ0lCWXVmVVE?oc=5"
+      },
+      {
+        "title": "IAI Harap Kerja Sama Indonesia-India Perkuat Industri Farmasi Nasional - RRI.co.id",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 14:55:00 GMT+5 | 키워드+25 | 순위:15위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWkxWk5rX0c4M2JQRWVMMXRjQ3o2bEZacnR1Wmw5bkZmS2lnVG5NN21GOGk2Y3E0UjM3RVM0X2ZyY3Z3cWZiWl9Xdm5JN1EwT0czZmxnYVBuVWx2X2JlSHJ6LW91TTVkY2VQcnNNME",
+        "published_time": "Wed, 18 Nov 2026 14:55:00 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 14:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWkxWk5rX0c4M2JQRWVMMXRjQ3o2bEZacnR1Wmw5bkZmS2lnVG5NN21GOGk2Y3E0UjM3RVM0X2ZyY3Z3cWZiWl9Xdm5JN1EwT0czZmxnYVBuVWx2X2JlSHJ6LW91TTVkY2VQcnNNMEh0NDlSenlXOVJJamlCekJRWk5lMHJ2Q2Z4QjRRZkdFMmJETEJtNlBOZ0gtLTdkbG1tSG8yRjF4SQ?oc=5"
+      },
+      {
+        "title": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos - Guia da Farmácia",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Wed, 18 Nov 2026 13:00:14 GMT+5 | 키워드+20 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0k5aUVQRUFBZDFHbGd3aWZnem9LaXJTRW04N3NTZXZGd3hjSWd4Z282Z0xjTDJFb2w4WmpsU1ZIT0lWYnN0YS1leUIyODJBcHpyckhkNHc0UjNTUmJJWi1UbVVIdWsxMFkzNUN3Vn",
+        "published_time": "Wed, 18 Nov 2026 13:00:14 GMT",
+        "modified_time": "",
+        "time": "Wed, 18 Nov 2026 13:00:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0k5aUVQRUFBZDFHbGd3aWZnem9LaXJTRW04N3NTZXZGd3hjSWd4Z282Z0xjTDJFb2w4WmpsU1ZIT0lWYnN0YS1leUIyODJBcHpyckhkNHc0UjNTUmJJWi1UbVVIdWsxMFkzNUN3VnNJSjBWdHI0VTFydnludHVrajZKRmptZzFYMGdMV0RGNnVyLW9uUmtsVXFxZw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

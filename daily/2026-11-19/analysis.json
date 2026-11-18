@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-19",
+  "window_kst": "2026-11-19 06:30:00 to 2026-11-20 06:29:59",
+  "total_articles": 1,
+  "language_breakdown": {"korean": 1, "english": 0, "multilingual": 0},
+  "issues": [
+    {
+      "topic": "약가유연계약제, 국산 신약 적용 확대",
+      "domain": "policy",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 42,
+      "key_articles": [{
+        "title": "해외로 뻗는 국산 의약품…브라질·동남아·중동서 사업화 성과",
+        "importance": 42,
+        "url": "https://www.msn.com/ko-kr/news/other/%ED%95%B4%EC%99%B8%EB%A1%9C-%EB%BB%97%EB%8A%94-%EA%B5%AD%EC%82%B0-%EC%9D%98%EC%95%BD%ED%92%88-%EB%B8%8C%EB%9D%BC%EC%A7%88-%EB%8F%99%EB%82%A8%EC%95%84-%EC%A4%91%EB%8F%99%EC%84%9C-%EC%82%AC%EC%97%85%ED%99%94-%EC%84%B1%EA%B3%BC/ar-AA2hIF89?ocid=BingNewsVerp"
+      }],
+      "summary_kr": "시간 창을 통과한 기사 1건은 국내 제약사의 자체 개발 의약품이 브라질·인도네시아·UAE 등에서 품목허가와 사업화로 이어지고 있다고 전한다. 단일 기사 기반이므로 시장 전반의 추세나 정책 효과로 일반화하기 어렵다.",
+      "summary_en": "One eligible report describes South Korean-developed medicines advancing toward commercialization in Brazil, Indonesia, and the UAE. A single article is insufficient to establish a broader market trend."
+    }
+  ],
+  "cross_language_issues": [],
+  "notable_absences": [
+    "수집 데이터에 405건이 있으나 시간 필터에서 404건이 제외되어 분석 창에 남은 기사는 1건뿐이다.",
+    "분석 대상이 1건이므로 클러스터링 및 한영 교차 이슈 분석은 유의미하지 않다."
+  ],
+  "trend_shift": {"from_yesterday": [], "changes": ["분석 데이터 부족으로 전일 대비 추세 판단을 보류한다."]},
+  "connections": [],
+  "generated_at": "2026-11-19T07:30:00+09:00"
+}
