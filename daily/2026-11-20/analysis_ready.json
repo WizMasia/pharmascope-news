@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-20",
+  "total_articles": 390,
+  "language_breakdown": {
+    "korean": {
+      "total": 199,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 25,
+        "의약단체": 24,
+        "의약관련정부기관": 25,
+        "의료현장": 25,
+        "약국·약사": 6,
+        "의료정책·인력": 12,
+        "전통의학": 7,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 101,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 22,
+        "Pharma Policy": 9,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 11,
+        "Traditional & Complementary Medicine": 9
+      }
+    },
+    "multilingual": {
+      "total": 90,
+      "languages": {
+        "French / 프랑스어": 5,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 6,
+        "Portuguese / 포르투갈어": 6,
+        "Dutch / 네덜란드어": 3,
+        "Swedish / 스웨덴어": 1,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 4,
+        "Chinese Traditional / 대만": 2,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 7,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 5,
+        "Arabic / 아랍어": 8,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 19
+    },
+    {
+      "keyword": "약가",
+      "count": 15
+    },
+    {
+      "keyword": "급여",
+      "count": 11
+    },
+    {
+      "keyword": "FDA",
+      "count": 10
+    },
+    {
+      "keyword": "식약처",
+      "count": 10
+    },
+    {
+      "keyword": "R&D",
+      "count": 9
+    },
+    {
+      "keyword": "비만",
+      "count": 8
+    },
+    {
+      "keyword": "마운자로",
+      "count": 6
+    },
+    {
+      "keyword": "허가",
+      "count": 4
+    },
+    {
+      "keyword": "공급망",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "한약",
+      "count": 2
+    },
+    {
+      "keyword": "항암",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    },
+    {
+      "keyword": "특허",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 5
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 3
+    },
+    {
+      "keyword": "approval",
+      "count": 2
+    },
+    {
+      "keyword": "patent",
+      "count": 2
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 1
+    },
+    {
+      "keyword": "GMP",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "regulation",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 8
+    },
+    {
+      "source": "데일리팜",
+      "count": 4
+    },
+    {
+      "source": "약업닷컴",
+      "count": 3
+    },
+    {
+      "source": "의학신문",
+      "count": 3
+    },
+    {
+      "source": "medicaldaily.co.kr",
+      "count": 3
+    },
+    {
+      "source": "히트뉴스",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스 on MSN",
+      "count": 2
+    },
+    {
+      "source": "뉴스핌",
+      "count": 2
+    },
+    {
+      "source": "헬스조선",
+      "count": 2
+    },
+    {
+      "source": "더바이오",
+      "count": 2
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "약가유연계약제, 국산 신약 적용 확대"
+  ],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "신약 개발 독려하는 정부...약가 인하에 R&amp;D 재원 비상",
+      "source": "팜뉴스 on MSN",
+      "importance": 42,
+      "snippet": "[팜뉴스=우정민 기자]정부가 국내 신약 개발과 글로벌 시장 진출을 지원하는 가운데, 제약업계에서는 제네릭(복제약) 약가 인하에 따른 연구개발(R&amp;D) 재원 감소를 우려하는 목소리가 나오고 있다. 보건복지부는 지난 18일 국내 ...",
+      "url": "https://www.msn.com/ko-kr/money/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EC%A0%95%EB%B6%80-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98%EC%97%90-r-d-%EC%9E%AC%EC%9B%90-%EB%B9%84%EC%83%81/ar-AA2hNZ0q?ocid=BingNewsVerp"
+    },
+    {
+      "title": "美FDA 국장 공백 장기화…불확실성 커진 제약업계",
+      "source": "뉴시스 on MSN",
+      "importance": 42,
+      "snippet": "미국 백악관이 하이디 오버턴 식품의약국(FDA) 국장 후보자 지명을 철회하면서 FDA 수장 공백이 길어질 전망이다. 제약바이오 업계에서는 정책 연속성과 규제 예측 가능성에 불확실성이 커졌다는 분석이 나온다. 20일 STAT, ...",
+      "url": "https://www.msn.com/ko-kr/news/world/%E7%BE%8Efda-%EA%B5%AD%EC%9E%A5-%EA%B3%B5%EB%B0%B1-%EC%9E%A5%EA%B8%B0%ED%99%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1-%EC%BB%A4%EC%A7%84-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84/ar-AA2hNC7E?ocid=BingNewsVerp"
+    },
+    {
+      "title": "마운자로 가격 낮아질까? 심평원 급여 인정 가능성 크다",
+      "source": "머니투데이 on MSN",
+      "importance": 37,
+      "snippet": "적응증 추가 신청 상태, 확정땐 가격 인하 시사 비급여 약제 가격 공개...&quot;합리적 선택 도움될 것&quot; 건강보험심사평가원(이하 심평원)이 비만약 '마운자로'(성분명 '터제파타이드')의 급여 적정성이 인정될 가능성이 크다고 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EA%B0%80%EA%B2%A9-%EB%82%AE%EC%95%84%EC%A7%88%EA%B9%8C-%EC%8B%AC%ED%8F%89%EC%9B%90-%EA%B8%89%EC%97%AC-%EC%9D%B8%EC%A0%95-%EA%B0%80%EB%8A%A5%EC%84%B1-%ED%81%AC%EB%8B%A4/ar-AA2hNGcu?ocid=BingNewsVerp"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 2,
+      "en_count": 1
+    },
+    {
+      "keyword": "특허",
+      "kr_count": 2,
+      "en_count": 2
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 4,
+      "en_count": 2
+    }
+  ]
+}

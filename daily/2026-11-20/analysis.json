@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-20",
+  "window_kst": "2026-11-20 06:30:00 to 2026-11-21 06:29:59",
+  "total_articles": 3,
+  "language_breakdown": {
+    "korean": 3,
+    "english": 0,
+    "multilingual": 0
+  },
+  "issues": [
+    {
+      "topic": "국내 신약 R&D 재원과 제네릭 약가 인하 우려",
+      "domain": "policy",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "신약 개발 독려하는 정부...약가 인하에 R&amp;D 재원 비상",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/money/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EC%A0%95%EB%B6%80-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98%EC%97%90-r-d-%EC%9E%AC%EC%9B%90-%EB%B9%84%EC%83%81/ar-AA2hNZ0q?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "정부의 신약 개발 지원과 제네릭 약가 인하에 따른 연구개발 재원 감소 우려가 함께 제기됐다. 기사 1건에 기반한 업계 우려로 정책 효과는 별도 확인이 필요하다.",
+      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
+    },
+    {
+      "topic": "미 FDA 국장 지명 철회와 규제 불확실성",
+      "domain": "regulatory",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 42,
+      "key_articles": [
+        {
+          "title": "美FDA 국장 공백 장기화…불확실성 커진 제약업계",
+          "importance": 42,
+          "url": "https://www.msn.com/ko-kr/news/world/%E7%BE%8Efda-%EA%B5%AD%EC%9E%A5-%EA%B3%B5%EB%B0%B1-%EC%9E%A5%EA%B8%B0%ED%99%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1-%EC%BB%A4%EC%A7%84-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84/ar-AA2hNC7E?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "FDA 국장 후보 지명 철회로 수장 공백이 길어질 수 있다는 보도다. 기사에서 언급한 정책 연속성·규제 예측 가능성 우려는 향후 인선과 공식 발표로 확인해야 한다.",
+      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
+    },
+    {
+      "topic": "마운자로 건강보험 급여 가능성과 가격",
+      "domain": "drug",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 37,
+      "key_articles": [
+        {
+          "title": "마운자로 가격 낮아질까? 심평원 급여 인정 가능성 크다",
+          "importance": 37,
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EA%B0%80%EA%B2%A9-%EB%82%AE%EC%95%84%EC%A7%88%EA%B9%8C-%EC%8B%AC%ED%8F%89%EC%9B%90-%EA%B8%89%EC%97%AC-%EC%9D%B8%EC%A0%95-%EA%B0%80%EB%8A%A5%EC%84%B1-%ED%81%AC%EB%8B%A4/ar-AA2hNGcu?ocid=BingNewsVerp"
+        }
+      ],
+      "summary_kr": "심평원의 급여 적정성 인정 가능성이 보도됐으나 확정 전 단계로, 급여 결정 및 가격 변화는 공식 결과를 확인해야 한다.",
+      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
+    }
+  ],
+  "cross_language_issues": [],
+  "notable_absences": [
+    "387건이 시간 필터에서 제외되어 분석 창에 남은 기사는 3건이다.",
+    "통과 기사 3건은 모두 미분류이며, 한영 교차 후보는 집계 자료만 있고 교차 분석할 기사 표본은 부족하다."
+  ],
+  "trend_shift": {
+    "from_yesterday": [
+      "약가유연계약제, 국산 신약 적용 확대"
+    ],
+    "changes": [
+      "분석 대상 3건으로 전일 대비 추세 판단은 제한적이다."
+    ]
+  },
+  "connections": [],
+  "generated_at": "2026-11-20T07:30:00+09:00"
+}
