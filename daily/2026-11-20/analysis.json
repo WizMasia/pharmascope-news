@@ -1,75 +1,67 @@
 {
   "date": "2026-11-20",
   "window_kst": "2026-11-20 06:30:00 to 2026-11-21 06:29:59",
-  "total_articles": 3,
-  "language_breakdown": {
-    "korean": 3,
-    "english": 0,
-    "multilingual": 0
-  },
+  "total_articles": 390,
+  "language_breakdown": {"korean": 199, "english": 101, "multilingual": 90},
   "issues": [
     {
-      "topic": "국내 신약 R&D 재원과 제네릭 약가 인하 우려",
-      "domain": "policy",
-      "significance": "low",
-      "article_count": 1,
-      "avg_importance": 42,
-      "key_articles": [
-        {
-          "title": "신약 개발 독려하는 정부...약가 인하에 R&amp;D 재원 비상",
-          "importance": 42,
-          "url": "https://www.msn.com/ko-kr/money/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EC%A0%95%EB%B6%80-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98%EC%97%90-r-d-%EC%9E%AC%EC%9B%90-%EB%B9%84%EC%83%81/ar-AA2hNZ0q?ocid=BingNewsVerp"
-        }
-      ],
-      "summary_kr": "정부의 신약 개발 지원과 제네릭 약가 인하에 따른 연구개발 재원 감소 우려가 함께 제기됐다. 기사 1건에 기반한 업계 우려로 정책 효과는 별도 확인이 필요하다.",
-      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
-    },
-    {
-      "topic": "미 FDA 국장 지명 철회와 규제 불확실성",
-      "domain": "regulatory",
-      "significance": "low",
-      "article_count": 1,
-      "avg_importance": 42,
-      "key_articles": [
-        {
-          "title": "美FDA 국장 공백 장기화…불확실성 커진 제약업계",
-          "importance": 42,
-          "url": "https://www.msn.com/ko-kr/news/world/%E7%BE%8Efda-%EA%B5%AD%EC%9E%A5-%EA%B3%B5%EB%B0%B1-%EC%9E%A5%EA%B8%B0%ED%99%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1-%EC%BB%A4%EC%A7%84-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84/ar-AA2hNC7E?ocid=BingNewsVerp"
-        }
-      ],
-      "summary_kr": "FDA 국장 후보 지명 철회로 수장 공백이 길어질 수 있다는 보도다. 기사에서 언급한 정책 연속성·규제 예측 가능성 우려는 향후 인선과 공식 발표로 확인해야 한다.",
-      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
-    },
-    {
-      "topic": "마운자로 건강보험 급여 가능성과 가격",
+      "topic": "의약품 내성·항균제 사용 관리 논의",
       "domain": "drug",
+      "significance": "medium",
+      "article_count": 16,
+      "avg_importance": 48,
+      "key_articles": [{"title": "Pharmaceutical antimicrobial resistance, proposes action", "importance": 67, "url": "https://www.who.int/news/item/2026-11-19-antimicrobial-resistance"}],
+      "summary_kr": "의약품 내성 및 항균제의 적정 사용·대응을 다룬 기사가 다수 포착됐다. 다만 클러스터에는 언어별 보도와 세부 주제가 섞여 있으므로 WHO 등 1차 자료 및 각국의 구체 조치를 구분해 확인해야 한다.",
+      "summary_en": "Coverage highlights antimicrobial resistance and medicine-use responses, but the cluster spans different languages and subtopics; specific actions should be verified against primary sources."
+    },
+    {
+      "topic": "이보네시맙 FDA 심사 결과와 항암제 개발",
+      "domain": "regulatory",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 52,
+      "key_articles": [{"title": "'키트루다 대항마' 이보네시맙, FDA 승인 문턱서 고배", "importance": 60, "url": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111901316.html"}],
+      "summary_kr": "이보네시맙의 FDA 승인 거절 및 심사 쟁점이 국내외 보도에서 다뤄졌다. 임상적 유효성 해석과 지역별 데이터 문제 등 구체 사유는 FDA 문서와 개발사 공시를 통해 확인할 필요가 있다.",
+      "summary_en": "Reports discuss the FDA rejection of ivonescimab and review concerns; the exact rationale should be checked against FDA documents and company disclosures."
+    },
+    {
+      "topic": "사용량 연동 약가 인하 및 급여 재평가",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 5,
+      "avg_importance": 47,
+      "key_articles": [{"title": "PV 약가인하 차액 환급 '유형 다' 제외…재평가 약제 사전협상 2월", "importance": 56, "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80870"}],
+      "summary_kr": "사용량-약가 연동 인하의 정례화, 환급 방식과 급여 재평가가 보도됐다. 시행 일정과 적용 대상은 보건복지부·건보공단의 공식 고시 및 세부 지침으로 확인해야 한다.",
+      "summary_en": "Coverage focuses on recurring volume-linked price reductions, refunds and reimbursement reassessment; implementation details require confirmation in official notices."
+    },
+    {
+      "topic": "경희대병원 의료질 평가 최상위 등급",
+      "domain": "clinical",
       "significance": "low",
-      "article_count": 1,
-      "avg_importance": 37,
-      "key_articles": [
-        {
-          "title": "마운자로 가격 낮아질까? 심평원 급여 인정 가능성 크다",
-          "importance": 37,
-          "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EA%B0%80%EA%B2%A9-%EB%82%AE%EC%95%84%EC%A7%88%EA%B9%8C-%EC%8B%AC%ED%8F%89%EC%9B%90-%EA%B8%89%EC%97%AC-%EC%9D%B8%EC%A0%95-%EA%B0%80%EB%8A%A5%EC%84%B1-%ED%81%AC%EB%8B%A4/ar-AA2hNGcu?ocid=BingNewsVerp"
-        }
-      ],
-      "summary_kr": "심평원의 급여 적정성 인정 가능성이 보도됐으나 확정 전 단계로, 급여 결정 및 가격 변화는 공식 결과를 확인해야 한다.",
-      "summary_en": "A single report raises this issue; its implications remain provisional pending confirmation from official decisions or additional reporting."
+      "article_count": 3,
+      "avg_importance": 47,
+      "key_articles": [{"title": "경희대병원, 2년 연속 의료질 평가 최상위 등급 획득", "importance": 52, "url": "https://www.monews.co.kr/news/articleView.html?idxno=415608"}],
+      "summary_kr": "경희대병원이 보건복지부 2026년 의료질 평가에서 2년 연속 최상위 등급을 받았다는 보도가 이어졌다. 평가 영역별 결과와 기관 간 비교는 보건복지부 공개자료를 확인해야 한다.",
+      "summary_en": "Multiple reports say Kyung Hee University Hospital received the top tier in the 2026 quality assessment for a second year; detailed scores should be checked in the ministry release."
+    },
+    {
+      "topic": "병동전담약사 역할 및 제도화 논의",
+      "domain": "industry",
+      "significance": "low",
+      "article_count": 2,
+      "avg_importance": 46,
+      "key_articles": [{"title": "병원약사회, 28일 추계학술대회…병동전담약사 역할 조명", "importance": 46, "url": "https://www.dailypharm.com/user/news/344730"}],
+      "summary_kr": "병원약사회 학술대회에서 병동전담약사의 환자안전 역할과 제도화 방안을 논의할 예정이라는 보도다. 실제 인력·수가·제도 변화 여부는 후속 정책 논의로 확인해야 한다.",
+      "summary_en": "Reports preview discussion of ward pharmacists' patient-safety role and formalization; changes in staffing, reimbursement or policy remain to be established."
     }
   ],
-  "cross_language_issues": [],
-  "notable_absences": [
-    "387건이 시간 필터에서 제외되어 분석 창에 남은 기사는 3건이다.",
-    "통과 기사 3건은 모두 미분류이며, 한영 교차 후보는 집계 자료만 있고 교차 분석할 기사 표본은 부족하다."
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 2, "en_count": 1, "significance": "low; candidate counts only, related coverage not verified as the same issue"},
+    {"keyword": "특허", "kr_count": 2, "en_count": 2, "significance": "low; candidate counts only, related coverage not verified as the same issue"},
+    {"keyword": "허가", "kr_count": 4, "en_count": 2, "significance": "low; candidate counts only, related coverage not verified as the same issue"}
   ],
-  "trend_shift": {
-    "from_yesterday": [
-      "약가유연계약제, 국산 신약 적용 확대"
-    ],
-    "changes": [
-      "분석 대상 3건으로 전일 대비 추세 판단은 제한적이다."
-    ]
-  },
-  "connections": [],
-  "generated_at": "2026-11-20T07:30:00+09:00"
+  "notable_absences": ["전통의학 관련 분석은 별도 군집에서 다뤄졌으나, 표본이 2건으로 경향 판단에는 제한적이다."],
+  "trend_shift": {"from_yesterday": ["약가유연계약제, 국산 신약 적용 확대"], "changes": ["금일 수집 표본에서는 약가·급여 및 FDA 심사 관련 보도가 두드러졌으나 전일 대비 변화로 단정할 근거는 제한적이다."]},
+  "connections": ["약가 인하·급여 재평가 논의는 국내 제약사의 R&D 재원 우려와 연결될 수 있으나, 인과관계는 단일 보도로 확정할 수 없다."],
+  "generated_at": "2026-11-21T07:45:00+09:00"
 }
