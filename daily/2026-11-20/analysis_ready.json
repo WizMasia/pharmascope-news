@@ -204,28 +204,549 @@
   "yesterday_issues": [
     "약가유연계약제, 국산 신약 적용 확대"
   ],
-  "clusters": [],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 16,
+      "keywords": [
+        "drug",
+        "health",
+        "resistance",
+        "proposes",
+        "antimicrobials"
+      ],
+      "articles": [
+        {
+          "title": "Evogene Q3 2026 slides highlight AI drug progress amid 75% revenue drop - Investing.com",
+          "source": "",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0FQZDNPSUZwQUluZzFtZHZBX3VHZ1czaWpGa3JCazRrVTNFVlhHWjBTSUNkTGhCR3Z4dHNnVHJudU4zTnlDR3VPUUtIWlZTQWNZaUFjN0hMZzRJeWNYRW8xUVFGX3EzQ01LSVkyak",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 19 Nov 2026 14:53:38 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0FQZDNPSUZwQUluZzFtZHZBX3VHZ1czaWpGa3JCazRrVTNFVlhHWjBTSUNkTGhCR3Z4dHNnVHJudU4zTnlDR3VPUUtIWlZTQWNZaUFjN0hMZzRJeWNYRW8xUVFGX3EzQ01LSVkyakJpeFFodTFvdko2Q3lLVGJubG1yRWdmbmxvNkNoY0k1VXFkczRGV0xaX3lGdl81emNJb2E0em92RGxxMFBsTTVmby16M0dhanI5MC1oenVUeGdLMHJnTVE?oc=5"
+        },
+        {
+          "title": "Bridging gaps in rare disease drug access requires strategic rethink - Pharmaceutical Technology",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2otUU0xVlhvM2M0aXRLT2ZiYVVMNEJseTRFTU8zYjh2Rm5KTlJpRW1Fd1VKeUhUbk1heWI4eWRobkEzalpjUlpMNF9qQUNUNDJQckVQYng5aHhNNHVKdGNOSjdVVkxabHVzOEV0Qz",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 12:37:16 GMT",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ2otUU0xVlhvM2M0aXRLT2ZiYVVMNEJseTRFTU8zYjh2Rm5KTlJpRW1Fd1VKeUhUbk1heWI4eWRobkEzalpjUlpMNF9qQUNUNDJQckVQYng5aHhNNHVKdGNOSjdVVkxabHVzOEV0QzhJbkQ3T2YwMl9TeVY0RTM2LVcwZGhxY0QyR2hQQWxrbw?oc=5"
+        },
+        {
+          "title": "In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment - STAT",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3pZYjRzY09MREJnc2tNNzRId2IxM2xQUHU5NjVGdXFoOVlkazFFcWRQNEVoaDN5cVk3Q2prbzVsQzZMMmJtNkRPNGRZVzF2SFZpYkFZLUJKcGN2eG5fU3ZiV2Zta2R3UXd1SWp6OW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 11:34:45 GMT",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3pZYjRzY09MREJnc2tNNzRId2IxM2xQUHU5NjVGdXFoOVlkazFFcWRQNEVoaDN5cVk3Q2prbzVsQzZMMmJtNkRPNGRZVzF2SFZpYkFZLUJKcGN2eG5fU3ZiV2Zta2R3UXd1SWp6OWZIaWpFdjJVSlJOTHJZenVRUHF5QVYtcWgxRHRWOFFoTEd6QU1DQnI1SWVR?oc=5"
+        },
+        {
+          "title": "£1m to advance a new class of antibiotics for drug-resistant pneumonia - University of Liverpool",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2xXc1l0VHJPMjlzdkVta1JsRGcycXVhOG9DN2RVNi1zcWM3NkJxWVZFY1hwSnh4QjB1UW1DTVNnX0FfTVRZU0xjWnMxenA4clBZdTh2UV9uVjEzbE40SnJEOWIwWWZVU2hCTGlCbW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 09:30:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ2xXc1l0VHJPMjlzdkVta1JsRGcycXVhOG9DN2RVNi1zcWM3NkJxWVZFY1hwSnh4QjB1UW1DTVNnX0FfTVRZU0xjWnMxenA4clBZdTh2UV9uVjEzbE40SnJEOWIwWWZVU2hCTGlCbWZfY0w1T3d2RG9CYnpxWHN2UkN3VWFHdkhjc0JaTWJUbDlfN3JBZWNuNWxzaDE1c0VIbXRiMHpYa3cxWGdPcjdj?oc=5"
+        },
+        {
+          "title": "World AMR Awareness Week: 10 ways McMaster is fighting back against drug resistance - Faculty of Health Sciences - McMaster University",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHlBdzc5NmhzaGJlb1JWRXpsUFpwc0NqYUlGX241ZHliVmhmclhTdFA2eEpadm5fdzZaS01tamxlcDNSaGxWUFNnMUdoNGd4MmpPTmNpUGtEdVN3Zl9OTHhWUWdFbk5Rb0FlVWlndE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 12:20:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdHlBdzc5NmhzaGJlb1JWRXpsUFpwc0NqYUlGX241ZHliVmhmclhTdFA2eEpadm5fdzZaS01tamxlcDNSaGxWUFNnMUdoNGd4MmpPTmNpUGtEdVN3Zl9OTHhWUWdFbk5Rb0FlVWlndExwSUdDdlpRelliWEdwN1NUM1dvRHllek1UYVMwZVlOT0ItMlpyUmc5M043dXFLQm9ZTnN5N2phTnpwNEpiQnk0UGVRbw?oc=5"
+        },
+        {
+          "title": "Opinion: Africa should go beyond testing drugs to designing them - Chemical & Engineering News",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOODNjNkNSTW1lSWYybVdkUExvaWtZRllxVnZFeVVQeDJ1OVJOazFIOXF3Vk5DVnJMYWZpekVYU3g0OUdYNDU0WXR3NmxjWW93cnhZcUdLMG5iMS1jNm85bVlLNDd5TjRCcnI5OEM0S3",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 19:56:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOODNjNkNSTW1lSWYybVdkUExvaWtZRllxVnZFeVVQeDJ1OVJOazFIOXF3Vk5DVnJMYWZpekVYU3g0OUdYNDU0WXR3NmxjWW93cnhZcUdLMG5iMS1jNm85bVlLNDd5TjRCcnI5OEM0S3Q0M3dHVEt3eUZlZ3RwOVR4SWRici1kODZVdFVvNVFycDBnR1JuMXBXb3Q4LW5iSGh0dXpMMTR5a3JUMFJrdWdHVFJ5MDU1UkxNanc?oc=5"
+        },
+        {
+          "title": "Centre proposes changes to drug rules to bring antimicrobials under regulatory oversight - The New Indian Express",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzFRM1Vzd1lYcmg2SF9sRU9NejRwUUpOWWg0bkd4emZjSDNGNFdwVG9lRkk5ZG1RMElhcHBSaEExd2djSjZCdGhyMUFVdkF4eGh3NTNwZ3ViOEY0WVJzd18zOU80cGZQZjNRXzhyYU",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 10:05:48 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVzFRM1Vzd1lYcmg2SF9sRU9NejRwUUpOWWg0bkd4emZjSDNGNFdwVG9lRkk5ZG1RMElhcHBSaEExd2djSjZCdGhyMUFVdkF4eGh3NTNwZ3ViOEY0WVJzd18zOU80cGZQZjNRXzhyYUFBc0V0dzJQaWkxZFFWSWZTY0VBa0IyZDJ0cDRBR01felM2emlvRXg1WThFRXR1VU1GMDNSMkZuVXZ0RmRKZ3Z0MDZJekh2VVNtZVpTclVPUGoxNDJpUVZmNUc5b1lwU0RsSE92RkpR0gHjAUFVX3lxTFBqeEZ0V3VHckJMZVkzMXBELTRQY3lkQ2F5aUFOcUJFQnBNeTdVX3VJaDVuckZoN1JvdmwxMHlQRHF4bktiYVhCbFVjMnlXb0VPLTNBVktSTVJueHVvYlEzSW9RNDR5QjVJN3VsRUQyV09FLWxXbkF0MkhfVnZSUHJSV2hWR3oyREhzX3Q4bTNWMkllcThyVkkzQ1pVNkxIUDFHSXVSS044aFFZYTJmdkxZTF8zbzZOWXVrSjBzT2ZzaldiN0o0REQ4dkFrMGNPYkt5X0Z2b3RMTWFOc290YzJlNm5R?oc=5"
+        },
+        {
+          "title": "Central nod before state licence: Govt proposes treating antimicrobials as ‘new drugs’ - ThePrint",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOE9OMGV3X1lOaXdLWGxSLV9OZkFrd1JqN0NXUEZMZmtnZEFFWi0ycm1zRUM4bWJPZ1dhWGVlNnpWVUVaTi1NVWVVT0RJQ3U1cG9JcXY3U2FwLVJMN1hDM054ajV0ekMxOV81Zk41VF",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 13:57:01 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOE9OMGV3X1lOaXdLWGxSLV9OZkFrd1JqN0NXUEZMZmtnZEFFWi0ycm1zRUM4bWJPZ1dhWGVlNnpWVUVaTi1NVWVVT0RJQ3U1cG9JcXY3U2FwLVJMN1hDM054ajV0ekMxOV81Zk41VFBfQzNqa0JRZHFSeUR5amZuN2VpclVMVnpWaGJPSi1hN3llNGQzX1AtanBmSzY1a0R0V1plSTBid0RYZ2RzUmZnYnpJaEpXZnJNamVF0gHAAUFVX3lxTE9VVzVWZ1hqVTFwc2FPWGNJcG5CcGdXaHdyU1NfeHNtOWduQndyak1VeHRYU1ZGUXJpOVFKWUg1T2dOdFBmaDZUUVlYT3J6cnpZUVc4YWd0SXY4NjVLSHhGOXpzeWZZSVZZTUROME9zWFE1bTFtRVpQd056YWdKblRaUkJ3OWYyMWxWODZ1QW9UZE5GN3VZVERzZmpxUXRRREpxV0FFZjMwUHNCUW5jWkhudFlzUlVNNkZzempOUFlRUA?oc=5"
+        },
+        {
+          "title": "Health Ministry proposes stricter regulation of antimicrobial drugs to tackle antimicrobial resistance - News On AIR",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzYzSmIwaFpZeWJGbDhleEUyVm90dWhsMzBSbnhvakFveDJvU3N3bDl2RldMbjlKN041RkUwNS0xNDloOE84N2RwN2dSNGFPSHAtQ3N4SDRBakhCNVVCZzFETHRINFFCRzlOdWNRU2",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 08:22:25 GMT",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzYzSmIwaFpZeWJGbDhleEUyVm90dWhsMzBSbnhvakFveDJvU3N3bDl2RldMbjlKN041RkUwNS0xNDloOE84N2RwN2dSNGFPSHAtQ3N4SDRBakhCNVVCZzFETHRINFFCRzlOdWNRU2pJOUZFaGhtamxZcVVDT24yTllMbDdVb24zckdIaVJDSjgyS1VHcWdCSTFFNHVmRHVUaDNwdmNTdWhfN1U0LThUd2xLOHJ3S3Jab1QwcEhBTW5lcnZRU093?oc=5"
+        },
+        {
+          "title": "India moves to curb antimicrobial resistance and tighten bulk drug supply chains - Livemint",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXltQTVuN2lzX0NLdFNKcS1RZVBMdDBxRUp6YllnaThxRUFMVFM5YUVaM29rcHJRd1hGTnc4Vy1JM2VSTldITUhjLVhYcldzbUpQazhkOXFSYW42UnUzVWo3bmVwSGxNUUxld1hCMW",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 10:26:06 GMT",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXltQTVuN2lzX0NLdFNKcS1RZVBMdDBxRUp6YllnaThxRUFMVFM5YUVaM29rcHJRd1hGTnc4Vy1JM2VSTldITUhjLVhYcldzbUpQazhkOXFSYW42UnUzVWo3bmVwSGxNUUxld1hCMWppb3J5ODhYaVkzcjBjcFl5cHVoV2NsUVlCZDhVcG5qWkRoYlBZSzFXajZwbVRxRzRjNnVfYm9faUw4aGU5cV9JcmNYbFJ4c19oWVFJQXpkSlJMQXNNeHVzU08xMEbSAcwBQVVfeXFMT3F5bUE1bjdpc19DS3RTSnEtUWVQTHQwcUVKemJZZ2k4cUVBTFRTOWFFWjNva3ByUXdYRk53OFctSTNlUk5XSE1IYy1YWHJXc21KUGs4ZDlxUmFuNlJ1M1VqN25lcEhsTVFMZXdYQjFqaW9yeTg4WGlZM3IwY3BZeXB1aFdjbFFZQmQ4VXBualpEaGJQWUsxV2o2cG1UcUc0YzZ1X2JvX2lMOGhlOXFfSXJjWGxSeHNfaFlRSUF6ZEpSTEFzTXh1c1NPMTBG?oc=5"
+        },
+        {
+          "title": "Centre proposes tighter regulatory oversight of antimicrobials to tackle drug resistance - The Economic Times",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxOclVYOXhQTks0QmNoZlRYZDdnaE1pRXhHT0lOYVlGNkR5LXlTWDBpTFptRWtvQzZVWW02UEJKeTNDY1Y3dGlXcDVxbDYtb3RmcUtPNlZ3RkVoZTJlN1Z2ODh3ZGFhLTdnTWlIOWpaVH",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 08:00:54 GMT",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOclVYOXhQTks0QmNoZlRYZDdnaE1pRXhHT0lOYVlGNkR5LXlTWDBpTFptRWtvQzZVWW02UEJKeTNDY1Y3dGlXcDVxbDYtb3RmcUtPNlZ3RkVoZTJlN1Z2ODh3ZGFhLTdnTWlIOWpaVHo3Yi01LWs2UUI4UElVU2I5Nl9rWXVTdnlVa19MSk0yWkxueEdVWWZvNlN3aW9wejdpQlpmTDJLNTE3bHFfVDJqLTBHZU5ONlJPMkhUWVpXOGlKWnJFV1NvQWhRam5MenlGMjZScjJyLVVuUlhOa2RyMUYtbm8xWmtoZ3FySV9yc216SDdNUmx5dEdMbkgzU3BEWTFkbXZnVDEyOXhIOU1VU0tBcGTSAZoCQVVfeXFMTlNQLVBLa3BrNV8ydHphMGVhWHExSEpnOV9sLXFWeEpaTGE5dHRIcDBxdG5rUGZIakdGeE1teGUySC03SDR4U1UyOE1nMXdjbVoxTlZGQ3RncjJxYk5zTnZnY1FjOFdGSTVJc2gyaFlPUkk5YXYwZnotMDl4b0pXQWNtYms2UXlSWWVoeXJaLWxRbUUtLUtrYWg0MzN6RlBnX0I0TjZfZTZIYXY0VElhS0szVl9yc2YzWXBCMW10Z1VhOXlCUmh2ZTNyTVVYblFFRElNRTJwNXBBcndKRWFuR3RDZ3pneGlwekE5YUxHYS05ODNFUGtIZk5IWURPX0dkSkh4V0o3NHV6eE55SW9va2pZOTQ1S0lLamxn?oc=5"
+        },
+        {
+          "title": "Health ministry proposes amendment to drug rules to bring antimicrobials under regulatory oversight - DT Next",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclVQMHFHcnJVNTBhdS1jd0FGNEswNnUtTmh1cTJIX2YyTVN3b0luU2hHTkNJVnRuUzhEM0k4UmdacmZCZTA3RUI2RnN5bmszTnFreGtZOGM1bjQwVjNNZndNUHB4RnQtOXA3MUlkdE",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 12:05:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclVQMHFHcnJVNTBhdS1jd0FGNEswNnUtTmh1cTJIX2YyTVN3b0luU2hHTkNJVnRuUzhEM0k4UmdacmZCZTA3RUI2RnN5bmszTnFreGtZOGM1bjQwVjNNZndNUHB4RnQtOXA3MUlkdE1TSGZrN0VxdFlYYUljN0dhY3NycThmbFpFbVlYMWdfSWRjUGEwMTcyMWFzMGNLQndhVDlveThsNS1xSjlwbEh6eVFsY2xPeUhpdnYyTzlHZmxRME4wTWRXZWIyMl9rM01s0gHeAUFVX3lxTE45S3ZGMUU2TXZpZ1ZLQmVKYlloMG00SHlveGJWc2VBZTk4WWxfTTFreUhDUUZwWEF2WjZYdDhUS3I4OWh0R2RtQXJlTGNNbEV6Mjl5R0oxN1ZiM2pKMmFqT2dGLS1IVHZLWWs0NmY5R0RvT2ctX3VBRzZreVJ3NnRhRFZ5RTZQZVYyMG1ZOS1vd284VU1Wbk5JQ19sMmN4R1dBZi1MZ3ZIMGJSTjRxY2wxRnZDZThmNzZ0aU1RTWJWT1JncTlKQnpiYkluOEZSWjFRQ1c4dWw2dVZSYUxodw?oc=5"
+        },
+        {
+          "title": "Centre moves to tighten rules on antimicrobials to combat drug resistance - Daijiworld",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Qmc4UDAwZ1pjWTUxMXkxV2tTM3I3c0t4YkFiekp4UUZ0SDdwckRfMUxBUm1YbVlCVndVV1FEazdzdTd4RGEtSTFFQjlzV0JSMV91UkprSXRwVHNONGJMUDFCMnk?oc=5\" target=\"",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 12:55:39 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Qmc4UDAwZ1pjWTUxMXkxV2tTM3I3c0t4YkFiekp4UUZ0SDdwckRfMUxBUm1YbVlCVndVV1FEazdzdTd4RGEtSTFFQjlzV0JSMV91UkprSXRwVHNONGJMUDFCMnk?oc=5"
+        },
+        {
+          "title": "JD Health (06618) has entered into a strategic partnership with Qilu Pharmaceutical, marking the exclusive online launch of Kada Sha®, a Class I innovative drug for lung cancer treatment. - Moomoo",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RocXJPcW5qZmgtZXVZUkY4QTRiSGZxNnpPdDhiSUhHMEFtNmRzNm8zNU8yQmpYRE82U0RwanJ5RkdKY2d1cURQLThqQ3Q0Z2J3UkExcDRXeVZyb3dYdlJ1ZURHZHE4Z1BZRmNra1",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 19 Nov 2026 09:02:43 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0RocXJPcW5qZmgtZXVZUkY4QTRiSGZxNnpPdDhiSUhHMEFtNmRzNm8zNU8yQmpYRE82U0RwanJ5RkdKY2d1cURQLThqQ3Q0Z2J3UkExcDRXeVZyb3dYdlJ1ZURHZHE4Z1BZRmNra1l4SWRUNC1vdFNHRGxjenA3SE9aV3czeHFwM1RZRzBQbHl1S2Y0aEJRZjRkUVdBbjBFTFpTaWxwa28?oc=5"
+        },
+        {
+          "title": "JD Health partners with Qilu Pharmaceutical to exclusively launch Kadasha, a Class I lung cancer drug - finance.biggo.com",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBOWFRlWGdxMVotYndiVjNDY3VHSTBoWUlXODJyQjdsQ3lNQ3MwZVlUdzJFaFBBbU1aNXpZN2xrSVIyQ0xzVHl3SEZ4bGxPdWpSVXBnNDBfWFc2d1hqcURxYnoyaFU4UnZvNFVZd09UUG",
+          "section": "english",
+          "category": "Pharma Industry",
+          "time": "Thu, 19 Nov 2026 08:55:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOWFRlWGdxMVotYndiVjNDY3VHSTBoWUlXODJyQjdsQ3lNQ3MwZVlUdzJFaFBBbU1aNXpZN2xrSVIyQ0xzVHl3SEZ4bGxPdWpSVXBnNDBfWFc2d1hqcURxYnoyaFU4UnZvNFVZd09UUGd4Nm94Rnc?oc=5"
+        },
+        {
+          "title": "Pharma industry body urges government to avoid abrupt drug price cuts, backs cancer drug trade margin cap - Devdiscourse",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlNWmcySWFNbFdGaHI1U1BjQ3hUMVdfbHVQODRxOG1aRF9XT2p3cXRLX2xNT1pTZFc2TFZVS3pjVVFicXVhVEZ5TjJMM25rVVZjd3hCU3hCR0RsY1p2YzJvRW5qSnJJRWdhQktveF",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 19 Nov 2026 14:46:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOenlNWmcySWFNbFdGaHI1U1BjQ3hUMVdfbHVQODRxOG1aRF9XT2p3cXRLX2xNT1pTZFc2TFZVS3pjVVFicXVhVEZ5TjJMM25rVVZjd3hCU3hCR0RsY1p2YzJvRW5qSnJJRWdhQktveF9yakM1d1ByUnBPU05pbUd6OHFnVklPelctbU1GQk16WW9HRmI5b0E4WEJvNGFVVmd1UHN4VHJlWnhXNjRBZk9uSUU0aW81NEd2LUpYREhuak1nZDBZTTFjWWZSZTVaNDhvV2hFXzVHaXVmbzJ3OFRxRXNHaW5nb2ZpVUxULUFUa1dHWXFB0gH0AUFVX3lxTE56eU1aZzJJYU1sV0ZocjVTUGNDeFQxV19sdVA4NHE4bVpEX1dPandxdEtfbE1PWlNkVzZMVlVLemNVUWJxdWFURnlOMkwzbmtVVmN3eEJTeEJHRGxjWnZjMm9FbmpKcklFZ2FCS294X3JqQzV3UHJScE9TTmltR3o4cWdWSU96Vy1tTUZCTXpZb0dGYjlvQThYQm80YVVWZ3VQc3hUcmVaeFc2NEFmT25JRTRpbzU0R3YtSlhESG5qTWdkMFlNMWNZZlJlNVo0OG9XaEVfNUdpdWZvMnc4VHFFc0dpbmdvZmlVTFQtQVRrV0dZcUE?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "fda",
+        "FDA",
+        "승인",
+        "이보네시맙",
+        "키트루다",
+        "대항마",
+        "거절"
+      ],
+      "articles": [
+        {
+          "title": "'키트루다 대항마' 이보네시맙, FDA 승인 문턱서 고배",
+          "source": "헬스조선",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "미국 식품의약국(FDA)이 중국 제약사 아케소와 미국 서밋 테라퓨틱스가 공동 개발한 항암제 이보네시맙 승인을 거부했다. 임상시험에서 암 진행을 늦추는 효과는 확인됐지만, 전체 생존기간 개선을 입증하지 못한 데다 임상시험 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "21시간",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111901316.html"
+        },
+        {
+          "title": "FDA, 아이보네시맙 승인 거절…글로벌 제약사 R&amp;D 협력 가속화",
+          "source": "medicaldaily.co.kr",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "미국 식품의약국(FDA)이 서밋(Summit)의 신약 후보물질 아이보네시맙에 대한 승인 거절 서한을 발송하며 임상적 문턱을 확인했다. 한편 셀라스(Sellas)는 백혈병 백신 임상 결과로 주가가 급등했으며, ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "3시간",
+          "url": "https://www.medicaldaily.co.kr/post/124074"
+        },
+        {
+          "title": "‘키트루다 대항마’ 이보네시맙 FDA 승인 거절 사유봤더니…‘지역별 불균형’",
+          "source": "더바이오",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[더바이오 지용준 기자] 미국 식품의약국(FDA)이 ‘키트루다(성분 펨브롤리주맙)’의 경쟁 약물로 평가받는 PD-1&#183;혈관내피성장인자(VEGF) 이중항체인 ‘이보네시맙(ivonescimab)’의 승인을 거절한 구체적인 사유가 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "9시간",
+          "url": "https://www.thebionews.net/news/articleView.html?idxno=30448"
+        },
+        {
+          "title": "FDA, 백신&#183;유전자 치료제 승인 후 안전성 검토 위원회 설립",
+          "source": "Mezha",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "위원회는 11월 19일에 발효된다. FDA는 위원회의 구조와 구성원에 관한 자세한 내용을 추후 공개하겠다고 밝혔다. 미국 식품의약국(FDA)은 목요일 생물의약품 평가연구센터(CBER) 내부에 안전성 위원회를 설립했다고 밝혔다 ...",
+          "section": "korean",
+          "category": "의약관련정부기관",
+          "time": "12시간",
+          "url": "https://mezha.net/ko/news/mezha-41751c275c632e82b27f6dc8_fda-establishes-council-to-review-vaccine/"
+        },
+        {
+          "title": "Recon: FDA approves drugs for four rare diseases; Pfizer signs $2.6B licensing deal in China for in vivo CAR-T - RAPS",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGhVbWZFdzB2bzI2TTBOemVQUkkzdW5vb0dENnp3REF5M3pBLS0tTWRMdGZIMndkckZTTGhJUFppQzJ3UXJsYXZUTkJZcktYemtUbkJGWkVVODE0ZVl3cXNTTlk5ZmlwQ3ZyRW9yNn",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 20:25:00 GMT",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbGhVbWZFdzB2bzI2TTBOemVQUkkzdW5vb0dENnp3REF5M3pBLS0tTWRMdGZIMndkckZTTGhJUFppQzJ3UXJsYXZUTkJZcktYemtUbkJGWkVVODE0ZVl3cXNTTlk5ZmlwQ3ZyRW9yNnUwaWw0Uy1WN0hwbTZGNU5NUUhydURRZTNiajAtdkxRS2JVWWxwRFNVbnpXUWhoRWQwQlI5Y0xYaHVNMTl4NnMyQ2FfSXFrSUtmWE1iNlBxRDBVNTBmOVc1MHppb1hYVHFybUtiYzdzU0lvdw?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 5,
+      "keywords": [
+        "약가",
+        "재평가",
+        "환급",
+        "인하",
+        "급여"
+      ],
+      "articles": [
+        {
+          "title": "PV 약가인하 차액 환급 '유형 다' 제외…재평가 약제 사전협상 2월",
+          "source": "히트뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "[히트뉴스=이현주 기자] 2027년부터 사용량-약가 연동 협상에 따른 약가 인하 시기가 연 2회로 정례화되면서 인하 시점이 늦춰지는 약제에 대해서는 건강보험 재정 지출 증가분을 제약사가 환급해야 한다. 다만 유형 '다'는 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80870"
+        },
+        {
+          "title": "동구바이오, 혁신형 제약기업 재인증…약가 인하 부담 완화",
+          "source": "데일리팜",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "동구바이오제약이 혁신형 제약기업 재인증에 성공하며 정부의 약가제도 개편에 대응할 수 있는 기반을 확보했다. 동구바이오제약은 보건복지부의 혁신형 제약기업 재인증을 획득해 오는 2029년 11월 29일까지 인증 지위를 유지하게 됐다고 19일 밝혔다. 동구바이오제약은 지난 2020년 혁신형 제약기업으로 최초 인증받은 이후 2023년에 이어 올해도 재인증에 성공했",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "6시간",
+          "url": "https://www.dailypharm.com/user/news/344796"
+        },
+        {
+          "title": "약가협상 결렬된 ‘마운자로’, 당뇨병 급여 재평가",
+          "source": "쿠키뉴스",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "홍승권 건강보험심사평가원장이 19일 서울 서초구에서 열린 보건복지부 출입기자단 워크숍 간담회에서 기자단 질의에 답하고 있다. 신대현 기자 비만&#183;당뇨병 치료제 ‘마운자로’(성분명 터제파타이드)가 제2형 당뇨병 치료에 대한 건강보험 급여평가를 다시 받고 있다. 앞서 급여 적정성을 인정받았지만 약가협상이 결렬되면서 한국릴리가 재신청한 데 따른 것이다. ",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://www.kukinews.com/article/view/kuk202611190130"
+        },
+        {
+          "title": "급여적정성 재평가 결과, 1기의 눈으로 읽으면 놓친다",
+          "source": "데일리팜",
+          "importance": 51,
+          "stars": "⭐⭐⭐",
+          "snippet": "보건복지부는 지난 5월 8일 공고 제2026-392호를 통해 은행엽엑스, 도베실산칼슘, 실리마린 3개 성분의 경구제를 2026년 급여적정성 재평가 대상으로 정했다. 2021년부터 매년 이어진 재평가의 여섯 번째 해이자, ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "5시간",
+          "url": "https://m.dailypharm.com/user/news/344813"
+        },
+        {
+          "title": "&quot;사용량-약가 인하, 내년부터 4월&#183;10월로&quot;…유예기간엔 제약사 환급",
+          "source": "약업닷컴",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "예를 들어 올해 12월 20일 약가 조정이 발령된 약제는 내년 4월 1일부터 인하된 가격이 적용된다. 이 경우 2027년 1월 1일부터 3월 31일까지 발생한 재정 지출 증가분이 환급액 산출 대상이 된다.",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "1일",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=335362"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "평가",
+        "연속",
+        "의료질",
+        "경희대병원",
+        "최상위",
+        "등급"
+      ],
+      "articles": [
+        {
+          "title": "경희대병원, 2년 연속 의료질 평가 최상위 등급 획득",
+          "source": "메디칼업저버",
+          "importance": 52,
+          "stars": "⭐⭐⭐",
+          "snippet": "[메디칼업저버 이인복 기자]경희대병원(병원장 김종우)이 보건복지부가 발표한 2026년 의료질 평가에서 최상위 등급인 '1-가'를 받으며 2년 연속 환자안전과 의료질 관리 역량에서 최고 수준의 의료기관임을 입증했다. 전국 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "4시간",
+          "url": "https://www.monews.co.kr/news/articleView.html?idxno=415608"
+        },
+        {
+          "title": "경희대병원, 의료질 평가 2년 연속 최상위…상위 2% 진입",
+          "source": "한스경제 on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "| 서울=한스경제 김동주 기자 | 경희대병원이 보건복지부 의료질 평가에서 2년 연속 최상위 등급을 획득하며 의료서비스 경쟁력을 입증했다.경희대병원은 보건복지부가 실시한 ‘2026년 의료질 평가’에서 최상위 등급인 ‘1-가’를 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "10시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EA%B2%BD%ED%9D%AC%EB%8C%80%EB%B3%91%EC%9B%90-%EC%9D%98%EB%A3%8C%EC%A7%88-%ED%8F%89%EA%B0%80-2%EB%85%84-%EC%97%B0%EC%86%8D-%EC%B5%9C%EC%83%81%EC%9C%84-%EC%83%81%EC%9C%84-2-%EC%A7%84%EC%9E%85/ar-AA2hK1ni?ocid=BingNewsVerp"
+        },
+        {
+          "title": "경희대병원, 2년 연속 의료질 평가 ‘1-가’ 등급",
+          "source": "메디포뉴스",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "경희대병원(병원장 김종우)은 보건복지부의 ‘2026년 의료질 평가’에서 지난해에 이어 2년 연속 ‘1-가’ 등급을 받았다고 19일 밝혔다. 이번에 받은 등급은 환자안전, 의료질, 공공성, 전달체계 및 지원활동 등 4개 영역을 ...",
+          "section": "korean",
+          "category": "의료현장",
+          "time": "10시간",
+          "url": "https://www.medifonews.com/news/article.html?no=218887"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "secures",
+        "drug"
+      ],
+      "articles": [
+        {
+          "title": "GSK's Velzatinib Secures Orphan Drug Status in Japan for Treating GIST - Kalkine Media",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZQVHB6cFdtRnBuc0J1bmtsU3FJSDdrV2hWQ2xQN2pKX0R5Zk1vRTBLeXpvUXZCYkloUzdkd3dUQTdheWlpZXRPR0o5WnNZZFJPbzVaMmd5UmhKTmVITlJmUFl2ZDBnM1JndzExT0",
+          "section": "english",
+          "category": "Drugs & Therapies",
+          "time": "Thu, 19 Nov 2026 14:09:56 GMT",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZQVHB6cFdtRnBuc0J1bmtsU3FJSDdrV2hWQ2xQN2pKX0R5Zk1vRTBLeXpvUXZCYkloUzdkd3dUQTdheWlpZXRPR0o5WnNZZFJPbzVaMmd5UmhKTmVITlJmUFl2ZDBnM1JndzExT05PM1hfVURocXpOMmU2ejMyOENNcVBHMFNMTWg5WEpSUW5xVnNnb2RaZ0RGaW51VS1UVmtkcHlqRzI0WmVCUVQwT3BxQ0ZFcms?oc=5"
+        },
+        {
+          "title": "Pheno Therapeutics secures two patents for neurological drug pipeline - Manufacturing Chemist",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzg0aDVuQTVWTVQ4ZVNDZXV4bm0xUW1PUmkxc2lvVlBWU1BHNDRRaXNwS2drLWhtRnpXcmhmemtnam5lVGlORlVRbm9UQkFEa0N6djZHaWM2Y3BlRjl0Vy1sZWRBbFZKMVRrN1NlSF",
+          "section": "english",
+          "category": "Pharma Policy",
+          "time": "Thu, 19 Nov 2026 11:37:50 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzg0aDVuQTVWTVQ4ZVNDZXV4bm0xUW1PUmkxc2lvVlBWU1BHNDRRaXNwS2drLWhtRnpXcmhmemtnam5lVGlORlVRbm9UQkFEa0N6djZHaWM2Y3BlRjl0Vy1sZWRBbFZKMVRrN1NlSFY2cUszOFJJU0JPaTlQUUlnS2pTREk2N3lU?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "size": 2,
+      "keywords": [
+        "medicine",
+        "traditional"
+      ],
+      "articles": [
+        {
+          "title": "Jadavpur University Opens Traditional Medicine Evaluation Centre - GK Today",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHhaOXl2eTdkMzJsd0Q0NXdHaFlucjJuUWlaMWtSYURhSEx2MzNTcGpfbkN1NzJPQUU4SndEZl92VWNjWkE4Mmo2MVdBWEFzNHMxY1hwdHlXWjFJU2UwQU53bUhpWkVLT21lUG8xeH",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Thu, 19 Nov 2026 11:21:12 GMT",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHhaOXl2eTdkMzJsd0Q0NXdHaFlucjJuUWlaMWtSYURhSEx2MzNTcGpfbkN1NzJPQUU4SndEZl92VWNjWkE4Mmo2MVdBWEFzNHMxY1hwdHlXWjFJU2UwQU53bUhpWkVLT21lUG8xeHNBYmJ5eTNyS0VmTGNoaDg1Sl9EYmYzdGVIenZ5T0tJejJKUQ?oc=5"
+        },
+        {
+          "title": "Sri Lanka to combine Western and traditional medicine to treat non-communicable diseases - Newswire",
+          "source": "",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUi14UFByVE9uSXpkMXpPNHNwSWoxd0ZCLUpRUFk4ZzRyVWk3T0FZMmN4OWIyRjgxdzdlUEtoclBucm5kWWtHQThMc0RoZ01iR3h4aFdsVXUwVWk2eW1FWUM0QklGZHBhYkZTTFIwOE",
+          "section": "english",
+          "category": "Traditional & Complementary Medicine",
+          "time": "Thu, 19 Nov 2026 16:05:41 GMT",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUi14UFByVE9uSXpkMXpPNHNwSWoxd0ZCLUpRUFk4ZzRyVWk3T0FZMmN4OWIyRjgxdzdlUEtoclBucm5kWWtHQThMc0RoZ01iR3h4aFdsVXUwVWk2eW1FWUM0QklGZHBhYkZTTFIwOERON1RjNzRHdk9YYThFSDYwUXROWkl4cmJuN2kzZ0ttQU4waXpfSm1DTW5UX1lqYmtpN042WDZuWERDeE5vZExEcDV0bnJzTTRQTHpwT0tTWHp2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "size": 2,
+      "keywords": [
+        "병원약사회",
+        "병동전담약사",
+        "역할"
+      ],
+      "articles": [
+        {
+          "title": "병원약사회, 28일 추계학술대회…병동전담약사 역할 조명",
+          "source": "데일리팜",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "입원 환자 안전을 위한 병동전담약사의 역할과 다학제팀의료의 제도화 방안을 논의하는 자리가 마련된다. 한국병원약사회(회장 정경주)는 오는 28일 코엑스 마곡 컨벤션센터에서 ‘2026년도 병원약사대회 및 추계학술대회’를 진행한다 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.dailypharm.com/user/news/344730"
+        },
+        {
+          "title": "병원약사회, 28일 학술대회 개최…병동전담약사 역할&#183;제도화 논의",
+          "source": "약업닷컴",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "올해 대회는 '입원환자 안전을 위한 다학제팀의료: 병동전담약사를 통한 필수의료 강화'를 주제로 열린다. 전국 병원약사들이 임상 연구 성과를 공유하는 한편, 병동전담약사 제도화와 전문약사 수련교육, 인공지능 (AI) 기반 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "1일",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=335392"
+        }
+      ]
+    }
+  ],
   "uncategorized_articles": [
     {
-      "title": "신약 개발 독려하는 정부...약가 인하에 R&amp;D 재원 비상",
-      "source": "팜뉴스 on MSN",
-      "importance": 42,
-      "snippet": "[팜뉴스=우정민 기자]정부가 국내 신약 개발과 글로벌 시장 진출을 지원하는 가운데, 제약업계에서는 제네릭(복제약) 약가 인하에 따른 연구개발(R&amp;D) 재원 감소를 우려하는 목소리가 나오고 있다. 보건복지부는 지난 18일 국내 ...",
-      "url": "https://www.msn.com/ko-kr/money/other/%EC%8B%A0%EC%95%BD-%EA%B0%9C%EB%B0%9C-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EC%A0%95%EB%B6%80-%EC%95%BD%EA%B0%80-%EC%9D%B8%ED%95%98%EC%97%90-r-d-%EC%9E%AC%EC%9B%90-%EB%B9%84%EC%83%81/ar-AA2hNZ0q?ocid=BingNewsVerp"
+      "title": "야간 근무 의사도 간호사도 부족… 요양병원 ‘당직 의료인 인력난’ [간병 리포트]",
+      "source": "헬스조선",
+      "importance": 75,
+      "snippet": "요양병원 당직의는 야간에 환자에게 발생하는 각종 의료적 증상을 관리&#183;처치하고, 상황에 따라 적절히 대응하는 일을 맡는다. 유사시 보호자에게 환자의 상태를 전화로 알리고 처치하거나, 주치의가 환자에게 처방해 둔 약을 투약하거나 ...",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/11/19/2026111902743.html"
     },
     {
-      "title": "美FDA 국장 공백 장기화…불확실성 커진 제약업계",
-      "source": "뉴시스 on MSN",
-      "importance": 42,
-      "snippet": "미국 백악관이 하이디 오버턴 식품의약국(FDA) 국장 후보자 지명을 철회하면서 FDA 수장 공백이 길어질 전망이다. 제약바이오 업계에서는 정책 연속성과 규제 예측 가능성에 불확실성이 커졌다는 분석이 나온다. 20일 STAT, ...",
-      "url": "https://www.msn.com/ko-kr/news/world/%E7%BE%8Efda-%EA%B5%AD%EC%9E%A5-%EA%B3%B5%EB%B0%B1-%EC%9E%A5%EA%B8%B0%ED%99%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1-%EC%BB%A4%EC%A7%84-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84/ar-AA2hNC7E?ocid=BingNewsVerp"
+      "title": "제52회 약국경영대상 총상금 3천만원 약사대잔치, 12월6일 마감",
+      "source": "약업닷컴",
+      "importance": 61,
+      "snippet": "12월6일 후보마감을 앞둔 올해 공모전은 각 부문별 대상 (3명 / 상금 각 300만원), 최우수상 (3명 / 상금 각 200만원), 우수상 (15명 / 상금 각 100만원) 등 총 3천만원의 상금이 지급된다.",
+      "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=335475"
     },
     {
-      "title": "마운자로 가격 낮아질까? 심평원 급여 인정 가능성 크다",
-      "source": "머니투데이 on MSN",
-      "importance": 37,
-      "snippet": "적응증 추가 신청 상태, 확정땐 가격 인하 시사 비급여 약제 가격 공개...&quot;합리적 선택 도움될 것&quot; 건강보험심사평가원(이하 심평원)이 비만약 '마운자로'(성분명 '터제파타이드')의 급여 적정성이 인정될 가능성이 크다고 ...",
-      "url": "https://www.msn.com/ko-kr/news/other/%EB%A7%88%EC%9A%B4%EC%9E%90%EB%A1%9C-%EA%B0%80%EA%B2%A9-%EB%82%AE%EC%95%84%EC%A7%88%EA%B9%8C-%EC%8B%AC%ED%8F%89%EC%9B%90-%EA%B8%89%EC%97%AC-%EC%9D%B8%EC%A0%95-%EA%B0%80%EB%8A%A5%EC%84%B1-%ED%81%AC%EB%8B%A4/ar-AA2hNGcu?ocid=BingNewsVerp"
+      "title": "제약&#183;바이오 투자 온도차…내년 반등 주도권은 대형 제약사",
+      "source": "약사공론",
+      "importance": 55,
+      "snippet": "제약&#183;바이오 업종의 주가 흐름에 변화 조짐이 나타나고 있다. 그동안 상대적으로 부진했던 코스피 제약사가 실적 성장과 기술이전 성과를 바탕으로 반등 움직임을 보이는 가운데, 코스닥 바이오텍으로 온기가 확산할 수 있을지 주목된다 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549372"
+    },
+    {
+      "title": "2026'da düzenlenecek 2. Hanoi Geleneksel Tıp Festivali'nde 1000'den fazla Hanoi sakini ücretsiz geleneksel tıp muayenesi ve danışmanlığından faydalanabilecek. - Vietnam.vn",
+      "source": "",
+      "importance": 55,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUFUeE5JWkt0M0tqaGNfTlBLS2xSVnk0eEk4WjljSGpZLTg3elpXbGgxSFFtQ2dreHpBMFBnbHBMTmt6V2NXMnJjYTBBamZDQlZjdVVzOHRkSHRpQ3VsTGtPcWMzRHZFWjZIVnhUQ2",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOUFUeE5JWkt0M0tqaGNfTlBLS2xSVnk0eEk4WjljSGpZLTg3elpXbGgxSFFtQ2dreHpBMFBnbHBMTmt6V2NXMnJjYTBBamZDQlZjdVVzOHRkSHRpQ3VsTGtPcWMzRHZFWjZIVnhUQ2VBaDNYSkQta3BtQTF4TmNsbjMxcWVZSUlQZTN5NHNUZ1YyNlYzSXU1VUJ2eWM4QkNTSkRPZlJ4QklkNm9iU0Y5UkpxYjlpMFlWcThtdk5ZS1JJaWFUOUJvdmN3Q2s4X2kyeTVjRXRORXM?oc=5"
+    },
+    {
+      "title": "למעלה מ-1,000 תושבי האנוי יקבלו בקרוב בדיקות וייעוץ חינם ברפואה מסורתית בפסטיבל הרפואה המסורתית השני של האנוי בשנת 2026. - Vietnam.vn",
+      "source": "",
+      "importance": 55,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOHFNUnczeFgzVkpUcVZiVVB0YjM1WGFKX2Zad3RyTUtyb3dRb2Z1ckQxYm15VHlnajNWdXd6b25NNzlocGdrWnJfbXZ4c2lsOGFVWVpkZHRabURBSkZmVHh5MTRaNURsVlNVTW0yVX",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOHFNUnczeFgzVkpUcVZiVVB0YjM1WGFKX2Zad3RyTUtyb3dRb2Z1ckQxYm15VHlnajNWdXd6b25NNzlocGdrWnJfbXZ4c2lsOGFVWVpkZHRabURBSkZmVHh5MTRaNURsVlNVTW0yVXF3QVRXRktlc3JXRkNCZ1VQSE9scHhCeHdFckVWQ1hFN3NNVnVicks0MS1mNE8zSHc4UEM3aFRrUzAzQ2hNOFJMeHU4S2t3aUR1LXJlSkdJZ1JwU1NIVFJtT1EwaFpMb09JZEh6MU9mY08?oc=5"
+    },
+    {
+      "title": "פסטיבל הרפואה המסורתית השני של האנוי 2026: בדיקות בריאות וייעוץ חינם לכ-1,000 איש. - Vietnam.vn",
+      "source": "",
+      "importance": 53,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXVKQnJfX2Q3NzJIZmx1eUsycDRCY0dmaWw1VFlfckZFUHRHaWhhdUl3UmxGTEFIR3I2N1p2cVg2VWtRb2l6TTBack5VLVBRdENyNEdlSmxfTUk5YjloMjI2Vmo4UzNOWDV5NHdYZ1",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOXVKQnJfX2Q3NzJIZmx1eUsycDRCY0dmaWw1VFlfckZFUHRHaWhhdUl3UmxGTEFIR3I2N1p2cVg2VWtRb2l6TTBack5VLVBRdENyNEdlSmxfTUk5YjloMjI2Vmo4UzNOWDV5NHdYZ1ZzSURDUkNkQkJSbWRCY3U2RmlpUGN1TW9Zckx6QkVSRnN6aGVZOUhFTWRMNnVPTGhfYkRmaTNWS1c2b2NzNkVwaWFPSHloMlRPMWp5cjZLanRtMEE?oc=5"
+    },
+    {
+      "title": "[숏폼] 마더스제약, 상장 앞두고 신규 급여등재 21품목...업계 2위",
+      "source": "히트뉴스",
+      "importance": 51,
+      "snippet": "[히트뉴스=신가영 PD] 12월 코스닥 상장을 앞둔 마더스제약이 올해 신규 건강보험 급여등재 품목 수에서 제약업계 2위를 기록했습니다. 히트뉴스가 올해 2월부터 10월까지 급여 의결 자료를 분석한 결과, 마더스제약의 신규 ...",
+      "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80943"
+    },
+    {
+      "title": "Médecine traditionnelle : l’OOAS veut former les praticiens - République Togolaise",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmtlV3BXVUVjeGZqQmJmd1NwTnBOQjJRMDFjR2tSWkJ5T1N6bVh1Sl9vcEIyaGlJVVdFdm0xVV9oRUp4c01VRmZSUVkyWVhYR2JDbTI4SkFrYUdRY3VNODJhRHpOZUV0WU4yUVN3T2",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmtlV3BXVUVjeGZqQmJmd1NwTnBOQjJRMDFjR2tSWkJ5T1N6bVh1Sl9vcEIyaGlJVVdFdm0xVV9oRUp4c01VRmZSUVkyWVhYR2JDbTI4SkFrYUdRY3VNODJhRHpOZUV0WU4yUVN3T29UOE85aF96QXVqay1XMGo5QjhFd3Q1WFgwaHMweWNMak5YLUN0a1B0QXlfQy1zNWtqV3ozcVpFQzdTTkdraVhnRXNuV1p5UQ?oc=5"
+    },
+    {
+      "title": "Censo inédito: 39% das farmacêuticas apontam demora na aprovação de novos medicamentos como entrave no Brasil - PFARMA.com.br",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXhidE1PRmVSUlpxZUUybnhZb2xNUVlNc0hvQzlRUDFtMkxFNUFZcE1FT1ZXX3ZCRjFGVk5jTl8yR3pVQ1JMOG5DY2J1bmJDM3NDUmFHam8tRzRhUVdSQjVCQnpqSm9TMVdrcFYyUE",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXhidE1PRmVSUlpxZUUybnhZb2xNUVlNc0hvQzlRUDFtMkxFNUFZcE1FT1ZXX3ZCRjFGVk5jTl8yR3pVQ1JMOG5DY2J1bmJDM3NDUmFHam8tRzRhUVdSQjVCQnpqSm9TMVdrcFYyUEJGenZuUnJMcDNONmdCbUJVVUo0SnlTbWI5SVFxUy0tall0R3M1UEZtd180em1CSUEtZ05qclhsWGl6b1lvX0NJSWFYN0FLSEJ3aHpCS0VxTkpINnZlQTh1VzV4ZkRGMWpkLW9ZTy1HeGhOSlRIdlE?oc=5"
+    },
+    {
+      "title": "Farmácias: como operar em escala sem perder o cuidado - Medicina S/A",
+      "source": "",
+      "importance": 50,
+      "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yekVwMlBHNjIzVTVnejJiRWJ4ZEJOd1prYVFmSTZZM2Vqbmd1RGtPd1VQS1Nmby0yWDRXZWV3Z1F3cmhYS1NucWpZUmk5RmN0WURMTjRB?oc=5\" target=\"_blank\">Farmácias: ",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yekVwMlBHNjIzVTVnejJiRWJ4ZEJOd1prYVFmSTZZM2Vqbmd1RGtPd1VQS1Nmby0yWDRXZWV3Z1F3cmhYS1NucWpZUmk5RmN0WURMTjRB?oc=5"
     }
   ],
   "cross_language_candidates": [
