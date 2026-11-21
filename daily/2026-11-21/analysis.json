@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-21",
+  "total_articles": 376,
+  "language_breakdown": {
+    "korean": 179,
+    "english": 121,
+    "multilingual": 76
+  },
+  "issues": [
+    {
+      "topic": "FDA의 이보네시맙 심사와 임상근거 외삽",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 2,
+      "avg_importance": 52,
+      "key_articles": [
+        {
+          "title": "미국 환자 근거 따진 FDA, 자국 심사는 해외 공유…식약처 기준은",
+          "importance": 52,
+          "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044727"
+        },
+        {
+          "title": "'AR1001'은 이제 'FDA 승부'… 제약업계는 '실적 방어 고심'",
+          "importance": 51,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80974"
+        }
+      ],
+      "summary_kr": "FDA가 중국 환자 중심 임상 결과의 미국 환자 적용 가능성을 문제 삼아 이보네시맙 폐암 적응증 허가를 거절했다. AR1001도 글로벌 3상 이후 FDA 심사가 다음 관문으로 부각됐다.",
+      "summary_en": "FDA rejected ivonescimab over extrapolation of China-focused trial evidence; AR1001 faces FDA review after Phase III."
+    },
+    {
+      "topic": "CSO 규제 강화와 제약업계 윤리경영 대응",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 51,
+      "key_articles": [
+        {
+          "title": "제약바이오협회, CSO 규제 강화에 업계 대응 방안 모색",
+          "importance": 51,
+          "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80955"
+        },
+        {
+          "title": "제약바이오협회, CSO&#183;AI 마케팅 규제 대응 논의",
+          "importance": 51,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=422300"
+        }
+      ],
+      "summary_kr": "한국제약바이오협회 워크숍에서 CSO 관리·감독 강화와 AI 마케팅 등 규제 대응이 다뤄졌다. 판촉 외부화 관리와 광고 책임 체계가 업계 준법 과제로 부상한다.",
+      "summary_en": "KPBMA discussions focused on tighter CSO oversight and AI-enabled marketing compliance."
+    },
+    {
+      "topic": "AI 활용 확산에 따른 전공의 역량·책임 재정립",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 54,
+      "key_articles": [
+        {
+          "title": "AI가 진단 돕는 시대…전공의 수련에 닥친 '역량의 역설'",
+          "importance": 61,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=422305"
+        },
+        {
+          "title": "전공의 수련에 ‘AI 검증&#183;설명&#183;책임’ 담아야",
+          "importance": 47,
+          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016906"
+        }
+      ],
+      "summary_kr": "AI가 전공의 교육·평가에도 활용되며 검증·설명·책임이 핵심 역량으로 제시됐다. AI 보조 결정의 근거 기록과 최종 책임 주체를 수련체계에 명시할 필요가 있다.",
+      "summary_en": "As AI enters residency education, verification, explanation and accountability are key competencies."
+    },
+    {
+      "topic": "국내 전통 제약사의 성장 둔화와 투자 온도차",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 56,
+      "key_articles": [
+        {
+          "title": "'국내 제약바이오 기반' 전통 제약사, 산업 전반서 밀려난다",
+          "importance": 61,
+          "url": "https://www.medipana.com/news/articleView.html?idxno=422284"
+        },
+        {
+          "title": "제약&#183;바이오 투자 온도차…내년 반등 주도권은 대형 제약사",
+          "importance": 50,
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549372"
+        }
+      ],
+      "summary_kr": "전통 제약사의 성장·수익성이 CMO·신약개발 사업군보다 뒤처진다는 보도가 나왔다. 실적과 기술이전 성과를 바탕으로 대형 제약사 주도의 반등 가능성이 거론된다.",
+      "summary_en": "Traditional Korean drugmakers face slower growth while markets watch for a large-pharma-led recovery."
+    }
+  ],
+  "cross_language_issues": [
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 4,
+      "significance": "low"
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 8,
+      "significance": "medium"
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 13,
+      "en_count": 5,
+      "significance": "medium"
+    }
+  ],
+  "notable_absences": [],
+  "trend_shift": {
+    "from_yesterday": [
+      "의약품 내성·항균제 사용 관리 논의",
+      "이보네시맙 FDA 심사 결과와 항암제 개발",
+      "사용량 연동 약가 인하 및 급여 재평가",
+      "경희대병원 의료질 평가 최상위 등급",
+      "병동전담약사 역할 및 제도화 논의"
+    ],
+    "changes": [
+      "FDA·임상 근거와 CSO 규제 대응이 두드러짐."
+    ]
+  },
+  "connections": [
+    "임상시험 환자군 대표성과 글로벌 허가자료 설계의 연계.",
+    "CSO 관리 강화와 제약업계 윤리경영·판촉 통제의 연계."
+  ],
+  "generated_at": "2026-11-21T22:32:37.694097+00:00"
+}
