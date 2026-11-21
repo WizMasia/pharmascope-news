@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-21",
+  "total": 376,
+  "version": 1,
+  "generated_at": "2026-11-21T06:30:35.972758+09:00",
+  "korean": {
+    "total": 179,
+    "categories": {
+      "의약품": 23,
+      "의약산업": 25,
+      "의약정책": 25,
+      "의약단체": 25,
+      "의약관련정부기관": 18,
+      "의료현장": 17,
+      "약국·약사": 1,
+      "의료정책·인력": 19,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제52회 약국경영대상 총상금 3천만원 약사대잔치, 12월6일 마감",
+        "source": "약업닷컴",
+        "importance": 69,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:1일+10 | 키워드+20 | 순위:6위+15",
+        "snippet": "12월6일 후보마감을 앞둔 올해 공모전은 각 부문별 대상 (3명 / 상금 각 300만원), 최우수상 (3명 / 상금 각 200만원), 우수상 (15명 / 상금 각 100만원) 등 총 3천만원의 상금이 지급된다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=335475"
+      },
+      {
+        "title": "'국내 제약바이오 기반' 전통 제약사, 산업 전반서 밀려난다",
+        "source": "메디파나 뉴스",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:14시간+10 | 키워드+25 | 순위:136위+2",
+        "snippet": "전통 제약사 외형 성장이 위탁생산(CMO), 신약개발 등 다른 사업군에 비해 뒤처지고 있는 것으로 확인된다. 이에 더해 수익성 확보 측면마저도 어려움은 계속되고 있다. 19일 나우팜컨설팅이 공개한 자료에 따르면, 전통(정통) ...",
+        "published_time": "14시간",
+        "modified_time": "",
+        "time": "14시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422284"
+      },
+      {
+        "title": "AI가 진단 돕는 시대…전공의 수련에 닥친 '역량의 역설'",
+        "source": "메디파나 뉴스",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:9시간+15 | 키워드+20 | 순위:93위+2",
+        "snippet": "인공지능(AI)이 의료현장의 진단과 치료를 넘어 전공의 수련교육과 평가체계에까지 활용되면서, 미래 전문의를 양성하는 기준도 달라져야 한다는 제언이 나왔다. AI가 의학 지식과 임상적 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422305"
+      },
+      {
+        "title": "[제약브리핑] 제약바이오협회, '2026년 하반기 KPBMA 윤리경영 워크숍' 개최 외",
+        "source": "서울파이낸스",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:서울파이낸스+10 | 최신:6시간+20 | 키워드+20 | 순위:136위+2",
+        "snippet": "[서울파이낸스 권서현 기자] 한국제약바이오협회는 지난 19일 제약바이오 업계의 의약품 유통 질서 확립과 윤리경영 강화를 위한 '2026년 하반기 KPBMA 윤리경영 워크숍'을 개최했다고 20일 밝혔다.",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.seoulfn.com/news/articleView.html?idxno=643469"
+      },
+      {
+        "title": "미국 환자 근거 따진 FDA, 자국 심사는 해외 공유…식약처 기준은",
+        "source": "청년의사",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:7시간+15 | 키워드+25 | 순위:106위+2",
+        "snippet": "미국 식품의약국(FDA)은 서밋 테라퓨틱스(Summit Therapeutics)가 신청한 '이보네시맙(ivonescimab)'의 폐암 적응증 허가를 거절하면서 중국 환자에게 집중된 임상 결과를 미국 환자에게 적용할 수 있는지 ...",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044727"
+      },
+      {
+        "title": "질병청&#183;美 CDC, 공중보건 데이터&#183;AI 기반 감염병 공동 대응 협력 논의",
+        "source": "메디컬투데이",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디컬투데이+10 | 최신:2시간+20 | 키워드+20 | 순위:159위+2",
+        "snippet": "질병청과 미국 CDC는 동아시아&#183;태평양 지역사무소 개소 이후 상호 기관 방문과 워크숍, 온&#183;오프라인 회의 등을 통해 교류를 지속해 왔다. 이 과정에서 공중보건 데이터 활용을 비롯해 병원체 감시체계, 실험실 생물안전 등 주요 현안에 관한 정책과 경험을 공유해 왔다.",
+        "published_time": "2시간",
+        "modified_time": "",
+        "time": "2시간",
+        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626656"
+      },
+      {
+        "title": "'AR1001'은 이제 'FDA 승부'… 제약업계는 '실적 방어 고심'",
+        "source": "히트뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:145위+2",
+        "snippet": "[히트뉴스=김선경 기자] 글로벌 임상 3상에서 가능성을 확인한 아리바이오, 진짜 승부는 이제부터입니다.알츠하이머병 치료제 후보물질 AR1001이 단독요법군에서 유효성을 확인하면서 글로벌 시장 진입 가능성을 열었지만, FDA ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80974"
+      },
+      {
+        "title": "제약바이오협회, CSO 규제 강화에 업계 대응 방안 모색",
+        "source": "히트뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:9시간+15 | 키워드+10 | 순위:141위+2",
+        "snippet": "[히트뉴스=허승아 기자] 한국제약바이오협회가 의약품 판촉영업자(CSO) 규제와 디지털 헬스케어 등 제약바이오 업계의 윤리경영 현안을 논의했다.20일 한국제약바이오협회는 지난 19일 서울 서초구 협회 강당에서 '2026년 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80955"
+      },
+      {
+        "title": "제약바이오협회, CSO&#183;AI 마케팅 규제 대응 논의",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:11시간+15 | 키워드+10 | 순위:142위+2",
+        "snippet": "한국제약바이오협회가 의약품 판촉영업자(CSO) 관리&#183;감독 강화와 인공지능(AI) 활용 마케팅 등 변화하는 규제 환경에 대응하기 위한 윤리경영 워크숍을 개최했다. 정부 정책 동향부터 의약품 광고, 기업의 법적 책임 등 주요 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422300"
+      },
+      {
+        "title": "제약바이오협회, 급변하는 환경 속 윤리경영 체계 공고화",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:10시간+15 | 키워드+10 | 순위:144위+2",
+        "snippet": "2026년 하반기 KPBMA 윤리경영 워크숍 전경. 사진제공=한국제약바이오협회한국제약바이오협회(회장 노연홍)는 지난 19일 서울 서초구 협회 강당에서 제약바이오 업계의 건전한 의약품 유통 질서 확립과 윤리경영 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=12&amp;cat2=121&amp;cat3=0&amp;nid=335512"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        18
+      ],
+      [
+        "약가",
+        17
+      ],
+      [
+        "임상",
+        13
+      ],
+      [
+        "FDA",
+        12
+      ],
+      [
+        "급여",
+        10
+      ],
+      [
+        "CDMO",
+        8
+      ],
+      [
+        "마운자로",
+        4
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "항암",
+        4
+      ],
+      [
+        "식약처",
+        4
+      ],
+      [
+        "제네릭",
+        3
+      ],
+      [
+        "원료의약품",
+        3
+      ],
+      [
+        "R&D",
+        3
+      ],
+      [
+        "허가",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        7
+      ],
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "쿠키뉴스 on MSN",
+        3
+      ],
+      [
+        "비즈워치",
+        3
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "medicaldaily.co.kr",
+        3
+      ],
+      [
+        "더바이오",
+        2
+      ],
+      [
+        "히트뉴스",
+        2
+      ],
+      [
+        "메디컬투데이",
+        2
+      ],
+      [
+        "팜뉴스 on MSN",
+        2
+      ],
+      [
+        "약업닷컴",
+        2
+      ],
+      [
+        "헬스조선 on MSN",
+        2
+      ],
+      [
+        "코메디닷컴",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 121,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 19,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Why Drug Development Disputes Demand a Different Playbook - JD Supra",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 19:56:32 GMT+5 | 키워드+30 | 순위:188위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2RxQUlCOVlGOEh2OXozN1RoSzAwdGhpYWVWWlpNSVg1ck9pTHhIWmt3V3d6M3BqaUxHNy1IYjNNWjlmR2szMFk2TmdNM3BBR2ViMkRJeWlWSy1xaEV4TFU4ZGFrVkZiVzVkQ0ZsSE",
+        "published_time": "Fri, 20 Nov 2026 19:56:32 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 19:56:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY2RxQUlCOVlGOEh2OXozN1RoSzAwdGhpYWVWWlpNSVg1ck9pTHhIWmt3V3d6M3BqaUxHNy1IYjNNWjlmR2szMFk2TmdNM3BBR2ViMkRJeWlWSy1xaEV4TFU4ZGFrVkZiVzVkQ0ZsSEFpdFRQN1FmaWdLcGd5LVRrbURZcFhOWHJO?oc=5"
+      },
+      {
+        "title": "Recursion CEO details novel Phase III endpoint for rare disease drug - Pharmaceutical Technology",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 11:22:57 GMT+5 | 키워드+30 | 순위:192위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUNfSmdyeXZ2LUVvbVZ5UDl4bDh2LXhtOEQ2UVJ0Wmp1b05Pb2xKdVI0ZGxJYVAwd2F4NF9rLUNhLTl6QkppeVVkTXc4WkxVX3B1MGhzQUNvTTFOTm1hNURITnBLUkVJRklPdnY4Mm",
+        "published_time": "Fri, 20 Nov 2026 11:22:57 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 11:22:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUNfSmdyeXZ2LUVvbVZ5UDl4bDh2LXhtOEQ2UVJ0Wmp1b05Pb2xKdVI0ZGxJYVAwd2F4NF9rLUNhLTl6QkppeVVkTXc4WkxVX3B1MGhzQUNvTTFOTm1hNURITnBLUkVJRklPdnY4Mm1NT1ZCd05lYkozczBfVThoZ2pnb0J1SjZlZUxLSnpfM1Ryd1ZyX2hielExZnhsZVc5SllVbTh2OUljVVlvUWZaYVBUTkFqT00?oc=5"
+      },
+      {
+        "title": "Pharma Co. Restructures Royalties Refocuses on Rare Disease Drug After Poor Trial Results - Streetwise Reports",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 20:37:30 GMT+5 | 키워드+30 | 순위:194위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWDFBUFJjQUtZUU1zZVBQQTMwWXV5Vy1yM2o3Slk3ak9hVE5qSnlHOWhNQy1EQndFcTBvREltRGlJQUstd1F6X1F4V2l2M2E1TE1vcmYzbE9MS3B4VzQwelZId1ZGMVdCNGtMSVhGRk",
+        "published_time": "Fri, 20 Nov 2026 20:37:30 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 20:37:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWDFBUFJjQUtZUU1zZVBQQTMwWXV5Vy1yM2o3Slk3ak9hVE5qSnlHOWhNQy1EQndFcTBvREltRGlJQUstd1F6X1F4V2l2M2E1TE1vcmYzbE9MS3B4VzQwelZId1ZGMVdCNGtMSVhGRkFkTXZKV2wybW5IQTY2NDlmYTBBQndNYWZkUzdQdC1tdU8ya0ZNcm44UWRoMV92dGx3dzRwWHJ1X1pXMnJIQ0tQSjhsSURFRmdRUVN2OUJNYjlQcDVfQzdyWk0xZFZQOGlLUXg3ay1wU2NHa3R3cFN1Y0ZfVzdUZ2JOenMzQm5nWWtrUy1EbFZlOVpEV1FOTEk?oc=5"
+      },
+      {
+        "title": "Tenpoint Therapeutics Announces New Drug Submission to Health Canada for the Treatment of Blurry Close-Up Vision (Presbyopia) in Adults - Business Wire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 13:00:00 GMT+5 | 키워드+30 | 순위:197위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQT3h4LXU0dV9GbE5FdnR2QnBXQXVGTXQyMHJlblpFdlpDWHdYdzlDRVpfdXBlSkVhRHc0bWpEd3pwVlVJSjRFTlNSRzlJZkJ1OEs2UkpVd0NHdWp0S3BDSmJxSlJycDUxeWxNOThLWE",
+        "published_time": "Fri, 20 Nov 2026 13:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 13:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT3h4LXU0dV9GbE5FdnR2QnBXQXVGTXQyMHJlblpFdlpDWHdYdzlDRVpfdXBlSkVhRHc0bWpEd3pwVlVJSjRFTlNSRzlJZkJ1OEs2UkpVd0NHdWp0S3BDSmJxSlJycDUxeWxNOThLWElZMi11NTVYUEhGTkdWSUVCZ0ZqaXpoNlViZjd0d0ZBb0lDSERTRkZSNkQwZmp3Y1JQM1JXYnUtTVhrODMtM3ZaaE8xVjk5VEhtWjdTTUhkNnBKWXpJVF9ySjEwY0Z5eE1FUm53a2VNZkFnMEV0b05fVFdfSzVLSkZBX245aFpHTGNZam4tZlJvajl3MUk0LVB6cW82S0UzcGFHdTdQNjVVTjVWVlg3b0s4S1E?oc=5"
+      },
+      {
+        "title": "First drug for Lowe syndrome could soon reach clinical trials - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 16:16:15 GMT+5 | 키워드+30 | 순위:199위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYk0tVG1LWmNQSVJfYlNPTjh3OU13QnM2VFFJRVpLRFBZd3pUM3BuR2xMaG9vNHE4WmE0RlVRSVV4ZWtKcjRYVWFXUUhxMEt6Q1V3dE1FOUt0T3Z5ZzV3aE1rZUd1ajkwR2s5UlpWWn",
+        "published_time": "Fri, 20 Nov 2026 16:16:15 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 16:16:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYk0tVG1LWmNQSVJfYlNPTjh3OU13QnM2VFFJRVpLRFBZd3pUM3BuR2xMaG9vNHE4WmE0RlVRSVV4ZWtKcjRYVWFXUUhxMEt6Q1V3dE1FOUt0T3Z5ZzV3aE1rZUd1ajkwR2s5UlpWWnh2ZkVyZG5lVi1JQjFPdjJKV3FvS2ZQLUhZSzVpZXEwY0dyd2NCYmprTU5CX2ZxckZBcWRR?oc=5"
+      },
+      {
+        "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 15:11:35 GMT+5 | 키워드+30 | 순위:200위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1",
+        "published_time": "Fri, 20 Nov 2026 15:11:35 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 15:11:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJGWE45RkVJTGJ1UXJxWFlaMlNfcnQ4bkNxRlIyV2VYVm0yRVQyeS1UQW5ldEZybjQzOFlRUmRzNlRxaGMzR3FWVlc1NVZMNnJzeGlyeXJvdVFxaXJPOVhjY0J4OUdEbWg5X0Rza1owcllpM1ZaME9LSDlpS0JfcFhTZ29acnV3a3M3Z1dGVW1FRHZjdmNqZGQyeDc2S25sbTQ1TGNEdFdLVDRtU25lU3JVaXFVMXAzT0xkYU5LSEY1dExkRnNR?oc=5"
+      },
+      {
+        "title": "The libido drug women want is testosterone - Science News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 19:00:00 GMT+5 | 키워드+30 | 순위:202위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ua040VEV3Q0NoRFYyd3RfOXdMVjc5bTVxalduLV9vYjZsaXl0NkRwMWVIelNqMHhnUkdtUXhJM2NVc0JuSXc3c25rZkJBeVBDX1l5S1JUOVVlQ0xreDNTdUVQX0ZsNDg4M016Qm9VT2",
+        "published_time": "Fri, 20 Nov 2026 19:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ua040VEV3Q0NoRFYyd3RfOXdMVjc5bTVxalduLV9vYjZsaXl0NkRwMWVIelNqMHhnUkdtUXhJM2NVc0JuSXc3c25rZkJBeVBDX1l5S1JUOVVlQ0xreDNTdUVQX0ZsNDg4M016Qm9VT25OeTlDeFFZMWNBZHM4dzQ?oc=5"
+      },
+      {
+        "title": "FDA to miss deadline on Savara's rare lung disease drug approval - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 14:28:12 GMT+5 | 키워드+30 | 순위:205위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTH",
+        "published_time": "Fri, 20 Nov 2026 14:28:12 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 14:28:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHRjRzhscVBqZmg2dDN2UEd2ckVTaGZiVElQQXNhbklKVzE3REJyWGNXNWV0SldWQWstNnBCbDdyYWFOeDloRmNLWmxOMENjazhjcUo1WFBzdXVnTUxLdW5nYnVwZXpJTG9tV0hVTHNONUxCYXhKMEJzN1hCTGJUMEJKVU9tYVpseGJxVmNGcXFqMDZDVjR3VVJGakQ2bGV5bEJqRFZ1VFA0Nm1XMFVF?oc=5"
+      },
+      {
+        "title": "The Future of Obesity Care Pushing Beyond GLP-1 Drugs Alone - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 16:09:39 GMT+5 | 키워드+30 | 순위:206위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmhfWUlGYjU3WGswM0RfclBUMUd6a3Z1SE5UaWpOSUVqY2hwWlNoYXljUllPVXVGanJvQmJIOWItR0VBY2NiMi16bWZwNlhmb3QtNktWRk1rODJtSE1XUVRpNmI1eFF4TS02LWRMX0",
+        "published_time": "Fri, 20 Nov 2026 16:09:39 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 16:09:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmhfWUlGYjU3WGswM0RfclBUMUd6a3Z1SE5UaWpOSUVqY2hwWlNoYXljUllPVXVGanJvQmJIOWItR0VBY2NiMi16bWZwNlhmb3QtNktWRk1rODJtSE1XUVRpNmI1eFF4TS02LWRMX0xrV21SbkFLU2V3SEdfQmJ2RlJYQ0hDUklGZ1M1V3A2bVdBODkxWGc?oc=5"
+      },
+      {
+        "title": "RevMed hails first-line data with pancreatic cancer drug - pharmaphorum",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 12:48:16 GMT+5 | 키워드+30 | 순위:213위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXE1QUE2QWVyNVVhX0g5YTVVeWRYSmZoTVBfOWdRcFZHTjVsS3JqVDFXNUxvSHVuLTl5Q2JWYzREZ1hKdWhTaEhYU0dqbEhadi00dnFmbkFYVEpTTEUwcS1QVmNlc1U5S28xbDRxaz",
+        "published_time": "Fri, 20 Nov 2026 12:48:16 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 12:48:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXE1QUE2QWVyNVVhX0g5YTVVeWRYSmZoTVBfOWdRcFZHTjVsS3JqVDFXNUxvSHVuLTl5Q2JWYzREZ1hKdWhTaEhYU0dqbEhadi00dnFmbkFYVEpTTEUwcS1QVmNlc1U5S28xbDRxazh5NUowaHlkUkNWX3FYLWhScU0yNHozZ1NV?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        18
+      ],
+      [
+        "approval",
+        8
+      ],
+      [
+        "manufacturing",
+        8
+      ],
+      [
+        "GLP-1",
+        5
+      ],
+      [
+        "clinical trial",
+        5
+      ],
+      [
+        "obesity",
+        4
+      ],
+      [
+        "vaccine",
+        4
+      ],
+      [
+        "safety",
+        4
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 76,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 4,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 3,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Taruna Ikrar Tampil di KTT Farmasi Global Singapura, Dorong Indonesia Jadi Kekuatan Baru Industri Farmasi dan Regulasi Dunia - narasimedia.id",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 13:38:50 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbngwYkNaTWtsSGRiaWRYWHJWSW5INU82Vy1ocUp4MTRXOFdNeFNvdEVpS3RJTzd5LWZCS2lzQmlwWUp4Y2ItN0FieVN6RGM3RGVONW9nVWV0THlTb2NrLU0zaV9nSW9icVkwM3p3Yz",
+        "published_time": "Fri, 20 Nov 2026 13:38:50 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 13:38:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbngwYkNaTWtsSGRiaWRYWHJWSW5INU82Vy1ocUp4MTRXOFdNeFNvdEVpS3RJTzd5LWZCS2lzQmlwWUp4Y2ItN0FieVN6RGM3RGVONW9nVWV0THlTb2NrLU0zaV9nSW9icVkwM3p3YzhIZkh2V1VkTUlia1NHTHFtSkFLNS1TR0pYMmRWTUZuQXFPLXVvQjVwWTBnenptcGVhMHN2Umo2TnZMZVI4TFNFZC1QWDdYMkJfYXR3WnF5YUNEYnlPbFR5bEE4RXEzQmN5d3JUSGotbDUwRjMzMUIxSg?oc=5"
+      },
+      {
+        "title": "Geleneksel Tıp Enstitüsü, Vietnam Kültür Günü'nü kutlamak için bir miras alanı sergiliyor. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 10:03:37 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFY4UlNnc2pSdVFLUlQ1ZHpIS2tvc3R3aUNxb0o5ZXBvNlNINzBkT3M0T2xEcll1cm9mQXFkR2pUanA2bjR6SFkxV010MjVhOGFadXBDUzU5dTByY0JHbVNJVFl0U1p5eGE3WHZjaW",
+        "published_time": "Fri, 20 Nov 2026 10:03:37 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 10:03:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFY4UlNnc2pSdVFLUlQ1ZHpIS2tvc3R3aUNxb0o5ZXBvNlNINzBkT3M0T2xEcll1cm9mQXFkR2pUanA2bjR6SFkxV010MjVhOGFadXBDUzU5dTByY0JHbVNJVFl0U1p5eGE3WHZjaWdpSmZoOEk1b1hJQ2FDT2VCTkJNMkl2RHJ1TTFUdzZ2WFFnVXQ2S181Zm03TTd1YUFqSW5mYzNoaUttbEZRcEE?oc=5"
+      },
+      {
+        "title": "يعرض معهد الطب التقليدي مساحة تراثية للاحتفال بيوم الثقافة الفيتنامية. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 12:02:43 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDRGUEN5cnZhVS1PQTV1T2k0dnFYVnU4SGh0MTRwaUtiSjJFa3hRZFg2RFNHdlJNVDdzUVVkajJaQVZucTBmOThGWWJsUVA5NUV0eWswMVJ6blN6U2JWSWp3elNBbkczM1dMZnMzV2",
+        "published_time": "Fri, 20 Nov 2026 12:02:43 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 12:02:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDRGUEN5cnZhVS1PQTV1T2k0dnFYVnU4SGh0MTRwaUtiSjJFa3hRZFg2RFNHdlJNVDdzUVVkajJaQVZucTBmOThGWWJsUVA5NUV0eWswMVJ6blN6U2JWSWp3elNBbkczM1dMZnMzV2J4RmdZWnNuazkxc09rQkVzMFVHY0c4b0o0ZHdSV3BITEExNW9qT0t4cGZlRkZrRnlSRkFZMXN2VVdDX0lYcWc?oc=5"
+      },
+      {
+        "title": "האקדמיה לרפואה מסורתית של וייטנאם חוגגת 44 שנה ליום המורה הווייטנאמי. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 11:27:41 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVhvczFpaFJHZU1UcTFFWV82OVV0QkdxSnk2azhRd2hnQ0s2bDRMNE9LSjJwbHJlazFnbVd0TjljWlJWYU9POEs4UndsTks3MC1FTWZKU2JuSXRPMXBGSTVPOHQ3QUFoSHozWk9YN0",
+        "published_time": "Fri, 20 Nov 2026 11:27:41 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 11:27:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVhvczFpaFJHZU1UcTFFWV82OVV0QkdxSnk2azhRd2hnQ0s2bDRMNE9LSjJwbHJlazFnbVd0TjljWlJWYU9POEs4UndsTks3MC1FTWZKU2JuSXRPMXBGSTVPOHQ3QUFoSHozWk9YN0FraUozYnVQSkNDbXRBTzBmTUVmeEFDQnhhdXREbF9vYlFEaVV2dFczSVEwOGlYajVUWGthY1lma0dkMkRHblUxZjRR?oc=5"
+      },
+      {
+        "title": "Taruna Ikrar Gandeng Shimadzu Perkuat Laboratorium dan Industri Farmasi Indonesia - Pos Liputan",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 20 Nov 2026 14:10:56 GMT+5 | 키워드+25 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUk3aXdEVUowaDJjaHdUUVJ0aWtmeGQ5T0YzWWRjMnFWakdZQkh4QUl1MUpCOFR3dTU2TDVMc2FkR0I0N0tXb0ZYYUxxTzF0OFkzTklQNkZWY19ubEYwVEtDai1kZG9jUWRyZ1IyeG",
+        "published_time": "Fri, 20 Nov 2026 14:10:56 GMT",
+        "modified_time": "",
+        "time": "Fri, 20 Nov 2026 14:10:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaUk3aXdEVUowaDJjaHdUUVJ0aWtmeGQ5T0YzWWRjMnFWakdZQkh4QUl1MUpCOFR3dTU2TDVMc2FkR0I0N0tXb0ZYYUxxTzF0OFkzTklQNkZWY19ubEYwVEtDai1kZG9jUWRyZ1IyeGVZSWYxRFIyNE5ndGJHbU9LYWVuS3BzUFdsN28tVFphWERKckd5VG5vLTBhOXdQSDQ0TzZuWlpvMnc?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
