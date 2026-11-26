@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-11",
+  "total": 423,
+  "version": 1,
+  "generated_at": "2026-11-11T06:30:46.383999+09:00",
+  "korean": {
+    "total": 201,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 16,
+      "의약단체": 23,
+      "의약관련정부기관": 25,
+      "의료현장": 21,
+      "약국·약사": 5,
+      "의료정책·인력": 25,
+      "전통의학": 11,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "대한한약사회, 국회에서 기자회견 개최… 30년간 방치된 한약사 제도 정상화 및 협의체 즉각 구성 촉구",
+        "source": "청년투데이",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:청년투데이+28 | 최신:1일+10 | 키워드+20 | 순위:66위+2",
+        "snippet": "[청년투데이=장효남 기자] 도입 이후 30년이 넘도록 본래의 제도적 취지대로 작동하지 못한 채 구조적 모순 속에 표류해 온 한약사 제도의 실상을 고발하고, 정부의 무책임한 방관 속에서 현장 종사자들이 겪어내고 있는 극심한 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.fnnews21.com/news/articleView.html?idxno=59205"
+      },
+      {
+        "title": "의료분쟁 늘자… 의사&#183;간호사 출신 변호사 모시는 로펌들",
+        "source": "조선일보 on MSN",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:조선일보 on MSN+10 | 최신:5시간+20 | 키워드+25 | 순위:125위+2",
+        "snippet": "서울 강남구에 있는 A 로펌은 이달 초 의료인 출신 변호사 3명을 한꺼번에 영입했다. 이 중 두 사람은 간호대학을 졸업하고 서울 소재 대학 병원에서 근무한 간호사 출신이고, 다른 한 명은 의학전문대학원을 졸업한 지방 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81-%EB%8A%98%EC%9E%90-%EC%9D%98%EC%82%AC-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%B6%9C%EC%8B%A0-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%AA%A8%EC%8B%9C%EB%8A%94-%EB%A1%9C%ED%8E%8C%EB%93%A4/ar-AA2h8Xnu?ocid=BingNewsVerp"
+      },
+      {
+        "title": "글로벌 제약바이오, 신약 후보물질 정리 속도…R&amp;D 셈법 변화",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:147위+2",
+        "snippet": "글로벌 제약바이오업계에서 신약 후보물질을 정리하고 연구개발(R&amp;D) 투자를 재조정하는 움직임이 잇따르고 있다. 외부 바이오기업으로부터 도입한 기술도 개발 우선순위에서 밀리면 중단하고, 일부 기업은 연구개발 조직을 줄이는 대신 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421213"
+      },
+      {
+        "title": "&quot;지금 개국해도 될까?&quot;…휴베이스, 변화 속 약국 생존전략 짚는다",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:6시간+20 | 키워드+10 | 순위:30위+2",
+        "snippet": "김현익 휴베이스 대표는 &quot;최근 약국의 미래를 걱정하는 약사들의 목소리를 많이 듣고 있다&quot;며 &quot;다양한 정보와 의견이 쏟아지지만 정작 무엇을 믿고 어떻게 준비해야 할지 판단하기 어렵다는 고민도 적지 않다&quot;고 말했다.",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=335014"
+      },
+      {
+        "title": "한약사 300여명 &quot;조제 기능 정상화하라&quot;…국회 앞 집회",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+20 | 순위:63위+2",
+        "snippet": "'정부는 이번 국정감사에서 밝힌 협의체 구성과 운영 지원 입장을 즉각 행동으로 옮겨야 합니다. 한약사 피해 구제를 위한 공식 협의체를 조속히 구성하고, 조제 기능 정상화와 의약품 공급 차질 해소를 위한 구체적인 대책을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://m.dailypharm.com/user/news/344336"
+      },
+      {
+        "title": "한약사 협의체 논의 급물살?…약사회 &quot;면허범위부터 바로잡아라&quot;",
+        "source": "약사공론",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:9시간+15 | 키워드+20 | 순위:65위+2",
+        "snippet": "대한약사회가 약사&#183;한약사 직능 갈등 해결을 위한 협의체 구성과 관련해 한약사의 면허범위 문제를 먼저 정리해야 한다는 입장을 재확인했다. 한약사의 처방의약품 조제와 복약지도 등 현행 면허범위를 벗어나는 행위에 대한 정부의 명확한 조치가 선행되지 않는다면 협의체 논의 자체가 실효성을 갖기 어렵다는 판단이다.",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548523"
+      },
+      {
+        "title": "제약바이오 9곳 벌써 매출 1조원, 실적 이끈 성장동력은",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+20 | 순위:146위+2",
+        "snippet": "국내 주요 제약바이오 기업들이 올해 3분기까지 잇따라 누적 매출 1조원을 넘어섰다. 바이오 대기업들이 4조원대 매출을 기록한 가운데 전통 제약사들도 신약과 주력 의약품, 해외 수출, 신규 도입 품목 등을 앞세워 외형 성장을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548405"
+      },
+      {
+        "title": "&quot;전문의&#183;일반의 명확하게 표시&quot; 의료법 개정안 발의",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:6시간+20 | 키워드+10 | 순위:152위+2",
+        "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 환자의 알 권리를 보장하기 위해 전문의&#183;일반의 표시를 명확하게 하도록 하는 의료법 개정안이 발의됐다. 박지원 의원. 약사공론 DB 국회 보건복지위원회 더불어민주당 박지원 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548580"
+      },
+      {
+        "title": "대한약사회 &quot;AX 시대 약사 직능 도약 이끈다&quot;...제11회 학술제 개최",
+        "source": "팜뉴스 on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:팜뉴스 on MSN+10 | 최신:12시간+15 | 키워드+20 | 순위:132위+2",
+        "snippet": "[팜뉴스=김응민 기자] 대한약사회가 다가오는 인공지능(AI) 시대에 발맞춰 약사 직능의 새로운 발전 방향을 모색하는 자리를 마련한다. 대한약사회는 오는 11월 29일 양재 aT센터서 '제11회 대한민국 약사 학술제'를 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%ED%95%9C%EC%95%BD%EC%82%AC%ED%9A%8C-ax-%EC%8B%9C%EB%8C%80-%EC%95%BD%EC%82%AC-%EC%A7%81%EB%8A%A5-%EB%8F%84%EC%95%BD-%EC%9D%B4%EB%81%88%EB%8B%A4-%EC%A0%9C11%ED%9A%8C-%ED%95%99%EC%88%A0%EC%A0%9C-%EA%B0%9C%EC%B5%9C/ar-AA2h6chj?ocid=BingNewsVerp"
+      },
+      {
+        "title": "김용재 식약처 차장 &quot;규제 혁신으로 K-바이오 글로벌 경쟁력 높일 것&quot;",
+        "source": "뉴스1",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴스1+10 | 최신:11시간+15 | 키워드+20 | 순위:149위+2",
+        "snippet": "[GBF 2026] &quot;AI 의약품 심사 가이드라인 마련…CDMO 수출 지원 강화&quot; &quot;디지털융합의약품 통합심사 등 신기술&#183;산업 수요 맞춤형 규제 지원&quot; 김용재 식품의약품안전처 차장은 10일 &quot;혁신 기술을 시장의 성과로 신속하게 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.news1.kr/bio/general/6348667"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        21
+      ],
+      [
+        "한약",
+        14
+      ],
+      [
+        "식약처",
+        11
+      ],
+      [
+        "임상",
+        10
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "급여",
+        8
+      ],
+      [
+        "약가",
+        4
+      ],
+      [
+        "수출",
+        4
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "오남용",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "FDA",
+        2
+      ],
+      [
+        "원료의약품",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "특허",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        7
+      ],
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        2
+      ],
+      [
+        "의학신문",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "글로벌뉴스통신GNA",
+        2
+      ],
+      [
+        "전자신문",
+        1
+      ],
+      [
+        "인사이트코리아",
+        1
+      ],
+      [
+        "비즈워치",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "한국스포츠통신",
+        1
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        1
+      ],
+      [
+        "paxmedicalnews",
+        1
+      ],
+      [
+        "팜뉴스 on MSN",
+        1
+      ],
+      [
+        "팍스경제TV",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 121,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 14,
+      "Traditional & Complementary Medicine": 7
+    },
+    "top_articles": [
+      {
+        "title": "FDA Approves First-in-Class Bayer Drug for Reducing the Risk of Stroke - MedCity News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 21:01:35 GMT+5 | 키워드+30 | 순위:168위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEpTN1RxM3I0OG5nM3pyMGNvX1VyVUpicEFNSVZvOGRQNTQ5RUhNOF9jZFJ6ZW9iNzdYb1JXOUlTOGRBLTV6SU82RUdDeGd2SVE4UEN1OU56MnFPNnNrd2xvZWlVeVhDdGxJbVVlNn",
+        "published_time": "Tue, 10 Nov 2026 21:01:35 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 21:01:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEpTN1RxM3I0OG5nM3pyMGNvX1VyVUpicEFNSVZvOGRQNTQ5RUhNOF9jZFJ6ZW9iNzdYb1JXOUlTOGRBLTV6SU82RUdDeGd2SVE4UEN1OU56MnFPNnNrd2xvZWlVeVhDdGxJbVVlNnNCcHZ5NndJdDZHMkFSbjNiSDJFWWtVVnpvSXBJd09VNU11eUVpMWlEY19Da0RFTkpGbTI5LWNmc2pVVGhtT0xkT0FMYVcwNmc?oc=5"
+      },
+      {
+        "title": "No, drug outsourcing firms haven’t abandoned the small molecule - Chemical & Engineering News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 11:17:20 GMT+5 | 키워드+30 | 순위:169위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUS1CVjdRX1JLN01lcXFISjB4Zk9IM2d6aFgxWS1nS3UzMjBCUHhIcUVKLW5nZkYwZmFYa1lmakZfQmJISjVKeEVxZGdaUjBhZWhpY3BrM3JiRFFKNFhOaW1qS3FlZ3RpTnBLRzBib0",
+        "published_time": "Tue, 10 Nov 2026 11:17:20 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 11:17:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUS1CVjdRX1JLN01lcXFISjB4Zk9IM2d6aFgxWS1nS3UzMjBCUHhIcUVKLW5nZkYwZmFYa1lmakZfQmJISjVKeEVxZGdaUjBhZWhpY3BrM3JiRFFKNFhOaW1qS3FlZ3RpTnBLRzBib0Niek9fcVZJd0g1STlmU1BvUnhGMlc5Z3JMUG9pZjQ0Sk41UXEzWDhiTzRxQU8?oc=5"
+      },
+      {
+        "title": "Bayer Wins US Approval for Potential Blockbuster Stroke Drug - Bloomberg.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 08:11:03 GMT+5 | 키워드+30 | 순위:170위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPS19TT3oybnJTWlo3QnFzbnJNM3hENkVDS1YzNXF1SDZMN2hzTzNjU1JCc1JwaFVzSE9rU1BIOTEzNDlHN0l3cHRmaUVKMTNqMXV5UFI0TWtFRGlEWUhQWEFrZUJ1c3pIbXVUTW1qS2",
+        "published_time": "Tue, 10 Nov 2026 08:11:03 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 08:11:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS19TT3oybnJTWlo3QnFzbnJNM3hENkVDS1YzNXF1SDZMN2hzTzNjU1JCc1JwaFVzSE9rU1BIOTEzNDlHN0l3cHRmaUVKMTNqMXV5UFI0TWtFRGlEWUhQWEFrZUJ1c3pIbXVUTW1qS2xUdENFLUdfN2hHUFZXeFhUTURKRXFNNWdqTWgtS0s3blFEc3djQXlQVG8xU1o2VlgwYXA5NkdKMTMtakJIOF9nTg?oc=5"
+      },
+      {
+        "title": "Scientific team structures behind FDA-approved drugs - Nature",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 18:08:33 GMT+5 | 키워드+30 | 순위:177위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE13eDAzckFKcnFVenRJTmVMenRUTFFpajBGZWRIYlNwc2xRTmI3OVNRd21JR3BERkRqZXQ5dzNaUl91c19KNU9ZRldfZVM5SlJuSk5KVUVQSm1tN3Vva1Jj?oc=5\" target=\"_blank\"",
+        "published_time": "Tue, 10 Nov 2026 18:08:33 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 18:08:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13eDAzckFKcnFVenRJTmVMenRUTFFpajBGZWRIYlNwc2xRTmI3OVNRd21JR3BERkRqZXQ5dzNaUl91c19KNU9ZRldfZVM5SlJuSk5KVUVQSm1tN3Vva1Jj?oc=5"
+      },
+      {
+        "title": "Invented at Duke: A new class of drugs - Duke School of Medicine",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 19:54:14 GMT+5 | 키워드+30 | 순위:178위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdFJ5QnBlcTlLcmRwenJjZnZyYTJjRk9HYklxMnJ0SzdLVjdfeE45ZFJBZk9DdVZFMnZVTzEzWVdpSTVBek5DREVVUjYzbGtxNFQ4eWczblZibTUyZDM1WkVRODM0alo0Tkc2UEZR?o",
+        "published_time": "Tue, 10 Nov 2026 19:54:14 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 19:54:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zdFJ5QnBlcTlLcmRwenJjZnZyYTJjRk9HYklxMnJ0SzdLVjdfeE45ZFJBZk9DdVZFMnZVTzEzWVdpSTVBek5DREVVUjYzbGtxNFQ4eWczblZibTUyZDM1WkVRODM0alo0Tkc2UEZR?oc=5"
+      },
+      {
+        "title": "Faster Access to Innovative Drugs: At What Cost? - Medscape",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 13:07:25 GMT+5 | 키워드+30 | 순위:179위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVJkcGNpSFdpck14RFY1TnczQXczY09lMzBGVHVYYWgxQ0d3U1BxVzBQQUpNYVZ5WU1DWlNOdnE1aWNmSndtNE4xSExoVFpESkJfTFJTOV85UnhZdmdEU1VONUNHaEE5NmZ6dVk2dD",
+        "published_time": "Tue, 10 Nov 2026 13:07:25 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 13:07:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVJkcGNpSFdpck14RFY1TnczQXczY09lMzBGVHVYYWgxQ0d3U1BxVzBQQUpNYVZ5WU1DWlNOdnE1aWNmSndtNE4xSExoVFpESkJfTFJTOV85UnhZdmdEU1VONUNHaEE5NmZ6dVk2dDhsT0tYOUp0VjRrQk0xY01Uc0pQYm1Gclc2MFVzOEZVYklHTnR5?oc=5"
+      },
+      {
+        "title": "India Establishes Multi-Marker Regulations for Phytopharmaceutical Botanical Drug Development - Bioengineer.org",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 15:59:58 GMT+5 | 키워드+30 | 순위:187위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTIxWnowdHlmTWtrSGQ5T05Pb2FxQ2xPUmtaSUdCZVZOeGducHYyQy0ybjhiaFoyQzFncXFNRVI0T3B4eWR2anEtQUJ4TjAzeU9zUzhPSUotNGRSZ0NZb3FhX05oTU13MHV1WGxkTD",
+        "published_time": "Tue, 10 Nov 2026 15:59:58 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 15:59:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeTIxWnowdHlmTWtrSGQ5T05Pb2FxQ2xPUmtaSUdCZVZOeGducHYyQy0ybjhiaFoyQzFncXFNRVI0T3B4eWR2anEtQUJ4TjAzeU9zUzhPSUotNGRSZ0NZb3FhX05oTU13MHV1WGxkTDlhS1BFalJuYjRRdXk5eFFNdWVMc3hFZWxFbUxId2ZHMGFxWW5NdzI2dHRqMWRaeFlNdkRXQ3JOam9jUm54WEpXNmNfelJjYW9uM1E?oc=5"
+      },
+      {
+        "title": "Hanmi Pharmaceutical's MASH Drug Shows Up to 63% Hepatitis Resolution in Global Phase 2b Trial - BigGo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 09:06:00 GMT+5 | 키워드+30 | 순위:189위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBTd2ZZbUk2cTBPTkd3VTRzekxJbzlmZTFWUU1GSnI1dWlrMWlXSWpuSVdYb0xiVEdzeWVDTmlWcU1NM0xRSGhHcVZaM0FSNm84Wk5TSW1KMlJOMkpuTXI4c2lMMUtWZHVyN0Y1ZkxiRj",
+        "published_time": "Tue, 10 Nov 2026 09:06:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 09:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTd2ZZbUk2cTBPTkd3VTRzekxJbzlmZTFWUU1GSnI1dWlrMWlXSWpuSVdYb0xiVEdzeWVDTmlWcU1NM0xRSGhHcVZaM0FSNm84Wk5TSW1KMlJOMkpuTXI4c2lMMUtWZHVyN0Y1ZkxiRjJveDdwT2c?oc=5"
+      },
+      {
+        "title": "Adding a blood pressure drug roughly doubled tumor-cell killing in brain tumor models. - Stock Titan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 13:45:00 GMT+5 | 키워드+30 | 순위:190위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORFZfa0pfZjF3Zm9vdzNIX0N4akdweFRtNVJHMS01YVktbmNMSy0wOTFFenFWanlZTE1CZGczR285TWFNSUhFS3FveVFjN19VREE1Wk5hQXB2ZDY5ZEFCdHE4bkt0dldqZThERnJSMX",
+        "published_time": "Tue, 10 Nov 2026 13:45:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 13:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFZfa0pfZjF3Zm9vdzNIX0N4akdweFRtNVJHMS01YVktbmNMSy0wOTFFenFWanlZTE1CZGczR285TWFNSUhFS3FveVFjN19VREE1Wk5hQXB2ZDY5ZEFCdHE4bkt0dldqZThERnJSMXRTZE5MOWFvOUJ1eWlkakVGN2dRazNvamN3WGMyVGhtVHMxaHRxclMzdjBxVEVqUDE4RjNKNmoxMkQzR211M1NZczY4M19yNjJJcXVueg?oc=5"
+      },
+      {
+        "title": "Can AI Help Deliver New Medicines Faster? Inside The Growing Role Of Claude In Drug Development - RTTNews",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 15:15:00 GMT+5 | 키워드+30 | 순위:199위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1dpbk5tTGhpUW9tM0lPY0R2LWpmOElRR0pCbHNKSFN5bUNYSllQMVZFWno3OGU4VEtJU0RwTGlmUGJEUGZpbzNlM3lrRDhpLXVrbmluUmlnVE1XVTJrOXFoT3U2VkU5am16RWlEX2",
+        "published_time": "Tue, 10 Nov 2026 15:15:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 15:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY1dpbk5tTGhpUW9tM0lPY0R2LWpmOElRR0pCbHNKSFN5bUNYSllQMVZFWno3OGU4VEtJU0RwTGlmUGJEUGZpbzNlM3lrRDhpLXVrbmluUmlnVE1XVTJrOXFoT3U2VkU5am16RWlEX2I4WDN2ZkNjWFNrT1R2OEtkTHlrUlAzRVhVaVhSaUF3Vmc1MVUyanJKRE9BV2hfTTB2SmlNUVN5dnB2R3hjdkNiNzlkM1ZSbE1xc21RNDlXSU9QVHNCeTFNR043bm5FbDNj?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        12
+      ],
+      [
+        "approval",
+        5
+      ],
+      [
+        "manufacturing",
+        5
+      ],
+      [
+        "regulation",
+        4
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "inspection",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 101,
+    "languages": {
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 8,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 5,
+      "Swedish / 스웨덴어": 2,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 3,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 4,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 7,
+      "Arabic / 아랍어": 7,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "אבטחה יזומה של חומרי גלם לתעשיית התרופות. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 17:07:39 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5TM0wyWVhUQXh6NXRzOGRORXptcjZSMFgwU0hSYW14aHVwbHJkZjRjOXZLLW9CeTNDX2ZVOWo5ak14QWdSOEpQZThpUUVSSHpPTkhVRUd5QWxrRzhyZnZqbXBFTnhrRjBFcEhUZjlJc3",
+        "published_time": "Tue, 10 Nov 2026 17:07:39 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 17:07:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TM0wyWVhUQXh6NXRzOGRORXptcjZSMFgwU0hSYW14aHVwbHJkZjRjOXZLLW9CeTNDX2ZVOWo5ak14QWdSOEpQZThpUUVSSHpPTkhVRUd5QWxrRzhyZnZqbXBFTnhrRjBFcEhUZjlJc3ZIdHRoNGc?oc=5"
+      },
+      {
+        "title": "Proaktivt säkra råvaror för läkemedelsindustrin. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 17:07:41 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NEtpSEEteFIzUUQxbTFhV1FTRGhQQXAxM1p1OU43RU9RNEVSTFdNeE9ZWFBPZTVsRnVZOFg5YVlmLVU1dUJnYk5TNE85SWIxbVk2ZWMxOGdYcDZBaW1VVno5Yk1CZXlMV004ZHJpbF",
+        "published_time": "Tue, 10 Nov 2026 17:07:41 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 17:07:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NEtpSEEteFIzUUQxbTFhV1FTRGhQQXAxM1p1OU43RU9RNEVSTFdNeE9ZWFBPZTVsRnVZOFg5YVlmLVU1dUJnYk5TNE85SWIxbVk2ZWMxOGdYcDZBaW1VVno5Yk1CZXlMV004ZHJpbFNQZVg1Z1E?oc=5"
+      },
+      {
+        "title": "दवा उद्योग के लिए कच्चे माल की सक्रिय रूप से सुरक्षा सुनिश्चित करना। - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 17:07:39 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBoMkxYVEhzQ19rUjFPSUhmTTVmOEpPMXZzY0NuMXYyUzl4aUh2S2plVGFVSFRBYW5oUDkwaDlETVhvbWFSSk9ucmw5VUh4SU1iS3IyRFd3TWJiUzVDc2NEbldWbTVkU1U2ZV9KN3h4T3",
+        "published_time": "Tue, 10 Nov 2026 17:07:39 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 17:07:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoMkxYVEhzQ19rUjFPSUhmTTVmOEpPMXZzY0NuMXYyUzl4aUh2S2plVGFVSFRBYW5oUDkwaDlETVhvbWFSSk9ucmw5VUh4SU1iS3IyRFd3TWJiUzVDc2NEbldWbTVkU1U2ZV9KN3h4T3M2SENnZ1E?oc=5"
+      },
+      {
+        "title": "Vietnam Geleneksel Tıp Akademisi, tıbbi bitki kaynaklarının araştırma ve geliştirilmesinde işbirliğini genişletmek amacıyla Guangxi Botanik Enstitüsü ve Çin Bilimler Akademisi'nden bir heyetle birlikte çalışıyor. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 09:50:11 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipAJBVV95cUxPaE9RaVQ1NWljOXB3UTRqQXI3TVFESV84VmNYYWJCcEF1OG42eE1hMXpWRm5rQzNQbk80VjhGdFc2OGlKUXF2Q1JPdmJ0U3FFdGNDOEdteUFrNmJkRjF5bC11c0E5WkdsUE5EZV9ZTT",
+        "published_time": "Tue, 10 Nov 2026 09:50:11 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 09:50:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPaE9RaVQ1NWljOXB3UTRqQXI3TVFESV84VmNYYWJCcEF1OG42eE1hMXpWRm5rQzNQbk80VjhGdFc2OGlKUXF2Q1JPdmJ0U3FFdGNDOEdteUFrNmJkRjF5bC11c0E5WkdsUE5EZV9ZTTJrNHF3WndaMnFQZkhKNVUwZnpKMmVfN0d0TUFMN1hfZ2Q0c3FpVzZ6M1JWaHgyczdaZ1JsT3ZSNHJJVU40aERncGhyTU0xcHJUR1pUU3dtTXlXNVdkOHNwLUg0WV9oOUFwaVM1aWJhRkYtTTJweUVwZ2ZUQTNmLXBCeEtXSlgxNzhHZGliZW04YXNNekRjU3VtQ2VtNXZ3SmdILWRJZWpMUDRjYnhmbDZsWVU2YXFORGVLLS1s?oc=5"
+      },
+      {
+        "title": "Khanh Hoa İl Geleneksel Tıp Derneği'nin 2026-2031 dönemi Birinci Kongresi - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 10 Nov 2026 09:13:39 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNQVVlWDhQVDFvT0tXbENzSlpabmRkMlp4TGZ1aDRDU0RCMmRjYWJLblc3b1RfUlJ3RzhEaDJXZndIZ05pZk9CQm84eHJaaC00d3hDZlpxZk5WMDRGQjNoT3JGa1NjbGhSR1dOak40UV",
+        "published_time": "Tue, 10 Nov 2026 09:13:39 GMT",
+        "modified_time": "",
+        "time": "Tue, 10 Nov 2026 09:13:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVVlWDhQVDFvT0tXbENzSlpabmRkMlp4TGZ1aDRDU0RCMmRjYWJLblc3b1RfUlJ3RzhEaDJXZndIZ05pZk9CQm84eHJaaC00d3hDZlpxZk5WMDRGQjNoT3JGa1NjbGhSR1dOak40UVZ1X083UWpxYVNLUklMUTVPYWhRcXQ2WE45clFZakZKa2JwNHZJUk9RdU1wYk5iZw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

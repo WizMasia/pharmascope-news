@@ -1,0 +1,629 @@
+{
+  "date": "2026-11-11",
+  "total_articles": 423,
+  "language_breakdown": {
+    "korean": {
+      "total": 201,
+      "categories": {
+        "의약품": 25,
+        "의약산업": 25,
+        "의약정책": 16,
+        "의약단체": 23,
+        "의약관련정부기관": 25,
+        "의료현장": 21,
+        "약국·약사": 5,
+        "의료정책·인력": 25,
+        "전통의학": 11,
+        "감염·보건": 25
+      }
+    },
+    "english": {
+      "total": 121,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 25,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 14,
+        "Traditional & Complementary Medicine": 7
+      }
+    },
+    "multilingual": {
+      "total": 101,
+      "languages": {
+        "French / 프랑스어": 6,
+        "German / 독일어": 0,
+        "Spanish / 스페인어": 10,
+        "Italian / 이탈리아어": 8,
+        "Portuguese / 포르투갈어": 10,
+        "Dutch / 네덜란드어": 5,
+        "Swedish / 스웨덴어": 2,
+        "Polish / 폴란드어": 1,
+        "Turkish / 터키어": 3,
+        "Russian / 러시아어": 10,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 5,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 4,
+        "Indonesian / 인도네시아어": 10,
+        "Hindi / 힌디어": 7,
+        "Arabic / 아랍어": 7,
+        "Hebrew / 히브리어": 2,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 21
+    },
+    {
+      "keyword": "한약",
+      "count": 14
+    },
+    {
+      "keyword": "식약처",
+      "count": 11
+    },
+    {
+      "keyword": "임상",
+      "count": 10
+    },
+    {
+      "keyword": "허가",
+      "count": 8
+    },
+    {
+      "keyword": "급여",
+      "count": 8
+    },
+    {
+      "keyword": "약가",
+      "count": 4
+    },
+    {
+      "keyword": "수출",
+      "count": 4
+    },
+    {
+      "keyword": "항암",
+      "count": 3
+    },
+    {
+      "keyword": "비만",
+      "count": 2
+    },
+    {
+      "keyword": "오남용",
+      "count": 2
+    },
+    {
+      "keyword": "GMP",
+      "count": 2
+    },
+    {
+      "keyword": "FDA",
+      "count": 2
+    },
+    {
+      "keyword": "원료의약품",
+      "count": 2
+    },
+    {
+      "keyword": "백신",
+      "count": 2
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 12
+    },
+    {
+      "keyword": "approval",
+      "count": 5
+    },
+    {
+      "keyword": "manufacturing",
+      "count": 5
+    },
+    {
+      "keyword": "regulation",
+      "count": 4
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 3
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 2
+    },
+    {
+      "keyword": "inspection",
+      "count": 2
+    },
+    {
+      "keyword": "pricing",
+      "count": 2
+    },
+    {
+      "keyword": "obesity",
+      "count": 1
+    },
+    {
+      "keyword": "quality",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약사공론",
+      "count": 7
+    },
+    {
+      "source": "약업닷컴",
+      "count": 3
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 2
+    },
+    {
+      "source": "의학신문",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "글로벌뉴스통신GNA",
+      "count": 2
+    },
+    {
+      "source": "전자신문",
+      "count": 1
+    },
+    {
+      "source": "인사이트코리아",
+      "count": 1
+    },
+    {
+      "source": "비즈워치",
+      "count": 1
+    },
+    {
+      "source": "헬스코리아뉴스",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [
+    "drug, the, news, for, and 관련 보도 흐름",
+    "gmp, vietnam, voor, van 관련 보도 흐름",
+    "farmasi, kimia, farma, industri 관련 보도 흐름"
+  ],
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 11,
+      "keywords": [
+        "quot",
+        "한약",
+        "한약사"
+      ],
+      "articles": [
+        {
+          "title": "대한한약사회, 국회에서 기자회견 개최… 30년간 방치된 한약사 제도 정상화 및 협의체 즉각 구성 촉구",
+          "source": "청년투데이",
+          "importance": 60,
+          "stars": "⭐⭐⭐",
+          "snippet": "[청년투데이=장효남 기자] 도입 이후 30년이 넘도록 본래의 제도적 취지대로 작동하지 못한 채 구조적 모순 속에 표류해 온 한약사 제도의 실상을 고발하고, 정부의 무책임한 방관 속에서 현장 종사자들이 겪어내고 있는 극심한 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.fnnews21.com/news/articleView.html?idxno=59205"
+        },
+        {
+          "title": "&quot;지금 개국해도 될까?&quot;…휴베이스, 변화 속 약국 생존전략 짚는다",
+          "source": "약업닷컴",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "김현익 휴베이스 대표는 &quot;최근 약국의 미래를 걱정하는 약사들의 목소리를 많이 듣고 있다&quot;며 &quot;다양한 정보와 의견이 쏟아지지만 정작 무엇을 믿고 어떻게 준비해야 할지 판단하기 어렵다는 고민도 적지 않다&quot;고 말했다.",
+          "section": "korean",
+          "category": "약국·약사",
+          "time": "6시간",
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=335014"
+        },
+        {
+          "title": "한약사 300여명 &quot;조제 기능 정상화하라&quot;…국회 앞 집회",
+          "source": "데일리팜",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "'정부는 이번 국정감사에서 밝힌 협의체 구성과 운영 지원 입장을 즉각 행동으로 옮겨야 합니다. 한약사 피해 구제를 위한 공식 협의체를 조속히 구성하고, 조제 기능 정상화와 의약품 공급 차질 해소를 위한 구체적인 대책을 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://m.dailypharm.com/user/news/344336"
+        },
+        {
+          "title": "한약사 협의체 논의 급물살?…약사회 &quot;면허범위부터 바로잡아라&quot;",
+          "source": "약사공론",
+          "importance": 55,
+          "stars": "⭐⭐⭐",
+          "snippet": "대한약사회가 약사&#183;한약사 직능 갈등 해결을 위한 협의체 구성과 관련해 한약사의 면허범위 문제를 먼저 정리해야 한다는 입장을 재확인했다. 한약사의 처방의약품 조제와 복약지도 등 현행 면허범위를 벗어나는 행위에 대한 정부의 명확한 조치가 선행되지 않는다면 협의체 논의 자체가 실효성을 갖기 어렵다는 판단이다.",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "9시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548523"
+        },
+        {
+          "title": "대한약사회 &quot;AX 시대 약사 직능 도약 이끈다&quot;...제11회 학술제 개최",
+          "source": "팜뉴스 on MSN",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[팜뉴스=김응민 기자] 대한약사회가 다가오는 인공지능(AI) 시대에 발맞춰 약사 직능의 새로운 발전 방향을 모색하는 자리를 마련한다. 대한약사회는 오는 11월 29일 양재 aT센터서 '제11회 대한민국 약사 학술제'를 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "12시간",
+          "url": "https://www.msn.com/ko-kr/news/other/%EB%8C%80%ED%95%9C%EC%95%BD%EC%82%AC%ED%9A%8C-ax-%EC%8B%9C%EB%8C%80-%EC%95%BD%EC%82%AC-%EC%A7%81%EB%8A%A5-%EB%8F%84%EC%95%BD-%EC%9D%B4%EB%81%88%EB%8B%A4-%EC%A0%9C11%ED%9A%8C-%ED%95%99%EC%88%A0%EC%A0%9C-%EA%B0%9C%EC%B5%9C/ar-AA2h6chj?ocid=BingNewsVerp"
+        },
+        {
+          "title": "대한한약사회, 국회서 청와대까지 9.5km 행진",
+          "source": "글로벌뉴스통신GNA",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "[서울=글로벌뉴스통신] 대한한약사회 (회장 임채윤)는 지난 9일 국회에서 한약사 피해 구제를 위한 제도개선 협의체 구성 촉구 기자회견을 개최한 데 이어, 국회 정문 앞에서 현직 한약사와 경희대&#183;원광대&#183;우석대 한약학과 교수 및 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "12시간",
+          "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=503951"
+        },
+        {
+          "title": "&quot;30년째 제자리인 한약사 제도&quot;…국회~청와대 9.5km 행진한 이들",
+          "source": "국제뉴스",
+          "importance": 47,
+          "stars": "⭐⭐⭐",
+          "snippet": "(서울=국제뉴스) 김서중 기자 = 대한한약사회는 9일 국회에서 기자회견을 열고, 이후 청와대까지 약 9.5km를 행진하며 한약사 피해 구제와 제도개선을 촉구하는 공식 요구안을 청와대에 전달했다. 이날 행진에는 현직 한약사와 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "9시간",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747049"
+        },
+        {
+          "title": "&quot;AI로 약국 업무 효율 높여 환자에 집중&quot;…약사 학술제 29일 개최",
+          "source": "약업닷컴",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "구현지 대한약사회 학술이사가 9일 서울 서초구 대한약사회관에서 열린 전문언론 대상 기자간담회에서 제11회 대한민국 약사 학술제의 주요 프로그램과 기획 방향을 설명하고 있다. &#169;약업신문=전하연 기자 인공지능(AI)이 약국 업무 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "21시간",
+          "url": "https://www.yakup.com/news/?mode=view&amp;cat=17&amp;cat3=0&amp;nid=334971"
+        },
+        {
+          "title": "대한한약사회, &quot;한약사 피해 구제 촉구!&quot;… 국회에서 청와대까지 행진",
+          "source": "인디포커스",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "이번 대회는 1994년 한약사 제도 도입 이후 30년 넘게 한의약분업이 지켜지지 않으면서, 현장에서 발생한 구조적 문제와 한약사들의 피해를 알리기 위해 마련됐다. 한약사회는 기자회견에서, 정부가 한약사 제도를 도입하고도 한약 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "21시간",
+          "url": "https://www.indifocus.kr/83852"
+        },
+        {
+          "title": "&quot;오남용 우려 일반약 별도 관리&quot;…약사회, 약사법 개정 추진",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 대한약사회 이광민 부회장. 대한약사회 제공. 최근 일반의약품이 마약 제조에 악용되는 사건과 청소년 약물 과다복용(OD) 등 의약품 오남용 문제가 잇따르면서 대한약사회가 일반의약품 ...",
+          "section": "korean",
+          "category": "의약정책",
+          "time": "15시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548501"
+        },
+        {
+          "title": "[릴레이집회-418일차] &quot;한약사 문제 정부 방관&quot;…약사회, 국회 앞 입법 촉구",
+          "source": "약사공론",
+          "importance": 40,
+          "stars": "⭐⭐",
+          "snippet": "한약사 제도 운영의 책임을 정부가 더 이상 약국 현장에 떠넘겨서는 안 된다는 약사사회의 목소리가 국회 앞에서 나왔다. 약사사회 4대 현안 해결을 촉구하는 릴레이 집회가 418일째 이어진 가운데, 이날은 한약사 문제를 전면에 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "15시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548476"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "size": 5,
+      "keywords": [
+        "신약",
+        "넘어",
+        "제약바이오",
+        "신약개발",
+        "quot",
+        "장기요양",
+        "수급자",
+        "재택의료"
+      ],
+      "articles": [
+        {
+          "title": "글로벌 제약바이오, 신약 후보물질 정리 속도…R&amp;D 셈법 변화",
+          "source": "메디파나 뉴스",
+          "importance": 56,
+          "stars": "⭐⭐⭐",
+          "snippet": "글로벌 제약바이오업계에서 신약 후보물질을 정리하고 연구개발(R&amp;D) 투자를 재조정하는 움직임이 잇따르고 있다. 외부 바이오기업으로부터 도입한 기술도 개발 우선순위에서 밀리면 중단하고, 일부 기업은 연구개발 조직을 줄이는 대신 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421213"
+        },
+        {
+          "title": "제약바이오 AI 신약개발, &quot;모델 검증 넘어 성과 창출 시간으로”",
+          "source": "약업닷컴",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "10일 서울 역삼동 ST센터에서 개최된 'AI 파마 코리아 컨퍼런스 2026' 개회식에서 주요 내빈들이 기념촬영을 하고 있다. &#169;약업신문=김홍식 기자글로벌 제약 바이오 산업 내 인공지능(AI) 활용이 기술적 가능성 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "9시간",
+          "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=335008"
+        },
+        {
+          "title": "[이슈] 한국제약바이오협회, AI신약개발 실전 사례 공유...지니너스&#183;한미약품&#183;대웅제약 '활용 영역 확장'",
+          "source": "팍스경제TV",
+          "importance": 42,
+          "stars": "⭐⭐",
+          "snippet": "AI 신약개발이 후보물질 탐색을 넘어 실제 신약개발 성과와 후속 연구로 적용 범위를 넓히고 있다. 신약 후보를 찾고 설계하는 데 그치지 않고, 기존 약물의 새로운 가능성을 확인하고 사람 대상 연구로 연결하는 단계까지 활용되고 ...",
+          "section": "korean",
+          "category": "의약단체",
+          "time": "21시간",
+          "url": "https://www.paxetv.com/news/articleView.html?idxno=286561"
+        },
+        {
+          "title": "&quot;재택의료, 장기요양 수급자 넘어 필요한 모든 사람으로 확대해야&quot;",
+          "source": "라포르시안",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "[라포르시안] 대한재택의료학회가 재택의료 서비스 대상을 장기요양 수급자에서 의료적 필요가 있는 모든 사람으로 확대하고, 서비스의 질과 안전을 보장할 수 있는 관리체계를 마련해야 한다고 강조했다. 대한재택의료학회(이사장 박건우 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "11시간",
+          "url": "https://www.rapportian.com/news/articleView.html?idxno=242237"
+        },
+        {
+          "title": "재택의료, 장기요양 수급자 넘어 청년&#183;중장년까지 서비스 대상 다변화",
+          "source": "bokjinews",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "고령화로 집에서 치료받아야 하는 환자가 늘면서 재택의료의 적용 범위를 넓혀야 한다는 목소리가 커지고 있다. 현재 고령의 장기요양 수급자 중심에서 청년&#183;중장년층 등 의료서비스가 필요한 환자로 대상을 넓히고, 서비스의 질과 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "12시간",
+          "url": "http://www.bokjinews.com/news/articleView.html?idxno=115490"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "size": 3,
+      "keywords": [
+        "분기",
+        "매출",
+        "영업이익"
+      ],
+      "articles": [
+        {
+          "title": "매출 늘어도 이익은 제각각…제약기업 3분기 실적의 이면",
+          "source": "메디파나 뉴스",
+          "importance": 46,
+          "stars": "⭐⭐⭐",
+          "snippet": "국내 주요 제약기업들의 올해 3분기 경영실적에서 외형 성장과 수익성 사이의 간극이 뚜렷하게 나타났다. 매출 증가가 영업이익 확대로 이어진 기업이 있는가 하면, 외형 성장에도 이익은 오히려 줄어든 기업도 적지 않았다. 메디파나뉴스가 지난 6일까지 2026년 3분기 잠정실적을 공개한 주요 제약기업과 관련 바이오&#183;원료의약품&#183;진단 계열사 등 25",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.medipana.com/news/articleView.html?idxno=421215"
+        },
+        {
+          "title": "국내 제약 빅5, 3분기 영업이익 희비…수출이 갈랐다",
+          "source": "전자신문",
+          "importance": 37,
+          "stars": "⭐⭐",
+          "snippet": "국내 주요 제약 5사의 올해 3분기 실적은 주력 품목 수출과 해외 법인 성과에 따라 엇갈렸다. 대웅제약과 GC녹십자는 각각 보툴리눔 톡신과 혈액제제 수출에 힘입어 영업이익이 40% 넘게 늘었다. 유한양행과 종근당도 영업이익이 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "5시간",
+          "url": "https://www.etnews.com/20261110000322"
+        },
+        {
+          "title": "셀트리온제약, 3분기 매출&#183;영업익 역대 최대…영업이익 48.4% 증가",
+          "source": "인사이트코리아",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "[인사이트코리아 = 안혜완 기자] 셀트리온제약이 케미컬의약품 판매와 바이오의약품 처방 확대, 위수탁 생산 증가에 힘입어 올해 3분기 역대 최대 분기 실적을 기록했다고 9일 공시했다. 영업이익은 2개 분기 연속 최대치를 ...",
+          "section": "korean",
+          "category": "의약산업",
+          "time": "1일",
+          "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258478"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "size": 3,
+      "keywords": [
+        "환자",
+        "목디스크",
+        "수술률",
+        "받은",
+        "한의치료",
+        "뒤에도"
+      ],
+      "articles": [
+        {
+          "title": "[D-BIZ 한방의료] &quot;한의통합치료 목디스크 환자 3년간 수술률 0%&quot;…자생한방병원 장기 추적 결과",
+          "source": "데일리비즈온",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "[데일리비즈온 박노충 기자] 자생한방병원 척추관절연구소가 한의통합치료를 받은 목디스크 환자의 3년 장기 추적 연구 결과를 발표했다. 치료 후 통증 감소와 기능 개선 효과가 3년간 지속됐으며, 기간 내 수술 전환 사례는 단 한 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.dailybizon.com/news/articleView.html?idxno=71997"
+        },
+        {
+          "title": "한의치료 받은 목디스크 환자, 3년 뒤에도 수술률 제로 확인",
+          "source": "글로벌경제신문 on MSN",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "한의통합치료를 받은 목디스크(경추추간판탈출증) 환자들의 통증 개선 효과가 3년이 지난 뒤에도 유지된 것으로 나타났다. 추적 기간 중 수술로 전환한 환자는 한 명도 없었다.자생한방병원 척추관절연구소(소장 하인혁) 이수원 원장 ...",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/health/mindandbody/%ED%95%9C%EC%9D%98%EC%B9%98%EB%A3%8C-%EB%B0%9B%EC%9D%80-%EB%AA%A9%EB%94%94%EC%8A%A4%ED%81%AC-%ED%99%98%EC%9E%90-3%EB%85%84-%EB%92%A4%EC%97%90%EB%8F%84-%EC%88%98%EC%88%A0%EB%A5%A0-%EC%A0%9C%EB%A1%9C-%ED%99%95%EC%9D%B8/ar-AA2h4v4A?ocid=BingNewsVerp"
+        },
+        {
+          "title": "“한의치료 받은 목디스크 환자, 3년 뒤에도 효과 유지”",
+          "source": "쿠키뉴스 on MSN",
+          "importance": 27,
+          "stars": "⭐⭐",
+          "snippet": "한의통합치료를 받은 목디스크 환자들의 통증과 기능, 삶의 질 개선 효과가 3년이 지난 뒤에도 이어졌다는 연구 결과가 나왔다. 이 기간 수술로 전환한 사례도 없었다. 자생한방병원 척추관절연구소 이수원 원장 연구팀은 이 같은 내용의 연구 결과가 SCI(E)급 국제학술지 ‘통증연구저널(Journal of Pain Research, IF=3.1)’에 게재됐다고 9",
+          "section": "korean",
+          "category": "전통의학",
+          "time": "1일",
+          "url": "https://www.msn.com/ko-kr/news/other/%ED%95%9C%EC%9D%98%EC%B9%98%EB%A3%8C-%EB%B0%9B%EC%9D%80-%EB%AA%A9%EB%94%94%EC%8A%A4%ED%81%AC-%ED%99%98%EC%9E%90-3%EB%85%84-%EB%92%A4%EC%97%90%EB%8F%84-%ED%9A%A8%EA%B3%BC-%EC%9C%A0%EC%A7%80/ar-AA2h2UXt?ocid=BingNewsVerp"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "keywords": [
+        "개정안",
+        "일반의",
+        "표시",
+        "의료법",
+        "전문의"
+      ],
+      "articles": [
+        {
+          "title": "&quot;전문의&#183;일반의 명확하게 표시&quot; 의료법 개정안 발의",
+          "source": "약사공론",
+          "importance": 50,
+          "stars": "⭐⭐⭐",
+          "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 환자의 알 권리를 보장하기 위해 전문의&#183;일반의 표시를 명확하게 하도록 하는 의료법 개정안이 발의됐다. 박지원 의원. 약사공론 DB 국회 보건복지위원회 더불어민주당 박지원 ...",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "6시간",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548580"
+        },
+        {
+          "title": "박지원, 전문의&#183;일반의 여부 표시 의무화 의료법 개정안 대표발의",
+          "source": "글로벌뉴스통신GNA",
+          "importance": 32,
+          "stars": "⭐⭐",
+          "snippet": "박지원 의원은 이번 개정안 발의와 국감 질의를 계기로 단순한 전문의 여부 표기를 넘어, 환자가 실제 치료 목적의 질환 진료와 미용 시술을 명확히 구분해 선택할 수 있도록 ‘주요 진료분야 표준 표시체계’ 도입을 촉구했다. 아울러 보건복지부에 구체적인 추진 일정표를 제출할 것을 주문했다.",
+          "section": "korean",
+          "category": "의료정책·인력",
+          "time": "1일",
+          "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=503738"
+        }
+      ]
+    }
+  ],
+  "uncategorized_articles": [
+    {
+      "title": "의료분쟁 늘자… 의사&#183;간호사 출신 변호사 모시는 로펌들",
+      "source": "조선일보 on MSN",
+      "importance": 57,
+      "snippet": "서울 강남구에 있는 A 로펌은 이달 초 의료인 출신 변호사 3명을 한꺼번에 영입했다. 이 중 두 사람은 간호대학을 졸업하고 서울 소재 대학 병원에서 근무한 간호사 출신이고, 다른 한 명은 의학전문대학원을 졸업한 지방 ...",
+      "url": "https://www.msn.com/ko-kr/news/national/%EC%9D%98%EB%A3%8C%EB%B6%84%EC%9F%81-%EB%8A%98%EC%9E%90-%EC%9D%98%EC%82%AC-%EA%B0%84%ED%98%B8%EC%82%AC-%EC%B6%9C%EC%8B%A0-%EB%B3%80%ED%98%B8%EC%82%AC-%EB%AA%A8%EC%8B%9C%EB%8A%94-%EB%A1%9C%ED%8E%8C%EB%93%A4/ar-AA2h8Xnu?ocid=BingNewsVerp"
+    },
+    {
+      "title": "제약바이오 9곳 벌써 매출 1조원, 실적 이끈 성장동력은",
+      "source": "약사공론",
+      "importance": 50,
+      "snippet": "국내 주요 제약바이오 기업들이 올해 3분기까지 잇따라 누적 매출 1조원을 넘어섰다. 바이오 대기업들이 4조원대 매출을 기록한 가운데 전통 제약사들도 신약과 주력 의약품, 해외 수출, 신규 도입 품목 등을 앞세워 외형 성장을 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548405"
+    },
+    {
+      "title": "김용재 식약처 차장 &quot;규제 혁신으로 K-바이오 글로벌 경쟁력 높일 것&quot;",
+      "source": "뉴스1",
+      "importance": 47,
+      "snippet": "[GBF 2026] &quot;AI 의약품 심사 가이드라인 마련…CDMO 수출 지원 강화&quot; &quot;디지털융합의약품 통합심사 등 신기술&#183;산업 수요 맞춤형 규제 지원&quot; 김용재 식품의약품안전처 차장은 10일 &quot;혁신 기술을 시장의 성과로 신속하게 ...",
+      "url": "https://www.news1.kr/bio/general/6348667"
+    },
+    {
+      "title": "외부자본 약국 침투 막을까?…27일 네트워크약국 규제 시행",
+      "source": "데일리팜",
+      "importance": 46,
+      "snippet": "약사나 한약사가 둘 이상의 약국을 개설하거나 운영하는 것을 금지하는 개정 약사법 시행이 3주 앞으로 다가왔다. 기존 1인 1약국 원칙이 약국 개설뿐 아니라 실질적인 운영까지 규제하도록 명문화되면서 약국가에도 적지 않은 변화가 예상된다. 특히 최근 창고형&#183;네트워크형 약국을 중심으로 외부자본의 경영개입 논란이 이어져 온 만큼 개정법 시행 이후 어떤 운",
+      "url": "https://www.dailypharm.com/user/news/344276"
+    },
+    {
+      "title": "휴베이스, 변화하는 약업 환경 속 약국의 생존 전략 모색",
+      "source": "약사공론",
+      "importance": 45,
+      "snippet": "첫 번째 세션에서는 노수진 대한약사회 총무이사가 '약국을 둘러싼 환경 변화와 주요 현안'을 주제로 강연한다. 약국에 영향을 미치는 주요 제도와 정책의 현황을 살펴보고, 최근 약업계에서 논의되는 현안의 사실관계와 핵심 쟁점을 ...",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548565"
+    },
+    {
+      "title": "경쟁 과열에 약가인하 여파…비염&#183;천식 치료제 시장 조정",
+      "source": "비즈워치",
+      "importance": 42,
+      "snippet": "한때 다수 제약사가 뛰어들었던 알레르기 비염&#183;천식 치료제 성분인 몬테루카스트 시장에서 제네릭 허가 품목이 감소하고 있다. 동일 성분 제품 간 경쟁 심화에 약가 인하 부담까지 더해지면서 제약사들이 수익성이 낮은 품목의 허가를 ...",
+      "url": "https://news.bizwatch.co.kr/article/healthcare/2026/11/06/0049"
+    },
+    {
+      "title": "홍승권 심평원장 &quot;보훈의료, 지역 필수의료와 연결해야&quot;…의료체계 혁신 제안",
+      "source": "서울경제TV SEN on MSN",
+      "importance": 42,
+      "snippet": "국가유공자 중심의 보훈의료를 지역 필수의료와 연계해 공공의료의 역할을 확대해야 한다는 제안이 나왔다. 의료기관 간 협력체계를 강화하고 진료비 심사와 의료데이터 활용 방식을 개선해 지역 내에서 필요한 의료서비스를 제공하자는 ...",
+      "url": "https://www.msn.com/ko-kr/health/%EC%9D%BC%EB%B0%98/%ED%99%8D%EC%8A%B9%EA%B6%8C-%EC%8B%AC%ED%8F%89%EC%9B%90%EC%9E%A5-%EB%B3%B4%ED%9B%88%EC%9D%98%EB%A3%8C-%EC%A7%80%EC%97%AD-%ED%95%84%EC%88%98%EC%9D%98%EB%A3%8C%EC%99%80-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%EC%9D%98%EB%A3%8C%EC%B2%B4%EA%B3%84-%ED%98%81%EC%8B%A0-%EC%A0%9C%EC%95%88/ar-AA2h1Yxx?ocid=BingNewsVerp"
+    },
+    {
+      "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
+      "source": "헬스코리아뉴스",
+      "importance": 40,
+      "snippet": "[헬스코리아뉴스 / 이창용] 소아 임상시험 자료를 근거로 자료보호를 받은 의약품이 총 26개 품목으로 늘었다. 이는 전체 자료보호의약품의 3.5% 수준이다. 지난해 2월 제도가 시행된 뒤 연말까지 8개 품목이 등재됐고, 올해 ...",
+      "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
+    },
+    {
+      "title": "한국산업약사회, 주니어 약사 제조&#183;품질관리 역량 강화 교육",
+      "source": "약사공론",
+      "importance": 40,
+      "snippet": "기사의 본문 내용은 이 글자크기로 변경됩니다. 산업약사회 제공. 한국산업약사회(회장 최학배)가 제약산업에 종사하는 주니어 약사들의 제조&#183;품질관리 실무 역량 강화를 위한 현장 교육을 진행했다. 한국산업약사회는 지난 5일 동국제약 진천공장에서 'Junior 약사를 위한 제조&#183;품질관리 역량강화 세미나'를 개최했다고 밝혔다. 이번 세미나에는 제조",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548493"
+    },
+    {
+      "title": "광주약사회, 약사연수교육&#183;프리셉터 워크숍 개최",
+      "source": "의학신문",
+      "importance": 37,
+      "snippet": "[의학신문&#183;일간보사=차원준 기자] 광주광역시약사회 (회장 김동균)는 지난 8일 전남대학교 약학대학 고익배홀에서 회원 약사 240여 명이 참석한 가운데 ‘2026년 제2차 약사연수교육 및 약무실습을 위한 프리셉터 워크숍’을 ...",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016015"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "허가",
+      "kr_count": 8,
+      "en_count": 5
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 10,
+      "en_count": 3
+    },
+    {
+      "keyword": "약가",
+      "kr_count": 4,
+      "en_count": 2
+    }
+  ]
+}

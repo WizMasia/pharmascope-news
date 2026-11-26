@@ -1,0 +1,564 @@
+{
+  "date": "2026-11-18",
+  "total": 401,
+  "version": 1,
+  "generated_at": "2026-11-18T06:30:46.764865+09:00",
+  "korean": {
+    "total": 190,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 24,
+      "의약단체": 25,
+      "의약관련정부기관": 21,
+      "의료현장": 7,
+      "약국·약사": 10,
+      "의료정책·인력": 25,
+      "전통의학": 3,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "PV 약가인하 차액 환급 '유형 다' 제외…재평가 약제 사전협상 2월",
+        "source": "히트뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:5시간+20 | 키워드+20 | 순위:133위+2",
+        "snippet": "[히트뉴스=이현주 기자] 2027년부터 사용량-약가 연동 협상에 따른 약가 인하 시기가 연 2회로 정례화되면서 인하 시점이 늦춰지는 약제에 대해서는 건강보험 재정 지출 증가분을 제약사가 환급해야 한다. 다만 유형 '다'는 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80870"
+      },
+      {
+        "title": "PVA 약가인하 정례화에 지연분 환급…'유형 다' 품목 제외",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+20 | 순위:142위+2",
+        "snippet": "건강보험공단이 내년부터 사용량-약가연동 사후관리 정례화에 따른 환급 절차에서 ‘유형 다’ 품목은 제외된다. 또 위험분담약제에 대한 약가유연계약 확대를 검토한다. 신속등재 시범사업 선정 품목과의 형평성을 고려해 확대 방향으로 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344709"
+      },
+      {
+        "title": "&quot;사용량-약가 인하, 내년부터 4월&#183;10월로&quot;…유예기간엔 제약사 환급",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:131위+2",
+        "snippet": "예를 들어 올해 12월 20일 약가 조정이 발령된 약제는 내년 4월 1일부터 인하된 가격이 적용된다. 이 경우 2027년 1월 1일부터 3월 31일까지 발생한 재정 지출 증가분이 환급액 산출 대상이 된다.",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=335362"
+      },
+      {
+        "title": "사용량-약가 연동 인하 연 2회로…늦춰진 기간은 '환급'",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:32분+20 | 키워드+10 | 순위:135위+2",
+        "snippet": "국민건강보험공단의 사용량-약가 연동 협상에 따른 약가 인하 시점이 내년부터 매년 4월 1일과 10월 1일로 통일된다. 의약품 사용량 증가에 따라 수시로 이뤄지던 가격 조정을 연 2회로 정례화해 약국과 의료기관의 업무 혼선을 ...",
+        "published_time": "32분",
+        "modified_time": "",
+        "time": "32분",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422037"
+      },
+      {
+        "title": "약가유연계약 52품목으로 늘어…위험분담 약제까지 확대 검토",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:141위+2",
+        "snippet": "김형민 국민건강보험공단 약제관리실 신약관리부장이 17일 강원 원주 공단 본부에서 열린 약가제도개선 제약사 설명회에서 약가유연계약 운영 현황과 2027년 제도 개선 방향을 발표하고 있다. &#169;약업신문=전하연 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=11&amp;nid=335360"
+      },
+      {
+        "title": "'스시자로' 반입 허용한 식약처 &quot;부작용&#183;보관은 개인 책임&quot;",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+10 | 순위:124위+2",
+        "snippet": "식품의약품안전처가 위고비&#183;마운자로 등 자가 치료용 의약품의 개인 휴대 반입을 최대 3개월 분량까지 허용하면서도, 부작용 피해구제 제외와 콜드체인 유지 등 사후 안전관리에 대해서는 소비자의 각별한 주의를 당부했다. 해외 정상 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344711"
+      },
+      {
+        "title": "&quot;호주서 시작한 신약 임상시험, 미국 FDA까지 가려면&quot;",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:125위+2",
+        "snippet": "‘서울 글로벌 포럼 2026’ 현장.&#169;약업신문=허지수 기자(왼쪽부터) 요르겐 몰드 아반스 클리니컬 글로벌 과학&#183;규제 총괄 수석부사장, 조 타오크 글로벌 프로젝트 수행 및 아시아 사업 총괄 부사장, 한영지 아시아 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=photo&amp;nid=335363"
+      },
+      {
+        "title": "[병원소식] “덕분에 70년, 함께 100년”…을지대의료원, 창립 70주년 맞아 학술&#183;문화 행사 잇달아 개최",
+        "source": "한겨레",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한겨레+28 | 최신:10시간+15 | 키워드+10 | 순위:40위+2",
+        "snippet": "올해 창립 70주년을 맞은 을지대의료원이 ‘덕분에 70년, 함께 100년’을 슬로건으로 내걸고 미래의료와 전문간호의 발전 방향을 모색하는 학술대회부터 환자&#183;시민과 함께하는 기념 음악회까지 다각적인 학술&#183;문화 행사를 잇달아 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.hani.co.kr/arti/hanihealth/medical/1287675.html"
+      },
+      {
+        "title": "&quot;지역 필수의료 강화&quot;…분당서울대&#183;복지부 논의",
+        "source": "NEWSIS on MSN",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NEWSIS on MSN+28 | 최신:11시간+15 | 키워드+10 | 순위:143위+2",
+        "snippet": "분당서울대병원이 보건복지부와 지역 필수&#183;공공의료 강화를 위한 협력 방안을 논의했다. 지역 간 의료격차를 줄이고 환자가 거주지역에서 필요한 의료서비스를 받을 수 있는 지역완결형 의료체계 구축이 주요 의제로 다뤄졌다.",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.msn.com/ko-kr/news/national/%EC%A7%80%EC%97%AD-%ED%95%84%EC%88%98%EC%9D%98%EB%A3%8C-%EA%B0%95%ED%99%94-%EB%B6%84%EB%8B%B9%EC%84%9C%EC%9A%B8%EB%8C%80-%EB%B3%B5%EC%A7%80%EB%B6%80-%EB%85%BC%EC%9D%98/ar-AA2hzGec?ocid=BingNewsVerp"
+      },
+      {
+        "title": "&quot;비급여 관리체계 강화하고 필수의료체계 구축 서둘러야 한다&quot;",
+        "source": "약사공론",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:12시간+15 | 키워드+20 | 순위:144위+2",
+        "snippet": "김 의원은 현재 우리나라 의료공급체계를 시장에 내맡겨진 '무정부적인 의료공급체계'로 진단했다. 병상은 자유롭게 늘릴 수 있지만 의사 수는 늘리기 어려운 구조이고, 이미 병원이 많은 지역에서도 병상 공급이 가능하고 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549103"
+      }
+    ],
+    "top_keywords": [
+      [
+        "약가",
+        25
+      ],
+      [
+        "신약",
+        23
+      ],
+      [
+        "임상",
+        11
+      ],
+      [
+        "식약처",
+        11
+      ],
+      [
+        "급여",
+        10
+      ],
+      [
+        "허가",
+        7
+      ],
+      [
+        "비만",
+        6
+      ],
+      [
+        "한약",
+        5
+      ],
+      [
+        "백신",
+        5
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "심사",
+        3
+      ],
+      [
+        "마운자로",
+        2
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "R&D",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        9
+      ],
+      [
+        "데일리팜",
+        4
+      ],
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "의학신문",
+        3
+      ],
+      [
+        "라포르시안",
+        3
+      ],
+      [
+        "히트뉴스",
+        2
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        2
+      ],
+      [
+        "한겨레",
+        2
+      ],
+      [
+        "청년의사",
+        2
+      ],
+      [
+        "e-science",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "paxmedicalnews",
+        1
+      ],
+      [
+        "메디포뉴스",
+        1
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "팜뉴스",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 130,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 5
+    },
+    "top_articles": [
+      {
+        "title": "GSK scores FDA approval for Nelkarmi, its 2nd lung cancer drug from Nuvalent deal - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 18:30:00 GMT+5 | 키워드+30 | 순위:187위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVpJYm1oclczRGVvMFVaTGwyREwtUF91Ni1FY3Y5eDhUUmFjclkzenZrMERveS1aaUxQdmVUeVNDSlRmTm5xOEl1QXVhVjdZQlFaSWFQWkZlMkNRUWVnT1owTmhfRDVWQnBHT25NcE",
+        "published_time": "Tue, 17 Nov 2026 18:30:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 18:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVpJYm1oclczRGVvMFVaTGwyREwtUF91Ni1FY3Y5eDhUUmFjclkzenZrMERveS1aaUxQdmVUeVNDSlRmTm5xOEl1QXVhVjdZQlFaSWFQWkZlMkNRUWVnT1owTmhfRDVWQnBHT25NcEw2N25FdlF1NXFsWEhmRHlFdmxKZG95SnQ5VGVOWGV1MVIxLUtmYkpna3lMeG92OE53ekF0djd3?oc=5"
+      },
+      {
+        "title": "Karyopharm Announces FDA Acceptance of Supplemental New Drug Application for XPOVIO® (selinexor) Plus Ruxolitinib for the Treatment of Patients with Myelofibrosis - Karyopharm",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 12:30:22 GMT+5 | 키워드+30 | 순위:188위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxPMEhZR3lQRmpEeVg0T3lfUGJBR0t6YjA1Q1lqTXFFYk1GZDJ1Z2N6QnYxUEI2Q0xWZjJLcmx1dFdvYkNXd054Z3pSckpiV1VxMDdsTDk5WkE2THpLTHZmLTMzMFRZTFdEZjNXM0FKS2",
+        "published_time": "Tue, 17 Nov 2026 12:30:22 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 12:30:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPMEhZR3lQRmpEeVg0T3lfUGJBR0t6YjA1Q1lqTXFFYk1GZDJ1Z2N6QnYxUEI2Q0xWZjJLcmx1dFdvYkNXd054Z3pSckpiV1VxMDdsTDk5WkE2THpLTHZmLTMzMFRZTFdEZjNXM0FKS25ubHBpM253enBIOFprenJ6V2xiTnd2eC05RGxoNlZNU1FTVU5RSTRPUWVUTFZiOFZGcUtZdnJEV3BoZFFNcGYwczN1X185WVhUc0EyWnVZMm4tYjFpSEZ0SlJ5cVFsN1NHb1UwNTd2cG50U0lFbGtTaS01bmY2UWMxTTJjWEFEN04wb3NtWnp2MVNZMzR2MDZ0MXBMM25mSEphcUFkZnVDT19jeXZMT09WYzNsUTd1Rm9lU3M2Ny14S3ljUEFjdw?oc=5"
+      },
+      {
+        "title": "FDA approves new oral breast cancer drug combo that cut progression risk 62%: 6 notes - Becker's Hospital Review",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 15:06:43 GMT+5 | 키워드+30 | 순위:192위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0pjanlraG5DNXVZQUNFRmtoUUZVREhEWTZpeWZxT2VIZGdPaGZ6LWRtT1REa3dCc0plVGxKaVlnMmxYcWNrS3FGTDhOX2dWVDE5SnhqWlYyN2s5cTJVU0FJYmpaVTY0emJFaHdXcW",
+        "published_time": "Tue, 17 Nov 2026 15:06:43 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 15:06:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY0pjanlraG5DNXVZQUNFRmtoUUZVREhEWTZpeWZxT2VIZGdPaGZ6LWRtT1REa3dCc0plVGxKaVlnMmxYcWNrS3FGTDhOX2dWVDE5SnhqWlYyN2s5cTJVU0FJYmpaVTY0emJFaHdXcWRBYnRvWFFjeVBwSy1QSG9VUkV3bG9QNnJDTDNPS04tdEZjNkFPaDQ3RDI5T0xHQ0JZZ0FhRmExeXBfaHNfejRMYkd5ZmxlMHdOc3lVMk1PR2xGNVNpZnJ5WUZSOA?oc=5"
+      },
+      {
+        "title": "Roche’s next big breast cancer drug, Wilserdly, secures FDA approval as 4th oral SERD - Fierce Pharma",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 15:50:20 GMT+5 | 키워드+30 | 순위:194위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OV",
+        "published_time": "Tue, 17 Nov 2026 15:50:20 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 15:50:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNLRjNiQUxlcDVYc1FFd2JtbFJ3cWVHSHVxa1ZNNFgzVHc4Y1ZsUnNSeXhzdjZvb2xmY0hhRGVsY3U0ZDd2bFlxbFo0cm8xdGl0M1hObzZZd09yajJhN25lSDBiTEwxSXd6QUh6OVdoX3c0ZUMyOW1mdTI5dkM2aWs2a3JSaWVRSVNxVGZYbTB1eVZhZV9JUFh2c2d5UW9NYUNPVmFxMzZBR0k0RTB2N0MwTHY?oc=5"
+      },
+      {
+        "title": "US FDA approves GSK's second lung cancer drug from historic Nuvalent deal - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 20:19:12 GMT+5 | 키워드+30 | 순위:197위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0",
+        "published_time": "Tue, 17 Nov 2026 20:19:12 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 20:19:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVhEaDZHcy1VazlpRl9vTmtGYk4wN25BRkZmY0RVNE81UTZOOHJ3TjFRcXJTZ1YtZkR0UzBDU0NhTHZ1LVk1WWFYUWNMeml2TlJjUVhEV1FoQnlac1FGQ3RzQW5DcDh3eWpsR0hyU0d4djBybzVqX0h1bm9DeWJoUkV0NzVSTmxLWmRVRmFtU1ZfS1FsN2c1SlVwQlNvMmIxUjVFSGRuTXFSZHZ5d0c2UDBVWVZhVk1jSUUwa2RmanZzdVU?oc=5"
+      },
+      {
+        "title": "Lung Cancer New Drug's FDA Setback, Pfizer's $1.5 Billion Funding Deal Put Biopharma Risk in Focus - GeneOnline",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 19:39:57 GMT+5 | 키워드+30 | 순위:200위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA5OGg5Z0JTUmJMRFUzYVM2MGstOFBYc0lHYlFYckc3QTZVT19FT0dWdUo1dDBDd19UM25ZeUFjbzB0azNwZmlqb3RIdk9jRDNjSXNtQUdmQWU0TldnR0l0cG03dzFYdllLNTlQM0NiZU",
+        "published_time": "Tue, 17 Nov 2026 19:39:57 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 19:39:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5OGg5Z0JTUmJMRFUzYVM2MGstOFBYc0lHYlFYckc3QTZVT19FT0dWdUo1dDBDd19UM25ZeUFjbzB0azNwZmlqb3RIdk9jRDNjSXNtQUdmQWU0TldnR0l0cG03dzFYdllLNTlQM0NiZU5qa3p4UkQ0YVdR?oc=5"
+      },
+      {
+        "title": "AriBio's Oral Dementia Drug Passes Phase 3 Trial - 조선일보",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 15:46:17 GMT+5 | 키워드+30 | 순위:201위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNklCbWdLWDQ2bmhmeTd5SjI3VkpEaGZXRk9PYnVZMmRPcVo4Q0ZIekp0eU5xYl9ybnI5MExPTzZ3QXhtLTVKbjdkR0g5cTh0OWMzSkJOM2RWc3duZ1VqVWlHTjhMQjJfeVhZSkh0cG",
+        "published_time": "Tue, 17 Nov 2026 15:46:17 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 15:46:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNklCbWdLWDQ2bmhmeTd5SjI3VkpEaGZXRk9PYnVZMmRPcVo4Q0ZIekp0eU5xYl9ybnI5MExPTzZ3QXhtLTVKbjdkR0g5cTh0OWMzSkJOM2RWc3duZ1VqVWlHTjhMQjJfeVhZSkh0cGxqZEJLVjdLUVpsYnNxYkxEOFhTNnJUWFF1?oc=5"
+      },
+      {
+        "title": "Ichnos Glenmark files US FDA application for solid tumour drug ISB 2301 - Business Standard",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 16:04:23 GMT+5 | 키워드+30 | 순위:206위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQODJRN1c2dmtpQXNuOGxoZFJITkxWTDZGeEdFYnJIOHFnMlNXQ250MFczVkcxbUJKaVAzaEhOOTQ2em96V2VXczdQZUp3eWRja080elJPZ2tLd3N3R0pvUG1za2htQkt4aVFBbUdtUF",
+        "published_time": "Tue, 17 Nov 2026 16:04:23 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 16:04:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQODJRN1c2dmtpQXNuOGxoZFJITkxWTDZGeEdFYnJIOHFnMlNXQ250MFczVkcxbUJKaVAzaEhOOTQ2em96V2VXczdQZUp3eWRja080elJPZ2tLd3N3R0pvUG1za2htQkt4aVFBbUdtUF93REs0dUM2ZTJ5MDJYT1kxY201UjJ3Y0NPaEZQSXZ1NjJoWU5lc1VXZ3NuWkd5VnFaUURtblMtbWJ2MF9JeTJZUzJuQkhSUXQyRU1sY2s4bndwdE1Kd0FZS3Vaa3dPUDFVVnp5T1VR0gHbAUFVX3lxTE1BallaYTZFcU5zSkF1alo3ZEltNTRub2ZGd0MzZEU4M1pySVo5bnQ2cDhfbE12RE5IcDI4OHR5UkZReG5uMl90WDNiTHV3N2tjN0U5YmNHbWVKSUtXbV9QdHFlRE5xS1MybzRvcTlhdzF6TDFNeU4wZjhKaGNCVmF5cmxZLUJNNmxCaTlCS3JLOVdyemYxYm10cFJFaTVLQjdtaERyYWtiVEpoa3VRTGJrc3pXX0lpWm9odVJPd0h3b25KZFM1TVJYYzQteUZpNGFfdGxvdHNIVV92aw?oc=5"
+      },
+      {
+        "title": "NanoViricides, Inc. Has Filed its Quarterly Report - Broad-Spectrum Antiviral Drug NV-387 Oral Gummies Has Entered Two Separate Phase II Clinical Trials - One to Treat Ebola Bundibugyo Virus Disease, and Another to Treat Mpox (Monkeypox) - ACCESS Newswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 13:45:00 GMT+5 | 키워드+30 | 순위:208위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeF95TmVKSDVSbGZDQmx0MHNtMThLR1NFVTF0akpuNlgyYlJzYlpnMS0tTHFEcnYwT0ZQdWIxUGVwa3J2cVo2QXROS01kVXJsd3E3aUQ2MzFhZnBhSGJYX21iUTZNY1BuMkdlRXphb2",
+        "published_time": "Tue, 17 Nov 2026 13:45:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 13:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeF95TmVKSDVSbGZDQmx0MHNtMThLR1NFVTF0akpuNlgyYlJzYlpnMS0tTHFEcnYwT0ZQdWIxUGVwa3J2cVo2QXROS01kVXJsd3E3aUQ2MzFhZnBhSGJYX21iUTZNY1BuMkdlRXphb2dEVVZKNEVnMlFEUVNrbW14SllISXdxT0JuNGV3NW9GUHJuR25JdG1kbVAxWWd3MnFwVlNzRE5oV05CRkl0ZldZV0t3VExTOXN2ellFc2I0OVpwSFl6N2hlWmpDSm5kODUzWE9YaDBxV2ZYcHBfd3VVVS1JTWg?oc=5"
+      },
+      {
+        "title": "2 Pharma Stocks That Could Benefit From Faster Drug Approvals and Growing Oncology Opportunities - Trade Brains",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 11:00:37 GMT+5 | 키워드+30 | 순위:210위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjRNZ1BXTlVZSGpLRmMwbHd3bTFFUlRQZWtTZEpUUzVXTHQ2dDU3Ry1TRm1JdTRZdEF2R2x4VGxRSlhZV0NHMFZzU3J0N0tYSUw1LUI0RkR4U3hmYnd0ckZueVoxZjA5WnBMSjItaW",
+        "published_time": "Tue, 17 Nov 2026 11:00:37 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 11:00:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjRNZ1BXTlVZSGpLRmMwbHd3bTFFUlRQZWtTZEpUUzVXTHQ2dDU3Ry1TRm1JdTRZdEF2R2x4VGxRSlhZV0NHMFZzU3J0N0tYSUw1LUI0RkR4U3hmYnd0ckZueVoxZjA5WnBMSjItaWEyeVhBNl90ajNhTkVVUmlMSmZ0VHZrbFBXczcyTWFGV2tuY2liSWJhRVpfc0FUdU5wX21IazIwYklobkNKM3F4MzNTakxMVTVBMDdDUERYQVdwaFoycWVydy1VY3ZTczNYenF1X0o5M1BWRGM?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        33
+      ],
+      [
+        "approval",
+        16
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "clinical trial",
+        3
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "regulation",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "quality",
+        2
+      ],
+      [
+        "recall",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 81,
+    "languages": {
+      "French / 프랑스어": 6,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 4,
+      "Portuguese / 포르투갈어": 9,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Kendi kendine ilaç kullanımı zararlı olabilir. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 08:03:42 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA3WEtNTVJ5STVfZFN2YmYwOGNvaDdhT2Mzd0VCTFp0MGRsSG10ZVYyYmxPeVRtUlBXTDYzRGdkbWJpbFo3MlhCTGhrelI5a0tXOFNPMmN5cVJNeG1femphWVpKWUJHOFVLOUdfTldxMD",
+        "published_time": "Tue, 17 Nov 2026 08:03:42 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 08:03:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3WEtNTVJ5STVfZFN2YmYwOGNvaDdhT2Mzd0VCTFp0MGRsSG10ZVYyYmxPeVRtUlBXTDYzRGdkbWJpbFo3MlhCTGhrelI5a0tXOFNPMmN5cVJNeG1femphWVpKWUJHOFVLOUdfTldxMDB5MGhaU3RBaQ?oc=5"
+      },
+      {
+        "title": "Noida News: ग्रेनो में सजेगा दवा उद्योग का वैश्विक बाजार - Amar Ujala",
+        "source": "",
+        "importance": 58,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 12:36:41 GMT+5 | 키워드+25 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMjBibmNzdXZLb0VyNVF0NF9zMzc2RGxmOTZ0R2xmSlNZRmx1T0dkZnNkdnJ1SkNnR1hmR0xWallqUm1lOS16RVhMUUNZZ1RveDh0NmtuM1hjb21GUl9IdkNlWE1ZcWZUS0lFWDJlX2",
+        "published_time": "Tue, 17 Nov 2026 12:36:41 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 12:36:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMjBibmNzdXZLb0VyNVF0NF9zMzc2RGxmOTZ0R2xmSlNZRmx1T0dkZnNkdnJ1SkNnR1hmR0xWallqUm1lOS16RVhMUUNZZ1RveDh0NmtuM1hjb21GUl9IdkNlWE1ZcWZUS0lFWDJlX2NBZEdwZFFtNnZFdTJ3dnRVN2VOUlc5dVFXZkRZQjZpUmgtbkFva2xwZm1pN093RGVUV2VHZkh2VUk5ZzlLNV9rcFBHUXRLdUtEX1BNa1dTd2tZQ1plUTJSbkdkUmhLU0lNRW1JbFZBZGt5U1pkMmUwdGItdVlWRXdSTEsxZzlwRDM3TUJ2alAwejlB0gH6AUFVX3lxTE0yMGJuY3N1dktvRXI1UXQ0X3MzNzZEbGY5NnRHbGZKU1lGbHVPR2Rmc2R2cnVKQ2dHWGZHTFZqWWpSbWU5LXpFWExRQ1lnVG94OHQ2a24zWGNvbUZSX0h2Q2VYTVlxZlRLSUVYMmVfY0FkR3BkUW02dkV1Mnd2dFU3ZU5SVzl1UVdmRFlCNmlSaC1uQW9rbHBmbWk3T3dEZVRXZUdmSHZVSTlnOUs1X2twUEdRdEt1S0RfUE1rV1N3a1lDWmVRMlJuR2RSaEtTSU1FbUlsVkFka3lTWmQyZTB0Yi11WVZFd1JMSzFnOXBEMzdNQnZqUDB6OUE?oc=5"
+      },
+      {
+        "title": "إطلاق أول دواء مغربي قائم على الكانابيديول يفتح آفاقاً جديدة أمام الصناعة الصيدلانية والبحث الطبي - كلامكم",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 12:55:37 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxNZlRZUDdsS25nbmJwM3pYVVBtbkk1NTdHb0dNUUN3dHFkLXh6c2pCdDNmeFd1UEJfWUdIbDd0Q2kxTHowaDlmR285WXdlMTRZQlJkVE9sN0JUZVFVYmpNNjBFNFM4TmpRUFJhWjE1bW",
+        "published_time": "Tue, 17 Nov 2026 12:55:37 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 12:55:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNZlRZUDdsS25nbmJwM3pYVVBtbkk1NTdHb0dNUUN3dHFkLXh6c2pCdDNmeFd1UEJfWUdIbDd0Q2kxTHowaDlmR285WXdlMTRZQlJkVE9sN0JUZVFVYmpNNjBFNFM4TmpRUFJhWjE1bWN0NUY1ODM5VFFHQlBHOGp5MUY0bUtLZ2NEUm5yT3Z0OUhfb2g2bUlUalZDUFdlQW1OalpzdUNmVUZ1dGNKRGhuYjlzUHN1dnNMbDg1NnhCQ29Hd0VIQWdMSEZpZlJ3U2dJdWtCc3hqemlmM1ZRc2hfTThlalY4UEkzdkU4dHlEY3lHQ1ZIY2VGRDQwdlA2LWRFRHlNMW9fTUJJeHluLXhub0tOMXJET3ZKcGFocUFmQVZ6ODFEMEZfTjZJWnhrVjZSNTR2TERKSDFmYnhaNDV0QVhCMlVLcTJGWGNPSXpYdw?oc=5"
+      },
+      {
+        "title": "Farmaceutica, emissioni giù del 64% in cinque anni: la sfida green dell’industria dei farmaci - Qui Salute Magazine",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 17:16:17 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE51eGFvZEpfa0o2bk15TEJKME5VV2g1R1pPemVDcWtPVnl6Z1hOcDNNbGVPVUpQY0xCZVVaZ3R1T2VNblZSUFZiRF9HNGlCNFlUclVjMHp2Z01HS1ZScFQwUm1uVWZaSERBRDMzTEF2Zw",
+        "published_time": "Tue, 17 Nov 2026 17:16:17 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 17:16:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51eGFvZEpfa0o2bk15TEJKME5VV2g1R1pPemVDcWtPVnl6Z1hOcDNNbGVPVUpQY0xCZVVaZ3R1T2VNblZSUFZiRF9HNGlCNFlUclVjMHp2Z01HS1ZScFQwUm1uVWZaSERBRDMzTEF2Zw?oc=5"
+      },
+      {
+        "title": "齐鲁制药3款产品纳入新版国家医保药品目录，累计超220个产品进医保 - ByDrug",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Tue, 17 Nov 2026 09:36:00 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5fR2lUeU9ZQTdwTDNhbk5TSjlpemFzbjgxTVowYklTbjF0b2lnbTJTYmtYVlI5ajZGdmNUUDNWYkFINWhEd0NTeERHeFRWZ21RNFdsN1dhOHlEUWtWNFVXamlZdmRTckdvbFdjakotX2",
+        "published_time": "Tue, 17 Nov 2026 09:36:00 GMT",
+        "modified_time": "",
+        "time": "Tue, 17 Nov 2026 09:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fR2lUeU9ZQTdwTDNhbk5TSjlpemFzbjgxTVowYklTbjF0b2lnbTJTYmtYVlI5ajZGdmNUUDNWYkFINWhEd0NTeERHeFRWZ21RNFdsN1dhOHlEUWtWNFVXamlZdmRTckdvbFdjakotX2JkSHVLUzEzTWhmQ1BoZw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

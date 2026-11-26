@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-16",
+  "total_articles": 265,
+  "language_breakdown": {
+    "korean": {
+      "total": 123,
+      "categories": {
+        "의약품": 23,
+        "의약산업": 16,
+        "의약정책": 13,
+        "의약단체": 22,
+        "의약관련정부기관": 7,
+        "의료현장": 9,
+        "약국·약사": 4,
+        "의료정책·인력": 9,
+        "전통의학": 5,
+        "감염·보건": 15
+      }
+    },
+    "english": {
+      "total": 101,
+      "categories": {
+        "Drugs & Therapies": 25,
+        "Pharma Industry": 25,
+        "Pharma Policy": 23,
+        "Pharma Associations": 25,
+        "Regulatory Agencies": 0,
+        "Traditional & Complementary Medicine": 3
+      }
+    },
+    "multilingual": {
+      "total": 41,
+      "languages": {
+        "French / 프랑스어": 2,
+        "German / 독일어": 1,
+        "Spanish / 스페인어": 3,
+        "Italian / 이탈리아어": 1,
+        "Portuguese / 포르투갈어": 0,
+        "Dutch / 네덜란드어": 1,
+        "Swedish / 스웨덴어": 0,
+        "Polish / 폴란드어": 0,
+        "Turkish / 터키어": 1,
+        "Russian / 러시아어": 8,
+        "Japanese / 일본어": 0,
+        "Chinese Simplified / 중국어": 1,
+        "Chinese Traditional / 대만": 1,
+        "Vietnamese / 베트남어": 10,
+        "Thai / 태국어": 1,
+        "Indonesian / 인도네시아어": 5,
+        "Hindi / 힌디어": 1,
+        "Arabic / 아랍어": 4,
+        "Hebrew / 히브리어": 1,
+        "Persian / 페르시아어": 0
+      }
+    }
+  },
+  "top_kr_keywords": [
+    {
+      "keyword": "신약",
+      "count": 11
+    },
+    {
+      "keyword": "급여",
+      "count": 8
+    },
+    {
+      "keyword": "한약",
+      "count": 8
+    },
+    {
+      "keyword": "임상",
+      "count": 7
+    },
+    {
+      "keyword": "비만",
+      "count": 6
+    },
+    {
+      "keyword": "약가",
+      "count": 3
+    },
+    {
+      "keyword": "실사",
+      "count": 2
+    },
+    {
+      "keyword": "허가",
+      "count": 2
+    },
+    {
+      "keyword": "FDA",
+      "count": 2
+    },
+    {
+      "keyword": "위고비",
+      "count": 1
+    },
+    {
+      "keyword": "오남용",
+      "count": 1
+    },
+    {
+      "keyword": "심사",
+      "count": 1
+    },
+    {
+      "keyword": "제네릭",
+      "count": 1
+    },
+    {
+      "keyword": "백신",
+      "count": 1
+    },
+    {
+      "keyword": "수출",
+      "count": 1
+    }
+  ],
+  "top_en_keywords": [
+    {
+      "keyword": "FDA",
+      "count": 9
+    },
+    {
+      "keyword": "GLP-1",
+      "count": 5
+    },
+    {
+      "keyword": "approval",
+      "count": 3
+    },
+    {
+      "keyword": "obesity",
+      "count": 2
+    },
+    {
+      "keyword": "shortage",
+      "count": 1
+    },
+    {
+      "keyword": "clinical trial",
+      "count": 1
+    },
+    {
+      "keyword": "generic",
+      "count": 1
+    },
+    {
+      "keyword": "vaccine",
+      "count": 1
+    },
+    {
+      "keyword": "safety",
+      "count": 1
+    }
+  ],
+  "top_kr_sources": [
+    {
+      "source": "약업닷컴",
+      "count": 3
+    },
+    {
+      "source": "약사공론",
+      "count": 3
+    },
+    {
+      "source": "전자신문 on MSN",
+      "count": 2
+    },
+    {
+      "source": "팜뉴스",
+      "count": 2
+    },
+    {
+      "source": "데일리팜",
+      "count": 2
+    },
+    {
+      "source": "데일리메디",
+      "count": 2
+    },
+    {
+      "source": "CBC뉴스",
+      "count": 1
+    },
+    {
+      "source": "핀포인트뉴스",
+      "count": 1
+    },
+    {
+      "source": "메디파나 뉴스",
+      "count": 1
+    },
+    {
+      "source": "뉴스1",
+      "count": 1
+    }
+  ],
+  "top_en_sources": [],
+  "yesterday_issues": [],
+  "clusters": [],
+  "uncategorized_articles": [
+    {
+      "title": "약사&#183;한약사 33년 갈등 평행선…정부, 언제쯤 해법 내놓나",
+      "source": "뉴스1 on MSN",
+      "importance": 52,
+      "snippet": "업무 범위&#183;약국 운영 놓고 대책 없이 대립연내 업무조정위 출범…약사제 개선 검토 약사와 한약사 간 해묵은 직역갈등이 좀처럼 해법을 찾지 못하고 있다. 약국 개설과 일반의약품 판매 등 업무 범위를 둘러싼 이견이 이어지는 데다 ...",
+      "url": "https://www.msn.com/ko-kr/news/other/%EC%95%BD%EC%82%AC-%ED%95%9C%EC%95%BD%EC%82%AC-33%EB%85%84-%EA%B0%88%EB%93%B1-%ED%8F%89%ED%96%89%EC%84%A0-%EC%A0%95%EB%B6%80-%EC%96%B8%EC%A0%9C%EC%AF%A4-%ED%95%B4%EB%B2%95-%EB%82%B4%EB%86%93%EB%82%98/ar-AA2hulUO?ocid=BingNewsVerp"
+    },
+    {
+      "title": "조선대 약대 31대 수도권동문회장에 최용석 부회장",
+      "source": "데일리팜",
+      "importance": 51,
+      "snippet": "조선대 약학대학 수도권동동문회 새 회장에 최용석 직전 부회장(대한약사회 부회장)이 추대됐다. 조대약대 수도권동문회는 15일 제64회 정기총회를 열고 최 전 부회장을 신임 회장으로 만장일치 선임했다. 최 신임 회장은 “시대가 ...",
+      "url": "https://www.dailypharm.com/user/news/344593"
+    },
+    {
+      "title": "조선약대 수도권동문회 새 회장에 최용석…&quot;동문 만남의 장 열겠다&quot;",
+      "source": "약사공론",
+      "importance": 45,
+      "snippet": "조선대학교 약학대학교 수도권 동문회의 제 31대 회장에 최용석 동문이 추대됐다. 조선약대 수도권동문회는 15일 오후 더 리버사이드호텔 루비홀에서 제64회 정기총회를 열고 최 새 회장을 만장일치로 추대했다.",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548992"
+    },
+    {
+      "title": "의료기관 정보보호 ‘평가인증 항목’ 추가 전망",
+      "source": "데일리메디",
+      "importance": 37,
+      "snippet": "﻿﻿﻿고도화되는 사이버 공격으로부터 소중한 의료정보를 보호하고 안전한 의료서비스 환경 조성을 위해 정부가 의료기관 지정&#183;평가&#183;인증 제도에 정보보호 지표를 반영을 검토한다.또 병원협회, 의사협회 등 의료계가 참여하는 협의체가 ...",
+      "url": "https://www.dailymedi.com/news/news_view.php?wr_id=942624"
+    }
+  ],
+  "cross_language_candidates": [
+    {
+      "keyword": "백신",
+      "kr_count": 1,
+      "en_count": 1
+    },
+    {
+      "keyword": "허가",
+      "kr_count": 2,
+      "en_count": 3
+    },
+    {
+      "keyword": "임상",
+      "kr_count": 7,
+      "en_count": 1
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "date": "2026-11-22",
+  "total": 267,
+  "version": 1,
+  "generated_at": "2026-11-22T06:30:37.083368+09:00",
+  "korean": {
+    "total": 121,
+    "categories": {
+      "의약품": 17,
+      "의약산업": 20,
+      "의약정책": 8,
+      "의약단체": 12,
+      "의약관련정부기관": 9,
+      "의료현장": 20,
+      "약국·약사": 1,
+      "의료정책·인력": 13,
+      "전통의학": 2,
+      "감염·보건": 19
+    },
+    "top_articles": [
+      {
+        "title": "'국내 제약바이오 기반' 전통 제약사, 산업 전반서 밀려난다",
+        "source": "메디파나 뉴스",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+25 | 순위:113위+2",
+        "snippet": "전통 제약사 외형 성장이 위탁생산(CMO), 신약개발 등 다른 사업군에 비해 뒤처지고 있는 것으로 확인된다. 이에 더해 수익성 확보 측면마저도 어려움은 계속되고 있다. 19일 나우팜컨설팅이 공개한 자료에 따르면, 전통(정통) ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422284"
+      },
+      {
+        "title": "AI가 진단 돕는 시대…전공의 수련에 닥친 '역량의 역설'",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:117위+2",
+        "snippet": "인공지능(AI)이 의료현장의 진단과 치료를 넘어 전공의 수련교육과 평가체계에까지 활용되면서, 미래 전문의를 양성하는 기준도 달라져야 한다는 제언이 나왔다. AI가 의학 지식과 임상적 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422305"
+      },
+      {
+        "title": "[제약공시 책갈피] 11월 3주차 - 삼진제약&#183;HLB 外",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:112위+2",
+        "snippet": "[메디파나뉴스 = 이정수 기자] 2026년 11월 3주차(11.16~11.20)에는 16일부로 3분기 정기 보고서 제출이 마감됐다. 삼진제약 파트너사 아리바이오가 경구용 초기 알츠하이머병 치료제 후보물질 'AR1001' ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422347"
+      },
+      {
+        "title": "FDA, 먹는 비만약&#183;표적항암제 등 29건 제네릭 개발 지침 공개…국내 기업 영향 주목",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:1일+10 | 키워드+20 | 순위:100위+2",
+        "snippet": "20일 본지 취재 결과, FDA는 19일 (현지시간) 신규 지침 15건과 기존 지침 개정안 14건을 발표했다. 이 가운데 24건은 아직 미국에서 제네릭이 승인되지 않은 의약품을 대상으로 한다. 복합의약품 관련 지침은 신규 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=351743"
+      },
+      {
+        "title": "카프리코 '데라미오셀' FDA 승인 재차 좌절…임상 데이터 신뢰성 확보가 관건",
+        "source": "medicaldaily.co.kr",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:medicaldaily.co.kr+10 | 최신:9시간+15 | 키워드+20 | 순위:51위+2",
+        "snippet": "카프리코 테라퓨틱스의 뒤셴 근이영양증 세포 치료제 '데라미오셀'이 미국 식품의약국(FDA)으로부터 두 번째 승인 거부 통보를 받았다. 회사는 적응증을 좁히며 돌파구를 모색했으나, 당국은 여전히 임상 시험의 중대한 결함을 ...",
+        "published_time": "9시간",
+        "modified_time": "",
+        "time": "9시간",
+        "url": "https://www.medicaldaily.co.kr/post/124268"
+      },
+      {
+        "title": "미국 환자 근거 따진 FDA, 자국 심사는 해외 공유…식약처 기준은",
+        "source": "청년의사",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:1일+10 | 키워드+25 | 순위:52위+2",
+        "snippet": "미국 식품의약국(FDA)은 서밋 테라퓨틱스(Summit Therapeutics)가 신청한 '이보네시맙(ivonescimab)'의 폐암 적응증 허가를 거절하면서 중국 환자에게 집중된 임상 결과를 미국 환자에게 적용할 수 있는지 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044727"
+      },
+      {
+        "title": "미 FDA, 의약품 허가 심사자료 해외 공유 지원",
+        "source": "메디포뉴스",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디포뉴스+10 | 최신:10시간+15 | 키워드+20 | 순위:53위+2",
+        "snippet": "미국 식품의약국(FDA)이 자국의 의약품 허가 심사자료를 해외 규제기관이 참고할 수 있도록 신청 기업에 제공하는 프로그램을 마련했다. 해외 규제기관이 기존 평가를 활용해 중복 심사를 줄이도록 돕되, 허가 여부는 각 기관이 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.medifonews.com/news/article.html?no=219132"
+      },
+      {
+        "title": "야간 근무 의사도 간호사도 부족… 요양병원 ‘당직 의료인 인력난’ [간병 리포트]",
+        "source": "헬스조선 on MSN",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스조선 on MSN+10 | 최신:1일+10 | 키워드+25 | 순위:118위+2",
+        "snippet": "요양병원 당직의는 야간에 환자에게 발생하는 각종 의료적 증상을 관리&#183;처치하고, 상황에 따라 적절히 대응하는 일을 맡는다. 유사시 보호자에게 환자의 상태를 전화로 알리고 처치하거나, 주치의가 환자에게 처방해 둔 약을 투약하거나 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.msn.com/ko-kr/health/other/%EC%95%BC%EA%B0%84-%EA%B7%BC%EB%AC%B4-%EC%9D%98%EC%82%AC%EB%8F%84-%EA%B0%84%ED%98%B8%EC%82%AC%EB%8F%84-%EB%B6%80%EC%A1%B1-%EC%9A%94%EC%96%91%EB%B3%91%EC%9B%90-%EB%8B%B9%EC%A7%81-%EC%9D%98%EB%A3%8C%EC%9D%B8-%EC%9D%B8%EB%A0%A5%EB%82%9C-%EA%B0%84%EB%B3%91-%EB%A6%AC%ED%8F%AC%ED%8A%B8/ar-AA2hNF0e?ocid=BingNewsVerp"
+      },
+      {
+        "title": "전북 하수서 독감&#183;코로나19 바이러스 증가…호흡기 감염병 주의",
+        "source": "투데이안",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:투데이안+10 | 최신:1일+10 | 키워드+25 | 순위:114위+2",
+        "snippet": "-독감 바이러스 농도 최근 1만 copies/mL…유행주의보 직전보다 5배 증가-하수 감시망 6개 시군 확대…감시율 72.7%로 전국 도 단위 최고[투데이안] 전북특별자치도 내 하수에서 인플루엔자(독감)와 코로나19 바이러스 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.todayan.com/news/articleView.html?idxno=638065"
+      },
+      {
+        "title": "제약바이오협회, CSO 규제 강화에 업계 대응 방안 모색",
+        "source": "히트뉴스",
+        "importance": 46,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:1일+10 | 키워드+10 | 순위:69위+2",
+        "snippet": "[히트뉴스=허승아 기자] 한국제약바이오협회가 의약품 판촉영업자(CSO) 규제와 디지털 헬스케어 등 제약바이오 업계의 윤리경영 현안을 논의했다.20일 한국제약바이오협회는 지난 19일 서울 서초구 협회 강당에서 '2026년 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80955"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        8
+      ],
+      [
+        "FDA",
+        8
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "심사",
+        6
+      ],
+      [
+        "약가",
+        5
+      ],
+      [
+        "항암",
+        4
+      ],
+      [
+        "R&D",
+        4
+      ],
+      [
+        "허가",
+        3
+      ],
+      [
+        "급여",
+        3
+      ],
+      [
+        "제네릭",
+        2
+      ],
+      [
+        "식약처",
+        2
+      ],
+      [
+        "비만",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "백신",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        5
+      ],
+      [
+        "medicaldaily.co.kr",
+        4
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "핀포인트뉴스",
+        2
+      ],
+      [
+        "팜뉴스 on MSN",
+        2
+      ],
+      [
+        "약사공론",
+        2
+      ],
+      [
+        "데일리메디",
+        2
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "더바이오",
+        1
+      ],
+      [
+        "베타뉴스 on MSN",
+        1
+      ],
+      [
+        "뉴스로드",
+        1
+      ],
+      [
+        "기계신문",
+        1
+      ],
+      [
+        "financialpost",
+        1
+      ],
+      [
+        "쿠키뉴스 on MSN",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 101,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 23,
+      "Pharma Associations": 18,
+      "Regulatory Agencies": 8,
+      "Traditional & Complementary Medicine": 2
+    },
+    "top_articles": [
+      {
+        "title": "Could This Traditional Chinese Herbal Blend Help Protect Diabetic Kidneys? - Dr. Axe",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 11:04:37 GMT+5 | 키워드+30 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDA0SFhUNktPZ21MN1VPcDJrTXhxUktDa25MR2NxR3FTSm1SdkNlMGNOOEk3UHNMN1lmTjBCWEpHb0V5RGtoYVJrTjhSSDRWcFpscXNRbWxkejBKeDNOeTZOTHZxU3RNMlkzR0tUUG",
+        "published_time": "Sat, 21 Nov 2026 11:04:37 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 11:04:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVDA0SFhUNktPZ21MN1VPcDJrTXhxUktDa25MR2NxR3FTSm1SdkNlMGNOOEk3UHNMN1lmTjBCWEpHb0V5RGtoYVJrTjhSSDRWcFpscXNRbWxkejBKeDNOeTZOTHZxU3RNMlkzR0tUUGZ4cTlmaEJ4SjJveVI2bW9fai04Zm1Vd0FqYmFqeXI1ZXFlYlJBcUdaMzFsdnNLYUhEdWRFR3VGRl9pNmhHR1E?oc=5"
+      },
+      {
+        "title": "Pharma Co. Restructures Royalties Refocuses on Rare Disease Drug After Poor Trial Results - Streetwise Reports",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 11:05:24 GMT+5 | 키워드+30 | 순위:107위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYnpUT2R6aGczVkFSN1YybUJFR1hzWTVlUlJPTDkxOUxxNExHT0FfYjhETmh4ZVdhREJ2cWQtNnlTazFxQXpRMHU2VFFZamp6blJOZ2hnMlpSR2U2V3J3Z2dFNWhOeW10TkQzVzRIcj",
+        "published_time": "Sat, 21 Nov 2026 11:05:24 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 11:05:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYnpUT2R6aGczVkFSN1YybUJFR1hzWTVlUlJPTDkxOUxxNExHT0FfYjhETmh4ZVdhREJ2cWQtNnlTazFxQXpRMHU2VFFZamp6blJOZ2hnMlpSR2U2V3J3Z2dFNWhOeW10TkQzVzRIcjRhSnU2VzZnQVZCQzdqaXdjMTMyLUc3X1ZOVFJDNkFUMEtFS21iUkR3RmFqM0pnZEctRUtSVDlwT0JwNFhvQWhzVl9ZSzNaanFjek1taXhxeFR2RVNVZkRhekpxalBycnJiMUstblo5X1lQaTQzNmtZ?oc=5"
+      },
+      {
+        "title": "Alnylam Pharmaceuticals (ALNY) Wins FDA Approval in Myasthenia Gravis With Seventh RNAi Drug - Simply Wall St",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 11:09:13 GMT+5 | 키워드+30 | 순위:111위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZjJEWjJDY1hUb3dVZlc0ZkZ0aTlleGNieEQweWw1dnJObml5VGZuUG5ZQXJuLUVmc3pnOENNRHVKOUxDT2NPWFBZT3ktNlVNSXVpVWVVaVpnV1R1OG5rbE9QdHlzVnFOZDBqVTR1Vz",
+        "published_time": "Sat, 21 Nov 2026 11:09:13 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 11:09:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZjJEWjJDY1hUb3dVZlc0ZkZ0aTlleGNieEQweWw1dnJObml5VGZuUG5ZQXJuLUVmc3pnOENNRHVKOUxDT2NPWFBZT3ktNlVNSXVpVWVVaVpnV1R1OG5rbE9QdHlzVnFOZDBqVTR1VzVyajNFeF9pcUNoN0FwYXVORU0zSFdoMHlOQWpjMTdyMC0zSlNGclM5Q3dDZi1TTFlkNjdUZWNNQ3lucm5wWFhMNGFVb3lkQ1hYYlFUdEtJb0xCdTJNQUdKV0xNa1Z2OEl1aEVmRkI1TVhOd3NuUXpyaDRvRWFWa0NLR0ZSb21R0gHzAUFVX3lxTFBGM29qN0tUdmczNVJGVTgtNW9CUDRjaXRUR3JtOWRnSlFUQXd2ZUU0ZnZMejF1MkFiMDBpOHlaZVV5QnBRRzFONDQ2WWZOdXY3ZWgzRUY2Slh3UTdpYTRUQjhBYmc4aVlCZWFhU1k1bTJEek1hTFhwT2hGNUwxeXVCSHhJc0Y0RjM5bGxYZ2VJdXpSRnhvVGV4Y2N3QVUxT0EwNUlUdFdtTktKWFM0ZFhVWmN3OFAwb2F4eEZvYmszbnlEcE84WnNYWU9SRzdnTlFkbGh5NzZKWHNiYWt4bHRwVlBLbEZKV0pFd1VURVgxZlRVTQ?oc=5"
+      },
+      {
+        "title": "Dual Drug Approvals Could Be A Big Moment For Sanofi Stock (ENXTPA:SAN) - Simply Wall St",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 15:14:07 GMT+5 | 키워드+30 | 순위:114위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV3NGYzlRMEhta3ZlWHN4WWp2SDNnN21OU0RrZ0hibjdXWGNVY0Y2V3NRczhJTWJobndfc2c1MU0yQlYwVHZwWkZCX2dXelk1dzJKYnRIY21ZVmNjSWN3V2RSek13LTVGQ1hZOUpPLW",
+        "published_time": "Sat, 21 Nov 2026 15:14:07 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 15:14:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV3NGYzlRMEhta3ZlWHN4WWp2SDNnN21OU0RrZ0hibjdXWGNVY0Y2V3NRczhJTWJobndfc2c1MU0yQlYwVHZwWkZCX2dXelk1dzJKYnRIY21ZVmNjSWN3V2RSek13LTVGQ1hZOUpPLWhkckxaMWZETGVLbUlCM1h2X2U2V3p4NFRVaUF3VURYNlEyYmt1OVRJcklGbVQ2OHg5b2lOTjR6LTRsNDBwUmF0LWN4YzBQdE5fNm9YUi1tZnFyOU5vZkZRQ3o0RlBERk9VbnRMbmtRQ21pcUNSNWRXRNIB4AFBVV95cUxQV3NGYzlRMEhta3ZlWHN4WWp2SDNnN21OU0RrZ0hibjdXWGNVY0Y2V3NRczhJTWJobndfc2c1MU0yQlYwVHZwWkZCX2dXelk1dzJKYnRIY21ZVmNjSWN3V2RSek13LTVGQ1hZOUpPLWhkckxaMWZETGVLbUlCM1h2X2U2V3p4NFRVaUF3VURYNlEyYmt1OVRJcklGbVQ2OHg5b2lOTjR6LTRsNDBwUmF0LWN4YzBQdE5fNm9YUi1tZnFyOU5vZkZRQ3o0RlBERk9VbnRMbmtRQ21pcUNSNWRXRA?oc=5"
+      },
+      {
+        "title": "CMS Finalizes Medicare Drug Price Negotiation Rules - Legis1",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 15:26:39 GMT+5 | 키워드+30 | 순위:115위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBsejNfNjR1VmtncUc0aUlzWGlPS2FLaV9HVDNvNDVpNGtPN0dmaVBTdzBNUWtQUlZJbHV0bnZGUmhYZng3NDFxNDVuTVlKLXQybnlJQjM0MGN4Mk5qbjFvMzJqdDJneFJZMjhpVkMwVj",
+        "published_time": "Sat, 21 Nov 2026 15:26:39 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 15:26:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsejNfNjR1VmtncUc0aUlzWGlPS2FLaV9HVDNvNDVpNGtPN0dmaVBTdzBNUWtQUlZJbHV0bnZGUmhYZng3NDFxNDVuTVlKLXQybnlJQjM0MGN4Mk5qbjFvMzJqdDJneFJZMjhpVkMwVjlrbl9iZVY4NlI1V1o?oc=5"
+      },
+      {
+        "title": "Can a WT1 cancer vaccine succeed where others failed? - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 19:02:53 GMT+5 | 키워드+30 | 순위:116위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNUm5rME00c3BBZWhrd09ndFFHd1pmOVVUTDNXSEJ5dFVlamhERjRvenlsb3NDWnpaZzIyS3BCMHV5YUp6MG9LaUZTbngzRlJvOEFycDU3SFBfT3Z5NjRjRzNKdHg4Si1Ta2hRdUxmMl",
+        "published_time": "Sat, 21 Nov 2026 19:02:53 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 19:02:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUm5rME00c3BBZWhrd09ndFFHd1pmOVVUTDNXSEJ5dFVlamhERjRvenlsb3NDWnpaZzIyS3BCMHV5YUp6MG9LaUZTbngzRlJvOEFycDU3SFBfT3Z5NjRjRzNKdHg4Si1Ta2hRdUxmMlRGMDRFNmxLQnE0RWR5ZWtuZjhLcV8zSnIxSWVELWNJNGtDVHk0ak9N?oc=5"
+      },
+      {
+        "title": "Federal inquiry targets online clinics peddling ‘wonder-drug’ peptides - SMH.com.au",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 11:09:12 GMT+5 | 키워드+30 | 순위:117위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVRQR2VvdUI0RFp0OXZlNDExQUlKdEwteUZTS3dGakZKaUJsLUkzSDU0Y2hJcHZqLXBqM05rdk8yNVpHZmt0RmRuUHBUUGRxME15ZTAtMTIxZUhjdXFadFZKblpKX3lBYmdYY3Q3UE",
+        "published_time": "Sat, 21 Nov 2026 11:09:12 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 11:09:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVRQR2VvdUI0RFp0OXZlNDExQUlKdEwteUZTS3dGakZKaUJsLUkzSDU0Y2hJcHZqLXBqM05rdk8yNVpHZmt0RmRuUHBUUGRxME15ZTAtMTIxZUhjdXFadFZKblpKX3lBYmdYY3Q3UE9YRm82X1dtQXpRcTNReW9Rc2h3TGpRRVRtRnNvb1J0RDBuZUtBZzY5VnVZSHJ1dkZBWk9YaEpYZHZVYlZLd0JpSjRBTUdfY3luUWNfWjRPSXhUV21EaHV5LQ?oc=5"
+      },
+      {
+        "title": "Transparent drug pricing, expanded health insurance benefits. - Vietnam.vn",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 09:30:10 GMT+5 | 키워드+30 | 순위:118위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPT29fVG5nT0liR3BReXp0U05WcDZtSFEtLUNQQTZpLU4xZlctcFZfUWR5cDloNjN5Rzg1VzJyT2RrZDB5R2RPblBqRms4MEkwTTFWa0poaUFYZExxQkR3bkc0LXJGcTRYVnRWaGNZdX",
+        "published_time": "Sat, 21 Nov 2026 09:30:10 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 09:30:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT29fVG5nT0liR3BReXp0U05WcDZtSFEtLUNQQTZpLU4xZlctcFZfUWR5cDloNjN5Rzg1VzJyT2RrZDB5R2RPblBqRms4MEkwTTFWa0poaUFYZExxQkR3bkc0LXJGcTRYVnRWaGNZdXlfb0FzT3ZNRVZ6c2l3SmM2clVrUQ?oc=5"
+      },
+      {
+        "title": "Computational Tools Aid Drug Repurposing but Clinical Validation Remains Limited - Bioengineer.org",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 14:42:45 GMT+5 | 키워드+30 | 순위:119위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXQ0Q3prdnlrTGRiQnhYQmFFR2VZZ0MtNlJ5MGktNURET2FzclN6Mlh1dExva2NpM2NpWGozTnkzS29sX0hVaVVQWGNfaTV0U1l6Y1Eya3Y1XzhnN0lYLXQxR0xxN3BRRXo4dWhlRW",
+        "published_time": "Sat, 21 Nov 2026 14:42:45 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 14:42:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXQ0Q3prdnlrTGRiQnhYQmFFR2VZZ0MtNlJ5MGktNURET2FzclN6Mlh1dExva2NpM2NpWGozTnkzS29sX0hVaVVQWGNfaTV0U1l6Y1Eya3Y1XzhnN0lYLXQxR0xxN3BRRXo4dWhlRWhLeDk3cWo2Z3FzbE1ZY3otVjZrUWpWM1hoTS1WQmpSYzJXbW13VDJVVE5Xai1iVUpyaUtsZ1AzRFY?oc=5"
+      },
+      {
+        "title": "FDA Misses Sunday Savara Decision Date on Inhaled Lung Drug: No Rejection, No New Date - Tech Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 20:52:54 GMT+5 | 키워드+30 | 순위:120위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUNuUmZfbUt6TmZUZWtNcEhTcXIyVGNnN0tKS1czTjBQQmR2ODJVb0diTWk0cU96dGFZRXcyUGRNeTlqVldBcXdpUjVkMEp1T0MwZTMtaG9qUGw4SEZscTk1V0x0QXZCeUFTMXZmMk",
+        "published_time": "Sat, 21 Nov 2026 20:52:54 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 20:52:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUNuUmZfbUt6TmZUZWtNcEhTcXIyVGNnN0tKS1czTjBQQmR2ODJVb0diTWk0cU96dGFZRXcyUGRNeTlqVldBcXdpUjVkMEp1T0MwZTMtaG9qUGw4SEZscTk1V0x0QXZCeUFTMXZmMkY5WDlfbkN2RXdlanhJdHdqMENqMUxyTUVCWnFHb0JTaGZzY3hMYkx2bzVYb2V5LTRXdjFSU0FwYktVeDVQb0YwWFhnSjFZYmVJc29Cbkk3Z3k2VnN2MzhJUVppUVA3Y202eFE?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        18
+      ],
+      [
+        "vaccine",
+        6
+      ],
+      [
+        "approval",
+        4
+      ],
+      [
+        "pricing",
+        3
+      ],
+      [
+        "GLP-1",
+        2
+      ],
+      [
+        "inspection",
+        2
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "biosimilar",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "regulation",
+        1
+      ],
+      [
+        "manufacturing",
+        1
+      ],
+      [
+        "quality",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 45,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 0,
+      "Italian / 이탈리아어": 0,
+      "Portuguese / 포르투갈어": 2,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 7,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Marché des médicaments contre la dysfonction érectile : prévisions 2035, portées par la prévalence et la télémédecine - Actualités et statistiques - IndexBox",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 16:06:04 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFhMcHg1OFZYT0w5WEJYdExRaWFIZUZkSmQ5REkxbDE5ZkFwemRGSGdZWU9zZHhLeXZSc3NnWVpzWjJJbHY2WkFaX1k5bHVzVkVQa3RrMWx6Q3c2QzNrWWlrV3ZtOUJGVXBXUERHcV",
+        "published_time": "Sat, 21 Nov 2026 16:06:04 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 16:06:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNFhMcHg1OFZYT0w5WEJYdExRaWFIZUZkSmQ5REkxbDE5ZkFwemRGSGdZWU9zZHhLeXZSc3NnWVpzWjJJbHY2WkFaX1k5bHVzVkVQa3RrMWx6Q3c2QzNrWWlrV3ZtOUJGVXBXUERHcVczdmdhWEQybmpUSEkwNUJfNm0tMVYwMnU3d1A4bjZJQnp1SEZQWDg2X2IxV093ZklJdkVES1FRc0FZQVB6SE1mY25wYmRLZXpBOFhrYzV4LTRWaEN4bTlhRDdubWV5QQ?oc=5"
+      },
+      {
+        "title": "Medicamentos podem ficar mais caros em janeiro: quanto pode subir o preço na farmácia? - Postal do Algarve",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 09:03:41 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWE00VDVDbU9zbUV0a3ZKck1SMU5SUXFmbXN5a1RxT0ppbm41LWMxZ0I0LTMza0dQOGFzaXFCNUZYM3ZlTzR0aFU2RWpIOE4zVE41RnV2eEt2blVKX050V2F6UHJlUmFpOXI5X3pvT3",
+        "published_time": "Sat, 21 Nov 2026 09:03:41 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 09:03:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWE00VDVDbU9zbUV0a3ZKck1SMU5SUXFmbXN5a1RxT0ppbm41LWMxZ0I0LTMza0dQOGFzaXFCNUZYM3ZlTzR0aFU2RWpIOE4zVE41RnV2eEt2blVKX050V2F6UHJlUmFpOXI5X3pvT3YtZXhhbFQzdGNCMEJLNF9mYXlvaUJORGlHOHJBWUdjNjR0ZzdycDRoQ014WklRcjBPT3JJTzJHakRFbm9oMHp2Smln?oc=5"
+      },
+      {
+        "title": "Lancement de la première école doctorale nationale en industrie pharmaceutique - El Khabar",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 18:40:00 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDVxVkpWYk9jc1IxYTFKOGUyTTNHVi1lQ05DbnJFWHI3VFBDdF9qcU5FVVZaeHdFb0tPMVdyQ0pOWS1BanJqYTV6WmpHUU9KczNsT2VZWXNPYnVjeG1WLVdhR2p6Y2ctWXZFZmd1UW",
+        "published_time": "Sat, 21 Nov 2026 18:40:00 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 18:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDVxVkpWYk9jc1IxYTFKOGUyTTNHVi1lQ05DbnJFWHI3VFBDdF9qcU5FVVZaeHdFb0tPMVdyQ0pOWS1BanJqYTV6WmpHUU9KczNsT2VZWXNPYnVjeG1WLVdhR2p6Y2ctWXZFZmd1UWZTVkVmY0JVRkxwRlRxc1BscjZyRzdVYlNDdDRPZkU2WXhqcjV1NEl0S2U1VXdUS0NTTENoMGsybTdabHFyRFJSRkthQnAxT0xNLVQyVQ?oc=5"
+      },
+      {
+        "title": "Os jovens estão aproximando o conhecimento da medicina tradicional do público. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 10:27:24 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNamNZU0thN3BHeFZ3NHlLNjd1NWVlUV81WUEta0pJMzNLWDh0M1dCZUZqcUQ1TjRTY3JiS21uM0JHci10em10Vk9pU3MxaUxfMkxFZkF6OXpjUm5WMHBUV1ZSeHhWckpLRjZoUVJ5cG",
+        "published_time": "Sat, 21 Nov 2026 10:27:24 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 10:27:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNamNZU0thN3BHeFZ3NHlLNjd1NWVlUV81WUEta0pJMzNLWDh0M1dCZUZqcUQ1TjRTY3JiS21uM0JHci10em10Vk9pU3MxaUxfMkxFZkF6OXpjUm5WMHBUV1ZSeHhWckpLRjZoUVJ5cGI0dDdzZVgzd0NmampoVkRYRGhaWUx1aVJHdHpOd0ptRTNPZw?oc=5"
+      },
+      {
+        "title": "رائد عامر يأخذ المشاركين بورشة خاصة في رحلة إلى أسرار الأعشاب الطبية والزيوت الطبيعية - PANET",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sat, 21 Nov 2026 13:06:57 GMT+5 | 키워드+25 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE80dVFzbmZYZlZ1WXFTOTNYVGROZjNIV2hhVU93bkRqU25SRjBJdnhsSVA2LXNHeHhoZEhJY0h2Q2xQdWJINGc?oc=5\" target=\"_blank\">رائد عامر يأخذ المشاركين بورشة خ",
+        "published_time": "Sat, 21 Nov 2026 13:06:57 GMT",
+        "modified_time": "",
+        "time": "Sat, 21 Nov 2026 13:06:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80dVFzbmZYZlZ1WXFTOTNYVGROZjNIV2hhVU93bkRqU25SRjBJdnhsSVA2LXNHeHhoZEhJY0h2Q2xQdWJINGc?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

@@ -1,0 +1,540 @@
+{
+  "date": "2026-11-14",
+  "total": 376,
+  "version": 1,
+  "generated_at": "2026-11-14T06:30:44.115035+09:00",
+  "korean": {
+    "total": 176,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 14,
+      "의약단체": 25,
+      "의약관련정부기관": 14,
+      "의료현장": 15,
+      "약국·약사": 2,
+      "의료정책·인력": 25,
+      "전통의학": 6,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "&quot;의약품 규제 위상↑&quot;…식약처, PIC/S 평가단 참여",
+        "source": "뉴시스",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴시스+28 | 최신:1일+10 | 키워드+20 | 순위:81위+2",
+        "snippet": "[서울=뉴시스]이소헌 기자 = 식품의약품안전처가 다른 국가에 대해 국제협의체 가입 적합성을 평가하는 합동평가단에 참여하게 됐다.식약처는 지난 2014년 의약품실사상호협력기구(PIC/S)에 가입한 이후 처음으로 다른 국가 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.newsis.com/view/NISX20261112_0003864888"
+      },
+      {
+        "title": "바이오카디아, 일본 승인 신청&#183;FDA 일정 구체화에 투자자 관심 집중",
+        "source": "매일경제 증권",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일경제 증권+28 | 최신:21시간+10 | 키워드+20 | 순위:82위+2",
+        "snippet": "일본 승인 신청을 2026년 4분기~2027년 1분기로 제시하고, Helix의 FDA 승인을 2027년 중반으로 목표하면서 규제 일정이 구체화됐습니다. 상업화 가능성에 대한 기대가 커지며 매수세가 유입된 것으로 보입니다.",
+        "published_time": "21시간",
+        "modified_time": "",
+        "time": "21시간",
+        "url": "https://stock.mk.co.kr/news/view/1198620"
+      },
+      {
+        "title": "교차고용 금지에 한약사 발끈…&quot;재산권&#183;직업수행 자유 영향&quot;",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+20 | 순위:35위+2",
+        "snippet": "약사회의 교차고용 금지 주장에 한약사단체가 발끈하며 연일 비판 성명을 내고 있다. 교차고용 제한은 단순히 약국 운영 방식을 변경하는 문제가 아닌, 한약사들의 재산권과 직업수행의 자유에 중대한 영향을 미칠 수 있는 중대한 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.dailypharm.com/user/news/344477"
+      },
+      {
+        "title": "블루제이 다이어그노스틱, SYMON-II 등록 완료&#183;FDA 신청 내년 상반기",
+        "source": "매일경제 증권",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:매일경제 증권+28 | 최신:11시간+15 | 키워드+10 | 순위:83위+2",
+        "snippet": "핵심 임상 등록 완료와 제조 이원화로 FDA 신청 일정의 불확실성이 줄어든 점은 긍정적이에요. 다만 현금이 2027년 2분기까지만 버틸 수 있어 증자에 따른 희석 부담과 최종 임상 결과 리스크는 주가 상단을 제한할 수 있어요 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://stock.mk.co.kr/news/view/1198798"
+      },
+      {
+        "title": "온누리상품권 제동 걸린 성지약국…주변 약국 반사이익",
+        "source": "데일리팜",
+        "importance": 54,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:1일+10 | 키워드+10 | 순위:12위+10",
+        "snippet": "전 품목 착한가격을 내세우며 문전성시를 이루던 서울 남대문 시장 인근 성지약국의 온누리상품권 사용이 전격 중단되면서 희비가 교차하는 모습이다. 정부의 온누리상품권 가맹점 관리 기준 강화 조치가 본격 시행되면서 약국가의 지각변동이 현실화되는 양상이다. 9일 지역 약국가에 따르면 온누리 성지로 꼽히며 높은 매출액을 기록해 온 A약국의 온누리상품권 가맹점 제휴가",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.dailypharm.com/user/news/344357"
+      },
+      {
+        "title": "복지위, HPV 여성 예방접종 연령 확대&#183;고면역원성 독감백신 도입 예산 증액",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:3시간+20 | 키워드+20 | 순위:156위+2",
+        "snippet": "[의학신문&#183;일간보사=이재원 기자] 국회 보건복지위원회가 2027년도 국가예방접종 예산을 대폭 증액하면서, 사람유두종바이러스 (HPV) 예방접종 지원 대상을 26세 여성까지 확대하고, 고령층 인플루엔자 백신을 고면역원성 백신으로 전환하는 방안을 추진한다.",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3016391"
+      },
+      {
+        "title": "비대면진료 플랫폼 약국 노출 '규제'…약 배송 기준도 '더 촘촘하게'",
+        "source": "약사공론",
+        "importance": 48,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:1일+10 | 키워드+10 | 순위:11위+10",
+        "snippet": "약국 목록은 거리와 운영시간 등 객관적 기준으로 정렬해야 한다. 특정 약국 이용을 유도하는 본인부담금 할인이나 적립금 제공, 부당한 배송료 차등 적용, 약국 방문 수령을 기피하도록 하는 광고도 제한된다. 플랫폼은 노출&#183;연결 기준과 변경 이력을 3년간 보존해야 한다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548716"
+      },
+      {
+        "title": "차바이오텍 3분기 연결 매출 9,016억원...수익사업 성장세 - 글로벌경제신문",
+        "source": "",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 08:42:50 GMT+5 | 키워드+25 | 순위:146위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1iTTNUWXo2NUNSa2xXZXZDSEI5SGI0UEUzb1hTQjBZQXRNaDFXZjhtWnpHUG83YnpqdXBNa2Y0TnpzZmVDTVVwNlU5UU9teHFBWDZwU2l4N2VmV1g4Q2MzV2VJZDUzTmVnbjlkTNIBcE",
+        "published_time": "Fri, 13 Nov 2026 08:42:50 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 08:42:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iTTNUWXo2NUNSa2xXZXZDSEI5SGI0UEUzb1hTQjBZQXRNaDFXZjhtWnpHUG83YnpqdXBNa2Y0TnpzZmVDTVVwNlU5UU9teHFBWDZwU2l4N2VmV1g4Q2MzV2VJZDUzTmVnbjlkTNIBcEFVX3lxTE5JQ3poMjNLM0U5TjZoM3BEeW9Iblp5UnNqamFVQklMZUFDSVJSMlhESThSS3VnWWMtLUpnd0lqV2w2dG1ESlZLLW44RWdJa0xaS2I2Um9taGRxWTV2N1BvR2ZvbjNHaUtxeDZxN0JFcE8?oc=5"
+      },
+      {
+        "title": "“제형 바꿔도 약가협상 대상”…美 약가 인하 파고, K바이오 수익 공식 흔드나",
+        "source": "바이오타임즈",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:바이오타임즈+10 | 최신:1일+10 | 키워드+20 | 순위:80위+2",
+        "snippet": "[바이오타임즈] 미국 정부가 의약품 가격을 낮추기 위한 정책을 확대하면서 국내 제약&#183;바이오 기업의 미국 사업 전략에도 변화가 예상된다. 인플레이션감축법(IRA)에 따른 메디케어 약가협상과 트럼프 행정부의 최혜국(MFN) 약가 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36129"
+      },
+      {
+        "title": "최근 5년간 건보공단 약가협상 결렬 약제 사유 살펴보니...",
+        "source": "뉴스더보이스헬스케어",
+        "importance": 42,
+        "stars": "⭐⭐",
+        "evidence": "출처:뉴스더보이스헬스케어+10 | 최신:15시간+10 | 키워드+20 | 순위:81위+2",
+        "snippet": "2022년부터 올해 8월까지 국민건강보험공단과의 협상이 결렬된 약제는 38품목으로 집계됐다. 결렬 사유는 약가와 예상청구금액에 대한 이견이 27품목으로 가장 많았다. 위험분담 조건, 업체 본사의 공급계획, 생산 증빙 미제출도 ...",
+        "published_time": "15시간",
+        "modified_time": "",
+        "time": "15시간",
+        "url": "https://www.newsthevoice.com/news/articleView.html?idxno=48057"
+      }
+    ],
+    "top_keywords": [
+      [
+        "임상",
+        19
+      ],
+      [
+        "신약",
+        14
+      ],
+      [
+        "약가",
+        9
+      ],
+      [
+        "급여",
+        9
+      ],
+      [
+        "비만",
+        8
+      ],
+      [
+        "허가",
+        7
+      ],
+      [
+        "식약처",
+        7
+      ],
+      [
+        "한약",
+        3
+      ],
+      [
+        "FDA",
+        3
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "공급망",
+        1
+      ],
+      [
+        "특허",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        5
+      ],
+      [
+        "청년의사",
+        4
+      ],
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "약사공론",
+        3
+      ],
+      [
+        "메디칼업저버",
+        3
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "매일경제 증권",
+        2
+      ],
+      [
+        "의협신문",
+        2
+      ],
+      [
+        "바이오타임즈",
+        1
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        1
+      ],
+      [
+        "한국사회복지저널",
+        1
+      ],
+      [
+        "hdnews",
+        1
+      ],
+      [
+        "코리아헬스로그",
+        1
+      ],
+      [
+        "국제뉴스",
+        1
+      ],
+      [
+        "한국스포츠통신",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 103,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 18,
+      "Regulatory Agencies": 3,
+      "Traditional & Complementary Medicine": 7
+    },
+    "top_articles": [
+      {
+        "title": "Peptide gold rush: US policy shift exposes safety and regulatory gaps. - Personal Care Insights",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 15:21:29 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEY2ZldSbkw5UGk1WHc5d1dJYkMtbU1sdG9tOHI4enlaS0pYajRDdXh0SmtrSEU0VGk5cURybFNTZEpUMFBrTTJyOU95akpRLU9iWUdMOWN4Qzd6a2VEZmxvam0tV2NpZzh4M25VWm",
+        "published_time": "Fri, 13 Nov 2026 15:21:29 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 15:21:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEY2ZldSbkw5UGk1WHc5d1dJYkMtbU1sdG9tOHI4enlaS0pYajRDdXh0SmtrSEU0VGk5cURybFNTZEpUMFBrTTJyOU95akpRLU9iWUdMOWN4Qzd6a2VEZmxvam0tV2NpZzh4M25VWmRicWEwZThjNEFGSlBnWTduOXU2dHBFTTg1bWc?oc=5"
+      },
+      {
+        "title": "Another OX40 therapy drops out of the race - Drug Discovery News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 18:31:23 GMT+5 | 키워드+30 | 순위:167위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONVoxcW5vMWpjV19qdklfTm5DU3VBSUotcFNSVUJpM1NmaDFvWWZyME1heHJMOS1zWHMzS0xzczhLRlZlTU5NZTVBLXM4NUY0Wk5RLURZbEREaUNtckNmbVl0d0xNZEhjTWVwUm92VH",
+        "published_time": "Fri, 13 Nov 2026 18:31:23 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 18:31:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVoxcW5vMWpjV19qdklfTm5DU3VBSUotcFNSVUJpM1NmaDFvWWZyME1heHJMOS1zWHMzS0xzczhLRlZlTU5NZTVBLXM4NUY0Wk5RLURZbEREaUNtckNmbVl0d0xNZEhjTWVwUm92VHNEeUcyVmZlbC1acWkwSi1ETUVwM05fOUFCVUE?oc=5"
+      },
+      {
+        "title": "Molecular Shuttles Help Dementia Drugs Sneak Into the Brain - Being Patient",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 17:51:38 GMT+5 | 키워드+30 | 순위:168위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXVMd0dWRU05OFIxcFZRZUhxLUZxckpqOERWdEdtaTMxLV9RaXFZaTFCakh5SEdQWWlhZktVTmc1d3k4ejhJS0NtX21qUGktdHV4UXRLTktQT3BnakVmZTNxTV9TVHpZUmZPZHZEMU",
+        "published_time": "Fri, 13 Nov 2026 17:51:38 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 17:51:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcXVMd0dWRU05OFIxcFZRZUhxLUZxckpqOERWdEdtaTMxLV9RaXFZaTFCakh5SEdQWWlhZktVTmc1d3k4ejhJS0NtX21qUGktdHV4UXRLTktQT3BnakVmZTNxTV9TVHpZUmZPZHZEMUtkc2JtbG9ZaXotZ2hjLWJpOGM1dVcySHB6N1FDQXBR?oc=5"
+      },
+      {
+        "title": "Merck KGaA Secures New Drug Approval, Strengthening Its Rare Tumour Portfolio - The Indian Practitioner",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 12:49:18 GMT+5 | 키워드+30 | 순위:173위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORG96blBMdmI5dDdtTjNMSWVVbHY2ZVFadGRqMXRqWW9jU0k4djdzLVpBTS1oTTI5bFBKWXlQX1Q4NU1Rd1ZNTF9ac3VWRWxmQW50dXlLSVdCYjQ0eTIzZFE0WUtQcjF0MkZfWEJ3NX",
+        "published_time": "Fri, 13 Nov 2026 12:49:18 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 12:49:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORG96blBMdmI5dDdtTjNMSWVVbHY2ZVFadGRqMXRqWW9jU0k4djdzLVpBTS1oTTI5bFBKWXlQX1Q4NU1Rd1ZNTF9ac3VWRWxmQW50dXlLSVdCYjQ0eTIzZFE0WUtQcjF0MkZfWEJ3NXU5X21fZ1A1cVBEbUExSFhYVjF4Qnl1cS1Ja21qOXBIWWR3X0VzOXM2R05VbWFxUDdMX3V1U1dVVnc4eHVPc3I5Xw?oc=5"
+      },
+      {
+        "title": "Primary Sclerosing Cholangitis Drugs in Development 2026: Pipeline Therapies, Ongoing Trials, and Companies Driving Innovation | Engitix, GRI Bio, Qing Bile Therapeutics, Sirnaomics, Cascade Pharma - StreetInsider",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 15:00:20 GMT+5 | 키워드+30 | 순위:174위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxPRWwzS1RKemp6QlNJTWJGWi0yb2pwMS1vNnUyQkhwR1dDSzdqMk9zZDR3NEE2XzNBOHB0RDY2VTNYT3V4XzJYY20tdW9ISXZqRTJQVUhWbWdmcG02bzQ0eVFMQTlySElIN2IxVEREUV",
+        "published_time": "Fri, 13 Nov 2026 15:00:20 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 15:00:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPRWwzS1RKemp6QlNJTWJGWi0yb2pwMS1vNnUyQkhwR1dDSzdqMk9zZDR3NEE2XzNBOHB0RDY2VTNYT3V4XzJYY20tdW9ISXZqRTJQVUhWbWdmcG02bzQ0eVFMQTlySElIN2IxVEREUVI5SW1kalBUZVllcWhOdlFyeUdwQml2MHlQQ3VjSFcyZ0RwZGJmMUpEQml1eE9RVlN1TzhWdUZZaGMxSU5BRVFDODBvRkNNanBXR0hVTkJFTDk5RlNfblQ1cDAwcHVYT0ZCcWRGMDZJenR6MllnWlRyZ2RsSG5jV1NzVktmSzgtTWd1c2hjSjBpcFNSQVlLYm9uTWUxc1BmZFFMZ0E1UExRbEhRVVpuV0hhVjdSY1dzS2NnUDFod0dCZExqekNtcDVhRnJJd2htNF9rNVR6dTBlWlhjaDZfNEhOdXhpVzBGWVRRakYtbHZ5Q3RDblpib3luVTIweVliVnVUWHJCMFVaSlYxVFZYbk1GVGRJZzdR?oc=5"
+      },
+      {
+        "title": "FDA said to end speedy drug review program while Compass Pathways submits FDA New Drug Application for psilocybin; Feds commit $25 million for ibogaine and “psychotropic” research - The Microdose",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 16:03:46 GMT+5 | 키워드+30 | 순위:177위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9mTkpta0U1SGEyWk1TZEhPNWNyX0d4VV9hQVJLcHRueDZod3lsaEJlU3JETERCeDM1eHRIcnVxTjNYdkIyUmNleEZkWlZMaDNxbmk4WU9rTUNuaGNoT1RZNXotcUNhWjA5UnFWSDJUM0",
+        "published_time": "Fri, 13 Nov 2026 16:03:46 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 16:03:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mTkpta0U1SGEyWk1TZEhPNWNyX0d4VV9hQVJLcHRueDZod3lsaEJlU3JETERCeDM1eHRIcnVxTjNYdkIyUmNleEZkWlZMaDNxbmk4WU9rTUNuaGNoT1RZNXotcUNhWjA5UnFWSDJUM0d3N2hZNGZ3OU1B?oc=5"
+      },
+      {
+        "title": "Novo Nordisk Scores EU Win For Hemophilia Drug, Advances Sickle Cell Treatment Toward Approval - Benzinga",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 18:05:16 GMT+5 | 키워드+30 | 순위:179위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWs3WUNEbzh5S3JZY3ZTczZZOWx5YTV4aDU1ci1mYUI5SkxaUHcxcmpZWjBOOEdFWm0zazJXa2h6QnBweGJrdFRFY3lXUXVldjNMMXd2Skt5WDZvRHFuam83QjRETHJzd3paN25NbW",
+        "published_time": "Fri, 13 Nov 2026 18:05:16 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 18:05:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVWs3WUNEbzh5S3JZY3ZTczZZOWx5YTV4aDU1ci1mYUI5SkxaUHcxcmpZWjBOOEdFWm0zazJXa2h6QnBweGJrdFRFY3lXUXVldjNMMXd2Skt5WDZvRHFuam83QjRETHJzd3paN25NbWhVN24zazQ2eDBsYURKMEhxc0tDMmRnMXM2emluUG1HX3g0aEd1UnVRR0RBWXRfblRHV3JCU09YU1VXS0hhWjQwT3c4MEcyQk81RDlZY2VYZVZRZWM4M2VabWg4SWdZeVlPSUlmQzVJcC1fUUtsMFlXT2ppNA?oc=5"
+      },
+      {
+        "title": "Novartis and Novo Nordisk heart drugs fail despite genetic proof, STAT's Herper says biology \"doesn't make sense\" - BigGo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 15:08:00 GMT+5 | 키워드+30 | 순위:182위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZThFZTU1ektrdEQ2OTQ2bVU4UlByLWc0Y0dDamd5T2hkVU1rQldwYkswOTdvWjhjcHhBZUotZWdfNnNtVW5GLUp4YU96RGluQXJtbkJNWHl6Vmc?oc=5\" target=\"_blank\">Nova",
+        "published_time": "Fri, 13 Nov 2026 15:08:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 15:08:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxZThFZTU1ektrdEQ2OTQ2bVU4UlByLWc0Y0dDamd5T2hkVU1rQldwYkswOTdvWjhjcHhBZUotZWdfNnNtVW5GLUp4YU96RGluQXJtbkJNWHl6Vmc?oc=5"
+      },
+      {
+        "title": "Novo Nordisk seeks US and EU approval for sickle cell drug etavopivat - Mugglehead Investment Magazine",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 15:07:09 GMT+5 | 키워드+30 | 순위:184위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXhFVkduM1BLMDJVZGdmTVB3eVJOSUJsdG9xRE1URUV0blkxR1JNZFp1SFhsYnVRV2x4RGJ5aFdPbjRjbE9nNl9KTG4xQk9YTWkwelNXUGc1RlpZQ3hZUV90bjcwS2VIU2pfc1RUMU",
+        "published_time": "Fri, 13 Nov 2026 15:07:09 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 15:07:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOXhFVkduM1BLMDJVZGdmTVB3eVJOSUJsdG9xRE1URUV0blkxR1JNZFp1SFhsYnVRV2x4RGJ5aFdPbjRjbE9nNl9KTG4xQk9YTWkwelNXUGc1RlpZQ3hZUV90bjcwS2VIU2pfc1RUMUZtd3h2SkExUWFHYWlVVUpUMVg0LWNRQQ?oc=5"
+      },
+      {
+        "title": "Extravasation of antineoplastic agents: a practical drug-by-drug guide for the clinical oncologist - Via Medica Journals",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 11:40:05 GMT+5 | 키워드+30 | 순위:185위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUNhTUlDa2ZiUnV2ZXg1WUx2cXlJcTNSREQxbHpibW9oalBCN0Q5MHFBNGptMDMtY3RJS0h0V29EREhsSVJ3el9BOGlENFpEZ2ZZaVYtc0NuMkhYam5PQzljbmhxTUR0c3RhcGlfaF",
+        "published_time": "Fri, 13 Nov 2026 11:40:05 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 11:40:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUNhTUlDa2ZiUnV2ZXg1WUx2cXlJcTNSREQxbHpibW9oalBCN0Q5MHFBNGptMDMtY3RJS0h0V29EREhsSVJ3el9BOGlENFpEZ2ZZaVYtc0NuMkhYam5PQzljbmhxTUR0c3RhcGlfaFkxbmtMZ0xUUHBNdVlqTGowT1owNlFudw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        7
+      ],
+      [
+        "approval",
+        7
+      ],
+      [
+        "GLP-1",
+        6
+      ],
+      [
+        "manufacturing",
+        6
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "patent",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 97,
+    "languages": {
+      "French / 프랑스어": 5,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 9,
+      "Portuguese / 포르투갈어": 9,
+      "Dutch / 네덜란드어": 2,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 3,
+      "Chinese Traditional / 대만": 2,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 8,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 10,
+      "Arabic / 아랍어": 6,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "İki hastada evde bitkisel ilaçlarla kendi kendilerine tedavi uyguladıktan sonra nekrotik ülser gelişti. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 12:22:42 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlBlZWRCeUgzOHZ6RElLd2lsYlFWTnRTUU9IcTNFeDJ6UlVnMTltV2lubC1OOFlyNnRnMkVjUF9fZXlJaGNnRUxSN3RGekNDWTFZaURBUE9uZnVUdzZ5SDNSVDE0a0tJcm9GSEkzUS",
+        "published_time": "Fri, 13 Nov 2026 12:22:42 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 12:22:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlBlZWRCeUgzOHZ6RElLd2lsYlFWTnRTUU9IcTNFeDJ6UlVnMTltV2lubC1OOFlyNnRnMkVjUF9fZXlJaGNnRUxSN3RGekNDWTFZaURBUE9uZnVUdzZ5SDNSVDE0a0tJcm9GSEkzUS0tUVpMX21yYnJqbm5RUmh6em9EN1J3cUYw?oc=5"
+      },
+      {
+        "title": "「地緣政策」如何為五千億美元醫藥市場進行「結構性整骨」 - GeneOnline",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 12:08:49 GMT+5 | 키워드+20 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJPYnVWM3RsazExR2tscFVFS2NpNXZhRklvc0xXd1Z5Z0wzQWIxRVJpc0lBeVJtblBPbm8xYmNYblJCTWttTjRKZEt3Q2xScnNxa3JSaXJLYlVLa0FNNnNvVDQxWG5haTlON2huQV",
+        "published_time": "Fri, 13 Nov 2026 12:08:49 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 12:08:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjJPYnVWM3RsazExR2tscFVFS2NpNXZhRklvc0xXd1Z5Z0wzQWIxRVJpc0lBeVJtblBPbm8xYmNYblJCTWttTjRKZEt3Q2xScnNxa3JSaXJLYlVLa0FNNnNvVDQxWG5haTlON2huQVFNRmFwRHlOc3MtaXFGNzVqM3dQNUZOdmpob3VQUnl4dkpTdUlCZmNjNGNYQ3RoTEZFdnBVbFN6eHQ?oc=5"
+      },
+      {
+        "title": "四会联动聚力乳腺学术，中西交融共促精准诊疗 山东中医药大学附属医院承办系列学术年会 - 中国网",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 08:23:38 GMT+5 | 키워드+20 | 순위:5위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYUpSeGhES1lzU0htaEF4UGswM0Q3c1I0WEZUd2FrVzJLc1ZXaEZUeFo2eEFKNWdwWU1qNUQ2RVlpV3FJeWdxcHJieVpYb0hTYmkydUxlMjhrdllCMUUxVzYyMk9oOG1Y?oc=5\" tar",
+        "published_time": "Fri, 13 Nov 2026 08:23:38 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 08:23:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TYUpSeGhES1lzU0htaEF4UGswM0Q3c1I0WEZUd2FrVzJLc1ZXaEZUeFo2eEFKNWdwWU1qNUQ2RVlpV3FJeWdxcHJieVpYb0hTYmkydUxlMjhrdllCMUUxVzYyMk9oOG1Y?oc=5"
+      },
+      {
+        "title": "Le premier médicament CBD marocain contre l’épilepsie arrive en pharmacie - Newsweed",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 15:01:18 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdE9udVRWT2t1cHRsX05TaEl6bG9wa0lFLWQ0b0xWcGZRTk1tdWdVYXQ1NnJDV0dNSjRidll3RXJGdkY2WnlYUWdfUnJmYTdvX3MxWmdyNzcybXlUT3RYVFVFTnMtbGdWdDBPNDNWM0",
+        "published_time": "Fri, 13 Nov 2026 15:01:18 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 15:01:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdE9udVRWT2t1cHRsX05TaEl6bG9wa0lFLWQ0b0xWcGZRTk1tdWdVYXQ1NnJDV0dNSjRidll3RXJGdkY2WnlYUWdfUnJmYTdvX3MxWmdyNzcybXlUT3RYVFVFTnMtbGdWdDBPNDNWM0FoaTd6bkR2YUdZNW1NakZTVkF3?oc=5"
+      },
+      {
+        "title": "越南专家代表团到访以岭药业，共探中医药出海新路径 - Sohu",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 13 Nov 2026 09:48:27 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFRHQUxqdjFiS29WMmtvczBKX1pHTFB4QmZNU2hfM2NVZnFrNlZhRkEya0dQc0xLWHlqNzdnaFlrMWttSGVJT2ZhMVZiTTBpMVdSZFRBNlZPWFVCLW5tRUF0X3E1N3k1QU5zNlRLOH",
+        "published_time": "Fri, 13 Nov 2026 09:48:27 GMT",
+        "modified_time": "",
+        "time": "Fri, 13 Nov 2026 09:48:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcFRHQUxqdjFiS29WMmtvczBKX1pHTFB4QmZNU2hfM2NVZnFrNlZhRkEya0dQc0xLWHlqNzdnaFlrMWttSGVJT2ZhMVZiTTBpMVdSZFRBNlZPWFVCLW5tRUF0X3E1N3k1QU5zNlRLOHZydmRQY3d6djlYYTdRUHEwa3pSVG5Cc3EwS0xIYw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

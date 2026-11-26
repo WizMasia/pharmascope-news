@@ -1,0 +1,528 @@
+{
+  "date": "2026-11-16",
+  "total": 265,
+  "version": 1,
+  "generated_at": "2026-11-16T06:30:44.625393+09:00",
+  "korean": {
+    "total": 123,
+    "categories": {
+      "의약품": 23,
+      "의약산업": 16,
+      "의약정책": 13,
+      "의약단체": 22,
+      "의약관련정부기관": 7,
+      "의료현장": 9,
+      "약국·약사": 4,
+      "의료정책·인력": 9,
+      "전통의학": 5,
+      "감염·보건": 15
+    },
+    "top_articles": [
+      {
+        "title": "정선군, 동절기 대비 인플루엔자∙코로나19 예방접종 독려",
+        "source": "전국매일신문",
+        "importance": 57,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:전국매일신문+10 | 최신:6시간+20 | 키워드+25 | 순위:90위+2",
+        "snippet": "강원 정선군은 2026~2027절기 인플루엔자 및 코로나19 예방접종을 시작한다고 15일 밝혔다.아침저녁으로 옷깃을 여미게 할 만큼 쌀쌀한 날씨가 이어지는 가운데 군보건소가 동절기에 대비해 인플루엔자 및 코로나19 무료 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311867"
+      },
+      {
+        "title": "&quot;접근성 높인다더니 안전은?&quot;…의약품 규제 완화에 약사사회 반발 확산",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:128위+2",
+        "snippet": "이날 참가자들은 비대면진료 약배송과 편의점 안전상비의약품 확대, 디지털헬스케어법 추진 등을 비판하며 의약품 안전관리 강화와 공공의료 확충을 촉구했다. 집회를 마친 뒤에는 청와대를 향해 행진하고 대통령실에 관련 정책의 재검토를 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=335223"
+      },
+      {
+        "title": "&quot;접근성 높인다더니 안전은?&quot;…의약품 규제 완화에 약사사회 반발 확산",
+        "source": "약업닷컴",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+10 | 순위:40위+2",
+        "snippet": "이날 참가자들은 비대면진료 약배송과 편의점 안전상비의약품 확대, 디지털헬스케어법 추진 등을 비판하며 의약품 안전관리 강화와 공공의료 확충을 촉구했다. 집회를 마친 뒤에는 청와대를 향해 행진하고 대통령실에 관련 정책의 재검토를 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=17&amp;nid=335223"
+      },
+      {
+        "title": "의료급여 미지급 예상액 9000억…약국도 약제비 지연 우려",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+10 | 순위:24위+2",
+        "snippet": "연말 의료급여 진료비 미지급 예상액이 국비 기준 약 9000억 원에 달할 것으로 추산되면서 병&#183;의원은 물론 일선 약국가의 조제료 및 약제비 지급 지연 우려가 현실화되고 있다. 보건복지부는 13일 ‘올해 병&#183;의원 의료급여 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344595"
+      },
+      {
+        "title": "약사&#183;한약사 33년 갈등 평행선…정부, 언제쯤 해법 내놓나",
+        "source": "뉴스1 on MSN",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:뉴스1 on MSN+10 | 최신:11분+20 | 키워드+20 | 순위:29위+2",
+        "snippet": "업무 범위&#183;약국 운영 놓고 대책 없이 대립연내 업무조정위 출범…약사제 개선 검토 약사와 한약사 간 해묵은 직역갈등이 좀처럼 해법을 찾지 못하고 있다. 약국 개설과 일반의약품 판매 등 업무 범위를 둘러싼 이견이 이어지는 데다 ...",
+        "published_time": "11분",
+        "modified_time": "",
+        "time": "11분",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%95%BD%EC%82%AC-%ED%95%9C%EC%95%BD%EC%82%AC-33%EB%85%84-%EA%B0%88%EB%93%B1-%ED%8F%89%ED%96%89%EC%84%A0-%EC%A0%95%EB%B6%80-%EC%96%B8%EC%A0%9C%EC%AF%A4-%ED%95%B4%EB%B2%95-%EB%82%B4%EB%86%93%EB%82%98/ar-AA2hulUO?ocid=BingNewsVerp"
+      },
+      {
+        "title": "급여 대상인데 MRI 삭감…두통 진료 가로막는 '심사 장벽'",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:77위+2",
+        "snippet": "두통 진료에서 의학적 필요성과 건강보험의 인정 범위가 엇갈리는 사례가 나타나고 있다. 갑작스럽게 극심한 통증이 발생하는 이른바 '벼락두통' 환자에게 자기공명영상(MRI) 검사를 시행해도 진료비가 삭감되는가 하면, 편두통 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421851"
+      },
+      {
+        "title": "조선대 약대 31대 수도권동문회장에 최용석 부회장",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:21분+20 | 키워드+5 | 순위:131위+2",
+        "snippet": "조선대 약학대학 수도권동동문회 새 회장에 최용석 직전 부회장(대한약사회 부회장)이 추대됐다. 조대약대 수도권동문회는 15일 제64회 정기총회를 열고 최 전 부회장을 신임 회장으로 만장일치 선임했다. 최 신임 회장은 “시대가 ...",
+        "published_time": "21분",
+        "modified_time": "",
+        "time": "21분",
+        "url": "https://www.dailypharm.com/user/news/344593"
+      },
+      {
+        "title": "한국바이오협회&#183;KOTRA, ‘BIO USA 2027’ 한국관 참가기업 모집",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:132위+2",
+        "snippet": "한국바이오협회가 대한무역투자진흥공사(KOTRA)와 공동으로 세계 최대 바이오산업 행사인 ‘BIO International Convention 2027(이하 BIO USA 2027)’ 한국관에 참가할 국내 바이오기업을 오는 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=335228"
+      },
+      {
+        "title": "조선약대 수도권동문회 새 회장에 최용석…&quot;동문 만남의 장 열겠다&quot;",
+        "source": "약사공론",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:21분+20 | 키워드+5 | 순위:127위+2",
+        "snippet": "조선대학교 약학대학교 수도권 동문회의 제 31대 회장에 최용석 동문이 추대됐다. 조선약대 수도권동문회는 15일 오후 더 리버사이드호텔 루비홀에서 제64회 정기총회를 열고 최 새 회장을 만장일치로 추대했다.",
+        "published_time": "21분",
+        "modified_time": "",
+        "time": "21분",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548992"
+      },
+      {
+        "title": "생명부터 산업&#183;임상까지 폭넓게…전국 약대생 학술 역량 겨뤘다",
+        "source": "약사공론",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+5 | 순위:130위+2",
+        "snippet": "대한약학대학학생협회 (회장 김백건)는 지난 15일 대한약사회관 4층 강당에서 '2026 제2회 한국 약학대학생 학술제 (CoPharm Forum)'를 개최했다. 이번 학술제는 생명약학&#183;산업약학&#183;임상사회약학 등 3개 분야로 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548967"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        11
+      ],
+      [
+        "급여",
+        8
+      ],
+      [
+        "한약",
+        8
+      ],
+      [
+        "임상",
+        7
+      ],
+      [
+        "비만",
+        6
+      ],
+      [
+        "약가",
+        3
+      ],
+      [
+        "실사",
+        2
+      ],
+      [
+        "허가",
+        2
+      ],
+      [
+        "FDA",
+        2
+      ],
+      [
+        "위고비",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "백신",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약업닷컴",
+        3
+      ],
+      [
+        "약사공론",
+        3
+      ],
+      [
+        "전자신문 on MSN",
+        2
+      ],
+      [
+        "팜뉴스",
+        2
+      ],
+      [
+        "데일리팜",
+        2
+      ],
+      [
+        "데일리메디",
+        2
+      ],
+      [
+        "CBC뉴스",
+        1
+      ],
+      [
+        "핀포인트뉴스",
+        1
+      ],
+      [
+        "메디파나 뉴스",
+        1
+      ],
+      [
+        "뉴스1",
+        1
+      ],
+      [
+        "재경일보",
+        1
+      ],
+      [
+        "메디컬투데이 on MSN",
+        1
+      ],
+      [
+        "청년의사",
+        1
+      ],
+      [
+        "뉴스1 on MSN",
+        1
+      ],
+      [
+        "스포츠경향 on MSN",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 101,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 23,
+      "Pharma Associations": 25,
+      "Regulatory Agencies": 0,
+      "Traditional & Complementary Medicine": 3
+    },
+    "top_articles": [
+      {
+        "title": "Borno herbal healer claims 'traditional medicine can treat HIV, cancer, diabetes', criticises orthodox doctors - National Accord Newspaper",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 14:26:57 GMT+5 | 키워드+30 | 순위:12위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmtmOGo4U1lMd19YZG1kaHIyMmZ6clRzT1hOdWlQbmJ5b0hfcmJPOFVOYjJQekQzQTJWamZ4UnBfbXAyc2ltYWRWRllTV2U0b0R3Y2lEdnJhYTc3LVNvUVR6RnFaUVJJTXV1NjNfa0",
+        "published_time": "Sun, 15 Nov 2026 14:26:57 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 14:26:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmtmOGo4U1lMd19YZG1kaHIyMmZ6clRzT1hOdWlQbmJ5b0hfcmJPOFVOYjJQekQzQTJWamZ4UnBfbXAyc2ltYWRWRllTV2U0b0R3Y2lEdnJhYTc3LVNvUVR6RnFaUVJJTXV1NjNfa0dnNExtQ1dNMkFadGxZVTU2N2cyNWprNzRTWW9QRHFLV2owSUdXZHBfMnJnQ3ZYQkxnWG1hVlpycGh2UGxhU25JVnJQZXVwT1Zub1ktLTE1NHZPTFkxNmtPUkZva2xGc284RFhjal9TWTJUdw?oc=5"
+      },
+      {
+        "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China - The New York Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 20:33:07 GMT+5 | 키워드+30 | 순위:88위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVd2cEJobjZyaWdnc0I5Q1Q0WEtQYW1WT2QxbHNJWGxPblJFZU42OHp0SkZrWWVKb18yY3h4Q1ZWM0phUmRvWVl0ZU1QbEtPdFdQc0ZfNnF1UlRiWWc2bUdWazh5N2ttRG1qY3BQUV",
+        "published_time": "Sun, 15 Nov 2026 20:33:07 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 20:33:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVd2cEJobjZyaWdnc0I5Q1Q0WEtQYW1WT2QxbHNJWGxPblJFZU42OHp0SkZrWWVKb18yY3h4Q1ZWM0phUmRvWVl0ZU1QbEtPdFdQc0ZfNnF1UlRiWWc2bUdWazh5N2ttRG1qY3BQUVdzMEJwcDRtRVNCdWlqS0NhaA?oc=5"
+      },
+      {
+        "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 13:21:03 GMT+5 | 키워드+30 | 순위:89위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcE",
+        "published_time": "Sun, 15 Nov 2026 13:21:03 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 13:21:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5"
+      },
+      {
+        "title": "obesity drugs — Safety Concerns Rise Alongside New Treatment Race - The Korea Daily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 08:09:10 GMT+5 | 키워드+30 | 순위:93위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE01LUNsUTRkM21TWU9WaVZZRWZGOGlNWktmbUpFdk14aDMzUjZDWFp4N0tvMVYtSlBNcDVhdVFsM2Yyd0h3clRDT1BDb3J0OFh2WU53YzJVTVMxSmZoZWVUZDZuREhjYzA2bW5jdnZoZm",
+        "published_time": "Sun, 15 Nov 2026 08:09:10 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 08:09:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01LUNsUTRkM21TWU9WaVZZRWZGOGlNWktmbUpFdk14aDMzUjZDWFp4N0tvMVYtSlBNcDVhdVFsM2Yyd0h3clRDT1BDb3J0OFh2WU53YzJVTVMxSmZoZWVUZDZuREhjYzA2bW5jdnZoZmZHZFVrRDA2UjVn?oc=5"
+      },
+      {
+        "title": "Alembic Pharma receives USFDA approval for lung cancer drug Binimetinib - Business Standard",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 10:25:55 GMT+5 | 키워드+30 | 순위:94위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVFKclN4N3pxbWxTZS1Ma2NVcnFlSm1BZUJxUHhPVC1WbGNDOGRJaXcwcHpqclRDYmwxN0NUOGZHRlJ2dzRqcU9xTHF0WElBV1A4YkJTOFBSWnlFSlk2Y2JRdXhzZy1IQUVXdW1kMG",
+        "published_time": "Sun, 15 Nov 2026 10:25:55 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 10:25:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSVFKclN4N3pxbWxTZS1Ma2NVcnFlSm1BZUJxUHhPVC1WbGNDOGRJaXcwcHpqclRDYmwxN0NUOGZHRlJ2dzRqcU9xTHF0WElBV1A4YkJTOFBSWnlFSlk2Y2JRdXhzZy1IQUVXdW1kMGE3ZEh3M29IWFVHTUQzaXFqSDNvS3dTTkFMY2g2Tnc4eHliMk13dUNiZWVraHZLWE9EYlh2V0lYZHhNblF0WWxZMzdiTF9mT2thZ3FkcEk5a3plYXYycVp2VTBzYVV4cXFtTG80c2s3c9IB3AFBVV95cUxOZDRSRjF1bWw4VkgtZXhtYlNkc1N4bmZZU0ZxNHotemd4MU9jN2E0TTRmOElHeE5BWjRiQkpfVWlucXhZeDk0NUtaV09hLVNFU3ZlRnhuNVRNSXptSVRBQlJBdVVZYndOakY1c2wwZmR5SEd0a0ZVZUU2X1E1SHJIOUpBZlpGYmFoVkpnWXBBWEZnR1R1V1c2dEFmTEI4SFZ4TTlNX0I4RkdkazgtY2UzRWc1TDlTNnJ5SjdrRXZkcFFnVEIwc1VYZlZwT2p0enpOVVFyTkxmQ2hlZElX?oc=5"
+      },
+      {
+        "title": "How Is Cancer Drug Strength Lifting the Full-Year Outlook at JNJ (NYSE:JNJ)? - Kalkine Media",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 17:47:00 GMT+5 | 키워드+30 | 순위:95위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGlHS1FvaEwxTmhOaWF3UnFWOTIybEpOZjAwTHVLMTdPa0tMWUhBeVZYeTdPRFBhRjg0ODF2eVlxc0VfTGVFenA5bjRKQ1hKTVkwRG9sZmlBdnRpcGlrbHVQcEFKM2Uyc1djNS1PRz",
+        "published_time": "Sun, 15 Nov 2026 17:47:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 17:47:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRGlHS1FvaEwxTmhOaWF3UnFWOTIybEpOZjAwTHVLMTdPa0tMWUhBeVZYeTdPRFBhRjg0ODF2eVlxc0VfTGVFenA5bjRKQ1hKTVkwRG9sZmlBdnRpcGlrbHVQcEFKM2Uyc1djNS1PRzRDenQ5Y0g1VTFtbzlVeXpKOFNEVlBwZ3M0WGhjRUNVeHMyMm44Q2haWnBub21ldnB1Z0pxeTV2WnJxbmVjWWxVWTQwNnpnak0?oc=5"
+      },
+      {
+        "title": "Pfizer pulls hormone therapy drug from Canada, leaving only one option that’s not covered in Ontario - CTV News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 11:32:56 GMT+5 | 키워드+30 | 순위:96위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzVkb3pVRzdBdDRJNldHUFZZUmtUODBLbTNOVTBwX1lLbEtUcGFhM082VTBiOEt2clNSbk5qUFZMWmJ1MlB5WHhycjlqTHRmRFU4ZHRHNG4yZVFac013azlZS1lGbTY3NER2S1ZMNE",
+        "published_time": "Sun, 15 Nov 2026 11:32:56 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 11:32:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYzVkb3pVRzdBdDRJNldHUFZZUmtUODBLbTNOVTBwX1lLbEtUcGFhM082VTBiOEt2clNSbk5qUFZMWmJ1MlB5WHhycjlqTHRmRFU4ZHRHNG4yZVFac013azlZS1lGbTY3NER2S1ZMNEQzZ0ZoU2xoMkVmWUYyTnhOS2oxYVNSOXVXUFBqRG5obDJQZ2pOLXFTYmhQTElpTGQ2cEFybmI0MlJnQmE5cnZndlhoWFVEenhFRDZNV2NfcXN3WTNUUEhrZXphbDR3OEpVRUgwcg?oc=5"
+      },
+      {
+        "title": "US FDA Rejects Summit’s China-Originated Lung Cancer Drug - Bloomberg.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 14:23:44 GMT+5 | 키워드+30 | 순위:98위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaE",
+        "published_time": "Sun, 15 Nov 2026 14:23:44 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 14:23:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPelZQa1Q5Rk16X1ViWXNVRzZsX3YtOVU5R01FcThBUzlEME5HUHpMWnltbGFuTnEwaHdnOUpySllUUzczaF9SMGZGTVJuLVZ3U1Fvd2pNQ2c2YWhaMXVSWjdSWlJQQlVVZ2Q3Tm1OaEVXOGJUYV9qNWR1bnpTMkZkSXRpZEdjRG5fZDBGUEZHUUoyWVdldkxhX2FZbUZrMXFlWWtnUVBadkZVYXY2?oc=5"
+      },
+      {
+        "title": "A common osteoporosis drug blocked spinal damage in a surprising new study - Science Daily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 14:05:11 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE50b2FpOU5ZRHhUSWRFVS1sSnFRNWplWGM1NGxaTURheURqNlU1V3pFN2dEYlZMMTJDUkJZUkNuaG9fSEwwdmhrRUFGRHRQX0lsMHllanRUaUc4dXNZakhvcURPcFkzOTlnWFF3NEJtaw",
+        "published_time": "Sun, 15 Nov 2026 14:05:11 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 14:05:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50b2FpOU5ZRHhUSWRFVS1sSnFRNWplWGM1NGxaTURheURqNlU1V3pFN2dEYlZMMTJDUkJZUkNuaG9fSEwwdmhrRUFGRHRQX0lsMHllanRUaUc4dXNZakhvcURPcFkzOTlnWFF3NEJtaw?oc=5"
+      },
+      {
+        "title": "Hospital Pharmacists Resolve Cardiovascular Drug-Related Problems Linked to Renal Impairment and Stays - Bioengineer.org",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 21:05:34 GMT+5 | 키워드+30 | 순위:102위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNTE9mUmU0QlZadEN0TGRPUDVCRDRCbFcwZ3pGQXhJM3poeHhueGRRMmFKSldzTmQ3TUNHTGloNE9MU0VZU1JBeVA4OTQ2RFVRWFluYkNid3dHclpQaUc3X3BRRld4T2N0a0RKS19fdX",
+        "published_time": "Sun, 15 Nov 2026 21:05:34 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 21:05:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTE9mUmU0QlZadEN0TGRPUDVCRDRCbFcwZ3pGQXhJM3poeHhueGRRMmFKSldzTmQ3TUNHTGloNE9MU0VZU1JBeVA4OTQ2RFVRWFluYkNid3dHclpQaUc3X3BRRld4T2N0a0RKS19fdXU3NjN5TnBXUkc4QW9BRjE3NnMxd2RRd0dYNTdKLTNWNEVSekxQN0ExOS1hWmdaSDY1eTZTR3RJMmRtVU9QRmx0dnRWNWt0X0NvZDF5RzRvNVJxQXp0SkE?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        9
+      ],
+      [
+        "GLP-1",
+        5
+      ],
+      [
+        "approval",
+        3
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "shortage",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "vaccine",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 41,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 1,
+      "Spanish / 스페인어": 3,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 0,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 8,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 5,
+      "Hindi / 힌디어": 1,
+      "Arabic / 아랍어": 4,
+      "Hebrew / 히브리어": 1,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "BPOM dan Industri Farmasi Mengupayakan Percepatan Akses Obat Baru - kontan.co.id",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 08:37:13 GMT+5 | 키워드+25 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRHa1RQZ2MzZHR2SzRsYkZVQUdXb09Ldk1tZmFOSW1zQXFxVjd0NkpEMjFTTHJHS1pqR3Ywcy1Wd2duMk5DN085QVA4NHM4UUhzUGlpajVUb0R5VmxxbDZtU1pIcUF0LVhhUVFMWk",
+        "published_time": "Sun, 15 Nov 2026 08:37:13 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 08:37:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRHa1RQZ2MzZHR2SzRsYkZVQUdXb09Ldk1tZmFOSW1zQXFxVjd0NkpEMjFTTHJHS1pqR3Ywcy1Wd2duMk5DN085QVA4NHM4UUhzUGlpajVUb0R5VmxxbDZtU1pIcUF0LVhhUVFMWktZdXBRa0tCcHZPUXVGWjZwcG1UeDdveFRacVJlLW1rcnBJcWVoemdBTkEzUWFYekl6R2fSAZsBQVVfeXFMTU12eUJmbzIwU0pWckpWWVdoV0xvUzVMRUZleXhLRTJ6cUcxWDJKRFcwaEctR1BCSVl3ZDhZVjNWbkVWMVRLSXhheG1idnFfUVdPMDF5Z2IxekhNWjgwbklyVlR2blRVOUlfT2VYeEg2dnhlX2t5OXVhN2YyX3k0OUstdzJ5V2V1SnRLYUphQUlfNm5Tb2RTamRjODg?oc=5"
+      },
+      {
+        "title": "DPR Dorong Hilirisasi Herbal Lokal untuk Perkuat Industri Farmasi - law-justice.co",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 11:55:00 GMT+5 | 키워드+25 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHZsNDBUYlpLTFBJajFOMlVnb2xOQ3U3MWNaVl9RaEtkTWNPQ085WDN6MXQxb1ZVWGZIeTZGSzVmX3FIUTlCYWJ0MGNsOGZvM09DMy1UYm9XcVhqUWs5eGp4SGdZLVByUXA3SnlTT0",
+        "published_time": "Sun, 15 Nov 2026 11:55:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 11:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHZsNDBUYlpLTFBJajFOMlVnb2xOQ3U3MWNaVl9RaEtkTWNPQ085WDN6MXQxb1ZVWGZIeTZGSzVmX3FIUTlCYWJ0MGNsOGZvM09DMy1UYm9XcVhqUWs5eGp4SGdZLVByUXA3SnlTT05HM2xfV3FDZHdaWnhibWRyTEdjS1hKcnJfOUpOSk5Gc0lSdnd5TnM0U0I0WGxMczBjR3N2U3ZRWQ?oc=5"
+      },
+      {
+        "title": "45.000 medicamentos al día y hasta seis repartos: el engranaje que surte a las farmacias de León en cuestión de horas - Leonoticias",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 08:19:42 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEljZ1dlOVlSNDViYWhtcGJ6NC1Va1ZDaG9UWU1zeG1zWGQzLWhmcmlQTzNLQnRoX2VUTmZqdTNFTU5ESVFra2FQUGVRWWwza3E0TkpVLU5jQ3RqVkJqS1RxSUd1SjFBVlR5OTlEc1",
+        "published_time": "Sun, 15 Nov 2026 08:19:42 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 08:19:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEljZ1dlOVlSNDViYWhtcGJ6NC1Va1ZDaG9UWU1zeG1zWGQzLWhmcmlQTzNLQnRoX2VUTmZqdTNFTU5ESVFra2FQUGVRWWwza3E0TkpVLU5jQ3RqVkJqS1RxSUd1SjFBVlR5OTlEc1Yzek50dnMzMWotaElkdk5xcFhiSmdrZ241Rm14Sk90WEc4MWlz0gGaAUFVX3lxTE5PaWlIb1NPSVZBMzl4RVNJbHJtSGRmMlpkbWJ3ejhSZ0l6LXBPb1pkbXFBR1BaOHE0UTBYTXZDOVdfLWZSRlgwOWZmQUZYYlJFdFpuYUUtM2NXMUl0UkcxaU8wdEdWc1ZSaVV2ZzZvNTVQWlA4YkxxNVZ0WFlyQ2Rqd1pHeWJBQ3JPdWp0SjY0RlRvUjlwNDhjTFE?oc=5"
+      },
+      {
+        "title": "Contribution des laboratoires pharmaceutiques : le Sénat rejette le calcul par tranches - Politique Matin",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 11:29:46 GMT+5 | 키워드+10 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXpqWGNJQ25VdXdMRlpHTXViX1lMenE4ZUNYMUZ0ZXBWcUQ5cmRyRHFXdlgyX1REdWQ5WWFTYmtkMEJNaTY4TE1tVU1RZlM4bFZrbC1iajJNUmt3b0pQalJ1S1JEVlJONmFJNnhha0",
+        "published_time": "Sun, 15 Nov 2026 11:29:46 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 11:29:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXpqWGNJQ25VdXdMRlpHTXViX1lMenE4ZUNYMUZ0ZXBWcUQ5cmRyRHFXdlgyX1REdWQ5WWFTYmtkMEJNaTY4TE1tVU1RZlM4bFZrbC1iajJNUmt3b0pQalJ1S1JEVlJONmFJNnhha042UzZzRGN4NjVyR2ZXby1RY2VFZjFGM0JBZDlic3d4LV9xRGs2?oc=5"
+      },
+      {
+        "title": "3个新进医保药就有1个江苏造，制药大省如何让国谈药加速进医院 - 第一财经",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 15 Nov 2026 14:04:30 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE51V2otSlBIMDRNRUd3RlpCWFNWdkRHZV9KWXBteEN4LVRBS3dMVUwzQ19pMUxvV1lIMzhpVUVtcUFaMXpSOTBnV0tuNWFTTmItZTVF?oc=5\" target=\"_blank\">3个新进医保药就有1个江苏造，",
+        "published_time": "Sun, 15 Nov 2026 14:04:30 GMT",
+        "modified_time": "",
+        "time": "Sun, 15 Nov 2026 14:04:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51V2otSlBIMDRNRUd3RlpCWFNWdkRHZV9KWXBteEN4LVRBS3dMVUwzQ19pMUxvV1lIMzhpVUVtcUFaMXpSOTBnV0tuNWFTTmItZTVF?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

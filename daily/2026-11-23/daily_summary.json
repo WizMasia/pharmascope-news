@@ -1,0 +1,516 @@
+{
+  "date": "2026-11-23",
+  "total": 245,
+  "version": 1,
+  "generated_at": "2026-11-23T06:30:37.793909+09:00",
+  "korean": {
+    "total": 113,
+    "categories": {
+      "의약품": 14,
+      "의약산업": 24,
+      "의약정책": 20,
+      "의약단체": 8,
+      "의약관련정부기관": 5,
+      "의료현장": 3,
+      "약국·약사": 0,
+      "의료정책·인력": 13,
+      "전통의학": 1,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "제약사 CSO 관리책임 강화 논의…재위탁 검증체계 정비 과제",
+        "source": "메디파나 뉴스",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+20 | 순위:139위+2",
+        "snippet": "의약품 판촉영업자(CSO) 관리&#183;감독 강화 논의가 이어지는 가운데, 제약업계에서는 다단계 재위탁 구조를 파악하기 어려운 현행 관리체계 한계에 대한 지적이 나온다. 제약사 관리책임 강화를 위해선 CSO 정보 제공 의무와 재위탁 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422352"
+      },
+      {
+        "title": "카프리코 '데라미오셀' FDA 승인 재차 좌절…임상 데이터 신뢰성 확보가 관건",
+        "source": "medicaldaily.co.kr",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:medicaldaily.co.kr+10 | 최신:4시간+20 | 키워드+20 | 순위:27위+2",
+        "snippet": "카프리코 테라퓨틱스의 뒤셴 근이영양증 치료제 '데라미오셀'이 미국 FDA로부터 두 번째 승인 거절을 통보받았다. 회사는 적응증을 좁혀 재도전에 나섰으나, 임상 데이터의 신뢰성 문제가 발목을 잡으면서 향후 개발 전략 수정이 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.medicaldaily.co.kr/post/124407"
+      },
+      {
+        "title": "전북 하수서 독감&#183;코로나 바이러스 증가...호흡기 감염병 주의보",
+        "source": "전라일보",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:전라일보+10 | 최신:6시간+20 | 키워드+20 | 순위:149위+2",
+        "snippet": "전북지역 하수에서 인플루엔자(독감)바이러스와 코로나19 바이러스(SARS-CoV-2) 등 호흡기 감염병 유발 병원체가 증가하고 있음에 따라 개인위생 관리와 예방접종 참여가 요구된다.22일 전북특별자치도 보건환경연구원에 따르면 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.jeollailbo.com/news/articleView.html?idxno=817473"
+      },
+      {
+        "title": "국내 제약 5곳 중 3곳 R&amp;D 지출↑…약가개편 의식했나",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+5 | 순위:142위+2",
+        "snippet": "국내 주요 전통제약사 50곳 중 28곳이 올해 연구개발(R&amp;D) 비용 지출을 늘린 것으로 나타났다. 또한 50곳 중 24곳은 매출액 대비 R&amp;D 투자 비중이 전년동기 대비 높아졌다. 업계에선 제약사들의 R&amp;D 투자 확대 배경 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/344866"
+      },
+      {
+        "title": "의약품유통협회장 선거, 박호영-남상규 하마평…재대결 관심",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:114위+2",
+        "snippet": "약가인하에 따른 반품&#183;차액 정산과 제약사의 유통마진 인하로 의약품 유통업계의 부담이 이어지는 가운데, 제38대 한국의약품유통협회장 선거가 다가왔다. 2024년 진행된 제37대 한국의약품유통협회장 선거에서 맞붙었던 박호영 현 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=422351"
+      },
+      {
+        "title": "&quot;박호영&#183;남상규, 다시 맞붙나&quot;…의약품유통협회장 선거 '물밑 기류'",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:115위+2",
+        "snippet": "차기 한국의약품유통협회장 선거의 유력 후보군으로 거론되는 박호영 현 회장(왼쪽)과 남상규 남신팜 회장. 두 사람은 지난 2024년 제37대 협회장 선거에서 맞붙은 바 있다. &#169;약업신문=전하연 기자내년 2월 16일 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=335536"
+      },
+      {
+        "title": "이중특이항체 '컬럼비', 삼수만에 급여 마지막 관문 돌입",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+5 | 순위:118위+2",
+        "snippet": "삼수 만에 암질심을 통과한 이중특이항체 컬럼비가 보험급여 등재로 향하는 마지막 관문에 돌입했다. 취재 결과, 한국로슈는 최근 국민건강보험공단과 CD20&#183;CD3 이중특이항체 거대B세포림프종(DLBCL, Diffuse Large ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/344863"
+      },
+      {
+        "title": "첨단재생의료기관 '3년 갱신제' 도입…실적 없으면 지정 취소",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+5 | 순위:78위+2",
+        "snippet": "첨단재생의료실시기관으로 지정받은 의료기관이 일정 기간 내 실제 연구나 치료계획을 제출하지 않으면 지정을 곧장 취소하는 입법이 추진된다. 현재 영구적힌 지정 제도를 폐지하고 3년마다 실제 임상연구&#183;치료 실적 등을 평가해 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/344864"
+      },
+      {
+        "title": "&quot;신약 기술수출, 과학만으론 부족&quot;…산업약사 BD&#183;투자 전략 공유",
+        "source": "약사공론",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+10 | 순위:48위+2",
+        "snippet": "국내 제약&#183;바이오산업의 기술수출 경쟁력을 높이기 위해서는 신약 후보물질의 과학적 우수성뿐 아니라 시장 수요를 반영한 사업개발 (BD) 전략과 투자 역량을 함께 확보해야 한다는 제언이 나왔다. 특히 글로벌 기술거래 시장에서 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549518"
+      },
+      {
+        "title": "&quot;의대증원되는데 전문의 따야 하나요&quot;…전공의들이 의대생에게 전한 조언은",
+        "source": "MEDI:GATE NEWS",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:MEDI:GATE NEWS+10 | 최신:23시간+10 | 키워드+20 | 순위:18위+5",
+        "snippet": "대한전공의협의회(대전협) 임원들이 21일 열린 젊은의사 커넥트 2026에서 의대생들의 질문에 답하고 있다. [메디게이트뉴스 박민식 기자] 의대 증원과 의료정책의 불확실성 속에서 전문의 수련을 받아야 할지 고민하는 의대생들에게 ...",
+        "published_time": "23시간",
+        "modified_time": "",
+        "time": "23시간",
+        "url": "https://www.medigatenews.com/news/3037552586"
+      }
+    ],
+    "top_keywords": [
+      [
+        "급여",
+        10
+      ],
+      [
+        "신약",
+        9
+      ],
+      [
+        "약가",
+        6
+      ],
+      [
+        "임상",
+        5
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "마운자로",
+        3
+      ],
+      [
+        "항암",
+        3
+      ],
+      [
+        "비만",
+        2
+      ],
+      [
+        "위고비",
+        2
+      ],
+      [
+        "허가",
+        2
+      ],
+      [
+        "백신",
+        2
+      ],
+      [
+        "수출",
+        2
+      ],
+      [
+        "심사",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "medicaldaily.co.kr",
+        6
+      ],
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        2
+      ],
+      [
+        "팜뉴스",
+        2
+      ],
+      [
+        "데일리메디",
+        2
+      ],
+      [
+        "financialpost",
+        1
+      ],
+      [
+        "약업닷컴",
+        1
+      ],
+      [
+        "조선비즈 on MSN",
+        1
+      ],
+      [
+        "서울신문 on MSN",
+        1
+      ],
+      [
+        "약사공론",
+        1
+      ],
+      [
+        "theggnews",
+        1
+      ],
+      [
+        "메디포뉴스",
+        1
+      ],
+      [
+        "biobookmedia",
+        1
+      ],
+      [
+        "MEDI:GATE NEWS",
+        1
+      ],
+      [
+        "제민일보",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 90,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 15,
+      "Pharma Associations": 19,
+      "Regulatory Agencies": 6,
+      "Traditional & Complementary Medicine": 0
+    },
+    "top_articles": [
+      {
+        "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 10:30:13 GMT+5 | 키워드+30 | 순위:94위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QX",
+        "published_time": "Sun, 22 Nov 2026 10:30:13 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 10:30:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5"
+      },
+      {
+        "title": "Vertex’s executive chairman: Here’s how we got our drug-trial success rate over 70% when the industry’s is 10% to 20% - Fortune",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 13:30:00 GMT+5 | 키워드+30 | 순위:96위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWlDQWZIWHJNOENzMm16VmZkeEV3ZlFrZTBjWFI5RzJLdkRPbkdvQThyaVI0Y3FzZ2R1OHN1MUdUOEJESk1ubGliTjBMc3BERkRZVkxyaW1QVGZCbEhqTlhIYy1ZcjFOVWlGVmtoWk",
+        "published_time": "Sun, 22 Nov 2026 13:30:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 13:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaWlDQWZIWHJNOENzMm16VmZkeEV3ZlFrZTBjWFI5RzJLdkRPbkdvQThyaVI0Y3FzZ2R1OHN1MUdUOEJESk1ubGliTjBMc3BERkRZVkxyaW1QVGZCbEhqTlhIYy1ZcjFOVWlGVmtoWklaYzBpS0tQSWxXazlHeF84RzJtRzM4SUlocE45VGprdkItX2J6SWc?oc=5"
+      },
+      {
+        "title": "‘Extraordinary’ Drug May Actually Cure High Blood Pressure Caused by Hormones, And it’s FDA-Approved - Good News Network",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 14:58:57 GMT+5 | 키워드+30 | 순위:97위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUJvaGoxVUFiUWVDbTFNT2RDTWxJNnN1bTQtWUNndE5uRXR4dDI1Yl9KOFJzSFoyVVBQaVYzQ3ZweDgzdmMyVjRDSnZNcVAwTEZnQnU0Q0tyZmpNTHhYeDJzVG1uVEljcUFKY0JPZD",
+        "published_time": "Sun, 22 Nov 2026 14:58:57 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 14:58:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQUJvaGoxVUFiUWVDbTFNT2RDTWxJNnN1bTQtWUNndE5uRXR4dDI1Yl9KOFJzSFoyVVBQaVYzQ3ZweDgzdmMyVjRDSnZNcVAwTEZnQnU0Q0tyZmpNTHhYeDJzVG1uVEljcUFKY0JPZDBoWnVWS0FhNFpGWFhpeWtIRmhNLUNVZ3JkeVNBOUY2RFljRkVSenVTSFd3?oc=5"
+      },
+      {
+        "title": "Dennis Bastas’ ex pharma chief wants to bring new drugs to Australia - AFR",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 09:00:00 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXFGRVZCY2Z6U29SWDN5X2dHem0zX0Fqa2RHc2JIUFJCY1E5V2NGSHUtOERVcW5aSldzY3owd0k2aHhmNkFTVE1LaTg1OVAzV2N5RExBVmFkQ2txUGYzb283NGFpLW9RU3NyeXpvRl",
+        "published_time": "Sun, 22 Nov 2026 09:00:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 09:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeXFGRVZCY2Z6U29SWDN5X2dHem0zX0Fqa2RHc2JIUFJCY1E5V2NGSHUtOERVcW5aSldzY3owd0k2aHhmNkFTVE1LaTg1OVAzV2N5RExBVmFkQ2txUGYzb283NGFpLW9RU3NyeXpvRll5aW5CTW82OGxHTmd4N2Z1bHMxZGlXU2FDNFEtLXhoODY5T0dya09OYkhXbjZYTEg0TFpwN2czMzVoRWQ4b21lYkNLVTUtcHJkVzNTcG5rX0JiTGNUUWs4a2QxUF83WmljOHc?oc=5"
+      },
+      {
+        "title": "FDA CDER Launches Database of New Approach Methodology Use Cases for Nonclinical Drug Studies - CASRAI",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 17:22:57 GMT+5 | 키워드+30 | 순위:101위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE11QVVuVXhHQk4xNHJtUmJtTEw4Rl9kUzljaGRrZUExUGJ1cmllV1VMU0xZNUdsWG9sdURURldsWGFDVVhBRDRHeFl3eWNQajlIRnEyalJabkMtMmRaNDliUVRuUEJfQ3VEVHA1bk5tM3",
+        "published_time": "Sun, 22 Nov 2026 17:22:57 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 17:22:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11QVVuVXhHQk4xNHJtUmJtTEw4Rl9kUzljaGRrZUExUGJ1cmllV1VMU0xZNUdsWG9sdURURldsWGFDVVhBRDRHeFl3eWNQajlIRnEyalJabkMtMmRaNDliUVRuUEJfQ3VEVHA1bk5tM3JBbzYwTnpPZ3pjdDd3dw?oc=5"
+      },
+      {
+        "title": "Obesity drug coverage debate weighs access against insurance costs in Korea - Chosunbiz",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 21:00:00 GMT+5 | 키워드+30 | 순위:102위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVhzbDJqb0VHTnVVaTlvdFBuc3dTM3ptangtNTZsQS1ZVkotVGJyRmRNeE5kN1NNR3JEazA0ak5jSTdxRWt1b2FxSFlHLUxXSlc1VzlDdURrc3JJNEJCSmU2MThIblNVbFE0Y0x2Ym",
+        "published_time": "Sun, 22 Nov 2026 21:00:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVhzbDJqb0VHTnVVaTlvdFBuc3dTM3ptangtNTZsQS1ZVkotVGJyRmRNeE5kN1NNR3JEazA0ak5jSTdxRWt1b2FxSFlHLUxXSlc1VzlDdURrc3JJNEJCSmU2MThIblNVbFE0Y0x2YmJDUFJ2QjY4UWFMOVQtNWJKTdIBlAFBVV95cUxQTE9mX1FiZ0NEYlZNcjBYYkJlLTBJcDJWX3dDUnFhZUt0MGkxNFhNTmgtb2xMRERwUmwwcjl0RUtlUWJ4YzhGaE1vVGEwLVI2S1JRZHZScjlpdk9GSWdkdUh4dnFIdVZjeGtMMVo2Rjhic2k5T0ZMZTdZT1dwa2RWcG00d0JucnZxTm80S0VrQXUtZ1JB?oc=5"
+      },
+      {
+        "title": "Korean Pet Drugs Push Overseas, From Diabetes to Neutering Shots - Seoul Economic Daily",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 08:52:22 GMT+5 | 키워드+30 | 순위:103위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQczdheV9vQlRWS3BtWWV1OVNoWGJSd09nWFdwdWNMT3JQT3VKSDdDYkhTOEJMazhiYnpNTVhGMnd0Q3I1cXlaNDVGTmp4ejlQVkhVZ25nY29Cbk83b044WUxVY2RqdVFqOWtKWUpFQk",
+        "published_time": "Sun, 22 Nov 2026 08:52:22 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 08:52:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczdheV9vQlRWS3BtWWV1OVNoWGJSd09nWFdwdWNMT3JQT3VKSDdDYkhTOEJMazhiYnpNTVhGMnd0Q3I1cXlaNDVGTmp4ejlQVkhVZ25nY29Cbk83b044WUxVY2RqdVFqOWtKWUpFQkExN3dySzFsQlBVR3ZLa202bTNlM3JvZVlhaGQtb1VRYjB5MV9waXFzTmpfTldfTTNJZnc?oc=5"
+      },
+      {
+        "title": "Drugmakers advance access plans, but gaps remain - The Independent Uganda",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 13:00:42 GMT+5 | 키워드+30 | 순위:104위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjZLbUEyTWZzTGpramFmbllNRHIyaDNCU1hhOVBoU0k0aW5oakIyVWIyLXphNV9ZRzN4VzJDdnNUWEtvZHRMQVc2MHhvSzlkanFnNzQtZGJ1a0Qyc1hUTzJYV08zSXF4VTNXN3d6VF",
+        "published_time": "Sun, 22 Nov 2026 13:00:42 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 13:00:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSjZLbUEyTWZzTGpramFmbllNRHIyaDNCU1hhOVBoU0k0aW5oakIyVWIyLXphNV9ZRzN4VzJDdnNUWEtvZHRMQVc2MHhvSzlkanFnNzQtZGJ1a0Qyc1hUTzJYV08zSXF4VTNXN3d6VFE3T01GYkwzS1R1R3Ewajd0bFlQTDM?oc=5"
+      },
+      {
+        "title": "Health Ministry Proposes Amendment to Drug Rules to Bring Antimicrobials Under Central Regulatory Oversight - DD India",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 17:54:58 GMT+5 | 키워드+30 | 순위:122위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcjEyT1ZuTTBITFRWU2ZYcnA0QVZoZHQzM1VrYUJ6bmpGU1pwU3J6cG1OZ3R6NHY1OEJ2RGJ5VjI1V2c2TnBrT29yaGxGZ0U2WjdKUmdyZGtnRWlpaFpfU0d2VEdfcUtzbzF6aEhPLT",
+        "published_time": "Sun, 22 Nov 2026 17:54:58 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 17:54:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcjEyT1ZuTTBITFRWU2ZYcnA0QVZoZHQzM1VrYUJ6bmpGU1pwU3J6cG1OZ3R6NHY1OEJ2RGJ5VjI1V2c2TnBrT29yaGxGZ0U2WjdKUmdyZGtnRWlpaFpfU0d2VEdfcUtzbzF6aEhPLThqTVljd016b1YyNm5PZ3F4RUV3VmlrOWZwT2F2MjJfaHpCRW9JNVRtb2ZlUzVTN1NUN0xWMEdZR2ZqRU9BbFBaMTBnVUFOMUw5MGx3WXV4UjZ2eGx3Tl81blo2cV9UazY5MGVUOQ?oc=5"
+      },
+      {
+        "title": "ICMR Antibiotic Resistance: Common Drugs Losing Power - theopenpress.in",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 19:52:31 GMT+5 | 키워드+30 | 순위:124위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnR5U24wcnZ2N1ZpNUw2NDV6R2ZQVjRKYmI5ZWQ3Q1BveTZLQXJtWUhsdndiN2pldXNyUGxFU1ZyYlpnMDl6T1JRenpTdlRHV1VaOGduenZsMFF2RHhpNWdwSVFIUTBrenRSUlJmWU",
+        "published_time": "Sun, 22 Nov 2026 19:52:31 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 19:52:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnR5U24wcnZ2N1ZpNUw2NDV6R2ZQVjRKYmI5ZWQ3Q1BveTZLQXJtWUhsdndiN2pldXNyUGxFU1ZyYlpnMDl6T1JRenpTdlRHV1VaOGduenZsMFF2RHhpNWdwSVFIUTBrenRSUlJmWUxYSGdYSkFvSW1RazF5M05BWERhT0ZWc3pFOTR2Rkl2MA?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        10
+      ],
+      [
+        "GLP-1",
+        4
+      ],
+      [
+        "obesity",
+        2
+      ],
+      [
+        "pricing",
+        2
+      ],
+      [
+        "patent",
+        2
+      ],
+      [
+        "approval",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 42,
+    "languages": {
+      "French / 프랑스어": 2,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 2,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 5,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 0,
+      "Russian / 러시아어": 5,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 1,
+      "Chinese Traditional / 대만": 0,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 1,
+      "Indonesian / 인도네시아어": 7,
+      "Hindi / 힌디어": 3,
+      "Arabic / 아랍어": 2,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Inauguration de la huitième Exposition pharmaceutique et médicamenteuse des produits végétaux à l'Université Al-Hikma de Sanaa - وكالة سبأ",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 17:30:38 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XbS1LS0xLSTB4ak5UNzJFaE9nR3I5N2FTUE1qXzNOdWFlZXZULUprYjc3WmtYS1BTdEF3ZVlNaGE4TVNCckhkbXo5dTE1MFU?oc=5\" target=\"_blank\">Inauguration de la h",
+        "published_time": "Sun, 22 Nov 2026 17:30:38 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 17:30:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XbS1LS0xLSTB4ak5UNzJFaE9nR3I5N2FTUE1qXzNOdWFlZXZULUprYjc3WmtYS1BTdEF3ZVlNaGE4TVNCckhkbXo5dTE1MFU?oc=5"
+      },
+      {
+        "title": "Alteogen开发出了将抗癌剂注射时间从30分钟缩短到1~2分钟的技术,正在推进追加技术出口。 随着海外制药公司接连完成技术验证,对新合同的期待感也越来越大。 Alteogen代表全泰妍(照片)19.. - 매일경제",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 21:00:00 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9odElEckNCS0h5NnVzSUwzai1sOHNFMmpPaEE3Vk9oajk1STRNaUlRbmJybWlwZnpxbndQQkN1UW8taTlsSjRTZjdEdw?oc=5\" target=\"_blank\">Alteogen开发出了将抗癌剂注射时间从30分钟",
+        "published_time": "Sun, 22 Nov 2026 21:00:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9odElEckNCS0h5NnVzSUwzai1sOHNFMmpPaEE3Vk9oajk1STRNaUlRbmJybWlwZnpxbndQQkN1UW8taTlsSjRTZjdEdw?oc=5"
+      },
+      {
+        "title": "Dược phẩm Trung ương Vidipha triệu tập ĐHĐCĐ bất thường giữa lúc dàn lãnh đạo cấp cao đồng loạt xin từ nhiệm - nguoiquansat.vn",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 12:18:01 GMT+5 | 키워드+25 | 순위:19위+5",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjZMUGZVQTlNOVJVVnJpNk9ZUkZUTmVGR3BzS3FvRUREMndiR0cxMDJwamZGaFc3MmRwVnpLMGJmbEo3MmU4TXJ2Ylgwb3BacnlEWENGdjFuTmxQQUhCQ2FQazhGd1QtQ3QwdE1sZl",
+        "published_time": "Sun, 22 Nov 2026 12:18:01 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 12:18:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQjZMUGZVQTlNOVJVVnJpNk9ZUkZUTmVGR3BzS3FvRUREMndiR0cxMDJwamZGaFc3MmRwVnpLMGJmbEo3MmU4TXJ2Ylgwb3BacnlEWENGdjFuTmxQQUhCQ2FQazhGd1QtQ3QwdE1sZlY4QTZMOGlTVEpwU3VvNWlad3V1MzFaeGJiRnBnUkpjeDgzcnpkQkV0S3N6d2tSV1JJTTZuNkpDYmpoSTJsQnp4ODdKOTl2VTl5TEdORURRZGVFY0pkQm5sQlY5WllhTm9DZWVOTmdHUG43aTJs?oc=5"
+      },
+      {
+        "title": "อินเดียตั้งเป้าหมายที่จะพัฒนาตัวยาใหม่ในอวกาศ - Vietnam.vn",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 11:33:44 GMT+5 | 키워드+10 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPakw4VGItN2lVdThCWi1vRnNkaUpEaVpiSFpHTWpLSXZEWVlhblo5clltdlNmbmlXdkpYYUJuWFV3WkN0eXlVaGp0Rl8yUVdDd0NOcnlueVU0WnM0TlB2OHdydW1uTWtJMXdFSVduMW",
+        "published_time": "Sun, 22 Nov 2026 11:33:44 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 11:33:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPakw4VGItN2lVdThCWi1vRnNkaUpEaVpiSFpHTWpLSXZEWVlhblo5clltdlNmbmlXdkpYYUJuWFV3WkN0eXlVaGp0Rl8yUVdDd0NOcnlueVU0WnM0TlB2OHdydW1uTWtJMXdFSVduMW5oa29hN1RpRkxHUnJkRGR1SDY3dEZvdw?oc=5"
+      },
+      {
+        "title": "Usai Sakit, Dekan Farmasi Unhas Temukan Lima Senyawa Baru dari Tanaman Paliasa - Tribun-timur.com",
+        "source": "",
+        "importance": 45,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 22 Nov 2026 11:46:38 GMT+5 | 키워드+20 | 순위:11위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNQW5SY2hLOC03bkdqdmNSUHdBdHBPZXlIbm1uTUlzbWZiN2FmcnptY3JoRERXVGU2ZjZFWVBDeEVCb1BLNlBacDVGVkRSTVhUcG1yYkNxcnN1eWpBNS1ERmw2dkNlWGJsc2sySTBCQ2",
+        "published_time": "Sun, 22 Nov 2026 11:46:38 GMT",
+        "modified_time": "",
+        "time": "Sun, 22 Nov 2026 11:46:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQW5SY2hLOC03bkdqdmNSUHdBdHBPZXlIbm1uTUlzbWZiN2FmcnptY3JoRERXVGU2ZjZFWVBDeEVCb1BLNlBacDVGVkRSTVhUcG1yYkNxcnN1eWpBNS1ERmw2dkNlWGJsc2sySTBCQ2JFMG01SkRfSTlPRnNWWmpwUlhtSzlfVjVSb1NKMDA3NlRMaXhhdUhjSDRGamZtdWRWaWd3UFRRRlNlb0FiaW1mV0Z0bEtRUHlldHRIMDN2bmpzZ1Y3?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

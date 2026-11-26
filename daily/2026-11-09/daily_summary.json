@@ -1,0 +1,544 @@
+{
+  "date": "2026-11-09",
+  "total": 260,
+  "version": 1,
+  "generated_at": "2026-11-09T06:30:45.784155+09:00",
+  "korean": {
+    "total": 145,
+    "categories": {
+      "의약품": 23,
+      "의약산업": 21,
+      "의약정책": 18,
+      "의약단체": 16,
+      "의약관련정부기관": 17,
+      "의료현장": 14,
+      "약국·약사": 3,
+      "의료정책·인력": 12,
+      "전통의학": 2,
+      "감염·보건": 19
+    },
+    "top_articles": [
+      {
+        "title": "대한한약사회, 9일 국회 앞 집회…한약사 제도 정상화 촉구",
+        "source": "메디파나 뉴스",
+        "importance": 69,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:7시간+15 | 키워드+20 | 순위:11위+10",
+        "snippet": "한약사들이 30년 넘게 해결되지 않은 한의약분업 문제와 일반의약품 공급 제한에 따른 피해를 호소하며 국회 앞 집회에 나선다. 한약사 제도 도입 취지에 맞는 조제체계 마련과 피해 구제를 위한 공식 협의체 구성을 정부에 요구한다는 계획이다. 대한한약사회(회장 임채윤)는 오는 9일 오전 11시 국회 정문 앞에서 현직 한약사와 한약학과 교수 및 학생 등 약 400",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421230"
+      },
+      {
+        "title": "글로벌에서 돈 버는 법…제약바이오 10곳, 서로 다른 성적표",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+20 | 순위:123위+2",
+        "snippet": "국내 주요 제약바이오기업들이 글로벌 시장에서 서로 다른 방식으로 매출과 이익을 창출하고 있다. 위탁생산과 현지판매, 완제품 수출, 기술수출 등 해외사업의 형태가 다양해지면서 지난 3분기 실적 기여도와 수익성에서도 차이가 나타났다. 삼성바이오로직스는 글로벌 위탁생산, 셀트리온‧SK바이오팜‧GC녹십자는 해외 현지판매를 통해 실적을 확대했다. 대웅제약은 보툴리눔",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344310"
+      },
+      {
+        "title": "바르는 JAK억제제 '앤줍고', 건보공단 약가협상 돌입",
+        "source": "데일리팜",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+20 | 순위:105위+2",
+        "snippet": "바르는 JAK억제제 앤줍고가 보험급여 등재로 향하는 마지막 관문에 돌입했다. 8일 관련 업계에 따르면 레오파마코리아는 최근 국민건강보험공단과 만성손습진(CHE, Chronic Hand Eczema) 신약 앤줍고크림(델고시티닙 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://m.dailypharm.com/user/news/344307"
+      },
+      {
+        "title": "유한양행, 장기 섬유화 질환 치료제 후보물질 임상 돌입",
+        "source": "데일리팜",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:5시간+20 | 키워드+10 | 순위:138위+2",
+        "snippet": "유한양행이 차세대 저분자 화합물 신약으로 개발 중인 장기 섬유화 질환 치료제 후보물질 YH34180이 본격적인 임상 단계에 돌입했다. 식품의약품안전처는 건강한 성인 대상자를 대상으로 YH34180의 단회(SAD) 및 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.dailypharm.com/user/news/344309"
+      },
+      {
+        "title": "병원약사회 &quot;가루약 부족에 정제 분쇄 조제…산제 생산 확대해야&quot;",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:5시간+20 | 키워드+10 | 순위:96위+2",
+        "snippet": "의료현장에서 매월 수십만 건의 가루약 처방이 이뤄지고 있지만, 실제 생산되는 산제&#183;시럽제 의약품이 부족해 정제를 직접 분쇄하는 조제가 빈번한 것으로 나타났다. 영유아와 노인, 삼킴 곤란 환자 등의 안전한 약물치료를 위해 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421248"
+      },
+      {
+        "title": "[AI 시대 제약 보안②] 제약업계 보안 투자 '빈익빈 부익부'",
+        "source": "약업닷컴",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:5시간+20 | 키워드+5 | 순위:122위+2",
+        "snippet": "그래픽. &#169;약업신문=김홍식 기자제약&#183;바이오 업계 전반에 걸쳐 고도화된 사이버 공격이 집중되며 보안 인프라 확충의 시급성이 대두되고 있지만, 실제 기업 현장에서는 경영진의 의지와 자금력에 따라 이른바 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=12&amp;nid=334909"
+      },
+      {
+        "title": "소아 자료보호의약품 총 26개… 올해만 18개 품목 등재",
+        "source": "헬스코리아뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:헬스코리아뉴스+18 | 최신:5시간+20 | 키워드+10 | 순위:107위+2",
+        "snippet": "[헬스코리아뉴스 / 이창용] 소아 임상시험 자료를 근거로 자료보호를 받은 의약품이 총 26개 품목으로 늘었다. 이는 전체 자료보호의약품의 3.5% 수준이다. 지난해 2월 제도가 시행된 뒤 연말까지 8개 품목이 등재됐고, 올해 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hkn24.com/news/articleView.html?idxno=351602"
+      },
+      {
+        "title": "대한한약사회 &quot;한약사 피해 구제 위한 정부 대책 촉구&quot;",
+        "source": "국제뉴스",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:국제뉴스+10 | 최신:1일+10 | 키워드+20 | 순위:12위+10",
+        "snippet": "(서울=국제뉴스) 김서중 기자 = 대한한약사회는 9일 오전 11시 국회 정문 앞에서 한약사 피해 구제를 위한 규탄대회 및 협의체 구성 촉구대회를 개최한다. 이번 행사에는 현직 한약사, 한약학과 교수, 학생 등 약 400명이 참여할 예정이다.이번 대회는 1994년 한약사 제도 도입 이후 30년 넘게 한의약분업이 이행되지 않은 상황과 관련 제도적 문제, 현장 ",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3744925"
+      },
+      {
+        "title": "[글로벌 바이오워치]론자, 머크 CDMO 사업 인수…생산거점 5곳",
+        "source": "비즈워치",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:비즈워치+10 | 최신:11시간+15 | 키워드+20 | 순위:125위+2",
+        "snippet": "글로벌 바이오의약품 위탁개발생산(CDMO) 시장에서 사업 재편과 생산 역량 확대가 이어지고 있다. 세계 최대 바이오 CDMO 기업인 스위스 론자가 독일 머크의 미국 CDMO 사업을 인수하며 현지 생산 기반과 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://news.bizwatch.co.kr/article/healthcare/2026/11/06/0010"
+      },
+      {
+        "title": "음성군, 가축전염병 특별방역 추진 &#183;&#183;&#183; 고병원성 AI 확산 방지 주력",
+        "source": "금강일보",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:금강일보+10 | 최신:10시간+15 | 키워드+20 | 순위:114위+2",
+        "snippet": "충북 음성군이 겨울철 고병원성 조류인플루엔자(AI) 발생을 선제적으로 차단하기 위해 현장 중심의 고강도 방역 대응 체제에 돌입했다고 지난 6일 밝혔다.이번 조치는 최근 경기도 연천군의 산란계 농장에서 고병원성 AI가 확진되고 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191691"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        17
+      ],
+      [
+        "허가",
+        7
+      ],
+      [
+        "급여",
+        6
+      ],
+      [
+        "비만",
+        5
+      ],
+      [
+        "약가",
+        5
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "임상",
+        4
+      ],
+      [
+        "FDA",
+        4
+      ],
+      [
+        "식약처",
+        4
+      ],
+      [
+        "수출",
+        3
+      ],
+      [
+        "위고비",
+        2
+      ],
+      [
+        "마운자로",
+        2
+      ],
+      [
+        "한약",
+        2
+      ],
+      [
+        "CDMO",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "제네릭",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "백신",
+        1
+      ],
+      [
+        "특허",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "데일리메디",
+        3
+      ],
+      [
+        "머니투데이",
+        2
+      ],
+      [
+        "국제뉴스",
+        2
+      ],
+      [
+        "메디칼업저버",
+        1
+      ],
+      [
+        "약업닷컴",
+        1
+      ],
+      [
+        "비즈워치",
+        1
+      ],
+      [
+        "머니투데이 on MSN",
+        1
+      ],
+      [
+        "financialpost",
+        1
+      ],
+      [
+        "헬스코리아뉴스",
+        1
+      ],
+      [
+        "약사공론",
+        1
+      ],
+      [
+        "한국사회복지저널",
+        1
+      ],
+      [
+        "글로벌이코노믹 on MSN",
+        1
+      ],
+      [
+        "울산매일",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 69,
+    "categories": {
+      "Drugs & Therapies": 13,
+      "Pharma Industry": 25,
+      "Pharma Policy": 9,
+      "Pharma Associations": 20,
+      "Regulatory Agencies": 1,
+      "Traditional & Complementary Medicine": 1
+    },
+    "top_articles": [
+      {
+        "title": "New drug could be cure for common cause of high blood pressure - The Guardian",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 17:12:00 GMT+5 | 키워드+30 | 순위:40위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTj",
+        "published_time": "Sun, 08 Nov 2026 17:12:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 17:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkUyODdxU2lpWjdmdm0taE1KLWJmVlZrR2RKc3N4aEpzbXZwYnF4dVdwMlp5QWQ3SzY0Qk5nVlB6TktseEpHOGJIX0ZRZGY5ODJ6Nm1yZ1gzTXo1WTliSzRiMmVfV1JOcHZrLTNsTjk1ZHFTZEF5WnJoSFBINlZaZFVXcVMtN3JrMzN0Ynh0RUc?oc=5"
+      },
+      {
+        "title": "The iPS Cell Breakthroughs Reshaping Drug Discovery for Rare Disease - Nippon.com",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 21:01:00 GMT+5 | 키워드+30 | 순위:41위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYVFXM0g5OFQ5cHJZZjMwalUtRkhFZ0ZrTUxDQ1BDZzNFZEJKNXBhdHU1cVV4OTdoWEoxWXdiSm5ZMHE2UHlsYjF6VU1ybXdRbk9tZA?oc=5\" target=\"_blank\">The iPS Cell ",
+        "published_time": "Sun, 08 Nov 2026 21:01:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 21:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FYVFXM0g5OFQ5cHJZZjMwalUtRkhFZ0ZrTUxDQ1BDZzNFZEJKNXBhdHU1cVV4OTdoWEoxWXdiSm5ZMHE2UHlsYjF6VU1ybXdRbk9tZA?oc=5"
+      },
+      {
+        "title": "Could cancer drugs help treat TB? Local researchers launch study. - San Antonio Report",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 11:00:00 GMT+5 | 키워드+30 | 순위:44위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkczenlzTGJhY3NvSzB4QzhFcHJJeE1TaUZqbXRyR2ZDZ0Y2LVNWWHhsXzVUUjJTSTdrbXhIRWdFOXVEYVRPZW8ySWJJcHlINFg0WHRTM1NVSUdwXzlmV2VFVmUwOWN1Z0xUM25xbH",
+        "published_time": "Sun, 08 Nov 2026 11:00:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 11:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkczenlzTGJhY3NvSzB4QzhFcHJJeE1TaUZqbXRyR2ZDZ0Y2LVNWWHhsXzVUUjJTSTdrbXhIRWdFOXVEYVRPZW8ySWJJcHlINFg0WHRTM1NVSUdwXzlmV2VFVmUwOWN1Z0xUM25xbHlxNG9JdDFLbnlEc09jT2c3NEVjUEJlQ2dq?oc=5"
+      },
+      {
+        "title": "Why Royalty Pharma Investors Could Be the Quiet Winners From Revolution Medicines' Groundbreaking Pancreatic Cancer Drug - Yahoo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 15:35:00 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU5SNEhrbm9TWW96Wmd3MDJLTGk2ZGdTMEh2S1pXTklNbDVtUkhHY21xcXRxNm9KeFhweFRNNzVUT2hDQVphNU1YVXRjU3Z6QkpHQU4xQXpKUXJDWnY3Y0J5RnN6Q3hmN2RMM25YLX",
+        "published_time": "Sun, 08 Nov 2026 15:35:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 15:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeU5SNEhrbm9TWW96Wmd3MDJLTGk2ZGdTMEh2S1pXTklNbDVtUkhHY21xcXRxNm9KeFhweFRNNzVUT2hDQVphNU1YVXRjU3Z6QkpHQU4xQXpKUXJDWnY3Y0J5RnN6Q3hmN2RMM25YLXlMWFc3MFM3cFF2M2YwSm1oTklRZk8xWm1Hd05SY2RUM3g3ajQ4VWc1OVp2dw?oc=5"
+      },
+      {
+        "title": "Rakuten Investment Management Inc. Purchases 26,660 Shares of Royalty Pharma PLC $RPRX - MarketBeat",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 10:23:43 GMT+5 | 키워드+30 | 순위:102위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmRBd1VYWFNSZU9vZVJwcWgxRTNoOTFIU21pUDlfUU0za2tOVkhaT1kzYXM0cW5OeXBWZ0doMEc0MEh6MEpMTXVWVW1WNkR5VFVKTmx6ZVZSblNUYzVoNTRUZjZiR3BpV0lJMzVlTz",
+        "published_time": "Sun, 08 Nov 2026 10:23:43 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 10:23:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTmRBd1VYWFNSZU9vZVJwcWgxRTNoOTFIU21pUDlfUU0za2tOVkhaT1kzYXM0cW5OeXBWZ0doMEc0MEh6MEpMTXVWVW1WNkR5VFVKTmx6ZVZSblNUYzVoNTRUZjZiR3BpV0lJMzVlTzI4S1JEbzNDcmcwOGxYMm44dURVRzJwRHQ3WkRNRFNqc3ZBYTVGQkd1QkhhMGhzUTlEZmk1MXV2T2NHcXI3Z1k1NEVGeHdhcUR1ZVpkUjNlYnUwOU1tSS1ZZXRXSS1LM1BJa3NIbmNuY1lPRHpq?oc=5"
+      },
+      {
+        "title": "Research report: Real-World Evidence for Drug Value Assessment in China: Learning from International Experiences - Bioengineer.org",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 08:43:56 GMT+5 | 키워드+30 | 순위:30위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXJ0S0ZiWk01aDdSU1F2Zl9LOF9NaUp4V09sdERMaEVFdTRVVDFhNWFwYXJVZXI1OGlFdEVvdFkyejViSXRIRTZJbmJKLUhvbkxUd3RoWTRtdzhDN0Z1V0hZVjRZMmQ4dTZOVnJOck",
+        "published_time": "Sun, 08 Nov 2026 08:43:56 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 08:43:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYXJ0S0ZiWk01aDdSU1F2Zl9LOF9NaUp4V09sdERMaEVFdTRVVDFhNWFwYXJVZXI1OGlFdEVvdFkyejViSXRIRTZJbmJKLUhvbkxUd3RoWTRtdzhDN0Z1V0hZVjRZMmQ4dTZOVnJOckZUaFNCTXVGSldnWm9MMGtMdXZ0YU9EaGZ1QVQ0MFZoeENiOGQ4Zjh1NWpTTm5jeV8xdTYzZTI4Q3VHV1g5SFBkbUdtYXRPU0FSYVZ2eDdqLVRZVWJoTlp3dGFPeDdBb2lu?oc=5"
+      },
+      {
+        "title": "KFF Answers Medicare Questions: I Have Drug Coverage From The VA. Do I Need To Sign Up For A Part D Plan? - Sierra Sun Times",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 11:02:53 GMT+5 | 키워드+30 | 순위:31위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQazAxQ1BnNzBGR1Z4cEU1Sl9OaHVWeVZtN1Rmc3BvQWJTMEEwUjJ2bnlNT3FNSzlnSm1PV2hzN1BTbkZxNnU1UWNxSC1YWUVmOHVydkU4elJzYUt6Nk42NEZYb3VOR1ZkbkhxNFEyaH",
+        "published_time": "Sun, 08 Nov 2026 11:02:53 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 11:02:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQazAxQ1BnNzBGR1Z4cEU1Sl9OaHVWeVZtN1Rmc3BvQWJTMEEwUjJ2bnlNT3FNSzlnSm1PV2hzN1BTbkZxNnU1UWNxSC1YWUVmOHVydkU4elJzYUt6Nk42NEZYb3VOR1ZkbkhxNFEyaHdtdnFZTmY0dzJuWXZoNG5zLXFNVVpyVHFyeXk5V3pIXzVQbFUxbG1TM1VmQ01wRm50aHc3a1J0amZxRERtd0Juc0cxYnF1aThzTHdnMGdfWTE1MzhjVkpFenA3OVUydDhUMXlpM000anlrT1BrRHJRZ3RrMDlCVm8tQmltdGVPWGVFMF8teXhFWGlhaDlBVXZudmZZ?oc=5"
+      },
+      {
+        "title": "105 Hedge Funds Own This Cancer Drug Stock After a Breakthrough — Is Something Bigger Coming? - Yahoo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 15:36:51 GMT+5 | 키워드+30 | 순위:36위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFd5LV90VUlSTWFXNE1MaXVzZGJpLU5nQ0N6d04zYWV5REFvN0pfT0FqT0Y5LV9mQkJKeE1abGtuZS1xano2RXpYMUlqNVY1VUtXWFFTRUFncjFqU3Y0R3BjYk5NcVZMRTVuWF9CU2",
+        "published_time": "Sun, 08 Nov 2026 15:36:51 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 15:36:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFd5LV90VUlSTWFXNE1MaXVzZGJpLU5nQ0N6d04zYWV5REFvN0pfT0FqT0Y5LV9mQkJKeE1abGtuZS1xano2RXpYMUlqNVY1VUtXWFFTRUFncjFqU3Y0R3BjYk5NcVZMRTVuWF9CU2xudVJoWXdweENnZ0k4M0hvYWpkTzdhR3R6X2JKb3RSR1o?oc=5"
+      },
+      {
+        "title": "Hansoh Pharmaceutical Group Company Limited (3692.HK) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 09:22:44 GMT+5 | 키워드+30 | 순위:62위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SeTZUOUhMWnVyMHF4TkN2SG1oQlVZcVZlMVZCNWRnVUVGSUtfZHZIV0V2aDR2eUJFLVVUSjI2ZGV6WC11SzFRVWhpTTN6Ym9zbHVqNW93?oc=5\" target=\"_blank\">Hansoh Phar",
+        "published_time": "Sun, 08 Nov 2026 09:22:44 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 09:22:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SeTZUOUhMWnVyMHF4TkN2SG1oQlVZcVZlMVZCNWRnVUVGSUtfZHZIV0V2aDR2eUJFLVVUSjI2ZGV6WC11SzFRVWhpTTN6Ym9zbHVqNW93?oc=5"
+      },
+      {
+        "title": "Asda, Decathlon, eBay and TK Maxx issue urgent product recalls — ‘stop using immediately’ - The Mirror",
+        "source": "",
+        "importance": 43,
+        "stars": "⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 08:13:00 GMT+5 | 키워드+10 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTZLaDVSbWxhT2Y2VFVMdXA2VmUtSlZtN1ROSG1mRk4zeXVSSTRHR2EyVTdOMmNLaDQ4RmR4eUQ5a2F3ZzNzSmxfX1FKWWo0NG1GZG84SzRjUHRITjNlaUFDRk5aaUlkLWs2bExKV0",
+        "published_time": "Sun, 08 Nov 2026 08:13:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 08:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSTZLaDVSbWxhT2Y2VFVMdXA2VmUtSlZtN1ROSG1mRk4zeXVSSTRHR2EyVTdOMmNLaDQ4RmR4eUQ5a2F3ZzNzSmxfX1FKWWo0NG1GZG84SzRjUHRITjNlaUFDRk5aaUlkLWs2bExKV081MUNNdUQ5YkRneHlhVW4tM204Q3RBQdIBiwFBVV95cUxPdUxGQWVlTkRON0l0VzVoX21Fd1NVbjhCS1RLRXBDSGtDVkRFMXZ4VDVXUE9rOHcwLWRWREVxT3R4bVV6ODJnNlFBeFFvdU92OGRDbDNCbjlydjZNMkpRalV0V0UtV3UzQkQycWxNUE5QRTVUYjBKLTlmVDVxdnFkU0NfMGJMOERFQWV3?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        3
+      ],
+      [
+        "manufacturing",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "clinical trial",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "recall",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 46,
+    "languages": {
+      "French / 프랑스어": 3,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 2,
+      "Italian / 이탈리아어": 1,
+      "Portuguese / 포르투갈어": 3,
+      "Dutch / 네덜란드어": 1,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 0,
+      "Turkish / 터키어": 0,
+      "Russian / 러시아어": 6,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 2,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 3,
+      "Indonesian / 인도네시아어": 3,
+      "Hindi / 힌디어": 4,
+      "Arabic / 아랍어": 7,
+      "Hebrew / 히브리어": 0,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "中药行业周报：山东“十五五”中医药规划发布，以岭儿科新药获批_行业研究_研报 - 证券之星",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 10:19:00 GMT+5 | 키워드+25 | 순위:3위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE53WmlaUnhRVDZGSTVoZlFuMWZhb0VpXzFVbnRUNEllcnZNVkQzM2RUUDE2NC1EakFCQ0t5Zk5lZno5UC1zYTROY0pvVXhxbjRvdkpTMmV4QTVKT2NHbGxEclp3?oc=5\" target=\"_bl",
+        "published_time": "Sun, 08 Nov 2026 10:19:00 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 10:19:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53WmlaUnhRVDZGSTVoZlFuMWZhb0VpXzFVbnRUNEllcnZNVkQzM2RUUDE2NC1EakFCQ0t5Zk5lZno5UC1zYTROY0pvVXhxbjRvdkpTMmV4QTVKT2NHbGxEclp3?oc=5"
+      },
+      {
+        "title": "Rico Zini explicó por qué el PRO rechazó la creación del Centro de Industria Farmacéutica Bonaerense - Diario Núcleo",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 15:12:19 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWhjSDhYbllmcEZJMmJIQXhQQkNMLU5yR1kzSEpYd2VSN21kUlNpQnJ4U1Z3RGd2Q1BaVEw0dFdWTVRUa0dVeDVTX0NJVWZMTWRSRVNUbXlpcEx4UTh4TGF1c25FY2ptZ2RhbG0wdn",
+        "published_time": "Sun, 08 Nov 2026 15:12:19 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 15:12:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVWhjSDhYbllmcEZJMmJIQXhQQkNMLU5yR1kzSEpYd2VSN21kUlNpQnJ4U1Z3RGd2Q1BaVEw0dFdWTVRUa0dVeDVTX0NJVWZMTWRSRVNUbXlpcEx4UTh4TGF1c25FY2ptZ2RhbG0wdnh3a0JaY3cwV2xUTF9uUnNybWstNFdFZ29STzNqcHdOSU9RcUFkZko2elVnRFk?oc=5"
+      },
+      {
+        "title": "ยศชนัน-วัชระพล มอบนโยบายดึงงานวิจัย-นวัตกรรมสมุนไพรไทยแก้ปัญหายาเสพติด เร่งฝึกทักษะอาชีพ เพิ่มรายได้ คืนคนดีสู่สังคม - thestandard.co",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 18:56:27 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNDhjSEQwTFJZc1kydkxvQzdiT2VVN000QWhQcVZKQjI2WVVIaUJ5OEItU2RERjJ4eHpZVmNERm51WGE2dmFVQ1NzT3dDX0oxdHlsRl84OGFrYVp0eEEtUGoxa3hGbEZXZVI3a1dSdW",
+        "published_time": "Sun, 08 Nov 2026 18:56:27 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 18:56:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNDhjSEQwTFJZc1kydkxvQzdiT2VVN000QWhQcVZKQjI2WVVIaUJ5OEItU2RERjJ4eHpZVmNERm51WGE2dmFVQ1NzT3dDX0oxdHlsRl84OGFrYVp0eEEtUGoxa3hGbEZXZVI3a1dSdWUtUVc0UkE?oc=5"
+      },
+      {
+        "title": "Ramuan Tradisional Jamu Berkembang Lebih Dekat ke Anak Muda - Tribunjateng.com",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 15:08:52 GMT+5 | 키워드+20 | 순위:6위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQVTBQb3BQbWxXZW14UVpkN082RjFuYW1yOXo3d2d4anc4Z2hfQ0IyazZPTGJoLVhRVjdUX0FSOHBDU0Vka1pVN2JoWVM2SW5mazYxbnBZVmNORE1rN0FMdExjdU9Ga2JNOWdxakduU1",
+        "published_time": "Sun, 08 Nov 2026 15:08:52 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 15:08:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVTBQb3BQbWxXZW14UVpkN082RjFuYW1yOXo3d2d4anc4Z2hfQ0IyazZPTGJoLVhRVjdUX0FSOHBDU0Vka1pVN2JoWVM2SW5mazYxbnBZVmNORE1rN0FMdExjdU9Ga2JNOWdxakduU1BhU2JOUFF4Ny1nV29wTXdZcFd3b21YNjNBWUQ3aWF5dm42a0MwTUVjWk03dkNuYzlVOGMyczAwNHlnUjhmVnc?oc=5"
+      },
+      {
+        "title": "6.5 مليون ريال.. سلطنة عُمان تطلق أول مشروع لإنتاج المستحضرات الصيدلانية المشعة - Shabiba",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Sun, 08 Nov 2026 10:29:45 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zcDZ3eW9NMy1Ed29faXNpbGlBYkozMGFwbnd6SGo1SW1GZFZ3cVQxTzlzaVRsdm9zVjlidmlvUlBIUQ?oc=5\" target=\"_blank\">6.5 مليون ريال.. سلطنة عُمان تطلق أول",
+        "published_time": "Sun, 08 Nov 2026 10:29:45 GMT",
+        "modified_time": "",
+        "time": "Sun, 08 Nov 2026 10:29:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zcDZ3eW9NMy1Ed29faXNpbGlBYkozMGFwbnd6SGo1SW1GZFZ3cVQxTzlzaVRsdm9zVjlidmlvUlBIUQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}

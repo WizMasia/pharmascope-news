@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-07",
+  "total": 393,
+  "version": 1,
+  "generated_at": "2026-11-07T06:30:55.705498+09:00",
+  "korean": {
+    "total": 185,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 19,
+      "의약단체": 23,
+      "의약관련정부기관": 23,
+      "의료현장": 12,
+      "약국·약사": 6,
+      "의료정책·인력": 24,
+      "전통의학": 3,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "안국약품, 셀비온과 방사성의약품 혁신신약 개발 추진",
+        "source": "약업닷컴",
+        "importance": 61,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:12시간+15 | 키워드+20 | 순위:149위+2",
+        "snippet": "안국약품(대표 박인철)이 방사성의약품 전문기업 셀비온(대표 김권)과 업무협약(MOU) 체결 이후 후속 실무 협의를 진행하며, 방사성의약품 기반 차세대 암 표적치료제 개발을 위한 협력 방안을 구체화하고 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://www.yakup.com/news/index.html?mode=view&amp;cat=all&amp;nid=334861"
+      },
+      {
+        "title": "수술실 간호사 숙련도까지 데이터로…삼성서울병원 美 특허",
+        "source": "메디파나 뉴스",
+        "importance": 56,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:1일+10 | 키워드+20 | 순위:71위+2",
+        "snippet": "수술실에 어떤 간호사를 배치할 것인지는 수술의 특성과 의료진의 경험, 인력 운영 상황 등을 종합적으로 고려해야 하는 문제다. 수술 분야가 세분화되고 첨단 장비의 활용이 늘어나면서 수술에 참여하는 간호사의 숙련도와 전문성을 ...",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421071"
+      },
+      {
+        "title": "안국약품, 셀비온과 방사성의약품 개발 속도...항암 신약 공동연구 구체화",
+        "source": "e-science",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:e-science+10 | 최신:3시간+20 | 키워드+20 | 순위:144위+2",
+        "snippet": "안국약품이 방사성의약품을 새로운 항암 신약 개발 분야로 낙점하고 외부 전문기업과 협력 범위를 넓히고 있다. 자체 의약품 개발과 사업화 경험에 방사성의약품 전문기업의 연구개발 역량을 결합해 신약 파이프라인 확대를 추진하는 ...",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139120"
+      },
+      {
+        "title": "[보도참고] 식약처, '연조직고정용장치 허가심사 가이드라인(민원인안내서)' 마련",
+        "source": "한국사회복지저널",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한국사회복지저널+10 | 최신:6시간+20 | 키워드+20 | 순위:127위+2",
+        "snippet": "식약처, ‘연조직고정용장치 허가&#183;심사 가이드라인(민원인안내서)’ 마련- 제품 개발 추세 맞춰 구조, 삽입방식 등에 따른 성능평가 필요 항목 제시식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)은 건(힘줄)&#183;인대 등 연조직을 뼈에 고정하기 위해 사용하는 의료기기인 연 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.ksw-news.com/news/articleView.html?idxno=3057988"
+      },
+      {
+        "title": "의약외품 GMP 자율 도입서 의무화로...식약처, 2027년 법령 개정 추진",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:3시간+20 | 키워드+20 | 순위:129위+2",
+        "snippet": "[의학신문&#183;일간보사=이재원 기자] 식품의약품안전처가 그동안 자율 도입을 중심으로 운영해 온 의약외품 제조&#183;품질관리기준(GMP)을 단계적으로 의무화하는 방안을 추진한다. 올해 말까지 관련 연구를 마무리하고 2027년부터 의무화 로드맵 마련과 업계 의견수렴, 법령 개정에 착수한다는 계획이다. 아울러 품질 부적합 의약외품의 회수계획서 제출기한을",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015867"
+      },
+      {
+        "title": "식약처, 디지털융합의약품 규제샌드박스 도입 검토",
+        "source": "의학신문",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:4시간+20 | 키워드+20 | 순위:135위+2",
+        "snippet": "[의학신문&#183;일간보사=이재원 기자] 식품의약품안전처가 의약품과 디지털의료기기가 결합된 디지털융합의약품에 대한 규제샌드박스 도입 가능성을 검토한다. 기존 규제체계에서 실증이 어려운 혁신제품에 대해 실제 사용환경에서 데이터를 ...",
+        "published_time": "4시간",
+        "modified_time": "",
+        "time": "4시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015862"
+      },
+      {
+        "title": "눈에 띠는 실적 올리고 있는 제약바이오, SK바이오팜&#183;파마리서치",
+        "source": "메디파나 뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:메디파나 뉴스+24 | 최신:8시간+15 | 키워드+10 | 순위:156위+2",
+        "snippet": "SK바이오팜과 파마리서치가 자사가 개발한 블록버스터로 해마다 눈에 띠는 경영 실적을 내고 있다. 자체 개발 제품인데다 해외시장이 나날이 확대되고 있어 영업이익이 독보적인데다 앞으로도 지속적인 성장이 예견된다. 하지만 중장기적인 성장 구조를 위해선 기존 블록버스터 제품 외에 이를 이을만한 후속 포트폴리오를 갖추는 것이 중요해보인다. 국산신약 엑스코프리로 연간",
+        "published_time": "8시간",
+        "modified_time": "",
+        "time": "8시간",
+        "url": "https://www.medipana.com/news/articleView.html?idxno=421163"
+      },
+      {
+        "title": "신속등재 5개 약제, '100일 승부'… 평가&#183;협상 각 30일 목표",
+        "source": "히트뉴스",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:히트뉴스+24 | 최신:5시간+20 | 키워드+5 | 순위:104위+2",
+        "snippet": "[히트뉴스=이현주 기자] 희귀질환 치료제 신속등재 시범사업 대상 5개 약제가 확정됐다. 내년 1월까지 회사들이 급여결정을 신청하면 실제 건강보험 등재를 위한 후속 절차가 시작된다. 건강보험심사평가원 급여 적정성 평가와 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80580"
+      },
+      {
+        "title": "안국약품, 셀비온과 방사성의약품 신약 개발 본격화",
+        "source": "의학신문",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:의학신문+10 | 최신:10시간+15 | 키워드+20 | 순위:142위+2",
+        "snippet": "협력 파트너인 셀비온은 암 치료 및 진단용 방사성의약품 연구개발과 제조 역량을 보유한 기업으로, 대표적인 신약 후보물질인 전립선암 치료제 ‘177Lu-DGUL (포큐보타이드 사테트라세탄)’은 국내 임상 2상을 완료하고 ...",
+        "published_time": "10시간",
+        "modified_time": "",
+        "time": "10시간",
+        "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015799"
+      },
+      {
+        "title": "[보도참고] 식약처, 의약품 허가 심사 수수료 현실화 추진",
+        "source": "한국사회복지저널",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:한국사회복지저널+10 | 최신:7시간+15 | 키워드+20 | 순위:128위+2",
+        "snippet": "- 고난도 심사가 필요한 의약품의 품목허가, 변경허가, 사전검토 수수료 개편- 「첨단바이오의약품 안전 및 지원에 관한 규칙」 개정안 입법예고(11.6~12.16)- 「의약품 등의 허가 등에 관한 수수료 규정」 개정안 행정예고(11.6~11.26)식품의약품안전처(처장 오유경)는 신약 외 ...",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.ksw-news.com/news/articleView.html?idxno=3057977"
+      }
+    ],
+    "top_keywords": [
+      [
+        "신약",
+        23
+      ],
+      [
+        "허가",
+        20
+      ],
+      [
+        "식약처",
+        19
+      ],
+      [
+        "심사",
+        14
+      ],
+      [
+        "임상",
+        13
+      ],
+      [
+        "급여",
+        11
+      ],
+      [
+        "한약",
+        6
+      ],
+      [
+        "FDA",
+        5
+      ],
+      [
+        "비만",
+        4
+      ],
+      [
+        "백신",
+        3
+      ],
+      [
+        "위고비",
+        2
+      ],
+      [
+        "GMP",
+        2
+      ],
+      [
+        "약가",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "CDMO",
+        2
+      ],
+      [
+        "R&D",
+        2
+      ],
+      [
+        "오남용",
+        1
+      ],
+      [
+        "ADC",
+        1
+      ],
+      [
+        "항암",
+        1
+      ],
+      [
+        "수출",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "의학신문",
+        9
+      ],
+      [
+        "약사공론",
+        6
+      ],
+      [
+        "약업닷컴",
+        4
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "뉴스더보이스헬스케어",
+        3
+      ],
+      [
+        "데일리메디",
+        3
+      ],
+      [
+        "팜뉴스 on MSN",
+        3
+      ],
+      [
+        "청년의사",
+        2
+      ],
+      [
+        "뉴스1 on MSN",
+        2
+      ],
+      [
+        "바이오타임즈",
+        2
+      ],
+      [
+        "국제뉴스",
+        2
+      ],
+      [
+        "한국사회복지저널",
+        2
+      ],
+      [
+        "전자신문 on MSN",
+        2
+      ],
+      [
+        "e-science",
+        1
+      ],
+      [
+        "지디넷코리아 on MSN",
+        1
+      ]
+    ]
+  },
+  "english": {
+    "total": 110,
+    "categories": {
+      "Drugs & Therapies": 25,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 23,
+      "Regulatory Agencies": 9,
+      "Traditional & Complementary Medicine": 3
+    },
+    "top_articles": [
+      {
+        "title": "The Medicine in the Mangroves: How Young Kenyans Are Keeping Indigenous Knowledge Alive - Citizen Digital",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 14:17:31 GMT+5 | 키워드+30 | 순위:11위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3czUm5CTkRkOE5mVGxCaDRFczlyX1BNZ3M3Y3RKbDBOY1ItZEJlWTZQSGdoOFQybW14Ykhfa2ZGTng1T1k3emtQMnc0YXVaT1dlQnBjSEJHN21pT1RrZGVsS0VsRjdPZTJqMlJCVl",
+        "published_time": "Fri, 06 Nov 2026 14:17:31 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 14:17:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ3czUm5CTkRkOE5mVGxCaDRFczlyX1BNZ3M3Y3RKbDBOY1ItZEJlWTZQSGdoOFQybW14Ykhfa2ZGTng1T1k3emtQMnc0YXVaT1dlQnBjSEJHN21pT1RrZGVsS0VsRjdPZTJqMlJCVlpkalRKZ3l6aXg0X00xSzJSUEdGUTVfSElROUlCWUExbFlMQ3VLM2RNV2VUUDYyMWtNc041ckVUWEN6NFljLVZWdjk1Y05WbUtHQWxDMWJ3SE85bXNE?oc=5"
+      },
+      {
+        "title": "Trump signs executive order accelerating research into psychedelic drug therapies - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 10:42:53 GMT+5 | 키워드+30 | 순위:100위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1BvY29qdzU3bm1lUEVOWUJHenU5OEpCdkxUajRMdmoxSlpORE9PRTBudnVUd0lkNF9wVzRkUldfbGFDUkNzWXJnb3VpRGp3N0hpaUotTUhBRjFoVnRtWlMtdnNwUjIzSUJnRjNQLX",
+        "published_time": "Fri, 06 Nov 2026 10:42:53 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 10:42:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1BvY29qdzU3bm1lUEVOWUJHenU5OEpCdkxUajRMdmoxSlpORE9PRTBudnVUd0lkNF9wVzRkUldfbGFDUkNzWXJnb3VpRGp3N0hpaUotTUhBRjFoVnRtWlMtdnNwUjIzSUJnRjNQLXU1YXMyMWxucHNUVWJuWnJvNXVqZmFobEh0aWxmSGFSLXpVel9Wb0ZUVmlrX1FXaXNyRU90ZEw5RUNyV1JOU1JxWE5B?oc=5"
+      },
+      {
+        "title": "Lynk Pharmaceuticals Announces NMPA Acceptance of New Drug Application for Zemprocitinib in the Treatment of Rheumatoid Arthritis - Yahoo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 08:38:14 GMT+5 | 키워드+30 | 순위:101위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWFzejFxOWREakRYWGtsWXNNLVN2bFFuNlNELVV3bm9pUFk2OVRzTzVQUWpwenZvU1luVFlHaEk1dXpqdGNoeXdXdjZVNVpwbnRSZUZ5NEljeHk4TFZZQ2drZDJVMl9ZY3N4cThlUU",
+        "published_time": "Fri, 06 Nov 2026 08:38:14 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 08:38:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWFzejFxOWREakRYWGtsWXNNLVN2bFFuNlNELVV3bm9pUFk2OVRzTzVQUWpwenZvU1luVFlHaEk1dXpqdGNoeXdXdjZVNVpwbnRSZUZ5NEljeHk4TFZZQ2drZDJVMl9ZY3N4cThlUUNaWE5QNUY3NVZVSHlIN0pYdlY2YjM5QVpxMVdibmpsajFXMGhCT3RsaUtqLVZZaVFqc3dnalQzNmV2UHc?oc=5"
+      },
+      {
+        "title": "The US Drug-Pricing Reset: Competing on Net Value - Pharmaceutical Executive",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 19:17:42 GMT+5 | 키워드+30 | 순위:103위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9vV0xWb2ZNUnFzcFJMZlpsZXlFR09rZmV0NDQ4c1kycFl1YmlZazR0U0RtcG5wV1FQMEJGMF9qM0J2SUh1SDZ1bllrajZGdExoandydFVtRHBIWlpnU0lfSmZEZnZPNk5fZXN3Q2Jpdw",
+        "published_time": "Fri, 06 Nov 2026 19:17:42 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 19:17:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vV0xWb2ZNUnFzcFJMZlpsZXlFR09rZmV0NDQ4c1kycFl1YmlZazR0U0RtcG5wV1FQMEJGMF9qM0J2SUh1SDZ1bllrajZGdExoandydFVtRHBIWlpnU0lfSmZEZnZPNk5fZXN3Q2Jpdw?oc=5"
+      },
+      {
+        "title": "Breast Cancer Drug Palbociclib Linked to Rare Autoimmune Neuropathy Mimicking CIDP - Bioengineer.org",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 11:52:06 GMT+5 | 키워드+30 | 순위:114위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQW1mQnVwbVVQRDRjamFROEt2LW5zMVkyM2ZSdVFZWV9QaE8zYWdFWlp4bXZzQkp4R0lEWnhxUWR4NHBURDl3dmhtUHhMSExVbTJnMm9QOVpjZ2hyMkEwSk9ORGRVSlNBVW9vYWh0LV",
+        "published_time": "Fri, 06 Nov 2026 11:52:06 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 11:52:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQW1mQnVwbVVQRDRjamFROEt2LW5zMVkyM2ZSdVFZWV9QaE8zYWdFWlp4bXZzQkp4R0lEWnhxUWR4NHBURDl3dmhtUHhMSExVbTJnMm9QOVpjZ2hyMkEwSk9ORGRVSlNBVW9vYWh0LVpTWWlJY2ZIbnNQNWMyNWNzcTBuX1Rmb2dDcVpvVzh5WFp0V211S19oOHZhaWhhbF9DbzdiZ19aUi11Q2c?oc=5"
+      },
+      {
+        "title": "• CHEManager is the market-leading medium for the management of the chemical and pharmaceutical industry - CHEManager",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 09:46:55 GMT+5 | 키워드+30 | 순위:127위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOWERhMlZzUlF6cEMwTndtWHRldGJGNXE1ZlNXazlacjZESUF0dHdrSFdzY1ZKaFNZc3RhNlEzSTQ3dXZDbHZLR2ttM3ZHMnJHdFFOd3JfVE5jMzRuRFV3aHdOcVdlZVk0Qy1MT3g4Un",
+        "published_time": "Fri, 06 Nov 2026 09:46:55 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 09:46:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWERhMlZzUlF6cEMwTndtWHRldGJGNXE1ZlNXazlacjZESUF0dHdrSFdzY1ZKaFNZc3RhNlEzSTQ3dXZDbHZLR2ttM3ZHMnJHdFFOd3JfVE5jMzRuRFV3aHdOcVdlZVk0Qy1MT3g4UnJIaFpNQ0RJcjVodTBoVGRoQlYtMA?oc=5"
+      },
+      {
+        "title": "The Global Biotechnology and Pharmaceutical Services Outsourcing Market is Expected to Grow at a 7.1% CAGR Throughout - EIN Presswire",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 17:00:00 GMT+5 | 키워드+30 | 순위:128위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWXRsUDh6YlE5cS13QkdLV2hjQkotc1ZlMXZqbHJXM29LeFVGd0FIWnVqSUY3NEt0blBtSDBmbVN4d3owNnRNNHdQSnV4UGtlUFBMTjhQVlVtMnNLcTd3dkJzVmlXckdLQjBKQ1dMTV",
+        "published_time": "Fri, 06 Nov 2026 17:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 17:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWXRsUDh6YlE5cS13QkdLV2hjQkotc1ZlMXZqbHJXM29LeFVGd0FIWnVqSUY3NEt0blBtSDBmbVN4d3owNnRNNHdQSnV4UGtlUFBMTjhQVlVtMnNLcTd3dkJzVmlXckdLQjBKQ1dMTVc4WVdiZ0VRb01lMDFQbmZHbXNJVW93SWlBZDBtQXBmc2ZWUVJ5M3hVclFZRmJjc1YxTHRWVkU1UlgxTTByZjNYbUJTUWpDbWpQSk1BZk16U0diMHU2MWRkSHhhMTR5V1JrbXFKTGtiVVdpdXdkdUFjbTRQdEUxVm53Y1dvVEdkd0tIdzZNbVE?oc=5"
+      },
+      {
+        "title": "From manufacturing to innovation: What China's pharmaceutical shift means for Pakistan-INP - Independent News Pakistan",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 11:23:56 GMT+5 | 키워드+30 | 순위:132위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdVNJMkNqWko0aktCN1NwejRkOE05TENsdlI5NlJzbnBnMHpOWU5TR0VndmdRQUk3UDhIVi1iTURCUEgweFBRZGxCNkZ1Rk5LQzlRWV9PbEItbERNeXdHR2ZrWDVsNGVwbWVvWEo4NX",
+        "published_time": "Fri, 06 Nov 2026 11:23:56 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 11:23:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdVNJMkNqWko0aktCN1NwejRkOE05TENsdlI5NlJzbnBnMHpOWU5TR0VndmdRQUk3UDhIVi1iTURCUEgweFBRZGxCNkZ1Rk5LQzlRWV9PbEItbERNeXdHR2ZrWDVsNGVwbWVvWEo4NXB6RDRHTW4zbzhkVzhOVkhpTlNiUHhzbl9mMEtkOHRFX245VVhzaXlUc2xIUjhWU210OHVSdjVGS3plRl9aSU8yNXJWcENDTW1rWElOQkpFQUFSWFFiZmVYbkswc2U5QWNG?oc=5"
+      },
+      {
+        "title": "PharmAla partners with Corealis for ALA-002 drug manufacturing By Investing.com - Investing.com Australia",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 17:22:36 GMT+5 | 키워드+30 | 순위:145위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQU29QUWliRlRCWTFRVWROdTJ3V0xhS2Zyc0xZR19zalNqVXB2cFBpeEUtTUxhc2VmMTRXLWkyUWNGeU1fOTRPNXBNYUtkNldzeFJjRWhaLUR4cTgwTVpxTm9MazVzaDhCR0ZiS0xNMV",
+        "published_time": "Fri, 06 Nov 2026 17:22:36 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 17:22:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU29QUWliRlRCWTFRVWROdTJ3V0xhS2Zyc0xZR19zalNqVXB2cFBpeEUtTUxhc2VmMTRXLWkyUWNGeU1fOTRPNXBNYUtkNldzeFJjRWhaLUR4cTgwTVpxTm9MazVzaDhCR0ZiS0xNMVFqcmxRVUFhNTlvcllENFJ0NEpYTmVXYjU0eEVmeTVKSVhPcjA2SHQ5UWZhcmJ3bjE3X2xPVVVBMWRLRjFWUXItcnd3QzVkSmdTa3E2VUJiTQ?oc=5"
+      },
+      {
+        "title": "Kos Biotechnology Partners Announces Investment in Fathom Therapeutics to Advance Novel, AI-Driven Drug Discovery Platform - Yahoo Finance",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 11:00:00 GMT+5 | 키워드+30 | 순위:150위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0JFSklfR2tReXJRcXNUOFE0T0VOTl9sT3ZyVW1lb3N0VHQyOHpoOHhiTjZhM2sxY3ZKelBSbnIyUUFUellmTGQxYlVmYk9qNFg2S2szaS03Y1U2Sk1RLVlxUjhXRThfYzV0RkFQZ3",
+        "published_time": "Fri, 06 Nov 2026 11:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 11:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0JFSklfR2tReXJRcXNUOFE0T0VOTl9sT3ZyVW1lb3N0VHQyOHpoOHhiTjZhM2sxY3ZKelBSbnIyUUFUellmTGQxYlVmYk9qNFg2S2szaS03Y1U2Sk1RLVlxUjhXRThfYzV0RkFQZ3U0M2gzU0F5RUdsX083UVp6ME85eXZKeTB6MDJQNmFWM1FpRWFicHdHWUZwdEVJd0FLZGtjSGZMSkMyTDY5?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "manufacturing",
+        12
+      ],
+      [
+        "FDA",
+        8
+      ],
+      [
+        "pricing",
+        4
+      ],
+      [
+        "approval",
+        3
+      ],
+      [
+        "clinical trial",
+        2
+      ],
+      [
+        "patent",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ],
+      [
+        "GMP",
+        1
+      ],
+      [
+        "generic",
+        1
+      ],
+      [
+        "inspection",
+        1
+      ],
+      [
+        "quality",
+        1
+      ],
+      [
+        "safety",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 98,
+    "languages": {
+      "French / 프랑스어": 7,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 7,
+      "Portuguese / 포르투갈어": 10,
+      "Dutch / 네덜란드어": 4,
+      "Swedish / 스웨덴어": 0,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 1,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 1,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 8,
+      "Indonesian / 인도네시아어": 10,
+      "Hindi / 힌디어": 7,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "Kendi kendine ilaç kullanımı ve alkol kötüye kullanımı sonucu ortaya çıkan akut hepatit ve akut pankreatit. - Vietnam.vn",
+        "source": "",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 13:00:06 GMT+5 | 키워드+25 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1FaTHMwWThPamhnMTFHMDhGdUFRNTlrVE9TQUxnWlVPcjRzODdZVVl1OXRwQWR0QUFjTERzYV9FUC1iaW1KaGVFMWhIZGJRd2pTRmlFU0hySENWandkc2Q4dEowbFV6enNSVFM2d2",
+        "published_time": "Fri, 06 Nov 2026 13:00:06 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 13:00:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1FaTHMwWThPamhnMTFHMDhGdUFRNTlrVE9TQUxnWlVPcjRzODdZVVl1OXRwQWR0QUFjTERzYV9FUC1iaW1KaGVFMWhIZGJRd2pTRmlFU0hySENWandkc2Q4dEowbFV6enNSVFM2d2Q0OElwUzZ5VWk5UFM0OTZmZ2FiaHN0MnFTQ0Z5UW5wdGhuTDc4MkVEX19HY3Y?oc=5"
+      },
+      {
+        "title": "製藥業供應鏈轉型 直接面對病患模式成特殊藥物上市關鍵策略 - GeneOnline",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 18:33:19 GMT+5 | 키워드+20 | 순위:2위+20",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUJLQ0U4ODNybUhmSjBUREFBbzRKWjlNdGpBMW5ScGE0eGV1bjNLcHJMY2UwVlhfVl9pWEZkZGt6aFhpS1BNRkZYalBsSG0xS2FyRXB2UkJDWjdIWEp0Y0tBMTloekxJSHpyNThpS2",
+        "published_time": "Fri, 06 Nov 2026 18:33:19 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 18:33:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQcUJLQ0U4ODNybUhmSjBUREFBbzRKWjlNdGpBMW5ScGE0eGV1bjNLcHJMY2UwVlhfVl9pWEZkZGt6aFhpS1BNRkZYalBsSG0xS2FyRXB2UkJDWjdIWEp0Y0tBMTloekxJSHpyNThpS2s1SkFGX05SN3dBcjNJYko1cGF0LUJuUDJORlZDckJJZ2N2eTR3ZWcySTd0RXB5UzdLMnItcFR6RmhzRW13RW1CWm5JWTI5Vm8zSFNINHFVa2hmeTZ1UC1tQnFOWHZhaWoxbzU4eFhENnZ2RDFMTlZ2b3B0c2s4dE56cDdhMXZDMmp5ZFoweV85b1RpSEpITkZ6T081X2JOMDVQZ3Y4c0NSb2h4QzI0ZVZkcThzSGxpVVFQTENLR3lGOWZVT3lHOVNuYWw1UWlmWEdwNVdVOVJYMDlONld1MFk?oc=5"
+      },
+      {
+        "title": "नई शर्तों से बढ़ी दवा उद्योग की चिंता | Business Standard - Hindi - newspaper - Magzter",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 08:59:10 GMT+5 | 키워드+25 | 순위:8위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQMDVpMEphR1p0dDIwbXhBYlk3bDdrcDZZa1VCa1pERkFRSjRzUE9XSy1zU2tDZVR6MFZRLTE2ak5KQVJsLUtuUlJxOVpiNGM5c0Mtc2NTRHRROUhvRXVHMm5kdWtNQlBvLXdSaUc4ZT",
+        "published_time": "Fri, 06 Nov 2026 08:59:10 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 08:59:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMDVpMEphR1p0dDIwbXhBYlk3bDdrcDZZa1VCa1pERkFRSjRzUE9XSy1zU2tDZVR6MFZRLTE2ak5KQVJsLUtuUlJxOVpiNGM5c0Mtc2NTRHRROUhvRXVHMm5kdWtNQlBvLXdSaUc4ZTFCS2xBMFQ2SDktUGZOS1M0cjhaakFPdw?oc=5"
+      },
+      {
+        "title": "تحويل الطب التقليدي إلى صناعة خدمات الرعاية الصحية المتكاملة مع السياحة والاستجمام. - Vietnam.vn",
+        "source": "",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 14:30:59 GMT+5 | 키워드+25 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1B6cmp4NTNPZE9WTG9lTUtkOUVTM2dJLVhzcUR6Y0ZwQkFIcEhuRlVMT0k1WDNLOW5Ed051OVAxay15Q1hISThDNkhSS092ZDNyMDV4QzBhZEpvQXVyWVRBTGliZWF3Ni1FbEhUX2",
+        "published_time": "Fri, 06 Nov 2026 14:30:59 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 14:30:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1B6cmp4NTNPZE9WTG9lTUtkOUVTM2dJLVhzcUR6Y0ZwQkFIcEhuRlVMT0k1WDNLOW5Ed051OVAxay15Q1hISThDNkhSS092ZDNyMDV4QzBhZEpvQXVyWVRBTGliZWF3Ni1FbEhUX2FYOFdEenlzSFlBSF9Yc2MxbU5MRlBQS2kySFNYY3JhWXJuSFRSekhVMnlQU2gzTDZPcFVmSTdSbFFHczNYWTIw?oc=5"
+      },
+      {
+        "title": "利润拐点确认、政策全面加码：借道港股创新药ETF景顺(513780)布局医药新周期 - 手机新浪网",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 06 Nov 2026 09:43:00 GMT+5 | 키워드+20 | 순위:7위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxONGNaVEViQXV4N0puNUhBUFFvWTNpVUJQZy1XVjg2dEdxNzNBV0ZJQ1R2M3ZuSEpiWEZvY0JLcU5Qa1ZkcXI2VmExaEZvTE5OcWpkVTEwUEc4Tl9NQW9KY1FhLXJVbTdNcmtzdzJqNW",
+        "published_time": "Fri, 06 Nov 2026 09:43:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 06 Nov 2026 09:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONGNaVEViQXV4N0puNUhBUFFvWTNpVUJQZy1XVjg2dEdxNzNBV0ZJQ1R2M3ZuSEpiWEZvY0JLcU5Qa1ZkcXI2VmExaEZvTE5OcWpkVTEwUEc4Tl9NQW9KY1FhLXJVbTdNcmtzdzJqNWRjd2NFM1RubHBWTkRLaWQ3cFBScw?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
