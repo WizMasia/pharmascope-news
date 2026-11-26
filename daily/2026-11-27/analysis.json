@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-27",
+  "total_articles": 418,
+  "language_breakdown": {"korean": 211, "english": 107, "multilingual": 100},
+  "issues": [
+    {
+      "topic": "특허만료 압박 속 AI 신약개발과 제약사 투자",
+      "domain": "industry",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 61,
+      "key_articles": [
+        {"title": "의약품 '특허 절벽'에 다급한 제약사들… AI 신약 개발에 올 상반기 60조원 베팅", "importance": 70, "url": "https://biz.chosun.com/science-chosun/science/2026/11/27/MQZTAMBSHBSDCZTDMQ3TKM3CGI/"},
+        {"title": "Pharma Companies Turn to AI Amid Patent Cliff", "importance": 42, "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnJCTW1EWmlLb21NMDcwUHoyYlItQmZYWUZ2Ym5kVmdJLUtlbnFtSFNYUDFQa0FiamVlSFZ0Q243Q1FCQXlGLWw3N2MxNkwxTmNFbnJhNEpjdTkxREtDZ0tvV2t1VWNtLTN3amM2ckpKUGZKNmtpRFdlUkpYdDhXNndjWW0yN09m?oc=5"},
+        {"title": "Bayer Bets Big on Cancer With $3.25 Billion Drug Deal and €500 Million China Investment", "importance": 47, "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfN2F4bHREUFlZZ24yc0dIZzBGMU8zSUhaRlJMb0RkVUlrUDJTd1ZGcm84ek9hbEVqSTVEa1VjN2dpNWo1RXh5dUxVa19CTVBxelZ6UE93?oc=5"}
+      ],
+      "summary_kr": "조선비즈는 키트루다 주요 특허의 2028년 만료를 앞둔 MSD 등의 대응과 AI 신약 개발 투자를 보도했다. 다국어권에는 Bayer의 항암제 기술도입·중국 투자 보도도 포착됐다. 개별 거래·투자 보도는 특허만료 대응의 서로 다른 사례로 구분된다.",
+      "summary_en": "Coverage links looming blockbuster patent expiries with heavier AI drug-discovery investment; Bayer's cancer-asset licensing and China investment also illustrate parallel portfolio and manufacturing strategies."
+    },
+    {
+      "topic": "식약처, 2027년 의약품 허가·심사 개선 방향 제시",
+      "domain": "regulatory",
+      "significance": "high",
+      "article_count": 3,
+      "avg_importance": 54,
+      "key_articles": [
+        {"title": "2027년 의약품 허가·심사 무엇이 달라지나…식약처 '청사진' 공개", "importance": 60, "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=550035"},
+        {"title": "식약처·제약업계, 의약품 심사 개선 논의…AI·제네릭 기준 손본다", "importance": 52, "url": "https://www.msn.com/ko-kr/news/other/%EC%8B%9D%EC%95%BD%EC%B2%98-%EC%A0%9C%EC%95%BD%EC%97%85%EA%B3%84-%EC%9D%98%EC%95%BD%ED%92%88-%EC%8B%AC%EC%82%AC-%EA%B0%9C%EC%84%A0-%EB%85%BC%EC%9D%98-ai-%EC%A0%9C%EB%84%A4%EB%A6%AD-%EA%B8%B0%EC%A4%80-%EC%86%90%EB%B3%B8%EB%8B%A4/ar-AA2igZU1?ocid=BingNewsVerp"}
+      ],
+      "summary_kr": "식약처가 2027년부터 GLP-1 계열 합성 펩타이드·마이크로니들 개발 지원을 강화하고 매개변수기반 출하 적용 확대를 추진한다. 별도 업계 논의에서는 첨가제·제네릭 품질심사 기준 구체화와 AI 등 신기술 활용이 과제로 제시됐다.",
+      "summary_en": "Korean coverage describes MFDS plans to support development of GLP-1 peptide and microneedle products, broaden parametric release, and refine generic and novel-technology review approaches."
+    },
+    {
+      "topic": "글로벌 제약사의 국내 임상연구 투자 유지",
+      "domain": "industry",
+      "significance": "medium",
+      "article_count": 1,
+      "avg_importance": 75,
+      "key_articles": [
+        {"title": "글로벌 제약사, 2년째 국내 임상연구에 연 1조원대 투자 [건강한겨레]", "importance": 75, "url": "https://www.hani.co.kr/arti/hanihealth/pharm/1289345.html"}
+      ],
+      "summary_kr": "한겨레 보도에 따르면 글로벌 제약사 34곳의 국내 임상연구 투자가 2년 연속 연 1조원대를 유지했다. 협회가 공개한 투자·R&D 현황 보고서에 근거한 보도다.",
+      "summary_en": "Reported annual clinical-research investment by 34 global pharmaceutical companies in Korea remained above KRW 1 trillion for a second consecutive year."
+    },
+    {
+      "topic": "고대안암병원의 전공의 수련교육 개선 사례",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 57,
+      "key_articles": [
+        {"title": "고대안암병원, 역량 중심 전공의 수련교육 발전 방안 모색", "importance": 57, "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017491"},
+        {"title": "고대안암병원, 전공의 수련 교육 혁신 성과 공유…“교육역량 강화 모색”", "importance": 57, "url": "https://www.rapportian.com/news/articleView.html?idxno=242931"}
+      ],
+      "summary_kr": "고려대 안암병원이 역량 중심 전공의 수련교육 개선 성과와 사례를 공유하고 발전 방안을 모색했다는 보도가 이어졌다.",
+      "summary_en": "Reports highlighted Korea University Anam Hospital's competency-based residency education improvements and experience-sharing."
+    },
+    {
+      "topic": "신경계 신약의 급여기준과 치료 접근성",
+      "domain": "policy",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 54,
+      "key_articles": [
+        {"title": "신경계 신약 시대…'약값'만으로 풀 수 없는 '급여' 문제", "importance": 56, "url": "https://www.medipana.com/news/articleView.html?idxno=422755"}
+      ],
+      "summary_kr": "메디파나뉴스는 신경계 신약이 개발돼도 기존 치료 실패나 질환 악화 뒤에야 사용할 수 있는 급여기준 등으로 환자 접근성 문제가 남을 수 있다고 짚었다.",
+      "summary_en": "The coverage notes that reimbursement criteria and care pathways—not price alone—can delay access to newer neurological therapies."
+    },
+    {
+      "topic": "의사·간호사 국가시험 특정 과목 만점자 증가 보도",
+      "domain": "clinical",
+      "significance": "medium",
+      "article_count": 2,
+      "avg_importance": 61,
+      "key_articles": [
+        {"title": "간호사·의사 국시에 무슨 일?…특정 과목 만점자 최대 31배 급증", "importance": 70, "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/26/2026112690229.html"}
+      ],
+      "summary_kr": "국회에 제출된 자료를 인용한 보도에서 의사·간호사 국가시험 일부 과목의 만점자 증가가 제기됐다. 수치만으로 부정행위나 원인을 단정하지 않고 시험 통계와 조사 결과를 확인할 사안이다.",
+      "summary_en": "A report citing parliamentary data flagged sharp increases in perfect scores in selected Korean medical and nursing examination subjects; the figures alone do not establish cause or misconduct."
+    },
+    {
+      "topic": "미국·중국 등 주요 시장의 허가 및 임상 개발",
+      "domain": "drug",
+      "significance": "medium",
+      "article_count": 3,
+      "avg_importance": 47,
+      "key_articles": [
+        {"title": "GSK picks up key Chinese approval for HBV drug Hibsago", "importance": 47, "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXo2dlZtdFVzV2FsMHY4Y2JaMkhDTmhGei1YaEJlY2NlaC1nejRJcGQwcTA5UlRiYnhCTDRTMWgwellfV1UzSFFXc0VSM1Q4bHp5WmFYVVhYWWtKdDBLM04wbGFfTDJqREU4emdhRlgzVFJkR3NiUXdiSlYyTUxxTWdJNA?oc=5"},
+        {"title": "Lupin Secures USFDA Approval for Sitagliptin, Metformin Diabetes Drug", "importance": 47, "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0NOYmpZa1oycTN0eFdSTlhkb0ZGbl9VT2UzTHFEMXJMUmpFTDRBdU1rYjJpU29ZMU56VG91QkpmbkJXWHFzZHczcG5pbWtkdExkTjc5aDdrOXU4TGNHZkVWRDBaTFNnRjNTZVF2SGVhWm9rV2tEOVhCNlJLQi1hSW4tdzlyc2ZxSnpqQWluUnV1Z25tMlpHc2tYYXVOQzh3dnB0d1pqN2IzOER4S2JPVGRPM01MMUNIOE5YbDl6ZEZuU0ZoSy000gHHAUFVX3lxTE13Q05iallrWjJxM3R4V1JOWGRvRkZuX1VPZTNMcUQxckxSakVMNEF1TWtiMmlTb1kxTnpUb3VCSmZuQldYcXNkdzNwbmlta2R0TGRONzloN2s5dThMY0dmRVZEMFpMU2dGM1NlUXZIZWFab2tXa0Q5WEI2UktCLWFJbi13OXJzZnFKempBaW5SdXVnbm0yWkdza1hhdU5DOHd2cHR3Wmo3YjM4RHhLYk9UZE8zTUwxQ0g4TlhsOXpkRm5TRmhLLTQ?oc=5"}
+      ],
+      "summary_kr": "영문권 기사에는 GSK의 B형간염 치료제 중국 승인과 Lupin의 시타글립틴·메트포르민 복합제 미국 FDA 승인 보도가 포함됐다. 서로 다른 제품·관할의 개별 규제 결정이다.",
+      "summary_en": "English-language headlines reported GSK's Chinese approval for an HBV therapy and US FDA approval for Lupin's sitagliptin/metformin product; these are separate product decisions."
+    },
+    {
+      "topic": "한약·아토르바스타틴 병용 가능성에 관한 초기 연구",
+      "domain": "traditional_medicine",
+      "significance": "low",
+      "article_count": 1,
+      "avg_importance": 50,
+      "key_articles": [
+        {"title": "Herbal Medicines Reduce Atorvastatin Systemic Exposure in Healthy Volunteer Trial", "importance": 50, "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGk4YTV1TXlfSWhnSHZ6ZnExRUhHbDJVREhQQXc0bjk0R3ZwcDM0UlZkVWN6dUxhUmxGdmJDaXNsdVNXWnlsXy1JTlpRR195dlctRWtuWlRvLXFaQkxkaVlLLVNsUldLYTVrQVZGRU5TNjlLdy1ZdHlsYzFlVnpKRFkxN0ZsTlZBUkZoUFRLVW1VOWZrZVYtV05BQVlUX2ItbV9pWEZXMm56dw?oc=5"}
+      ],
+      "summary_kr": "영문 기사 제목은 건강한 자원자 시험에서 한약 복용이 아토르바스타틴의 전신 노출을 낮췄다고 보고한다. 제한된 시험 결과이므로 임상적 상호작용의 범위와 의미는 원문 연구 확인이 필요하다.",
+      "summary_en": "A healthy-volunteer report suggests herbal medicines reduced systemic atorvastatin exposure; clinical significance and applicability require review of the underlying study."
+    }
+  ],
+  "cross_language_issues": [
+    {"keyword": "백신", "kr_count": 6, "en_count": 1, "significance": "low"},
+    {"keyword": "특허", "kr_count": 12, "en_count": 2, "significance": "high"},
+    {"keyword": "허가", "kr_count": 3, "en_count": 6, "significance": "medium"},
+    {"keyword": "약가", "kr_count": 6, "en_count": 4, "significance": "medium"}
+  ],
+  "notable_absences": [],
+  "trend_shift": {"from_yesterday": [], "changes": ["전일 analysis.json이 준비 데이터에 없어 전일 대비 변화는 산출하지 않음"]},
+  "connections": ["특허 만료와 AI 신약개발 투자 보도가 함께 나타났으나 개별 기업 전략과 투자는 별개 사례로 취급했다.", "허가·약가의 한영 공통 키워드는 주제 후보일 뿐 동일 사건을 뜻하지 않는다."],
+  "generated_at": "2026-11-27T07:30:00+09:00"
+}
