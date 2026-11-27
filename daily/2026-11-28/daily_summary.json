@@ -1,0 +1,536 @@
+{
+  "date": "2026-11-28",
+  "total": 391,
+  "version": 1,
+  "generated_at": "2026-11-28T06:30:51.311993+09:00",
+  "korean": {
+    "total": 180,
+    "categories": {
+      "의약품": 25,
+      "의약산업": 25,
+      "의약정책": 9,
+      "의약단체": 14,
+      "의약관련정부기관": 25,
+      "의료현장": 25,
+      "약국·약사": 3,
+      "의료정책·인력": 25,
+      "전통의학": 4,
+      "감염·보건": 25
+    },
+    "top_articles": [
+      {
+        "title": "식약처, 무균의약품 GMP 이행지원 가이드라인 2종 제정",
+        "source": "약업닷컴",
+        "importance": 66,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:약업닷컴+24 | 최신:3시간+20 | 키워드+20 | 순위:138위+2",
+        "snippet": "식품의약품안전처가 오는 12월 29일 무균의약품 제조 및 품질관리기준(GMP) 개정 규정의 추가 시행을 앞두고 제약업계의 원활한 제도 이행을 지원하기 위한 가이드라인을 마련했다.식품의약품안전처(처장 ...",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.yakup.com/news/?mode=view&amp;cat=11&amp;cat3=0&amp;nid=335860"
+      },
+      {
+        "title": "뇌에 반도체 이식 FDA 임상 승인",
+        "source": "중소기업신문",
+        "importance": 65,
+        "stars": "⭐⭐⭐⭐",
+        "evidence": "출처:중소기업신문+28 | 최신:11시간+15 | 키워드+20 | 순위:155위+2",
+        "snippet": "미국 식품의약국(FDA)이 2026년 11월 25일(현지시간) 일론 머스크가 설립한 뉴럴링크의 뇌-컴퓨터 인터페이스(BCI) 'LINK' 확증 임상시험 개시를 승인했다. 상용 판매 허가가 아니라 안전성과 유효성을 본격 ...",
+        "published_time": "11시간",
+        "modified_time": "",
+        "time": "11시간",
+        "url": "https://www.smedaily.co.kr/news/articleView.html?idxno=366694"
+      },
+      {
+        "title": "의약품 '특허 절벽'에 다급한 제약사들… AI 신약 개발에 올 상반기 60조원 베팅",
+        "source": "조선비즈",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:조선비즈+28 | 최신:1일+10 | 키워드+20 | 순위:140위+2",
+        "snippet": "가장 다급한 곳은 MSD다. 연 290억달러를 벌어들였던 면역항암제 '키트루다'의 주요 특허가 2028년 만료된다. 새 제형으로 전환에 실패하면 매출이 300억달러에서 60억달러 수준으로 쪼그라들 것이라는 계산도 나온다.",
+        "published_time": "1일",
+        "modified_time": "",
+        "time": "1일",
+        "url": "https://biz.chosun.com/science-chosun/science/2026/11/27/MQZTAMBSHBSDCZTDMQ3TKM3CGI/"
+      },
+      {
+        "title": "청주의료원, 지역 필수의료 협력체계 강화 논의",
+        "source": "NEWSIS on MSN",
+        "importance": 60,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:NEWSIS on MSN+28 | 최신:6시간+20 | 키워드+10 | 순위:144위+2",
+        "snippet": "충북 청주의료원이 지역 필수의료 공백을 줄이고 공공보건의료 서비스의 연계성을 높이기 위해 유관기관과 협력 방안을 논의했다. 청주의료원은 27일 '2026년 공공보건의료 협력체계 구축사업 원외 대표협의체 회의'를 개최했다고 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://www.msn.com/ko-kr/news/other/%EC%B2%AD%EC%A3%BC%EC%9D%98%EB%A3%8C%EC%9B%90-%EC%A7%80%EC%97%AD-%ED%95%84%EC%88%98%EC%9D%98%EB%A3%8C-%ED%98%91%EB%A0%A5%EC%B2%B4%EA%B3%84-%EA%B0%95%ED%99%94-%EB%85%BC%EC%9D%98/ar-AA2ilbY0?ocid=BingNewsVerp"
+      },
+      {
+        "title": "정부, 필수의약품 공급난에 민&#183;관 공동 대응…환자단체도 참여",
+        "source": "조선비즈",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:조선비즈+28 | 최신:6시간+20 | 키워드+5 | 순위:76위+2",
+        "snippet": "정부가 필수의약품 공급 부족에 신속하게 대응하기 위해 의료계와 제약&#183;유통업계, 환자단체가 참여하는 민&#183;관 협력 체계를 구축했다. 기존 국가필수의약품뿐 아니라 일시적인 수요 증가로 공급 차질이 우려되는 의약품까지 논의 대상에 ...",
+        "published_time": "6시간",
+        "modified_time": "",
+        "time": "6시간",
+        "url": "https://biz.chosun.com/science-chosun/bio/2026/11/27/B2HQTWCOR5AF5LVLRCLCBQ6XOQ/"
+      },
+      {
+        "title": "국가필수의약품 ‘민&#183;관 합동 거버넌스’ 본격 가동",
+        "source": "병원신문",
+        "importance": 55,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:병원신문+28 | 최신:3시간+20 | 키워드+5 | 순위:84위+2",
+        "snippet": "보건복지부와 식품의약품안전처가 국가필수의약품의 안정적인 공급을 위해 정부와 의료현장, 산업계, 환자단체가 모두 참여하는 민&#183;관 합동 거버넌스를 구축하고 본격적인 운영에 들어갔다.보건복지부와 식약처는 11월 27일 ‘2026년 ...",
+        "published_time": "3시간",
+        "modified_time": "",
+        "time": "3시간",
+        "url": "https://www.khanews.com/news/articleView.html?idxno=253330"
+      },
+      {
+        "title": "네트워크약국 금지법 시행, 약사회 &quot;의심 사례 제보&quot;",
+        "source": "약사공론",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:약사공론+18 | 최신:5시간+20 | 키워드+10 | 순위:16위+5",
+        "snippet": "약사회는 면허대여와 자본 종속형 운영이 약사의 전문성을 훼손하고 의약품 유통 질서를 왜곡할 수 있다는 점을 제기했다. 서영석 의원이 발의한 개정안의 취지는 국회 보건복지위원회 대안에 반영됐고, 개정법은 지난 4월 국회 ...",
+        "published_time": "5시간",
+        "modified_time": "",
+        "time": "5시간",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=550123"
+      },
+      {
+        "title": "국내 제약사, 신약 수익화 전략 다변화…기술료&#183;로열티&#183;해외 매출 확대",
+        "source": "thetracker",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:thetracker+10 | 최신:12시간+15 | 키워드+25 | 순위:146위+2",
+        "snippet": "더트래커 = 장진 기자국내 제약사들이 신약 개발 성과를 수익으로 연결하는 방식을 다변화하고 있다. 글로벌 제약사에 후보물질을 기술수출해 단계별 기술료를 확보하는 한편, 해외에서 판매되는 신약의 로열티와 자체 개발 의약품의 ...",
+        "published_time": "12시간",
+        "modified_time": "",
+        "time": "12시간",
+        "url": "https://thetracker.co.kr/View.aspx?No=4331301"
+      },
+      {
+        "title": "치료 중에도 배움은 계속…병원학교에서 키운 간호사의 꿈",
+        "source": "청년의사",
+        "importance": 52,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:청년의사+10 | 최신:2시간+20 | 키워드+20 | 순위:152위+2",
+        "snippet": "한양대병원이 개교 21주년을 맞은 병원학교 '누리봄교실'의 교육 공간을 확충하고 환아 맞춤형 교육 프로그램을 확대한다.한양대병원은 지난 25일 본관 HY이음홀에서 '스물한 번째 우리들의 희망 이야기'를 주제로 누리봄교실 개교 ...",
+        "published_time": "2시간",
+        "modified_time": "",
+        "time": "2시간",
+        "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3044987"
+      },
+      {
+        "title": "식약처, AI&#183;멀티오믹스로 의약품 부작용 예측한다",
+        "source": "데일리팜",
+        "importance": 51,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:데일리팜+24 | 최신:7시간+15 | 키워드+10 | 순위:156위+2",
+        "snippet": "식품의약품안전처(처장 오유경) 소속 식품의약품안전평가원(원장 강석연)이 오는 12월 4일 의약품 부작용 및 약물 반응성 예측 연구를 지원하는 통합 데이터 플랫폼 ‘K-PREDICT(케이-프레딕트)’의 시범운영에 돌입한다.",
+        "published_time": "7시간",
+        "modified_time": "",
+        "time": "7시간",
+        "url": "https://www.dailypharm.com/user/news/345127"
+      }
+    ],
+    "top_keywords": [
+      [
+        "식약처",
+        23
+      ],
+      [
+        "신약",
+        20
+      ],
+      [
+        "급여",
+        11
+      ],
+      [
+        "임상",
+        11
+      ],
+      [
+        "허가",
+        8
+      ],
+      [
+        "FDA",
+        7
+      ],
+      [
+        "약가",
+        6
+      ],
+      [
+        "수출",
+        5
+      ],
+      [
+        "심사",
+        4
+      ],
+      [
+        "GMP",
+        3
+      ],
+      [
+        "항암",
+        2
+      ],
+      [
+        "공급망",
+        2
+      ],
+      [
+        "특허",
+        2
+      ],
+      [
+        "GLP-1",
+        1
+      ],
+      [
+        "마운자로",
+        1
+      ],
+      [
+        "바이오시밀러",
+        1
+      ],
+      [
+        "백신",
+        1
+      ]
+    ],
+    "top_sources": [
+      [
+        "약사공론",
+        11
+      ],
+      [
+        "메디포뉴스",
+        7
+      ],
+      [
+        "의학신문",
+        7
+      ],
+      [
+        "더바이오",
+        5
+      ],
+      [
+        "데일리팜",
+        3
+      ],
+      [
+        "dazabi.com",
+        3
+      ],
+      [
+        "매일타임즈",
+        3
+      ],
+      [
+        "메디파나 뉴스",
+        3
+      ],
+      [
+        "메디칼업저버",
+        3
+      ],
+      [
+        "청년의사",
+        3
+      ],
+      [
+        "조선비즈",
+        2
+      ],
+      [
+        "전자신문 on MSN",
+        2
+      ],
+      [
+        "쿠키뉴스 on MSN",
+        2
+      ],
+      [
+        "한겨레 on MSN",
+        2
+      ],
+      [
+        "약업닷컴",
+        2
+      ]
+    ]
+  },
+  "english": {
+    "total": 102,
+    "categories": {
+      "Drugs & Therapies": 19,
+      "Pharma Industry": 25,
+      "Pharma Policy": 25,
+      "Pharma Associations": 0,
+      "Regulatory Agencies": 25,
+      "Traditional & Complementary Medicine": 8
+    },
+    "top_articles": [
+      {
+        "title": "How life-saving cancer drugs are ‘held hostage’ in Ontario’s negotiations with pharmaceutical companies - The Trillium",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 21:08:00 GMT+5 | 키워드+30 | 순위:58위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDktQkJ1RTYzc0NTZUY3b2o3d29ZcFdBVFJiZ3Z4cDllcFdMR013blRjLVEtUlRaTklPRUVqelFMN0pyVzFPQkV3VHp3dXdGT19lbkNFUHlHNkZQY2pwOTJMQUNJNWtSRl9IUzlZUz",
+        "published_time": "Fri, 27 Nov 2026 21:08:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 21:08:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaDktQkJ1RTYzc0NTZUY3b2o3d29ZcFdBVFJiZ3Z4cDllcFdMR013blRjLVEtUlRaTklPRUVqelFMN0pyVzFPQkV3VHp3dXdGT19lbkNFUHlHNkZQY2pwOTJMQUNJNWtSRl9IUzlZUzlPSU5SRjhaa3FWZXh0ZnJpcUtIQlBkMVZaTDNVZXA4SlQ2cmp4djY2LTJkUEZjTmJBZFlhYkZiWjdHWlhvYUx3bTE1aGFST1VNdUdPZlY2ZDJzWlJBLWhLcjNvNXZXSFZZX19ObDVMNG9za3dFVFVtWkF3?oc=5"
+      },
+      {
+        "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 08:12:41 GMT+5 | 키워드+30 | 순위:59위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QX",
+        "published_time": "Fri, 27 Nov 2026 08:12:41 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 08:12:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5"
+      },
+      {
+        "title": "Why US drug pricing could matter for patients in Cyprus - Philenews",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 10:16:03 GMT+5 | 키워드+30 | 순위:62위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVlRTXRsSDVLMGhObk14Z0pFU2xGdU5GcEZydXoxRGFocEdVdnd2Q3J5dW9NcUhzRWxJN0ZoN2p3TVRmaHU3VUxPV2JxcnFodGx2dnNXVE01cFJEY0ZvMl9zWnFIVTI3aGRNbTR2VF",
+        "published_time": "Fri, 27 Nov 2026 10:16:03 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 10:16:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVlRTXRsSDVLMGhObk14Z0pFU2xGdU5GcEZydXoxRGFocEdVdnd2Q3J5dW9NcUhzRWxJN0ZoN2p3TVRmaHU3VUxPV2JxcnFodGx2dnNXVE01cFJEY0ZvMl9zWnFIVTI3aGRNbTR2VFRPNlN3ZWZ5Sld3dVN3TWh0dUVqVmlIbW9ReVRMTFkyZkh5RDFrVWc?oc=5"
+      },
+      {
+        "title": "ICMR Explores New Drug Option For Duchenne Muscular Dystrophy - Outlook India",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 14:09:32 GMT+5 | 키워드+30 | 순위:63위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNThqZVluYm9qS21lSkxablAxdVRiSGdFamlCUDI4SFBVU2R2NFRpWm5UYkRlSUNkRGQ5a1UzY3hfMzRCOXFvSl9MZmhLQ3BzZ0xMN1dQZDI5QW1OeWF6WE9YMjdmNTdRZjYtZS11UX",
+        "published_time": "Fri, 27 Nov 2026 14:09:32 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 14:09:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNThqZVluYm9qS21lSkxablAxdVRiSGdFamlCUDI4SFBVU2R2NFRpWm5UYkRlSUNkRGQ5a1UzY3hfMzRCOXFvSl9MZmhLQ3BzZ0xMN1dQZDI5QW1OeWF6WE9YMjdmNTdRZjYtZS11UXd3Q195RTU3R21tdjFXVjJ5NDZXUTJuNS1BUk1mOUNoOEljQjh6R2hJWlR6R0hWNHhodHA0WXk3a3otZ2hyTTNOQQ?oc=5"
+      },
+      {
+        "title": "Engineering antibiotics could expand the pool of new drug candidates - MIT News",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 10:00:00 GMT+5 | 키워드+30 | 순위:64위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPczgzeUg0MFlNSlVYck4xWDI5WDFRcXpwRFlpekxZbGNrOWE3cDdDcF9fa3lpOGdHYkVmVnBZS0g5UjJHcGZKekZoSVhUMERUZ3lvNFJwYi15NkU2QWY0c1RFV2hTdkg5OWZFaEhMQj",
+        "published_time": "Fri, 27 Nov 2026 10:00:00 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 10:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczgzeUg0MFlNSlVYck4xWDI5WDFRcXpwRFlpekxZbGNrOWE3cDdDcF9fa3lpOGdHYkVmVnBZS0g5UjJHcGZKekZoSVhUMERUZ3lvNFJwYi15NkU2QWY0c1RFV2hTdkg5OWZFaEhMQjRRYkt2eTNvWnZibUs4UENEelZ2R3ZKOXhEYmpXdF9lcHdXeG1jcFVV?oc=5"
+      },
+      {
+        "title": "Expanding antimicrobial chemical space by engineering drug safety - Nature",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 10:21:09 GMT+5 | 키워드+30 | 순위:65위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlaE9jV0NKNmlWTnJnTk9pdHcwUTBrS1FWNldyczloMHZsQ3N4ZjVldWRZZnRyV3pGaWpVZW5TNUxLQVE3SEY3Z0EyN0QzSmRVdS1KX184SkxwZFp6TUo0?oc=5\" target=\"_blank\"",
+        "published_time": "Fri, 27 Nov 2026 10:21:09 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 10:21:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlaE9jV0NKNmlWTnJnTk9pdHcwUTBrS1FWNldyczloMHZsQ3N4ZjVldWRZZnRyV3pGaWpVZW5TNUxLQVE3SEY3Z0EyN0QzSmRVdS1KX184SkxwZFp6TUo0?oc=5"
+      },
+      {
+        "title": "Antibiotic misuse fuels rising drug resistance in Kashmir, doctors warn - Kashmir News Observer",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 15:49:44 GMT+5 | 키워드+30 | 순위:68위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3NkbEJDNnVLajNIVkl6UERtdDYxM2Q4NzlmMUg2SzNkWk5SdUduVl9kejN0emZWeGJTdmMyM1dheE9uQzl1MXBxMDlRckE4aVBvS052dUdEUW9SMzJPUVR0Q01oX3UwR1hXTm4wNl",
+        "published_time": "Fri, 27 Nov 2026 15:49:44 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 15:49:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY3NkbEJDNnVLajNIVkl6UERtdDYxM2Q4NzlmMUg2SzNkWk5SdUduVl9kejN0emZWeGJTdmMyM1dheE9uQzl1MXBxMDlRckE4aVBvS052dUdEUW9SMzJPUVR0Q01oX3UwR1hXTm4wNl9ISUlxb1RVMEptU2JnaVVDTXJjY1BrQmRMUEd3NnZoSWJSLU9TQmRPRDhZQUtMMWFHdEY4X09HUkRtYXhBLVN3R2tNeVNWOGVHQ2tzWUJnU0VKQzBKcERJUQ?oc=5"
+      },
+      {
+        "title": "Strengthening antibiotic resistance surveillance: Key to protecting treatment efficacy in the era of drug resistance. - Vietnam.vn",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 15:09:54 GMT+5 | 키워드+30 | 순위:69위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzczR0MzMEktRzNkLUNMVGs3ak0teDJWc29BMHJQcThZRExTVmQwQ3hVTW1GQVo0eGk4WVczLXpxVGRsWk14ZEFVNHh6YkFjWU1xU3dIUjZkd0ItZ211TzRxSDM4RHZwN05waGxRR2",
+        "published_time": "Fri, 27 Nov 2026 15:09:54 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 15:09:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzczR0MzMEktRzNkLUNMVGs3ak0teDJWc29BMHJQcThZRExTVmQwQ3hVTW1GQVo0eGk4WVczLXpxVGRsWk14ZEFVNHh6YkFjWU1xU3dIUjZkd0ItZ211TzRxSDM4RHZwN05waGxRR2tCZ05wLTd0cFRTRnN1SzlRVVJYdVd1OFptcjVrRFFZWjJFLTByR0Q0d1hGYmJlczBUZFBBaXlaemlFRHNLS1p6V0VYeHNkb3dtRWwzODZYRkh3LWM?oc=5"
+      },
+      {
+        "title": "Nearly 1 in 3 Pediatric Pneumococci Resist Azithromycin - Drug Topics",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 18:43:39 GMT+5 | 키워드+30 | 순위:70위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3hCRXVqZGY4OUdxcEN6WnIwdW1Ba3RZcmZqTk9rd29EWTEzWHRrd0l1LS1iWkJCWFJfbkVDR3Q2VnlRa3hZLXFmdmladHhsZDZENzFSRjRnREEySlYxdEpuOWxVVVdOQzh0WW0zem",
+        "published_time": "Fri, 27 Nov 2026 18:43:39 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 18:43:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3hCRXVqZGY4OUdxcEN6WnIwdW1Ba3RZcmZqTk9rd29EWTEzWHRrd0l1LS1iWkJCWFJfbkVDR3Q2VnlRa3hZLXFmdmladHhsZDZENzFSRjRnREEySlYxdEpuOWxVVVdOQzh0WW0zemZCeXhtbEhBOVdCeHQxbXJBbXUwYTZKVlVaOUpoYVQ4WmE?oc=5"
+      },
+      {
+        "title": "New Radiotracer Cocktail Detects Drug-Resistant Hospital-Acquired Bacteria Within Hours - The Indian Practitioner",
+        "source": "",
+        "importance": 47,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 12:42:54 GMT+5 | 키워드+30 | 순위:74위+2",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObkxYQUhlQ1g2M1Jucy1JR2Fvemh5MzdhMjU1dG1UTmx0T3pGVXJqbFlTN1p1T0JlSGVvZExsUHppNExqdW13c3gxWjVMR2sydEtBZjJlQV9BWFhkMy1lWlVPNFE3QnRmM3pvVm5Bbz",
+        "published_time": "Fri, 27 Nov 2026 12:42:54 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 12:42:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkxYQUhlQ1g2M1Jucy1JR2Fvemh5MzdhMjU1dG1UTmx0T3pGVXJqbFlTN1p1T0JlSGVvZExsUHppNExqdW13c3gxWjVMR2sydEtBZjJlQV9BWFhkMy1lWlVPNFE3QnRmM3pvVm5BbzJYZlkyRGJRRHNEbjc4MFhwbEt4ODV3N3VMTTMxMDhsUGFfbUdoeW5DcGUxN2NNWmpxeDJTbWJIa2NBU2ZNaUZlNm82Z05TeEhBOHVJZXdCcw?oc=5"
+      }
+    ],
+    "top_keywords": [
+      [
+        "FDA",
+        17
+      ],
+      [
+        "approval",
+        5
+      ],
+      [
+        "pricing",
+        5
+      ],
+      [
+        "recall",
+        5
+      ],
+      [
+        "GLP-1",
+        4
+      ],
+      [
+        "manufacturing",
+        4
+      ],
+      [
+        "generic",
+        2
+      ],
+      [
+        "safety",
+        2
+      ],
+      [
+        "obesity",
+        1
+      ]
+    ],
+    "top_sources": []
+  },
+  "multilingual": {
+    "total": 109,
+    "languages": {
+      "French / 프랑스어": 10,
+      "German / 독일어": 0,
+      "Spanish / 스페인어": 10,
+      "Italian / 이탈리아어": 5,
+      "Portuguese / 포르투갈어": 9,
+      "Dutch / 네덜란드어": 3,
+      "Swedish / 스웨덴어": 1,
+      "Polish / 폴란드어": 1,
+      "Turkish / 터키어": 8,
+      "Russian / 러시아어": 10,
+      "Japanese / 일본어": 0,
+      "Chinese Simplified / 중국어": 5,
+      "Chinese Traditional / 대만": 3,
+      "Vietnamese / 베트남어": 10,
+      "Thai / 태국어": 9,
+      "Indonesian / 인도네시아어": 9,
+      "Hindi / 힌디어": 9,
+      "Arabic / 아랍어": 5,
+      "Hebrew / 히브리어": 2,
+      "Persian / 페르시아어": 0
+    },
+    "top_articles": [
+      {
+        "title": "קבוצת TH: יצירת שרשרת ערך של צמחי מרפא ירוקים העומדת בתקני ESG בנגה אן. - Vietnam.vn",
+        "source": "",
+        "importance": 53,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 12:55:24 GMT+5 | 키워드+20 | 순위:4위+18",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQRTNkOE85WURmUzVmWnY4QmJWWlRpQnJwWURIbndELUFNTC02NENrLVAzc09BbzF1dmdmdnhCS0hvRW9wUHpJUnhRLXdEYk5FMlFNMFlPMnNtaHNYTzhzTEw4TF9NWFR3dWFqUFpUWn",
+        "published_time": "Fri, 27 Nov 2026 12:55:24 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 12:55:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTNkOE85WURmUzVmWnY4QmJWWlRpQnJwWURIbndELUFNTC02NENrLVAzc09BbzF1dmdmdnhCS0hvRW9wUHpJUnhRLXdEYk5FMlFNMFlPMnNtaHNYTzhzTEw4TF9NWFR3dWFqUFpUWnRTZS02dG1LNklxazBaRmE5TWN4elFSMzRjYU8tbWNaZFFqZ2Z0YU5taW50bXJVQQ?oc=5"
+      },
+      {
+        "title": "Da Universidade à indústria: acadêmicos de Farmácia da URI visitam EMS e EUROFARMA em São Paulo - Jornal Boa Vista",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 20:22:22 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYk9zTHl6NWcwTVVRVlpMdFF4Tm5XRnotdkc5Smx1dnRkdGxueHVrTUFMMzBJZEV5Q0ZCRjVaR2xraWZJZC02cUUwZzlmanZWU2hrS2ExUDBWR3NaWXRaSTBEQjJuTlhIS2JxZXBLWl",
+        "published_time": "Fri, 27 Nov 2026 20:22:22 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 20:22:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYk9zTHl6NWcwTVVRVlpMdFF4Tm5XRnotdkc5Smx1dnRkdGxueHVrTUFMMzBJZEV5Q0ZCRjVaR2xraWZJZC02cUUwZzlmanZWU2hrS2ExUDBWR3NaWXRaSTBEQjJuTlhIS2JxZXBLWlk0RTdIS0ktWlZnS1UtT1BQWUFjaHByMmx5c0pVNWV2a01XcDVwZEo2em1WXzZMOGlUbWJ3NWhNTlpVWUVJSFg2WU9CUmhTaU1WU1VrRkFOcTJDZFE?oc=5"
+      },
+      {
+        "title": "Sağlık Bakan Yardımcısı, geleneksel tıp turizminin ekonomiyi canlandıracağını öngörüyor. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 09:48:45 GMT+5 | 키워드+20 | 순위:9위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmk2YmZNaDhRWHZLYVlaMHgyaU1mQ3dFMzFURXBrRVdaUVU0X3d6TUIzMDB1dVc0UVpxc1Rxd0czSF9TUW9wOGZ4ME0wVmJSZFJaLXU2TW82Q3pSZWxYNGt6SXVQZHVMOUZtWnpUT3",
+        "published_time": "Fri, 27 Nov 2026 09:48:45 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 09:48:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmk2YmZNaDhRWHZLYVlaMHgyaU1mQ3dFMzFURXBrRVdaUVU0X3d6TUIzMDB1dVc0UVpxc1Rxd0czSF9TUW9wOGZ4ME0wVmJSZFJaLXU2TW82Q3pSZWxYNGt6SXVQZHVMOUZtWnpUT3JpVG9RbVVsdHZxdExjdVdybVpGWUtIX3dYVHg4NWpvbDFsbGFEajRCVA?oc=5"
+      },
+      {
+        "title": "Hindistan-Vietnam biyoteknoloji ve ilaç iş birliğinin genişletilmesi. - Vietnam.vn",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 08:28:19 GMT+5 | 키워드+25 | 순위:14위+10",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJNSjZfdWllQ2hHekJBQW1KVHQxVWlpS1Q2V3A2ZVBlTy1oOC0tdUVHdUFTZHNya3JpSFBtR0dkaDBHai1mUzhRNkFhbXBtQUU0Y2dPSDJCZFQ3T2VmMXJfalg2V1ZXNFFBSi1fV3",
+        "published_time": "Fri, 27 Nov 2026 08:28:19 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 08:28:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJNSjZfdWllQ2hHekJBQW1KVHQxVWlpS1Q2V3A2ZVBlTy1oOC0tdUVHdUFTZHNya3JpSFBtR0dkaDBHai1mUzhRNkFhbXBtQUU0Y2dPSDJCZFQ3T2VmMXJfalg2V1ZXNFFBSi1fV3Y0aUZ1cjkxTXNqNnR6NzlFVmJXWnY5NkN3OUFra1BraUMxMEpxY2c?oc=5"
+      },
+      {
+        "title": "2026香港国际中医药大会观察：香港正成为国际中医药交流合作枢纽 - 北欧时报",
+        "source": "",
+        "importance": 50,
+        "stars": "⭐⭐⭐",
+        "evidence": "출처:+10 | 최신:Fri, 27 Nov 2026 08:52:33 GMT+5 | 키워드+20 | 순위:10위+15",
+        "snippet": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzJSWVkwMjYwQ3NTbDZ1Ym1Rb2Q2OEZPamxyczZkU1B1cTFQVzd5MG9OeHVvc0xMZjJNTGlzcE1iQ0tWMTNZRUk3OVZyeVUzbk9RYzk3WUgxSTJ2c3I5UUxhYm1xM2pMTVVJWnBKZE",
+        "published_time": "Fri, 27 Nov 2026 08:52:33 GMT",
+        "modified_time": "",
+        "time": "Fri, 27 Nov 2026 08:52:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdzJSWVkwMjYwQ3NTbDZ1Ym1Rb2Q2OEZPamxyczZkU1B1cTFQVzd5MG9OeHVvc0xMZjJNTGlzcE1iQ0tWMTNZRUk3OVZyeVUzbk9RYzk3WUgxSTJ2c3I5UUxhYm1xM2pMTVVJWnBKZERIVXF4UkozRGg1ekowMjkzOVFnang2QQ?oc=5"
+      }
+    ],
+    "top_keywords": [],
+    "top_sources": []
+  }
+}
